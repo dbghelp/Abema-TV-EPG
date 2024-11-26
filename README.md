@@ -25,44 +25,43 @@ In your M3U8 playlist,
 
 2. Change your tvg-id to the following for the respective channels:
   
-| tvg-id            | Channel Name               |
-|-------------------|----------------------------|
-| abema-news        | ABEMA NEWSチャンネル       |
-| news-plus         | ABEMA NEWS会見チャンネル    |
-| abema-special     | ABEMA SPECIALチャンネル    |
-| special-plus      | ABEMA SPECIAL 2チャンネル  |
-| special-plus-2    | ABEMA SPECIAL 3チャンネル  |
-| abema-anime       | ABEMA アニメチャンネル    |
-| abema-anime-2     | ABEMA アニメチャンネル2   |
-| drama             | ドラマ映画チャンネル       |
-| drama-2           | ドラマ映画チャンネル2      |
-| 80s-anime-1       | なつかしアニメ80's         |
-| special-plus-7    | アニメSPECIALチャンネル   |
-| 90s-anime-1       | なつかしアニメ90's         |
-| 00s-anime-1       | なつかしアニメ00's         |
-| precure           | プリキュアチャンネル       |
-| atashinchi        | あたしンちチャンネル       |
-| family-anime-1    | ファミリーアニメ           |
-| family-anime-2    | ファミリーアニメ２         |
-| asia-drama        | 韓国・中国ドラマチャンネル |
-| asia-love-comedy  | 韓国ラブコメディ           |
-| asia-loveromance  | 韓国ラブロマンス           |
-| asia-historical   | 韓国時代劇                 |
-| asia-drama-2      | 韓国・中国ドラマチャンネル2|
-| anime-special-2   | アニメSPECIAL2チャンネル  |
-| k-world           | K WORLDチャンネル          |
-| anime-live        | アニメLIVEチャンネル       |
-| isekai-anime      | 異世界・ファンタジーアニメチャンネル |
-| isekai-anime-2    | 異世界・ファンタジーアニメ2チャンネル |
-| lovecomedy-anime  | ラブコメアニメチャンネル   |
-| dailylife-anime   | 日常・青春アニメチャンネル |
-| late-night-anime  | 深夜アニメチャンネル       |
-| mahjong           | 麻雀チャンネル             |
-| shogi             | 将棋チャンネル             |
-| world-sports      | SPORTSチャンネル           |
-| sumo              | 大相撲チャンネル           |
-| fighting-sports   | 格闘チャンネル             |
-| hiphop            | HIPHOPチャンネル           |
-| commercial        | CMチャンネル               |
-| keirin-auto       | 競輪・オートレースチャンネル |
+| tvg-id              | Channel Name                      |
+|---------------------|-----------------------------------|
+| abema-anime         | ABEMA アニメチャンネル            |
+| abema-anime-2       | ABEMA アニメチャンネル2           |
+| special-plus-7      | アニメSPECIALチャンネル           |
+| anime-special-2     | アニメSPECIAL2チャンネル          |
+| isekai-anime        | 異世界・ファンタジーアニメチャンネル |
+| isekai-anime-2      | 異世界・ファンタジーアニメ2チャンネル|
+| lovecomedy-anime    | ラブコメアニメチャンネル          |
+| dailylife-anime     | 日常・青春アニメチャンネル         |
+| late-night-anime    | 深夜アニメチャンネル              |
+| anime-live          | アニメLIVEチャンネル              |
+| precure             | プリキュアチャンネル              |
+| atashinchi          | あたしンちチャンネル              |
+| family-anime-1      | ファミリーアニメ                 |
+| family-anime-2      | ファミリーアニメ２               |
+| 80s-anime-1         | なつかしアニメ80's                |
+| 90s-anime-1         | なつかしアニメ90's                |
+| 00s-anime-1         | なつかしアニメ00's                |
+| abema-special       | ABEMA SPECIALチャンネル           |
+| special-plus        | ABEMA SPECIAL 2チャンネル         |
+| abema-news          | ABEMA NEWSチャンネル              |
+| news-plus           | ABEMA NEWS会見チャンネル          |
+| asia-drama          | 韓国・中国ドラマチャンネル         |
+| asia-love-comedy    | 韓国ラブコメディ                 |
+| asia-loveromance    | 韓国ラブロマンス                 |
+| asia-historical     | 韓国時代劇                       |
+| asia-drama-2        | 韓国・中国ドラマチャンネル2       |
+| k-world             | K WORLDチャンネル                |
+| drama               | ドラマ映画チャンネル              |
+| drama-2             | ドラマ映画チャンネル2             |
+| mahjong             | 麻雀チャンネル                   |
+| shogi               | 将棋チャンネル                   |
+| world-sports        | SPORTSチャンネル                 |
+| world-sports-1      | SPORTS LIVE1 チャンネル          |
+| fighting-sports     | 格闘チャンネル                   |
+| hiphop              | HIPHOPチャンネル                 |
+| commercial          | CMチャンネル                     |
+| keirin-auto         | 競輪・オートレースチャンネル       |
 
