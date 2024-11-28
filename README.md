@@ -63,5 +63,6 @@ In your M3U8 playlist,
 | fighting-sports     | 格闘チャンネル                   |
 | hiphop              | HIPHOPチャンネル                 |
 | commercial          | CMチャンネル                     |
+| boatrace            | BOATRACEチャンネル               |
 | keirin-auto         | 競輪・オートレースチャンネル       |
 
