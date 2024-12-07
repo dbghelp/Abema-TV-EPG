@@ -124,6 +124,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -131,10 +135,6 @@
 	<channel id="world-sports">
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
-	</channel>
-	<channel id="boxing">
-		<display-name>ボクシングチャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
 	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
@@ -28754,6 +28754,35 @@ Mリーグ2024-25では、新Mリーガー2名が誕生し、総勢36名での�
 チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
+	<programme channel="mahjong-live" start="20241129145000 +0000" stop="20241129170000 +0000">
+		<title>大和証券 Mリーグ2024-25【延長枠】</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+賞金5000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2024-25では、新Mリーガー2名が誕生し、総勢36名でのシーズンとなる。
+2期連続で同じチームメンバー構成でレギュラーシーズン敗退したチームは、最低1名の入れ替えしチーム編成を変更しなければならない。レギュレーション対象は、BEAST X、TEAM雷電がチーム体制変更レギュレーション対象となっている。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10001_p243/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20241129170000 +0000" stop="20241204030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20241204030000 +0000" stop="20241204145000 +0000">
+		<title>第49期最高位決定戦 第3節【ABEMAセレクト】</title>
+		<desc>"麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の頂点最高位を決める戦い"</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-4_s10004_p4/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20241204145000 +0000" stop="20241207115000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20241207115000 +0000" stop="20241207140000 +0000">
+		<title>第23期雀王決定戦2日目【延長枠】</title>
+		<desc>1年かけて戦われる日本プロ麻雀協会の最高峰タイトル。A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出、現雀王・仲林圭とタイトルの座を争う</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/69-68_s10001_p125/thumb001.png" />
+	</programme>
 	<programme channel="shogi" start="20241129074700 +0000" stop="20241129210700 +0000">
 		<title>【再】第82期 名人戦 七番勝負 第1局 藤井聡太名人 対 豊島将之九段</title>
 		<desc>順位戦はフリークラスを除いた棋士をA級からC級2組の5つの組に分けてリーグ戦を行います。A級同率首位の棋士が複数出た場合は同率の棋士全員によるプレーオフとなります。名人とA級優勝者が、例年4月から7月にかけて七番勝負を行います。名人戦とは、将棋界で最も格式と歴史のある「名人」のタイトル称号を懸けて行われる七番勝負。名人戦の予選は順位戦と呼ばれ、A級順位戦の優勝者が挑戦者となります。</desc>
@@ -29600,7 +29629,7 @@ ABEMAランナーとしてフルマラソン初挑戦で、完走を果たした
 		<desc>ーそのチーム、何もかもが異端ー
 J1“初昇格”チーム「町田ゼルビア」の裏側に迫る。
 日本のサッカー史を塗り替える、勝つための方程式とは。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2012_s10000_p102/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2012_s1_p20/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20241207124500 +0000" stop="20241207222500 +0000">
 		<title>LANDIC CHALLENGE 11 1日目</title>
@@ -30143,14 +30172,6 @@ ABEMAランナーとしてフルマラソン初挑戦で、完走を果たした
 ケインやムシアラなど強力攻撃陣擁するバイエルンに対して、佐野海舟はどんなプレーをするのか？
 注目の一戦！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/350-3_s10001_p14/thumb001.png" />
-	</programme>
-	<programme channel="boxing" start="20241207100000 +0000" stop="20241207110500 +0000">
-		<title>7. 7 井岡一翔 vs フェルナンド・マルティネス</title>
-		<desc>2024年7月7日に両国国技館にて開催「LIFETIME BOXING FIGHTS 22」
-そこで行われた井岡一翔 vs フェルナンド・マルティネス(WBA・IBF世界スーパーフライ級王座統一戦 12回戦)をお届け！
-
-そして大晦日では「SANKYO presents LIFETIME BOXING FIGHTS 25」にて、マルティネスとのリベンジマッチをABEMA独占生中継！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/608-2_s100_p30/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20241129092000 +0000" stop="20241129193500 +0000">
 		<title>K-1 WORLD GP JAPAN ~K’FESTA.6~ 2023.3.12</title>
