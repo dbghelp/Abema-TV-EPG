@@ -136,6 +136,10 @@
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
 	</channel>
+	<channel id="fighting-sports3">
+		<display-name>格闘 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports3/logo.png" />
+	</channel>
 	<channel id="hiphop">
 		<display-name>HIPHOPチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/hiphop/logo.png" />
@@ -31918,6 +31922,13 @@ MOMOTARO vs 西元 也史
 		<title>【再】WWE SMACKDOWN×ABEMA #16</title>
 		<desc>毎週金曜夜(現地)に行われる「SMACKDOWN」をお届け!世界最高エンタメ WWE!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s13_p12/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports3" start="20241208060000 +0000" stop="20241208110000 +0000">
+		<title>新日本プロレス WORLD TAG LEAGUE 2024 優勝決定戦</title>
+		<desc>1972年、アントニオ猪木が旗揚げした新日本プロレスは、日本で長い歴史を誇るプロレス団体。「ストロング・スタイル」という熱く激しい闘いを旗印に80年代、90年代には一大プロレス・ブームを巻き起こし、常に日本プロレス界のド真ん中で業界を牽引してきた。現在は日本だけでなく世界中から注目を集めているプロレス団体。
+
+2024年12月8日に開催される「新日本プロレス WORLD TAG LEAGUE 2024」をABEMAで生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-328_s20012_p1/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20241130124500 +0000" stop="20241130160000 +0000">
 		<title>フリースタイルティーチャー：#21〜#27</title>
