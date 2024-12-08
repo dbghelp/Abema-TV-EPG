@@ -136,6 +136,10 @@
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
 	</channel>
+	<channel id="fighting-sports2">
+		<display-name>格闘 2チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports2/logo.png" />
+	</channel>
 	<channel id="fighting-sports3">
 		<display-name>格闘 3チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports3/logo.png" />
@@ -31923,6 +31927,11 @@ MOMOTARO vs 西元 也史
 		<desc>毎週金曜夜(現地)に行われる「SMACKDOWN」をお届け!世界最高エンタメ WWE!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s13_p12/thumb001.png" />
 	</programme>
+	<programme channel="fighting-sports2" start="20241208081500 +0000" stop="20241208130000 +0000">
+		<title>Krush.169</title>
+		<desc>超攻撃型打撃格闘技「Krush」2024年12月8日後楽園ホールで行われる「Krush.169」の模様を生中継！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-146_s10013_p1/thumb001.png" />
+	</programme>
 	<programme channel="fighting-sports3" start="20241208060000 +0000" stop="20241208110000 +0000">
 		<title>新日本プロレス WORLD TAG LEAGUE 2024 優勝決定戦</title>
 		<desc>1972年、アントニオ猪木が旗揚げした新日本プロレスは、日本で長い歴史を誇るプロレス団体。「ストロング・スタイル」という熱く激しい闘いを旗印に80年代、90年代には一大プロレス・ブームを巻き起こし、常に日本プロレス界のド真ん中で業界を牽引してきた。現在は日本だけでなく世界中から注目を集めているプロレス団体。
@@ -32798,13 +32807,13 @@ FG（FUNKY GRAMMAR UNIT） / KOHEI JAPAN / ウィークエンドシャッフル 
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-96_s18_p3/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20241209020000 +0000" stop="20241209030000 +0000">
-		<title>【THE LYRICS】D.O / BES</title>
+		<title>【THE LYRICS】LANA / Bonbero</title>
 		<desc>「THE LYRICS」は、
 歌詞(LYRIC)に込められた意味や想いをアーティストご本人が語ります。
 作詞時のエピソードや、あのパンチラインの誕生秘話etc、、、
 楽曲そしてアーティストをさらに知ることができる番組を目指します。
-本エピソードでは、D.O が"FLY9”の歌詞(LYRIC)について語ります。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-67_s3_p3739/thumb001.png" />
+本エピソードでは、LANAが"PULL UP”の歌詞(LYRIC)について語ります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-67_s3_p3611/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20241209030000 +0000" stop="20241209040000 +0000">
 		<title>Zeebra’s LUNCHTIME BREAKS：Bonbero</title>
