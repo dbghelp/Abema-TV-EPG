@@ -60,10 +60,6 @@
 		<display-name>ファミリーアニメ</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
 	</channel>
-	<channel id="family-anime-2">
-		<display-name>ファミリーアニメ２</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-2/logo.png" />
-	</channel>
 	<channel id="80s-anime-1">
 		<display-name>なつかしアニメ80's</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png" />
@@ -6493,10 +6489,15 @@ U-17 WORLD CUP(アンダーセブンティーンワールドカップ)――
 そこへ、今日も今日とて特ダネを探す小判が現れるが。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/115-72_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="late-night-anime" start="20241221230000 +0000" stop="20241222110000 +0000">
+	<programme channel="late-night-anime" start="20241221230000 +0000" stop="20241222050000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/late-night-anime/logo.png" />
+	</programme>
+	<programme channel="late-night-anime" start="20241222050000 +0000" stop="20241222110000 +0000">
+		<title>休日のわるものさん #1〜12【無料ビデオ1週間】</title>
+		<desc>地球侵略のためにやってきた悪の組織で”将軍”と呼ばれ、日々死闘を繰り広げている“わるものさん”は、休日は仕事を忘れ、完全にオフモードで過ごすことを信条としている。久しぶりの休日である今日。疲れ切った心を癒すべく愛してやまないパンダのいる動物園に向かう。しかし、敵対している地球防衛組織「レンジャー」の一員、アカツキレッドと偶然遭遇してしまい……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/564-9_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="late-night-anime" start="20241222110000 +0000" stop="20241222170000 +0000">
 		<title>ダンダダン #1〜12【無料ビデオ1週間】</title>
@@ -9684,246 +9685,6 @@ U-17 WORLD CUP(アンダーセブンティーンワールドカップ)――
 		<title>あたしンち #207〜225【無料ビデオ1週間】</title>
 		<desc>プールで体脂肪計に乗った母は肥満の結果に焦り、思い切って体脂肪計を買うことに。家族は嫌がる母を無理矢理乗せてもの凄い数字を期待するが、想像を遥かに超える５１%という数字が出る。身体の半分が脂肪だった事に驚く家族で…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p207/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241207140000 +0000" stop="20241207170300 +0000">
-		<title>犬夜叉 #115〜120【無料ビデオ1週間】</title>
-		<desc>力が増した白霊山の聖域に阻まれ、千代達の村から去った桔梗だが、七人隊の行く末を確かめるため、蛮骨のあとを追う。殺生丸は蛇骨と睡骨の襲撃を受け、りんをさらわれてしまう。医者の顔に戻った睡骨はりんを連れて千代達の村に帰るが、本性は七人隊のままだった。一方、桔梗は、睡骨の汚れた四魂の気配を察知する。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s3_p115/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241207170300 +0000" stop="20241207220000 +0000">
-		<title>忍者ハットリくん #7〜19【無料ビデオ1週間】</title>
-		<desc>『シンゾウ危しの巻』…お使いに出かけたシンゾウが帰ってこない。みんなが心配していると誘拐犯と思われる男から電話が来た。ハットリくんとケン一はシンゾウを助けるために、手掛かりを追い、公園で男とシンゾウを見つけるが…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p7/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241207220000 +0000" stop="20241208025700 +0000">
-		<title>忍者ハットリくん #7〜19【無料ビデオ1週間】</title>
-		<desc>『シンゾウ危しの巻』…お使いに出かけたシンゾウが帰ってこない。みんなが心配していると誘拐犯と思われる男から電話が来た。ハットリくんとケン一はシンゾウを助けるために、手掛かりを追い、公園で男とシンゾウを見つけるが…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p7/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241208025700 +0000" stop="20241208060000 +0000">
-		<title>犬夜叉 #115〜120【無料ビデオ1週間】</title>
-		<desc>力が増した白霊山の聖域に阻まれ、千代達の村から去った桔梗だが、七人隊の行く末を確かめるため、蛮骨のあとを追う。殺生丸は蛇骨と睡骨の襲撃を受け、りんをさらわれてしまう。医者の顔に戻った睡骨はりんを連れて千代達の村に帰るが、本性は七人隊のままだった。一方、桔梗は、睡骨の汚れた四魂の気配を察知する。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s3_p115/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241208060000 +0000" stop="20241208105700 +0000">
-		<title>忍者ハットリくん #7〜19【無料ビデオ1週間】</title>
-		<desc>『シンゾウ危しの巻』…お使いに出かけたシンゾウが帰ってこない。みんなが心配していると誘拐犯と思われる男から電話が来た。ハットリくんとケン一はシンゾウを助けるために、手掛かりを追い、公園で男とシンゾウを見つけるが…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p7/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241208105700 +0000" stop="20241208140000 +0000">
-		<title>犬夜叉 #115〜120【無料ビデオ1週間】</title>
-		<desc>力が増した白霊山の聖域に阻まれ、千代達の村から去った桔梗だが、七人隊の行く末を確かめるため、蛮骨のあとを追う。殺生丸は蛇骨と睡骨の襲撃を受け、りんをさらわれてしまう。医者の顔に戻った睡骨はりんを連れて千代達の村に帰るが、本性は七人隊のままだった。一方、桔梗は、睡骨の汚れた四魂の気配を察知する。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s3_p115/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241208140000 +0000" stop="20241208170300 +0000">
-		<title>犬夜叉 #121〜126【無料ビデオ1週間】</title>
-		<desc>白霊山の結界が消滅。犬夜叉を心配するかごめは鋼牙達と白霊山へ向かう。鳴動する白霊山の内部では犬夜叉と蛮骨の決戦が始まっていた。弥勒と珊瑚は白霊山内で、ついに奈落を発見するが、神楽の風刃で足場を崩されて転落する。蛮骨の懐に飛び込み、腕のかけらを奪う犬夜叉だが、蛮骨は七人隊首領の底力を見せつける。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s3_p121/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241208170300 +0000" stop="20241208220000 +0000">
-		<title>忍者ハットリくん #20〜32【無料ビデオ1週間】</title>
-		<desc>『ケン一くん空をとぶの巻』…ケムマキのラジコン飛行機に対抗して、ハットリくんの作った人力飛行機に乗るため特訓を重ねるケン一。いよいよ飛行に挑戦するが、なかなかうまく飛ぶことが出来ない。そこでハットリくんは秘策を考え出す。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p20/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241208220000 +0000" stop="20241209025700 +0000">
-		<title>忍者ハットリくん #20〜32【無料ビデオ1週間】</title>
-		<desc>『ケン一くん空をとぶの巻』…ケムマキのラジコン飛行機に対抗して、ハットリくんの作った人力飛行機に乗るため特訓を重ねるケン一。いよいよ飛行に挑戦するが、なかなかうまく飛ぶことが出来ない。そこでハットリくんは秘策を考え出す。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p20/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241209025700 +0000" stop="20241209060000 +0000">
-		<title>犬夜叉 #121〜126【無料ビデオ1週間】</title>
-		<desc>白霊山の結界が消滅。犬夜叉を心配するかごめは鋼牙達と白霊山へ向かう。鳴動する白霊山の内部では犬夜叉と蛮骨の決戦が始まっていた。弥勒と珊瑚は白霊山内で、ついに奈落を発見するが、神楽の風刃で足場を崩されて転落する。蛮骨の懐に飛び込み、腕のかけらを奪う犬夜叉だが、蛮骨は七人隊首領の底力を見せつける。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s3_p121/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241209060000 +0000" stop="20241209105700 +0000">
-		<title>忍者ハットリくん #20〜32【無料ビデオ1週間】</title>
-		<desc>『ケン一くん空をとぶの巻』…ケムマキのラジコン飛行機に対抗して、ハットリくんの作った人力飛行機に乗るため特訓を重ねるケン一。いよいよ飛行に挑戦するが、なかなかうまく飛ぶことが出来ない。そこでハットリくんは秘策を考え出す。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p20/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241209105700 +0000" stop="20241209140000 +0000">
-		<title>犬夜叉 #121〜126【無料ビデオ1週間】</title>
-		<desc>白霊山の結界が消滅。犬夜叉を心配するかごめは鋼牙達と白霊山へ向かう。鳴動する白霊山の内部では犬夜叉と蛮骨の決戦が始まっていた。弥勒と珊瑚は白霊山内で、ついに奈落を発見するが、神楽の風刃で足場を崩されて転落する。蛮骨の懐に飛び込み、腕のかけらを奪う犬夜叉だが、蛮骨は七人隊首領の底力を見せつける。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s3_p121/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241209140000 +0000" stop="20241209170300 +0000">
-		<title>犬夜叉 #127〜132【無料ビデオ1週間】</title>
-		<desc>かごめが現代に戻ると、学校は文化祭準備の真っ最中。手伝うことになったかごめは、料理発表のアイデアを頼まれ、戦国時代から持ってきた干物を食材にしようと思いつく。しかし、その干物は、煮ると復活する妖怪。文化祭当日、料理発表用に学校に運ばれた干物は、暖められた鍋の湯気を浴び次々に妖怪に復活する。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s3_p127/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241209170300 +0000" stop="20241209220000 +0000">
-		<title>忍者ハットリくん #33〜45【無料ビデオ1週間】</title>
-		<desc>『お風呂屋さんは大混乱の巻』…家のお風呂がこわれてお風呂屋さんに行く夢子ちゃん。ケン一達もみんなでお風呂屋さんに行くことにするのだが、ケムマキと影千代も来て大騒ぎに。さらに夢子ちゃんがいる女風呂をのぞこうとするケムマキ達をハットリくんは止めようとして…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p33/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241209220000 +0000" stop="20241210025700 +0000">
-		<title>忍者ハットリくん #33〜45【無料ビデオ1週間】</title>
-		<desc>『お風呂屋さんは大混乱の巻』…家のお風呂がこわれてお風呂屋さんに行く夢子ちゃん。ケン一達もみんなでお風呂屋さんに行くことにするのだが、ケムマキと影千代も来て大騒ぎに。さらに夢子ちゃんがいる女風呂をのぞこうとするケムマキ達をハットリくんは止めようとして…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p33/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241210025700 +0000" stop="20241210060000 +0000">
-		<title>犬夜叉 #127〜132【無料ビデオ1週間】</title>
-		<desc>かごめが現代に戻ると、学校は文化祭準備の真っ最中。手伝うことになったかごめは、料理発表のアイデアを頼まれ、戦国時代から持ってきた干物を食材にしようと思いつく。しかし、その干物は、煮ると復活する妖怪。文化祭当日、料理発表用に学校に運ばれた干物は、暖められた鍋の湯気を浴び次々に妖怪に復活する。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s3_p127/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241210060000 +0000" stop="20241210105700 +0000">
-		<title>忍者ハットリくん #33〜45【無料ビデオ1週間】</title>
-		<desc>『お風呂屋さんは大混乱の巻』…家のお風呂がこわれてお風呂屋さんに行く夢子ちゃん。ケン一達もみんなでお風呂屋さんに行くことにするのだが、ケムマキと影千代も来て大騒ぎに。さらに夢子ちゃんがいる女風呂をのぞこうとするケムマキ達をハットリくんは止めようとして…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p33/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241210105700 +0000" stop="20241210140000 +0000">
-		<title>犬夜叉 #127〜132【無料ビデオ1週間】</title>
-		<desc>かごめが現代に戻ると、学校は文化祭準備の真っ最中。手伝うことになったかごめは、料理発表のアイデアを頼まれ、戦国時代から持ってきた干物を食材にしようと思いつく。しかし、その干物は、煮ると復活する妖怪。文化祭当日、料理発表用に学校に運ばれた干物は、暖められた鍋の湯気を浴び次々に妖怪に復活する。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s3_p127/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241210140000 +0000" stop="20241210165700 +0000">
-		<title>犬夜叉 #133〜138【無料ビデオ1週間】</title>
-		<desc>殺生丸の前に現れた謎の女・娑蘿。殺生丸のため犬夜叉の鉄砕牙を奪い取り、弥勒や珊瑚をガラス像にしてしまう。だが、かごめが娑蘿の数珠を砕いて、弥勒達を助ける。殺生丸に鉄砕牙を献上しようとする娑蘿。しかし、殺生丸は娑蘿が物の怪に取り憑かれていると見破る。物の怪は、殺生丸を取り込むため娑蘿を利用したのだ。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p133/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241210165700 +0000" stop="20241210220000 +0000">
-		<title>忍者ハットリくん #46〜58【無料ビデオ1週間】</title>
-		<desc>『こわ～い家庭訪問の巻』…学校でいつも掃除をさぼっているケン一は先生から生活態度の悪さを注意され、家庭訪問でママに報告されることになってしまった。ママに怒られたくないケン一は、ハットリくん達に頼み家庭訪問に来た先生を追い返そうとするのだが…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p46/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241210220000 +0000" stop="20241211030300 +0000">
-		<title>忍者ハットリくん #46〜58【無料ビデオ1週間】</title>
-		<desc>『こわ～い家庭訪問の巻』…学校でいつも掃除をさぼっているケン一は先生から生活態度の悪さを注意され、家庭訪問でママに報告されることになってしまった。ママに怒られたくないケン一は、ハットリくん達に頼み家庭訪問に来た先生を追い返そうとするのだが…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p46/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241211030300 +0000" stop="20241211060000 +0000">
-		<title>犬夜叉 #133〜138【無料ビデオ1週間】</title>
-		<desc>殺生丸の前に現れた謎の女・娑蘿。殺生丸のため犬夜叉の鉄砕牙を奪い取り、弥勒や珊瑚をガラス像にしてしまう。だが、かごめが娑蘿の数珠を砕いて、弥勒達を助ける。殺生丸に鉄砕牙を献上しようとする娑蘿。しかし、殺生丸は娑蘿が物の怪に取り憑かれていると見破る。物の怪は、殺生丸を取り込むため娑蘿を利用したのだ。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p133/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241211060000 +0000" stop="20241211110300 +0000">
-		<title>忍者ハットリくん #46〜58【無料ビデオ1週間】</title>
-		<desc>『こわ～い家庭訪問の巻』…学校でいつも掃除をさぼっているケン一は先生から生活態度の悪さを注意され、家庭訪問でママに報告されることになってしまった。ママに怒られたくないケン一は、ハットリくん達に頼み家庭訪問に来た先生を追い返そうとするのだが…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p46/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241211110300 +0000" stop="20241211140000 +0000">
-		<title>犬夜叉 #133〜138【無料ビデオ1週間】</title>
-		<desc>殺生丸の前に現れた謎の女・娑蘿。殺生丸のため犬夜叉の鉄砕牙を奪い取り、弥勒や珊瑚をガラス像にしてしまう。だが、かごめが娑蘿の数珠を砕いて、弥勒達を助ける。殺生丸に鉄砕牙を献上しようとする娑蘿。しかし、殺生丸は娑蘿が物の怪に取り憑かれていると見破る。物の怪は、殺生丸を取り込むため娑蘿を利用したのだ。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p133/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241211140000 +0000" stop="20241211170700 +0000">
-		<title>犬夜叉 #139〜144【無料ビデオ1週間】</title>
-		<desc>『坤の刃』で鉄砕牙の妖力を奪った星黄泉はかごめを捕らえ、風雷神社まで来いと告げて去る。四人衆の妖忍法に翻弄される犬夜叉達。かごめから奪った霊力で力を得た坤の刃は、秋時が守っていた乾の刃を風雷神社に呼び寄せる。犬夜叉達は辛くも妖忍達を倒すが、乾の刃は星黄泉に渡り、乾坤の薙刀が完成してしまう。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p139/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241211170700 +0000" stop="20241211202300 +0000">
-		<title>忍者ハットリくん #59〜66【無料ビデオ1週間】</title>
-		<desc>『ケン一氏は名監督でござるの巻』…誕生日に8ミリカメラをもらったケン一は大喜び。早速カメラを使って自分が主演の忍者映画を作ることにする。しかし忍者の動きを到底真似できないケン一は、主役をハットリくんに変更して撮影を続けるのだが、ハットリくんはカメラを意識しすぎて上手く立ち振る舞えなくなってしまう。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p59/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241211202300 +0000" stop="20241211220000 +0000">
-		<title>ジャングルはいつもハレのちグゥ #1〜4【無料ビデオ1週間】</title>
-		<desc>ジャングルの村で暮すヴェダ（母）とハレ（息子）。ある日、ジャングルで怪しい気配を感じるハレ。その夜母が美少女グゥを連れて来た。翌日、グゥに飲み込まれたハレは、彼女が体内に人が暮す異世界をもつ化物と知る。外に戻されたハレは村人たちをグゥから守るためため、色々気を配りながら毎日を暮らすことになる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-21jawjxfkwuj_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241211220000 +0000" stop="20241212011600 +0000">
-		<title>忍者ハットリくん #59〜66【無料ビデオ1週間】</title>
-		<desc>『ケン一氏は名監督でござるの巻』…誕生日に8ミリカメラをもらったケン一は大喜び。早速カメラを使って自分が主演の忍者映画を作ることにする。しかし忍者の動きを到底真似できないケン一は、主役をハットリくんに変更して撮影を続けるのだが、ハットリくんはカメラを意識しすぎて上手く立ち振る舞えなくなってしまう。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p59/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241212011600 +0000" stop="20241212025300 +0000">
-		<title>ジャングルはいつもハレのちグゥ #1〜4【無料ビデオ1週間】</title>
-		<desc>ジャングルの村で暮すヴェダ（母）とハレ（息子）。ある日、ジャングルで怪しい気配を感じるハレ。その夜母が美少女グゥを連れて来た。翌日、グゥに飲み込まれたハレは、彼女が体内に人が暮す異世界をもつ化物と知る。外に戻されたハレは村人たちをグゥから守るためため、色々気を配りながら毎日を暮らすことになる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-21jawjxfkwuj_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241212025300 +0000" stop="20241212060000 +0000">
-		<title>犬夜叉 #139〜144【無料ビデオ1週間】</title>
-		<desc>『坤の刃』で鉄砕牙の妖力を奪った星黄泉はかごめを捕らえ、風雷神社まで来いと告げて去る。四人衆の妖忍法に翻弄される犬夜叉達。かごめから奪った霊力で力を得た坤の刃は、秋時が守っていた乾の刃を風雷神社に呼び寄せる。犬夜叉達は辛くも妖忍達を倒すが、乾の刃は星黄泉に渡り、乾坤の薙刀が完成してしまう。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p139/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241212060000 +0000" stop="20241212091600 +0000">
-		<title>忍者ハットリくん #59〜66【無料ビデオ1週間】</title>
-		<desc>『ケン一氏は名監督でござるの巻』…誕生日に8ミリカメラをもらったケン一は大喜び。早速カメラを使って自分が主演の忍者映画を作ることにする。しかし忍者の動きを到底真似できないケン一は、主役をハットリくんに変更して撮影を続けるのだが、ハットリくんはカメラを意識しすぎて上手く立ち振る舞えなくなってしまう。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p59/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241212091600 +0000" stop="20241212105300 +0000">
-		<title>ジャングルはいつもハレのちグゥ #1〜4【無料ビデオ1週間】</title>
-		<desc>ジャングルの村で暮すヴェダ（母）とハレ（息子）。ある日、ジャングルで怪しい気配を感じるハレ。その夜母が美少女グゥを連れて来た。翌日、グゥに飲み込まれたハレは、彼女が体内に人が暮す異世界をもつ化物と知る。外に戻されたハレは村人たちをグゥから守るためため、色々気を配りながら毎日を暮らすことになる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-21jawjxfkwuj_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241212105300 +0000" stop="20241212140000 +0000">
-		<title>犬夜叉 #139〜144【無料ビデオ1週間】</title>
-		<desc>『坤の刃』で鉄砕牙の妖力を奪った星黄泉はかごめを捕らえ、風雷神社まで来いと告げて去る。四人衆の妖忍法に翻弄される犬夜叉達。かごめから奪った霊力で力を得た坤の刃は、秋時が守っていた乾の刃を風雷神社に呼び寄せる。犬夜叉達は辛くも妖忍達を倒すが、乾の刃は星黄泉に渡り、乾坤の薙刀が完成してしまう。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p139/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241212140000 +0000" stop="20241212171000 +0000">
-		<title>犬夜叉 #145〜150【無料ビデオ1週間】</title>
-		<desc>火の国に辿り着いた犬夜叉達は、山中の洞穴に巨大な門を発見する。それこそ、あの世とこの世の境へと通じる門だったが、門番の牛頭と馬頭が立ち塞がった。犬夜叉は結界破りの赤い鉄砕牙で門の鎖を砕き、扉を開く。しかしそこへ現れた神楽が奈落の妖怪を引き連れ先乗りしてしまう。その時、開いた扉の奥から光が放たれた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p145/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241212171000 +0000" stop="20241212220000 +0000">
-		<title>ジャングルはいつもハレのちグゥ #5〜16【無料ビデオ1週間】</title>
-		<desc>熱が出たので保健室に行ったハレは、女好きの新任の保険医に女の子に間違われた挙句、男だからと手酷く追い返される。母子家庭と聞き、ハレの母親に会いたいと、家に押しかける保険医クライブは、ヴェダの昔の担当医でハレの父親だった。最低男が実の父と知りガッカリのハレ。グゥに慰められて戻ると懲りない父の姿が。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-21jawjxfkwuj_s0_p5/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241212220000 +0000" stop="20241213025000 +0000">
-		<title>ジャングルはいつもハレのちグゥ #5〜16【無料ビデオ1週間】</title>
-		<desc>熱が出たので保健室に行ったハレは、女好きの新任の保険医に女の子に間違われた挙句、男だからと手酷く追い返される。母子家庭と聞き、ハレの母親に会いたいと、家に押しかける保険医クライブは、ヴェダの昔の担当医でハレの父親だった。最低男が実の父と知りガッカリのハレ。グゥに慰められて戻ると懲りない父の姿が。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-21jawjxfkwuj_s0_p5/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241213025000 +0000" stop="20241213060000 +0000">
-		<title>犬夜叉 #145〜150【無料ビデオ1週間】</title>
-		<desc>火の国に辿り着いた犬夜叉達は、山中の洞穴に巨大な門を発見する。それこそ、あの世とこの世の境へと通じる門だったが、門番の牛頭と馬頭が立ち塞がった。犬夜叉は結界破りの赤い鉄砕牙で門の鎖を砕き、扉を開く。しかしそこへ現れた神楽が奈落の妖怪を引き連れ先乗りしてしまう。その時、開いた扉の奥から光が放たれた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p145/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241213060000 +0000" stop="20241213105000 +0000">
-		<title>ジャングルはいつもハレのちグゥ #5〜16【無料ビデオ1週間】</title>
-		<desc>熱が出たので保健室に行ったハレは、女好きの新任の保険医に女の子に間違われた挙句、男だからと手酷く追い返される。母子家庭と聞き、ハレの母親に会いたいと、家に押しかける保険医クライブは、ヴェダの昔の担当医でハレの父親だった。最低男が実の父と知りガッカリのハレ。グゥに慰められて戻ると懲りない父の姿が。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-21jawjxfkwuj_s0_p5/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241213105000 +0000" stop="20241213140000 +0000">
-		<title>犬夜叉 #145〜150【無料ビデオ1週間】</title>
-		<desc>火の国に辿り着いた犬夜叉達は、山中の洞穴に巨大な門を発見する。それこそ、あの世とこの世の境へと通じる門だったが、門番の牛頭と馬頭が立ち塞がった。犬夜叉は結界破りの赤い鉄砕牙で門の鎖を砕き、扉を開く。しかしそこへ現れた神楽が奈落の妖怪を引き連れ先乗りしてしまう。その時、開いた扉の奥から光が放たれた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p145/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241213140000 +0000" stop="20241213183500 +0000">
-		<title>犬夜叉 #151〜159【無料ビデオ1週間】</title>
-		<desc>白童子の片割れの奈落の赤子は、神無の手で人間の城に隠された。その城下に琥珀の姿が。一方、かごめは死魂虫を追って滝壺に眠る桔梗を見つける。奈落の瘴気に蝕まれた桔梗を救うか否か、問う式神達。かごめは、水中に入り式神達が手に入れた墓土を浄化して桔梗の傷口に当てた。その時、桔梗の内面世界を幻視する。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p151/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241213183500 +0000" stop="20241213222800 +0000">
-		<title>ジャングルはいつもハレのちグゥ #17〜26【無料ビデオ1週間】</title>
-		<desc>健康診断。男子の番で、医者に化ける美女のグゥ。ロッカーから気絶した保険医が見つかり、健康診断は中止となる。翌日、暇なヴェダはアシオと転校生として学校に来る。健康診断を、ヴェダも受けることになり、ヤキモキするハレ。保険医と親密な様子にショックを受け、走り去るハレを、グゥに促されてヴェダが呼び止めた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-21jawjxfkwuj_s0_p17/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241213222800 +0000" stop="20241214022100 +0000">
-		<title>ジャングルはいつもハレのちグゥ #17〜26【無料ビデオ1週間】</title>
-		<desc>健康診断。男子の番で、医者に化ける美女のグゥ。ロッカーから気絶した保険医が見つかり、健康診断は中止となる。翌日、暇なヴェダはアシオと転校生として学校に来る。健康診断を、ヴェダも受けることになり、ヤキモキするハレ。保険医と親密な様子にショックを受け、走り去るハレを、グゥに促されてヴェダが呼び止めた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-21jawjxfkwuj_s0_p17/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241214022100 +0000" stop="20241214065600 +0000">
-		<title>犬夜叉 #151〜159【無料ビデオ1週間】</title>
-		<desc>白童子の片割れの奈落の赤子は、神無の手で人間の城に隠された。その城下に琥珀の姿が。一方、かごめは死魂虫を追って滝壺に眠る桔梗を見つける。奈落の瘴気に蝕まれた桔梗を救うか否か、問う式神達。かごめは、水中に入り式神達が手に入れた墓土を浄化して桔梗の傷口に当てた。その時、桔梗の内面世界を幻視する。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p151/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241214065600 +0000" stop="20241214104900 +0000">
-		<title>ジャングルはいつもハレのちグゥ #17〜26【無料ビデオ1週間】</title>
-		<desc>健康診断。男子の番で、医者に化ける美女のグゥ。ロッカーから気絶した保険医が見つかり、健康診断は中止となる。翌日、暇なヴェダはアシオと転校生として学校に来る。健康診断を、ヴェダも受けることになり、ヤキモキするハレ。保険医と親密な様子にショックを受け、走り去るハレを、グゥに促されてヴェダが呼び止めた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-21jawjxfkwuj_s0_p17/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241214104900 +0000" stop="20241214153700 +0000">
-		<title>犬夜叉 #151〜159【無料ビデオ1週間】</title>
-		<desc>白童子の片割れの奈落の赤子は、神無の手で人間の城に隠された。その城下に琥珀の姿が。一方、かごめは死魂虫を追って滝壺に眠る桔梗を見つける。奈落の瘴気に蝕まれた桔梗を救うか否か、問う式神達。かごめは、水中に入り式神達が手に入れた墓土を浄化して桔梗の傷口に当てた。その時、桔梗の内面世界を幻視する。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p151/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241214153700 +0000" stop="20241214195000 +0000">
-		<title>犬夜叉 #160〜166【無料ビデオ1週間】</title>
-		<desc>桔梗を思い続ける犬夜叉に落ち込んだかごめは犬夜叉には告げずに現代に帰る。すると犬夜叉はかごめの家までかごめを追ってくるが、かごめがママからもらった自転車を破壊。犬夜叉は弁償のためアルバイトを開始する。一方、かごめの落ち込みぶりを心配した由加、絵里、あゆみがかごめの家まで犬夜叉に会いに来た。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p160/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241214195000 +0000" stop="20241215000300 +0000">
-		<title>犬夜叉 #160〜166【無料ビデオ1週間】</title>
-		<desc>桔梗を思い続ける犬夜叉に落ち込んだかごめは犬夜叉には告げずに現代に帰る。すると犬夜叉はかごめの家までかごめを追ってくるが、かごめがママからもらった自転車を破壊。犬夜叉は弁償のためアルバイトを開始する。一方、かごめの落ち込みぶりを心配した由加、絵里、あゆみがかごめの家まで犬夜叉に会いに来た。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p160/thumb001.png" />
-	</programme>
-	<programme channel="family-anime-2" start="20241215000300 +0000" stop="20241215040000 +0000">
-		<title>犬夜叉 #160〜166【無料ビデオ1週間】</title>
-		<desc>桔梗を思い続ける犬夜叉に落ち込んだかごめは犬夜叉には告げずに現代に帰る。すると犬夜叉はかごめの家までかごめを追ってくるが、かごめがママからもらった自転車を破壊。犬夜叉は弁償のためアルバイトを開始する。一方、かごめの落ち込みぶりを心配した由加、絵里、あゆみがかごめの家まで犬夜叉に会いに来た。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-9_s4_p160/thumb001.png" />
 	</programme>
 	<programme channel="80s-anime-1" start="20241207145400 +0000" stop="20241207181700 +0000">
 		<title>北斗の拳 #41〜47【無料ビデオ1週間】</title>
