@@ -92,10 +92,6 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
-	<channel id="special-plus-2">
-		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -752,13 +748,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20250104013000 +0000" stop="20250104020000 +0000">
 		<title>オーイ！とんぼ #26【WEB最速】</title>
-		<desc>島を出たとんぼの日常は目まぐるしく変化していく――。
-
-高校生となり、熊本での生活をスタートさせたとんぼは、練習場のジュニア生たちとコースでラウンドすることに。トカラで培った自由奔放なゴルフでコースを攻略していくとんぼに対し、1つ年上の実力者・ひのきも決死で応戦。激しい対決を繰り広げる。
-
-とんぼの潜在能力の高さに驚愕したコーチのハジメは、とんぼを5月の九州女子選手権に挑戦させることを決意する。
-
-島で一緒にラウンドしたつぶらや、熊本で出会ったひのきなど、新たなライバルたちとのゴルフを通じて、とんぼがさらに大きく羽ばたいていく！</desc>
+		<desc>九州女子選手権を終えたとんぼは、結果報告のために五十嵐と共に火之島に向かう。二人は熊本での新たな挑戦を改めて振り返る。とんぼを支える人々との出会い。そして、初めて挑んだ試合では、様々な思いを抱いてゴルフに臨むライバルたちの姿があった。ゴルフを通じたとんぼの羽ばたきは止まらない――。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-1_s2_p26/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250104020000 +0000" stop="20250104023000 +0000">
@@ -1517,9 +1507,9 @@
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-13_s1_p39/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250108120000 +0000" stop="20250108130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+		<title>「悪役令嬢転生おじさん」放送直前特番</title>
+		<desc>-</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-777_s10000_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250108130000 +0000" stop="20250108133000 +0000">
 		<title>妖怪学校の先生はじめました！ #13・見逃し放送</title>
@@ -2517,16 +2507,16 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 珠玉のイラストレーター・いとうのいぢが紡ぐ、
 最注目の医療ミステリー逆転劇、
 待望のテレビアニメ化決定!!
-
+ 
 天医会総合病院、統括診断部。
 ここには他の医師が「診療困難」とした患者たちが集められる。
 さらには、警察すら手に負えない原因不明の「殺人」や「謎」も……。
-
+ 
 天才医師・天久鷹央が解き明かす、
 摩訶不思議な「病」に秘められた驚愕の真実とは……！
-
-「その、私が診断を下してやろう――!!」
-
+ 
+「その病気、私が診断を下してやろう――!!」
+ 
 第1話/第2話は原作・知念実希人書き下ろし完全新作エピソード!!
 大きな獣に足を食いちぎられた、青い血の男に隠された秘密とは──？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p28/thumb001.png" />
@@ -6861,7 +6851,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 だけど、いろはを守るためにこむぎが人の姿になってプリキュアに変身しちゃった…！？
 心がガルガルしている子を助けなきゃ…！
 力を合わせて動物たちを【ニコガーデン】にかえしてあげよう！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p103/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-65_s1_p47/thumb001.png" />
 	</programme>
 	<programme channel="precure" start="20250111233000 +0000" stop="20250112000000 +0000">
 		<title>ABCテレビ・テレビ朝日系列で「わんだふるぷりきゅあ！」が放送</title>
@@ -13533,6 +13523,63 @@ First StageからThird Stageまでの17バトルをリメイク。
 		<desc>その日、ルノワールの秘密をつかんだのはライバルのセザンヌだった。秘密を使って戦いを有利に進めようとするセザンヌ。ルノワールもまた、その身体に秘められた武器を使って強力な攻撃を始める！ 芸術の都パリ、後に印象派と呼ばれるルノワールたちが総出演。芸術史の闇に葬られた壮大な絵画対決が始まる！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s4_p1/thumb001.png" />
 	</programme>
+	<programme channel="00s-anime-1" start="20250112190000 +0000" stop="20250112210300 +0000">
+		<title>ロックマンエグゼ アクセス #2〜5【無料ビデオ1週間】</title>
+		<desc>メイル、チサオと共にネットシティの見学に向かった熱斗は、突如現れた巨大UFOがネットシティを破壊していく様に遭遇、シティを守るため巨大UFOに乗り込むロックマンだがビーストマンの攻撃に倒れてしまう。そして再び実体化したビーストマンを阻止する為、クロスフュージョンした熱斗とロックマンはバトルチップで戦う。ビーストマンは倒したが、ネットシティはUFOに吸収され消滅してしまう。熱斗＆ロックマンはネットセイバーに任命される。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-67_s2_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250112210300 +0000" stop="20250112222700 +0000">
+		<title>トリコ #100〜102【無料ビデオ1週間】</title>
+		<desc>モンチーは恵方巻きを作ることによって占いを行うのだが、そのためには占う内容に見合った恵方巻きの具材が必要なのだという。そこへ、鍋池が凍ったという知らせが舞い込む。加えて一龍から、鍋池の主・マダムフィッシュを四天王全員で捕獲するよう、緊急指令が下された！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-8_s0_p100/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250112222700 +0000" stop="20250112233700 +0000">
+		<title>ギャグマンガ日和 #1〜12【無料ビデオ1週間】</title>
+		<desc>「シール」／「シール2」
+「こんなの売れるか～（怒）!」　期待の新商品ドッキリチャンチョコに同封されたシールとは!?　商品開発の驚くべき真実が明かされる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250112233700 +0000" stop="20250113014000 +0000">
+		<title>ロックマンエグゼ アクセス #2〜5【無料ビデオ1週間】</title>
+		<desc>メイル、チサオと共にネットシティの見学に向かった熱斗は、突如現れた巨大UFOがネットシティを破壊していく様に遭遇、シティを守るため巨大UFOに乗り込むロックマンだがビーストマンの攻撃に倒れてしまう。そして再び実体化したビーストマンを阻止する為、クロスフュージョンした熱斗とロックマンはバトルチップで戦う。ビーストマンは倒したが、ネットシティはUFOに吸収され消滅してしまう。熱斗＆ロックマンはネットセイバーに任命される。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-67_s2_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250113014000 +0000" stop="20250113030400 +0000">
+		<title>トリコ #100〜102【無料ビデオ1週間】</title>
+		<desc>モンチーは恵方巻きを作ることによって占いを行うのだが、そのためには占う内容に見合った恵方巻きの具材が必要なのだという。そこへ、鍋池が凍ったという知らせが舞い込む。加えて一龍から、鍋池の主・マダムフィッシュを四天王全員で捕獲するよう、緊急指令が下された！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-8_s0_p100/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250113030400 +0000" stop="20250113061500 +0000">
+		<title>頭文字[イニシャル]D Fourth Stage #13～18【無料72時間】</title>
+		<desc>雨飛沫をあげて走って行く渉のレビン。追走する啓介のＦＤ。後半戦はヒルクライム、壮絶な雨中のバトルが続く！2台は雨煙を撒きあげ、もつれるようにコーナーを駆け上がる。先行の渉はスーパーチャージャーのレビンを操って走り抜けて行く。激しくレビンを追う啓介のＦＤ。一瞬たりとも気の抜けないバトルは、3本目に突入！！一段と激しくなる土砂降りの中、啓介に勝機はあるのか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s4_p13/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250113061500 +0000" stop="20250113072500 +0000">
+		<title>ギャグマンガ日和 #1〜12【無料ビデオ1週間】</title>
+		<desc>「シール」／「シール2」
+「こんなの売れるか～（怒）!」　期待の新商品ドッキリチャンチョコに同封されたシールとは!?　商品開発の驚くべき真実が明かされる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250113072500 +0000" stop="20250113092800 +0000">
+		<title>ロックマンエグゼ アクセス #2〜5【無料ビデオ1週間】</title>
+		<desc>メイル、チサオと共にネットシティの見学に向かった熱斗は、突如現れた巨大UFOがネットシティを破壊していく様に遭遇、シティを守るため巨大UFOに乗り込むロックマンだがビーストマンの攻撃に倒れてしまう。そして再び実体化したビーストマンを阻止する為、クロスフュージョンした熱斗とロックマンはバトルチップで戦う。ビーストマンは倒したが、ネットシティはUFOに吸収され消滅してしまう。熱斗＆ロックマンはネットセイバーに任命される。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-67_s2_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250113092800 +0000" stop="20250113105200 +0000">
+		<title>トリコ #100〜102【無料ビデオ1週間】</title>
+		<desc>モンチーは恵方巻きを作ることによって占いを行うのだが、そのためには占う内容に見合った恵方巻きの具材が必要なのだという。そこへ、鍋池が凍ったという知らせが舞い込む。加えて一龍から、鍋池の主・マダムフィッシュを四天王全員で捕獲するよう、緊急指令が下された！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-8_s0_p100/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250113105200 +0000" stop="20250113140300 +0000">
+		<title>頭文字[イニシャル]D Fourth Stage #13～18【無料72時間】</title>
+		<desc>雨飛沫をあげて走って行く渉のレビン。追走する啓介のＦＤ。後半戦はヒルクライム、壮絶な雨中のバトルが続く！2台は雨煙を撒きあげ、もつれるようにコーナーを駆け上がる。先行の渉はスーパーチャージャーのレビンを操って走り抜けて行く。激しくレビンを追う啓介のＦＤ。一瞬たりとも気の抜けないバトルは、3本目に突入！！一段と激しくなる土砂降りの中、啓介に勝機はあるのか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s4_p13/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250113140300 +0000" stop="20250113171600 +0000">
+		<title>頭文字[イニシャル]D Fourth Stage #13～18【無料72時間】</title>
+		<desc>雨飛沫をあげて走って行く渉のレビン。追走する啓介のＦＤ。後半戦はヒルクライム、壮絶な雨中のバトルが続く！2台は雨煙を撒きあげ、もつれるようにコーナーを駆け上がる。先行の渉はスーパーチャージャーのレビンを操って走り抜けて行く。激しくレビンを追う啓介のＦＤ。一瞬たりとも気の抜けないバトルは、3本目に突入！！一段と激しくなる土砂降りの中、啓介に勝機はあるのか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s4_p13/thumb001.png" />
+	</programme>
 	<programme channel="abema-special" start="20241229140000 +0000" stop="20241229160000 +0000">
 		<title>チャンスの時間#296〜年末ブチギレSP！永野vsアンジャッシュ渡部で大暴走!!</title>
 		<desc>【行列のできるブチギレ相談所２時間SP】
@@ -16583,20 +16630,25 @@ M-1、キングオブコントファイナリストの悩みとは？
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!赤いブランド・RAWは火曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s10006_p67/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250107150000 +0000" stop="20250107170000 +0000">
-		<title>チャンスの時間 #253~254</title>
-		<desc>【新春！カミングアウト漫才！】
-M-1の登竜門⁉
-M-1王者の令和ロマン、ファイナリストのマユリカも参戦！
+	<programme channel="special-plus" start="20250107150000 +0000" stop="20250107160000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20250107160000 +0000" stop="20250107170000 +0000">
+		<title>チャンスの時間#254～アンジャッシュ渡部が水着グラドルやギャルと大はしゃぎ!?</title>
+		<desc>【アンジャッシュ渡部の今やっていいはしゃぎダメなはしゃぎ】
 
-ダイタクが双子ならではの暴露話で、親が倍悲しむことに⁉
-幼馴染のマユリカもお互いに話してないことが続出！
-令和ロマン「M-1後に影響ないですか？」M-1王者の2024年に悪影響を及ぼすかもしれない暴露連発！
-マシンガンズ、ギャロップモ参戦で、THE SECONDの決勝の再現！
-ベテランの哀愁漂う暴露ネタで王者をつかみ取れるか⁉
+未だに反省モードが抜けないアンジャッシュ渡部…
+地上波復帰を本格的に果たすためにも“やっていいはしゃぎ”と“ダメなはしゃぎ”を千鳥が見極め!!
+食リポや若手芸人との絡みに始まり、
+空手着から谷間チラ見せのグラドルとの営業コント、
+そして、ギャルとのTikTok撮影…渡部がはしゃぎまくる!?
+大悟「もっとやっていい！」に渡部困惑!?
+
 
 千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p253/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p254/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250107170000 +0000" stop="20250107180000 +0000">
 		<title>山本裕典、ホストへの軌跡 波乱の新章開幕 episode.0</title>
@@ -16643,7 +16695,12 @@ M-1王者の令和ロマン、ファイナリストのマユリカも参戦！
 		<desc>優柔不断だが心優しい吉尾(成田凌)、劇団を主宰する欽一(高良健吾)と役者の明石(若葉竜也)、既婚者となったソース( 浜野謙太)、会社員で後輩気質の大成(藤原季節)、唯一地元に残ってネジ工場で働くネジ(目次立樹)、高校時代の帰宅部仲間がアラサーを迎えた今、久しぶりに友人の結婚式で再会した! 満を辞して用意した余興はかつて文化祭で披露した赤フンダンス。赤いフンドシ一丁で踊る。恥ずかしい。でも新郎新婦のために一世一代のダンスを踊ってみせよう!! そして迎えた披露宴。...終わった...だだスベりで終わった。こんな気持ちのまま、二次会までは3時間。長い、長すぎる。そし て誰からともなく、学生時代に思いをはせる。でも思い出すのは、しょーもないことばかり。 「それにしても吉尾、お前ほんとに変わってねーよな。なんでそんなに変わらねーんだ?まいっか、どうでも。」 そう、僕らは認めなかった、ある日突然、友人が死んだことを──。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/170-73_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250108030000 +0000" stop="20250108060000 +0000">
+	<programme channel="special-plus" start="20250108030000 +0000" stop="20250108040000 +0000">
+		<title>しくじり先生 史上最悪 地獄の夏フェス #245~246</title>
+		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p278/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250108040000 +0000" stop="20250108060000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -16835,190 +16892,6 @@ ABEMAでボートレースが観られる！ボートレースの発信拠点『
 		<title>特命係長 只野仁 ABEMATVオリジナル 第3~4話【無料1週間】</title>
 		<desc>ミカド銀行5000万円横領事件の犯人・加藤(谷田歩)が出所した。だが銀行の監査ではまだ2億円もの大金が行方不明だという。黒川会長(梅宮辰夫)の特命を受けた只野(高橋克典)は加藤の動きを見張る。彼の同僚だった田川の妻・冴子(大島優香)と加藤の間にただならぬ雰囲気を感じた只野は、加藤に接触を試みるが...。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-13_s0_p3/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20241229090000 +0000" stop="20241229180000 +0000">
-		<title>トリック3(2003年) 全話一挙</title>
-		<desc>episode1 「密室の謎言霊で人を操る男」
-
-蛾眉村に、謎の男・芝川玄奘(森本レオ)が現われる。神聖な森を汚す者には天罰が下ると、森に居座る玄奘。彼は、ナント言葉にしたことを必ず現実にすることができるのだ! 彼が何かを口にすると、意志とは関係なく皆その通りになる。人だけでなく、自然界さえも......。
-
-森のリゾート開発計画の関係者たちが次々と事故に遭遇!開発会社勤務の相沢(甲本雅裕)は玄奘の信者集団に潜入するものの、自殺を宣告されてしまう! 相沢に玄奘のインチキを暴いて欲しいと頼まれた上田(阿部寛)は、奈緒子(仲間由紀恵)と共に村へ行き...!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-20_s3_p1/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20241229180000 +0000" stop="20241229213500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20241229213500 +0000" stop="20241230014400 +0000">
-		<title>わかっていても the shapes of love #1〜7</title>
-		<desc>鎌倉にある美術大学に特別臨時講師として海外から赴任してきた漣（れん／28歳）。
-若き天才芸術家である漣は、誰もが近づきたくなる吸引力と、誰にも深入りさせないミステリアスな魅力を併せ持つ“沼男”。
-まるで、花に群がる蝶のように、常に誰かが彼の周りを囲んでいた。
-
-才能溢れる漣は、周囲の期待に応えるように一見器用に生きながらも、周りの人々に対しどこか諦めに近い感情を抱いていた。
-しかし、他とは違うある女性・美羽（みう／27歳）に出会う。
-
-漣と同じ美術大学で彫刻学科の助手として働く彼女は、在学中に思うような結果を出せず、卒業後も彫刻家としての夢を諦められずに助手という形で大学に残りながら、海外渡航の道を探っていた。
-燻った自分とは正反対な、稀有な才能をもちながらも多くを望まず飄々と生きているように見える漣に、憧れと嫉妬と悔しさを混ぜた感情をぶつけてしまう。
-そんな彼女に漣も興味を持ちはじめ――</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/342-7_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20241230014400 +0000" stop="20241230060000 +0000">
-		<title>どうせもう逃げられない 全話一挙【無料1週間】</title>
-		<desc>就職活動中の野田蔵なほは、当面の生活費のため短期アルバイトの採用面接を受ける事に。面接に向かう途中、なほは痴話ゲンカをしている男女に遭遇する。その男は女性をあしらうため、たまたまそこにいたなほを新しい彼女扱いする。男のいい加減な態度に腹を立てたなほは、思わず彼を突き飛ばしてしまう。そして面接に向かったデザイン会社「ソロ・デザインオフィス」事務所にいたのは、先ほどの男、事務所代表の向坂拓己だった──。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/601-19_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20241230060000 +0000" stop="20241230114500 +0000">
-		<title>月曜21時とわかっていても #1~3</title>
-		<desc>週のはじまり月曜日の夜。
-なんだか物足りない丸山礼。
-明日も早いしお風呂に入って寝なきゃと、わかっているのに…
-ふとABEMAを開いて「わかっていても」を見始めたら、
-語り明かさずにはいられない夜がはじまるのであった...</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/342-7_s1_p801/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20241230114500 +0000" stop="20241230130000 +0000">
-		<title>月曜21時とわかっていても</title>
-		<desc>週のはじまり月曜日の夜。
-なんだか物足りない丸山礼。
-明日も早いしお風呂に入って寝なきゃと、わかっているのに…
-ふとABEMAを開いて「わかっていても」を見始めたら、
-語り明かさずにはいられない夜がはじまるのであった...</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/342-7_s10000_p4/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20241230130000 +0000" stop="20241230152100 +0000">
-		<title>きみの瞳が問いかけている【ABEMA初/無料1週間】</title>
-		<desc>目は不自由だか明るく愛くるしい明香里と、罪を犯しキックボクサーとしての未来を絶たれた塁。小さな勘違いから出会った二人は惹かれあい、ささやかながらも掛け替えのない幸せを手にした―かに見えた。ある日、明香里は、誰にも言わずにいた秘密を塁に明かす。彼女は自らが運転していた車の事故で両親を亡くし、自身も視力を失っていたのだ。以来、ずっと自分を責めてきたという明香里。だが、彼女の告白を聞いた塁は、彼だけが知るあまりに残酷な運命の因果に気付いてしまっていた―。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/161-53_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20241230152100 +0000" stop="20241230160500 +0000">
-		<title>恋と知った日</title>
-		<desc>■あらすじ
-渚（南沙良）、大学2年生、恋人なし。
-こんなに人がたくさん住んでいる街で、このまま自分だけひとりぼっちなのではないかと不安になった彼女は、
-マッチングアプリで恋人を探すも、好きな人に出会えず恋を諦めかけていた。
-しかし、これで最後にしようと決めた日に啓太郎（板垣瑞生）に出会う。
-彼は渚が今まで感じたことがないほど心地が良くて、運命のように思える人だった。
-気がついたら彼が生活に溶け込んでいて、一緒に暮らす毎日が宝物のようになっていく。
-……でも、それが怖かった。
-幸福のあとには必ず不幸がおとずれる。
-それが、この世のセオリーだから…。
-
-"別れよう"という言葉で、私たちは確かに恋人同士だったのだと、気づいた。
-
-■番組概要
-「ABEMA」・「MIRRORLIAR FILMS」 オリジナル短編映画
-
-—はじめから、終わりが来るなんてわかってた—
-マッチングアプリでみつけた、"大好き"な人。
-『付き合おう』とか、『今日から恋人ね』とかそんな言葉は交わさなかった—。
-宝物のような日々に 突然訪れる選択。
-きっと誰もが心の奥にしまっている
-"忘れられない恋"を描いた儚いラブストーリー。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/635-1_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20241230160500 +0000" stop="20241231060000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20241231060000 +0000" stop="20241231140000 +0000">
-		<title>SANKYO presents LIFETIME BOXING FIGHTS25</title>
-		<desc>王者・マルティネスの欠場により井岡一翔のWBA世界スーパーフライ級ダイレクトリマッチは中止となりました。
-
-12月31日に大田区総合体育館で行われる「SANKYO presents LIFETIME BOXING FIGHTS 25」をABEMA独占生中継！
-
-▼予定カード
-第１試合　髙橋虹空 vs 愛甲隼人（フェザー級 ４回戦）
-第２試合　中田雅大 vs 山城勇希（スーパーバンタム級 ４回戦）
-第３試合　為田真生 vs 緑川創（72.0kg契約 ６回戦）
-第４試合　白石聖 vs 佐藤剛（スーパーフライ級 ８回戦）
-第５試合　篠田将人 vs 向山太尊（58.0kg契約 ８回戦）
-第６試合　加藤亜礼史 vs 鈴木雅弘（スーパーライト級 ８回戦）
-第７試合　ウー ハンユン vs 木村吉光（ライト級 ８回戦）
-第８試合　堤駿斗 vs レネ・アルバラード（WBA世界スーパーフェザー級挑戦者決定戦）19時半開始予定
-
-▼キャスト
-実況：高柳謙一 , 西 達彦　
-解説：内山高志 , 内藤大助 , 畑山隆則
-ゲスト：山本 千尋
-レポーター：西澤 由夏</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/608-2_s10014_p3/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20241231140000 +0000" stop="20250101053000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250101053000 +0000" stop="20250101090000 +0000">
-		<title>もうすぐプロレス初め！1.1 NOAH日本武道館！第2試合まで無料生中継SP</title>
-		<desc>あけまして日本武道館！
-プロレスリング・ノア1.1日本武道館大会直前！日本武道館から生中継！
-世界のプロレスファンが注目する中邑真輔vs佐々木憂流迦、そしてGHCヘビー級選手権 清宮海斗vsOZAWAの見どころを徹底解説。
-さらに第2試合まで無料生中継！
-これを見なければプロレスファンの2025年は始まらない！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-18_s10002_p3/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250101090000 +0000" stop="20250102050000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250102050000 +0000" stop="20250102135000 +0000">
-		<title>さよならプロポーズ via ギリシャ 全話一挙＋特別編初放送</title>
-		<desc>「“好き”だけじゃ、結婚できないの？」
-付き合いながらも結婚に踏み出せないカップルが、
-「結婚するか」「別れるか」を決断する、”恋人として最後”の旅行。
-
-今回決断の旅に出るのは
-交際約3年。プロポーズしたものの入籍に踏み切れないアオイ(27)と、
-同棲開始をきっかけに愛情表現の減少に悩むモナ(30)。
-そして、「“好き”だけで結婚して良いのか」と悩むシュウヘイ(30)と、
-進まない関係に不安が募るものの、嫌われたくないという気持ちから飲み込んでしまうカホ(30)。
-
-最愛の人と向き合い、自分自身と向き合う７日間で、
-彼らが選択するのは　涙の結婚か？涙の別れか？
-
-
-提供：一般社団法人 未来ウエディングJAPAN</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1303_s3_p1001/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250102135000 +0000" stop="20250106070000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250106070000 +0000" stop="20250106120000 +0000">
-		<title>わかっていても the shapes of love 全話一挙</title>
-		<desc>鎌倉にある美術大学に特別臨時講師として海外から赴任してきた漣（れん／28歳）。
-若き天才芸術家である漣は、誰もが近づきたくなる吸引力と、誰にも深入りさせないミステリアスな魅力を併せ持つ“沼男”。
-まるで、花に群がる蝶のように、常に誰かが彼の周りを囲んでいた。
-
-才能溢れる漣は、周囲の期待に応えるように一見器用に生きながらも、周りの人々に対しどこか諦めに近い感情を抱いていた。
-しかし、他とは違うある女性・美羽（みう／27歳）に出会う。
-
-漣と同じ美術大学で彫刻学科の助手として働く彼女は、在学中に思うような結果を出せず、卒業後も彫刻家としての夢を諦められずに助手という形で大学に残りながら、海外渡航の道を探っていた。
-燻った自分とは正反対な、稀有な才能をもちながらも多くを望まず飄々と生きているように見える漣に、憧れと嫉妬と悔しさを混ぜた感情をぶつけてしまう。
-そんな彼女に漣も興味を持ちはじめ――</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/342-7_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250106120000 +0000" stop="20250111043000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250111043000 +0000" stop="20250111104500 +0000">
-		<title>SDGs推進 TGC しずおか 2025</title>
-		<desc>『SDGs推進 TGC しずおか 2025』をABEMAにて無料生中継！
-
-日本を代表する人気モデルや俳優、アイドル、アーティスト、動画クリエイターたちが静岡に大集結！
-ファッションショーやライブパフォーマンスだけでなく、ここでしか見ることのできないスペシャルステージも！
-
-8回目を迎えさらにパワーアップしてお届けするTGC北九州にご期待ください！
-
-#TGCしずおか #ABEMAでTGC をつけてご視聴ください！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/140-29_s10000_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20241229150000 +0000" stop="20241229161000 +0000">
 		<title>#アベプラ傑作選③/ABEMA NEWS</title>
@@ -20821,6 +20694,367 @@ ABEMAでボートレースが観られる！ボートレースの発信拠点『
 		<desc>ソルロンタン店を営むパク・ソンジャは、ワーキングマザーである長女のミソンを手伝うため毎朝奔走する。次女のミリは大企業のマーケティング部長。末娘のミヘは、元人気作家。重要な打ち合わせに向かっていたミリは、新入社員のハン・テジュとぶつかってしまう。コーヒーが服についたミリはテジュに着ているシャツを脱げと言い...。一方ミヘは、書店に残った最後の自分の小説を、ある男性が購入したのを見届ける。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-86_s1_p1/thumb001.png" />
 	</programme>
+	<programme channel="asia-drama" start="20250106230000 +0000" stop="20250107002000 +0000">
+		<title>たった一人の私の味方 第12話【平日毎朝8時放送】</title>
+		<desc>遊園地へ行こうというグムビョンのため、ドランとデリュクと一緒に遊園地に行ってきたスイルは、撮った写真のデリュクの視線がドランに向いてることが気にかかる。一方、デリュクはドランのためにスヒョンとの関係を整理する決心をする。自分の気持ちを伝えようとドランに近付くデリュク。そして会食の帰りにドランを家まで送っていったデリュクは、そこではっきりと自分の気持ちをドランに告げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-139_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107002000 +0000" stop="20250107014000 +0000">
+		<title>オクニョ 運命の女(ひと) 第30話</title>
+		<desc>チョン・ナンジョンは捕らえたオクニョを殺すよう手下に命じる。チョンドンは、オクニョを殺すという会話を耳にして、助けを求めにソン・ジホンのもとへ行くが・・・。ソン・ジホンは、チョン・ナンジョンの仕入れた薬材を奪うために出払っていた。一方、オクニョの亡くなった母の親友だったという女官が、ある事実を握っていることがわかる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-87_s1_p30/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107014000 +0000" stop="20250107040000 +0000">
+		<title>ピノキオ 第17〜18話【イ・ジョンソク &amp; パク・シネ主演】</title>
+		<desc>証拠をもって、イナとボムジョはそれぞれ母親に会いに行く。イナはMSCでは報道できないことを知り、内部告発での退職を覚悟でハミョンに証拠を託す。それを見たハミョンとジェミョンは、涙を流す。しかし、ボムジョはイナに、母に近づかないようにと忠告する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-165_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107040000 +0000" stop="20250107052000 +0000">
+		<title>ジャイアント 第51話【平日毎日13時放送】</title>
+		<desc>ウジュが自分の息子だと知ったミヌは記者に圧力をかけて記事を差し止める。そして、幼稚園に足を運びウジュと楽しく遊んで過ごす。足しげく幼稚園に通う息子を見たピリョンはウジュがミヌとミジュの子供であることを知る。第二の金融会社設立に向けて投資者を募っていたジョンヨンは、ガンモの紹介で光明建設の会長令嬢から投資を受けることになり喜ぶが、二人の親しそうな様子を見て複雑な思いを抱く。漢江建設ではボイラー開発を指揮していたヤン理事が実験中に大ヤケドを負ってしまう。その後、ガンモはようやくボイラー事故の原因を突き止める。元工場長はガンモに万宝建設が開発した新しいボイラーの技術を秘かに伝える。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-68_s1_p51/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107052000 +0000" stop="20250107063500 +0000">
+		<title>奇皇后-ふたつの愛 涙の誓い 第47回 仮面の正体【チ・チャンウク出演】</title>
+		<desc>タファンはヤンに殺される悪夢に悩まされ、再び酒に溺れるように。ヤンを支持する臣下たちは前皇后の件でペガンの罷免を求める。ところが、ペガンは自ら職を退くと申し出ることで、タファンの一層の信頼を勝ち取る。対立をあらわにしたヤンとペガンは、どちらかが消えるまで戦うと互いに宣言する。一方、メバク商団の頭はペガンに接近。その頭の正体は...。皇宮を出たマハは毎日寺で祈っていた。ワン・ユはそんなマハを励ます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-89_s1_p47/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107063500 +0000" stop="20250107073000 +0000">
+		<title>紳士とお嬢さん 第7話</title>
+		<desc>ヨングクは子どもたちとの距離を縮めるためダンダンに協力を求める。そんな中、ダンダンは家政婦のおばさんから最も自分に懐いている末っ子のセジョンが養子だと聞かされる。その会話を聞きつけたサラがものすごい形相で近づいてきて烈火のごとく怒り出し、2人は震え上がる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-41_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107073000 +0000" stop="20250107095000 +0000">
+		<title>嫉妬の化身 ～恋の嵐は接近中!～ 第7〜8話</title>
+		<desc>兄が亡くなり、家から追い出されてしまったファシンは、テレビ局の宿直室で寝泊まりするようになる。朝の放送を担当することになったナリも宿直室で寝泊まりをする。ジョンウォンとナリが二人で携帯を見ながら笑っている姿を見たファシンは、その動画が入院部屋で撮った動画だと勘違いし腹を立てる。そんなファシンは、ジョンウォンとナリの仲むつまじい姿を見て、つきあってみろと持ちかけるのだが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-183_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107095000 +0000" stop="20250107110500 +0000">
+		<title>ファントム 第5話 クォンの疑い</title>
+		<desc>セガン証券にシステム攻撃の脅迫があり、捜査に向かったウヒョンは、そこでセガン証券の代表チョ・ヒョンミンが亡くなったウヒョンと接点があったことを知る。ウヒョンになりすますギヨンはヒョンミンとの関係を調べるが、なかなか掴むことができない。一方、チーム長のクォンはウヒョンの行動を怪しんでいた。そんな中、国際的ハッカー集団「デヒョン」がセガン証券の事件の裏に存在することが判明。大規模なDDoS攻撃の計画が浮かび上がる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-162_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107110500 +0000" stop="20250107115700 +0000">
+		<title>愛の温度 第1話【ヤン・セジョン主演】【今日のイチオシ！】</title>
+		<desc>脚本家のヒョンスは、自分の脚本通りに撮ってくれない監督と現場で言い争いになる。そんな状態の中ヒョンスはジョンソンと再会する。5年前、29歳の青春とともに去ってから片時も忘れたことがなかった彼がそこにいた。時は5年前--ランニング同好会で顔を合わせたジョンソンに、出会ったその日に告白され...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-14_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107115700 +0000" stop="20250107120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107120000 +0000" stop="20250107141500 +0000">
+		<title>ピノキオ 第19〜20話(終)【イ・ジョンソク &amp; パク・シネ主演】</title>
+		<desc>チャオクが、MSCとロサ会長との癒着を話し始めたことで、ロサ会長は立場が危うくなる。イナは、MSCで報道できないことに歯がゆさを感じながらも、ハミョンにチャオクの話を伝える。一方ボムジョは、様々な策で難を逃れようとする母に心を痛め、チャンスの家に向かう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-165_s1_p19/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107141500 +0000" stop="20250107163000 +0000">
+		<title>ドクターズ〜恋する気持ち 第14〜15話</title>
+		<desc>ジホンから父が作ったクッパを出され、嫌がるヘジョン。さらに母の写真を持って病院に訪ねてきた父にヘジョンは...。一方、子供たちの手術費のため、仕事を増やすナム。子供たちは父の言うことを守り、病院で仲良く過ごしていた。しかしお金の工面がうまくいかず、ナムは次第に追い詰められていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-9_s1_p14/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107163000 +0000" stop="20250107174500 +0000">
+		<title>復讐代行人2〜模範タクシー〜 第5〜6話</title>
+		<desc>軍隊時代の後輩をタクシーに乗せたドギは、自身の持つトラウマを思い出す。会社には模範タクシーの面々の他に新人運転手のオン・ハジュンが加わり、和やかな空気が流れていた。そんな中、高齢の女性から新たな依頼が。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-129_s2_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107174500 +0000" stop="20250107230000 +0000">
+		<title>白い嘘 第1〜8話【日替わり一挙】</title>
+		<desc>愛するジョンウと幸せな日々を送っていたウニョン。しかしジョンウは突然姿を消してしまう。 街で彼を見かけて後を追ったウニョンは交通事故に遭い、おなかの子を死産で失う。それから5年の月日が流れ...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-75_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250107230000 +0000" stop="20250108002000 +0000">
+		<title>たった一人の私の味方 第13話【平日毎朝8時放送】</title>
+		<desc>デリュクはドランに振り向いてもらうためにスイルに助けを求めるが、デリュクのことを信用できないスイルはきっぱりとそれを断る。ドランはレシピ公募展に当選した賞金でスイルとグムビョンへ贈り物を買って訪ねたが、ドランにあまり良い感情を持っていなかったダヤに八つ当たりされてしまう。しかしその現場を目撃され、かえって叱られてしまったダヤは泣きながら実家へ帰ってしまうのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-139_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108002000 +0000" stop="20250108013500 +0000">
+		<title>オクニョ 運命の女(ひと) 第31話</title>
+		<desc>疫病を偽装した罪で捕らえられたチョン・ナンジョン。そのころ、オクニョは王の密使〔=明宗(ミョンジョン)〕に会い、母カビが東宮(とうぐう)殿の元女官で、ユン・ウォニョンの刺客によって殺されたことを打ち明ける。その後、養父チ・チョンドクの元に帰ったオクニョは、母の遺品は指輪以外に高価な髪飾りがあり、チョン・ナンジョンの手に渡った後に役人が持ち主を探していたことを聞く。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-87_s1_p31/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108013500 +0000" stop="20250108040000 +0000">
+		<title>華麗なる遺産 第7〜8話【イ・スンギ主演】</title>
+		<desc>ウンソンに遺産を相続すると家族に宣言したスクチャは、ヨンナンとファン、ジョンに働かない者は追い出すと告げ、全員から車のキーやカードを取り上げ、勤労を命じる。本店勤務を命じられたファンは、反発し家を出たものの生活がままならず、しぶしぶ出勤する。そこでウンソンにたしなめられたファンは、ウンソンに遺産の話をしてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-177_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108040000 +0000" stop="20250108052000 +0000">
+		<title>ジャイアント 第52話【平日毎日13時放送】</title>
+		<desc>ウジュのDNA検査をアメリカに依頼したミヌは、ガンモに事業協力を申し出て「ミジュのためならなんでもする」と言うが、ガンモはそれをはねつける。その頃、経営難の企業を整理し廃業させるという案が大統領から出て、ピリョンはそれを利用して漢江建設を潰そうと目論む。そんな父の姿を見て、ミヌは「ガンモの父を誰が殺したか知っている。これ以上罪を犯さないでほしい」と言うが相手にされない。ピリョンはウジュを拉致してアメリカに送り、自分の孫に相応しい教育を受けさせようと考え、DNA検査の結果を改ざん。ウジュが自分の息子ではないという嘘の報告を見てショックを受けたミヌは、ピリョンの思惑通りガンモの工場への放火を思い立つ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-68_s1_p52/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108052000 +0000" stop="20250108063500 +0000">
+		<title>奇皇后-ふたつの愛 涙の誓い 第48回 避けられぬ戦い【チ・チャンウク出演】</title>
+		<desc>ソ尚宮(サングン)がタファンにマハの出生の秘密を話そうとしたとき、ヤンが現れる。あわてたソ尚宮は...。ヤンは意識を取り戻したタファンを再び薬で眠らせ、自分の居所、興徳殿(こうとくでん)に移す。すぐにペガンがタファンを連れ戻しに来るが、ヤンが追い返す。ヤンはペガンとの戦いに決着をつけると決意していた。やがて、タファンの生死も確認できないペガンはヤンの暗殺を計画。タルタルに私兵を集めるよう命じる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-89_s1_p48/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108063500 +0000" stop="20250108073000 +0000">
+		<title>紳士とお嬢さん 第8話</title>
+		<desc>しらを切り通せなくなったサラは出産の事実と、その子をヨングクの家の前に捨てたことを泣きながら母ギジャに告白する。ギジャはヨングク家のセジョンが自分の孫だと知り...。そんな中、ヨングクが姉のように慕うエナがアメリカから帰国する。エナはダンダンの実母ジヨンだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-41_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108073000 +0000" stop="20250108095000 +0000">
+		<title>嫉妬の化身 ～恋の嵐は接近中!～ 第9〜10話</title>
+		<desc>局内の会食で自分の代わりに酒を飲んで酔い潰れてしまったナリを宿直室まで送り届けたファシンは、ベッドで眠ってしまったナリを抱き締める。その現場を運悪くホン・ヘウォンに目撃され、ファシンは動揺する。会食の途中で二人が抜け出したことでファシンとナリが交際していると社内でうわさになってしまう。その話はジョンウォンの耳にまで入ることになり...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-183_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108095000 +0000" stop="20250108110500 +0000">
+		<title>ファントム 第6話 ギヨンとウヒョン</title>
+		<desc>ウヒョンの正体はギヨンだと疑い、逮捕しようとするクォン。そんな中、デハン電力がサイバー攻撃を受け、停電によりソウルの都市機能は混乱する。ウヒョンとクォンはデハン電力に向かい、ウヒョンは犯人の攻撃を止めるため、ハッキングにより彼らのシステム破壊を試みる。間一髪のところで攻撃は止まったかに思えたが、最終攻撃が開始。ウヒョンは最後の手段を使い攻撃を食い止めるが、それは彼が「ハデス」だと証明するものだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-162_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108110500 +0000" stop="20250108115700 +0000">
+		<title>SKYキャッスル〜上流階級の妻たち〜 第1話【今日のイチオシ！】</title>
+		<desc>上流階級のうち、選ばれた者しか住むことのできないSKYキャッスル。そこに住むソジンたちは自分の子どもをソウル医大に入れようと必死になっていた。そんなある日、息子ヨンジェをソウル医大に合格させたミョンジュをねぎらうパーティーが開催されるが、ソジンには魂胆があり...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-16_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108115700 +0000" stop="20250108120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108120000 +0000" stop="20250108142500 +0000">
+		<title>華麗なる遺産 第9〜10話【イ・スンギ主演】</title>
+		<desc>スクチャがウヌの捜索に乗り出したことで、追い詰められたソンヒは、自分でウヌを連れ戻そうと動き出す。ある日、ファンはスクチャに足をくじいてしまったウンソンの墓参りの運転手役を命じられ、ウンソンの実母が他界していることを知る。一方、ジュンセは父親からジョンとの結婚を勧められ...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-177_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108142500 +0000" stop="20250108165000 +0000">
+		<title>青春ウォルダム～運命を乗り越えて～ 第17〜18話</title>
+		<desc>うわごとを言い食事も取れないミョンアン大君を心配するハヨン公主は、心の病を治せると評判の法師の元へひそかに大君を連れていく。そこで何者かに襲われるが、護衛として付き添っていたソンオンに助けられる。ソンオンが見た敵の顔は、なんとテガンであった。宮殿に戻り斬られたはずのテガンの左肩を確認するが傷はない。ファンに双子なのかと問われて否定するテガン。しかし、テガンは書庫で双子の兄と鉢合わせ...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-361_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108165000 +0000" stop="20250108180500 +0000">
+		<title>復讐代行人2〜模範タクシー〜 第7〜8話</title>
+		<desc>トラクターに乗って詐欺師らの前に現れたドギは、正体を隠して彼らの行く手を邪魔する。その後、詐欺師らは何とか抽選会の開催にこぎつけるが、ドギたちはあの手この手で妨害する。ついにはチャン代表も作戦に加わり...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-129_s2_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108180500 +0000" stop="20250108230000 +0000">
+		<title>女王の教室 第1〜4話【日替わり一挙】</title>
+		<desc>サンドゥル小学校の始業式。ハナの6年生が始まった。友達のナリから新しい担任が“魔女”と呼ばれてると聞いて恐れをなすハナ。そしてマ先生は、その名にふさわしく新学期早々にテストを実施し、ビリの生徒に学級委員をやらせると宣言する。ドングの悪ふざけで筆箱を落としたハナは鉛筆が折れて、答えを書くことができず...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-220_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250108230000 +0000" stop="20250109002000 +0000">
+		<title>たった一人の私の味方 第14話【平日毎朝8時放送】</title>
+		<desc>ダヤはドランに謝れというジングクの言葉に仕方なく謝罪をする。仕事のためにドランと食事をすることになったデリュクは、ドランが身につけていた腕時計がスイルから贈られたものであることを知り疑問を抱く。その日の夜、グムビョンのネックレスをウニョンがダヤに渡したことでグムビョンは大激怒。またもひどく叱られてしまったダヤは、泣きながらドランの代わりになる介護福祉士を捜してほしいとホンシルに頼むのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-139_s1_p14/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109002000 +0000" stop="20250109013500 +0000">
+		<title>オクニョ 運命の女(ひと) 第32話</title>
+		<desc>オクニョは明宗(ミョンジョン)から、チョン・ナンジョンが政治上の取り引きで放免になったと聞き、ユン・ウォニョンとチョン・ナンジョンがいかに強敵かを思い知る。オクニョは母が東宮殿の女官で、一緒に仕えていた女官全員が謎の死を遂げていることを明宗に話す。宮廷に戻った明宗は、お付きの女官、ハン尚宮(サングン)を呼び、東宮殿の女官たちが死んだ理由を知っているか尋ねる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-87_s1_p32/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109013500 +0000" stop="20250109040000 +0000">
+		<title>屋根部屋のプリンス 第11〜12話</title>
+		<desc>王世子イ・ガクはテヨンの携帯電話を取り戻し、サービスセンターでパスワードを解除するが、そこにはテヨンの失踪した日に撮られたテヨンとテムの写真があった。チサンが突然の腹痛に襲われマンボとヨンスルが慌てていると、バーベキューパーティーのために屋根部屋をセナが訪れ、セナのおかげでチサンは無事に病院に搬送される。これをきっかけに臣僚3人が故郷に戻りたがっていることを知り、イ・ガクも胸を痛めるが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-166_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109040000 +0000" stop="20250109052000 +0000">
+		<title>ジャイアント 第53話【平日毎日13時放送】</title>
+		<desc>ミヌが警備員として送り込んだ前科者による放火で工場が焼け落ちるが、不注意による失火と報道され打撃を受けるガンモ。続いて、経営難企業のリストに漢江建設の名前が載っていることを新聞記者の恩師から知らされ、漢江建設の株価が急落。同じ頃、民主化を訴える活動家の学生が情報部の拷問に遭い死亡してしまう。それを知ったソンモは隠蔽されようとしていたその死を暴くよう、テソプに働きかける。保険金の支払いをさせないようミヌが保険会社に手を回したことから、ガンモはさらなる窮地に陥るが、ボイラーに警報装置を付けることを思いつき開発を急ぐ。ピリョンはガンモに帳簿を渡すよう迫り、拒否されると彼を脱税の疑いで連行させる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-68_s1_p53/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109052000 +0000" stop="20250109063500 +0000">
+		<title>奇皇后-ふたつの愛 涙の誓い 第49回 真の味方【チ・チャンウク出演】</title>
+		<desc>タファンはヤンにペガンを殺した罪を悔い、許しを求めるよう命じる。しかし、ヤンは過ちなど犯していないと拒否。ついにタファンはヤンに宮殿を出て寺に行き、罪を認めるまで戻ってくるなと命じる。ヤンもペガンも失ったタファンは、派閥に分かれていた臣下たちを集め、自分への忠誠を示すためにひれ伏しろと命じる。次々と臣下たちがひれ伏す中、タルタルは...。ヤンの不在を好機とばかりに、コルタがタファンを操ろうと動きだす。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-89_s1_p49/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109063500 +0000" stop="20250109073500 +0000">
+		<title>紳士とお嬢さん 第9話</title>
+		<desc>デランは娘セリョンの交際相手デボムの素性が嘘だったと知り、調査会社にデボムの調査を依頼する。一方、ヨンシルの元に5年間消息不明だった弟ゴンから連絡が入り、ゴン、母ダルレ、姪ミリムを隠れ住んでいる離れに招き入れる。そこへデボムも合流し5年ぶりの再会で盛り上がる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-41_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109073500 +0000" stop="20250109095000 +0000">
+		<title>嫉妬の化身 ～恋の嵐は接近中!～ 第11〜12話</title>
+		<desc>目と鼻の先にファシンが越してくることを知ったナリは衝撃のあまり言葉を失う。ナリへの恋心とジョンウォンとの友情の間で苦しむファシン。ナリへの思いを抑えようとすればするほど、その思いは増していく。せめてジョンウォンだけには正直に自分の気持ちを伝えようと呼び出す。一方、ナリはファシンが自分のことを思っているとは夢にも思わず、ファシンの前で無邪気な姿を見せさらにファシンを苦しめる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-183_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109095000 +0000" stop="20250109110500 +0000">
+		<title>ファントム 第7話 ガンミの過去</title>
+		<desc>韓国屈指の進学校、ソンヨン高等学校で生徒が自殺、卒業生のガンミが捜査に向かう。その生徒あてに送られたメールを調べていくうち、「伝説の答案用紙」の噂に辿り着くガンミ。さらに別の生徒が自殺し、単純な自殺ではないと察したガンミは捜査に踏み込んでいく。一方、クォンは、ウヒョンがCK電子のナム代表の死に関与していたとにらみ、ナムの別荘があるリゾートの防犯カメラ映像で、亡くなった当日の映像を調べるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-162_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109110500 +0000" stop="20250109115700 +0000">
+		<title>第3の魅力 第1話【ソ・ガンジュン主演】【今日のイチオシ！】</title>
+		<desc>2012年大晦日。強力班のチーム長、ジュニョンはクラブの前で麻薬密売の張り込みをしていた。そのクラブで二度と会いたくなかった昔の恋人ヨンジェに再会する。時はさかのぼり、20歳の2人は地下鉄でのある事件をきっかけに出会う。ヨンジェに対するジュニョンの印象は最悪で...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-14_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109115700 +0000" stop="20250109120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109120000 +0000" stop="20250109142500 +0000">
+		<title>屋根部屋のプリンス 第13〜14話</title>
+		<desc>互いの気持ちを確認しあったパク・ハとイ・ガクだったが、イ・ガクがいつか朝鮮時代に戻ることを考え、パク・ハは早いうちに思いを断ち切ろうとする。そんな時、イ・ガクから受け取った封筒に飛行機のチケットが入っていたことを知り、パク・ハは何も言わずに姿を消してしまう。消えたパク・ハのことをイ・ガクたちは心配するが、マンボがミミからパク・ハの居所を聞き出し、イ・ガクをパク・ハの所に行かせるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-166_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109142500 +0000" stop="20250109165500 +0000">
+		<title>無法弁護士〜最高のパートナー 第13〜14話</title>
+		<desc>18年前の事件の鍵になる手帳を送ってきた人物はムンスクだと気づくサンピル。彼女の目的はサンピルを使い、オジュをはじめ邪魔な手下を消すことだった。一方、ジェイは行方不明となった母を必死で捜す。ジェイの母はムンスクの命令で手下マンベに監禁されていた。サンピルはデウン派の兄貴分サソリにマンベの裏切りを告げ、ジェイの母を守ってほしいと頼む。コン刑事の話からサソリが怪しいと考えたジェイは、母を救うべくサソリに会おうとするが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-125_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109165500 +0000" stop="20250109181000 +0000">
+		<title>復讐代行人2〜模範タクシー〜 第9〜10話</title>
+		<desc>ドギを慕っているハジュンは、ゴウンの家の内覧にドギが一緒に行くことになり、テンションが上がる。しかしその帰り道、小さな女の子がドギの運転する車の前に飛び出してくる。逃げ出した女の子を皆で追いかけるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-129_s2_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109181000 +0000" stop="20250109230000 +0000">
+		<title>最高です！スンシンちゃん 第1〜4話【IU初主演作】【日替わり一挙】</title>
+		<desc>優秀でキレイな2人の姉とは違って平凡な末っ子スンシンは就職もできず、毎日、次女のイ・ヘシンに蔑まされる。兵役を終えてすぐ、病院で働くパク・チャヌは、雨の中家の近くでスンシンを見かけ、スンシンが自分に思いを寄せていることも知らずにヘシンの近況をたずねる。就職ができずに肩身の狭い思いをするスンシンは、ホテルのアルバイトが決まるのだが、初日からパーティー会場で客とぶつかって客の服を汚してしまう。一方、芸能事務所の代表取締役のシン・ジュノは、スンシンとぶつかったせいで昔の恋人の前で恥をかいてしまい、スンシンの上司にスンシンをクビにしろと言う。アルバイトを1日でクビになったスンシンは、道ばたで芸能事務所の人にスカウトの話を持ちかけられたことを家族に話すも、家族のみんなにバカにされてしまう。そんな中、夫と海外で暮らしていた長女のイ・ヘシンが帰国することになり、母親のキム・ジョンエは、腕によりをかけてごちそうを作っていると、スンシンは、自分の誕生日パーティーの準備だと勘違いする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-33_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250109230000 +0000" stop="20250110002000 +0000">
+		<title>たった一人の私の味方 第15話【平日毎朝8時放送】</title>
+		<desc>ウニョンとホンシルの助けを借り、グムビョンのために介護福祉士を雇ったダヤはドランに面倒を見させるのをやめようとウニョンに話す。一方、社内でデリュクが好きな女性社員を探すと言い出したホン秘書に驚くドラン。どうにかしてホン秘書を止めるようデリュクに言うものの、当のデリュクはどこ吹く風。そんな時、介護福祉士がグムビョンに睡眠薬を飲ませて無理やり眠らせていたことが発覚する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-139_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110002000 +0000" stop="20250110013500 +0000">
+		<title>オクニョ 運命の女(ひと) 第33話</title>
+		<desc>オクニョは、なぜ話をしてくれないのかと問うユン・テウォンに、母を殺したのが彼の父ユン・ウォニョンだからだと告げる。ユン・テウォンは妓楼で酒を飲んでいた明宗(ミョンジョン)に会う。文定大妃(ムンジョンテビ)が明宗を尾行させていることを話し、オクニョが危険なので彼女と会うのは控えてくれと頼む。酒に酔った明宗は大妃に会い、先王の毒殺を企てたことや、女官たちを殺したことを責める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-87_s1_p33/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110013500 +0000" stop="20250110040000 +0000">
+		<title>君の声が聞こえる 第15〜16話</title>
+		<desc>ヘソンの家に不審な電話がかかるようになり、番号を調べたスハはジュングクが公衆電話からかけたものだと気付く。ヘソンは念のためにスハのマンションへ移り住むが、今度はスハの部屋や弁護士事務所に新聞記事のコピーが送り付けられるようになる。一方タルジュンとの親子関係を明かされたドヨンは、彼の裁判で動揺するものの、検事としての役目を毅然と果たそうとする。しかしついに耐え切れなくなった彼女は、ヘソンに無罪を勝ち取ってほしいと懇願し...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-173_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110040000 +0000" stop="20250110052000 +0000">
+		<title>ジャイアント 第54話【平日毎日13時放送】</title>
+		<desc>ジョンヨンはガンモを助けようと金策に走って、漢江建設の株を必死で買い支える。釈放されたガンモは、ジョンヨンの存在そのものが自分の支えだと感謝する。ミジュからガンモを助けてほしいと懇願されたハン副市長は、親しいオ・ビョンタク議員に漢江建設を経営難企業のリストから外すか、せめてリストの発表を延期してほしいと頼み込む。ピリョンはソンモの下に配属された新人女性ヨンスの報告で、チャンソンが学生運動家の拷問死のレポートを書いていたことを知って彼の過去を調べさせる。ジェチュンの調べで、チャンソンは、かつて米軍基地で働いていてピリョンの作戦のために命を落とした軍医の弟だったことが明るみになり...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-68_s1_p54/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110052000 +0000" stop="20250110063500 +0000">
+		<title>奇皇后-ふたつの愛 涙の誓い 第50回 永の別れ【チ・チャンウク出演】</title>
+		<desc>タンギセは、マハがヤンとワン・ユの子だったとタファンに教えあざ笑う。衝撃を受けたタファンだが、自分が秘密を知ったことをヤンに言おうとするタンギセを斬り、口を封じる。ヤンの皇后冊封の式の前日。タファンはワン・ユに高麗(コリョ)王への復位を認める。このときタファンは人知れずある非情な決断をしていた。ヤンはワン・ユにタファンの詔書を渡し、帰国するワン・ユに最後のお願いをする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-89_s1_p50/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110063500 +0000" stop="20250110073000 +0000">
+		<title>紳士とお嬢さん 第10話</title>
+		<desc>離れの大騒動でデボムがスチョルの息子と知ったデランの怒りは凄まじく収まる気配すらない。スチョルたちは詐欺師扱いをされ追い出される。ダンダンはなすすべもないまま...。一方、渡米後の事故で顔が変わってしまったエナだったが成功を収めていてダンダンに償いをしようとダンダンを捜し始める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-41_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110073000 +0000" stop="20250110095000 +0000">
+		<title>嫉妬の化身 ～恋の嵐は接近中!～ 第13〜14話</title>
+		<desc>ボムの描いた絵が壁一面に貼られているのを見たナリは、ファシンが自分に思いを寄せているのではないかと思いはじめる。息子ジョンウォンとナリの交際を反対するキム・テラは、ナリの試験を妨害しようとたくらみカメラテストの時間を早めてしまう。不運は続き、テストの日に中継に出るという話まで持ち上がっていた。ファシンとジョンウォンはそれぞれの思いで窮地に立つナリを助けようとするのだが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-183_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110095000 +0000" stop="20250110110500 +0000">
+		<title>ファントム 第8話 辿り着いた場所</title>
+		<desc>ソンヨン高校の自殺事件は計画的殺人だと推察するウヒョン。犯人が使った携帯電話を分析するうち、犯人が他にも誰かを狙っている可能性が浮かぶ。さらに、被害者がともに奨学生候補だったことが判明する。一方、クォンはナム代表の別荘に出入りしていた人物を割り出そうと画策を錬る。そんな中、ウヒョンは自分に近づいてきた人間がシン事件の犯人を知る鍵を握るとにらみ、自分の恋人だと名乗る新聞記者ヨンジュの行動を探るが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-162_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110110500 +0000" stop="20250110115700 +0000">
+		<title>恋するジェネレーション 第1話【BTOBソンジェ出演】【今日のイチオシ！】</title>
+		<desc>慶(キョン)尚(サン)南道の統営(トンヨン)にある児童施設“愛の家”で暮らしながらヌリ高校に通うイ・ウンビは、同級生からひどいいじめを受けながらもひたむきに暮らしていた。ソウルに住むコ・ウンビョルは統営への修学旅行に参加し友人と楽しい時を過ごしていた。そんな中、チョン・スインと名乗る人物からのメールを受け取り...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-30_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110115700 +0000" stop="20250110120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110120000 +0000" stop="20250110143000 +0000">
+		<title>君の声が聞こえる 第17〜18話(終)</title>
+		<desc>スハの携帯電話を奪ってヘソンを誘い出したジュングクは、続いてスハを呼び出そうとする。もとはヘソンに恨みを抱いていたジュングクだったが、過去の自分同様にスハに殺人を犯させようと企んでいた。スハはグァヌに協力を頼むと同時に、指定の場所へ1人で向かう。一方、送られた新聞記事を見てジュングクの過去を全て知ったグァヌは、単なる殺人鬼だと思われたジュングクに一抹の同情心を覚える。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-173_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110143000 +0000" stop="20250110170000 +0000">
+		<title>グッド・ドクター 第12〜13話【チュウォン主演】</title>
+		<desc>ドハンはシオンに補佐をさせ、母子ともに生かす確率の低かった手術を無事に成功させる。そんなシオンに手術中の勝手な言動を注意しつつ、ねぎらいの言葉をかけるドハン。一方、シオンはユンソに自分の想いが伝えられず、悶々とするばかり。ユンソもシオンの様子が変だと思いながら、まるで気づく様子はない。そんな中、ドハンは手術時に不安になってしまうシオンを克服させようと、シオンを呼び出し仮想手術のトレーニングを開始する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-22_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110170000 +0000" stop="20250110182500 +0000">
+		<title>復讐代行人2〜模範タクシー〜 第11〜12話</title>
+		<desc>ソヨンの養子縁組みの資料がないことを不審に思ったドギたちは、仲介者の存在を調べると共に、ソヨンの抱える心の問題にも気づく。そんな中、カンプロからドギに電話があり、指定した場所に奥さんと一緒に来いと言われる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-129_s2_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110182500 +0000" stop="20250110230000 +0000">
+		<title>輝くか、狂うか 第1〜4話【チャン・ヒョク主演】【日替わり一挙】</title>
+		<desc>不吉な星のもとに生まれた皇子ワン・ソは幼くして皇宮を追放される。成長後、皇宮に戻ったワン・ソは皇帝が命を狙われているのを知り、刺客を追って開封に向かう。開封では渤海最後の王女シンユルが青海商団を率いて商売をしていた。義兄のせいで郭将軍との結婚を強要された彼女は偶然出会ったワン・ソを婚約者だと偽る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-39_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110230000 +0000" stop="20250110234000 +0000">
+		<title>1%の奇跡〜運命を変える恋〜 第16話 １％の幸運(終)</title>
+		<desc>お互いの心を確かめた二人は、ついにギュチョルと対面することになる。また、両親に祝福される結婚がしたいと願うダヒョンのため、二人はダヒョンの実家へ許しをもらいに行く。大反対され追い返されたジェインだったが・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-4_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250110234000 +0000" stop="20250111031000 +0000">
+		<title>運命のように君を愛してる 第1〜3話【チャン・ヒョク主演】</title>
+		<desc>頼まれると断れない性分のキム・ミヨンは、上司や同僚に雑用を押し付けられる日々。
+一方、短命の家系ゆえに世継ぎを望まれているチャンイン化学のCEOイ・ゴンは、長年の恋人へのプロポーズを計画していた。ミヨンとゴンは、思わぬアクシデントにより強烈な出会い方をする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-1_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250111031000 +0000" stop="20250111075500 +0000">
+		<title>オクニョ 運命の女(ひと) 第4〜7話</title>
+		<desc>養父から母の形見の指輪を受け取ったオクニョは、母の死の真相を知りたいという思いを募らせる。そして、地下牢にいる囚人パク・テスに指輪を見せる。指輪に見覚えがあった彼はオクニョにある情報を伝える。一方、ユン・テウォンにも母にまつわる悲しい過去があった。5年後、成長したオクニョは母の死の真相に迫るため、捕盗庁(ポドチョン)の茶母(タモ)の試験を受ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-87_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250111075500 +0000" stop="20250111103500 +0000">
+		<title>なぜオ・スジェなのか 第29〜最終話</title>
+		<desc>ジェイを失ったショックで倒れたスジェ。その後、ひどく憔悴した様子でジェイの弔問に訪れたスジェに向かって、ジュワンは「お前が殺した」と責める。生きる気力を失ったスジェとは対照的に、チェ会長たちは勢いを取り戻す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-130_s1_p29/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250111103500 +0000" stop="20250111115700 +0000">
+		<title>冬のソナタ 第1話【ペ・ヨンジュン×チェ・ジウ】</title>
+		<desc>ユジンの学校にチュンサンという学生が転校してきた。二人はバスの中で初めて会うが、初印象はよくなかった。しかしある日酔っ払いに絡まれたユジンをチュンサンが助ける。一方、チュンサンは写真の中の父親を探していたが、自分の父親が同じクラスのサンヒョクの父親と分かり、衝撃を受ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-18_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250111115700 +0000" stop="20250111120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250111120000 +0000" stop="20250111141500 +0000">
+		<title>王宮の夜鬼【韓流ミッドナイトシアター】</title>
+		<desc>咬まれると白目になり牙が生え、人の生き血を求める“夜鬼”へと豹変する謎の感染爆発が蔓延する朝鮮時代。存亡の危機に陥った朝鮮に帰還した王子イ・チョンは、至る所にはびこる夜鬼の群れと戦う朝鮮随一の武官 パク従事官らと出会い、成り行きで彼らと行動を共にすることになる。一方、国を掌握しようと企む国王の側近である絶対悪キム・ジャジュンは、国家転覆を謀り、夜鬼を利用して最終手段に打って出るが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-70_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250111141500 +0000" stop="20250111161500 +0000">
+		<title>愛してる、愛してない【韓流ミッドナイトシアター】</title>
+		<desc>空港へと走る車の中。それぞれ建築家と編集者として成功した、結婚5年目の夫婦。出張で空港に送ってもらう車の中で、妻は夫に突然の別れ話を切り出す。「私、出ていく」。夫は「分かった」とそれを受け入れる。数日後、二人で暮らした家から妻が出ていく日。彼は無言で妻の荷造りを手伝い、思い出のレストランに予約を入れ、コーヒーを淹れる。荷造りの進まない妻は、これまでの二人の暮らしに想いを巡らせる。そんな中、二人が暮らしてきた家にずぶ濡れになった仔猫が迷い込み、どこかへ隠れてしまう。雨がひどいから、仔猫が出てくるのを待ってるから、そんな言い訳を胸に家から出ることができない二人。彼女の旅立ちを遮るように、彼らを世間から切り離すように、雨は降り続けていた-。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-5_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250111161500 +0000" stop="20250111230000 +0000">
+		<title>皇后の品格 第36〜47話</title>
+		<desc>ドンシクを王宮に連れてきたユラはドンシクが警護隊長のバッジを持っていることに気づき、ウビンの身辺調査をチュ隊長に命令。ソヒョン皇后の遺体をDNA検査に出していたヒョクは、遺体が人骨でないとの結果に衝撃を受ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-25_s1_p36/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250111230000 +0000" stop="20250112023000 +0000">
+		<title>ピノキオ 第8〜10話【イ・ジョンソク &amp; パク・シネ主演】</title>
+		<desc>実の兄ジェミョンと想像を超えた再会を果たしたダルポは、思わず記者であることや弟であることを隠す。その夜、母と会わないほうがよかったというイナに、ダルポは自分を重ねる。さらにイナは、ダルポに昔の関係に戻れるかとたずねるが、ダルポは戻れないと答え...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-165_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250112023000 +0000" stop="20250112084000 +0000">
+		<title>烏鵲橋の兄弟たち 第16〜20話</title>
+		<desc>テシクはイェジンにプロポーズをしようと決心し、ミスクにネックレスを選んでほしいと頼む。もう自分の気持ちを隠せないミスクはテシクに告白する。一方、スヨンの家へ挨拶に行くことになったテボムは、ヨギョンに気に入ってもらうために高級スーツとワインを買ってきたスヨンに怒るのだが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-42_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250112084000 +0000" stop="20250112115700 +0000">
+		<title>私のIDはカンナム美人 第9〜12話(字幕)【ASTROチャ・ウヌ主演】</title>
+		<desc>ヒョンジョンの話を聞いたミレはスアに対し疑心を抱くようになり、スアにヨンチョルと知り合った経緯を聞くがはぐらかされてしまう。そんな中、ミレとギョンソクは部屋に閉じ込められてしまう。そんな状況にミレはさらに意識してしまうが、ギョンソクはミレを“友達”だと言い...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-13_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250112115700 +0000" stop="20250112120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250112120000 +0000" stop="20250112153000 +0000">
+		<title>浪漫ドクター キム・サブ 第8〜10話</title>
+		<desc>ソジョンを人質に取り、手術の中断を訴える犯人。手術中の患者に、妻と娘が暴行されたと言う。恐怖に震えながらも同情するスタッフたち。しかしキム・サブは手術を中断する気はないときっぱり断り、手術が終わったら好きにすればいいと言う。手術後、本院からやってきた監査と精神科医に、ひどく追い込まれるキム・サブとソジョン。キム・サブは医療行為の禁止を命じられるが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-31_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250112153000 +0000" stop="20250112180000 +0000">
+		<title>智異山＜チリサン＞〜君へのシグナル〜 第25〜28話</title>
+		<desc>遭難者を助けようとしたヤンソンが水にのまれてしまう。大雨が降る中、必死でヤンソンを捜すグヨンだが撤収命令が下される。同じ頃、イガンの祖母が乗ったバスが橋の倒壊で川に転落してしまう。イガンの祖母がなくなり、イガンが心配で家を訪ねたヒョンジョ。しかし、祖母が死んだのはヒョンジョのせいだと責められ...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-43_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20250112180000 +0000" stop="20250112230000 +0000">
+		<title>マイ・ディア・ミスター〜私のおじさん〜 第1〜6話【IU主演】【日替わり一挙】</title>
+		<desc>無職の兄パク・サンフンと、売れない映画監督の弟パク・ギフンを持つ、大手建設会社の部長パク・ドンフンは、左遷されながらもまじめに働いている。一方、ドンフンと同じ部署の派遣社員イ・ジアンは、借金取りに追われ、昼夜問わず働き詰めの毎日を送っており...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-10_s1_p1/thumb001.png" />
+	</programme>
 	<programme channel="asia-love-comedy" start="20241229122500 +0000" stop="20241229151000 +0000">
 		<title>太陽を抱く月 第1〜2話【イケメンチュセヨ】キム・スヒョン出演作</title>
 		<desc>朝鮮王朝・成祖の治世下。大妃ユン氏は自身の甥である重臣ユン・デヒョンに、王の異母弟ウィソン君殺しを命じる。その謀略に巻き込まれた巫女アリは、王を守る運命の女児の誕生を同僚のチャン・ノギョンに託し処刑される。間もなく、成祖の重臣ホ・ヨンジェに娘ヨヌが生まれた。時は流れ、兄の放榜禮(科挙合格者が王に拝し褒美を賜る儀式)のため宮殿を訪れたヨヌは...</desc>
@@ -22412,6 +22646,376 @@ ABEMAでボートレースが観られる！ボートレースの発信拠点『
 		<title>女の香り 第1〜2話</title>
 		<desc>大手旅行会社ラインツアーに勤めるヨンジェは、34歳でいまだ独身の平凡な女性。上司から邪険にされながらも懸命に働いていた。ある日、会社の前で見かけたジウクに一目惚れ。彼はラインツアーの御曹司で本部長としてやって来たのだった。そんな折、交通事故に遭い病院で検査を受けたヨンジェはそこで胆のうに腫瘍があると告げられ...</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-167_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250106192000 +0000" stop="20250106220000 +0000">
+		<title>魔女のゲーム 第19〜21話</title>
+		<desc>ヘスとイナの関係を確かめるため食事に招待したセヨン。結婚式の日取りが決まったと言うセヨンに、イナは自分たちが先に結婚すると宣言する。そこへやってきたハンビョルにセヨンは心ない質問を浴びせヘスを怒らせる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-87_s1_p19/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250106220000 +0000" stop="20250106225500 +0000">
+		<title>適齢期惑々ロマンス〜お父さんが変！？〜 第68話【平日毎朝7時放送】</title>
+		<desc>裁判を翌日に控えたハンスは、収監されることを覚悟して家族のために大量の常備菜を作る。その夜、ヘヨンを除く兄妹たちがハンスのためにごちそうを作り、大勢で食卓を囲む。その頃ヘヨンは、ハンスの再審請求を実現するために、当時の目撃者であるイム社長の店に通い続け、何も話すことはないというイム社長にせめて明日の裁判を傍聴して欲しいと懇願する。そしてついに、ハンスの身元詐称罪を審理する裁判が始まる・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-112_s1_p68/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250106225500 +0000" stop="20250107004500 +0000">
+		<title>黒薔薇の家 第44〜46話</title>
+		<desc>ファジャとソンアのDNA鑑定結果を確認したスジンは、この2人がなぜ今になって現れたのか気になり始める。一方、ジェニーはウンソクを思いながら描いた洋服のデザイン画をソンアに渡し、ウンソクには秘密にしてくれと頼む。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-50_s1_p44/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107004500 +0000" stop="20250107020000 +0000">
+		<title>秘密の扉 第15話</title>
+		<desc>失敗すれば世継ぎの地位を失うという条件にもかかわらず、清との外交交渉を引き受けたソン。決断の理由を知ったチェ・ジェゴンは、密かにソンを手助けする。一方、英祖は外交手腕に長けた少論派の臣下を朝廷に復帰させ、老論派を牽制して王権を強化しようと目論んでいた。そんな中、逆賊の娘ジダムが隠れているというピョン・ジョンインの通報を受け、妓楼に捕盗庁の役人たちが踏み込むが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-134_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107020000 +0000" stop="20250107043500 +0000">
+		<title>オレのことスキでしょ。 第13〜14話</title>
+		<desc>理事長であるヒジュの母の一言で、記念公演は中止と決まる。皆が落ち込むなか、シンは母の言葉から自主公演をすることを思いつく。シンの提案に賛同した学生たちは、自分たちだけで公演をやることに。ソクヒョンはブロードウェイから誘いを受けていたが、学生たちに引き留められ、誘いを蹴って公演の演出を引き受ける。一方、ヒジュに公演に出てほしいジュニは、説得するため毎日家に通い・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-14_s0_p13/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107043500 +0000" stop="20250107054500 +0000">
+		<title>天使の選択 第5〜6話</title>
+		<desc>サンホはチェ会長の席に座っている時にチェ会長が会長室に入ってきて見つかるが、チェ会長は婿の野望を悪いと思わない。ウンソルはボランティアの店で再びミンジェに会って、さらに6か月もの間、ミンジェの助手として一緒に働くことを知って、なんてひどい縁だろうと思う。ウンソルは結婚費用を調達するために叔母の家を担保にして借金することを勧めるが、マルスンは絶対にできないと言って断固拒否する。ウンソクの母はユランのことが気に入らず、もう少しじっくりつきあってみることを勧めるが、ウンソクは納得しない。ウンソクはユランのことを心配し、結婚後は両親と別居することを勧めるが、ユランはウンソクのことを思いやるふりをして両親との別居を断る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-81_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107054500 +0000" stop="20250107074000 +0000">
+		<title>帝王の娘 スベクヒャン 第43〜45話</title>
+		<desc>武寧(ムリョン)王と対面したソルランは、身代わりを成功させるため、自分を実の王女と思うように言う。そして、加林(カリム)城に到着し、高句(コグ)麗(リョ)側に軟禁されるソルラン。一方、スベクヒャンは、自分の身代わりを務めた娘の特徴が姉のソルランに似ていると思い、不安を募らせる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-81_s1_p43/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107074000 +0000" stop="20250107090000 +0000">
+		<title>100日の郎君様 第2話【ド・ギョンス(EXO-D.O.)主演】</title>
+		<desc>橋のたもとでホンシムを見たユル。イソが生きていたら、ああなっていたはずだとホンシムを追いかけるが見逃してしまう。宮殿内に自分を殺そうとする動きがあることを知り、それについて調査していたユルは、信じられない事実をつかむ。一方、ホンシムはユルの命令にもかかわらず結婚を拒み続けるが、ソンジュヒョンに住むパク令監に5番目の妾にならないかと話を持ち掛けられる。王の代わりに雨乞いに出かけたユルは山中で奇襲を受け...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-130_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107090000 +0000" stop="20250107101500 +0000">
+		<title>ボイス4 ～112の奇跡～ 第3〜4話</title>
+		<desc>妹スンアを殺されたデリックは自分の手で犯人を捕まえることを決意。ロス市警に申請し帰国を延期する。一方、サンゲ洞一家とスンアを殺した容疑者がピモ島に逃げたと推察したグォンジュは、ピモ庁の通報センター長の席が空いていると知り、島に向かう。容疑者を目撃したデリックも、情報を追いピモ島へ辿り着く。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-42_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107101500 +0000" stop="20250107113500 +0000">
+		<title>家門の栄光 第31話 テソン建設の危機、再び</title>
+		<desc>イ親子の欲が災いとなりテソン建設は再び危機を迎え、ガンソクはハ家の人々から責められる。解決策を模索するガンソクは、会社の買収を撤回すると言い出すが...。そんな中、ガンソクはダナと一緒にジンハの墓を訪ねて...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-138_s1_p31/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107113500 +0000" stop="20250107125700 +0000">
+		<title>白詰草 第35〜36話</title>
+		<desc>ジュニョンは無事に保護され積賢斎に戻るが、スンナムは姿を消したまま。ボンチョルがスンナムを連れ去ったのだった。事情を知らないユミンは、ジュニョンを置き去りにしたスンナムの無責任さに腹を立てる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-8_s1_p35/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107125700 +0000" stop="20250107130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107130000 +0000" stop="20250107142000 +0000">
+		<title>オレのことスキでしょ。 第15話 夢に向かって走れ(終)</title>
+		<desc>シンはライブ中に手首の痺れを感じ倒れるが、無理をしてライブを続行する。ギュウォンは自分をかばって倒れた時に手首を痛めたのではないかと察しシンに訊ねるが、シンは大丈夫だと嘘をつく。だが、病院で検査を受けたシンは手術が必要だと言われる。一方、エージェントと契約したギュウォンはミュージカルの勉強のため留学することに。ギュウォンはシンを案じるが、シンは別れを切り出す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-14_s0_p15/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107142000 +0000" stop="20250107153500 +0000">
+		<title>彼女はキレイだった 第1話 15年ぶりの再会【パク・ソジュン主演】</title>
+		<desc>ヘジンは小学生のころ相思相愛だったソンジュンがアメリカから帰国するとのメールを受け、ハリに待ち合わせ場所まで送ってもらう。そこに現れたソンジュンは肥満児だった過去をみじんも感じさせないイケメンに成長しており、正反対の残念な女性に成長した自分を恥じたヘジンは、ハリに自分の代役を頼み...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-20_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107153500 +0000" stop="20250107165000 +0000">
+		<title>哲仁王后～俺がクイーン！？～ 第8話 危険な関係</title>
+		<desc>本家で療養していたソヨンが無事に目を覚ました。しかし心の声までソヨンの声に変わり、においを嗅ぐことでソヨンの記憶や感情がよみがえるようになる。一方ソヨンが目覚めたと聞き、見舞いを装って帳簿を探しに行くことにした哲宗。しかしムングンから家の案内を受けている途中、井戸を見て地面に崩れる。井戸の湿った臭いを嗅いだソヨンはまた1つ記憶が思い浮かぶが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-366_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107165000 +0000" stop="20250107192000 +0000">
+		<title>女の香り 第3〜4話</title>
+		<desc>沖縄旅行に出かけたヨンジェ。そこに仕事のために沖縄を訪れたジウクの姿が。ジウクの勘違いから、ヨンジェが彼のガイドすることになってしまい、勘違いしていることを知りながらガイドを続ける。ヨンジェにあれこれと体験させられるうちにだんだんと心を動かされ、いつの間にかデートのような雰囲気に。しかし、そんな二人の前に本物のガイドが現れ...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-167_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107192000 +0000" stop="20250107220000 +0000">
+		<title>魔女のゲーム 第22〜24話</title>
+		<desc>ハンビョルからイナとヘスの面会に行ったと聞かされたジホ。一方、セヨンはイナがケガした時の映像を見たことを知り、焦りを覚えていた。ヒョンドクもまた映像を見て怒りに震える。イナはヒョンドクに真実を明かすと告げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-87_s1_p22/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107220000 +0000" stop="20250107225500 +0000">
+		<title>適齢期惑々ロマンス〜お父さんが変！？〜 第69話【平日毎朝7時放送】</title>
+		<desc>裁判を終え、執行猶予付きの処分となりハンスと一緒に家に帰ることができて安堵する家族たち。ヨンシルは、ささやかなお祝いの席上で明日から友人と旅行に行くと言って家族を驚かせるが、それは手術で入院するための口実であり、そのことを唯一知っているユジュが病院に付き添う。一方、ヘヨンは再審請求をする決意を固め、ハンスに自分を弁護士に選任するように訴える。そんな中、ついにヨンシルの手術が始まる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-112_s1_p69/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250107225500 +0000" stop="20250108004500 +0000">
+		<title>黒薔薇の家 第47〜49話</title>
+		<desc>スジンに内緒でソンアの家に遊びに来たジェニーとマンスは、ファジャのお手製参鶏湯を食べながら楽しいひとときを過ごす。その頃、ドンジュに会いに離れの家に来ていたウンジは、ジェニーたちの姿を発見し、エリに話する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-50_s1_p47/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108004500 +0000" stop="20250108020000 +0000">
+		<title>秘密の扉 第16話</title>
+		<desc>清の使臣たちは腐った高麗人参を見て激怒。すぐに帰国すると席を立つが、ソンは土下座をして彼らを引き止め、再び交渉の機会を得る。使臣の黙珠を拾ったソンは、商人のイ・ダルソンを訪ね...。その頃、キム・テクは新たな世子を擁立しようと画策していた。これを知ったソンは、訓錬都監で武官たちと酒宴を開く。ミン・ウソプは父のベクサンに、ソンは清と戦を始めるつもりだと報告する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-134_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108020000 +0000" stop="20250108044000 +0000">
+		<title>ワン・ザ・ウーマン 第9〜12話</title>
+		<desc>ヨンジュは自分が暴力団員で詐欺師だったと思い込む。そんな中、ユミンの会長として初出社したヨンジュを物陰から見る男がいた。仕事に追われる中、ヨンジュはハン会長との食事の席でいきなりホテルの合併を持ちかけられる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-157_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108044000 +0000" stop="20250108055000 +0000">
+		<title>天使の選択 第7〜8話</title>
+		<desc>ワン会長と妻はミンジェがウンソルに返しそびれた下着を見て、息子に彼女ができたものと思い、悪女タイプだと推測する。ミンジェはようやく母親に靴をプレゼントする。母親は足が痛くならずデザインもステキだと言って大喜びする。ユランはウンソクとウンソルとウエディングドレスを選び幸せな時間を過ごしている時、1本の電話が鳴り驚く。ウンソルは結婚して以来、1度も妊娠しないため心配になって産婦人科に検査を受けに行く。サンホの母親はウンソルの母を訪ね、ウンソルが早く妊娠するように漢方薬を渡すが、ウンソルの母親はプレッシャーを与えたくないと言う。ウンソクの両親が後継者について話をしている時にサンホが帰宅し、2人の話を聞いてしまい気まずくなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-81_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108055000 +0000" stop="20250108074500 +0000">
+		<title>帝王の娘 スベクヒャン 第46〜48話</title>
+		<desc>ミョンノンの嘆願にもかかわらず、武寧(ムリョン)王はソルランが高句(コグ)麗(リョ)の密偵だという情報に警戒を強め、ソルヒはわざとソルランを脱獄させる。一方、ミョンノンはソルランから、高句麗王の興安(フンアン)が太子時代、百済(ペクチェ)に密偵として滞在していた際に情人がいたという情報を聞き、その女を捜し求める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-81_s1_p46/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108074500 +0000" stop="20250108090500 +0000">
+		<title>100日の郎君様 第3話【ド・ギョンス(EXO-D.O.)主演】</title>
+		<desc>月末になっても結婚せず、百たたきの刑に遭っていたホンシム。しかし、実際には県監とパク令監が組んでホンシムを妾にしようとする作戦だった。ここに記憶を失い、ヨン氏に自分はホンシムのいいなずけのウォンドゥクだと教えられたユルが現れ、県監はしかたなくホンシムを釈放する。2人が結婚式を挙げる一方で、宮殿ではユルが行方不明であることは隠され、秘密裏に見つかるはずもないユルの捜索が続けられていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-130_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108090500 +0000" stop="20250108102500 +0000">
+		<title>ボイス4 ～112の奇跡～ 第5〜6話</title>
+		<desc>カムテンという男が「モシム森の黄泉路では死んだ人に会える」という動画を配信していたことが判明。カムテンは詐欺の前科があり、イェスクは彼に騙され死んだ息子に会うため森に来ていたのだった。デリックたちはカムテンのもとに向かうが、そこにイェスクの姿はなかった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-42_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108102500 +0000" stop="20250108114000 +0000">
+		<title>家門の栄光 第32話 さようなら、ジンハさん</title>
+		<desc>ジンハを永遠に胸の奥にしまい、ガンソクと共に生きることを選んだダナは、ジンハからもらった婚書を箱の中にしまうことを決意する。一方、急性虫垂炎で入院したジナは、念のために健康診断を受けるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-138_s1_p32/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108114000 +0000" stop="20250108125700 +0000">
+		<title>白詰草 第37〜38話</title>
+		<desc>スンナムを母親失格だとののしり、積賢斎から出ていくよう通告するユミン。そればかりか、保護命令を申し立ててスンナムから娘を引き離そうとする。スンナムは泣きながら引き止めるジュニョンを置いて積賢斎を去る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-8_s1_p37/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108125700 +0000" stop="20250108130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108130000 +0000" stop="20250108154000 +0000">
+		<title>ワン・ザ・ウーマン 第13〜16話</title>
+		<desc>ボンシクを捕らえたソンヘは、ミナが別人である証拠を見つけるよう指示する。検察に参考人として出頭するためにスンウクと車に乗り込んだヨンジュ。ところが突然ブレーキが利かなくなり、暴走した車を止めようとするが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-157_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108154000 +0000" stop="20250108170000 +0000">
+		<title>哲仁王后～俺がクイーン！？～ 第9話 光と闇</title>
+		<desc>禁衛営に紛れ込ませた護衛武士の存在に気付いたのか、兵士の身分を調べると言って禁衛営に乗り込んだビョンイン。証拠を見つけようと全ての書類を奪い去る。一方、ソヨンの本家で出くわした仮面の男について永平君に話した哲宗。オウォルを拷問した男だと聞かされ、キム・ジャグンも帳簿を狙っていることに気付く。その後、ソヨンと共にお忍びで下町へと出かけた哲宗。しかし民が自分を悪く言う姿を目の当たりにしてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-366_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108170000 +0000" stop="20250108193000 +0000">
+		<title>女の香り 第5〜6話</title>
+		<desc>ツアー企画でトラブルが発生し、ヨンジェに解決役を依頼したジウク。二人は一緒にトラブル先に向かうが、ジウクの勘違いで失敗に終わり...。一方、彼女の人となりに触れたジウクはセギョンが起こす訴訟が心配で仕方ない。訴訟のことを話そうとヨンジェが通うタンゴ教室を訪ねる。が、ひょんなことから一緒にタンゴを習うことになり...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-167_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108193000 +0000" stop="20250108220000 +0000">
+		<title>魔女のゲーム 第25〜27話</title>
+		<desc>ヘスが3年ぶりに生きて戻ってきたことで、ジホはイナが手助けしたと考える。ヒョンドクはヘスの復讐の矛先をユギョンに向けさせる。一方、セヨンに会いに行ったヘスは、奪われたものを全て奪い返すと宣戦布告する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-87_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108220000 +0000" stop="20250108225500 +0000">
+		<title>適齢期惑々ロマンス〜お父さんが変！？〜 第70話【平日毎朝7時放送】</title>
+		<desc>ユジュからの連絡を受け、家族がヨンシルの病院に駆けつける。手術は無事に終わり、1週間後の検査結果を待つことに。一方、ハンスはヘヨンの説得を受け、冤罪となった事件の目撃者であるイム社長に会いに行く。ハンスから事件のことを聞かれたイム社長は、真犯人を見たと証言できなかった衝撃の理由を明かす。それを聞いていたヘヨンは激昂してイム社長を非難するが、ハンスはヘヨンを制止して再審を諦めようとする・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-112_s1_p70/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250108225500 +0000" stop="20250109004500 +0000">
+		<title>黒薔薇の家 第50〜52話</title>
+		<desc>マンスがプレゼントしたチケットで、テ・ミナの公演を見に来たソンアとファジャ。ところが舞台の上で歌う女の顔を見た瞬間、ソンアは席をたってしまう。そしてソンアとファジャがマンスと談笑している姿を目撃したスジンは...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-50_s1_p50/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109004500 +0000" stop="20250109020000 +0000">
+		<title>秘密の扉 第17話</title>
+		<desc>“生かす政治”を見せつけられた英祖は、その夜これまで己が行ってきた“殺す政治”の悪夢を見る。英祖は3年ぶりに政務に復帰するソンを鼓舞しつつも、人事と外交、国防の決定権は自分が保持すると告げる。一方、少論派のイ・ジョンソンは朝会で「3年前の逆賊の家族を赦免してほしい」と訴えるが、ソンは事件について再論はしないと断言。そんな中、チャン内官の弟が両班の替え玉として科挙を受けた罪で逮捕され...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-134_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109020000 +0000" stop="20250109032000 +0000">
+		<title>医師ヨハン 第31〜最終話</title>
+		<desc>3か月間、毎朝メールでヨハンの体調を確認していたシヨン。ところが突然メールが届かなくなってしまう。しばらくして、シヨンはヨハンが疼痛治療薬の開発を進めているというニュースを目にするが、ヨハンからの連絡はなかった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-29_s1_p31/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109032000 +0000" stop="20250109043000 +0000">
+		<title>2人だけのプレイバック「キルミー・ヒールミー」</title>
+		<desc>精神科レジデントのリジンは逃げ出した患者を捜すためクラブへ行き、そこで偶然セギに出会う。いきなりリジンに告白するセギだが、彼は多重人格のドヒョンの別人格の1人だった。女医と患者として出会ったリジンとドヒョンは次第に惹かれ合っていく。そんな中、過去のある秘密に気付いた2人は困難を乗り越え互いの傷を愛で癒やしていく。心温まるヒーリングラブストーリー。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-226_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109043000 +0000" stop="20250109054000 +0000">
+		<title>天使の選択 第9〜10話</title>
+		<desc>ユミがサンホの母の美容院で働くことになった。数年ぶりに会った2人はサンホとユランはあの時、別れて本当によかったと言い、サンホとユランが幸せになっていると自慢し合う。ウンソルの母親はマルスンに会うが気分を害し、ユランの母親もサンホの母親と同じく何も与えようとしないのに求めるものだけは多いと言って腹を立てる。その話を聞いていたサンホは内心、嫌な気分になる。ユランは自分の言うとおりにしないマルスンに怒りをぶつけ、夜に家を出てバーに行く。一方、ウンソルはボランティアの店で、突然注文が入ったドーナツ1000個のオーダーを1人でさばこうとしたが過労で倒れる。会社から戻ったミンジェはウンソルが倒れているのを見つけ、病院に運ぶ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-81_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109054000 +0000" stop="20250109074000 +0000">
+		<title>帝王の娘 スベクヒャン 第49〜51話</title>
+		<desc>スベクヒャンの侍女ナウンは、ピムンで王女の偵察をしていた。だがナウンは、王女に怪しい素振りはないと証言する。そんな中、ウネ王妃はミョンノンに、太子妃を迎えることを提案する。一方、ミョンノンは、チンムと談笑するソルランを見て、嫉妬を募らせる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-81_s1_p49/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109074000 +0000" stop="20250109090500 +0000">
+		<title>100日の郎君様 第4話【ド・ギョンス(EXO-D.O.)主演】</title>
+		<desc>ウォンドゥクを生まれ育った村へ連れていこうとしたホンシムだったが、ヨンさんの差し金で結局は村へ行けずソンジュヒョンに戻ってくる。記憶はなくとも世子としての暮らしが身に付いているウォンドゥクは、高利貸しにだまされ30両もの大金を借りて高級品をそろえたうえに家の修繕をしようとする。一方、ユルが行方不明だと聞いたジェユンは、この事件と内医女の殺害事件に関連があるのではないかと考え内医女を射た矢を作った人物を捜し始める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-130_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109090500 +0000" stop="20250109102000 +0000">
+		<title>ボイス4 ～112の奇跡～ 第7〜8話</title>
+		<desc>ゴールデンタイムチームがピモ庁で6カ月間運営されることが決定し、デリックも一員に。グォンジュは休職して島に暮らしている元ゴールデンタイムチームのシム・デシクを訪ね復帰を求めるが、拒まれてしまう。そんななか、サイバー隊員ウジュの情報から、尊属殺人事件の被害者が皆、同じゲームをしていたことがわかる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-42_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109102000 +0000" stop="20250109114000 +0000">
+		<title>家門の栄光 第33話 お孫さんをください</title>
+		<desc>ダナと結婚したいガンソクはハ家を訪ねることに。ガンソクの言葉を聞いたハ家の人々はガンソクの本性が恐ろしく、強引な性格が不安だと反対する。しかし、反対されても諦めないと言うダナ。ダナの強い意志を感じたマンギは...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-138_s1_p33/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109114000 +0000" stop="20250109125700 +0000">
+		<title>白詰草 第39〜40話</title>
+		<desc>ソンジュが自宅で準備していたセヒとユミンの婚約発表パーティーは、偶然出張料理人として現れたスンナムと言い争いになり中止に。ボンチョルは、セヒが離婚がまだ成立していないユミンと結婚したがっていることに大反対する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-8_s1_p39/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109125700 +0000" stop="20250109130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109130000 +0000" stop="20250109152500 +0000">
+		<title>ヒーラー〜最高の恋人〜 第1〜2話【チ・チャンウク主演】</title>
+		<desc>闇の便利屋“ヒーラー”というコードネームを持つソ・ジョンフには無人島を買うという夢がある。一方、芸能記者として日々スクープを追い求め走り回るチェ・ヨンシンは、いつか憧れのキム・ムンホのような記者になりたいと願っている。そんなヨンシンの憧れの存在キム・ムンホは弱者の声を伝え、国民からの信頼も厚い一流記者。その彼が、ある人物を捜し出すことをヒーラーに依頼してきたのだが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-3_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109152500 +0000" stop="20250109165000 +0000">
+		<title>哲仁王后～俺がクイーン！？～ 第10話 悪夢を生きる</title>
+		<desc>ソヨンの本家の井戸へ帳簿を捜しに入った哲宗だが、そこにあったはずの帳簿はなぜか無くなっていた。哲宗とソヨンが出かけている間、ファジンが偶然井戸をのぞき込み、哲宗に渡そうと帳簿を持ち去ったためだった。哲宗が宮廷へ戻ったという知らせを聞き、ファジンはすぐに帳簿を渡そうとするが、ソヨンと仲むつまじく話す姿にひるんでしまう。そんな中、チョ大妃の計略により哲宗とファジンの間に誤解が生まれてしまい...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-366_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109165000 +0000" stop="20250109192000 +0000">
+		<title>女の香り 第7〜8話</title>
+		<desc>ヨンジェの代わりに訴訟金を支払ったジウク。ヨンジェはジウクの家を訪ね、お金を払えば指輪を盗んだことを認めることになると怒りをあらわにする。一方、旅行プランの企画会議でワンドの島巡りツアーの企画が持ち上がるが、実は、ヨンジェの企画だったことを知ったジウクはヨンジェの名前を出すなと激怒し...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-167_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109192000 +0000" stop="20250109220000 +0000">
+		<title>魔女のゲーム 第28〜30話</title>
+		<desc>ヘスはジホが3年前に事故に見せかけて自分を殺すよう指示した音声を聞いて動揺する。一方、ヘスが実の娘だと知ったユギョンは、これまでヘスにしてきたひどい仕打ちを思い返し、いたたまれない気持ちになっていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-87_s1_p28/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109220000 +0000" stop="20250109225500 +0000">
+		<title>適齢期惑々ロマンス〜お父さんが変！？〜 第71話【平日毎朝7時放送】</title>
+		<desc>ミヨンに会うためにピョン家に来たジュンヒを、ハンスが墓参りに連れ出す。ジュンヒは実の父親の墓を前にしても、特に何も感じない自分に戸惑う。ハンスはそんなジュンヒに、俺の息子になるかと提案するが・・・。そんな中、今度はジュンヒに女優との恋愛スキャンダルが出る。これをきっかけに、ジュンヒとミヨンが付き合っていることが家族にばれてしまう。ハンスとヨンシルの心境は複雑だが、静かに見守ることに。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-112_s1_p71/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250109225500 +0000" stop="20250110004500 +0000">
+		<title>黒薔薇の家 第53〜55話</title>
+		<desc>ドンジュは夜の散歩にソンアを誘い、改めて愛の告白をするが、ソンアはまだ思いを受け止める準備が出来ていなくて...。そんな中、マンスの携帯に届いたメールを盗み見したスジンは、その内容にショックを隠せずぼう然とする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-50_s1_p53/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110004500 +0000" stop="20250110020000 +0000">
+		<title>秘密の扉 第18話</title>
+		<desc>英祖はソンを呼び、科挙の規定を元に戻せと命令。さらに、礼曹判書のイ・ジョンソンを罷免し、ミン・ベクサンを後任に指名する。一方、チョルチュはソンの前に姿を現し、平民が科挙を受験するための方法を提案する。そんな中、キム・サンノは、新たな王妃を迎えて嫡男の世継ぎを作るべきだと英祖に進言。昭媛は自分を王妃にしてほしいとキム・サンノに頼み、ジダムの情報を密告する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-134_s1_p18/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110020000 +0000" stop="20250110043000 +0000">
+		<title>主君の太陽 第2〜3話</title>
+		<desc>ゴンシルはジュンウォンが経営するキングダムというショッピングモールで清掃員として働き始める。そんなある日、キングダム内にある噴水の前で女子高生が撮影した写真に幽霊が写っていると世間で話題になる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-163_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110043000 +0000" stop="20250110054000 +0000">
+		<title>天使の選択 第11〜12話</title>
+		<desc>サンホはウンソルからユランをウンソクの嫁になる人だと紹介されてショックを受ける。同様にユランもサンホがウンソルの夫だったことを知って動揺するが、知らないふりをして挨拶をする。サンホはユランの叔母を見て驚き、叔母もサンホを見て動揺して部屋を出て行く。サンホはユランとウンソクの結婚を認めたくないが、ユランと自分のことが知られれば前途が危うくなり、父親の敵を晴らすことができなくなるため悩む。ユランはサンホとの関係をウンソルに知られないためにはどうすればいいか悩んだ末、わざとブーケを台なしにする。ウンソルはウンソクにブーケを直すように頼まれフラワーショップに向かう。ウンソルはスギョンと一緒に歩いているミンジェに鉢合わせする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-81_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110054000 +0000" stop="20250110073500 +0000">
+		<title>帝王の娘 スベクヒャン 第52〜54話</title>
+		<desc>スベクヒャン王女の告発によってヘ・ネスクは投獄され、ウネ王妃は王女に怒りをぶつける。一方、ソルランは、遠目に見た王女の姿が妹のソルヒに似ていることに驚く。そんな中、スベクヒャンは高句(コグ)麗(リョ)の将軍ウルミルと密会し、本物の高句麗の刺客を捕らえさせてくれるよう頼む。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-81_s1_p52/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110073500 +0000" stop="20250110090000 +0000">
+		<title>100日の郎君様 第5話【ド・ギョンス(EXO-D.O.)主演】</title>
+		<desc>倒れたウォンドゥクを夜通し看病するホンシム。翌日には回復し、水がめもまともに持てないのかと怒るホンシムに、ウォンドゥクは自分がどういう人間だったのか教えてくれと頼むがホンシムには答えられない。ウォンドゥクが字を読めると知ったホンシムは、本の筆写で稼ごうと考える。一方、死んだのが世子ではないと気付いた左相だが、王にはユルの死体だと告げる一方で、ムヨンに必ずユルの死体を見つけ、仮に生きていた場合は殺せと命じる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-130_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110090000 +0000" stop="20250110101500 +0000">
+		<title>ボイス4 ～112の奇跡～ 第9〜10話</title>
+		<desc>サンゲ洞事件の容疑者と同じ飛行機に乗っていたコン・スジからグォンジュに連絡が入る。スジが機内で撮った動画に入っていた音で気になることがあるという。だが、約束の場にスジは現れず、スジの荷物が発見され海に落ちたようだと電話が入る。自殺と判断する警察に対し、グォンジュは、スジは拉致されたと主張する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-42_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110101500 +0000" stop="20250110113500 +0000">
+		<title>家門の栄光 第34話 結婚への障害</title>
+		<desc>ガンソクがダナと結婚すると言うと、ガンソクの両親は大反対。さらに、男を死なせる運命だという暴言まで浴びるダナ。そんな中、今までと違うように生きたいと決心したスヨンは、ジナにプロポーズをする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-138_s1_p34/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110113500 +0000" stop="20250110125700 +0000">
+		<title>白詰草 第41〜42話</title>
+		<desc>ユミンはボンチョルが提案した婚前契約書へのサインを承諾し、セヒはユミンを警戒するボンチョルに結婚を認められて喜ぶ。その頃、ソンジュは児童養護施設の紹介記事の写真に生き別れたソヌを見つけ、涙を流す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-8_s1_p41/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110125700 +0000" stop="20250110130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110130000 +0000" stop="20250110153000 +0000">
+		<title>主君の太陽 第4〜5話</title>
+		<desc>ヒジュの霊が乗り移ったゴンシルは、ジュンウォンの自宅で目を覚ます。手をつなぎながら隣で寝ているジュンウォンを見て、ゴンシルは夢ではないかと思う。一方、イリョンに取り憑いた長い髪の幽霊は...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-163_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110153000 +0000" stop="20250110165000 +0000">
+		<title>哲仁王后～俺がクイーン！？～ 第11話 許されざる者</title>
+		<desc>ファジンは哲宗に渡すはずだった帳簿を結局チョ大妃に渡してしまう。ソヨンを王妃の座から引きずり下ろしてほしいと頼むが、チョ大妃は帳簿を利用してキム家全体を危機に陥れようと計画する。一方、端午節を迎えてうたげの準備に忙しい水剌間。しかし待てど暮らせど食材が届かない。倉庫にあった干物も全て腐り、米にも毒が混ぜられ、このままでは料理ができない状態。困った哲宗は永平君に食材の調達を頼むが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-366_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110165000 +0000" stop="20250110192000 +0000">
+		<title>女の香り 第9〜10話</title>
+		<desc>父、カン会長にセギョンとの婚約を破棄すると伝えたジウク。そんな中、セギョンの父、イム会長が倒れたと連絡を受けたジウクは病院に駆けつける。意識を取り戻したイム会長に婚約破棄の意志を伝えるジウクの姿にセギョンは怒りをぶつける。イム会長により圧力をかけられたラインツアーはキャンセルが相次ぎ...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-167_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110192000 +0000" stop="20250110215500 +0000">
+		<title>イルジメ〔一枝梅〕 第16〜17話【イ・ジュンギ出演】</title>
+		<desc>イルジメの活躍によりチョン父子は清に送り帰されることに。皆が喜ぶ中、セドルは危険に身を置くヨンを思い、胸を痛める。そのヨンはセドルとタンが婚礼式を挙げていないと知り、一肌脱ごうと考える。市場の人々の協力を得て式の準備は進められ、セドルとタンはようやく結ばれるのだった。一方、シフはある男からピョン・シクが実の父ではないと聞かされ、タンに怒りをぶつける。そんな中、イルジメの捕獲作戦が行われると知ったセドルは...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-10_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250110215500 +0000" stop="20250111040500 +0000">
+		<title>宮〜Love in Palace ディレクターズ・カット 第19〜23話</title>
+		<desc>ケンカしたまま宮廷に戻ったシンとチェギョン。シンは自分の非を認めて謝るが、チェギョンの怒りは納まらない。さらに、シンもふた言目にはヒョリンのことを持ち出すチェギョンに閉口し、ふたりの距離はますます離れてしまう。王室では、毎年行われている生放送の公式インタビューを、病気が完治していない皇帝の代わりに、皇太子夫婦が受けることに決める。そんななか、チェギョンは学校で、両親が娘の立場を利用して利益を得ているという噂を耳にし、宮廷での生活に息苦しさを感じてしまう。それに気づいたシンは、独断でチェギョンに里帰りを許可するが、それを知った皇后からチェギョンは叱られ......。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-23_s1_p19/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250111040500 +0000" stop="20250111145700 +0000">
+		<title>本当に良い時代 第4〜15話【テギョン(2PM)出演】</title>
+		<desc>ドンソクは検察庁に出勤すると早速、先輩検事が担当していた事件を調べ始める。へウォンは理容室をめちゃくちゃにしたドンヒに補償を求め、代償としてドンヒの指輪を預かった。そんな中、ドンソクは祖父のために官舎ではなく、実家で暮らすことに。一方、ヘウォンに会いに行った妹のドンオクがバイク事故に遭ったと連絡が入る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-31_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250111145700 +0000" stop="20250111150000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250111150000 +0000" stop="20250111190500 +0000">
+		<title>熱血司祭 第23〜29話</title>
+		<desc>パク議員を救うも犯人に間違われ逮捕されそうになるヘイル。そんなヘイルを助けたのはなんとキョンソンだった!ヘイルは彼女のおかげで逃げ切ることに成功。一方、パク議員の殺害に失敗したチョルボムはひどく叱責される。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-95_s1_p23/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250111190500 +0000" stop="20250111220000 +0000">
+		<title>運命の渦 第1〜4話</title>
+		<desc>ヤン・ナムジンは海辺の村で“人材事務所”を営む社長。社長といえども多額の借金を抱えており、暮らしぶりは豊かとは言えないが、母親と事務所で一緒に働くイ・サンヒョンと3人でつつましくも楽しく暮らしていた。そんなある日、秋も深まり冬へと向かうというのにナムジンの家に網戸の交換業者が突然やってくる。こともあろうにその業者は洗面所にあったナムジンの歯ブラシを持ち出すが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-46_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250111220000 +0000" stop="20250112025500 +0000">
+		<title>棚ぼたのあなた 第13〜16話</title>
+		<desc>渡米前にジャンス、チョンエ、マンレを健康診断に連れていくグィナム。病院内ではグィナムのいい話ばかり聞き、3人は鼻を高くする。そのころ、公園でジョギングをしていたユニ。偶然テジョンにいるはずの弟セグァンに会うが、逃げられてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-43_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250112025500 +0000" stop="20250112090500 +0000">
+		<title>宮〜Love in Palace ディレクターズ・カット 第5〜9話</title>
+		<desc>食事中、ヒョリンからの電話がきっかけでシンとケンカしてしまうチェギョン。気分転換に宮内を歩いているとユルに出会い、彼が義誠君(ウィソングン)だったことを知る。そんななか、チェギョンの両親が宮廷に来ることを知り、喜ぶチェギョン。しかし、勉強が終わらないと会えず、やっと終わったときには、すでに両親が帰ってしまった後だった。悲しみにくれるチェギョンは、引き止めなかったシンを責めるが、両親に気を遣わせないようシンは顔を出さず、会えなかったことすらも知らなかったことを内官から聞かされ誤解を解く。そんなある日、シンの誕生日パーティーが開かれるが、そこにはヒョリンも出席していて......。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-23_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250112090500 +0000" stop="20250112145700 +0000">
+		<title>輝くか、狂うか 第12〜16話【チャン・ヒョク主演】</title>
+		<desc>ワン・ウクは皇帝の座に就くためワン執政と手を組み、早衣仙人とワン・ソを討つ決心をする。シンユルとともに貧しい病人たちのもとを訪ねたワン・ソ。シンユルはワン・ソから離れろというヨウォンの警告を思い出す。その夜、帰宅したワン・ソを皇太后が待っていた。母の愛情と冷たくした理由を知ったワン・ソは涙を見せる</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-39_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250112145700 +0000" stop="20250112150000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250112150000 +0000" stop="20250112163000 +0000">
+		<title>怪物 最終話 つかむ</title>
+		<desc>ジュウォンはチョン・チョルムン署長の様子を確認するため家の中に入っていくが、既にチョン署長は殺されていた。一方、精神病院に入れられていたジョンジェは、自分のために母親がナム所長とジンムクを殺したのではないかと疑い、ドンシクにそれが事実かどうか確認してほしいと頼む。そして長官になったハン・ギファンは自分の罪が明らかになることを恐れ、検事のヒョクを使おうとするも裏切られ、窮地に追い込まれる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-228_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama-2" start="20250112163000 +0000" stop="20250112193000 +0000">
+		<title>被告人 第1〜4話(字幕)【チソン主演】</title>
+		<desc>妻ジス、愛娘ハヨンと充実した生活を送っているジョンウ。多少危険なやり方でも、次々と容疑者を検挙する敏腕検事のジョンウをスカウトに来る法律事務所も後を絶たないが、ジスは検事のジョンウが一番魅力的だと言って一蹴する。今日はハヨンの6歳の誕生日。誕生日を祝い、幸せな眠りにつくジョンウだったが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-7_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20241229144500 +0000" stop="20241229160500 +0000">
 		<title>ヒョリのソウル・チェックイン #9</title>
