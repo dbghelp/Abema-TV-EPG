@@ -92,6 +92,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -2140,32 +2144,8 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	</programme>
 	<programme channel="abema-anime" start="20250107143000 +0000" stop="20250107150000 +0000">
 		<title>妖怪学校の先生はじめました！ #13【WEB最速】</title>
-		<desc>・11/5(火)23:30　プレミアム先行配信開始
-・11/6(水)23:30　無料配信開始
-
-"プレミアム先行配信対象作品一覧はこちら。
-・魔王様、リトライ！R
-・パーティーから追放されたその治癒師、実は最強につき
-・最凶の支援職【話術士】である俺は世界最強クランを従える
-・さようなら竜生、こんにちは人生
-・ひとりぼっちの異世界攻略
-・合コンに行ったら女がいなかった話
-・星降る王国のニナ
-・嘆きの亡霊は引退したい
-・Re:ゼロから始める異世界生活　3rd season
-・ダンジョンに出会いを求めるのは間違っているだろうかⅤ
-・ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ
-・魔王2099
-・精霊幻想記2
-・メカウデ
-・妖怪学校の先生はじめました！
-・ブルーロック VS. U-20 JAPAN
-・凍牌〜裏レート麻雀闘牌録〜
-・BLEACH 千年血戦篇-相剋譚-
-・転生貴族、鑑定スキルで成り上がる 第2期"
-
-ビビりで泣き虫な新米教師・安倍晴明（あべはるあき）。 憧れの教師になり、喜んでいたのもつかの間！　赴任先の百鬼学園は、なんと妖怪たちの妖怪たちによる妖怪たちだけの学校だった！気弱でヘタレ、しかも人間である晴明を、学園長が雇った理由とは一体……！？ クセ強人間教師・晴明と、個性が大渋滞の妖怪生徒＆先生たちの、奇妙でにぎやかな日常を描く、愉快☆痛快☆妖怪☆学園コメディ！授業開始！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p46/thumb001.png" />
+		<desc>ビビりで泣き虫な新米教師・安倍晴明（あべはるあき）。 憧れの教師になり、喜んでいたのもつかの間！　赴任先の百鬼学園は、なんと妖怪たちの妖怪たちによる妖怪たちだけの学校だった！気弱でヘタレ、しかも人間である晴明を、学園長が雇った理由とは一体……！？ クセ強人間教師・晴明と、個性が大渋滞の妖怪生徒＆先生たちの、奇妙でにぎやかな日常を描く、愉快☆痛快☆妖怪☆学園コメディ！授業開始！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/248-21_s2_p13/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250107150000 +0000" stop="20250107153000 +0000">
 		<title>外れスキル《木の実マスター》#2【地上波1週間先行・見放題独占】</title>
@@ -2192,10 +2172,16 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 冒険者になれないと言われた男による、歴史に名を残す冒険が、いま始まる……！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/194-45_s1_p2/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20250107153000 +0000" stop="20250107160000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	<programme channel="abema-anime" start="20250107153000 +0000" stop="20250107154500 +0000">
+		<title>ニートくノ一となぜか同棲はじめました #1【最新話】</title>
+		<desc>平凡なサラリーマン・安海政（あつみつかさ）を妖魔から守護するべく、居候を条件に主従契約を結んだ天才くノ一・出浦白津莉(いでうらしづり)。颯爽と妖魔を倒す姿とは裏腹に、しづりはゲーム三昧のオタクニートであった。
+政に甘やかされ、ぐうたら同棲生活を送るしづりのもとにクセつよくノ一たちも集結し…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p30/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20250107154500 +0000" stop="20250107160000 +0000">
+		<title>いくだもも！ そびー #1〜3【無料ビデオ1週間】</title>
+		<desc>カフェインコからお店の宣伝を手伝って欲しいってお願いされたんだもも！たけしとゆるげんも一緒に考えたんだけど、みんな自由すぎてまとまらないだもも〜</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-683_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250107160000 +0000" stop="20250107162500 +0000">
 		<title>モブ皇帝 #14【最新話】</title>
@@ -2231,7 +2217,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	<programme channel="abema-anime" start="20250107173000 +0000" stop="20250107180000 +0000">
 		<title>妖怪学校の先生はじめました！ #13・見逃し放送</title>
 		<desc>ビビりで泣き虫な新米教師・安倍晴明（あべはるあき）。 憧れの教師になり、喜んでいたのもつかの間！　赴任先の百鬼学園は、なんと妖怪たちの妖怪たちによる妖怪たちだけの学校だった！気弱でヘタレ、しかも人間である晴明を、学園長が雇った理由とは一体……！？ クセ強人間教師・晴明と、個性が大渋滞の妖怪生徒＆先生たちの、奇妙でにぎやかな日常を描く、愉快☆痛快☆妖怪☆学園コメディ！授業開始！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p46/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/248-21_s2_p13/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250107180000 +0000" stop="20250107183000 +0000">
 		<title>ひみつのアイプリ #39【最新話】</title>
@@ -2249,7 +2235,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 だけど、みつきにもなにやら『ひみつ』があるようで…… 。
 
 ひみつを抱えたひまりとみつき、２人のアイプリがはじまります！！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p111/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-13_s1_p39/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250107183000 +0000" stop="20250107190000 +0000">
 		<title>外れスキル《木の実マスター》#2・見逃し放送</title>
@@ -2278,8 +2264,12 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	</programme>
 	<programme channel="abema-anime" start="20250107190000 +0000" stop="20250107193000 +0000">
 		<title>アオのハコ #13・見逃し放送</title>
-		<desc>毎朝一番に会いたい人がいる―― 中高一貫のスポーツ強豪校・栄明高校に入学する、男子バドミントン部の一年生・猪股大喜。 大喜は毎朝、朝練で顔を合わせる一つ上の先輩、鹿野千夏に恋をする。 千夏は女子バスケットボール部のエースで、校内外問わず人気の高嶺の花。 部活に恋に勉強に、大喜にとって忙しい高校生活がはじまる、そんなある日――</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p45/thumb001.png" />
+		<desc>毎朝一番に会いたい人がいる――
+中高一貫のスポーツ強豪校・栄明高校に入学する、男子バドミントン部の一年生・猪股大喜。
+大喜は毎朝、朝練で顔を合わせる一つ上の先輩、鹿野千夏に恋をする。
+千夏は女子バスケットボール部のエースで、校内外問わず人気の高嶺の花。
+部活に恋に勉強に、大喜にとって忙しい高校生活がはじまる、そんなある日ーーー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-59_s1_p13/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250107193000 +0000" stop="20250107200000 +0000">
 		<title>BanG Dream! Ave Mujica #1・見逃し放送</title>
@@ -2328,7 +2318,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	<programme channel="abema-anime" start="20250107203000 +0000" stop="20250107210000 +0000">
 		<title>妖怪学校の先生はじめました！ #13・見逃し放送</title>
 		<desc>ビビりで泣き虫な新米教師・安倍晴明（あべはるあき）。 憧れの教師になり、喜んでいたのもつかの間！　赴任先の百鬼学園は、なんと妖怪たちの妖怪たちによる妖怪たちだけの学校だった！気弱でヘタレ、しかも人間である晴明を、学園長が雇った理由とは一体……！？ クセ強人間教師・晴明と、個性が大渋滞の妖怪生徒＆先生たちの、奇妙でにぎやかな日常を描く、愉快☆痛快☆妖怪☆学園コメディ！授業開始！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p46/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/248-21_s2_p13/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250107210000 +0000" stop="20250107213000 +0000">
 		<title>外れスキル《木の実マスター》#2・見逃し放送</title>
@@ -2357,8 +2347,12 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	</programme>
 	<programme channel="abema-anime" start="20250107213000 +0000" stop="20250107220000 +0000">
 		<title>アオのハコ #13・見逃し放送</title>
-		<desc>毎朝一番に会いたい人がいる―― 中高一貫のスポーツ強豪校・栄明高校に入学する、男子バドミントン部の一年生・猪股大喜。 大喜は毎朝、朝練で顔を合わせる一つ上の先輩、鹿野千夏に恋をする。 千夏は女子バスケットボール部のエースで、校内外問わず人気の高嶺の花。 部活に恋に勉強に、大喜にとって忙しい高校生活がはじまる、そんなある日――</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p45/thumb001.png" />
+		<desc>毎朝一番に会いたい人がいる――
+中高一貫のスポーツ強豪校・栄明高校に入学する、男子バドミントン部の一年生・猪股大喜。
+大喜は毎朝、朝練で顔を合わせる一つ上の先輩、鹿野千夏に恋をする。
+千夏は女子バスケットボール部のエースで、校内外問わず人気の高嶺の花。
+部活に恋に勉強に、大喜にとって忙しい高校生活がはじまる、そんなある日ーーー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-59_s1_p13/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250107220000 +0000" stop="20250108040000 +0000">
 		<title>きのこいぬ #1～12【無料ビデオ1週間】</title>
@@ -2405,7 +2399,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 だけど、みつきにもなにやら『ひみつ』があるようで…… 。
 
 ひみつを抱えたひまりとみつき、２人のアイプリがはじまります！！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p111/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-13_s1_p39/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250108120000 +0000" stop="20250108130000 +0000">
 		<title>No programme</title>
@@ -2415,7 +2409,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	<programme channel="abema-anime" start="20250108130000 +0000" stop="20250108133000 +0000">
 		<title>妖怪学校の先生はじめました！ #13・見逃し放送</title>
 		<desc>ビビりで泣き虫な新米教師・安倍晴明（あべはるあき）。 憧れの教師になり、喜んでいたのもつかの間！　赴任先の百鬼学園は、なんと妖怪たちの妖怪たちによる妖怪たちだけの学校だった！気弱でヘタレ、しかも人間である晴明を、学園長が雇った理由とは一体……！？ クセ強人間教師・晴明と、個性が大渋滞の妖怪生徒＆先生たちの、奇妙でにぎやかな日常を描く、愉快☆痛快☆妖怪☆学園コメディ！授業開始！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p46/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/248-21_s2_p13/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250108133000 +0000" stop="20250108140000 +0000">
 		<title>いずれ最強の錬金術師？ #2【WEB最速】</title>
@@ -2433,7 +2427,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 「第10回アルファポリスファンタジー小説大賞」読者賞受賞、
 シリーズ累計発行部数120万部突破、コミカライズも絶好調の大人気作が、待望のアニメ化！
 望んでいないのに最強になってしまった錬金術師の、ほのぼの(?)異世界冒険譚が幕を開ける！！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p81/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-101_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250108140000 +0000" stop="20250108143000 +0000">
 		<title>外れスキル《木の実マスター》#2・見逃し放送</title>
@@ -2472,7 +2466,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 命懸けの“ド青春”新選組『青のミブロ』。
 シリーズ累計1300万部超えの青春サッカーマンガ『DAYS』安田剛士による
 「週刊少年マガジン」にて大人気連載中の最新作、待望のアニメ化！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p91/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-205_s1_p12/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250108150000 +0000" stop="20250108152500 +0000">
 		<title>モブ皇帝 #14・見逃し放送</title>
@@ -2501,7 +2495,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 
 この異世界、魔法がない!?
 そんな世界に転生した主人公の少年シオンが紡いでいく、ロマン求める魔法開発ファンタジースタート。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p112/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-277_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250108160000 +0000" stop="20250108163000 +0000">
 		<title>グリザイア：ファントムトリガー #2【最新話】</title>
@@ -2509,7 +2503,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 かつて少女たちの箱庭だった「美浜学園」は国防を担う人材を育てるSORD(ソード)訓練校へと生まれ変わった。
 拳銃を使用するレナ＆マキ、狙撃を得意とするトーカ＆グミ、爆弾と情報処理のクリス、諜報活動担当の忍者ムラサキ。彼女たちは、警察や自衛隊には解決できない事件にあたり、危険な活動を繰り返す。
 これは、血と硝煙に彩られた少女たちの物語──</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p89/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-234_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250108163000 +0000" stop="20250108170000 +0000">
 		<title>ひみつのアイプリ #39・見逃し放送</title>
@@ -2527,7 +2521,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 だけど、みつきにもなにやら『ひみつ』があるようで…… 。
 
 ひみつを抱えたひまりとみつき、２人のアイプリがはじまります！！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p111/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-13_s1_p39/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250108170000 +0000" stop="20250108173000 +0000">
 		<title>いずれ最強の錬金術師？ #2・見逃し放送</title>
@@ -2545,7 +2539,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 「第10回アルファポリスファンタジー小説大賞」読者賞受賞、
 シリーズ累計発行部数120万部突破、コミカライズも絶好調の大人気作が、待望のアニメ化！
 望んでいないのに最強になってしまった錬金術師の、ほのぼの(?)異世界冒険譚が幕を開ける！！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p81/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-101_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250108173000 +0000" stop="20250108180000 +0000">
 		<title>青のミブロ #12・見逃し放送</title>
@@ -2559,7 +2553,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 命懸けの“ド青春”新選組『青のミブロ』。
 シリーズ累計1300万部超えの青春サッカーマンガ『DAYS』安田剛士による
 「週刊少年マガジン」にて大人気連載中の最新作、待望のアニメ化！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p91/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-205_s1_p12/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250108180000 +0000" stop="20250108180300 +0000">
 		<title>ちびゴジラの逆襲 #54【最新話】</title>
@@ -2567,7 +2561,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 豪華すぎる声優陣で、クセが強すぎるちび怪獣たちの、ゆるすぎる日常を描く。
 果たしてちびゴジラは父であるゴジラのような立派な大怪獣になれるのか！？
 毎話3分くらいで送るノンストップモンスターエンターテインメント！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p87/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-168_s1_p54/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250108180300 +0000" stop="20250108183000 +0000">
 		<title>いくだもも！そびー #1〜6【無料ビデオ1週間】</title>
@@ -2631,7 +2625,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 
 この異世界、魔法がない!?
 そんな世界に転生した主人公の少年シオンが紡いでいく、ロマン求める魔法開発ファンタジースタート。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p112/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-277_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250109133000 +0000" stop="20250109140000 +0000">
 		<title>Dr.STONE SCIENCE FUTURE #1【最新話】</title>
@@ -2650,8 +2644,17 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	</programme>
 	<programme channel="abema-anime" start="20250109140000 +0000" stop="20250109143000 +0000">
 		<title>BanG Dream! Ave Mujica #2【地上波同時・無料最速】</title>
-		<desc>「言ったでしょう？残りの人生、わたくしに下さいと」 豊川祥子がメンバーを招き入れたバンド・Ave Mujicaは、 ライブやメディア露出など、商業的な成功を収めていた。 運命をともにすると誓った仲間も、生まれ育った家も失った少女。 彼女は何のために他人の一生を背負い、バンドを続けるのか。 過去も素顔も仮面で覆い隠し、今宵も完璧な箱庭に降り立つ。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p29/thumb001.png" />
+		<desc>「言ったでしょう？残りの人生、わたくしに下さいと」
+
+豊川祥子がメンバーを招き入れたバンド・Ave Mujicaは、
+ライブやメディア露出など、商業的な成功を収めていた。
+
+運命をともにすると誓った仲間も、生まれ育った家も失った少女。
+彼女は何のために他人の一生を背負い、バンドを続けるのか。
+
+過去も素顔も仮面で覆い隠し、今宵も完璧な箱庭に降り立つ。
+――これからご覧にいれますのは、秘密を抱えた、彼女の話。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/283-26_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250109143000 +0000" stop="20250109150000 +0000">
 		<title>不遇職【鑑定士】が実は最強だった #1【地上波同時・見放題独占】</title>
@@ -2725,7 +2728,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 いいえ、社会で培ったおじさんスキルです！！
 
 おじさん×異世界転生×悪役令嬢でお届けするほのぼのコメディ、堂々開幕(スタート)</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p34/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/593-11_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250109163000 +0000" stop="20250109170000 +0000">
 		<title>アオのハコ #14【最新話】</title>
@@ -7136,9 +7139,10 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-26_s1_p13/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250111070000 +0000" stop="20250111130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
+		<title>チ。 ー地球の運動についてー #1〜13【無料ビデオ1週間】</title>
+		<desc>舞台は15世紀のヨーロッパ某国。飛び級で大学への進学を認められた神童・ラファウ。彼は周囲の期待に応え、当時最も重要とされていた神学を専攻すると宣言。が、以前から熱心に打ち込んでいる天文への情熱は捨てられずにいた。
+ある日、彼はフベルトという謎めいた学者と出会う。異端思想に基づく禁忌に触れたため拷問を受け、投獄されていたというフベルト。彼が研究していたのは、宇宙に関する衝撃的な「ある仮説」だった――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/568-32_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250111130000 +0000" stop="20250111143000 +0000">
 		<title>声優と夜あそび 土【岡本信彦×仲村宗悟】#29</title>
@@ -13171,6 +13175,146 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 		<desc>六遊怪の大将として登場したのは妙な酔っぱらい酎。対する浦飯チームは、やっと目覚めた幽助である。だが酎は見た目とは裏腹に、洗練された技と、幽助と互角に戦えるほどの力を持っていた。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-29_s2_p31/thumb001.png" />
 	</programme>
+	<programme channel="90s-anime-1" start="20250108190000 +0000" stop="20250109030000 +0000">
+		<title>こちら葛飾区亀有公園前派出所 #158〜172【無料ビデオ1週間】</title>
+		<desc>両津企画のドンデモないかつしか署ゴルフ大会。賞金２０万円を狙って、両津や小町たちは大奮闘</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-2_s1_p158/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250109030000 +0000" stop="20250109061500 +0000">
+		<title>クッキングパパ #10〜16【無料ビデオ1週間】</title>
+		<desc>父ちゃんが朝寝坊！母ちゃんとまことのお弁当はどうするの？時間がなくても父ちゃんのアイデアなら大丈夫。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-3_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250109061500 +0000" stop="20250109083600 +0000">
+		<title>スラムダンク #36〜40【無料ビデオ1週間】</title>
+		<desc>第三試合でもファウルを5つ取られ、またまた退場の花道｡試合には勝ったものの素直に喜べずにいた｡そして晴子に励まされて挑んだ第四試合でも同様に退場処分を言い渡され、もはや花道の「退場王」は不動のものとなってしまう。そのせいか、すでにベスト８まで駒を進め、順調な湘北の中で花道だけは落ち込んだままだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-33_s4_p36/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250109083600 +0000" stop="20250109110000 +0000">
+		<title>幽☆遊☆白書 #36〜40【無料ビデオ24時間】</title>
+		<desc>Dr.イチガキの操血瘤によって、殺人マシンにされたM-1、2、3号。操血瘤を壊さない限り三人は止められないが、そうすれば彼らは死んでしまう。どうしても本気で戦えない幽助にかわり、覆面戦士は三人を倒すが…？！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-29_s2_p36/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250109110000 +0000" stop="20250109141500 +0000">
+		<title>クッキングパパ #10〜16【無料ビデオ1週間】</title>
+		<desc>父ちゃんが朝寝坊！母ちゃんとまことのお弁当はどうするの？時間がなくても父ちゃんのアイデアなら大丈夫。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-3_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250109141500 +0000" stop="20250109163600 +0000">
+		<title>スラムダンク #36〜40【無料ビデオ1週間】</title>
+		<desc>第三試合でもファウルを5つ取られ、またまた退場の花道｡試合には勝ったものの素直に喜べずにいた｡そして晴子に励まされて挑んだ第四試合でも同様に退場処分を言い渡され、もはや花道の「退場王」は不動のものとなってしまう。そのせいか、すでにベスト８まで駒を進め、順調な湘北の中で花道だけは落ち込んだままだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-33_s4_p36/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250109163600 +0000" stop="20250109190000 +0000">
+		<title>幽☆遊☆白書 #36〜40【無料ビデオ24時間】</title>
+		<desc>Dr.イチガキの操血瘤によって、殺人マシンにされたM-1、2、3号。操血瘤を壊さない限り三人は止められないが、そうすれば彼らは死んでしまう。どうしても本気で戦えない幽助にかわり、覆面戦士は三人を倒すが…？！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-29_s2_p36/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250109190000 +0000" stop="20250110030000 +0000">
+		<title>こちら葛飾区亀有公園前派出所 #173〜187【無料ビデオ1週間】</title>
+		<desc>警察庁対抗剣道大会を控えて、練習を重ねる両津達。ライバルの小次郎は両津よりも卑怯な男。二人の対決は…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-2_s1_p173/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250110030000 +0000" stop="20250110061600 +0000">
+		<title>クッキングパパ #17〜23【無料ビデオ1週間】</title>
+		<desc>味知姉ちゃんの新しい恋人の根子田さん。でもちょっと頼りないんだよなぁ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-3_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250110061600 +0000" stop="20250110083600 +0000">
+		<title>スラムダンク #41〜45【無料ビデオ1週間】</title>
+		<desc>リバウンドを制した花道の活躍で最大のピンチを切りぬけた湘北。気力で後半に臨むが、三井の消耗は予想以上だった。だが花道が「リバウンダー」としてその資質を開花させたため、試合は湘北ペースで進んでいく。さらに流川のシュートにより逆転に成功すると、危機感を抱いた翔陽の藤真はついに決断を下した。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-33_s4_p41/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250110083600 +0000" stop="20250110110000 +0000">
+		<title>幽☆遊☆白書 #41〜45【無料ビデオ24時間】</title>
+		<desc>陣と幽助の戦いが終わった。だが大会本部の裏工作により、両者リングアウトの判定が出され、浦飯チームの負けが宣告されそうになる。納得できない幽助。だが、その時、大ケガを負って戦えないはずの桑原が立ち上がった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-29_s2_p41/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250110110000 +0000" stop="20250110141600 +0000">
+		<title>クッキングパパ #17〜23【無料ビデオ1週間】</title>
+		<desc>味知姉ちゃんの新しい恋人の根子田さん。でもちょっと頼りないんだよなぁ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-3_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250110141600 +0000" stop="20250110163600 +0000">
+		<title>スラムダンク #41〜45【無料ビデオ1週間】</title>
+		<desc>リバウンドを制した花道の活躍で最大のピンチを切りぬけた湘北。気力で後半に臨むが、三井の消耗は予想以上だった。だが花道が「リバウンダー」としてその資質を開花させたため、試合は湘北ペースで進んでいく。さらに流川のシュートにより逆転に成功すると、危機感を抱いた翔陽の藤真はついに決断を下した。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-33_s4_p41/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250110163600 +0000" stop="20250110190000 +0000">
+		<title>幽☆遊☆白書 #41〜45【無料ビデオ24時間】</title>
+		<desc>陣と幽助の戦いが終わった。だが大会本部の裏工作により、両者リングアウトの判定が出され、浦飯チームの負けが宣告されそうになる。納得できない幽助。だが、その時、大ケガを負って戦えないはずの桑原が立ち上がった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-29_s2_p41/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250110190000 +0000" stop="20250111030000 +0000">
+		<title>こちら葛飾区亀有公園前派出所 #188〜202【無料ビデオ1週間】</title>
+		<desc>今の政治はだめだと突然政治家を目指し選挙にでることになった両津。でたらめな公約とライバルへの中傷で、選挙戦はとんでもない様相に…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-2_s1_p188/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250111030000 +0000" stop="20250111061500 +0000">
+		<title>クッキングパパ #24〜29【無料ビデオ1週間】</title>
+		<desc>会社のみんながみゆきの出産祝いに来てくれた。みんなありがとう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-3_s1_p23/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250111061500 +0000" stop="20250111083500 +0000">
+		<title>スラムダンク #46〜50【無料ビデオ1週間】</title>
+		<desc>後半残り2分30秒でスコアは60対60。ボールは花道の手に渡り、一気にゴールへと持ち込みシュート体勢に入る。立ちふさがる花形たち2枚の壁。会場のすべての視線が、そして晴子の目が注がれた中、花道は2枚の壁をモノともせず、豪快にリングの中へとボールを叩きつけた……!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-33_s4_p46/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250111083500 +0000" stop="20250111110000 +0000">
+		<title>幽☆遊☆白書 #46〜50【無料ビデオ24時間】</title>
+		<desc>闇アイテム“奇美団子”の力で、次々と変身し、強さを増してゆく黒桃太郎。苦戦する飛影だが、奥義・邪王炎殺剣を使い、辛くも勝利する。そして次なる戦い、蔵馬と裏御伽チーム裏浦島の対決が始まった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-29_s2_p46/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250111110000 +0000" stop="20250111141500 +0000">
+		<title>クッキングパパ #24〜29【無料ビデオ1週間】</title>
+		<desc>会社のみんながみゆきの出産祝いに来てくれた。みんなありがとう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-3_s1_p23/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250111141500 +0000" stop="20250111163500 +0000">
+		<title>スラムダンク #46〜50【無料ビデオ1週間】</title>
+		<desc>後半残り2分30秒でスコアは60対60。ボールは花道の手に渡り、一気にゴールへと持ち込みシュート体勢に入る。立ちふさがる花形たち2枚の壁。会場のすべての視線が、そして晴子の目が注がれた中、花道は2枚の壁をモノともせず、豪快にリングの中へとボールを叩きつけた……!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-33_s4_p46/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250111163500 +0000" stop="20250111190000 +0000">
+		<title>幽☆遊☆白書 #46〜50【無料ビデオ24時間】</title>
+		<desc>闇アイテム“奇美団子”の力で、次々と変身し、強さを増してゆく黒桃太郎。苦戦する飛影だが、奥義・邪王炎殺剣を使い、辛くも勝利する。そして次なる戦い、蔵馬と裏御伽チーム裏浦島の対決が始まった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-29_s2_p46/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250111190000 +0000" stop="20250112030000 +0000">
+		<title>こちら葛飾区亀有公園前派出所 #203〜217【無料ビデオ1週間】</title>
+		<desc>おばあさんの原宿、巣鴨に対抗して、亀有をおじいさんの原宿にしようと、町おこし計画をたてた両津。しかし、おじいさんのニーズをつかむのは難しく・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-2_s1_p203/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250112030000 +0000" stop="20250112061600 +0000">
+		<title>クッキングパパ #30〜36【無料ビデオ1週間】</title>
+		<desc>えっ！父ちゃんが料理番組に出演する？父ちゃんいいの？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-3_s1_p29/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250112061600 +0000" stop="20250112083600 +0000">
+		<title>スラムダンク #51〜55【無料ビデオ1週間】</title>
+		<desc>決勝リーグの初戦、海南VS湘北の火蓋が切って落とされた。王者・海南は一年生の信長がダンクを決めるなど、一気に引き離しにかかる。信長に対して自分が上だと思っていた花道は、信長にナメられていたと気付いて大激怒。リョータ直伝のフェイクで信長をかわし、鮮やかなシュートを決めることでやり返す｡</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-33_s5_p51/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250112083600 +0000" stop="20250112110000 +0000">
+		<title>幽☆遊☆白書 #51〜55【無料ビデオ24時間】</title>
+		<desc>戸愚呂チームの準決勝が始まった。しかしなぜか戸愚呂・弟の姿がなく、チームは三人で戦うことに。だが、その強さは比べものにならず、次々と相手を倒してゆく。実は戸愚呂・弟は、幻海と50年目の再会をしていたのだ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-29_s2_p51/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250112110000 +0000" stop="20250112141600 +0000">
+		<title>クッキングパパ #30〜36【無料ビデオ1週間】</title>
+		<desc>えっ！父ちゃんが料理番組に出演する？父ちゃんいいの？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-3_s1_p29/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250112141600 +0000" stop="20250112163600 +0000">
+		<title>スラムダンク #51〜55【無料ビデオ1週間】</title>
+		<desc>決勝リーグの初戦、海南VS湘北の火蓋が切って落とされた。王者・海南は一年生の信長がダンクを決めるなど、一気に引き離しにかかる。信長に対して自分が上だと思っていた花道は、信長にナメられていたと気付いて大激怒。リョータ直伝のフェイクで信長をかわし、鮮やかなシュートを決めることでやり返す｡</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-33_s5_p51/thumb001.png" />
+	</programme>
+	<programme channel="90s-anime-1" start="20250112163600 +0000" stop="20250112190000 +0000">
+		<title>幽☆遊☆白書 #51〜55【無料ビデオ24時間】</title>
+		<desc>戸愚呂チームの準決勝が始まった。しかしなぜか戸愚呂・弟の姿がなく、チームは三人で戦うことに。だが、その強さは比べものにならず、次々と相手を倒してゆく。実は戸愚呂・弟は、幻海と50年目の再会をしていたのだ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-29_s2_p51/thumb001.png" />
+	</programme>
 	<programme channel="00s-anime-1" start="20241229142500 +0000" stop="20241229175000 +0000">
 		<title>銀魂 #8〜14【無料ビデオ1週間】</title>
 		<desc>真選組が江戸の治安を守るために奮闘している傍らで、局長の近藤はスナックで働くお妙相手にくだを巻いていた。自分はダメな奴だと落ち込む近藤に、愛する人なら欠点ごと愛することが出来ると微笑むお妙。その彼女に近藤は一目惚れし、結婚を申し込むがグーで殴られる。しかし近藤は諦めきれず、拒絶するお妙にあの手この手で熱烈なアピールを繰り返す。堪忍袋の緒が切れたお妙は、銀時を巻き込んで一芝居打とうとするが、事態は意外な方向へと発展してしまう…。</desc>
@@ -15227,8 +15371,18 @@ season5となる今シーズンの夫婦は誰!?
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250105140000 +0000" stop="20250105151600 +0000">
-		<title>千鳥MC チャンスの時間 #297</title>
-		<desc>千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<title>チャンスの時間 #297〜大悟の秘密暴露!?新春カミングアウト漫才2025</title>
+		<desc>【新春カミングアウト漫才2025】
+M-1ファイナリスト・THE W王者・THE SECOND王者が集結！
+相方に秘密にしていたことを漫才中にカミングアウト！
+衝撃的すぎてネタが飛ぶほどの爆弾が投下される！
+
+暴露しまくりでコンピ中修復不可能!?
+「これが流出したら芸人辞めなきゃいけない」
+
+まさかの大悟にも飛び火!?大悟の秘密が暴露される…!!
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p297/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250105151600 +0000" stop="20250105161600 +0000">
@@ -15372,16 +15526,23 @@ season5となる今シーズンの夫婦は誰!?
 ③卒業編2024 in ソウル メンバー紹介
 メンバーのことをもっと知れる！
 インタビュー映像を公開。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-31_s2_p3/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1965_s680_p1101/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250106140000 +0000" stop="20250106150000 +0000">
-		<title>今日、全力でやってみた。#8</title>
+		<title>＃８：今日好きメンバー２２人ガチバトル！No.1は誰だ？今日、全力でやってみた。</title>
 		<desc>「その一瞬をサイコーに！」
 日本中の学生たちが、“今どうしてもやってみたいこと”に
-本気でぶつかって行く全力挑戦バラエティ！
+本気でぶつかって行く全力挑戦バラエティ！キョウリョク！！
 
-xxxxxx
+２０２５年、最初の企画は「キョウリョクカップ」
+総勢２２人の今日好きメンバーが２チームに分かれ、全１１種目でガチバトル！
+最新カップルも成立後、ホヤホヤで緊急参戦！
+前半戦では大声・５０m走・腕相撲・ドッジボール・最強運の５種目で、今日好きNo.1を決定！
+さらに、スタジオではこおめいカップルが愛の叫び！ドキドキが止まらない
 
+スキマあそびコーナーでは、「TikTok恋愛運勢ランキング２０２５」
+番組オリジナルフィルターを、みんなでやってみよう！
+今年１番の恋愛運を持っているのは誰なのか？みんなも試してみてね！
 
 主題歌：「輝きだして走ってく」（cover）/ Earworm</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2011_s1_p1008/thumb001.png" />
@@ -17156,7 +17317,19 @@ M-1王者の令和ロマン、ファイナリストのマユリカも参戦！
 		<desc>お父さん、あなたと本音で語りたかった・・・。30代×40代×50代監督による、3つの家族の物語。「お父さん―」、そんなシンプルな言葉に 微かな悲しみが、ふと広がる―。 いったい「父」と本音で話したことがあるだろうか?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/177-288_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250109080000 +0000" stop="20250109180000 +0000">
+	<programme channel="special-plus" start="20250109080000 +0000" stop="20250109100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20250109100000 +0000" stop="20250109130000 +0000">
+		<title>第一生命 D.LEAGUE 24-25【ROUND.6】</title>
+		<desc>ROUND.5では、KADOKAWA DREAMSのSWEEP2連勝や、シンクロパートを全試合獲得しているdip BATTLESが今シーズン初黒星で3位陥落など、毎試合ドラマティックな展開が繰り広げられています。
+新年1発目のROUND.6では、首位奪還を企むValuence INFINITIESとISSEI加入で再び栄冠を勝ち取りたいKOSÉ 8ROCKSとのブレイキン対決をはじめ、上位を死守したいdip BATTLESが、徐々に追い上げを見せるavex ROYALBRATSの勢いを止められるのか。
+注目の対戦カードが目白押しです。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/549-7_s300_p6/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250109130000 +0000" stop="20250109180000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -17296,6 +17469,190 @@ ABEMAでボートレースが観られる！ボートレースの発信拠点『
 		<title>特命係長 只野仁 ABEMATVオリジナル 第3~4話【無料1週間】</title>
 		<desc>ミカド銀行5000万円横領事件の犯人・加藤(谷田歩)が出所した。だが銀行の監査ではまだ2億円もの大金が行方不明だという。黒川会長(梅宮辰夫)の特命を受けた只野(高橋克典)は加藤の動きを見張る。彼の同僚だった田川の妻・冴子(大島優香)と加藤の間にただならぬ雰囲気を感じた只野は、加藤に接触を試みるが...。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-13_s0_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20241229090000 +0000" stop="20241229180000 +0000">
+		<title>トリック3(2003年) 全話一挙</title>
+		<desc>episode1 「密室の謎言霊で人を操る男」
+
+蛾眉村に、謎の男・芝川玄奘(森本レオ)が現われる。神聖な森を汚す者には天罰が下ると、森に居座る玄奘。彼は、ナント言葉にしたことを必ず現実にすることができるのだ! 彼が何かを口にすると、意志とは関係なく皆その通りになる。人だけでなく、自然界さえも......。
+
+森のリゾート開発計画の関係者たちが次々と事故に遭遇!開発会社勤務の相沢(甲本雅裕)は玄奘の信者集団に潜入するものの、自殺を宣告されてしまう! 相沢に玄奘のインチキを暴いて欲しいと頼まれた上田(阿部寛)は、奈緒子(仲間由紀恵)と共に村へ行き...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-20_s3_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20241229180000 +0000" stop="20241229213500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20241229213500 +0000" stop="20241230014400 +0000">
+		<title>わかっていても the shapes of love #1〜7</title>
+		<desc>鎌倉にある美術大学に特別臨時講師として海外から赴任してきた漣（れん／28歳）。
+若き天才芸術家である漣は、誰もが近づきたくなる吸引力と、誰にも深入りさせないミステリアスな魅力を併せ持つ“沼男”。
+まるで、花に群がる蝶のように、常に誰かが彼の周りを囲んでいた。
+
+才能溢れる漣は、周囲の期待に応えるように一見器用に生きながらも、周りの人々に対しどこか諦めに近い感情を抱いていた。
+しかし、他とは違うある女性・美羽（みう／27歳）に出会う。
+
+漣と同じ美術大学で彫刻学科の助手として働く彼女は、在学中に思うような結果を出せず、卒業後も彫刻家としての夢を諦められずに助手という形で大学に残りながら、海外渡航の道を探っていた。
+燻った自分とは正反対な、稀有な才能をもちながらも多くを望まず飄々と生きているように見える漣に、憧れと嫉妬と悔しさを混ぜた感情をぶつけてしまう。
+そんな彼女に漣も興味を持ちはじめ――</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/342-7_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20241230014400 +0000" stop="20241230060000 +0000">
+		<title>どうせもう逃げられない 全話一挙【無料1週間】</title>
+		<desc>就職活動中の野田蔵なほは、当面の生活費のため短期アルバイトの採用面接を受ける事に。面接に向かう途中、なほは痴話ゲンカをしている男女に遭遇する。その男は女性をあしらうため、たまたまそこにいたなほを新しい彼女扱いする。男のいい加減な態度に腹を立てたなほは、思わず彼を突き飛ばしてしまう。そして面接に向かったデザイン会社「ソロ・デザインオフィス」事務所にいたのは、先ほどの男、事務所代表の向坂拓己だった──。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/601-19_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20241230060000 +0000" stop="20241230114500 +0000">
+		<title>月曜21時とわかっていても #1~3</title>
+		<desc>週のはじまり月曜日の夜。
+なんだか物足りない丸山礼。
+明日も早いしお風呂に入って寝なきゃと、わかっているのに…
+ふとABEMAを開いて「わかっていても」を見始めたら、
+語り明かさずにはいられない夜がはじまるのであった...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/342-7_s1_p801/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20241230114500 +0000" stop="20241230130000 +0000">
+		<title>月曜21時とわかっていても</title>
+		<desc>週のはじまり月曜日の夜。
+なんだか物足りない丸山礼。
+明日も早いしお風呂に入って寝なきゃと、わかっているのに…
+ふとABEMAを開いて「わかっていても」を見始めたら、
+語り明かさずにはいられない夜がはじまるのであった...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/342-7_s10000_p4/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20241230130000 +0000" stop="20241230152100 +0000">
+		<title>きみの瞳が問いかけている【ABEMA初/無料1週間】</title>
+		<desc>目は不自由だか明るく愛くるしい明香里と、罪を犯しキックボクサーとしての未来を絶たれた塁。小さな勘違いから出会った二人は惹かれあい、ささやかながらも掛け替えのない幸せを手にした―かに見えた。ある日、明香里は、誰にも言わずにいた秘密を塁に明かす。彼女は自らが運転していた車の事故で両親を亡くし、自身も視力を失っていたのだ。以来、ずっと自分を責めてきたという明香里。だが、彼女の告白を聞いた塁は、彼だけが知るあまりに残酷な運命の因果に気付いてしまっていた―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/161-53_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20241230152100 +0000" stop="20241230160500 +0000">
+		<title>恋と知った日</title>
+		<desc>■あらすじ
+渚（南沙良）、大学2年生、恋人なし。
+こんなに人がたくさん住んでいる街で、このまま自分だけひとりぼっちなのではないかと不安になった彼女は、
+マッチングアプリで恋人を探すも、好きな人に出会えず恋を諦めかけていた。
+しかし、これで最後にしようと決めた日に啓太郎（板垣瑞生）に出会う。
+彼は渚が今まで感じたことがないほど心地が良くて、運命のように思える人だった。
+気がついたら彼が生活に溶け込んでいて、一緒に暮らす毎日が宝物のようになっていく。
+……でも、それが怖かった。
+幸福のあとには必ず不幸がおとずれる。
+それが、この世のセオリーだから…。
+
+"別れよう"という言葉で、私たちは確かに恋人同士だったのだと、気づいた。
+
+■番組概要
+「ABEMA」・「MIRRORLIAR FILMS」 オリジナル短編映画
+
+—はじめから、終わりが来るなんてわかってた—
+マッチングアプリでみつけた、"大好き"な人。
+『付き合おう』とか、『今日から恋人ね』とかそんな言葉は交わさなかった—。
+宝物のような日々に 突然訪れる選択。
+きっと誰もが心の奥にしまっている
+"忘れられない恋"を描いた儚いラブストーリー。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/635-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20241230160500 +0000" stop="20241231060000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20241231060000 +0000" stop="20241231140000 +0000">
+		<title>SANKYO presents LIFETIME BOXING FIGHTS25</title>
+		<desc>王者・マルティネスの欠場により井岡一翔のWBA世界スーパーフライ級ダイレクトリマッチは中止となりました。
+
+12月31日に大田区総合体育館で行われる「SANKYO presents LIFETIME BOXING FIGHTS 25」をABEMA独占生中継！
+
+▼予定カード
+第１試合　髙橋虹空 vs 愛甲隼人（フェザー級 ４回戦）
+第２試合　中田雅大 vs 山城勇希（スーパーバンタム級 ４回戦）
+第３試合　為田真生 vs 緑川創（72.0kg契約 ６回戦）
+第４試合　白石聖 vs 佐藤剛（スーパーフライ級 ８回戦）
+第５試合　篠田将人 vs 向山太尊（58.0kg契約 ８回戦）
+第６試合　加藤亜礼史 vs 鈴木雅弘（スーパーライト級 ８回戦）
+第７試合　ウー ハンユン vs 木村吉光（ライト級 ８回戦）
+第８試合　堤駿斗 vs レネ・アルバラード（WBA世界スーパーフェザー級挑戦者決定戦）19時半開始予定
+
+▼キャスト
+実況：高柳謙一 , 西 達彦　
+解説：内山高志 , 内藤大助 , 畑山隆則
+ゲスト：山本 千尋
+レポーター：西澤 由夏</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/608-2_s10014_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20241231140000 +0000" stop="20250101053000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250101053000 +0000" stop="20250101090000 +0000">
+		<title>もうすぐプロレス初め！1.1 NOAH日本武道館！第2試合まで無料生中継SP</title>
+		<desc>あけまして日本武道館！
+プロレスリング・ノア1.1日本武道館大会直前！日本武道館から生中継！
+世界のプロレスファンが注目する中邑真輔vs佐々木憂流迦、そしてGHCヘビー級選手権 清宮海斗vsOZAWAの見どころを徹底解説。
+さらに第2試合まで無料生中継！
+これを見なければプロレスファンの2025年は始まらない！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-18_s10002_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250101090000 +0000" stop="20250102050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250102050000 +0000" stop="20250102135000 +0000">
+		<title>さよならプロポーズ via ギリシャ 全話一挙＋特別編初放送</title>
+		<desc>「“好き”だけじゃ、結婚できないの？」
+付き合いながらも結婚に踏み出せないカップルが、
+「結婚するか」「別れるか」を決断する、”恋人として最後”の旅行。
+
+今回決断の旅に出るのは
+交際約3年。プロポーズしたものの入籍に踏み切れないアオイ(27)と、
+同棲開始をきっかけに愛情表現の減少に悩むモナ(30)。
+そして、「“好き”だけで結婚して良いのか」と悩むシュウヘイ(30)と、
+進まない関係に不安が募るものの、嫌われたくないという気持ちから飲み込んでしまうカホ(30)。
+
+最愛の人と向き合い、自分自身と向き合う７日間で、
+彼らが選択するのは　涙の結婚か？涙の別れか？
+
+
+提供：一般社団法人 未来ウエディングJAPAN</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1303_s3_p1001/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250102135000 +0000" stop="20250106070000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250106070000 +0000" stop="20250106120000 +0000">
+		<title>わかっていても the shapes of love 全話一挙</title>
+		<desc>鎌倉にある美術大学に特別臨時講師として海外から赴任してきた漣（れん／28歳）。
+若き天才芸術家である漣は、誰もが近づきたくなる吸引力と、誰にも深入りさせないミステリアスな魅力を併せ持つ“沼男”。
+まるで、花に群がる蝶のように、常に誰かが彼の周りを囲んでいた。
+
+才能溢れる漣は、周囲の期待に応えるように一見器用に生きながらも、周りの人々に対しどこか諦めに近い感情を抱いていた。
+しかし、他とは違うある女性・美羽（みう／27歳）に出会う。
+
+漣と同じ美術大学で彫刻学科の助手として働く彼女は、在学中に思うような結果を出せず、卒業後も彫刻家としての夢を諦められずに助手という形で大学に残りながら、海外渡航の道を探っていた。
+燻った自分とは正反対な、稀有な才能をもちながらも多くを望まず飄々と生きているように見える漣に、憧れと嫉妬と悔しさを混ぜた感情をぶつけてしまう。
+そんな彼女に漣も興味を持ちはじめ――</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/342-7_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250106120000 +0000" stop="20250111043000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250111043000 +0000" stop="20250111104500 +0000">
+		<title>SDGs推進 TGC しずおか 2025</title>
+		<desc>『SDGs推進 TGC しずおか 2025』をABEMAにて無料生中継！
+
+日本を代表する人気モデルや俳優、アイドル、アーティスト、動画クリエイターたちが静岡に大集結！
+ファッションショーやライブパフォーマンスだけでなく、ここでしか見ることのできないスペシャルステージも！
+
+8回目を迎えさらにパワーアップしてお届けするTGC北九州にご期待ください！
+
+#TGCしずおか #ABEMAでTGC をつけてご視聴ください！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p173/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20241229150000 +0000" stop="20241229161000 +0000">
 		<title>#アベプラ傑作選③/ABEMA NEWS</title>
@@ -18098,7 +18455,7 @@ ABEMAでボートレースが観られる！ボートレースの発信拠点『
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1336/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250106120000 +0000" stop="20250106130000 +0000">
-		<title>#アベプラ①安藤美姫,小原ブラス,柴田阿弥,茂木健一郎</title>
+		<title>#アベプラ①韓国の民主主義を見習え論／ムスリム土葬なぜ反対？</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はシンガーソングライターTOMOOの｢Super Ball｣です。（MC）EXIT、カンニング竹山、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）安部敏樹、泉房穂、岩田温、乙武洋匡、カマたく、ケンドーコバヤシ、後藤寛勝、小原ブラス、佐々木俊尚、シモダテツヤ、竹中平蔵、田端信太郎、男色ディーノ、辻伸弘、てぃ先生、tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、パックン、速水健朗、堀潤、南和行、茂木健一郎、山田俊浩、ヤマトパンクス、ヨッピー、呂布カルマ、あおちゃんぺ、池澤あやか、市原えつこ、岩澤直美、薄井シンシア、大槻奈那、河崎環、菅野志桜里、紗倉まな、柴田阿弥、シャララジマ、鈴木涼美、たかまつなな、陳暁夏代、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、室井佑月、RaMu、山田邦子（気象予報士）穂川果音（進行）平石直之、仁科健吾、田中萌（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p5736/thumb001.png" />
 	</programme>
@@ -18561,9 +18918,11 @@ ABEMAでボートレースが観られる！ボートレースの発信拠点『
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-149_s0_p915/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250111113000 +0000" stop="20250111120000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー「沈没の波紋」</title>
+		<desc>2022年4月、北海道・知床沖で乗客乗員26人を乗せた観光船が沈没した。
+乗客家族の男性は、行方不明の7歳の息子が法的に亡くなったものとする「認定死亡」の手続きをした。運航会社と社長に損害賠償を求める集団提訴の原告になるには「遺族」になる必要があるためだ。
+国の指示により、小型船の検査は厳格化された。しかし、番組が実施した全国の事業者アンケートでは、検査への対応が重い負担となり運営を圧迫している実態が明らかに。
+事故から2年。波紋は広がり続けている。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p611/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250111120000 +0000" stop="20250111130000 +0000">
@@ -18607,9 +18966,11 @@ ABEMAでボートレースが観られる！ボートレースの発信拠点『
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-149_s0_p923/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250112020000 +0000" stop="20250112023000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー「沈没の波紋」</title>
+		<desc>2022年4月、北海道・知床沖で乗客乗員26人を乗せた観光船が沈没した。
+乗客家族の男性は、行方不明の7歳の息子が法的に亡くなったものとする「認定死亡」の手続きをした。運航会社と社長に損害賠償を求める集団提訴の原告になるには「遺族」になる必要があるためだ。
+国の指示により、小型船の検査は厳格化された。しかし、番組が実施した全国の事業者アンケートでは、検査への対応が重い負担となり運営を圧迫している実態が明らかに。
+事故から2年。波紋は広がり続けている。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p612/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250112023000 +0000" stop="20250112030000 +0000">
@@ -27203,6 +27564,40 @@ Mリーグ初代王者になるチームはどこだ!?</desc>
 		<desc>2017年春、全国の麻雀ファン待望の新しい女流タイトル戦として始まった『RTDガールズファイト』がいよいよ第三回大会を迎えることになりました。 今後の活躍が期待される女流プロ16名を集め、予選4卓、各卓2名が準決勝に進出! 準決勝A卓、B卓の上位2名が決勝に進出する。
 ※この番組は2018年5月13日に放送されたものです</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-43_s0_p8/thumb001.png" />
+	</programme>
+	<programme channel="mahjong" start="20250112210300 +0000" stop="20250112215800 +0000">
+		<title>Mリーグベストコレクション</title>
+		<desc>ほんの一握りのトッププロだけが出場できる、麻雀プロリーグ戦「M.LEAGUE(Mリーグ)」。
+数々の名対局を見せるトッププロ達の対局を厳選。
+「スカッとする一発ツモ」「想像もしない和了ルート」「ビタ止め」など、
+チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
+	</programme>
+	<programme channel="mahjong" start="20250112215800 +0000" stop="20250113011700 +0000">
+		<title>RTDリーグ 2017 決勝 最終日 2/2</title>
+		<desc>麻雀界のトッププロ達を招待し、長期リーグ戦で真の強者を決めるRTDリーグ!2017シーズンも予選54回戦を終え、8人が準決勝にコマを進めた!準決勝の激闘を制し、決勝の舞台にたったのは、佐々木寿人、白鳥翔、平賀聡彦、小林剛の4名。いよいよ2017のRTDチャンピオンが決定する!ファイナル最終日!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-20_s1_p201/thumb001.png" />
+	</programme>
+	<programme channel="mahjong" start="20250113011700 +0000" stop="20250113035000 +0000">
+		<title>RTDリーグ 2018 WHITE DIVISION 1回戦・2回戦</title>
+		<desc>真の強者を決めるべく、麻雀界のトッププロ達が今年も結集!!昨シーズンの興奮も冷めやらぬ中、「RTDリーグ2018」がついに開幕を迎えた!
+
+予選 WHITE DIVISION第1回戦は、たろう・達也・平賀・和久津の対戦。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-39_s0_p2/thumb001.png" />
+	</programme>
+	<programme channel="mahjong" start="20250113035000 +0000" stop="20250113070500 +0000">
+		<title>RTDリーグ 2018 BLACK DIVISION 1回戦・2回戦</title>
+		<desc>真の強者を決めるべく、麻雀界のトッププロ達が今年も結集!!昨シーズンの興奮も冷めやらぬ中、「RTDリーグ2018」がついに開幕を迎えた!
+
+予選 BLACK DIVISION第1回戦は、萩原・白鳥・瀬戸熊・多井の対戦。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-40_s0_p2/thumb001.png" />
+	</programme>
+	<programme channel="mahjong" start="20250113070500 +0000" stop="20250113100000 +0000">
+		<title>RTDリーグ 2018 WHITE DIVISION 3回戦・4回戦</title>
+		<desc>真の強者を決めるべく、麻雀界のトッププロ達が今年も結集!!昨シーズンの興奮も冷めやらぬ中、「RTDリーグ2018」がついに開幕を迎えた!
+
+予選 WHITE DIVISION第3回戦は、石橋・猿川・たろう・和久津の対戦。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-39_s0_p4/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20241229071400 +0000" stop="20241229160900 +0000">
 		<title>【再】第49期棋王戦コナミグループ杯五番勝負第1局 藤井聡太棋王 対 伊藤匠七段</title>
