@@ -148,6 +148,10 @@
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
 	</channel>
+	<channel id="fighting-sports4">
+		<display-name>格闘 4チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports4/logo.png" />
+	</channel>
 	<channel id="hiphop">
 		<display-name>HIPHOPチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/hiphop/logo.png" />
@@ -155,10 +159,6 @@
 	<channel id="commercial">
 		<display-name>CMチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/commercial/logo.png" />
-	</channel>
-	<channel id="boatrace">
-		<display-name>BOATRACEチャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boatrace/logo.png" />
 	</channel>
 	<channel id="keirin-auto">
 		<display-name>競輪・オートレースチャンネル</display-name>
@@ -1582,34 +1582,16 @@ LEGITはいつものように大毅と瑛士郎が方向性の違いで揉めて
 	</programme>
 	<programme channel="abema-anime" start="20250122140000 +0000" stop="20250122143000 +0000">
 		<title>異修羅 第2期 #14【最新話】</title>
-		<desc>"本物の魔王"の死後、恐怖の時代は終わったかに見えたが、
-単独で世界を変革しうる“最強”たちが新たな脅威となった。
-
-黄都からの独立を宣言したリチア新公国は、
-この力をもって覇権国家である黄都との全面戦争を開始。
-
-この二つの国が引き起こした新魔王戦争は、圧倒的な力を振るう修羅たちの激突によって、
-凄惨な破滅という結末を迎えた。
-
-しかし、世界にはまだ時代を変革しうる逸脱の存在がある。
-
-あらゆる能力や種族の頂点を極めた修羅たちと、
-それを利用すべく謀略を巡らす者たちが一点に集うとき、
-宿命と凶兆は交差し、すべてを塵に帰す大いなる災厄が訪れる。</desc>
+		<desc>旧リチア新公国にやってきた戒心のクウロは、元“黒曜の瞳”の仲間である瘴癘のジズマに再会。
+リチアの敗残兵たちを旧王国側に引き入れた裏切り者を捜索する。
+その4ヶ月前。イターキ高山で住人数の調査をする六分儀のシロクは、町はずれの屋敷で美しい少女に出会う。
+彼女に怪我を手当てしてもらい、手紙を預かるのだが……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-255_s2_p14/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250122143000 +0000" stop="20250122150000 +0000">
 		<title>青のミブロ #14【最新話】</title>
-		<desc>黒船の来航により、動乱が巻き起こる幕末の京都。
-心優しい少年「にお」が出会ったのは、“ミブロ”の土方歳三と沖田総司。
-のちに「新選組」となる壬生浪士組の隊士たち。
-金も土地も命すら理不尽に奪われる時代に自らの正義を胸に、
-京の街を守る“ミブロ”の面々。
-「僕だって強くなりたい。こんな世界変えたい。」
-“ミブロ”との出会いをきっかけに、ふつうの13歳の運命が、大きく動き出す！
-命懸けの“ド青春”新選組『青のミブロ』。
-シリーズ累計1300万部超えの青春サッカーマンガ『DAYS』安田剛士による
-「週刊少年マガジン」にて大人気連載中の最新作、待望のアニメ化！</desc>
+		<desc>におは京の町の人々へ安心を与えるための「しるし」として、ミブロとしての揃いの羽織を作ることを発案する。しかし、そのためにかかる費用は250両！隊士たちは金を稼ぐため町に繰り出す。にお達も仕事を探しに出かけるが、はじめは「お前らはついてくんな」と、一人でどこかに行ってしまう。
+その頃、土方は「いい刀がある。あんたにぜひ振ってもらいたい」という女に出会い、“日本一の刀鍛冶師”という刀匠の元へ案内される。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-205_s1_p14/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250122150000 +0000" stop="20250122153000 +0000">
@@ -1658,10 +1640,8 @@ LEGITはいつものように大毅と瑛士郎が方向性の違いで揉めて
 	</programme>
 	<programme channel="abema-anime" start="20250122160000 +0000" stop="20250122163000 +0000">
 		<title>グリザイア：ファントムトリガー #4【最新話】</title>
-		<desc>『グリザイアの果実』から数年後…
-かつて少女たちの箱庭だった「美浜学園」は国防を担う人材を育てるSORD(ソード)訓練校へと生まれ変わった。
-拳銃を使用するレナ＆マキ、狙撃を得意とするトーカ＆グミ、爆弾と情報処理のクリス、諜報活動担当の忍者ムラサキ。彼女たちは、警察や自衛隊には解決できない事件にあたり、危険な活動を繰り返す。
-これは、血と硝煙に彩られた少女たちの物語──</desc>
+		<desc>ムラサキの姉・ユーキが海外赴任を終えA組に帰ってきた。ユーキは人の懐に入ることや嘘が得意で学園長やハルトとも仲が良く、その慣れ慣れしさにレナは多少苛立ちを感じてしまう。また妹のムラサキは、ユーキがA組に戻ってきてから調子を崩していた。
+ユーキとムラサキの間に何があったのか。ハルトは2人と出会った頃の話をレナたちに語る。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-234_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250122163000 +0000" stop="20250122170000 +0000">
@@ -1676,12 +1656,7 @@ LEGITはいつものように大毅と瑛士郎が方向性の違いで揉めて
 	</programme>
 	<programme channel="abema-anime" start="20250122173000 +0000" stop="20250122180000 +0000">
 		<title>日本へようこそエルフさん。 #2【最新話】</title>
-		<desc>社会人の北瀬一廣の趣味はとにかく寝ること。
-彼は、幼い頃からいつも夢で見る不思議な異世界で、胸躍る冒険をしていた。
-ある時、仲良くなったエルフの少女と古代遺跡を探索していた時に、
-運悪く出くわした魔導竜にブレスで焼かれてしまう。
-
-夢から覚めると、部屋にいるはずのないエルフの少女が隣で眠っていて――</desc>
+		<desc>日本での一日を楽しんだ一廣とマリー。帰宅後、二人は一緒に眠ることで、また幻想世界へ戻れるのではないかと考える。しかし、戻ることができても、そこは遺跡の最深部であり二人を襲った魔導竜の目の前。二人は魔導竜の逸話をもとに「秘密兵器」を用意し、しっかりと抱き合いながら眠りにつく。幻想世界で目覚めたカズヒホが、魔導竜の唸り声が轟くなか取り出したのは……！？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/656-3_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250122180000 +0000" stop="20250122180300 +0000">
@@ -1698,53 +1673,18 @@ LEGITはいつものように大毅と瑛士郎が方向性の違いで揉めて
 	</programme>
 	<programme channel="abema-anime" start="20250122183000 +0000" stop="20250122190000 +0000">
 		<title>青のミブロ #14・見逃し放送</title>
-		<desc>黒船の来航により、動乱が巻き起こる幕末の京都。
-心優しい少年「にお」が出会ったのは、“ミブロ”の土方歳三と沖田総司。
-のちに「新選組」となる壬生浪士組の隊士たち。
-金も土地も命すら理不尽に奪われる時代に自らの正義を胸に、
-京の街を守る“ミブロ”の面々。
-「僕だって強くなりたい。こんな世界変えたい。」
-“ミブロ”との出会いをきっかけに、ふつうの13歳の運命が、大きく動き出す！
-命懸けの“ド青春”新選組『青のミブロ』。
-シリーズ累計1300万部超えの青春サッカーマンガ『DAYS』安田剛士による
-「週刊少年マガジン」にて大人気連載中の最新作、待望のアニメ化！</desc>
+		<desc>におは京の町の人々へ安心を与えるための「しるし」として、ミブロとしての揃いの羽織を作ることを発案する。しかし、そのためにかかる費用は250両！隊士たちは金を稼ぐため町に繰り出す。にお達も仕事を探しに出かけるが、はじめは「お前らはついてくんな」と、一人でどこかに行ってしまう。
+その頃、土方は「いい刀がある。あんたにぜひ振ってもらいたい」という女に出会い、“日本一の刀鍛冶師”という刀匠の元へ案内される。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-205_s1_p14/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250122190000 +0000" stop="20250122193000 +0000">
 		<title>いずれ最強の錬金術師？ #4・見逃し放送</title>
-		<desc>勇者でもないのに勇者召喚に巻き込まれてしまったアラフォーサラリーマン、入間 巧。
-
-間違って呼ばれて元の世界に戻ることもできなくなってしまったタクミは、
-「巻き込んだお詫びに」と女神ノルンから手厚すぎるほどの加護と過保護なサポートを受け、
-剣あり魔法ありのファンタジー世界『ミルドガルド』で人生をリトライすることに。
-
-「戦闘職は絶対合わない」と地味な生産職を希望し、
-バトルとは無縁の穏やかで慎ましい異世界ライフを希望――のはずが
-与えられたスキル『錬金術』は、聖剣から空飛ぶ船まで何でも作れる超最強スキルだった……！
-ひょんなことから手にしたチートスキルで、商売ではボロ儲け、バトルでは無双状態に！？
-
-「第10回アルファポリスファンタジー小説大賞」読者賞受賞、
-シリーズ累計発行部数120万部突破、コミカライズも絶好調の大人気作が、待望のアニメ化！
-望んでいないのに最強になってしまった錬金術師の、ほのぼの(?)異世界冒険譚が幕を開ける！！</desc>
+		<desc>タクミはソフィアとマリアに旅に出たいと告げる。ソフィアとマリアの2人を冒険者ギルドに登録し、パーティーを結成することに。冒険者ギルドで不良者に絡まれたタクミは返り討ちにするが、ギルドマスターのバラックに声をかけられる。事情を説明すると、いち早くランクアップを勧められ、3人は依頼へ赴くことに。向かったのはゴブリンの討伐依頼だった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-101_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250122193000 +0000" stop="20250122200000 +0000">
 		<title>マジック・メイカー　～異世界魔法の作り方～ #3・見逃し放送</title>
-		<desc>リスティア国の片田舎の領地を治める下級貴族、オーンスタイン家。そこには、二人の姉弟がいた。
-姉のマリーは、父から剣術の稽古を受けるのが大好きな活発な女の子。
-弟のシオンは、部屋に籠もって本を読むのが大好きな内気な男の子。
-性格は正反対の二人だが、優しい両親に見守られながら、仲睦まじく暮らしていた。
-
-そんなある日、シオンは『まほう』というものがこの世界に存在するか、父に尋ねる。
-しかし、貴族としてそれなりの教養がある父でも、『まほう』という言葉自体を知らなかった。
-ましてや、シオンが言う「火とか水とか風とか光とか、何もないところからいろんなものを出したりする」現象など、この世には存在するはずもなく……。
-
-その日から、シオンは目に見えて落ち込んでしまう。
-シオンを励ましたいと、幼馴染みで農家の娘のローズに話すマリー。
-すると、湖で不思議な現象を目の当たりにして――
-
-この異世界、魔法がない!?
-そんな世界に転生した主人公の少年シオンが紡いでいく、ロマン求める魔法開発ファンタジースタート。</desc>
+		<desc>シオンの前世での知識とは異なり、この世界では多くの人々を畏怖させる存在・ゴブリンが村の近くに出現。父のガウェインはゴブリン討伐に出立する一方、村に残ることとなった女性やシオンをはじめとした子どもたちは万が一を防ぐべく、屋敷で身を寄せ合っていた。そんななか、突如として扉を強く叩きつける音、窓の割れる音が静寂を切り裂く。屋敷に侵入したゴブリンは、シオンたちが身をひそめる部屋へ歩を進めていく。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-277_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250122200000 +0000" stop="20250123063000 +0000">
@@ -1758,45 +1698,21 @@ LEGITはいつものように大毅と瑛士郎が方向性の違いで揉めて
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-273_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250123122700 +0000" stop="20250123123000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+		<title>ダイキン空気予報 1/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s5_p123/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250123123000 +0000" stop="20250123130000 +0000">
 		<title>いずれ最強の錬金術師？ #4・見逃し放送</title>
-		<desc>勇者でもないのに勇者召喚に巻き込まれてしまったアラフォーサラリーマン、入間 巧。
-
-間違って呼ばれて元の世界に戻ることもできなくなってしまったタクミは、
-「巻き込んだお詫びに」と女神ノルンから手厚すぎるほどの加護と過保護なサポートを受け、
-剣あり魔法ありのファンタジー世界『ミルドガルド』で人生をリトライすることに。
-
-「戦闘職は絶対合わない」と地味な生産職を希望し、
-バトルとは無縁の穏やかで慎ましい異世界ライフを希望――のはずが
-与えられたスキル『錬金術』は、聖剣から空飛ぶ船まで何でも作れる超最強スキルだった……！
-ひょんなことから手にしたチートスキルで、商売ではボロ儲け、バトルでは無双状態に！？
-
-「第10回アルファポリスファンタジー小説大賞」読者賞受賞、
-シリーズ累計発行部数120万部突破、コミカライズも絶好調の大人気作が、待望のアニメ化！
-望んでいないのに最強になってしまった錬金術師の、ほのぼの(?)異世界冒険譚が幕を開ける！！</desc>
+		<desc>タクミはソフィアとマリアに旅に出たいと告げる。ソフィアとマリアの2人を冒険者ギルドに登録し、パーティーを結成することに。冒険者ギルドで不良者に絡まれたタクミは返り討ちにするが、ギルドマスターのバラックに声をかけられる。事情を説明すると、いち早くランクアップを勧められ、3人は依頼へ赴くことに。向かったのはゴブリンの討伐依頼だった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-101_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250123130000 +0000" stop="20250123133000 +0000">
 		<title>マジック・メイカー　～異世界魔法の作り方～ #3・見逃し放送</title>
-		<desc>リスティア国の片田舎の領地を治める下級貴族、オーンスタイン家。そこには、二人の姉弟がいた。
-姉のマリーは、父から剣術の稽古を受けるのが大好きな活発な女の子。
-弟のシオンは、部屋に籠もって本を読むのが大好きな内気な男の子。
-性格は正反対の二人だが、優しい両親に見守られながら、仲睦まじく暮らしていた。
-
-そんなある日、シオンは『まほう』というものがこの世界に存在するか、父に尋ねる。
-しかし、貴族としてそれなりの教養がある父でも、『まほう』という言葉自体を知らなかった。
-ましてや、シオンが言う「火とか水とか風とか光とか、何もないところからいろんなものを出したりする」現象など、この世には存在するはずもなく……。
-
-その日から、シオンは目に見えて落ち込んでしまう。
-シオンを励ましたいと、幼馴染みで農家の娘のローズに話すマリー。
-すると、湖で不思議な現象を目の当たりにして――
-
-この異世界、魔法がない!?
-そんな世界に転生した主人公の少年シオンが紡いでいく、ロマン求める魔法開発ファンタジースタート。</desc>
+		<desc>シオンの前世での知識とは異なり、この世界では多くの人々を畏怖させる存在・ゴブリンが村の近くに出現。父のガウェインはゴブリン討伐に出立する一方、村に残ることとなった女性やシオンをはじめとした子どもたちは万が一を防ぐべく、屋敷で身を寄せ合っていた。そんななか、突如として扉を強く叩きつける音、窓の割れる音が静寂を切り裂く。屋敷に侵入したゴブリンは、シオンたちが身をひそめる部屋へ歩を進めていく。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-277_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250123133000 +0000" stop="20250123140000 +0000">
@@ -4864,7 +4780,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 
 アリナの平穏な暮らしは、守られるのか⁉
 第27回電撃小説大賞《金賞》受賞作、待望のTVアニメ化！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p117/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-278_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime" start="20250124153000 +0000" stop="20250124170000 +0000">
 		<title>歴史に残る悪女になるぞ #11〜13【無料ビデオ2週間】</title>
@@ -6873,9 +6789,12 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/413-2_s1_p25/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250123123700 +0000" stop="20250123124000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
+		<title>ダイキン空気予報 1/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s5_p123/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250123124000 +0000" stop="20250123130000 +0000">
 		<title>声優と夜あそび 繋【金田朋子×畠中祐】#159</title>
@@ -9070,9 +8989,12 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p17/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20250123121000 +0000" stop="20250123121300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 1/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s5_p123/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20250123121300 +0000" stop="20250123140000 +0000">
 		<title>映画クレヨンしんちゃん 超時空！嵐を呼ぶオラの花嫁【無料ビデオ1週間】</title>
@@ -13490,9 +13412,12 @@ BTSのテテ似？超イケメンカフェオーナー
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1998_s2_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250123115700 +0000" stop="20250123120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 1/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s5_p123/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250123120000 +0000" stop="20250123130000 +0000">
 		<title>AQOP シーズン2 #7 選ばれし6名による決勝戦が始まる</title>
@@ -13522,9 +13447,12 @@ BTSのテテ似？超イケメンカフェオーナー
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2004_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250123135700 +0000" stop="20250123140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 1/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s5_p123/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250123140000 +0000" stop="20250123143800 +0000">
 		<title>EP03：【9門 vs RED HEAD】決着のラップバトル</title>
@@ -15824,9 +15752,12 @@ VTRでは、BBCトーナメントにも出走予定の渡邉優美と弟子の�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250123130000 +0000" stop="20250123130300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 1/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s5_p123/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250123130300 +0000" stop="20250123150000 +0000">
 		<title>愛のハイエナ season3 #1~2</title>
@@ -20505,9 +20436,12 @@ TOTAL RANKINGで肩を並べるList::XとLIFULL ALT-RHYTHMによる、CS出場�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-354_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="asia-drama" start="20250123115700 +0000" stop="20250123120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png" />
+		<title>ダイキン空気予報 1/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s5_p123/thumb001.png" />
 	</programme>
 	<programme channel="asia-drama" start="20250123120000 +0000" stop="20250123143000 +0000">
 		<title>屋根部屋のプリンス 第17〜18話</title>
@@ -22437,9 +22371,12 @@ TOTAL RANKINGで肩を並べるList::XとLIFULL ALT-RHYTHMによる、CS出場�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-8_s1_p59/thumb001.png" />
 	</programme>
 	<programme channel="asia-drama-2" start="20250123125700 +0000" stop="20250123130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png" />
+		<title>ダイキン空気予報 1/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s5_p123/thumb001.png" />
 	</programme>
 	<programme channel="asia-drama-2" start="20250123130000 +0000" stop="20250123152500 +0000">
 		<title>ヒーラー〜最高の恋人〜 第5〜6話【チ・チャンウク主演】</title>
@@ -23750,9 +23687,12 @@ NewJeans、ENHYPEN、(G)I-DLE、TWS、STAYC、NCT WISH、イ・チェヨン、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-374_s1_p18/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20250123115700 +0000" stop="20250123120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 1/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s5_p123/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20250123120000 +0000" stop="20250123133500 +0000">
 		<title>社内恋愛 #10(終)</title>
@@ -24945,9 +24885,12 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/177-446_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250123115700 +0000" stop="20250123120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png" />
+		<title>ダイキン空気予報 1/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+ そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s5_p123/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250123120000 +0000" stop="20250123140000 +0000">
 		<title>ドクターX~外科医・大門未知子~(2021) ope.9〜10【無料4日間】</title>
@@ -25310,9 +25253,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/122-14_s0_p1/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250126193500 +0000" stop="20250126200000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250126200000 +0000" stop="20250126220000 +0000">
 		<title>アヒルと鴨のコインロッカー【無料1週間】</title>
@@ -25364,9 +25314,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-121_s3_p3/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250127065500 +0000" stop="20250127071500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250127071500 +0000" stop="20250127081000 +0000">
 		<title>BORDER 衝動〜検視官・比嘉ミカ〜 後篇【無料1週間】</title>
@@ -25427,9 +25384,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/694-3_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250127194500 +0000" stop="20250127201000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250127201000 +0000" stop="20250127215500 +0000">
 		<title>BORDER 贖罪【無料1週間】</title>
@@ -25630,9 +25594,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2004_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250129074500 +0000" stop="20250129080000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250129080000 +0000" stop="20250129090000 +0000">
 		<title>DOCTORS2 最強の名医 第7話【無料4日間】</title>
@@ -25647,9 +25618,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-121_s3_p5/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250129095500 +0000" stop="20250129102000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250129102000 +0000" stop="20250129115700 +0000">
 		<title>ドメスティック・フィアー(吹替)【無料1週間】</title>
@@ -25750,9 +25728,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2004_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250130074500 +0000" stop="20250130080000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250130080000 +0000" stop="20250130090000 +0000">
 		<title>DOCTORS2 最強の名医 第8話【無料4日間】</title>
@@ -26974,9 +26959,12 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-21_s1_p20/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250123115700 +0000" stop="20250123120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png" />
+		<title>ダイキン空気予報 1/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+ そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s5_p123/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250123120000 +0000" stop="20250123132500 +0000">
 		<title>日本統一23【無料1週間】</title>
@@ -27479,9 +27467,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-4_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250127054500 +0000" stop="20250127061000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250127061000 +0000" stop="20250127073000 +0000">
 		<title>新・極道の紋章 第四章【無料1週間】</title>
@@ -27501,9 +27496,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2004_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250127091500 +0000" stop="20250127094000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250127094000 +0000" stop="20250127103500 +0000">
 		<title>BORDER 衝動〜検視官・比嘉ミカ〜 後篇【無料1週間】</title>
@@ -27532,9 +27534,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-4_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250127144500 +0000" stop="20250127150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250127150000 +0000" stop="20250127160500 +0000">
 		<title>破門 疫病神シリーズ 第2話【無料1週間】</title>
@@ -27546,10 +27555,29 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<desc>仮想通貨取引を意のままに操り、“5億稼ぐ女”と呼ばれるカリスマトレーダー・宝城理沙(筧美和子)が、自宅マンションで殺された。死因は頭部をアタッシュケースで強打されたことによる脳挫傷。事件現場の状況から、金が絡んだ顔見知りによる犯行だとにらんだ捜査一課の刑事・監物大二郎(鈴木浩介)と渡辺鉄次(速水もこみち)は、さっそく同じマンションに住む第一発見者・平井かすみ(仙道敦子)を逮捕する。というのも、かすみは理沙に仮想通貨専用の口座を開設させ、裏で自分が売買取引を実行。そう...何を隠そう、“5億稼ぐ女”の正体は理沙ではなく、かすみだったのだ!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-114_s3_p3/thumb001.png" />
 	</programme>
-	<programme channel="drama-2" start="20250127170000 +0000" stop="20250127173000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png" />
+	<programme channel="drama-2" start="20250127170000 +0000" stop="20250127171500 +0000">
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250127171500 +0000" stop="20250127173000 +0000">
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250127173000 +0000" stop="20250127201500 +0000">
 		<title>修羅の荒野1~2【無料1週間】</title>
@@ -27557,9 +27585,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/177-400_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250127201500 +0000" stop="20250127203000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250127203000 +0000" stop="20250127213000 +0000">
 		<title>緊急取調室(2019) 第4話【無料4日間】</title>
@@ -27598,9 +27633,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-4_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250128054500 +0000" stop="20250128060500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250128060500 +0000" stop="20250128073000 +0000">
 		<title>新・極道の紋章 第五章【無料1週間】</title>
@@ -27638,9 +27680,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-4_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250128144000 +0000" stop="20250128150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250128150000 +0000" stop="20250128160500 +0000">
 		<title>破門 疫病神シリーズ 第3話【無料1週間】</title>
@@ -27653,10 +27702,29 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 過去の被害者は水や食料を与えられずに監禁され、数日後に衰弱死していたことから、真希も同じ目に遭っている可能性が高い。その場合、類推できる状況下での生存可能時間は、残りたったの30時間...! 一刻も早く監禁場所を突き止め、救出する必要がある。大至急、樫村の口を割らせるため、取り調べは真壁有希子(天海祐希)ら「緊急事案対応取調班(通称・キントリ)」に一任されることに。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-114_s3_p4/thumb001.png" />
 	</programme>
-	<programme channel="drama-2" start="20250128170000 +0000" stop="20250128173000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png" />
+	<programme channel="drama-2" start="20250128170000 +0000" stop="20250128171500 +0000">
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250128171500 +0000" stop="20250128173000 +0000">
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250128173000 +0000" stop="20250128203000 +0000">
 		<title>修羅の荒野2~3【無料1週間】</title>
@@ -27776,9 +27844,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-114_s3_p5/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250129170500 +0000" stop="20250129173000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250129173000 +0000" stop="20250129201500 +0000">
 		<title>修羅の荒野3~4【無料1週間】</title>
@@ -27786,9 +27861,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/177-400_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250129201500 +0000" stop="20250129203000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250129203000 +0000" stop="20250129213000 +0000">
 		<title>緊急取調室(2019) 第6話【無料4日間】</title>
@@ -27853,9 +27935,16 @@ ABEMAで日韓同時・国内独占放送 !│ENHYPENを輩出した、大好評
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-117_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250130093500 +0000" stop="20250130095000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png" />
+		<title>プライベートバンカー #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+“プライベートバンカー”…
+豊富な金融知識と広い人脈を武器に、富裕層相手に資産管理・資産形成の助言を行う、 マネーのプロフェッショナル。その仕事は多岐にわたり、投資やビジネスの助言から、家族間の揉め事の解決まで、『資産を守るため』何でも行う――。
+お金に関する目からウロコな情報満載でお届けするマネーサスペンスドラマ！
+あなたの“お金”に対しての価値観に衝撃を与える新たなヒーローが、 木曜ドラマ枠に誕生します！
+
+【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5001/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250130095000 +0000" stop="20250130103500 +0000">
 		<title>警視庁麻薬取締課 MOGURA #2</title>
@@ -28372,9 +28461,12 @@ Mリーグ2024-25では、新Mリーガー2名が誕生し、総勢36名での�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p270/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250123145700 +0000" stop="20250123150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 1/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+ そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s5_p123/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250123150000 +0000" stop="20250123193500 +0000">
 		<title>ALL STAR League 7月12日対局【再放送】</title>
@@ -30140,6 +30232,61 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 		<title>JPSAジャパンプロサーフィンツアー第4戦_鴨川ショートボード3日目_後半</title>
 		<desc>日本最高峰のプロサーフィン大会をABEMA独占で生中継! 日本全国で行われるハイレベルな戦いをお楽しみください。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-30_s60_p6/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250129193000 +0000" stop="20250129231000 +0000">
+		<title>JPSAジャパンプロサーフィンツアー2023 第4戦 日向ロングボート1日目前半</title>
+		<desc>日本最高峰のプロサーフィン大会をABEMA独占で生中継!
+日本全国で行われるハイレベルな戦いをお楽しみください。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-30_s55_p1/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250129231000 +0000" stop="20250130025500 +0000">
+		<title>JPSAジャパンプロサーフィンツアー2023 第4戦 日向ロングボート1日目後半</title>
+		<desc>日本最高峰のプロサーフィン大会をABEMA独占で生中継!
+日本全国で行われるハイレベルな戦いをお楽しみください。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-30_s55_p2/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250130025500 +0000" stop="20250130060500 +0000">
+		<title>【準々決勝】ロコ・ソラーレvsTeam Gim|2024.10.6</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p6/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250130060500 +0000" stop="20250130084500 +0000">
+		<title>【再】240707 バスケットボール男子日本代表国際強化試合 日本対韓国</title>
+		<desc>2023年、FIBAバスケットボール・ワールドカップで世界に衝撃を与えた男子日本代表。
+世界最高峰の舞台で輝き、パリの大舞台への切符を掴んだ彼らが、大会前最後の強化試合に挑む。対戦相手は難敵・韓国。重要な前哨戦をABEMA・テレビ朝日系列地上波で無料生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-438_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250130084500 +0000" stop="20250130121000 +0000">
+		<title>インカレ水泳2024 大会3日目</title>
+		<desc>“大学日本一決定戦”の「インカレ水泳2024」を、9月5日(木)~8日(日)にてABEMAで無料生中継!
+
+今年、記念すべき100回を迎える国内最古にして、最大の盛り上がりを見せる大会が東京五輪の舞台、東京アクアティクスセンターで開幕!
+
+注目選手は、前回大会では女子400m・800m自由形で3連覇を果たした難波実夢(近大4年)。学生最後となる今大会で、2冠・4連覇の達成に期待したい。
+
+また、東京五輪で女子最年少代表入りを果たし、パリ五輪で2大会連続の五輪出場を果たした谷川亜華葉(近大4年)や、昨年初出場の男子200m背泳ぎで初優勝した日本競泳界の次世代を担う若きホープ・竹原秀一(東洋大2年)など多くのパリ五輪代表が出場予定。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-441_s10_p3/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250130121000 +0000" stop="20250130124000 +0000">
+		<title>【再】ABEMAスポーツタイム#56</title>
+		<desc>毎週日曜よる10時から生放送!
+影山優佳、川﨑宗則、槙野智章らがレギュラー出演!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!
+
+近未来をテーマにしたバーチャルスタジオで紹介するスポーツの大迫力な映像は必見!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p56/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250130124000 +0000" stop="20250130160000 +0000">
+		<title>JPSAジャパンプロサーフィンツアー2023 第4戦 日向ロングボート2日目前半</title>
+		<desc>日本最高峰のプロサーフィン大会をABEMA独占で生中継!
+日本全国で行われるハイレベルな戦いをお楽しみください。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-30_s55_p3/thumb001.png" />
 	</programme>
 	<programme channel="sumo" start="20250115064000 +0000" stop="20250115230000 +0000">
 		<title>大相撲LIVE 初場所（幕内）4日目</title>
@@ -32625,6 +32772,11 @@ MOE vs 優
 
 プレリミナリーファイト第1試合/YASSY vs 石郷 慶人</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-135_s60_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports4" start="20250123125000 +0000" stop="20250123140000 +0000">
+		<title>【延長】NOAH TIME LIVE #1</title>
+		<desc>これを見ればプロレスリング・ノアが分かる!NOAH TIMEが生放送になってスケールアップ!プロレスリング・ノアの旬な選手もゲスト出演!密着ドキュメント、ビギナー向けNOAH紹介コンテンツも激アツ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-19_s10001_p2/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20250115103000 +0000" stop="20250115160000 +0000">
 		<title>【再放送】フリースタイルダンジョン：5th Rec 4-1〜 5th 6-4</title>
@@ -35738,131 +35890,6 @@ AKLO「RGTO」</desc>
 		<title>CM</title>
 		<desc>ABEMAで掲載されているCMを放送します。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/195-1_s0_p6/thumb001.png" />
-	</programme>
-	<programme channel="boatrace" start="20250117100000 +0000" stop="20250117120000 +0000">
-		<title>『クロクルパレット』#40</title>
-		<desc>出演者たちの個性豊かなカラーをお届けする、クロクル新シリーズ！
-クロちゃん・先輩アイドルと週替りの「ABEMAボートレースガールズ」がボートレース予想やゲーム企画で毎週対決！
-ABEMAでボートレースが観られる！ボートレースの発信拠点『SIX WAKE ROPPONGI』から全国のレースを生中継！
-
-ＭＣのクロちゃんと先輩アイドル田中れいな、岡部麟に加えて「ABEMAボートレースガールズ(通称：クルーちゃん)」が番組を盛り上げます！
-クロちゃん&amp;先輩アイドルチームＶＳクルーちゃんがレース予想やゲーム企画で獲得ポイントを競い合う！
-より団結力を見せられるのはどちらのチームか！？
-
-さらに、注目の若手レーサーを紹介する新コーナーも。
-クロちゃんやレーサー、出演者たちの個性的なカラーを引き立てながらお送りします。
-
-ボートレースを知り尽くした講師のレクチャーを参考にして、みんなで予想してみよう！
-ボートレースの基礎からレース直前の最新情報までを全てをお届け！
-週末のボートレースはABEMAで！
-【提供】BOATRACE振興会</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-269_s10000_p40/thumb001.png" />
-	</programme>
-	<programme channel="boatrace" start="20250117120000 +0000" stop="20250118100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boatrace/logo.png" />
-	</programme>
-	<programme channel="boatrace" start="20250118100000 +0000" stop="20250118120000 +0000">
-		<title>『波乗りSHOWタイム』#39</title>
-		<desc>ゲストの個性豊かなカラーを楽しむ新番組！
-藤森慎吾（オリエンタルラジオ）と様々な豪華ゲストが盛り上がる！
-ABEMAでボートレースが観られる！ボートレースの発信拠点『SIX WAKE ROPPONGI』から全国のレースを生中継！
-
-ボートレース予想・ダンス・ゲーム企画など、番組オリジナル企画で出演者の普段見られない一面が見られる！？
-ボートレースさながらの勢いとノリ（乗りこなし）、スリリングさを追求するバラエティ！
-みんなで盛り上げて行きまSHOWタイム！！
-
-毎週、色とりどりなゲストのトークやリアクションを、ぜひお楽しみください。
-
-ボートレースを知り尽くした講師のレクチャーを参考にして、みんなで予想してみよう！
-ボートレースの基礎からレース直前の最新情報まで全てをお届け！
-週末のボートレースはABEMAで！
-【提供】BOATRACE振興会</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-270_s10000_p39/thumb001.png" />
-	</programme>
-	<programme channel="boatrace" start="20250118120000 +0000" stop="20250123100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boatrace/logo.png" />
-	</programme>
-	<programme channel="boatrace" start="20250123100000 +0000" stop="20250123120000 +0000">
-		<title>SUIZIN 2025 - BBCトーナメント開幕スペシャル -</title>
-		<desc>2024年のチャンピオンが集結しトーナメント形式で行われるPGⅠ第6回BBCトーナメントを盛り上げるために、豪華出演者たちがスタジオ対決をはじめ様々な企画に挑む特別番組！
-
-人気お笑いコンビでMCのアインシュタインをはじめ、ママタルト、SHOW-WAから塩田将己、向山毅、i☆Risから山北早紀、若井友希が登場、BBCトーナメントの初日の振り返りやレース予想をはじめ、2025年の“福”タレントを決めるスタジオ企画でレースを盛り上げます！
-
-VTRでは、BBCトーナメントにも出走予定の渡邉優美と弟子の神里琴音が福岡での開運ロケ企画に挑戦！2025年ブレイク間違いなしのお笑いトリオ・リンダカラー∞とともにパワースポットを巡りながら、師弟レーサーの知られざる関係に迫ります！
-
-2025年の新年を彩るボートレースの特別番組をお楽しみください！
-
-【提供】BOATRACE振興会</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-296_s10000_p10/thumb001.png" />
-	</programme>
-	<programme channel="boatrace" start="20250123120000 +0000" stop="20250124100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boatrace/logo.png" />
-	</programme>
-	<programme channel="boatrace" start="20250124100000 +0000" stop="20250124120000 +0000">
-		<title>『クロクルパレット』#41</title>
-		<desc>出演者たちの個性豊かなカラーをお届けする、クロクル新シリーズ！
-クロちゃん・先輩アイドルと週替りの「ABEMAボートレースガールズ」がボートレース予想やゲーム企画で毎週対決！
-ABEMAでボートレースが観られる！ボートレースの発信拠点『SIX WAKE ROPPONGI』から全国のレースを生中継！
-
-ＭＣのクロちゃんと先輩アイドル田中れいな、岡部麟に加えて「ABEMAボートレースガールズ(通称：クルーちゃん)」が番組を盛り上げます！
-クロちゃん&amp;先輩アイドルチームＶＳクルーちゃんがレース予想やゲーム企画で獲得ポイントを競い合う！
-より団結力を見せられるのはどちらのチームか！？
-
-さらに、注目の若手レーサーを紹介する新コーナーも。
-クロちゃんやレーサー、出演者たちの個性的なカラーを引き立てながらお送りします。
-
-ボートレースを知り尽くした講師のレクチャーを参考にして、みんなで予想してみよう！
-ボートレースの基礎からレース直前の最新情報までを全てをお届け！
-週末のボートレースはABEMAで！
-【提供】BOATRACE振興会</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-269_s10000_p41/thumb001.png" />
-	</programme>
-	<programme channel="boatrace" start="20250124120000 +0000" stop="20250125100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boatrace/logo.png" />
-	</programme>
-	<programme channel="boatrace" start="20250125100000 +0000" stop="20250125120000 +0000">
-		<title>『波乗りSHOWタイム』#40</title>
-		<desc>ゲストの個性豊かなカラーを楽しむ新番組！
-藤森慎吾（オリエンタルラジオ）と様々な豪華ゲストが盛り上がる！
-ABEMAでボートレースが観られる！ボートレースの発信拠点『SIX WAKE ROPPONGI』から全国のレースを生中継！
-
-ボートレース予想・ダンス・ゲーム企画など、番組オリジナル企画で出演者の普段見られない一面が見られる！？
-ボートレースさながらの勢いとノリ（乗りこなし）、スリリングさを追求するバラエティ！
-みんなで盛り上げて行きまSHOWタイム！！
-
-毎週、色とりどりなゲストのトークやリアクションを、ぜひお楽しみください。
-
-ボートレースを知り尽くした講師のレクチャーを参考にして、みんなで予想してみよう！
-ボートレースの基礎からレース直前の最新情報まで全てをお届け！
-週末のボートレースはABEMAで！
-【提供】BOATRACE振興会</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-270_s10000_p40/thumb001.png" />
-	</programme>
-	<programme channel="boatrace" start="20250125120000 +0000" stop="20250126110000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boatrace/logo.png" />
-	</programme>
-	<programme channel="boatrace" start="20250126110000 +0000" stop="20250126130000 +0000">
-		<title>『スナックさざなみ』#24</title>
-		<desc>来店したゲストが、ミッドナイトボートレース予想や、オリジナルボードゲーム、カラオケ企画など、
-様々な企画で大盛りあがり！
-
-さらに、ここでしか見れないゲストのディープな1面も！？
-
-ボートレースを知り尽くした講師のレクチャーを参考にして、みんなで予想してみよう!
-ボートレースの基礎からレース直前の最新情報まで全てをお届け!
-
-【提供】BOATRACE振興会</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-228_s1_p24/thumb001.png" />
 	</programme>
 	<programme channel="keirin-auto" start="20250115232000 +0000" stop="20250116013000 +0000">
 		<title>奈良 F2 最終日（モーニング）</title>
