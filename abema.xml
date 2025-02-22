@@ -120,6 +120,10 @@
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
 	</channel>
+	<channel id="shogi-live">
+		<display-name>将棋 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi-live/logo.png" />
+	</channel>
 	<channel id="world-sports">
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
@@ -31152,6 +31156,11 @@ TEAM RAIDEN / 雷電vsセガサミーフェニックスvsKONAMI 麻雀格闘倶�
 今回の『地域対抗戦 2025』では対戦方式を一新し、監督と大会出場登録棋士の5人が登場するステージ1、勝利した棋士だけが出場するステージ2の二段階方式を採用することになりました。そして昨年に続き、対局ルールは、羽生善治九段の着想から作られた「AbemaTVルール」で対局を行います。
 「AbemaTVルール」は、持ち時間5分で開始し、1手指すごとに5秒が加算、持ち時間が切れると負けとなるフィッシャールールを採用しており、1対局約30分と初心者の方でも楽しみやすいスピーディーな展開が見所です。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/288-41_s10000_p6/thumb001.png" />
+	</programme>
+	<programme channel="shogi-live" start="20250221233000 +0000" stop="20250222140000 +0000">
+		<title>第50期 棋王戦コナミグループ杯五番勝負第2局 藤井聡太棋王 対 増田康宏八段</title>
+		<desc>棋王戦は、全棋士と女流名人、アマ名人で行います。予選をトーナメントで行い、その通過者とシード者で本戦トーナメントを行います。なお、本戦はベスト4以上は2敗失格制となり、敗者復活戦があります。挑戦者決定戦は変則2番勝負で、勝者組優勝者は2局のうち1回勝てば挑戦権を得ますが、敗者復活戦優勝者は2連勝が挑戦の条件となります。棋王とその優勝者が、例年2月から3月にかけて五番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-31_s10000_p14/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250214094000 +0000" stop="20250214202500 +0000">
 		<title>S.LEAGUE 24-25 ショートボード&amp;ロングボード第1戦 DAY2</title>
