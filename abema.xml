@@ -132,6 +132,10 @@
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
 	</channel>
+	<channel id="motor-sport">
+		<display-name>MOTOR SPORTチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
+	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -3331,9 +3335,18 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p117/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250301090000 +0000" stop="20250301125700 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+		<title>べヒ猫 #1～9</title>
+		<desc>迷宮都市・リューイン。
+モンスターはびこる迷宮があるこの町には、数多くの冒険者たちが集まっていた。
+命を落とし転生した主人公は、迷宮の中で目を覚ます。
+その外見は、どう見ても仔猫！？
+しかし正体は――災害級のSランクモンスター《ベヒーモス》の幼体だった！
+彼が出会ったのは、駆け出しのDランク冒険者・アリア。
+仔猫と勘違いしたアリアは、重傷を負っていた彼を連れ帰って手当てし、「タマ」と名付けてペットにする。
+その優しさに心を打たれたタマは、アリアを守る騎士となることを誓うのだった。
+Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
+個性豊かな仲間たちと出会い、時に溺愛されながら、騎士（ペット）としての日々が始まる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p23/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250301125700 +0000" stop="20250301130000 +0000">
 		<title>ちいかわ #100【無料ビデオ1週間】</title>
@@ -7211,9 +7224,18 @@ https://www.shogakukan.co.jp/pr/reikai/kotobato/
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p107/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250302090000 +0000" stop="20250302140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
+		<title>べヒ猫 #1～10</title>
+		<desc>迷宮都市・リューイン。
+モンスターはびこる迷宮があるこの町には、数多くの冒険者たちが集まっていた。
+命を落とし転生した主人公は、迷宮の中で目を覚ます。
+その外見は、どう見ても仔猫！？
+しかし正体は――災害級のSランクモンスター《ベヒーモス》の幼体だった！
+彼が出会ったのは、駆け出しのDランク冒険者・アリア。
+仔猫と勘違いしたアリアは、重傷を負っていた彼を連れ帰って手当てし、「タマ」と名付けてペットにする。
+その優しさに心を打たれたタマは、アリアを守る騎士となることを誓うのだった。
+Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
+個性豊かな仲間たちと出会い、時に溺愛されながら、騎士（ペット）としての日々が始まる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p23/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250302140000 +0000" stop="20250302200000 +0000">
 		<title>NEW GAME! #1〜12【無料ビデオ2週間】</title>
@@ -13979,7 +14001,17 @@ Supported by 株式会社KINUJO</desc>
 【毎週木曜よる9：00 テレビ朝日にて放送】</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2044_s2223_p5003/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250227140000 +0000" stop="20250227150000 +0000">
+	<programme channel="abema-special" start="20250227140000 +0000" stop="20250227143000 +0000">
+		<title>【再】ABEMAスポーツタイム#75</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p75/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250227143000 +0000" stop="20250227150000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -16911,7 +16943,7 @@ ASMRで登録者数262万超えの超人気YouTuber
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1372/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250225120000 +0000" stop="20250225130000 +0000">
-		<title>#アベプラ①田村淳,佐々木俊尚,柴田阿弥,Tehu</title>
+		<title>#アベプラ①？受験天才は東大or医学部に行くべき？／無能社員</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はシンガーソングライターTOMOOの｢Super Ball｣です。（MC）EXIT、カンニング竹山、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）安部敏樹、泉房穂、岩田温、乙武洋匡、カマたく、ケンドーコバヤシ、後藤寛勝、小原ブラス、佐々木俊尚、シモダテツヤ、竹中平蔵、田端信太郎、男色ディーノ、辻伸弘、てぃ先生、tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、パックン、速水健朗、堀潤、南和行、茂木健一郎、山田俊浩、ヤマトパンクス、ヨッピー、呂布カルマ、あおちゃんぺ、池澤あやか、市原えつこ、岩澤直美、薄井シンシア、大槻奈那、河崎環、菅野志桜里、紗倉まな、柴田阿弥、シャララジマ、鈴木涼美、たかまつなな、陳暁夏代、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、室井佑月、RaMu、山田邦子（気象予報士）穂川果音（進行）平石直之、仁科健吾、田中萌（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p5842/thumb001.png" />
 	</programme>
@@ -28396,7 +28428,7 @@ TEAM RAIDEN / 雷電vsセガサミーフェニックスvsKONAMI 麻雀格闘倶�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-4_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250301080000 +0000" stop="20250301140000 +0000">
-		<title>Princess of the year 2025</title>
+		<title>Princess of the year 2025 Semi-Finals</title>
 		<desc>Mリーグルールに準拠した女流プロ雀士によるトーナメント
 #プリンセス2025 PRINCESS of the YEAR Semi Final Match1。
 
@@ -28457,7 +28489,7 @@ TEAM RAIDEN / 雷電vs赤坂ドリブンズvs EX風林火山vs KADOKAWAサクラ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-4_s1_p10/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250302080000 +0000" stop="20250302140000 +0000">
-		<title>Princess of the year 2025</title>
+		<title>Princess of the year 2025 Final</title>
 		<desc>Mリーグルールに準拠した女流プロ雀士によるトーナメント
 #プリンセス2025 PRINCESS of the YEAR Semi Final Match1。
 
@@ -28824,10 +28856,55 @@ Mリーグ2024-25では、新Mリーガー2名が誕生し、総勢36名での�
 		<desc>順位戦はフリークラスを除いた棋士をA級からC級2組の5つの組に分けてリーグ戦を行います。A級同率首位の棋士が複数出た場合は同率の棋士全員によるプレーオフとなります。名人とA級優勝者が、例年4月から7月にかけて七番勝負を行います。名人戦とは、将棋界で最も格式と歴史のある「名人」のタイトル称号を懸けて行われる七番勝負。名人戦の予選は順位戦と呼ばれ、A級順位戦の優勝者が挑戦者となります。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-2_s10000_p36/thumb001.png" />
 	</programme>
-	<programme channel="shogi" start="20250227190000 +0000" stop="20250301080000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
+	<programme channel="shogi" start="20250227190000 +0000" stop="20250227204500 +0000">
+		<title>【再】2024年度将棋日本シリーズ二回戦第四局 藤井JT杯覇者 対 佐々木七段</title>
+		<desc>「ABEMA」にて全対局生中継する「JTプロ公式戦」は、日本将棋連盟と各地区新聞社主催のもと開催される、公式棋戦です。
+大会への参加資格は前年覇者とタイトルホルダー、賞金ランキング上位者の12名という、トップ棋士のみが参加を許されたトーナメント棋戦です。
+今回は、前回優勝者の藤井聡太JT杯覇者、渡辺明九段、広瀬章人九段、永瀬拓矢九段がシード。
+今年の覇者は一体誰になるのか?約5か月にわたり、全国11地区で開催される本大会。公開対局ならではの緊張感と迫力、持ち時間10分の早差し戦というスピード感で競う「JTプロ公式戦」の全対局を、ぜひ「ABEMA」でお楽しみください。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-22_s70_p8/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20250227204500 +0000" stop="20250228055700 +0000">
+		<title>【再】第72期 王座戦 五番勝負 第2局 藤井聡太王座 対 永瀬拓矢九段</title>
+		<desc>王座戦は全棋士と女流棋士4名で行われます。一次予選、二次予選のトーナメント戦を行い、二次予選を勝ち抜いた棋士とシード棋士の16名によって、挑戦者決定トーナメントを行い、挑戦者を決めます。例年9月から10月にかけて王座と挑戦者が五番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-17_s72_p9/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20250228055700 +0000" stop="20250228150000 +0000">
+		<title>【再】第9期 叡王戦 五番勝負 第5局 藤井聡太叡王 対 伊藤匠七段</title>
+		<desc>叡王戦は全棋士の段位別予選と本戦を勝ち抜いた2名が決勝五番勝負を行い、先に3勝した棋士が「叡王」の称号を獲得します(第4期以降は本戦優勝者が叡王への挑戦権を獲得)。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-89_s9_p17/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20250228150000 +0000" stop="20250228162600 +0000">
+		<title>【再】2023年度「将棋日本シリーズ」準決勝第一局 藤井JT杯覇者 対 永瀬九段</title>
+		<desc>「ABEMA」にて全対局生中継する「JTプロ公式戦」は、日本将棋連盟と各地区新聞社主催のもと開催される、公式棋戦です。
+大会への参加資格は前年覇者とタイトルホルダー、賞金ランキング上位者の12名という、トップ棋士のみが参加を許されたトーナメント棋戦です。
+今回は、前回優勝者の藤井聡太JT杯覇者、渡辺明名人、永瀬拓矢王座、豊島将之九段がシード。そして、一回戦には「JTプロ公式戦」5回優勝の羽生善治九段、3年ぶり出場となる佐藤天彦九段、昨年準優勝の斎藤慎太郎八段ら、錚々たる顔ぶれが参戦いたします。
+今年の覇者は一体誰になるのか?約5か月にわたり、全国11地区で開催される本大会。公開対局ならではの緊張感と迫力、持ち時間10分の早差し戦というスピード感で競う「JTプロ公式戦」の全対局を、ぜひ「ABEMA」でお楽しみください。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-22_s60_p9/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20250228162600 +0000" stop="20250228181000 +0000">
+		<title>【再】2024年度将棋日本シリーズ一回戦第二局 豊島将之九段 対 糸谷哲郎八段</title>
+		<desc>「ABEMA」にて全対局生中継する「JTプロ公式戦」は、日本将棋連盟と各地区新聞社主催のもと開催される、公式棋戦です。
+大会への参加資格は前年覇者とタイトルホルダー、賞金ランキング上位者の12名という、トップ棋士のみが参加を許されたトーナメント棋戦です。
+今回は、前回優勝者の藤井聡太JT杯覇者、渡辺明九段、広瀬章人九段、永瀬拓矢九段がシード。
+今年の覇者は一体誰になるのか?約5か月にわたり、全国11地区で開催される本大会。公開対局ならではの緊張感と迫力、持ち時間10分の早差し戦というスピード感で競う「JTプロ公式戦」の全対局を、ぜひ「ABEMA」でお楽しみください。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-22_s70_p2/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20250228181000 +0000" stop="20250301072000 +0000">
+		<title>【再】伊藤園お~いお茶杯第65期王位戦七番勝負第1局 藤井聡太王位対渡辺明九段</title>
+		<desc>王位戦は、全棋士と女流棋士2名で行います。予選をトーナメントで行い、その勝ち上がり者とシード棋士4人により紅白2ブロックに分けてリーグ戦を行います。
+リーグ戦の優勝者はリーグ戦勝敗を優先とし、同星で並んだ場合、
+(1)4勝1敗で並んだ場合、該当者が2名・3名に関わらずプレーオフを行います《3名の場合は、前期成績(前期リーグ勝星&gt;前期予選勝星)でシード者を決め、1回戦は残留決定戦を兼ねる》。
+(2)3勝2敗で並んだ場合、3名では該当する直接対決&gt;前期成績(前期リーグ勝星&gt;前期予選勝星)、4名では該当する直接対決、5名では前期成績(前期リーグ勝星&gt;前期予選勝星)で優勝者・残留者を決めます。紅白の優勝者で挑戦者決定戦を行います。王位とその挑戦者決定戦の勝者が、例年7月から9月にかけて七番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-11_s66_p11/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20250301072000 +0000" stop="20250301080000 +0000">
+		<title>このあと5時から 北海道・東北VS関東A！！ABEMA地域対抗戦2025</title>
+		<desc>『地域対抗戦』は、将棋連盟100周年企画として、“地域を背負う“をコンセプトに2024年より開催された、「ABEMA」オリジナルの団体戦です。昨年に引き続き、屋敷伸之九段(北海道・東北)、羽生善治九段(関東A)、渡辺明九段(関東B)、杉本昌隆八段(中部)、谷川浩司十七世名人(関西A)、畠山鎮八段(関西B)、山崎隆之八段(中国・四国)、深浦康市(九州)の8名が「地域チーム」の監督に就任。それぞれの地域を背負い、チームを率いていきます。
+今回の『地域対抗戦 2025』では対戦方式を一新し、監督と大会出場登録棋士の5人が登場するステージ1、勝利した棋士だけが出場するステージ2の二段階方式を採用することになりました。そして昨年に続き、対局ルールは、羽生善治九段の着想から作られた「AbemaTVルール」で対局を行います。
+「AbemaTVルール」は、持ち時間5分で開始し、1手指すごとに5秒が加算、持ち時間が切れると負けとなるフィッシャールールを採用しており、1対局約30分と初心者の方でも楽しみやすいスピーディーな展開が見所です。
+※段位は収録当時のものになります</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/288-41_s10_p601/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250301080000 +0000" stop="20250301150000 +0000">
 		<title>ABEMA地域対抗戦予選Bリーグ2位決定1回戦&lt; 北海道・東北VS関東A&gt;</title>
@@ -28835,6 +28912,21 @@ Mリーグ2024-25では、新Mリーガー2名が誕生し、総勢36名での�
 今回の『地域対抗戦 2025』では対戦方式を一新し、監督と大会出場登録棋士の5人が登場するステージ1、勝利した棋士だけが出場するステージ2の二段階方式を採用することになりました。そして昨年に続き、対局ルールは、羽生善治九段の着想から作られた「AbemaTVルール」で対局を行います。
 「AbemaTVルール」は、持ち時間5分で開始し、1手指すごとに5秒が加算、持ち時間が切れると負けとなるフィッシャールールを採用しており、1対局約30分と初心者の方でも楽しみやすいスピーディーな展開が見所です。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/288-41_s10000_p6/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20250301150000 +0000" stop="20250301233000 +0000">
+		<title>【再】第49期棋王戦コナミグループ杯五番勝負第3局 藤井聡太棋王 対 伊藤匠七段</title>
+		<desc>棋王戦は、全棋士と女流名人、アマ名人で行います。予選をトーナメントで行い、その通過者とシード者で本戦トーナメントを行います。なお、本戦はベスト4以上は2敗失格制となり、敗者復活戦があります。挑戦者決定戦は変則2番勝負で、勝者組優勝者は2局のうち1回勝てば挑戦権を得ますが、敗者復活戦優勝者は2連勝が挑戦の条件となります。棋王とその優勝者が、例年2月から3月にかけて五番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-31_s49_p17/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20250301233000 +0000" stop="20250302140000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
+	</programme>
+	<programme channel="shogi" start="20250302140000 +0000" stop="20250302230000 +0000">
+		<title>【再】第72期 王座戦 五番勝負 第1局 藤井聡太王座 対 永瀬拓矢九段</title>
+		<desc>王座戦は全棋士と女流棋士4名で行われます。一次予選、二次予選のトーナメント戦を行い、二次予選を勝ち抜いた棋士とシード棋士の16名によって、挑戦者決定トーナメントを行い、挑戦者を決めます。例年9月から10月にかけて王座と挑戦者が五番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-17_s72_p7/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250217121500 +0000" stop="20250217215000 +0000">
 		<title>S.LEAGUE 24-25 ショートボード&amp;ロングボード第1戦 DAY4</title>
@@ -29321,7 +29413,17 @@ Keramas, yang terletak di sisi timur Pulau Bali, adalah spot selancar reef break
 Nikmati kompetisi tingkat internasional dengan manuver kelas dunia dari para peselancar profesional! Jika ombak mendukung, Anda juga bisa menyaksikan aksi tube ride yang spektakuler.</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s10004_p1/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250225110000 +0000" stop="20250225151000 +0000">
+	<programme channel="world-sports" start="20250225110000 +0000" stop="20250225113500 +0000">
+		<title>【再】ABEMAスポーツタイム#49</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p49/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250225113500 +0000" stop="20250225152500 +0000">
 		<title>インカレ水泳2024 大会2日目</title>
 		<desc>“大学日本一決定戦”の「インカレ水泳2024」を、9月5日(木)~8日(日)にてABEMAで無料生中継!
 
@@ -29332,17 +29434,7 @@ Nikmati kompetisi tingkat internasional dengan manuver kelas dunia dari para pes
 また、東京五輪で女子最年少代表入りを果たし、パリ五輪で2大会連続の五輪出場を果たした谷川亜華葉(近大4年)や、昨年初出場の男子200m背泳ぎで初優勝した日本競泳界の次世代を担う若きホープ・竹原秀一(東洋大2年)など多くのパリ五輪代表が出場予定。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-441_s10_p2/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250225151000 +0000" stop="20250225154500 +0000">
-		<title>【再】ABEMAスポーツタイム#49</title>
-		<desc>毎週日曜よる10時から生放送!
-川﨑宗則、槙野智章らがレギュラー出演!!
-スポーツ界を賑わせている話題や最新情報をお届け!
-さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
-「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
-より一層スポーツが楽しくなる番組!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p49/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20250225154500 +0000" stop="20250225185000 +0000">
+	<programme channel="world-sports" start="20250225152500 +0000" stop="20250225182500 +0000">
 		<title>【第2試合】ロコ・ソラーレvsTeam T.Peterson|2024.10.3</title>
 		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
 世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
@@ -29350,7 +29442,7 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p2/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250225185000 +0000" stop="20250225202500 +0000">
+	<programme channel="world-sports" start="20250225182500 +0000" stop="20250225195500 +0000">
 		<title>アフター横浜マラソン2023 選手たちの挑戦</title>
 		<desc>2023年10月29日に開催された「横浜マラソン2023」を振り返り!
 ABEMAランナーとしてフルマラソン初挑戦で、完走を果たした人気YouTuber Lazy Lie Crazy【レイクレ】どば師匠 と ヘラヘラ三銃士ありしゃんの裏側密着映像を大公開。
@@ -29358,7 +29450,80 @@ ABEMAランナーとしてフルマラソン初挑戦で、完走を果たした
 さらに、一般参加者2組にも密着。ご家族の絆、所属されている団体様への想いなど、横浜マラソンに挑戦した想いに密着。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/614-3_s10_p3/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250225202500 +0000" stop="20250225210000 +0000">
+	<programme channel="world-sports" start="20250225195500 +0000" stop="20250225231000 +0000">
+		<title>インカレ水泳2024 大会3日目</title>
+		<desc>“大学日本一決定戦”の「インカレ水泳2024」を、9月5日(木)~8日(日)にてABEMAで無料生中継!
+
+今年、記念すべき100回を迎える国内最古にして、最大の盛り上がりを見せる大会が東京五輪の舞台、東京アクアティクスセンターで開幕!
+
+注目選手は、前回大会では女子400m・800m自由形で3連覇を果たした難波実夢(近大4年)。学生最後となる今大会で、2冠・4連覇の達成に期待したい。
+
+また、東京五輪で女子最年少代表入りを果たし、パリ五輪で2大会連続の五輪出場を果たした谷川亜華葉(近大4年)や、昨年初出場の男子200m背泳ぎで初優勝した日本競泳界の次世代を担う若きホープ・竹原秀一(東洋大2年)など多くのパリ五輪代表が出場予定。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-441_s10_p3/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250225231000 +0000" stop="20250226012500 +0000">
+		<title>【第3試合】ロコ・ソラーレvsTeam Homan|2024.10.4</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p3/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250226012500 +0000" stop="20250226062500 +0000">
+		<title>【再】ABEMA SUPER GT ダイジェスト#1〜#9</title>
+		<desc>『ABEMA SUPER GTダイジェスト』は、国内モータースポーツで最も人気のあるレースの1つSUPER GTの魅力をわかりやすく、楽しく、そしてレースの結果をダイジェスト形式でたっぷりとお伝えする番組です。
+本番組だけのオリジナルコーナーや次戦の見どころ紹介などを予定しております。
+
+2024年のSUPER GT・GT500シリーズには、トヨタ、日産、ホンダの3メーカーが参戦。各社ともメーカーのプライドをかけ白熱した戦いが期待されています。
+また、GT300クラスにはメルセデスベンツ・BMW・ランボルギーニ・フェラーリ・レクサスなど、バラエティに富んだメーカー・車両が参戦しており、こちらも熾烈な競争が予想されます。
+レースはスピード差のある2つのクラスが混走して行われるため、SUPER GTでは抜きつ抜かれつのオーバーテイク合戦が常に繰り広げられることで、手に汗握る白熱したレースが魅力です。
+
+また、本番組の「ABEMA SUPER GT スペシャルサポーター」に朝日奈央さんが決定。大会現地での選手インタビューや体験企画、スタジオではモータースポーツ初心者目線でSUPER GTの魅力を発信していきます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/676-1_s10_p5/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250226062500 +0000" stop="20250226094000 +0000">
+		<title>インカレ水泳2024 大会最終日</title>
+		<desc>“大学日本一決定戦”の「インカレ水泳2024」を、9月5日(木)~8日(日)にてABEMAで無料生中継!
+
+今年、記念すべき100回を迎える国内最古にして、最大の盛り上がりを見せる大会が東京五輪の舞台、東京アクアティクスセンターで開幕!
+
+注目選手は、前回大会では女子400m・800m自由形で3連覇を果たした難波実夢(近大4年)。学生最後となる今大会で、2冠・4連覇の達成に期待したい。
+
+また、東京五輪で女子最年少代表入りを果たし、パリ五輪で2大会連続の五輪出場を果たした谷川亜華葉(近大4年)や、昨年初出場の男子200m背泳ぎで初優勝した日本競泳界の次世代を担う若きホープ・竹原秀一(東洋大2年)など多くのパリ五輪代表が出場予定。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-441_s10_p4/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250226094000 +0000" stop="20250226101000 +0000">
+		<title>【再】ABEMAスポーツタイム#50</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p50/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250226101000 +0000" stop="20250226123500 +0000">
+		<title>【第4試合】ロコ・ソラーレvsTeam Carey|2024.10.4</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p4/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250226123500 +0000" stop="20250226150000 +0000">
+		<title>4v4 JAPAN CUP U10 2023 presented by au</title>
+		<desc>本田圭佑が発起人となった4対4の新しい「U10のためのサッカー」。
+全国大会決勝戦&amp;スペシャルマッチをABEMAで生中継!
+本田自らがルールを考案し、8月から全国各地で予選が行われた本大会。
+指導者は不在。子どもたちが自ら考えてプレーし勝利へと突き進む、そのクライマックスを見逃すな!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s10_p5/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250226150000 +0000" stop="20250226194000 +0000">
+		<title>S.LEAGUE 24-25 ショートボード第2戦 DAY1 R1</title>
+		<desc>ショートボードSリーグ第二戦。,2024年10月17日(木) ~ 10月20日(日) 予備日:21日,大会会場は、久しぶりの静岡県下田市 多々戸浜海水浴場にて、白熱のヒートをお楽しみください!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s20_p5/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250226194000 +0000" stop="20250226201000 +0000">
 		<title>【再】ABEMA SUPER GT ダイジェスト #1</title>
 		<desc>『ABEMA SUPER GTダイジェスト』は、国内モータースポーツで最も人気のあるレースの1つSUPER GTの魅力をわかりやすく、楽しく、そしてレースの結果をダイジェスト形式でたっぷりとお伝えする番組です。
 本番組だけのオリジナルコーナーや次戦の見どころ紹介などを予定しております。
@@ -29370,52 +29535,14 @@ ABEMAランナーとしてフルマラソン初挑戦で、完走を果たした
 また、本番組の「ABEMA SUPER GT スペシャルサポーター」に朝日奈央さんが決定。大会現地での選手インタビューや体験企画、スタジオではモータースポーツ初心者目線でSUPER GTの魅力を発信していきます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/676-1_s10_p5/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250225210000 +0000" stop="20250226110000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	<programme channel="world-sports" start="20250226201000 +0000" stop="20250226222500 +0000">
+		<title>4v4 JAPAN CUP 2024 RESPECT YOU, au 1</title>
+		<desc>サッカー界をさらに盛り上げるべく、本田圭佑が育成年代の小学生の子ども向けに考案した新しい4人制サッカーの大会「4v4」
+今年は全国大会の準決勝・3位決定戦・決勝戦&amp;レジェンドマッチをABEMAで生中継!
+指導者は不在。子どもたちが自ら考えてプレーし勝利へと突き進む、そのクライマックスを見逃すな!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s20_p5/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250226110000 +0000" stop="20250226141500 +0000">
-		<title>インカレ水泳2024 大会3日目</title>
-		<desc>“大学日本一決定戦”の「インカレ水泳2024」を、9月5日(木)~8日(日)にてABEMAで無料生中継!
-
-今年、記念すべき100回を迎える国内最古にして、最大の盛り上がりを見せる大会が東京五輪の舞台、東京アクアティクスセンターで開幕!
-
-注目選手は、前回大会では女子400m・800m自由形で3連覇を果たした難波実夢(近大4年)。学生最後となる今大会で、2冠・4連覇の達成に期待したい。
-
-また、東京五輪で女子最年少代表入りを果たし、パリ五輪で2大会連続の五輪出場を果たした谷川亜華葉(近大4年)や、昨年初出場の男子200m背泳ぎで初優勝した日本競泳界の次世代を担う若きホープ・竹原秀一(東洋大2年)など多くのパリ五輪代表が出場予定。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-441_s10_p3/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20250226141500 +0000" stop="20250226145000 +0000">
-		<title>【再】ABEMAスポーツタイム#50</title>
-		<desc>毎週日曜よる10時から生放送!
-川﨑宗則、槙野智章らがレギュラー出演!!
-スポーツ界を賑わせている話題や最新情報をお届け!
-さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
-「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
-より一層スポーツが楽しくなる番組!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p50/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20250226145000 +0000" stop="20250226170500 +0000">
-		<title>【第3試合】ロコ・ソラーレvsTeam Homan|2024.10.4</title>
-		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
-世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
-ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
-高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p3/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20250226170500 +0000" stop="20250226203000 +0000">
-		<title>インカレ水泳2024 大会最終日</title>
-		<desc>“大学日本一決定戦”の「インカレ水泳2024」を、9月5日(木)~8日(日)にてABEMAで無料生中継!
-
-今年、記念すべき100回を迎える国内最古にして、最大の盛り上がりを見せる大会が東京五輪の舞台、東京アクアティクスセンターで開幕!
-
-注目選手は、前回大会では女子400m・800m自由形で3連覇を果たした難波実夢(近大4年)。学生最後となる今大会で、2冠・4連覇の達成に期待したい。
-
-また、東京五輪で女子最年少代表入りを果たし、パリ五輪で2大会連続の五輪出場を果たした谷川亜華葉(近大4年)や、昨年初出場の男子200m背泳ぎで初優勝した日本競泳界の次世代を担う若きホープ・竹原秀一(東洋大2年)など多くのパリ五輪代表が出場予定。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-441_s10_p4/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20250226203000 +0000" stop="20250226210000 +0000">
+	<programme channel="world-sports" start="20250226222500 +0000" stop="20250226225500 +0000">
 		<title>【再】ABEMA SUPER GT ダイジェスト #2</title>
 		<desc>『ABEMA SUPER GTダイジェスト』は、国内モータースポーツで最も人気のあるレースの1つSUPER GTの魅力をわかりやすく、楽しく、そしてレースの結果をダイジェスト形式でたっぷりとお伝えする番組です。
 本番組だけのオリジナルコーナーや次戦の見どころ紹介などを予定しております。
@@ -29427,27 +29554,14 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 また、本番組の「ABEMA SUPER GT スペシャルサポーター」に朝日奈央さんが決定。大会現地での選手インタビューや体験企画、スタジオではモータースポーツ初心者目線でSUPER GTの魅力を発信していきます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/676-1_s20_p5/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250226210000 +0000" stop="20250227110000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
-	</programme>
-	<programme channel="world-sports" start="20250227110000 +0000" stop="20250227132500 +0000">
-		<title>【第4試合】ロコ・ソラーレvsTeam Carey|2024.10.4</title>
-		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
-世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
-ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
-高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p4/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20250227132500 +0000" stop="20250227182000 +0000">
+	<programme channel="world-sports" start="20250226225500 +0000" stop="20250227035000 +0000">
 		<title>競泳ジャパンオープン2024 大会1日目~2日目</title>
 		<desc>「競泳ジャパンオープン2024」を、11月29日(金)~12月1日(日)の3日間にてABEMAで無料生中継!
 
 パリ五輪・銀メダル 松下知之ら競泳ニッポンが再集結!世界水泳2025へ、選手たちの現在地は!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-444_s10_p1/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250227182000 +0000" stop="20250227210000 +0000">
+	<programme channel="world-sports" start="20250227035000 +0000" stop="20250227062500 +0000">
 		<title>【再】スーパーフォーミュラ2024 Rd.1鈴鹿サーキット</title>
 		<desc>「SUPER FORMULA」2024年シーズンの決勝を全戦アベマで無料生中継!
 最高時速300Km!
@@ -29459,19 +29573,81 @@ F2ランキング4位の岩佐歩夢。
 そして日本人女性初かつ史上最年少となるJuju(18歳)。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-2_s10_p5/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250227210000 +0000" stop="20250228110000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	<programme channel="world-sports" start="20250227062500 +0000" stop="20250227110500 +0000">
+		<title>【再】バスケットボールJr.ウインターカップ2024-25男女決勝</title>
+		<desc>各都道府県の予選を勝ち抜いた男女47チームずつが参加し、さらに協会の推薦で追加の男女5チームずつが加わり、男女全52チームがトーナメントを戦い、日本一を目指す大会になります。
+部活動チームのみ参加の「全中」とは異なり、各地域のクラブチーム、プロバスケットボール「Bリーグ」のチームが運営するユースチームと、中学校の部活動チームが同じルールで戦う大会となっています。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-448_s10_p1/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250228110000 +0000" stop="20250228135500 +0000">
+	<programme channel="world-sports" start="20250227110500 +0000" stop="20250227153000 +0000">
+		<title>S.LEAGUE 24-25 ショートボード第2戦 DAY1 R2</title>
+		<desc>ショートボードSリーグ第二戦。,2024年10月17日(木) ~ 10月20日(日) 予備日:21日,大会会場は、久しぶりの静岡県下田市 多々戸浜海水浴場にて、白熱のヒートをお楽しみください!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s20_p6/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250227153000 +0000" stop="20250227210000 +0000">
+		<title>S.LEAGUE 24-25 ショートボード第2戦 DAY</title>
+		<desc>ショートボードSリーグ第二戦。,2024年10月17日(木) ~ 10月20日(日) 予備日:21日,大会会場は、久しぶりの静岡県下田市 多々戸浜海水浴場にて、白熱のヒートをお楽しみください!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s20_p7/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250227210000 +0000" stop="20250227234500 +0000">
+		<title>4v4 JAPAN CUP 2024 RESPECT YOU, au 2</title>
+		<desc>サッカー界をさらに盛り上げるべく、本田圭佑が育成年代の小学生の子ども向けに考案した新しい4人制サッカーの大会「4v4」
+今年は全国大会の準決勝・3位決定戦・決勝戦&amp;レジェンドマッチをABEMAで生中継!
+指導者は不在。子どもたちが自ら考えてプレーし勝利へと突き進む、そのクライマックスを見逃すな!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s20_p6/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250227234500 +0000" stop="20250228024500 +0000">
+		<title>【第2試合】ロコ・ソラーレvsフォルティウス|24.11.27</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s30_p2/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250228024500 +0000" stop="20250228045500 +0000">
+		<title>【再】スーパーフォーミュラ2024 Rd.2 オートポリス</title>
+		<desc>「SUPER FORMULA」2024年シーズンの決勝を全9戦アベマで無料生中継!
+
+最高時速300Km!
+全マシン同一車両で争われるワンメイクレース!
+ドライバーのテクニックやチーム戦略が勝敗のカギ!
+
+Rd.2 オートポリス大会 注目ドライバーは
+開幕戦を制した 野尻智紀
+怪我から奇跡の復活 山本尚貴
+そして日本人女性初かつ史上最年少となるJuju(野田樹潤)。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-2_s20_p5/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250228045500 +0000" stop="20250228075000 +0000">
 		<title>競泳ジャパンオープン2024 大会最終日</title>
 		<desc>「競泳ジャパンオープン2024」を、11月29日(金)~12月1日(日)の3日間にてABEMAで無料生中継!
 
 パリ五輪・銀メダル 松下知之ら競泳ニッポンが再集結!世界水泳2025へ、選手たちの現在地は!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-444_s10_p3/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250228135500 +0000" stop="20250228162000 +0000">
+	<programme channel="world-sports" start="20250228075000 +0000" stop="20250228110000 +0000">
+		<title>【再】スーパーフォーミュラ2024 Rd.3 スポーツランドSUGO</title>
+		<desc>「SUPER FORMULA」2024年シーズンの決勝を全戦アベマで無料生中継!
+最高時速300Km!
+全マシン同一車両で争われるワンメイクレース!
+ドライバーのテクニックやチーム戦略が勝敗のカギ!
+今季初参戦のレーサーに注目。
+F1候補生でF2最年少チャンピオンのプルシェール。
+F2ランキング4位の岩佐歩夢。
+そして日本人女性初かつ史上最年少となるJuju(18歳)。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-2_s30_p5/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250228110000 +0000" stop="20250228113000 +0000">
+		<title>【再】ABEMAスポーツタイム#50</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p50/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250228113000 +0000" stop="20250228135000 +0000">
 		<title>【第5試合】ロコ・ソラーレvsT.Peterson|2024.10.5</title>
 		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
 世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
@@ -29479,24 +29655,18 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p5/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250228162000 +0000" stop="20250228201000 +0000">
-		<title>横浜マラソン2023.10.29_前半</title>
-		<desc>今年も横浜マラソン2023をアベマで生中継。みなとみらい地区や横浜赤レンガ倉庫など横浜名所に加え、高速道路もマラソンコースとして設計。
-番組内では、フルマラソンに初挑戦する人気YouTuber2組に密着!1組目は昨年に引き続き Lazy Lie Crazy【レイクレ】!どば師匠、たかし、てっちゃん、ともやん、ぺろ愛男爵の中から誰が挑戦するかはレイクレのYouTubeで発表。他メンバーはサポート予定!2組目はヘラヘラ三銃士から、ありしゃんがフルマラソンに挑戦!まりな、さおりんのサポートで完走することができるのか!ゲストには横浜出身の森三中村上知子を起用し、横浜の情報や様々な番組の盛り上げ企画も合わせて放送。
-X連携コメント機能で、応援コメントを送ることで、レイクレ、ヘラヘラのサイン入りグッズのプレゼントキャンペーンも!
-お楽しみください!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/614-3_s10_p1/thumb001.png" />
+	<programme channel="world-sports" start="20250228135000 +0000" stop="20250228192000 +0000">
+		<title>S.LEAGUE 24-25 ショートボード第2戦 DAY2</title>
+		<desc>ショートボードSリーグ第二戦。,2024年10月17日(木) ~ 10月20日(日) 予備日:21日,大会会場は、久しぶりの静岡県下田市 多々戸浜海水浴場にて、白熱のヒートをお楽しみください!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s20_p7/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250228201000 +0000" stop="20250228223000 +0000">
-		<title>インカレ水泳2024 大会1日目</title>
-		<desc>“大学日本一決定戦”の「インカレ水泳2024」を、9月5日(木)~8日(日)にてABEMAで無料生中継!
-
-今年、記念すべき100回を迎える国内最古にして、最大の盛り上がりを見せる大会が東京五輪の舞台、東京アクアティクスセンターで開幕!
-
-注目選手は、前回大会では女子400m・800m自由形で3連覇を果たした難波実夢(近大4年)。学生最後となる今大会で、2冠・4連覇の達成に期待したい。
-
-また、東京五輪で女子最年少代表入りを果たし、パリ五輪で2大会連続の五輪出場を果たした谷川亜華葉(近大4年)や、昨年初出場の男子200m背泳ぎで初優勝した日本競泳界の次世代を担う若きホープ・竹原秀一(東洋大2年)など多くのパリ五輪代表が出場予定。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-441_s10_p1/thumb001.png" />
+	<programme channel="world-sports" start="20250228192000 +0000" stop="20250228223000 +0000">
+		<title>【第3試合】ロコ・ソラーレvsTeam Tirinzoni|24.11.29</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s30_p3/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250228223000 +0000" stop="20250301090000 +0000">
 		<title>PGM × ACCORDIAチャリティゴルフ</title>
@@ -29584,9 +29754,13 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s20_p1/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250302130000 +0000" stop="20250302133000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+		<title>ABEMAスポーツタイム#76</title>
+		<desc>毎週日曜よる10時から生放送! 川﨑宗則、槙野智章らがレギュラー出演!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10001_p76/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250302133000 +0000" stop="20250302183000 +0000">
 		<title>JPSAジャパンプロサーフィンツアー2023 第5戦日向ショートボート2日目後半</title>
@@ -29719,6 +29893,16 @@ ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
 2024年8月21日(水) ~ 8月25日(日) 予備日:26日
 茨城県大洗町 磯場ポイント</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s10_p2/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250225070000 +0000" stop="20250225090000 +0000">
+		<title>【告知枠】18時放送 Ambetter Health 400</title>
+		<desc>-</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s10001_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250225090000 +0000" stop="20250225140000 +0000">
+		<title>Ambetter Health 400｜NASCAR</title>
+		<desc>-</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s10001_p2/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250217072000 +0000" stop="20250217160000 +0000">
 		<title>K-1 WGP ~RING OF VENUS~ 2022.6.25</title>
