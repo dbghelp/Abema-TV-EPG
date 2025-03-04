@@ -72,6 +72,10 @@
 		<display-name>マクロスチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
 	</channel>
+	<channel id="gundam">
+		<display-name>ガンダム特集</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</channel>
 	<channel id="80s-anime-1">
 		<display-name>なつかしアニメ80's</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png" />
@@ -1433,32 +1437,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	</programme>
 	<programme channel="abema-anime" start="20250303133000 +0000" stop="20250303140000 +0000">
 		<title>わたしの幸せな結婚　第二期 #22【最新話】</title>
-		<desc>「異能」の名家に生まれながらも
-その才を持たず、家族から虐げられて育った少女・美世は、これまでに数多の婚約者たちが逃げ出し〝冷酷な軍人〟と噂される久堂家当主・清霞のもとへ嫁ぐ。
-
-始まりは、誰もが不幸な結末を予測する政略結婚だった。
-
-だが、清霞は美世の偽りない純粋さに心解かれ、美世もまた、そんな清霞の芯にある優しさに心温められていく。
-
-「旦那さまの力になりたい」――。
-
-そう願うようになった美世は、亡き母の深い愛のもとに封印されていた「夢見の力」を開花させ、ついには清霞の危機を救う。
-ふたりはお互いの存在によって幸せを知り、末永く寄り添い合って生きていくことを誓うのだった。
-
-しかし、来春にも挙式を予定し、穏やかな日々を過ごすふたりに思わぬ出来事が訪れる。
-
-清霞の父・正清に招待され、隠居先の屋敷へ向かったふたりを待ち受けていたのは、清霞の母・芙由の激しい罵倒。
-美世は「久堂家の嫁」として認められるべく、奮闘する。
-そこにまとわりつく怪しい視線の理由も知らず……。
-
-ときを同じくして、屋敷の付近で相次いでいた
-「鬼」の目撃情報を調査していた清霞は
-国家転覆を企てる「異能心教」と交戦し……。
-
-「厄災が来る」――。
-
-帝都の平和を揺るがす、新たな事件の幕が開ける。
-ふたりは、祝福された未来へ辿り着くことができるのだろうか？</desc>
+		<desc>宝上が軍本部を襲撃し、甘水の計略は最終段階を迎えようとしていた。異能心教が仕向ける鬼は異能による攻撃を弾くようになり、清霞は解術が専門の辰石家当主・一志に協力を求める。甘水が澄美に別れを告げられたときのことを夢で見た美世は、すぐにもその内容を清霞に伝えようとするが、そこへ以前迷い込んできた秘書官があらわれて……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-244_s2_p22/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250303140000 +0000" stop="20250303143000 +0000">
@@ -1543,42 +1522,17 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	</programme>
 	<programme channel="abema-anime" start="20250303150000 +0000" stop="20250303153000 +0000">
 		<title>全修。 #9【最新話】</title>
-		<desc>広瀬ナツ子は、高校卒業後アニメーターとなり才能を開花させ、あっという間に監督デビューを果たす。初監督作品は社会現象になる大ヒット。新進気鋭の天才監督と世間でも評価され、次回作は初恋をテーマにした劇場ラブコメ作品に決定！しかし、人を好きになったことがないナツ子は初恋がよくわからず、コンテが描けなくなり映画制作が行き詰る。そんなある日、コンテ作業中に意識を失い、目が覚めるとそこは、子供の頃に夢中になったアニメ映画『滅びゆく物語』の世界だった。</desc>
+		<desc>伝説の勇者ルーク・ブレイブハート。ずっと戦って生きてきたが、ナツ子が現れて恋をして生まれて初めて人生が楽しい！一方、ナツ子はルークに告白されて戸惑っていた。自分がこの世界に来たことで映画「滅びゆく物語」の展開とは少しずつ変わってきているが、もし映画の通りになるとしたらラストは…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/560-3_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250303153000 +0000" stop="20250303160000 +0000">
 		<title>ドラゴンボールDAIMA #20【最新話】</title>
-		<desc>-</desc>
+		<desc>元の姿に戻り、ついに限界を超えていく悟空！　サードアイの力で幾度も復活する強大なジャイアントゴマーを倒すため、皆で共闘してゼンカイやべえバトルが繰り広げられる!!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-69_s1_p20/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250303160000 +0000" stop="20250303163000 +0000">
 		<title>わたしの幸せな結婚　第二期 #22・見逃し放送</title>
-		<desc>「異能」の名家に生まれながらも
-その才を持たず、家族から虐げられて育った少女・美世は、これまでに数多の婚約者たちが逃げ出し〝冷酷な軍人〟と噂される久堂家当主・清霞のもとへ嫁ぐ。
-
-始まりは、誰もが不幸な結末を予測する政略結婚だった。
-
-だが、清霞は美世の偽りない純粋さに心解かれ、美世もまた、そんな清霞の芯にある優しさに心温められていく。
-
-「旦那さまの力になりたい」――。
-
-そう願うようになった美世は、亡き母の深い愛のもとに封印されていた「夢見の力」を開花させ、ついには清霞の危機を救う。
-ふたりはお互いの存在によって幸せを知り、末永く寄り添い合って生きていくことを誓うのだった。
-
-しかし、来春にも挙式を予定し、穏やかな日々を過ごすふたりに思わぬ出来事が訪れる。
-
-清霞の父・正清に招待され、隠居先の屋敷へ向かったふたりを待ち受けていたのは、清霞の母・芙由の激しい罵倒。
-美世は「久堂家の嫁」として認められるべく、奮闘する。
-そこにまとわりつく怪しい視線の理由も知らず……。
-
-ときを同じくして、屋敷の付近で相次いでいた
-「鬼」の目撃情報を調査していた清霞は
-国家転覆を企てる「異能心教」と交戦し……。
-
-「厄災が来る」――。
-
-帝都の平和を揺るがす、新たな事件の幕が開ける。
-ふたりは、祝福された未来へ辿り着くことができるのだろうか？</desc>
+		<desc>宝上が軍本部を襲撃し、甘水の計略は最終段階を迎えようとしていた。異能心教が仕向ける鬼は異能による攻撃を弾くようになり、清霞は解術が専門の辰石家当主・一志に協力を求める。甘水が澄美に別れを告げられたときのことを夢で見た美世は、すぐにもその内容を清霞に伝えようとするが、そこへ以前迷い込んできた秘書官があらわれて……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-244_s2_p22/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250303163000 +0000" stop="20250303170000 +0000">
@@ -1604,11 +1558,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	</programme>
 	<programme channel="abema-anime" start="20250303183000 +0000" stop="20250303183500 +0000">
 		<title>ねこに転生したおじさん #20【最新話】</title>
-		<desc>全人類がニャいた！？「次にくるマンガ大賞2023WEB マンガ部門2位」を受賞した話題のSNSマンガ、ついにTVアニメ化！
-ごく普通のサラリーマンだったのに、ある日突然、ねこに転生してしまったおじさん。
-人間の言葉も話せなくなり道端で困っていると、そこへ通りかかったのは、
-おじさんが勤めている会社の社長だった。厳しい性格で知られていた社長だったが、可愛らしいねこ（正体はおじさん）を目にしたとたん、態度が一変し…！？
-正体がバレないようふるまうおじさんと、ねこに「プンちゃん」と名付けて溺愛する社長の、愉快でシュールなハッピーライフがスタート！</desc>
+		<desc>プンちゃんの前で新しいオリジナルソングを披露する社長だったが…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-206_s1_p20/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250303183500 +0000" stop="20250303190000 +0000">
@@ -1633,20 +1583,13 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	</programme>
 	<programme channel="abema-anime" start="20250304110000 +0000" stop="20250304123000 +0000">
 		<title>Duel Masters LOST ～月下の死神～ #2〜4【最新話】</title>
-		<desc>黒い死神、黒城凶死郎。
-見た者の魂を奪うというその瞳が見つめるのは──。</desc>
+		<desc>父の残したメモをもとに「黒き死神」黒城凶死郎について独自に調査をしていた九十九矢ワユミ。ウィンとニイカもまた、病院から姿を消した宮井を探しクリーチャーたちが暴れる世界へと向かう。そこには正気を失いウィンのクリスタルカードを狙おうとする宮井の姿が。襲われる二人の前に、ついに黒城凶死郎が現れる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-195_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250304123000 +0000" stop="20250304130000 +0000">
 		<title>俺だけレベルアップな件 Season 2 #21【最新話】</title>
-		<desc>世界各地に異次元と現世界を結ぶ通路“ゲート”が出現して十数年。
-“ハンター”と呼ばれる超人的な力に覚醒した人間たちと、
-ゲート内のダンジョンに存在するモンスターとの戦いは絶え間なく続いている。
-本来、ハンターの能力は覚醒時から成長せず、そのランクも変わることはない。
-しかし、人類最弱兵器と呼ばれていた低ランクハンターの水篠旬は、
-二重ダンジョンでのレイド中に自分だけが「レベルアップする」力を手に入れ、戦いの中で能力を高めていく。
-転職クエストをクリアして、影の兵士を従わせることができる職業『影の君主』を手に入れた旬は、
-病気の母を治す可能性のある「命の神水」の素材を求めて新たな戦いに身を投じていくのだった。</desc>
+		<desc>「悪魔の城」の攻略を完了し、「命の神水」を手に母の病室に向かった旬は、ようやく真の報酬を手に入れる。その一方で、足を踏み入れてはいけない領域にまで来てしまったのではないかという不安がつきまとう。
+そんな中、旬は架南島奪還に向けたレイドへの参戦を切望される。またとないレベルアップの機会だが、脳裏に浮かぶのは母と妹の姿だった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-215_s2_p21/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250304130000 +0000" stop="20250304133000 +0000">
@@ -1666,15 +1609,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	</programme>
 	<programme channel="abema-anime" start="20250304133000 +0000" stop="20250304140000 +0000">
 		<title>青の祓魔師 終夜篇 #9【最新話】</title>
-		<desc>雪男は燐に決別を告げ、イルミナティへと向かってしまった。
-強さを求め、真実を求める雪男と向き合うためには、自分たちの出生の秘密を知る必要があると決意した燐は、メフィストの手引きで過去へと旅立つ。
-
-燐は、育ての父である藤本獅郎と実の母であるユリ・エギンの足跡を辿っていくが、二人が生きた道筋は、想像を超える過酷なものだった――
-
-なぜ、悪魔の神であるサタンと人との間に仔が生まれたのか。
-〝青い夜〟とは何だったのか。
-すべてを知ったとき、燐が出す答えとは……。
-物語はいよいよ「青の祓魔師」の核心を暴き出す――</desc>
+		<desc>獅郎は降魔剣を使い、燐の悪魔の心臓を封印することに成功した。それにより燐は悪魔の本性と切り離され、ユリの腕の中へと戻された。しかし安心したのも束の間、聖騎士・アベルの身体がサタンに強制憑依されてしまう。ユリへの思慕が妄執に変わったサタンにはユリの言葉も届かない。感情を爆発させ、獅郎の身体を奪おうと迫るサタン。獅郎は憑依を防ぐため、大胆な行動に出るが……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-236_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250304140000 +0000" stop="20250304143000 +0000">
@@ -1809,14 +1744,8 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	</programme>
 	<programme channel="abema-anime" start="20250304170000 +0000" stop="20250304173000 +0000">
 		<title>俺だけレベルアップな件 Season 2 #21・見逃し放送</title>
-		<desc>世界各地に異次元と現世界を結ぶ通路“ゲート”が出現して十数年。
-“ハンター”と呼ばれる超人的な力に覚醒した人間たちと、
-ゲート内のダンジョンに存在するモンスターとの戦いは絶え間なく続いている。
-本来、ハンターの能力は覚醒時から成長せず、そのランクも変わることはない。
-しかし、人類最弱兵器と呼ばれていた低ランクハンターの水篠旬は、
-二重ダンジョンでのレイド中に自分だけが「レベルアップする」力を手に入れ、戦いの中で能力を高めていく。
-転職クエストをクリアして、影の兵士を従わせることができる職業『影の君主』を手に入れた旬は、
-病気の母を治す可能性のある「命の神水」の素材を求めて新たな戦いに身を投じていくのだった。</desc>
+		<desc>「悪魔の城」の攻略を完了し、「命の神水」を手に母の病室に向かった旬は、ようやく真の報酬を手に入れる。その一方で、足を踏み入れてはいけない領域にまで来てしまったのではないかという不安がつきまとう。
+そんな中、旬は架南島奪還に向けたレイドへの参戦を切望される。またとないレベルアップの機会だが、脳裏に浮かぶのは母と妹の姿だった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-215_s2_p21/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250304173000 +0000" stop="20250304180000 +0000">
@@ -1864,13 +1793,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	</programme>
 	<programme channel="abema-anime" start="20250304183000 +0000" stop="20250304190000 +0000">
 		<title>遊☆戯☆王ゴーラッシュ！！ #147【最新話】</title>
-		<desc>六葉町に住む双子の兄妹・王道遊飛と王道遊歩は、ちょっぴりアヤシイ宇宙人駆除業社・ＵＴＳ（宇宙人トラブル相談所）を経営する小学生。遊飛が作った謎の装置で宇宙人を探しては、ムダに苦労する毎日を送っていた……そう、あの日までは!!
-
-できたてほやほやのミステリーサークルで、ついにホンモノの宇宙船を見つけた遊飛と遊歩。おそるおそる宇宙船に足を踏み入れた２人は、その船の中ではるか彼方のベルギャー星団から来たという宇宙人・ユウディアスと遭遇!!
-
-故郷の星団を追われた仲間を、新たな未来へ導くといわれる“ラッシュデュエル”を求めて地球までやってきたユウディアスだったが、それがどんなものかは知らない様子。そんな初心者のユウディアスにひと肌脱いでやろうとラッシュデュエルを挑む遊飛。こうして小学生と宇宙人による初めての異星間交流は、ラッシュデュエルで行われることに……!!
-
-今、遠い銀河の果てから来た１人の宇宙戦士が、ラッシュデュエルという新たな戦場を駆け抜ける！ 　行くぞ、ゴーラッシュ!!</desc>
+		<desc>脱獄した翁丁臼を追っていたユウディアスたちは、浜辺でテンテンと話す翁丁臼を発見する。内通を疑うランラン、疑われたことが気に入らないテンテン、言い争いをする二人に、翁丁臼がデュエルを仕掛けてくる。表と裏、二人の七星がタックデュエルで迎え撃つ！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-7_s1_p147/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250304190000 +0000" stop="20250304193000 +0000">
@@ -2095,13 +2018,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	</programme>
 	<programme channel="abema-anime" start="20250305170000 +0000" stop="20250305173000 +0000">
 		<title>遊☆戯☆王ゴーラッシュ！！ #147・見逃し放送</title>
-		<desc>六葉町に住む双子の兄妹・王道遊飛と王道遊歩は、ちょっぴりアヤシイ宇宙人駆除業社・ＵＴＳ（宇宙人トラブル相談所）を経営する小学生。遊飛が作った謎の装置で宇宙人を探しては、ムダに苦労する毎日を送っていた……そう、あの日までは!!
-
-できたてほやほやのミステリーサークルで、ついにホンモノの宇宙船を見つけた遊飛と遊歩。おそるおそる宇宙船に足を踏み入れた２人は、その船の中ではるか彼方のベルギャー星団から来たという宇宙人・ユウディアスと遭遇!!
-
-故郷の星団を追われた仲間を、新たな未来へ導くといわれる“ラッシュデュエル”を求めて地球までやってきたユウディアスだったが、それがどんなものかは知らない様子。そんな初心者のユウディアスにひと肌脱いでやろうとラッシュデュエルを挑む遊飛。こうして小学生と宇宙人による初めての異星間交流は、ラッシュデュエルで行われることに……!!
-
-今、遠い銀河の果てから来た１人の宇宙戦士が、ラッシュデュエルという新たな戦場を駆け抜ける！ 　行くぞ、ゴーラッシュ!!</desc>
+		<desc>脱獄した翁丁臼を追っていたユウディアスたちは、浜辺でテンテンと話す翁丁臼を発見する。内通を疑うランラン、疑われたことが気に入らないテンテン、言い争いをする二人に、翁丁臼がデュエルを仕掛けてくる。表と裏、二人の七星がタックデュエルで迎え撃つ！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-7_s1_p147/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250305173000 +0000" stop="20250305180000 +0000">
@@ -2267,15 +2184,7 @@ Sランクの力を活かし、アリアと共に迷宮を冒険するタマ。
 	</programme>
 	<programme channel="abema-anime" start="20250306150000 +0000" stop="20250306153000 +0000">
 		<title>青の祓魔師 終夜篇 #9・見逃し放送</title>
-		<desc>雪男は燐に決別を告げ、イルミナティへと向かってしまった。
-強さを求め、真実を求める雪男と向き合うためには、自分たちの出生の秘密を知る必要があると決意した燐は、メフィストの手引きで過去へと旅立つ。
-
-燐は、育ての父である藤本獅郎と実の母であるユリ・エギンの足跡を辿っていくが、二人が生きた道筋は、想像を超える過酷なものだった――
-
-なぜ、悪魔の神であるサタンと人との間に仔が生まれたのか。
-〝青い夜〟とは何だったのか。
-すべてを知ったとき、燐が出す答えとは……。
-物語はいよいよ「青の祓魔師」の核心を暴き出す――</desc>
+		<desc>獅郎は降魔剣を使い、燐の悪魔の心臓を封印することに成功した。それにより燐は悪魔の本性と切り離され、ユリの腕の中へと戻された。しかし安心したのも束の間、聖騎士・アベルの身体がサタンに強制憑依されてしまう。ユリへの思慕が妄執に変わったサタンにはユリの言葉も届かない。感情を爆発させ、獅郎の身体を奪おうと迫るサタン。獅郎は憑依を防ぐため、大胆な行動に出るが……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-236_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250306153000 +0000" stop="20250306160000 +0000">
@@ -11529,6 +11438,251 @@ https://www.shogakukan.co.jp/pr/reikai/kotobato/
 		<desc>またしても、別の宇宙空間にフォールドアウトしてしまったシティ7。そんな事態とは無縁に、ミレーヌが主演した「リン・ミンメイ物語」の影響で「ファイアーボンバー」の知名度は一気に上昇。次々とライブの依頼が舞い込む。まずは、退役軍人も多い老人ホームのシルバーパラダイス。そして次のライブは、遊園地で子供たちの前。その時、バロータ軍が現れた。一方バトル7の中ではバロータ兵に襲われ廃人同然となった犠牲者たちに音楽を聴かせ治療をする、という実験が進められていた。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p14/thumb001.png" />
 	</programme>
+	<programme channel="gundam" start="20250224130000 +0000" stop="20250224180000 +0000">
+		<title>新機動戦記ガンダムＷ #1〜10【無料ビデオ72時間】</title>
+		<desc>5体のMSが地球へと降下。その1体であるウイングはOZのゼクスに撃墜されてしまう。外務次官の娘リリーナは漂着した操縦者ヒイロを発見するが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250224180000 +0000" stop="20250225030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250225030000 +0000" stop="20250225080000 +0000">
+		<title>新機動戦記ガンダムＷ #1〜10【無料ビデオ72時間】</title>
+		<desc>5体のMSが地球へと降下。その1体であるウイングはOZのゼクスに撃墜されてしまう。外務次官の娘リリーナは漂着した操縦者ヒイロを発見するが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250225080000 +0000" stop="20250225130000 +0000">
+		<title>新機動戦記ガンダムＷ #1〜10【無料ビデオ72時間】</title>
+		<desc>5体のMSが地球へと降下。その1体であるウイングはOZのゼクスに撃墜されてしまう。外務次官の娘リリーナは漂着した操縦者ヒイロを発見するが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250225130000 +0000" stop="20250225180000 +0000">
+		<title>新機動戦記ガンダムＷ #11〜20【無料ビデオ72時間】</title>
+		<desc>カトルに連れられ、マグアナック隊の基地に身を寄せるデュオ。ヒイロの行動がきっかけとなり、少年たちは今後のことを語り合い始めた。また、父の仇を追うリリーナはモスクワへ。恨みの銃弾がレディ・アンの胸の薔薇を撃ち抜く！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p11/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250225180000 +0000" stop="20250226030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250226030000 +0000" stop="20250226080000 +0000">
+		<title>新機動戦記ガンダムＷ #11〜20【無料ビデオ72時間】</title>
+		<desc>カトルに連れられ、マグアナック隊の基地に身を寄せるデュオ。ヒイロの行動がきっかけとなり、少年たちは今後のことを語り合い始めた。また、父の仇を追うリリーナはモスクワへ。恨みの銃弾がレディ・アンの胸の薔薇を撃ち抜く！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p11/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250226080000 +0000" stop="20250226130000 +0000">
+		<title>新機動戦記ガンダムＷ #11〜20【無料ビデオ72時間】</title>
+		<desc>カトルに連れられ、マグアナック隊の基地に身を寄せるデュオ。ヒイロの行動がきっかけとなり、少年たちは今後のことを語り合い始めた。また、父の仇を追うリリーナはモスクワへ。恨みの銃弾がレディ・アンの胸の薔薇を撃ち抜く！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p11/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250226130000 +0000" stop="20250226180000 +0000">
+		<title>新機動戦記ガンダムＷ #21〜30【無料ビデオ72時間】</title>
+		<desc>故郷の資源衛星で父と再会したカトル。厳格な平和主義者の父はMSで戦う息子を許そうとしない。だが、彼が心血を注ぎ発展させてきた衛星は、OZの影響のもとで軍備化の道を歩みつつあった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p21/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250226180000 +0000" stop="20250227030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250227030000 +0000" stop="20250227080000 +0000">
+		<title>新機動戦記ガンダムＷ #21〜30【無料ビデオ72時間】</title>
+		<desc>故郷の資源衛星で父と再会したカトル。厳格な平和主義者の父はMSで戦う息子を許そうとしない。だが、彼が心血を注ぎ発展させてきた衛星は、OZの影響のもとで軍備化の道を歩みつつあった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p21/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250227080000 +0000" stop="20250227130000 +0000">
+		<title>新機動戦記ガンダムＷ #21〜30【無料ビデオ72時間】</title>
+		<desc>故郷の資源衛星で父と再会したカトル。厳格な平和主義者の父はMSで戦う息子を許そうとしない。だが、彼が心血を注ぎ発展させてきた衛星は、OZの影響のもとで軍備化の道を歩みつつあった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p21/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250227130000 +0000" stop="20250227180000 +0000">
+		<title>新機動戦記ガンダムＷ #31〜40【無料ビデオ72時間】</title>
+		<desc>トレーズ派の負傷兵をサンクキングダムへ追い込み、完全平和の脆さを露呈させようと図る財団。ノインとヒイロはMSでの迎撃を余儀なくされる。武器なき平和はリリーナの夢でしかないのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p31/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250227180000 +0000" stop="20250228030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250228030000 +0000" stop="20250228080000 +0000">
+		<title>新機動戦記ガンダムＷ #31〜40【無料ビデオ72時間】</title>
+		<desc>トレーズ派の負傷兵をサンクキングダムへ追い込み、完全平和の脆さを露呈させようと図る財団。ノインとヒイロはMSでの迎撃を余儀なくされる。武器なき平和はリリーナの夢でしかないのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p31/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250228080000 +0000" stop="20250228130000 +0000">
+		<title>新機動戦記ガンダムＷ #31〜40【無料ビデオ72時間】</title>
+		<desc>トレーズ派の負傷兵をサンクキングダムへ追い込み、完全平和の脆さを露呈させようと図る財団。ノインとヒイロはMSでの迎撃を余儀なくされる。武器なき平和はリリーナの夢でしかないのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p31/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250228130000 +0000" stop="20250228173000 +0000">
+		<title>新機動戦記ガンダムＷ #41〜49【無料ビデオ72時間】</title>
+		<desc>バルジ要塞でOZとWFとの攻防戦が開始された。ゼクスの真意が知りたいノインは戦闘宙域へ向かう。一方、地球では政変とともにトレーズが復活。リリーナは財団代表を解任されてしまう……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p41/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250228173000 +0000" stop="20250228190000 +0000">
+		<title>新機動戦記ガンダムW Endless Waltz #1〜3【無料ビデオ72時間】</title>
+		<desc>A.C.196年…地球国家軍と革命軍ホワイトファングの戦いが終結して1年。五飛を除き、平和な世界には必要なくなったガンダムを処分しようとするカトルたち。一方、地球ではレディ・アン指導のもと「プリベンター」が組織された。そんな時、リリーナがマリーメイアを元首とするマリーメイア軍に誘拐されてしまい…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-130_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250228190000 +0000" stop="20250301010000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250301010000 +0000" stop="20250301053000 +0000">
+		<title>新機動戦記ガンダムＷ #41〜49【無料ビデオ72時間】</title>
+		<desc>バルジ要塞でOZとWFとの攻防戦が開始された。ゼクスの真意が知りたいノインは戦闘宙域へ向かう。一方、地球では政変とともにトレーズが復活。リリーナは財団代表を解任されてしまう……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p41/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250301053000 +0000" stop="20250301070000 +0000">
+		<title>新機動戦記ガンダムW Endless Waltz #1〜3【無料ビデオ72時間】</title>
+		<desc>A.C.196年…地球国家軍と革命軍ホワイトファングの戦いが終結して1年。五飛を除き、平和な世界には必要なくなったガンダムを処分しようとするカトルたち。一方、地球ではレディ・アン指導のもと「プリベンター」が組織された。そんな時、リリーナがマリーメイアを元首とするマリーメイア軍に誘拐されてしまい…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-130_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250301070000 +0000" stop="20250301113000 +0000">
+		<title>新機動戦記ガンダムＷ #41〜49【無料ビデオ72時間】</title>
+		<desc>バルジ要塞でOZとWFとの攻防戦が開始された。ゼクスの真意が知りたいノインは戦闘宙域へ向かう。一方、地球では政変とともにトレーズが復活。リリーナは財団代表を解任されてしまう……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p41/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250301113000 +0000" stop="20250301130000 +0000">
+		<title>新機動戦記ガンダムW Endless Waltz #1〜3【無料ビデオ72時間】</title>
+		<desc>A.C.196年…地球国家軍と革命軍ホワイトファングの戦いが終結して1年。五飛を除き、平和な世界には必要なくなったガンダムを処分しようとするカトルたち。一方、地球ではレディ・アン指導のもと「プリベンター」が組織された。そんな時、リリーナがマリーメイアを元首とするマリーメイア軍に誘拐されてしまい…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-130_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250301130000 +0000" stop="20250301233000 +0000">
+		<title>機動戦士ガンダムユニコーン RE:0096 #1〜22【無料ビデオ1週間】</title>
+		<desc>宇宙世紀0096年――。ネオ・ジオン軍と地球連邦軍が戦火を交えた『シャアの反乱』から3年。工業コロニー、インダストリアル7に住む少年バナージ・リンクスは、オードリー・バーンと名乗る謎の少女と出会う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-66_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250301233000 +0000" stop="20250302100000 +0000">
+		<title>機動戦士ガンダムユニコーン RE:0096 #1〜22【無料ビデオ1週間】</title>
+		<desc>宇宙世紀0096年――。ネオ・ジオン軍と地球連邦軍が戦火を交えた『シャアの反乱』から3年。工業コロニー、インダストリアル7に住む少年バナージ・リンクスは、オードリー・バーンと名乗る謎の少女と出会う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-66_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250302100000 +0000" stop="20250302203000 +0000">
+		<title>機動戦士ガンダムユニコーン RE:0096 #1〜22【無料ビデオ1週間】</title>
+		<desc>宇宙世紀0096年――。ネオ・ジオン軍と地球連邦軍が戦火を交えた『シャアの反乱』から3年。工業コロニー、インダストリアル7に住む少年バナージ・リンクスは、オードリー・バーンと名乗る謎の少女と出会う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-66_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250302203000 +0000" stop="20250303050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250303050000 +0000" stop="20250303090000 +0000">
+		<title>機動新世紀ガンダムX #1〜8【無料ビデオ72時間】</title>
+		<desc>宇宙革命軍と地球連邦軍の戦争から15年。戦災孤児のガロード・ランは、謎の紳士ライク・アントから依頼を受け、ティファ・アディールという少女を奪還した。だがティファがアントを見て怯え出したため、ガロードは彼女を連れて離脱。ティファの導きで旧連邦地下工場に逃げ込んだガロードは、「ガンダムX」を発見する！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250303090000 +0000" stop="20250303130000 +0000">
+		<title>機動新世紀ガンダムX #1〜8【無料ビデオ72時間】</title>
+		<desc>宇宙革命軍と地球連邦軍の戦争から15年。戦災孤児のガロード・ランは、謎の紳士ライク・アントから依頼を受け、ティファ・アディールという少女を奪還した。だがティファがアントを見て怯え出したため、ガロードは彼女を連れて離脱。ティファの導きで旧連邦地下工場に逃げ込んだガロードは、「ガンダムX」を発見する！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250303130000 +0000" stop="20250303170000 +0000">
+		<title>機動新世紀ガンダムX #1〜8【無料ビデオ72時間】</title>
+		<desc>宇宙革命軍と地球連邦軍の戦争から15年。戦災孤児のガロード・ランは、謎の紳士ライク・アントから依頼を受け、ティファ・アディールという少女を奪還した。だがティファがアントを見て怯え出したため、ガロードは彼女を連れて離脱。ティファの導きで旧連邦地下工場に逃げ込んだガロードは、「ガンダムX」を発見する！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250303170000 +0000" stop="20250304050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250304050000 +0000" stop="20250304090000 +0000">
+		<title>機動新世紀ガンダムX #9〜16【無料ビデオ72時間】</title>
+		<desc>エニルや炎の時計部隊、フロスト兄弟に攻撃され窮地に立たされていたフリーデン。そこへガロードが急行して戦線に復帰する。それをチャンスと見た艦長代行のサラは、炎の攻撃から身を守るために湖へとフリーデンを移動させた。湖に移動することで新たな危機が待ち受けると察知したティファは、移動を止めようとするが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250304090000 +0000" stop="20250304130000 +0000">
+		<title>機動新世紀ガンダムX #9〜16【無料ビデオ72時間】</title>
+		<desc>エニルや炎の時計部隊、フロスト兄弟に攻撃され窮地に立たされていたフリーデン。そこへガロードが急行して戦線に復帰する。それをチャンスと見た艦長代行のサラは、炎の攻撃から身を守るために湖へとフリーデンを移動させた。湖に移動することで新たな危機が待ち受けると察知したティファは、移動を止めようとするが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250304130000 +0000" stop="20250304170000 +0000">
+		<title>機動新世紀ガンダムX #9〜16【無料ビデオ72時間】</title>
+		<desc>エニルや炎の時計部隊、フロスト兄弟に攻撃され窮地に立たされていたフリーデン。そこへガロードが急行して戦線に復帰する。それをチャンスと見た艦長代行のサラは、炎の攻撃から身を守るために湖へとフリーデンを移動させた。湖に移動することで新たな危機が待ち受けると察知したティファは、移動を止めようとするが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250304170000 +0000" stop="20250305050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250305050000 +0000" stop="20250305090000 +0000">
+		<title>機動新世紀ガンダムX #17〜24【無料ビデオ72時間】</title>
+		<desc>サテライトシステムのガイドレーザーを目撃したガロードとティファ。それにより、その地点にニュータイプの手がかりとガンダムXの存在を確信したジャミルは、進路を太平洋上にとらせた。一方、ドーザ一味は生きたイルカの脳と神経を組み込んだ特殊なレーダーシステム「Dナビ」のため、イルカたちの捕獲に乗り出すが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250305090000 +0000" stop="20250305130000 +0000">
+		<title>機動新世紀ガンダムX #17〜24【無料ビデオ72時間】</title>
+		<desc>サテライトシステムのガイドレーザーを目撃したガロードとティファ。それにより、その地点にニュータイプの手がかりとガンダムXの存在を確信したジャミルは、進路を太平洋上にとらせた。一方、ドーザ一味は生きたイルカの脳と神経を組み込んだ特殊なレーダーシステム「Dナビ」のため、イルカたちの捕獲に乗り出すが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250305130000 +0000" stop="20250305170000 +0000">
+		<title>機動新世紀ガンダムX #17〜24【無料ビデオ72時間】</title>
+		<desc>サテライトシステムのガイドレーザーを目撃したガロードとティファ。それにより、その地点にニュータイプの手がかりとガンダムXの存在を確信したジャミルは、進路を太平洋上にとらせた。一方、ドーザ一味は生きたイルカの脳と神経を組み込んだ特殊なレーダーシステム「Dナビ」のため、イルカたちの捕獲に乗り出すが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250305170000 +0000" stop="20250306050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250306050000 +0000" stop="20250306090000 +0000">
+		<title>機動新世紀ガンダムX #25〜32【無料ビデオ72時間】</title>
+		<desc>新連邦政府樹立後、新連邦軍は世界の統一のために各地で紛争を展開。そんな中、アジアの小国エスタルドに到着したフリーデンは、同盟国と共に新連邦と戦おうとしていたエスタルド軍のリー将軍から援助を受ける。その傍ら、彼はフリーデンに戦闘への参加を強く要望する。最初は態度を保留していたジャミルたちだったが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250306090000 +0000" stop="20250306130000 +0000">
+		<title>機動新世紀ガンダムX #25〜32【無料ビデオ72時間】</title>
+		<desc>新連邦政府樹立後、新連邦軍は世界の統一のために各地で紛争を展開。そんな中、アジアの小国エスタルドに到着したフリーデンは、同盟国と共に新連邦と戦おうとしていたエスタルド軍のリー将軍から援助を受ける。その傍ら、彼はフリーデンに戦闘への参加を強く要望する。最初は態度を保留していたジャミルたちだったが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250306130000 +0000" stop="20250306170000 +0000">
+		<title>機動新世紀ガンダムX #25〜32【無料ビデオ72時間】</title>
+		<desc>新連邦政府樹立後、新連邦軍は世界の統一のために各地で紛争を展開。そんな中、アジアの小国エスタルドに到着したフリーデンは、同盟国と共に新連邦と戦おうとしていたエスタルド軍のリー将軍から援助を受ける。その傍ら、彼はフリーデンに戦闘への参加を強く要望する。最初は態度を保留していたジャミルたちだったが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250306170000 +0000" stop="20250307023000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250307023000 +0000" stop="20250307060000 +0000">
+		<title>機動新世紀ガンダムX #33〜39【無料ビデオ72時間】</title>
+		<desc>ランスローとの戦いで重傷を負ったガロードは、Gファルコンのパイロットであるパーラ・シスに助けられた。彼女は新革命軍に抵抗する反政府組織「サテリコン」のメンバーで、そのアジトである小惑星にガロードを運び込む。一方、帰還したニコラたちを歓迎するパレードの最中、サテリコンはテロを仕かけるが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p33/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250307060000 +0000" stop="20250307093000 +0000">
+		<title>機動新世紀ガンダムX #33〜39【無料ビデオ72時間】</title>
+		<desc>ランスローとの戦いで重傷を負ったガロードは、Gファルコンのパイロットであるパーラ・シスに助けられた。彼女は新革命軍に抵抗する反政府組織「サテリコン」のメンバーで、そのアジトである小惑星にガロードを運び込む。一方、帰還したニコラたちを歓迎するパレードの最中、サテリコンはテロを仕かけるが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p33/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250307093000 +0000" stop="20250307130000 +0000">
+		<title>機動新世紀ガンダムX #33〜39【無料ビデオ72時間】</title>
+		<desc>ランスローとの戦いで重傷を負ったガロードは、Gファルコンのパイロットであるパーラ・シスに助けられた。彼女は新革命軍に抵抗する反政府組織「サテリコン」のメンバーで、そのアジトである小惑星にガロードを運び込む。一方、帰還したニコラたちを歓迎するパレードの最中、サテリコンはテロを仕かけるが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p33/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250307130000 +0000" stop="20250308113000 +0000">
+		<title>機動戦士ガンダムSEED #1〜48【無料ビデオ1週間】</title>
+		<desc>中立コロニーヘリオポリス。ここでの地球連合軍機動兵器開発の情報を得て、ザフト軍が兵器奪取に侵攻を開始する。平和なコロニーが一瞬にして戦場と化した。ストライクが襲撃されるその瞬間に居合わせた少年がいた。キラはそこで、ザフトのパイロットアスランと邂逅する……！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250308113000 +0000" stop="20250309100000 +0000">
+		<title>機動戦士ガンダムSEED #1〜48【無料ビデオ1週間】</title>
+		<desc>中立コロニーヘリオポリス。ここでの地球連合軍機動兵器開発の情報を得て、ザフト軍が兵器奪取に侵攻を開始する。平和なコロニーが一瞬にして戦場と化した。ストライクが襲撃されるその瞬間に居合わせた少年がいた。キラはそこで、ザフトのパイロットアスランと邂逅する……！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250309100000 +0000" stop="20250310053000 +0000">
+		<title>機動戦士ガンダム #1〜43【無料ビデオ72時間】</title>
+		<desc>宇宙世紀0079。ジオン公国の独立戦争で劣勢に陥った連邦軍は新鋭モビルスーツの開発と運用テストを“サイド7”で行っていた。それを察知したジオン公国軍のシャア・アズナブル少佐は偵察を差し向ける。その中の一人が軍功を焦り砲撃を開始。戦火に巻きこまれたアムロ・レイは、モビルスーツ“ガンダム”に乗りこむ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p1/thumb001.png" />
+	</programme>
 	<programme channel="80s-anime-1" start="20250224130500 +0000" stop="20250224171500 +0000">
 		<title>美味しんぼ #42～49【無料ビデオ1週間】</title>
 		<desc>阪村は日本一高価な洋菓子の店”天使の夢”のケーキ職人だが、今の目標は子供達に安くて美味しい安全なケーキを提供する事。独立計画を進めるが、恩ある社長に知れ”裏切り者”と罵られる。</desc>
@@ -17867,7 +18021,7 @@ M-1、キングオブコントファイナリストの悩みとは？
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-151_s0_p501/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250304030000 +0000" stop="20250304041500 +0000">
-		<title>ABEMAヒルズ　そのニュース、ゆっくり話そう</title>
+		<title>＃アベヒル 前原氏が「大学無償化」言及/就活生のAI利用法</title>
 		<desc>「そのニュース、ゆっくり話そう」
 大量の情報が通り過ぎていく毎日。ちょっと立ち止まって、そのニュースをゆっくり話したい。番組MCの柴田阿弥、徳永有美が気になる話題を個性豊かな識者らと語り合います。好奇心の赴くままに。そのニュースは、社会を、政治を、経済を、世界を、そして、あなたの生活を、どう変えるのか…？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-52_s0_p1897/thumb001.png" />
@@ -17909,7 +18063,7 @@ M-1、キングオブコントファイナリストの悩みとは？
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1377/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250304120000 +0000" stop="20250304130000 +0000">
-		<title>#アベプラ①田村淳,アレン様,薄井シンシア,小澤健祐</title>
+		<title>#アベプラ①AI依存と孤立／いじめ被害と転校 アレン様×田村淳</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はシンガーソングライターTOMOOの｢Super Ball｣です。（MC）EXIT、カンニング竹山、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）安部敏樹、泉房穂、岩田温、乙武洋匡、カマたく、ケンドーコバヤシ、後藤寛勝、小原ブラス、佐々木俊尚、シモダテツヤ、竹中平蔵、田端信太郎、男色ディーノ、辻伸弘、てぃ先生、tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、パックン、速水健朗、堀潤、南和行、茂木健一郎、山田俊浩、ヤマトパンクス、ヨッピー、呂布カルマ、あおちゃんぺ、池澤あやか、市原えつこ、岩澤直美、薄井シンシア、大槻奈那、河崎環、菅野志桜里、紗倉まな、柴田阿弥、シャララジマ、鈴木涼美、たかまつなな、陳暁夏代、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、室井佑月、RaMu、山田邦子（気象予報士）穂川果音（進行）平石直之、仁科健吾、田中萌（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p5857/thumb001.png" />
 	</programme>
@@ -18273,9 +18427,8 @@ M-1、キングオブコントファイナリストの悩みとは？
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-151_s0_p547/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250308113000 +0000" stop="20250308120000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー「3.11を忘れない　命を守る言葉」</title>
+		<desc>「今すぐ高台へ避難を始めて下さい」この言葉は適切だったのかー。2011年3月11日、大津波襲来時に避難を呼びかけた山田理（岩手朝日テレビ）は自問自答を繰り返していた。訓練や過去の想定をはるかに上回る大災害発生時に、アナウンサーの言葉は人の命を救うことが出来るのか。東日本大震災から13年、再び大きな地震が元日の能登半島を襲った。度重なる自然災害を前に、緊急放送と向き合うアナウンサーたちの葛藤を追った。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p627/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250308120000 +0000" stop="20250308130000 +0000">
@@ -18319,9 +18472,9 @@ M-1、キングオブコントファイナリストの悩みとは？
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-151_s0_p555/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250309020000 +0000" stop="20250309023000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー　100人の証言　命をつなぐ津波避難</title>
+		<desc>東日本大震災で大津波が押し寄せ、被災した全国の自治体の中で最も多い約4000人が犠牲になった宮城県石巻市。なぜ、これほど多くの人が逃げ遅れてしまったのか。その理由を明らかにし、津波避難の教訓を後世に伝えようと、震災伝承団体が、生き残った住民約100人に当時の避難行動の調査を実施し、あの日の住民の動きをCGで再現した。すると、多くの住民に共通する危険な避難行動が浮かび上がってきた。
+東日本大震災から13年。大津波を経験した住民の証言から、命を守る避難行動を考える。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p628/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250309023000 +0000" stop="20250309030000 +0000">
@@ -21400,6 +21553,121 @@ M-1、キングオブコントファイナリストの悩みとは？
 		<desc>幼い頃の出来事を機に非婚主義者になったヒョンジュは、34歳になる今も独身のままウェブトゥーンプロデューサーとして活躍する毎日。かつては自身もウェブトゥーン作家を志していたが公募に落選していた。5年間プロデューサーとして業績を上げれば、作家デビューさせるという本部長の言葉だけを信じて作家たちを献身的に支えている。しかし約束の日を目前にしたある日、ヒョンジュは退職を迫られることに。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-290_s1_p1/thumb001.png" />
 	</programme>
+	<programme channel="asia-love-comedy" start="20250305220000 +0000" stop="20250305225000 +0000">
+		<title>ユー・レイズ・ミー・アップ 第1話 ランク外の僕【今日のイチオシ！】</title>
+		<desc>公務員試験に落ち続け、就職浪人6年目のド・ヨンシク。占い師のキム兵長ことジェニファーに、“立つべきものが立たない”と予言される。泌尿器科医のイ・ルダは、裕福でイケメンな精神科医ド・ジヒョクとつきあっているが、意地っ張りで自信家のジヒョクにあきれ気味。最高ランクの彼氏のはずなのに、初恋の人のほうがステキに思える。そんなルダと、自分は負け組だと思っているヨンシクが、運命のいたずらでなぜか出会うことに!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-22_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250305225000 +0000" stop="20250306000000 +0000">
+		<title>匂いを見る少女 第3話</title>
+		<desc>モデルのチュ・マリ誘拐事件の手がかりを捜し、チョリムと川沿いを捜査していたムガクは川の中からマリの車と遺体を見つける。マリがバーコード連続殺人事件の新たな被害者だと確信したヨム・ミは、ムガクに特別捜査班に加わるよう命じる。さらにジェピョの職場を訪ね、3年前に殺された海女夫婦の娘の居場所を聞き出そうとするが...。一方、ムガクはマリの恋人だったクォン・ジェヒのレストランで、容疑者のベッキョンと出くわす。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-182_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250306000000 +0000" stop="20250306092000 +0000">
+		<title>イタズラなＫｉｓｓ〜Playful Kiss 第1〜8話【前編一挙】</title>
+		<desc>パラン高校3年のハニは落ちこぼれの7組。優秀クラス1組の中でもトップの天才スンジョに片思いしている。告白を決心したハニはラブレターを渡すが、スンジョに「頭の悪い女は大嫌いだ」と言われてしまう。そんなときハニは父と新居に引っ越すが、家は震度2の地震で倒壊。父の親友の家に居候させてもらうことになるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-1_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250306092000 +0000" stop="20250306110000 +0000">
+		<title>あやしいパートナー 第1〜2話【チ･チャンウク主演】【今日のイチオシ！】</title>
+		<desc>弁護士になるため勉強に励むボンヒは、地検長の息子で共に学生の恋人ヒジュンの浮気を目撃。ヤケになったボンヒは彼の目の前で、その場にいた男と立ち去るが、その男は直前にケンカをしたジウクだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-11_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250306110000 +0000" stop="20250306143000 +0000">
+		<title>ワン・ザ・ウーマン 第10〜14話</title>
+		<desc>裏金作りのための絵画取引を担当していたミナに召喚状が届き、ヨンジュはハン会長に検察に出頭するよう言われる。一方、スンウクはヨンジュの事故にはハン会長の長女で専務のハン・ソンヘが関係していると疑い始めていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-157_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250306143000 +0000" stop="20250306154000 +0000">
+		<title>シークレットガーデン 第6話【ヒョンビン主演】</title>
+		<desc>鏡に映った自らの姿を見たライムは悲鳴を上げる。鏡の向こうにはジュウォンの顔があったのだ。ジュウォンもまたライムに変貌した自らに驚き、ライムのもとに駆けつける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-175_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250306154000 +0000" stop="20250306170000 +0000">
+		<title>マイ・プリンセス 第4話【ソン・スンホン×キム・テヒ】</title>
+		<desc>法務部長官の命令でイ・ソルが出国禁止になったという事実に驚いた二人!まずイ・ソルは、家を出ながら母親に残した手紙を回収するため、教会で礼拝中の母親を訪ねる。しかしそこでもハプニング(?)は起こり、結婚を全国に知らせることになったヘヨンとイ・ソルは、結婚届を出すよう勧める母親の言葉に仰天し...。一方、ドンジェは皇女を奪い、留学に送ろうとしたヘヨンに烈火のごとく腹を立てる。ヘヨンといえば、父親がドンジェから捨てられた事実のてん末を聞き、結局激怒してしまうが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-85_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250306170000 +0000" stop="20250306174500 +0000">
+		<title>リーガル・ハイ 5話 疑わずにいられない</title>
+		<desc>検察側とB&amp;Gがつながっていることに気づいたテリムは、ジェインをスパイだと疑う。ジェインはテリムのやり方を真似し、次の裁判のために証拠を集める。テリムは自分を襲った暴行犯の黒幕がわからなくなり、不安に陥る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-335_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250306174500 +0000" stop="20250306224500 +0000">
+		<title>ラジオロマンス〜愛のリクエスト〜 第1〜4話【日替わり一挙】</title>
+		<desc>ラジオのサブ放送作家4年目のソン・グリム。上司にいびられ原稿を書かせてもらえない散々な日々。そんなある日、伝説のプロデューサー イ・ガンに“ヤツ”を番組のDJにできたらメインの放送作家にすると言われたグリム。 その“ヤツ”とは芸能界でも気難しくて有名な俳優 チ・スホだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-110_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250306224500 +0000" stop="20250307000000 +0000">
+		<title>匂いを見る少女 第4話</title>
+		<desc>自分のせいでチョリムが劇団から追い出されたことを知ったムガクは団長に会いに行き、もう一度チャンスがほしいと訴える。そんな中、手首にバーコードのような切り傷のある男の死体が公園で発見される。12カ月に一度というバーコード連続殺人事件の犯行パターンが崩れ、捜査は混乱状態に陥る。一方、チョリムは愛犬を追いかけていたジェヒと出会い頭にぶつかり、ベッキョンの病院で治療を受けるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-182_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250307000000 +0000" stop="20250307083500 +0000">
+		<title>オレのことスキでしょ。 第1〜7話【前編一挙】</title>
+		<desc>パンソリの名家の祖父をもち、芸術大学の国楽科に通うイ・ギュウォン。闘病中の指導教授の支援チャリティー演奏会を企画する中、学内の人気バンド、ザ・ステューピッドにゲスト出演を依頼することに。交渉のため彼らのライブを見に行ったギュウォンは、ギター&amp;ボーカルのイ・シンが演奏する姿と音楽に一瞬で引き込まれてしまう。だが、普段のシンは自信過剰の無礼なヤツで・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-14_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250307083500 +0000" stop="20250307110000 +0000">
+		<title>魔女の恋愛 第1〜2話【パク・ソジュン主演】【今日のイチオシ！】</title>
+		<desc>雑誌記者のジヨンは39歳独身。自分にも他人にも厳しい仕事ぶりで、同僚からは“魔女”と呼ばれ恐れられている。ある日、大スクープを手にしたジヨンは急いで編集部へ戻ろうと、目の前にあった自転車を勝手に拝借して走りだした。アルバイトでサンタに扮し、子供にその自転車をプレゼントするはずだったドンハは慌てて彼女を追いかける。決して止まらないジヨンと必死に追いかけるドンハ。こうして出会った2人だったが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-3_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250307110000 +0000" stop="20250307145000 +0000">
+		<title>ナイショの恋していいですか！？ 第3〜5話</title>
+		<desc>スヨンの気持ちを知っているミンソクは、からかいつつもスヨンが本部長と2人きりになれるチャンスを作ろうとするが、裏目に出て逆にスヨンを窮地に追い込み、最終的には怒らせてしまう。理事会で余計なことを口走ってしまったミンソクは、ショッピングモールの競合プレゼンをユ本部長から奪う形で担当することになってしまい、スヨンと一緒に練習を重ねる。しかし、プレゼンの日はホッケー部の全国大会予選の日で...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-36_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250307145000 +0000" stop="20250307160500 +0000">
+		<title>シークレットガーデン 第7話【ヒョンビン主演】</title>
+		<desc>抱き合うジュウォンとライムを目にしたスルは、ライムを激しく罵倒する一方でジュウォンのことはかばう。ジュウォンとライムの魂が入れ替わったことを知らないブノンは...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-175_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250307160500 +0000" stop="20250307172500 +0000">
+		<title>マイ・プリンセス 第5話【ソン・スンホン×キム・テヒ】</title>
+		<desc>イ・ソルは、目の前に広がったきらびやかな宮殿の風景にただただ驚くばかりで、皇女になった娘と宮殿で再会したダボクは、涙を流しながら娘を抱く。ヘヨンは、「皇女を愛した財閥3世」というレッテルを貼られ、マスコミの関心を一身に浴びるが、泣きっ面に蜂とはこのこと、こんなへヨンに上部から待機命令が出される。一方、イ・ソルの入宮と同時にドンジェは皇室財団の設立を急ぐよう指示する。ユンジュは、財団を自分に任せて欲しいと名乗りをあげるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-85_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250307172500 +0000" stop="20250307181000 +0000">
+		<title>リーガル・ハイ 6話 価値は報酬で決まる</title>
+		<desc>この先テリムに仕えることを考え、やけ酒を飲むジェイン。偶然居合わせたサングと飲み明かしたジェインは泥酔し、勘違いからギソクに送ってもらう。テリムは企業と社員が対立する案件で、お金になる企業側の弁護を引き受ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-335_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250307181000 +0000" stop="20250307232000 +0000">
+		<title>検事プリンセス 第1〜4話【パク・シフ主演】【日替わり一挙】</title>
+		<desc>法務省の講堂。新任検事の任命式で名前を呼ばれたマ・ヘリは、検事という職業には不釣り合いなピン・ヒール姿で歩き出す。その後、母が急病だと嘘をついて新任講習をすっぽかし、高級ブランドのオークションへ。だが、車上荒らしに遭い、財布や携帯電話を盗まれてしまう。宿もお金もなくお目当ての靴も逃して落ち込むヘリを救ったのは、偶然知り合った男ソ・イヌだった。数日後、真っ赤なスポーツカーで中部地検に初出勤したヘリのド派手なファッションに先輩たちは驚くばかり。こうしてヘリの波瀾万丈な検事生活が始まる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-80_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250307232000 +0000" stop="20250308030000 +0000">
+		<title>シークレットガーデン 第14〜16話【ヒョンビン主演】</title>
+		<desc>映画のヒロインのようにシックな装いでオスカーにエスコートされ、パーティーに出席したライムを目にしたジュウォンだが、冷ややかなまなざしでライムを見つめている。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-175_s1_p14/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250308030000 +0000" stop="20250308121000 +0000">
+		<title>嫉妬の化身 ～恋の嵐は接近中!～ 第9〜16話【中編一挙】</title>
+		<desc>局内の会食で自分の代わりに酒を飲んで酔い潰れてしまったナリを宿直室まで送り届けたファシンは、ベッドで眠ってしまったナリを抱き締める。その現場を運悪くホン・ヘウォンに目撃され、ファシンは動揺する。会食の途中で二人が抜け出したことでファシンとナリが交際していると社内でうわさになってしまう。その話はジョンウォンの耳にまで入ることになり...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-183_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250308121000 +0000" stop="20250308125500 +0000">
+		<title>初対面だけど愛してます 最終話 君を見分けるシンボル</title>
+		<desc>T&amp;Tモバイルで正社員採用試験が行われ、ガリも仲間たちと面接を受けるが、みんながデジュを褒めたたえるのが悔しくてならない。一方、ガリの顔を見分ける新しいシンボルを作れとク先生に言われたミニクはある物をガリに渡す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-21_s1_p32/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250308125500 +0000" stop="20250308230000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-love-comedy/logo.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250308230000 +0000" stop="20250309030000 +0000">
+		<title>真心が届く〜僕とスターのオフィス･ラブ!?〜 第10〜12話</title>
+		<desc>エレベーターに偶然乗り合わせたジュンギュとジョンロクとユンソは、他社の社内恋愛中のカップルがこっそり手をつないでいるのを見る。社内恋愛を羨ましがるジュンギュ。ユンソはジュンギュが独身だったことを初めて知る。社内恋愛はスリルがあってロマンチックだというユンソの言葉を聞いて、ジョンロクはユンソの期待に応えるため、みんなの前でこっそりとウインクをする。ユンソもウインクを返すが、それを見たジュンギュはユンソの目にごみが入ったのかと言って騒ぐ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-132_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250309030000 +0000" stop="20250309125500 +0000">
+		<title>2度目の二十歳 第1〜8話【チェ・ジウ主演】【前編一挙】</title>
+		<desc>高校時代にできちゃった結婚をしたハ・ノラは、これまで息子と夫に人生の全てをささげてきた。しかし今では息子に疎まれ夫には離婚を迫られている。大学に合格すれば夫の心を取り戻せると思い込んだ彼女は、家族に内緒で受験に挑み息子と同じ大学に補欠合格する。しかしノラの報告を聞いた夫と息子は入学に猛反対。一時は入学を諦めようとしたノラだったが病院の手違いでがんの宣告を受け、死ぬ前に青春を取り戻すべく進学を決意する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-19_s1_p1/thumb001.png" />
+	</programme>
 	<programme channel="asia-loveromance" start="20250224110000 +0000" stop="20250224151500 +0000">
 		<title>トッケビ〜君がくれた愛しい日々〜 第6〜8話(字幕)【コン・ユ主演】</title>
 		<desc>10年後の29歳になったウンタクの姿を見たシンは、ウンタクに剣を抜いてもらおうとする。ところが、剣を抜くことの本当の意味を知らないウンタクは、まずは自分の望みが何かを考えるようシンに言い残してアルバイトに行ってしまう。その頃、ドクファを連れてサニーに会いに行った死神は、職業を聞かれたり名刺を要求されたりして再び困惑する。“何も持っていない”死神と、ウンタクに剣を抜いてもらえないシンはそれぞれ意気消沈し...。</desc>
@@ -23247,6 +23515,53 @@ M-1、キングオブコントファイナリストの悩みとは？
 		<title>鄭道伝 第8〜11話</title>
 		<desc>イ・イニムは上書を書いたイ・チョムとパク・サンチュンを罰しろと、皇太后を脅す。チョン・モンジュら新進士大夫との真っ向勝負が始まった。チョン・ドジョンが流刑地を逃げ出した罪に問われ、監視役のファンは役所で拷問を受けていた。娘は父を助けたい一心で巫覡(ふげき)にお金を借りる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-151_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20250307230000 +0000" stop="20250308051000 +0000">
+		<title>イ・サン 第40〜44話【イ・ソジン主演】</title>
+		<desc>翌日の政務報告会で王、英祖(ヨンジョ)が譲位を宣布することとなった。だが政敵の反発を恐れ、そのことは世孫とその周辺の者にしか明かされていない。サンはその譲位の宣布に合わせて、父、思悼世子(サドセジャ)を陥れ死に追いやった者たちを断罪するため、兵を動員して世子が山中に埋めたという敵を断罪するための証拠を急いで捜すことに。
+一方、王の譲位の意思を察知した貞純(チョンスン)王妃たちは...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-70_s1_p40/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20250308051000 +0000" stop="20250308112500 +0000">
+		<title>太陽を抱く月 第9〜13話【キム・スヒョン主演】</title>
+		<desc>厄受けの最中にイ・フォン(王)が目を覚まし、「何者だ!」とウォル(ヨヌ)を問いただす。さらにフォンはウォルを間者ではないかと疑い、執拗にウォルを追及する。それに対しウォルは「すべては王様の健康回復のため」と弁明するが...
+一方陽明君も拉致されたウォルの行方を追い、手がかりとなる人物のもとを訪れる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-14_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20250308112500 +0000" stop="20250308151000 +0000">
+		<title>不滅の恋人 第7〜9話【ユン・シユン主演】</title>
+		<desc>戦地へ向かったフィと討伐隊。チャヒョンは手縫いの綿入れをフィに渡すため、なんと兵士に変装して一行についていく。チャヒョンの母は娘が討伐隊について行ったと気づき、あわてて夫に報告。ちょうどその場にいたカンが、自分がチャヒョンを連れ戻すと申し出る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-104_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20250308151000 +0000" stop="20250308192500 +0000">
+		<title>太陽と月の秘密~離人心上~ 第5〜10話</title>
+		<desc>徐初月(じょしょげつ)は薛曜(せつよう)のことを実は優しい人かもしれないと見直し始めるが、突然、皇帝に密書を届けたという理由で薛府の地下牢に連行されてしまう。しかも皇帝に窮状を訴えても婚姻は解消できないと悟った徐初月。彼女は無理に逃げても徐星辰(じょせいしん)に迷惑がかかると考え薛府に留まる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-45_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20250308192500 +0000" stop="20250308230000 +0000">
+		<title>玉楼春～君に詠むロマンス～ 第19〜22話</title>
+		<desc>少春は師匠の誕生日を門下の無双(むそう)師兄と師姐の桃夭(とうよう)と共に祝う。以前、孫夫人と師匠が偶然出会った際、二人が旧知の間柄ではと感じた少春は改めて尋ねるが、師匠は面識はないと答える。ある日、世傑の元にかつて人に預けた自分の玉佩が届けられる。礼を伝えに家を訪ねるが、お金を受け取ろうとしない相手に、琴の演奏を1曲所望する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-33_s1_p19/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20250308230000 +0000" stop="20250309045500 +0000">
+		<title>トンイ 第22〜26話</title>
+		<desc>チョン尚宮(サングン)たち監察府(カムチャルブ)がトンイに加勢し、内需司(ネスサ)に調査を迫るが、粛宗(スクチョン)が監察府(カムチャルブ)を引き下がらせる。トンイは納得いかずにいたが、密かに宮殿の外に呼び出され、粛宗(スクチョン)から他の事件を調べるために内需司(ネスサ)の調査を先送りにしただけだと聞かされる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-15_s2_p22/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20250309045500 +0000" stop="20250309110500 +0000">
+		<title>宮〜Love in Palace ディレクターズ・カット 第12〜16話</title>
+		<desc>2〜3年たったら皇太子を辞めると言うシンの本心がわからないチェギョン。宮廷では考烈皇太子の追尊の話が問題に。そのことで互いを牽制する皇后とファヨン。そんななか、心配させないために皇太后の耳に入れないようにしていたシンのスキャンダルを、追尊の決定権を持つ皇太后を味方につけるためにファヨンがわざと話してしまい、何も知らなかった皇太后は疎外感から皇帝らに不信感を抱く。一方、ヒョリンに呼び出されたシンは、本屋で密会するが、もう何もしてやれないと別れを告げる。その頃カメラを借りるためシンの部屋に入ったチェギョンは、HRと書かれた箱を見つけ、思わず中を見てしまい......。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-23_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20250309110500 +0000" stop="20250309155500 +0000">
+		<title>カンテク〜運命の愛〜 第15〜21話</title>
+		<desc>ワルを助けたい一心でウンボは、王に自分がウンギだと偽りの告白をし、ワルは無罪放免となる。そして王は、親迎の事件の犯人捜しのためにワルを義禁府の羅将に指名する。一方、王からウンボは初めから自分の女だと宣言された大君イ・ジェファ。その帰りに大王大妃からも侮辱され...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-40_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20250309155500 +0000" stop="20250309192500 +0000">
+		<title>贅婿［ぜいせい］～ムコ殿は天才策士～ 第29〜32話</title>
+		<desc>家族を霖安から無事に脱出させるため、寧毅は方天雷を悩ませていた銭希文を投降させると約束する。だが銭希文は賊に屈しようとせず...。翌朝、董道甫が城外に到着し、霖安は一触即発の危機に。寧毅たちも結局、霖安を脱出できない。董道甫の軍営に1人で乗り込んだ方天雷は、降伏を迫る董道甫に更なる後ろ盾の存在をにおわせる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-34_s1_p29/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20250224134000 +0000" stop="20250224151000 +0000">
 		<title>ミュージックバンク #1205【IVE/SEVENTEEN/MA1】</title>
@@ -30796,7 +31111,7 @@ https://abema.tv/video/title/16-92</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s10002_p3/thumb001.png" />
 	</programme>
 	<programme channel="motor-sport" start="20250311090000 +0000" stop="20250311140000 +0000">
-		<title>EchoPark Automotive Grand Prix｜NASCAR</title>
+		<title>Shriners Children's 500｜NASCAR</title>
 		<desc>NASCAR 2025 Shriners Children's 500を3月11日18時よりABEMAで無料放送!
 舞台となるのは、フェニックス・レースウェイ。
 
