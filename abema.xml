@@ -76,14 +76,6 @@
 		<display-name>北斗の拳チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/hokuto-no-ken/logo.png" />
 	</channel>
-	<channel id="macross">
-		<display-name>マクロスチャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
-	</channel>
-	<channel id="gundam">
-		<display-name>ガンダム特集</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
-	</channel>
 	<channel id="80s-anime-1">
 		<display-name>なつかしアニメ80's</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png" />
@@ -103,6 +95,10 @@
 	<channel id="special-plus">
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
 	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
@@ -10916,486 +10912,6 @@ RPGのようなファンタジーの世界で、現代人のようなグチを�
 		<desc>ケンシロウを宿命の旅に旅立たせた男。戦いを繰り返し領土を広げ、それによって得た全てをユリアに捧げ、自らをＫＩＮＧと名乗ったシン。ケンシロウはそういう形でしか愛を表現できなかったシンとの戦いを振り返る。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7_s0_p78/thumb001.png" />
 	</programme>
-	<programme channel="macross" start="20250311110000 +0000" stop="20250311170000 +0000">
-		<title>マクロス7 #40〜52【無料ビデオ1週間】</title>
-		<desc>プロトデビルンに対するマクロス7の市民の不安を取り除こうと、ミリアは軍の考えを明確にしてほしいとマックスに嘆願する。マックスはプロトデビルンへの対応策を協議するための会議を開く。プロトデビルンと接触をもったバサラたちが呼ばれ意見を求められ、バサラは音楽でプロトデビルンと分かり合えることを訴えるのだが、その言葉は黙殺され、統合軍は徹底抗戦ということで意思統一される。そこにバロータ軍が襲来、いつものようにバサラが歌い、サウンドビームを照射するが効果がない。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p40/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250311170000 +0000" stop="20250311230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
-	</programme>
-	<programme channel="macross" start="20250311230000 +0000" stop="20250312050000 +0000">
-		<title>マクロスF #1〜12【無料ビデオ1週間】</title>
-		<desc>移民船団マクロス・フロンティアに銀河No.1のトップ・シンガーであるシェリル・ノームがコンサートのため来艦した。パイロット養成コースの高校生である早乙女アルトは、シェリルのコンサートでアクロバット飛行で参加するため会場の裏で準備をしていた。そこでコンサートに向かって道に迷った女子高生のランカ・リーと出会う。シェリルのコンサートが始まった頃、フロンティア船団の周辺宙域には未知の宇宙生物バジュラの大群が現れ、新統合軍の戦闘機部隊と戦闘状態となる。シェリルのコンサートは中止となり、会場から避難したランカとアルトの前に、一匹のバジュラが現れた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-2_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250312050000 +0000" stop="20250312110000 +0000">
-		<title>マクロスF #1〜12【無料ビデオ1週間】</title>
-		<desc>移民船団マクロス・フロンティアに銀河No.1のトップ・シンガーであるシェリル・ノームがコンサートのため来艦した。パイロット養成コースの高校生である早乙女アルトは、シェリルのコンサートでアクロバット飛行で参加するため会場の裏で準備をしていた。そこでコンサートに向かって道に迷った女子高生のランカ・リーと出会う。シェリルのコンサートが始まった頃、フロンティア船団の周辺宙域には未知の宇宙生物バジュラの大群が現れ、新統合軍の戦闘機部隊と戦闘状態となる。シェリルのコンサートは中止となり、会場から避難したランカとアルトの前に、一匹のバジュラが現れた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-2_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250312110000 +0000" stop="20250312170000 +0000">
-		<title>マクロスF #1〜12【無料ビデオ1週間】</title>
-		<desc>移民船団マクロス・フロンティアに銀河No.1のトップ・シンガーであるシェリル・ノームがコンサートのため来艦した。パイロット養成コースの高校生である早乙女アルトは、シェリルのコンサートでアクロバット飛行で参加するため会場の裏で準備をしていた。そこでコンサートに向かって道に迷った女子高生のランカ・リーと出会う。シェリルのコンサートが始まった頃、フロンティア船団の周辺宙域には未知の宇宙生物バジュラの大群が現れ、新統合軍の戦闘機部隊と戦闘状態となる。シェリルのコンサートは中止となり、会場から避難したランカとアルトの前に、一匹のバジュラが現れた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-2_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250312170000 +0000" stop="20250312230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
-	</programme>
-	<programme channel="macross" start="20250312230000 +0000" stop="20250313050000 +0000">
-		<title>マクロスF #13〜25【無料ビデオ1週間】</title>
-		<desc>VF-25の不調によりガリア4に不時着したアルトとランカは、不審な信号の発信源の調査に乗り出す。久しぶりにゆっくりと会話を交わす2人は、なんとなく良い感になる、しかしその直後、ランカが何者かにさらわれてしまう。ランカを探しVF-25で飛ぶアルトは、不審な信号の発信源がマクロス型の戦艦であり、ここでバジュラの研究が進められていたことを知る。さらにはバジュラの巣らしきところで、捕らわれたランカの姿があった。一方、体調が回復したシェリルは、ミシェルと共に2人を探しに行く。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-2_s0_p13/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250313050000 +0000" stop="20250313110000 +0000">
-		<title>マクロスF #13〜25【無料ビデオ1週間】</title>
-		<desc>VF-25の不調によりガリア4に不時着したアルトとランカは、不審な信号の発信源の調査に乗り出す。久しぶりにゆっくりと会話を交わす2人は、なんとなく良い感になる、しかしその直後、ランカが何者かにさらわれてしまう。ランカを探しVF-25で飛ぶアルトは、不審な信号の発信源がマクロス型の戦艦であり、ここでバジュラの研究が進められていたことを知る。さらにはバジュラの巣らしきところで、捕らわれたランカの姿があった。一方、体調が回復したシェリルは、ミシェルと共に2人を探しに行く。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-2_s0_p13/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250313110000 +0000" stop="20250313170000 +0000">
-		<title>マクロスF #13〜25【無料ビデオ1週間】</title>
-		<desc>VF-25の不調によりガリア4に不時着したアルトとランカは、不審な信号の発信源の調査に乗り出す。久しぶりにゆっくりと会話を交わす2人は、なんとなく良い感になる、しかしその直後、ランカが何者かにさらわれてしまう。ランカを探しVF-25で飛ぶアルトは、不審な信号の発信源がマクロス型の戦艦であり、ここでバジュラの研究が進められていたことを知る。さらにはバジュラの巣らしきところで、捕らわれたランカの姿があった。一方、体調が回復したシェリルは、ミシェルと共に2人を探しに行く。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-2_s0_p13/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250313170000 +0000" stop="20250313230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
-	</programme>
-	<programme channel="macross" start="20250313230000 +0000" stop="20250314050000 +0000">
-		<title>マクロスΔ #1〜13【無料ビデオ1週間】</title>
-		<desc>惑星アル・シャハルの港でアルバイト中の少年ハヤテは、コンテナに潜んで密航してきた少女フレイアと出会う。
-彼女は、戦術音楽ユニット「ワルキューレ」のオーディションを受けるため、はるばる故郷の惑星を飛び出してきたというのだ。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-1_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250314050000 +0000" stop="20250314110000 +0000">
-		<title>マクロスΔ #1〜13【無料ビデオ1週間】</title>
-		<desc>惑星アル・シャハルの港でアルバイト中の少年ハヤテは、コンテナに潜んで密航してきた少女フレイアと出会う。
-彼女は、戦術音楽ユニット「ワルキューレ」のオーディションを受けるため、はるばる故郷の惑星を飛び出してきたというのだ。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-1_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250314110000 +0000" stop="20250314170000 +0000">
-		<title>マクロスΔ #1〜13【無料ビデオ1週間】</title>
-		<desc>惑星アル・シャハルの港でアルバイト中の少年ハヤテは、コンテナに潜んで密航してきた少女フレイアと出会う。
-彼女は、戦術音楽ユニット「ワルキューレ」のオーディションを受けるため、はるばる故郷の惑星を飛び出してきたというのだ。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-1_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250314170000 +0000" stop="20250314230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
-	</programme>
-	<programme channel="macross" start="20250314230000 +0000" stop="20250315050000 +0000">
-		<title>マクロスΔ #14〜26【無料ビデオ1週間】</title>
-		<desc>ラグナ市民が居住する都市宇宙艦にトラブル発生。エネルギー供給が不安定になりこのままでは、電力も酸素もじきに供給が止まってしまう。
-エネルギー回路の調査にきたハヤテとミラージュは爆発に巻き込まれて二人きりになってしまった。ハヤテとミラージュは無重力の中、問題が起きたブロックの修理に向かう。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-1_s0_p14/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250315050000 +0000" stop="20250315110000 +0000">
-		<title>マクロスΔ #14〜26【無料ビデオ1週間】</title>
-		<desc>ラグナ市民が居住する都市宇宙艦にトラブル発生。エネルギー供給が不安定になりこのままでは、電力も酸素もじきに供給が止まってしまう。
-エネルギー回路の調査にきたハヤテとミラージュは爆発に巻き込まれて二人きりになってしまった。ハヤテとミラージュは無重力の中、問題が起きたブロックの修理に向かう。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-1_s0_p14/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250315110000 +0000" stop="20250315170000 +0000">
-		<title>マクロスΔ #14〜26【無料ビデオ1週間】</title>
-		<desc>ラグナ市民が居住する都市宇宙艦にトラブル発生。エネルギー供給が不安定になりこのままでは、電力も酸素もじきに供給が止まってしまう。
-エネルギー回路の調査にきたハヤテとミラージュは爆発に巻き込まれて二人きりになってしまった。ハヤテとミラージュは無重力の中、問題が起きたブロックの修理に向かう。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-1_s0_p14/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250315170000 +0000" stop="20250315230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
-	</programme>
-	<programme channel="macross" start="20250315230000 +0000" stop="20250316050000 +0000">
-		<title>超時空要塞マクロス #1〜12【無料ビデオ1週間】</title>
-		<desc>2009年、墜落艦から全人類の期待を受け修復が完了した巨大宇宙戦艦マクロス。その進宙式の式典が盛大に執り行われようとしていた。しかしその頃、正体不明の異星人艦隊が地球に接近しつつあった。
-艦隊から偵察艦が発進、地球に接近したそのとき、人類の意に反して、マクロス艦は勝手に主砲発射態勢に移行、異星人との戦闘が開始されてしまった。偶然VF-1に乗った民間パイロット一条輝は、なりゆきでVF-1で出撃。敵の砲撃を受け不時着するが、何と輝の戦闘機はロボット型に変形した。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-3_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250316050000 +0000" stop="20250316110000 +0000">
-		<title>超時空要塞マクロス #1〜12【無料ビデオ1週間】</title>
-		<desc>2009年、墜落艦から全人類の期待を受け修復が完了した巨大宇宙戦艦マクロス。その進宙式の式典が盛大に執り行われようとしていた。しかしその頃、正体不明の異星人艦隊が地球に接近しつつあった。
-艦隊から偵察艦が発進、地球に接近したそのとき、人類の意に反して、マクロス艦は勝手に主砲発射態勢に移行、異星人との戦闘が開始されてしまった。偶然VF-1に乗った民間パイロット一条輝は、なりゆきでVF-1で出撃。敵の砲撃を受け不時着するが、何と輝の戦闘機はロボット型に変形した。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-3_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250316110000 +0000" stop="20250316170000 +0000">
-		<title>超時空要塞マクロス #1〜12【無料ビデオ1週間】</title>
-		<desc>2009年、墜落艦から全人類の期待を受け修復が完了した巨大宇宙戦艦マクロス。その進宙式の式典が盛大に執り行われようとしていた。しかしその頃、正体不明の異星人艦隊が地球に接近しつつあった。
-艦隊から偵察艦が発進、地球に接近したそのとき、人類の意に反して、マクロス艦は勝手に主砲発射態勢に移行、異星人との戦闘が開始されてしまった。偶然VF-1に乗った民間パイロット一条輝は、なりゆきでVF-1で出撃。敵の砲撃を受け不時着するが、何と輝の戦闘機はロボット型に変形した。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-3_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250316170000 +0000" stop="20250316230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
-	</programme>
-	<programme channel="macross" start="20250316230000 +0000" stop="20250317050000 +0000">
-		<title>超時空要塞マクロス #13〜24【無料ビデオ1週間】</title>
-		<desc>敵艦から奇跡的に生還した輝、未沙、マックス、柿崎。未沙が報告する敵基幹艦隊の戦力規模に、がく然とする首脳陣。グローバル艦長は、この事実を統合軍本部へ伝えるべく、敵包囲網の突破を決断する。昇進した4人は、歓迎レセプションに出席。輝は今やスターになったミンメイと再会する。一方、地球を目指して加速するマクロスは敵艦隊に包囲され、その進路を阻まれていた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-3_s0_p13/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250317050000 +0000" stop="20250317110000 +0000">
-		<title>超時空要塞マクロス #13〜24【無料ビデオ1週間】</title>
-		<desc>敵艦から奇跡的に生還した輝、未沙、マックス、柿崎。未沙が報告する敵基幹艦隊の戦力規模に、がく然とする首脳陣。グローバル艦長は、この事実を統合軍本部へ伝えるべく、敵包囲網の突破を決断する。昇進した4人は、歓迎レセプションに出席。輝は今やスターになったミンメイと再会する。一方、地球を目指して加速するマクロスは敵艦隊に包囲され、その進路を阻まれていた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-3_s0_p13/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250317110000 +0000" stop="20250317170000 +0000">
-		<title>超時空要塞マクロス #13〜24【無料ビデオ1週間】</title>
-		<desc>敵艦から奇跡的に生還した輝、未沙、マックス、柿崎。未沙が報告する敵基幹艦隊の戦力規模に、がく然とする首脳陣。グローバル艦長は、この事実を統合軍本部へ伝えるべく、敵包囲網の突破を決断する。昇進した4人は、歓迎レセプションに出席。輝は今やスターになったミンメイと再会する。一方、地球を目指して加速するマクロスは敵艦隊に包囲され、その進路を阻まれていた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-3_s0_p13/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250317170000 +0000" stop="20250317230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
-	</programme>
-	<programme channel="macross" start="20250317230000 +0000" stop="20250318050000 +0000">
-		<title>超時空要塞マクロス #25〜36【無料ビデオ1週間】</title>
-		<desc>夜9時の公園でマックスはミリアとの再会を待っていた。そこへナイフを手に襲い掛かるミリア。ミリアのナイフをかわしたマックスはミリアの手からナイフを叩き落とし、マックスの勝利で決着がつく。マックスとミリアは3度の対決を経て互いを認めあい、やがて愛しあうようになる。グローバル艦長は、マックスと元ゼントラーディ兵のミリアとの結婚が、戦争終結のカギになりうるのではと考え、マクロスで盛大な結婚式をおこなう。その模様は、艦内放送局を通じて地球ばかりではなく、ブリタイ艦隊にも発進されるのだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-3_s0_p25/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250318050000 +0000" stop="20250318110000 +0000">
-		<title>超時空要塞マクロス #25〜36【無料ビデオ1週間】</title>
-		<desc>夜9時の公園でマックスはミリアとの再会を待っていた。そこへナイフを手に襲い掛かるミリア。ミリアのナイフをかわしたマックスはミリアの手からナイフを叩き落とし、マックスの勝利で決着がつく。マックスとミリアは3度の対決を経て互いを認めあい、やがて愛しあうようになる。グローバル艦長は、マックスと元ゼントラーディ兵のミリアとの結婚が、戦争終結のカギになりうるのではと考え、マクロスで盛大な結婚式をおこなう。その模様は、艦内放送局を通じて地球ばかりではなく、ブリタイ艦隊にも発進されるのだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-3_s0_p25/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250318110000 +0000" stop="20250318170000 +0000">
-		<title>超時空要塞マクロス #25〜36【無料ビデオ1週間】</title>
-		<desc>夜9時の公園でマックスはミリアとの再会を待っていた。そこへナイフを手に襲い掛かるミリア。ミリアのナイフをかわしたマックスはミリアの手からナイフを叩き落とし、マックスの勝利で決着がつく。マックスとミリアは3度の対決を経て互いを認めあい、やがて愛しあうようになる。グローバル艦長は、マックスと元ゼントラーディ兵のミリアとの結婚が、戦争終結のカギになりうるのではと考え、マクロスで盛大な結婚式をおこなう。その模様は、艦内放送局を通じて地球ばかりではなく、ブリタイ艦隊にも発進されるのだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-3_s0_p25/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250318170000 +0000" stop="20250318230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
-	</programme>
-	<programme channel="macross" start="20250318230000 +0000" stop="20250319050000 +0000">
-		<title>マクロス7 #1〜13【無料ビデオ1週間】</title>
-		<desc>マクロス7艦の居住艦シティ7の屋外ステージで、ロックバンド「ファイアーボンバー」のライブがはじまった。熱気バサラとミレーヌ・ジーナスのツインボーカルでライブは盛り上がっていく。
-その最中、謎の戦闘機軍団からの奇襲を受けたマクロス7。精鋭部隊「ダイアモンドフォース」が応戦する敵部隊は不気味な光線を発し、パイロットの精気を奪っていく。そんな時、戦闘が始まったことを知った熱気バサラは、深紅の最新機「VF-19改 ファイヤーバルキリー」で戦場に乱入していく。戦場の真ん中で歌い始めるバサラに敵はおろか、統合軍側の戦闘部隊も驚くのだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250319050000 +0000" stop="20250319110000 +0000">
-		<title>マクロス7 #1〜13【無料ビデオ1週間】</title>
-		<desc>マクロス7艦の居住艦シティ7の屋外ステージで、ロックバンド「ファイアーボンバー」のライブがはじまった。熱気バサラとミレーヌ・ジーナスのツインボーカルでライブは盛り上がっていく。
-その最中、謎の戦闘機軍団からの奇襲を受けたマクロス7。精鋭部隊「ダイアモンドフォース」が応戦する敵部隊は不気味な光線を発し、パイロットの精気を奪っていく。そんな時、戦闘が始まったことを知った熱気バサラは、深紅の最新機「VF-19改 ファイヤーバルキリー」で戦場に乱入していく。戦場の真ん中で歌い始めるバサラに敵はおろか、統合軍側の戦闘部隊も驚くのだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250319110000 +0000" stop="20250319170000 +0000">
-		<title>マクロス7 #1〜13【無料ビデオ1週間】</title>
-		<desc>マクロス7艦の居住艦シティ7の屋外ステージで、ロックバンド「ファイアーボンバー」のライブがはじまった。熱気バサラとミレーヌ・ジーナスのツインボーカルでライブは盛り上がっていく。
-その最中、謎の戦闘機軍団からの奇襲を受けたマクロス7。精鋭部隊「ダイアモンドフォース」が応戦する敵部隊は不気味な光線を発し、パイロットの精気を奪っていく。そんな時、戦闘が始まったことを知った熱気バサラは、深紅の最新機「VF-19改 ファイヤーバルキリー」で戦場に乱入していく。戦場の真ん中で歌い始めるバサラに敵はおろか、統合軍側の戦闘部隊も驚くのだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250319170000 +0000" stop="20250319230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
-	</programme>
-	<programme channel="macross" start="20250319230000 +0000" stop="20250320050000 +0000">
-		<title>マクロス7 #14〜26【無料ビデオ1週間】</title>
-		<desc>またしても、別の宇宙空間にフォールドアウトしてしまったシティ7。そんな事態とは無縁に、ミレーヌが主演した「リン・ミンメイ物語」の影響で「ファイアーボンバー」の知名度は一気に上昇。次々とライブの依頼が舞い込む。まずは、退役軍人も多い老人ホームのシルバーパラダイス。そして次のライブは、遊園地で子供たちの前。その時、バロータ軍が現れた。一方バトル7の中ではバロータ兵に襲われ廃人同然となった犠牲者たちに音楽を聴かせ治療をする、という実験が進められていた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p14/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250320050000 +0000" stop="20250320110000 +0000">
-		<title>マクロス7 #14〜26【無料ビデオ1週間】</title>
-		<desc>またしても、別の宇宙空間にフォールドアウトしてしまったシティ7。そんな事態とは無縁に、ミレーヌが主演した「リン・ミンメイ物語」の影響で「ファイアーボンバー」の知名度は一気に上昇。次々とライブの依頼が舞い込む。まずは、退役軍人も多い老人ホームのシルバーパラダイス。そして次のライブは、遊園地で子供たちの前。その時、バロータ軍が現れた。一方バトル7の中ではバロータ兵に襲われ廃人同然となった犠牲者たちに音楽を聴かせ治療をする、という実験が進められていた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p14/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250320110000 +0000" stop="20250320170000 +0000">
-		<title>マクロス7 #14〜26【無料ビデオ1週間】</title>
-		<desc>またしても、別の宇宙空間にフォールドアウトしてしまったシティ7。そんな事態とは無縁に、ミレーヌが主演した「リン・ミンメイ物語」の影響で「ファイアーボンバー」の知名度は一気に上昇。次々とライブの依頼が舞い込む。まずは、退役軍人も多い老人ホームのシルバーパラダイス。そして次のライブは、遊園地で子供たちの前。その時、バロータ軍が現れた。一方バトル7の中ではバロータ兵に襲われ廃人同然となった犠牲者たちに音楽を聴かせ治療をする、という実験が進められていた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p14/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250320170000 +0000" stop="20250320230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
-	</programme>
-	<programme channel="macross" start="20250320230000 +0000" stop="20250321050000 +0000">
-		<title>マクロス7 #27〜39【無料ビデオ1週間】</title>
-		<desc>ゲペルニッチの策略により声が出なくなってしまったバサラ。マクロス7は船団の修理が完了するまで惑星ラクスに定住することになった。この状況下でDr.千葉は、歌エネルギーを発生させる“サウンドエナジーシステム”を開発する。その実験を兼ねたライブで、声の出ないバサラに代わりサウンド装置を付けて歌うミレーヌ。そして、ミレーヌは歌でエネルギーを発生させる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p27/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250321050000 +0000" stop="20250321110000 +0000">
-		<title>マクロス7 #27〜39【無料ビデオ1週間】</title>
-		<desc>ゲペルニッチの策略により声が出なくなってしまったバサラ。マクロス7は船団の修理が完了するまで惑星ラクスに定住することになった。この状況下でDr.千葉は、歌エネルギーを発生させる“サウンドエナジーシステム”を開発する。その実験を兼ねたライブで、声の出ないバサラに代わりサウンド装置を付けて歌うミレーヌ。そして、ミレーヌは歌でエネルギーを発生させる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p27/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250321110000 +0000" stop="20250321170000 +0000">
-		<title>マクロス7 #27〜39【無料ビデオ1週間】</title>
-		<desc>ゲペルニッチの策略により声が出なくなってしまったバサラ。マクロス7は船団の修理が完了するまで惑星ラクスに定住することになった。この状況下でDr.千葉は、歌エネルギーを発生させる“サウンドエナジーシステム”を開発する。その実験を兼ねたライブで、声の出ないバサラに代わりサウンド装置を付けて歌うミレーヌ。そして、ミレーヌは歌でエネルギーを発生させる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p27/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250321170000 +0000" stop="20250321230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
-	</programme>
-	<programme channel="macross" start="20250321230000 +0000" stop="20250322050000 +0000">
-		<title>マクロス7 #40〜52【無料ビデオ1週間】</title>
-		<desc>プロトデビルンに対するマクロス7の市民の不安を取り除こうと、ミリアは軍の考えを明確にしてほしいとマックスに嘆願する。マックスはプロトデビルンへの対応策を協議するための会議を開く。プロトデビルンと接触をもったバサラたちが呼ばれ意見を求められ、バサラは音楽でプロトデビルンと分かり合えることを訴えるのだが、その言葉は黙殺され、統合軍は徹底抗戦ということで意思統一される。そこにバロータ軍が襲来、いつものようにバサラが歌い、サウンドビームを照射するが効果がない。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p40/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250322050000 +0000" stop="20250322110000 +0000">
-		<title>マクロス7 #40〜52【無料ビデオ1週間】</title>
-		<desc>プロトデビルンに対するマクロス7の市民の不安を取り除こうと、ミリアは軍の考えを明確にしてほしいとマックスに嘆願する。マックスはプロトデビルンへの対応策を協議するための会議を開く。プロトデビルンと接触をもったバサラたちが呼ばれ意見を求められ、バサラは音楽でプロトデビルンと分かり合えることを訴えるのだが、その言葉は黙殺され、統合軍は徹底抗戦ということで意思統一される。そこにバロータ軍が襲来、いつものようにバサラが歌い、サウンドビームを照射するが効果がない。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p40/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250322110000 +0000" stop="20250322170000 +0000">
-		<title>マクロス7 #40〜52【無料ビデオ1週間】</title>
-		<desc>プロトデビルンに対するマクロス7の市民の不安を取り除こうと、ミリアは軍の考えを明確にしてほしいとマックスに嘆願する。マックスはプロトデビルンへの対応策を協議するための会議を開く。プロトデビルンと接触をもったバサラたちが呼ばれ意見を求められ、バサラは音楽でプロトデビルンと分かり合えることを訴えるのだが、その言葉は黙殺され、統合軍は徹底抗戦ということで意思統一される。そこにバロータ軍が襲来、いつものようにバサラが歌い、サウンドビームを照射するが効果がない。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-4_s0_p40/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250322170000 +0000" stop="20250322230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/macross/logo.png" />
-	</programme>
-	<programme channel="macross" start="20250322230000 +0000" stop="20250323050000 +0000">
-		<title>マクロスF #1〜12【無料ビデオ1週間】</title>
-		<desc>移民船団マクロス・フロンティアに銀河No.1のトップ・シンガーであるシェリル・ノームがコンサートのため来艦した。パイロット養成コースの高校生である早乙女アルトは、シェリルのコンサートでアクロバット飛行で参加するため会場の裏で準備をしていた。そこでコンサートに向かって道に迷った女子高生のランカ・リーと出会う。シェリルのコンサートが始まった頃、フロンティア船団の周辺宙域には未知の宇宙生物バジュラの大群が現れ、新統合軍の戦闘機部隊と戦闘状態となる。シェリルのコンサートは中止となり、会場から避難したランカとアルトの前に、一匹のバジュラが現れた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-2_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250323050000 +0000" stop="20250323110000 +0000">
-		<title>マクロスF #1〜12【無料ビデオ1週間】</title>
-		<desc>移民船団マクロス・フロンティアに銀河No.1のトップ・シンガーであるシェリル・ノームがコンサートのため来艦した。パイロット養成コースの高校生である早乙女アルトは、シェリルのコンサートでアクロバット飛行で参加するため会場の裏で準備をしていた。そこでコンサートに向かって道に迷った女子高生のランカ・リーと出会う。シェリルのコンサートが始まった頃、フロンティア船団の周辺宙域には未知の宇宙生物バジュラの大群が現れ、新統合軍の戦闘機部隊と戦闘状態となる。シェリルのコンサートは中止となり、会場から避難したランカとアルトの前に、一匹のバジュラが現れた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-2_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="macross" start="20250323110000 +0000" stop="20250323170000 +0000">
-		<title>マクロスF #1〜12【無料ビデオ1週間】</title>
-		<desc>移民船団マクロス・フロンティアに銀河No.1のトップ・シンガーであるシェリル・ノームがコンサートのため来艦した。パイロット養成コースの高校生である早乙女アルトは、シェリルのコンサートでアクロバット飛行で参加するため会場の裏で準備をしていた。そこでコンサートに向かって道に迷った女子高生のランカ・リーと出会う。シェリルのコンサートが始まった頃、フロンティア船団の周辺宙域には未知の宇宙生物バジュラの大群が現れ、新統合軍の戦闘機部隊と戦闘状態となる。シェリルのコンサートは中止となり、会場から避難したランカとアルトの前に、一匹のバジュラが現れた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/301-2_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250311130000 +0000" stop="20250311190000 +0000">
-		<title>機動戦士ガンダムSEED #1〜12【無料ビデオ72時間】</title>
-		<desc>中立コロニーヘリオポリス。ここでの地球連合軍機動兵器開発の情報を得て、ザフト軍が兵器奪取に侵攻を開始する。平和なコロニーが一瞬にして戦場と化した。ストライクが襲撃されるその瞬間に居合わせた少年がいた。キラはそこで、ザフトのパイロットアスランと邂逅する……！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250311190000 +0000" stop="20250312010000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
-	</programme>
-	<programme channel="gundam" start="20250312010000 +0000" stop="20250312070000 +0000">
-		<title>機動戦士ガンダムSEED #13〜24【無料ビデオ72時間】</title>
-		<desc>アークエンジェルの地球降下が始まった。猛追するクルーゼ隊と戦端を開く第8艦隊だが、智将ハルバートンと言えども、彼我の戦力差は如何ともしがたかった。地球降下を援護するため、キラもストライクで出撃する。大気圏ぎりぎりでの戦闘は、最悪の展開を用意していた……。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p13/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250312070000 +0000" stop="20250312130000 +0000">
-		<title>機動戦士ガンダムSEED #13〜24【無料ビデオ72時間】</title>
-		<desc>アークエンジェルの地球降下が始まった。猛追するクルーゼ隊と戦端を開く第8艦隊だが、智将ハルバートンと言えども、彼我の戦力差は如何ともしがたかった。地球降下を援護するため、キラもストライクで出撃する。大気圏ぎりぎりでの戦闘は、最悪の展開を用意していた……。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p13/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250312130000 +0000" stop="20250312190000 +0000">
-		<title>機動戦士ガンダムSEED #13〜24【無料ビデオ72時間】</title>
-		<desc>アークエンジェルの地球降下が始まった。猛追するクルーゼ隊と戦端を開く第8艦隊だが、智将ハルバートンと言えども、彼我の戦力差は如何ともしがたかった。地球降下を援護するため、キラもストライクで出撃する。大気圏ぎりぎりでの戦闘は、最悪の展開を用意していた……。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p13/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250312190000 +0000" stop="20250313010000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
-	</programme>
-	<programme channel="gundam" start="20250313010000 +0000" stop="20250313070000 +0000">
-		<title>機動戦士ガンダムSEED #25〜36【無料ビデオ72時間】</title>
-		<desc>オーブの秘密ドックでアークエンジェルの修理が進む中、オーブの技術主任エリカは、ストライクの戦闘記録を分析する。モルゲンレーテに連れてこられたキラは、MS「M1アストレイ」のサポートOSの開発を要求される。カガリはオーブの態度に苛立ちをぶつけるが……。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p25/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250313070000 +0000" stop="20250313130000 +0000">
-		<title>機動戦士ガンダムSEED #25〜36【無料ビデオ72時間】</title>
-		<desc>オーブの秘密ドックでアークエンジェルの修理が進む中、オーブの技術主任エリカは、ストライクの戦闘記録を分析する。モルゲンレーテに連れてこられたキラは、MS「M1アストレイ」のサポートOSの開発を要求される。カガリはオーブの態度に苛立ちをぶつけるが……。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p25/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250313130000 +0000" stop="20250313190000 +0000">
-		<title>機動戦士ガンダムSEED #25〜36【無料ビデオ72時間】</title>
-		<desc>オーブの秘密ドックでアークエンジェルの修理が進む中、オーブの技術主任エリカは、ストライクの戦闘記録を分析する。モルゲンレーテに連れてこられたキラは、MS「M1アストレイ」のサポートOSの開発を要求される。カガリはオーブの態度に苛立ちをぶつけるが……。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p25/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250313190000 +0000" stop="20250314010000 +0000">
-		<title>機動戦士ガンダムSEED #37〜48【無料ビデオ72時間】</title>
-		<desc>連合軍の3機のGの驚異的な力に苦戦するキラのフリーダム。彼の窮地を救ったのはアスランのジャスティスだった。見事な連係攻撃で圧倒する2人。3機は撤退し戦闘は中断するが、対峙し続けるキラとアスラン。様々な想いを胸にキラが呟く。「僕たちも、また戦うのかな……」</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p37/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250314010000 +0000" stop="20250314070000 +0000">
-		<title>機動戦士ガンダムSEED #37〜48【無料ビデオ72時間】</title>
-		<desc>連合軍の3機のGの驚異的な力に苦戦するキラのフリーダム。彼の窮地を救ったのはアスランのジャスティスだった。見事な連係攻撃で圧倒する2人。3機は撤退し戦闘は中断するが、対峙し続けるキラとアスラン。様々な想いを胸にキラが呟く。「僕たちも、また戦うのかな……」</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p37/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250314070000 +0000" stop="20250314130000 +0000">
-		<title>機動戦士ガンダムSEED #37〜48【無料ビデオ72時間】</title>
-		<desc>連合軍の3機のGの驚異的な力に苦戦するキラのフリーダム。彼の窮地を救ったのはアスランのジャスティスだった。見事な連係攻撃で圧倒する2人。3機は撤退し戦闘は中断するが、対峙し続けるキラとアスラン。様々な想いを胸にキラが呟く。「僕たちも、また戦うのかな……」</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p37/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250314130000 +0000" stop="20250315123000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #1〜50【無料ビデオ1週間】</title>
-		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250315123000 +0000" stop="20250316120000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #1〜50【無料ビデオ1週間】</title>
-		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250316120000 +0000" stop="20250316160000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #1〜8【無料ビデオ72時間】</title>
-		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250316160000 +0000" stop="20250317050000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
-	</programme>
-	<programme channel="gundam" start="20250317050000 +0000" stop="20250317090000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #1〜8【無料ビデオ72時間】</title>
-		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250317090000 +0000" stop="20250317130000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #1〜8【無料ビデオ72時間】</title>
-		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250317130000 +0000" stop="20250317170000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #9〜16【無料ビデオ72時間】</title>
-		<desc>地球連合は「ユニウスセブン落下事件」をザフトの仕業と決め付け、プラントを敵と見なす共同声明を発表。地球軍では、開戦へ向けて準備が進んでいた。デュランダルはあくまでも対話による解決を主張するが、国防委員会は目の前に迫った地球軍に対して軍を動かす。その頃、プラントへ着いたアスランは…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p9/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250317170000 +0000" stop="20250318050000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
-	</programme>
-	<programme channel="gundam" start="20250318050000 +0000" stop="20250318090000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #9〜16【無料ビデオ72時間】</title>
-		<desc>地球連合は「ユニウスセブン落下事件」をザフトの仕業と決め付け、プラントを敵と見なす共同声明を発表。地球軍では、開戦へ向けて準備が進んでいた。デュランダルはあくまでも対話による解決を主張するが、国防委員会は目の前に迫った地球軍に対して軍を動かす。その頃、プラントへ着いたアスランは…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p9/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250318090000 +0000" stop="20250318130000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #9〜16【無料ビデオ72時間】</title>
-		<desc>地球連合は「ユニウスセブン落下事件」をザフトの仕業と決め付け、プラントを敵と見なす共同声明を発表。地球軍では、開戦へ向けて準備が進んでいた。デュランダルはあくまでも対話による解決を主張するが、国防委員会は目の前に迫った地球軍に対して軍を動かす。その頃、プラントへ着いたアスランは…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p9/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250318130000 +0000" stop="20250318170000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #17〜24【無料ビデオ72時間】</title>
-		<desc>逃亡中のアークエンジェル。マリューらは情勢を掴み切れていない上にラクスの暗殺未遂やミーアの存在もあって、デュランダルに懐疑的だった。その頃ミネルバは、スエズ攻略の前線・マハムール基地に到着していた。ミネルバをこの難所に差し向けたデュランダルの思惑を感じながらも、タリアは作戦に全力を注ごうとする。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p17/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250318170000 +0000" stop="20250319050000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
-	</programme>
-	<programme channel="gundam" start="20250319050000 +0000" stop="20250319090000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #17〜24【無料ビデオ72時間】</title>
-		<desc>逃亡中のアークエンジェル。マリューらは情勢を掴み切れていない上にラクスの暗殺未遂やミーアの存在もあって、デュランダルに懐疑的だった。その頃ミネルバは、スエズ攻略の前線・マハムール基地に到着していた。ミネルバをこの難所に差し向けたデュランダルの思惑を感じながらも、タリアは作戦に全力を注ごうとする。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p17/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250319090000 +0000" stop="20250319130000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #17〜24【無料ビデオ72時間】</title>
-		<desc>逃亡中のアークエンジェル。マリューらは情勢を掴み切れていない上にラクスの暗殺未遂やミーアの存在もあって、デュランダルに懐疑的だった。その頃ミネルバは、スエズ攻略の前線・マハムール基地に到着していた。ミネルバをこの難所に差し向けたデュランダルの思惑を感じながらも、タリアは作戦に全力を注ごうとする。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p17/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250319130000 +0000" stop="20250319170000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #25〜32【無料ビデオ72時間】</title>
-		<desc>ラクスの暗殺未遂事件を知ったアスラン。それでもデュランダルを信じるアスランは、キラたちにオーブの戦争参入を止めさせるように言う。一方、シンの緊急連絡を受けたミネルバは、急遽調査中の施設に向かっていた。シンたちの調査により、その施設は地球連合軍が強化人間を極秘開発していたラボだったことが判明して…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p25/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250319170000 +0000" stop="20250320050000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
-	</programme>
-	<programme channel="gundam" start="20250320050000 +0000" stop="20250320090000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #25〜32【無料ビデオ72時間】</title>
-		<desc>ラクスの暗殺未遂事件を知ったアスラン。それでもデュランダルを信じるアスランは、キラたちにオーブの戦争参入を止めさせるように言う。一方、シンの緊急連絡を受けたミネルバは、急遽調査中の施設に向かっていた。シンたちの調査により、その施設は地球連合軍が強化人間を極秘開発していたラボだったことが判明して…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p25/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250320090000 +0000" stop="20250320130000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #25〜32【無料ビデオ72時間】</title>
-		<desc>ラクスの暗殺未遂事件を知ったアスラン。それでもデュランダルを信じるアスランは、キラたちにオーブの戦争参入を止めさせるように言う。一方、シンの緊急連絡を受けたミネルバは、急遽調査中の施設に向かっていた。シンたちの調査により、その施設は地球連合軍が強化人間を極秘開発していたラボだったことが判明して…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p25/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250320130000 +0000" stop="20250320170000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #33〜40【無料ビデオ72時間】</title>
-		<desc>ステラとの約束を守れなかったことを悔やみ、号泣するシン。その眼には、暗く固い決意の色が宿っていた。後日、シンの部屋を訪ねたアスランは、フリーダムとの戦闘を想定したシミュレーション中のシンとレイを見てショックを受ける。その頃、アークエンジェルでは回収されたネオが意識を取り戻していて…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p33/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250320170000 +0000" stop="20250321050000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
-	</programme>
-	<programme channel="gundam" start="20250321050000 +0000" stop="20250321090000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #33〜40【無料ビデオ72時間】</title>
-		<desc>ステラとの約束を守れなかったことを悔やみ、号泣するシン。その眼には、暗く固い決意の色が宿っていた。後日、シンの部屋を訪ねたアスランは、フリーダムとの戦闘を想定したシミュレーション中のシンとレイを見てショックを受ける。その頃、アークエンジェルでは回収されたネオが意識を取り戻していて…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p33/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250321090000 +0000" stop="20250321130000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #33〜40【無料ビデオ72時間】</title>
-		<desc>ステラとの約束を守れなかったことを悔やみ、号泣するシン。その眼には、暗く固い決意の色が宿っていた。後日、シンの部屋を訪ねたアスランは、フリーダムとの戦闘を想定したシミュレーション中のシンとレイを見てショックを受ける。その頃、アークエンジェルでは回収されたネオが意識を取り戻していて…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p33/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250321130000 +0000" stop="20250321180000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #41〜50【無料ビデオ72時間】</title>
-		<desc>オーブの危機に緊急発進するアークエンジェル。オノゴロ沖では、デスティニーを食い止めようとカガリたちが奮戦。シンの攻撃がカガリに迫ったその時、宇宙から帰還したキラのストライクフリーダムが間一髪でカガリを救う。一方、アスランはラクスが用意したインフィニットジャスティスを前に激しく葛藤していた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p41/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250321180000 +0000" stop="20250322030000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
-	</programme>
-	<programme channel="gundam" start="20250322030000 +0000" stop="20250322080000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #41〜50【無料ビデオ72時間】</title>
-		<desc>オーブの危機に緊急発進するアークエンジェル。オノゴロ沖では、デスティニーを食い止めようとカガリたちが奮戦。シンの攻撃がカガリに迫ったその時、宇宙から帰還したキラのストライクフリーダムが間一髪でカガリを救う。一方、アスランはラクスが用意したインフィニットジャスティスを前に激しく葛藤していた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p41/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250322080000 +0000" stop="20250322130000 +0000">
-		<title>機動戦士ガンダムSEED DESTINY #41〜50【無料ビデオ72時間】</title>
-		<desc>オーブの危機に緊急発進するアークエンジェル。オノゴロ沖では、デスティニーを食い止めようとカガリたちが奮戦。シンの攻撃がカガリに迫ったその時、宇宙から帰還したキラのストライクフリーダムが間一髪でカガリを救う。一方、アスランはラクスが用意したインフィニットジャスティスを前に激しく葛藤していた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p41/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250322130000 +0000" stop="20250323003000 +0000">
-		<title>機動戦士ガンダム 水星の魔女 #0〜24【無料ビデオ1週間】</title>
-		<desc>小惑星に建造されたフロント、フォールクヴァング。
-ヴァナディース機関のラボでは、ガンダム・ルブリスの稼働実験が行われていた。
-
-評議会から課された条件をクリア出来ないままのルブリスに、
-焦燥感を募らせるテストパイロット、エルノラ・サマヤ。
-
-――その日は、彼女の娘が4歳を迎える誕生日だった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-158_s1_p100/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250323003000 +0000" stop="20250323120000 +0000">
-		<title>機動戦士ガンダム 水星の魔女 #0〜24【無料ビデオ1週間】</title>
-		<desc>小惑星に建造されたフロント、フォールクヴァング。
-ヴァナディース機関のラボでは、ガンダム・ルブリスの稼働実験が行われていた。
-
-評議会から課された条件をクリア出来ないままのルブリスに、
-焦燥感を募らせるテストパイロット、エルノラ・サマヤ。
-
-――その日は、彼女の娘が4歳を迎える誕生日だった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-158_s1_p100/thumb001.png" />
-	</programme>
-	<programme channel="gundam" start="20250323120000 +0000" stop="20250323233000 +0000">
-		<title>機動戦士ガンダム 水星の魔女 #0〜24【無料ビデオ1週間】</title>
-		<desc>小惑星に建造されたフロント、フォールクヴァング。
-ヴァナディース機関のラボでは、ガンダム・ルブリスの稼働実験が行われていた。
-
-評議会から課された条件をクリア出来ないままのルブリスに、
-焦燥感を募らせるテストパイロット、エルノラ・サマヤ。
-
-――その日は、彼女の娘が4歳を迎える誕生日だった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-158_s1_p100/thumb001.png" />
-	</programme>
 	<programme channel="80s-anime-1" start="20250311110300 +0000" stop="20250311170600 +0000">
 		<title>美味しんぼ #79～90【無料ビデオ1週間】</title>
 		<desc>洋食「銀洋亭」の主人・中里は腕の良い料理人だが、同郷の天才シェフ・室野の記事、”フランス料理は洋食如きとは次元の違う芸術だ”を読み強い劣等感に陥る。中里の自信を挽回するには？</desc>
@@ -17240,6 +16756,310 @@ Mr.Childrenのど真ん中ソングが決定する!?
 今回は韓国好きにフィーチャー！
 【楽曲提供】OWV/DXTEEN</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p174/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250318190000 +0000" stop="20250319070000 +0000">
+		<title>六本木クラス 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>2006年秋――父子家庭で育った高校生の宮部新(竹内涼真)は、愛想はないが真っすぐな性格に育ち、父・宮部信二(光石研)からの教えである「信念を持って生きろ」という言葉を胸に、警察官になることを夢見ながら父と支え合い仲良く暮らしていた。そんなある日、信二が本社へ栄転することに伴って、新は転校することに。その前日、これまで信二が何かと気にかけていた養護施設に支援物資を届けるために一緒に向かった新は、信二が娘のように可愛がる楠木優香(新木優子)を紹介されるが、不愛想な性格ゆえにそっけない態度をとってしまう。
+
+そして迎えた転校初日。クラスに案内された新は、偶然にも優香の隣の席になり、気まずさを感じていると、突然、教室である事件が発生! クラスメイトの桐野雄大(矢本悠馬)が長屋龍河(早乙女太一)に使い走りにされた上、執拗ないじめを受けるのだが、なんと他の生徒だけでなく先生までも見て見ぬふりで...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-111_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250319070000 +0000" stop="20250319190000 +0000">
+		<title>六本木クラス 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>2006年秋――父子家庭で育った高校生の宮部新(竹内涼真)は、愛想はないが真っすぐな性格に育ち、父・宮部信二(光石研)からの教えである「信念を持って生きろ」という言葉を胸に、警察官になることを夢見ながら父と支え合い仲良く暮らしていた。そんなある日、信二が本社へ栄転することに伴って、新は転校することに。その前日、これまで信二が何かと気にかけていた養護施設に支援物資を届けるために一緒に向かった新は、信二が娘のように可愛がる楠木優香(新木優子)を紹介されるが、不愛想な性格ゆえにそっけない態度をとってしまう。
+
+そして迎えた転校初日。クラスに案内された新は、偶然にも優香の隣の席になり、気まずさを感じていると、突然、教室である事件が発生! クラスメイトの桐野雄大(矢本悠馬)が長屋龍河(早乙女太一)に使い走りにされた上、執拗ないじめを受けるのだが、なんと他の生徒だけでなく先生までも見て見ぬふりで...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-111_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250319190000 +0000" stop="20250319210000 +0000">
+		<title>殴り愛、炎 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>この手は人の命を救うためにある――そう心から信じ、一生人は殴らない...と心に誓っていた凄腕心臓外科医・明田光男(山崎育三郎)。彼は同じ病院に勤める看護師・豊田秀実(瀧本美織)との結婚式を1カ月後に控え、幸せの絶頂にいた。そんなある日、光男は心臓発作を起こした急患・緒川信彦(市原隼人)の手術を担当。生死の境をさまよう信彦の命を、鮮やかなオペで救う。ところが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-91_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250319210000 +0000" stop="20250319230000 +0000">
+		<title>殴り愛、炎 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>この手は人の命を救うためにある――そう心から信じ、一生人は殴らない...と心に誓っていた凄腕心臓外科医・明田光男(山崎育三郎)。彼は同じ病院に勤める看護師・豊田秀実(瀧本美織)との結婚式を1カ月後に控え、幸せの絶頂にいた。そんなある日、光男は心臓発作を起こした急患・緒川信彦(市原隼人)の手術を担当。生死の境をさまよう信彦の命を、鮮やかなオペで救う。ところが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-91_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250319230000 +0000" stop="20250320010000 +0000">
+		<title>奪い愛、高校教師 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>新しい病院で働き始めた看護師の星野露子（観月ありさ）は、楽器カフェで冬野三太（大谷亮平）のフルート演奏を聴き、体に小さな電気が走るのを感じた。捨てていたはずの恋する気持ちがよみがえったのだ。
+
+後日、バイオリンを持ってカフェを訪れ三太と情熱的な曲をセッションすると、露子の体にはまた大きな電流が走り、快感となってエクスタシーをもたらした。
+
+しかし、蘭桜女学院高等学校の音楽教師である三太には同じ学校の英語教師・十仲華子（松本まりか）という婚約者がおり、すでに一緒に暮らしていた。それでも露子は恋する気持ちは抑えきれず、嫉妬心を募らせていく。
+
+ある日、三太のクラスに星野灯（岡田奈々）が転入してきた。三太は心臓が悪いと聞かされていた灯を気遣うも、冷たく拒絶されてしまう。
+
+こうして高校教師とその婚約者、生徒と母親までを巻き込んだ、1人の男の愛をめぐる“奪い愛”が開幕した…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1608_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250320010000 +0000" stop="20250320070000 +0000">
+		<title>奪い愛、夏 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>【あらすじ】
+マッチングサービス「ラブネクスト」で広報部に所属する桐山椿（小池徹平）は、同じ部の空野杏（松本まりか）と恋に落ちた。「会社では秘密」という杏の条件の中、交際を始める二人。
+
+椿の実家は日本橋で和菓子屋を営んでいた。だが父親が1億円の借金を抱え、店を手放さなくてはならない状況に陥ってしまう。
+
+そんなある夜、一人で夜道を歩いていた椿の元にラブネクスト社長の花園桜（水野美紀）が現れ、いきなりキスをされる。桜は「私はビジネスだけじゃなくて、キスも一流よ」と言い放ち、明日社長室に来なさいと椿に命令する。翌日、社長室を訪れた椿を待っていたのは、桜からの驚くべき提案だったーー。
+
+
+【登場人物】
+●花園桜（水野美紀）
+年商100億円の40代向けのマッチングアプリ会社「ラブネクスト」42歳の女社長。会社のイメージアップのため、条件がマッチした男性を探し、目的のためなら手段を選ばない。
+
+●桐山椿（小池徹平）
+ラブネクスト広報部、元読者モデルのイケメン社員。実家は老舗和菓子屋で、現在経営難である。さわやかで社内からの信頼も厚い。
+
+●空野杏（松本まりか）
+ラブネクストの美人広報。会社のメンバーには内緒で椿と社内恋愛中。純粋無垢で、誰からも嫌われない女性。
+
+●土筆肇（小手伸也）
+ラブネクスト社長秘書。桜にゴミ溜めから拾ってもらったドM。"ご褒美"をもらうため、今日も桜のために暗躍する。
+
+●井川瞳（田中みな実）
+ラブネクスト広報部、杏の同僚であり親友。社内事情・恋愛事情に詳しいミーハー女子で、杏の良き相談相手。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1290_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250320070000 +0000" stop="20250320090000 +0000">
+		<title>殴り愛、炎 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>この手は人の命を救うためにある――そう心から信じ、一生人は殴らない...と心に誓っていた凄腕心臓外科医・明田光男(山崎育三郎)。彼は同じ病院に勤める看護師・豊田秀実(瀧本美織)との結婚式を1カ月後に控え、幸せの絶頂にいた。そんなある日、光男は心臓発作を起こした急患・緒川信彦(市原隼人)の手術を担当。生死の境をさまよう信彦の命を、鮮やかなオペで救う。ところが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-91_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250320090000 +0000" stop="20250320110000 +0000">
+		<title>奪い愛、高校教師 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>新しい病院で働き始めた看護師の星野露子（観月ありさ）は、楽器カフェで冬野三太（大谷亮平）のフルート演奏を聴き、体に小さな電気が走るのを感じた。捨てていたはずの恋する気持ちがよみがえったのだ。
+
+後日、バイオリンを持ってカフェを訪れ三太と情熱的な曲をセッションすると、露子の体にはまた大きな電流が走り、快感となってエクスタシーをもたらした。
+
+しかし、蘭桜女学院高等学校の音楽教師である三太には同じ学校の英語教師・十仲華子（松本まりか）という婚約者がおり、すでに一緒に暮らしていた。それでも露子は恋する気持ちは抑えきれず、嫉妬心を募らせていく。
+
+ある日、三太のクラスに星野灯（岡田奈々）が転入してきた。三太は心臓が悪いと聞かされていた灯を気遣うも、冷たく拒絶されてしまう。
+
+こうして高校教師とその婚約者、生徒と母親までを巻き込んだ、1人の男の愛をめぐる“奪い愛”が開幕した…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1608_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250320110000 +0000" stop="20250320170000 +0000">
+		<title>奪い愛、夏 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>【あらすじ】
+マッチングサービス「ラブネクスト」で広報部に所属する桐山椿（小池徹平）は、同じ部の空野杏（松本まりか）と恋に落ちた。「会社では秘密」という杏の条件の中、交際を始める二人。
+
+椿の実家は日本橋で和菓子屋を営んでいた。だが父親が1億円の借金を抱え、店を手放さなくてはならない状況に陥ってしまう。
+
+そんなある夜、一人で夜道を歩いていた椿の元にラブネクスト社長の花園桜（水野美紀）が現れ、いきなりキスをされる。桜は「私はビジネスだけじゃなくて、キスも一流よ」と言い放ち、明日社長室に来なさいと椿に命令する。翌日、社長室を訪れた椿を待っていたのは、桜からの驚くべき提案だったーー。
+
+
+【登場人物】
+●花園桜（水野美紀）
+年商100億円の40代向けのマッチングアプリ会社「ラブネクスト」42歳の女社長。会社のイメージアップのため、条件がマッチした男性を探し、目的のためなら手段を選ばない。
+
+●桐山椿（小池徹平）
+ラブネクスト広報部、元読者モデルのイケメン社員。実家は老舗和菓子屋で、現在経営難である。さわやかで社内からの信頼も厚い。
+
+●空野杏（松本まりか）
+ラブネクストの美人広報。会社のメンバーには内緒で椿と社内恋愛中。純粋無垢で、誰からも嫌われない女性。
+
+●土筆肇（小手伸也）
+ラブネクスト社長秘書。桜にゴミ溜めから拾ってもらったドM。"ご褒美"をもらうため、今日も桜のために暗躍する。
+
+●井川瞳（田中みな実）
+ラブネクスト広報部、杏の同僚であり親友。社内事情・恋愛事情に詳しいミーハー女子で、杏の良き相談相手。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1290_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250320170000 +0000" stop="20250320220000 +0000">
+		<title>深夜のダメ恋図鑑 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>円は取引先の男性、山田に「男性経験のないこと」を正直に告げる。すると山田は「お返しに」と衝撃的なヒミツを打ち明ける・・
+ 一方、少女漫画で育ち、理想の彼氏は“王子様”という夢見る千代には、ついに王子様が出現!?
+ クールで頭のキレる佐和子は、以前から知り合いだった国分諒に告白をされる・・</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/587-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250320220000 +0000" stop="20250321060000 +0000">
+		<title>星降る夜に 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>のどかな海街にある「マロニエ産婦人科医院」で働く35歳の産婦人科医・雪宮鈴(吉高由里子)。ある医療裁判がきっかけで、大病院を追われた彼女は、命の始まりと終わりが、繰り返される毎日や、窮屈で息苦しい社会の中で心がすり減り、誰にも本音を語らず、孤独な毎日を過ごしていた――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-127_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250321060000 +0000" stop="20250321113000 +0000">
+		<title>M 愛すべき人がいて 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>1993年、福岡から祖母・幸子(市毛良枝)とともに上京してきたアユ(安斉かれん)。東京で芸能活動をして売れれば家族の生活が楽になると意気込むアユだが、そう上手くはいかず、高校に通いながら細々とエキストラのような仕事をこなす日々を送っていた。
+そんなある日、歌手を目指す友人・玉木理沙(久保田紗友)から六本木のディスコ・ベルファインで、レコード会社「A VICTORY」のカリスマプロデューサー、マックス・マサ(三浦翔平)が次のスターを探していると聞いたアユは、理沙と一緒にベルファインに行くことになる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-105_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250321113000 +0000" stop="20250321170000 +0000">
+		<title>M 愛すべき人がいて 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>1993年、福岡から祖母・幸子(市毛良枝)とともに上京してきたアユ(安斉かれん)。東京で芸能活動をして売れれば家族の生活が楽になると意気込むアユだが、そう上手くはいかず、高校に通いながら細々とエキストラのような仕事をこなす日々を送っていた。
+そんなある日、歌手を目指す友人・玉木理沙(久保田紗友)から六本木のディスコ・ベルファインで、レコード会社「A VICTORY」のカリスマプロデューサー、マックス・マサ(三浦翔平)が次のスターを探していると聞いたアユは、理沙と一緒にベルファインに行くことになる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-105_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250321170000 +0000" stop="20250321220000 +0000">
+		<title>LINEの答えあわせ~男と女の勘違い~ 全話一挙【無料1週間】</title>
+		<desc>レストラン・グランロッサで開かれた料理教室に集まった男女6人。IT企業社長の安井司(古川雄輝)、アパレル企業プレスの新見恵理乃(大西礼芳)、外資系商社マンの藤城幸也(黒羽麻璃央)、モデルの吉川沙羅(筧美和子)、小説家の徳川良正(眞島秀和)、テレビプロデューサーの笹川佳奈子(坂井真紀)。
+オーナーシェフ・岩佐(和田正人)の指導で、安井と恵理乃、徳川と沙羅、藤城と佳奈子がペアになって料理を作ることに。出来上がった料理を食べながら、6人はそれぞれ、お目当ての相手に近付いて語り合う。
+会がお開きになり、安井は沙羅に「送っていくよ」と声をかける。帰り道、話が弾む安井と沙羅。2人はLINE交換し、別れ際、安井が「次は2人で会いたい」とさりげなく誘うと、沙羅も笑顔で応える。
+すぐに安井は沙羅にLINEを送る。何度かやりとりをした後、安井は沙羅をデートに誘うが―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/587-21_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250321220000 +0000" stop="20250322060000 +0000">
+		<title>unknown 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>降りしきる雨、地面に広がる赤い血。
+そこに薬指に指輪をした、ウエディングドレス姿の女性が横たわっている――。
+
+夜明け前。路肩に停めた車の中で、あくびをする闇原こころ(高畑充希)。『週刊熱波』のエース記者である彼女は、相棒カメラマンの加賀美圭介(町田啓太)と共に、清純派女優のスクープつかむため張り込みをしている。こころは、恋人である交番勤務の警察官・朝田虎松(田中圭)と付き合い始めて1年。さらには次のデートがこころ30歳の誕生日のまさに当日だと知った加賀美は、「そろそろプロポーズ来るんじゃない?」と囃し立てるも、こころは複雑な表情を浮かべる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-125_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250322060000 +0000" stop="20250322074500 +0000">
+		<title>奪い愛、高校教師 全話一挙放送【ABEMAビデオで全話無料配信中】</title>
+		<desc>新しい病院で働き始めた看護師の星野露子（観月ありさ）は、楽器カフェで冬野三太（大谷亮平）のフルート演奏を聴き、体に小さな電気が走るのを感じた。捨てていたはずの恋する気持ちがよみがえったのだ。
+
+後日、バイオリンを持ってカフェを訪れ三太と情熱的な曲をセッションすると、露子の体にはまた大きな電流が走り、快感となってエクスタシーをもたらした。
+
+しかし、蘭桜女学院高等学校の音楽教師である三太には同じ学校の英語教師・十仲華子（松本まりか）という婚約者がおり、すでに一緒に暮らしていた。それでも露子は恋する気持ちは抑えきれず、嫉妬心を募らせていく。
+
+ある日、三太のクラスに星野灯（岡田奈々）が転入してきた。三太は心臓が悪いと聞かされていた灯を気遣うも、冷たく拒絶されてしまう。
+
+こうして高校教師とその婚約者、生徒と母親までを巻き込んだ、1人の男の愛をめぐる“奪い愛”が開幕した…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1608_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250322074500 +0000" stop="20250322093000 +0000">
+		<title>奪い愛、高校教師 全話一挙放送【ABEMAビデオで全話無料配信中】</title>
+		<desc>新しい病院で働き始めた看護師の星野露子（観月ありさ）は、楽器カフェで冬野三太（大谷亮平）のフルート演奏を聴き、体に小さな電気が走るのを感じた。捨てていたはずの恋する気持ちがよみがえったのだ。
+
+後日、バイオリンを持ってカフェを訪れ三太と情熱的な曲をセッションすると、露子の体にはまた大きな電流が走り、快感となってエクスタシーをもたらした。
+
+しかし、蘭桜女学院高等学校の音楽教師である三太には同じ学校の英語教師・十仲華子（松本まりか）という婚約者がおり、すでに一緒に暮らしていた。それでも露子は恋する気持ちは抑えきれず、嫉妬心を募らせていく。
+
+ある日、三太のクラスに星野灯（岡田奈々）が転入してきた。三太は心臓が悪いと聞かされていた灯を気遣うも、冷たく拒絶されてしまう。
+
+こうして高校教師とその婚約者、生徒と母親までを巻き込んだ、1人の男の愛をめぐる“奪い愛”が開幕した…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1608_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250322093000 +0000" stop="20250322130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250322130000 +0000" stop="20250322180000 +0000">
+		<title>それでも愛を誓いますか? 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>純須純(松本まりか)と武頼(池内博之)は結婚歴8年、子どもなしの夫婦。仲のいい夫婦だが、「子どもが欲しい」という純の想いをよそに、セックスレスは5年目になる。純は女性としての劣等感と同時に、将来について本音を語り合えない二人の関係性に不満を感じていた。
+ なにかを変えなければ...そんな思いから、純は8年ぶりに再就職し、契約社員として働き始める。
+初出勤の帰り道、駅で待ち合わせて、いい雰囲気で帰宅する二人。その夜、純は勇気を出して武頼を求めるが、武頼は優しく拒絶するのだった...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-12_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250322180000 +0000" stop="20250322230000 +0000">
+		<title>それでも愛を誓いますか? 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>純須純(松本まりか)と武頼(池内博之)は結婚歴8年、子どもなしの夫婦。仲のいい夫婦だが、「子どもが欲しい」という純の想いをよそに、セックスレスは5年目になる。純は女性としての劣等感と同時に、将来について本音を語り合えない二人の関係性に不満を感じていた。
+ なにかを変えなければ...そんな思いから、純は8年ぶりに再就職し、契約社員として働き始める。
+初出勤の帰り道、駅で待ち合わせて、いい雰囲気で帰宅する二人。その夜、純は勇気を出して武頼を求めるが、武頼は優しく拒絶するのだった...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-12_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250322230000 +0000" stop="20250323033000 +0000">
+		<title>ハレーションラブ 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>深山朱莉(髙橋ひかる)は地元・星合台の大学に通いながら、亡き父が残した写真店「ミヤマカメラ」を母の深山那津子(濱田マリ)と細々と経営している。父の影響で幼い頃からカメラを持っていたおかげで撮影もなかなかの腕前を持ち、父の背中を追って応募した写真コンテストでは、風景画で見事に賞を受賞。一方で、朱莉は人物を撮るのが苦手という悩みを抱えていた。
+そんなある日、店のドアの隙間に赤い短冊のような紙が落ちていることに気づく。朱莉は不思議に思いつつも、誰かが落としたものかと特に気にも留めず拾うのだが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-124_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250323033000 +0000" stop="20250323080000 +0000">
+		<title>ハレーションラブ 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>深山朱莉(髙橋ひかる)は地元・星合台の大学に通いながら、亡き父が残した写真店「ミヤマカメラ」を母の深山那津子(濱田マリ)と細々と経営している。父の影響で幼い頃からカメラを持っていたおかげで撮影もなかなかの腕前を持ち、父の背中を追って応募した写真コンテストでは、風景画で見事に賞を受賞。一方で、朱莉は人物を撮るのが苦手という悩みを抱えていた。
+そんなある日、店のドアの隙間に赤い短冊のような紙が落ちていることに気づく。朱莉は不思議に思いつつも、誰かが落としたものかと特に気にも留めず拾うのだが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-124_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250323080000 +0000" stop="20250323140900 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250323140900 +0000" stop="20250323182000 +0000">
+		<title>ハレ婚。 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>東京暮らしで付き合った男性はすべて既婚者...。東京での恋と生活に疲れ切った前園小春(島崎遥香)は、故郷・北つばめ市へと帰郷する。そこで知らされたのは、父・哲郎(渡辺いっけい)が病に倒れ、実家で経営している喫茶店「ルパン」が、多額の借金を抱え閉店に追い込まれていることだった!なんとしても喫茶店を守りたい小春の前に現れたのが伊達龍之介(稲葉友)という謎の男。「ルパン」の常連客という龍之介は、借金の肩代わりを申し出ると「幸せにするよ。結婚しよう」といきなりプロポーズ!しかし、彼にはすでに1人目の妻・ゆず(柳ゆり菜)と2人目の妻・まどか(浅川梨奈)がいた!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-17_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250323182000 +0000" stop="20250323223100 +0000">
+		<title>ハレ婚。 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>東京暮らしで付き合った男性はすべて既婚者...。東京での恋と生活に疲れ切った前園小春(島崎遥香)は、故郷・北つばめ市へと帰郷する。そこで知らされたのは、父・哲郎(渡辺いっけい)が病に倒れ、実家で経営している喫茶店「ルパン」が、多額の借金を抱え閉店に追い込まれていることだった!なんとしても喫茶店を守りたい小春の前に現れたのが伊達龍之介(稲葉友)という謎の男。「ルパン」の常連客という龍之介は、借金の肩代わりを申し出ると「幸せにするよ。結婚しよう」といきなりプロポーズ!しかし、彼にはすでに1人目の妻・ゆず(柳ゆり菜)と2人目の妻・まどか(浅川梨奈)がいた!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-17_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250323223100 +0000" stop="20250324030000 +0000">
+		<title>泥濘の食卓 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>田舎町のスーパーで働く捻木深愛(齊藤京子)は、毒親である母・捻木美幸(筒井真理子)に抑圧されながら育ったため自己肯定感が低く、自分には何の取り柄もないから、せめて人には優しくしたいという思いで、日々、一生懸命働いていた。そんな深愛には、スーパーで働くことに楽しみが...スーパーの店長・那須川夏生(吉沢悠)と不倫関係にあったのだ。ある日、仕事の後にいつものようにラブホテルで一緒に過ごしていると、那須川から突然、ピアスをプレゼントされる。ピアスを開けていない深愛だったが、嬉しさのあまり帰宅後、自分でこっそりピアスを開ける。後日、そのことを知った那須川は戸惑っているようだったが、その直後、那須川から食事に誘われる。深愛は、初めて那須川と外でデートできることを喜ぶが...そこで突然、那須川から別れを告げられてしまう。理由は、妻・那須川ふみこ(戸田菜穂)が病気を患ってしまったからで、深愛のせいではないというが、ショックを受ける深愛の耳にはそんな那須川の言葉は入らない。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-123_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250324030000 +0000" stop="20250324073000 +0000">
+		<title>泥濘の食卓 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>田舎町のスーパーで働く捻木深愛(齊藤京子)は、毒親である母・捻木美幸(筒井真理子)に抑圧されながら育ったため自己肯定感が低く、自分には何の取り柄もないから、せめて人には優しくしたいという思いで、日々、一生懸命働いていた。そんな深愛には、スーパーで働くことに楽しみが...スーパーの店長・那須川夏生(吉沢悠)と不倫関係にあったのだ。ある日、仕事の後にいつものようにラブホテルで一緒に過ごしていると、那須川から突然、ピアスをプレゼントされる。ピアスを開けていない深愛だったが、嬉しさのあまり帰宅後、自分でこっそりピアスを開ける。後日、そのことを知った那須川は戸惑っているようだったが、その直後、那須川から食事に誘われる。深愛は、初めて那須川と外でデートできることを喜ぶが...そこで突然、那須川から別れを告げられてしまう。理由は、妻・那須川ふみこ(戸田菜穂)が病気を患ってしまったからで、深愛のせいではないというが、ショックを受ける深愛の耳にはそんな那須川の言葉は入らない。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-123_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250324073000 +0000" stop="20250324141500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250324141500 +0000" stop="20250324180000 +0000">
+		<title>サブスク彼女 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>彼女のいる男性ばかりに好かれる女子大生のトモ(紺野彩夏)は、本命の彼女がいながらも“エモい恋愛”を求めてくるカズキ(柾木玲弥)に都合良く利用されてしまう自分自身に嫌気がさしていた。好きな時に呼び出して、所有はしてもらえない。うんざりする日々の中、トモは月額定額制の”サブスク彼女”というサービスを思い付く。
+それは、好きな彼女を選び、利用している間は好きな時に会いたい放題。解除すれば彼女を即終了というサービスだ。みずから“サブスク彼女”となったトモはサービスを広めるべく、SNSで自分と同じような境遇の女性を集い、思いつきのままサブスク彼女をスタートさせる。そんな矢先、トモに対して一途に好意を寄せる地元の男友達・コースケ(望月歩)と久しぶりに再会し、告白される展開に!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-16_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250324180000 +0000" stop="20250324181500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250324181500 +0000" stop="20250324220000 +0000">
+		<title>サブスク彼女 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>彼女のいる男性ばかりに好かれる女子大生のトモ(紺野彩夏)は、本命の彼女がいながらも“エモい恋愛”を求めてくるカズキ(柾木玲弥)に都合良く利用されてしまう自分自身に嫌気がさしていた。好きな時に呼び出して、所有はしてもらえない。うんざりする日々の中、トモは月額定額制の”サブスク彼女”というサービスを思い付く。
+それは、好きな彼女を選び、利用している間は好きな時に会いたい放題。解除すれば彼女を即終了というサービスだ。みずから“サブスク彼女”となったトモはサービスを広めるべく、SNSで自分と同じような境遇の女性を集い、思いつきのままサブスク彼女をスタートさせる。そんな矢先、トモに対して一途に好意を寄せる地元の男友達・コースケ(望月歩)と久しぶりに再会し、告白される展開に!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-16_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250324220000 +0000" stop="20250324221500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250324221500 +0000" stop="20250325040400 +0000">
+		<title>推しが上司になりまして 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>鈴木愛理・片寄涼太・ゆりやんレトリィバァ!人気ジレきゅんWEBコミックをドラマ化▼推し(片寄)が突然引退...どん底の瞳(鈴木)の前に推しが突然上司となって現れた!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-52_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250325040400 +0000" stop="20250325041900 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250325041900 +0000" stop="20250325100800 +0000">
+		<title>推しが上司になりまして 全話一挙【死ぬほど愛して3/27よる11時~スタート】</title>
+		<desc>鈴木愛理・片寄涼太・ゆりやんレトリィバァ!人気ジレきゅんWEBコミックをドラマ化▼推し(片寄)が突然引退...どん底の瞳(鈴木)の前に推しが突然上司となって現れた!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-52_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250325100800 +0000" stop="20250325160000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250325160000 +0000" stop="20250325170000 +0000">
+		<title>今夜、わたしはカラダで恋をする。全話一挙【新ドラマ3/27よる11時~スタート】</title>
+		<desc>ITベンチャーに勤める井川小夏(石田ニコル)はオープンな性格で男性経験も豊富。しかし、元恋人・大沼亮介(猪塚健太)のことが今も忘れられないでいる。
+ある日の仕事帰り、小夏は同僚たちとの飲み会で、元恋人の大沼と偶然に再会。付き合っていた頃の記憶が蘇る小夏だったが、大沼の後輩・田中翔馬(桜木那智)と一夜を過ごすこととなり...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-2_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250325170000 +0000" stop="20250325210400 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250325210400 +0000" stop="20250326025500 +0000">
+		<title>好きなオトコと別れたい 全話一挙【死ぬほど愛して明日よる11時~スタート】</title>
+		<desc>ダメ男に沼る!将来に不安な働くアラサー女子が魅惑的なダメ男から抜け出せないループな恋!共感度100%!リアルでもどかしい大人のラブコメ!出演:堀田茜&amp;毎熊克哉</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-53_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250326025500 +0000" stop="20250326030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250326030000 +0000" stop="20250326090000 +0000">
+		<title>好きなオトコと別れたい 全話一挙【死ぬほど愛して明日よる11時~スタート】</title>
+		<desc>ダメ男に沼る!将来に不安な働くアラサー女子が魅惑的なダメ男から抜け出せないループな恋!共感度100%!リアルでもどかしい大人のラブコメ!出演:堀田茜&amp;毎熊克哉</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-53_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250311150000 +0000" stop="20250311170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
