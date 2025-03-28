@@ -152,6 +152,10 @@
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
 	</channel>
+	<channel id="boxing">
+		<display-name>ボクシングチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
+	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -15163,7 +15167,7 @@ ABEMAでボートレースが観られる！ボートレースの発信拠点『
 	</programme>
 	<programme channel="abema-news" start="20250329050000 +0000" stop="20250329053000 +0000">
 		<title>インターンレスラー就職への道</title>
-		<desc>世界初のインターンレスラーとしてプロのリングでデビューした鈴木翼さん。高校時代陸上で日本1位になった身体能力を武器に、夢であったプロのリングに上がったが、理想と現実のギャップに苦悩。公務員に就職することを決断した理由とは。卒業まで1年2カ月密着した。</desc>
+		<desc>世界初のインターンレスラーとしてプロのリングでデビューした鈴木翼さん。中学時代陸上で日本1位になった身体能力を武器に、夢であったプロのリングに上がったが、理想と現実のギャップに苦悩。公務員に就職することを決断した理由とは。卒業まで1年2カ月密着した。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-21_s0_p375/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250329053000 +0000" stop="20250329060000 +0000">
@@ -15305,7 +15309,7 @@ ABEMAでボートレースが観られる！ボートレースの発信拠点『
 	</programme>
 	<programme channel="abema-news" start="20250330150000 +0000" stop="20250330153000 +0000">
 		<title>インターンレスラー就職への道</title>
-		<desc>世界初のインターンレスラーとしてプロのリングでデビューした鈴木翼さん。高校時代陸上で日本1位になった身体能力を武器に、夢であったプロのリングに上がったが、理想と現実のギャップに苦悩。公務員に就職することを決断した理由とは。卒業まで1年2カ月密着した。</desc>
+		<desc>世界初のインターンレスラーとしてプロのリングでデビューした鈴木翼さん。中学時代陸上で日本1位になった身体能力を武器に、夢であったプロのリングに上がったが、理想と現実のギャップに苦悩。公務員に就職することを決断した理由とは。卒業まで1年2カ月密着した。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-21_s0_p376/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250330153000 +0000" stop="20250330161000 +0000">
@@ -26608,6 +26612,217 @@ F2ランキング4位の岩佐歩夢。
 		<title>S.LEAGUE 24-25 ロングボード第2戦 DAY2 前半</title>
 		<desc>ロングボードのSリーグ第二戦。 2024年9月15日(日) ~ 9月16日(月) 予備日:17日 神奈川県茅ヶ崎市 茅ヶ崎パーク(ヘッドランドビーチ)にて行われた大会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s20_p3/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250321084500 +0000" stop="20250321150000 +0000">
+		<title>LIFETIME BOXING FIGHTS 26</title>
+		<desc>2025年3月21日に後楽園ホールで開催される「LIFETIME BOXING FIGHTS 26」をABEMAで無料生中継！
+
+▼試合予定
+メイン：由良謙神 vs ウ・ハンユン（62kg契約８回戦）【20時ゴング予定】
+セミ：パンナーポン・ケーオパウォン vs 菊池真琴（バンタム級６回戦）
+第四試合：パッドヨッド・キアットチャルンシリ vs 山本諒真（スーパーウェルター級６回戦）
+第三試合：髙橋覇琉斗 vs 堀内大（バンタム級４回戦）
+第二試合：山本晃弘 vs 名和祐輔（53kg契約４回戦）
+第一試合：大橋光希 vs ニパーポン・スタム（ミニマム級４回戦）
+※堤麗斗プロテストは【19:45前後】を予定しています
+
+▼出演
+実況：小出アキラ
+解説：堤駿斗
+ゲスト：井手美希</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/608-2_s10015_p1/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250321150000 +0000" stop="20250326040000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
+	</programme>
+	<programme channel="boxing" start="20250326040000 +0000" stop="20250326060000 +0000">
+		<title>井岡一翔 WBA世界スーパーフライ級タイトルマッチ決定会見</title>
+		<desc>王者マルティネスの急病により急遽試合中止となった、WBA世界スーパーフライ級タイトルマッチがついに実現決定！
+井岡一翔リベンジなるか？緊急記者会見をABEMAで独占生中継！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/608-2_s10016_p1/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250326060000 +0000" stop="20250328022000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
+	</programme>
+	<programme channel="boxing" start="20250328022000 +0000" stop="20250328025500 +0000">
+		<title>【世界戦2DAYS直前】亀田京之介 vs ルイス・ネリ</title>
+		<desc>2025年2月23日に行われた亀田京之介vsルイス・ネリ、Zanferによるボクシング興行をABEMAでお届け!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/592-3_s10_p30/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250328025500 +0000" stop="20250328032000 +0000">
+		<title>【3150×LUSHBOMU 2DAYS】若手注目選手の厳しいマッチメイクに注目</title>
+		<desc>2025年3月29日・30日に開催される「3150 × LUSHBOMU vol.4＆vol.5 ～2DAYS～」の会見の様子をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s230_p105/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250328032000 +0000" stop="20250328034000 +0000">
+		<title>【DAY1 MAIN】矢吹正道 vs アンヘル・アヤラ _矢吹二階級制覇を目指す</title>
+		<desc>2025年3月29日・30日に開催される「3150 × LUSHBOMU vol.4＆vol.5 ～2DAYS～」の会見の様子をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s230_p103/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250328034000 +0000" stop="20250328040000 +0000">
+		<title>【DAY2 MAIN】重岡優大 vs メルビン・ジェルサエム 王者奪還なるか？</title>
+		<desc>2025年3月29日・30日に開催される「3150 × LUSHBOMU vol.4＆vol.5 ～2DAYS～」の会見の様子をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s230_p104/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250328040000 +0000" stop="20250328070000 +0000">
+		<title>【前日計量・会見】3150 × LUSHBOMU 2DAYS</title>
+		<desc>今度の【3150 × LUSHBOMU】は2DAYS！
+3月29日・30日に愛知県国際展示場で開催されるボクシング × 音楽イベント「3150 × LUSHBOMU vol.4」の前日計量・会見の様子をABEMAで生配信！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s10017_p1/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250328070000 +0000" stop="20250328145000 +0000">
+		<title>【世界戦2DAYS直前】3150×LUSHBOMU vol.2</title>
+		<desc>2024年10月12日に愛知県国際展示場で行われた「3150×LUSHBOMU vol.2」をABEMAでお届け!実況西達彦,高柳謙一,解説重岡優大,亀田大毅,ゲスト山本千尋,リポーター奥村菜緒,シベナティ・ノンシンガ,矢吹正道,政所椋,アルビン・カミケ,ロンダン・アルデア,英豪,花田颯,デンマーク・ケビド,藤本翔大、宮里駿太,ピーラポン・ポンケア,上村健太,月田翔一郎,仲里健太</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s210_p5/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250328145000 +0000" stop="20250328223000 +0000">
+		<title>【世界戦2DAYS直前】3150FIGHT vol.7</title>
+		<desc>2023年10月7日に大田区総合体育館で行われた「3150FIGHT vol.7」をABEMAでお届け!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s150_p5/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250328223000 +0000" stop="20250328233000 +0000">
+		<title>【世界戦2DAYS直前】重岡優大vsメルビン・ジェルサレム(2024年)</title>
+		<desc>2024年3月31日に開催された「3150FIGHT vol.8」出場選手の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s170_p27/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250328233000 +0000" stop="20250329001000 +0000">
+		<title>【世界戦2DAYS直前】中川 麦茶vs亀田京之介(56kg契約)</title>
+		<desc>2023年8月11日に開催された「3150FIGHT vol.6」出場選手の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s130_p25/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250329001000 +0000" stop="20250329004500 +0000">
+		<title>【世界戦2DAYS直前】亀田京之介 vs ルイス・ネリ</title>
+		<desc>2025年2月23日に行われた亀田京之介vsルイス・ネリ、Zanferによるボクシング興行をABEMAでお届け!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/592-3_s10_p30/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250329004500 +0000" stop="20250329013000 +0000">
+		<title>【世界戦2DAYS直前】横山葵海vsデンマーク・ケビド(スーパー・フライ級)</title>
+		<desc>2024年12月21日に開催された「3150 × LUSHBOMU vol.3」の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s220_p15/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250329013000 +0000" stop="20250329022500 +0000">
+		<title>【世界戦2DAYS直前】シベナティ・ノンシンガvs矢吹正道</title>
+		<desc>2024年10月12日に開催された「3150 × LUSHBOMU vol.2」の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s210_p18/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250329022500 +0000" stop="20250329024000 +0000">
+		<title>【世界戦2DAYS直前】矢吹正道が自身のKOについて徹底分析！</title>
+		<desc>2025年3月29日・30日に開催される「3150 × LUSHBOMU vol.4＆vol.5 ～2DAYS～」の見どころをお届け</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s230_p500/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250329024000 +0000" stop="20250329034000 +0000">
+		<title>【重岡優大世界戦 直前】重岡優大vsサミュエル・サルバ(48.6kg契約)</title>
+		<desc>2024年8月24日に開催された「8.24 3150 ×  LUSHBOMU vol.1」出場選手の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s200_p16/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250329034000 +0000" stop="20250329040000 +0000">
+		<title>【DAY1 MAIN】矢吹正道 vs アンヘル・アヤラ _矢吹二階級制覇を目指す</title>
+		<desc>2025年3月29日・30日に開催される「3150 × LUSHBOMU vol.4＆vol.5 ～2DAYS～」の会見の様子をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s230_p103/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250329040000 +0000" stop="20250329150000 +0000">
+		<title>3150 × LUSHBOMU 2DAYS【DAY1】</title>
+		<desc>今度の【3150 × LUSHBOMU】は2DAYS！
+3月29日に愛知県国際展示場で開催されるボクシング × 音楽イベント「3150 × LUSHBOMU vol.4」の様子をABEMAで生配信！
+重岡優大選手はリベンジを果たし王者奪還することができるのか？メインは19時半ゴング予定！
+
+
+▼予定カード
+※メインのIBF世界フライ級タイトルマッチは19時半ゴング、
+　セミのOPBFスーパーフライ級タイトルマッチは18時10分ゴングを予定しています
+
+第１試合　ナタノン・トーンチャイ vs 入田 力斗（50.0kg契約 ６回戦）
+第２試合　花田 颯 vs エロゲ・グラ（スーパーフライ級 ８回戦）　
+第３試合　岡本 恭佑 vs マイケル・ダスマリナス（フェザー級 ８回戦）
+第４試合　ジョー・サンティシマ vs 英豪（スーパーフェザー級 ８回戦）
+第５試合　佐野 遥渉 vs ナッタポン・ジャンケーウ（バンタム級 ８回戦）
+第６試合　ジーメル・マグラモ vs 横山 葵海（OPBFスーパーフライ級タイトルマッチ 12回戦）
+第７試合　アンヘル・アヤラ vs 矢吹 正道（IBF世界フライ級タイトルマッチ 12回戦）
+
+
+▼キャスト
+実況：高柳 謙一 , 市川 勝也　
+解説：畑山 隆則 , 亀田 大毅
+ゲスト：山本 千尋
+レポーター：福田 典子</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s10018_p1/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250329150000 +0000" stop="20250329235500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
+	</programme>
+	<programme channel="boxing" start="20250329235500 +0000" stop="20250330001000 +0000">
+		<title>【重岡優大世界戦 直前】優大「俺のゲームプランは終わった」前回の負けを振り返る</title>
+		<desc>2025年3月29日・30日に開催される「3150 × LUSHBOMU vol.4＆vol.5 ～2DAYS～」の見どころをお届け</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s230_p499/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250330001000 +0000" stop="20250330001500 +0000">
+		<title>【重岡優大世界戦 直前】但馬ミツロ 12.21次戦決定</title>
+		<desc>2024年10月12日に開催された「3150 × LUSHBOMU vol.2」の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s210_p23/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250330001500 +0000" stop="20250330003000 +0000">
+		<title>【重岡優大世界戦 直前】但馬ミツロvsロスメン・ブリトー(復帰戦)</title>
+		<desc>2024年12月21日に開催された「3150 × LUSHBOMU vol.3」の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s220_p18/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250330003000 +0000" stop="20250330004500 +0000">
+		<title>【重岡優大世界戦 直前】アンジェロ・ベルトランvs亀田京之介</title>
+		<desc>2024年12月21日に開催された「3150 × LUSHBOMU vol.3」の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s220_p19/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250330004500 +0000" stop="20250330013000 +0000">
+		<title>【重岡優大世界戦 直前】亀田京之介 vs ルイス・ネリ</title>
+		<desc>2025年2月23日に行われた亀田京之介vsルイス・ネリ、Zanferによるボクシング興行をABEMAでお届け!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/592-3_s10_p30/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250330013000 +0000" stop="20250330014500 +0000">
+		<title>【世界戦2DAYS直前】矢吹正道が自身のKOについて徹底分析！</title>
+		<desc>2025年3月29日・30日に開催される「3150 × LUSHBOMU vol.4＆vol.5 ～2DAYS～」の見どころをお届け</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s230_p500/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250330014500 +0000" stop="20250330020000 +0000">
+		<title>【世界戦2DAYS直前】優大「俺のゲームプランは終わった」前回の負けを振り返る</title>
+		<desc>2025年3月29日・30日に開催される「3150 × LUSHBOMU vol.4＆vol.5 ～2DAYS～」の見どころをお届け</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s230_p499/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250330020000 +0000" stop="20250330030000 +0000">
+		<title>【重岡優大世界戦 直前】重岡優大vsメルビン・ジェルサレム(2024年)</title>
+		<desc>2024年3月31日に開催された「3150FIGHT vol.8」出場選手の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s170_p27/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250330030000 +0000" stop="20250330150000 +0000">
+		<title>3150 × LUSHBOMU 2DAYS【DAY2】</title>
+		<desc>今度の【3150 × LUSHBOMU】は2DAYS！
+3月30日に愛知県国際展示場で開催されるボクシング × 音楽イベント「3150 × LUSHBOMU vol.5」の様子をABEMAで生配信！
+矢吹正道選手、異例の2階級制覇となるか？メインは18時半ゴング予定！
+
+▼予定カード
+※メインのWBC世界ミニマム級タイトルマッチは18時半ゴング、
+　セミの但馬ミツロヘビー級６回戦は17時半ゴングを予定しています
+
+第１試合　宮川 竜成 vs ナトワット・マニーウォン（64.5kg契約 ８回戦）
+第２試合　イエシボラチ ナスイウラ vs 亀田 正毅（60.0kg契約 ６回戦）
+第３試合　辻 永遠 vs 梅津 奨利（バンタム級 ８回戦）
+第４試合　鈴木 健介 vs 佐々木 る玖（スーパーウエルター級 ８回戦）
+～MC BATTLE 本戦１回戦～
+第５試合　中川 麦茶 vs ナワポン・カイカンハ（スーパーバンタム級 ８回戦）
+～MC BATTLE 本戦２回戦～
+第６試合　但馬 ミツロ vs ギジェルモ・カサス（ヘビー級 ６回戦）
+第７試合　メルビン・ジェルサレム vs 重岡 優大（WBC世界ミニマム級タイトルマッチ 12回戦）
+
+
+▼キャスト
+実況：高柳 謙一 , 西 達彦
+解説：内山 高志 , 亀田 大毅
+ゲスト：山本 千尋
+レポーター：福田 典子</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s10019_p1/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250320130000 +0000" stop="20250320152500 +0000">
 		<title>【再】WWE RAW×ABEMA#39</title>
