@@ -76,6 +76,10 @@
 		<display-name>北斗の拳チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/hokuto-no-ken/logo.png" />
 	</channel>
+	<channel id="gundam">
+		<display-name>ガンダム特集</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</channel>
 	<channel id="80s-anime-1">
 		<display-name>なつかしアニメ80's</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png" />
@@ -5079,12 +5083,9 @@ MCに岩井勇気さん、アシスタントMCに徳井青空さん、ゲスト�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/169-147_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="lovecomedy-anime" start="20250403170000 +0000" stop="20250403230000 +0000">
-		<title>俺の彼女と幼なじみが修羅場すぎる #1〜13【無料ビデオ1週間】</title>
-		<desc>成績優秀で恋愛アンチな高校生・季堂鋭太は、幼なじみの春咲千和と普通の高校生活を過ごしていた。
-しかしある日、鋭太は校内一の美人・夏川真涼から告白されてしまう。
-いぶかる鋭太に「あなたが好きだから」と告げる真涼。
-その真意とは……？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-6_s0_p1/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/lovecomedy-anime/logo.png" />
 	</programme>
 	<programme channel="lovecomedy-anime" start="20250403230000 +0000" stop="20250404050000 +0000">
 		<title>沖縄で好きになった子が方言すぎてツラすぎる #1〜12【無料ビデオ1週間】</title>
@@ -6532,15 +6533,10 @@ MCに岩井勇気さん、アシスタントMCに徳井青空さん、ゲスト�
 		<desc>文化放送「超！A&amp;G＋」にて、毎週火曜日に放送中の声優・鈴村健一さんによる1人しゃべり生放送番組『鈴村健一のラジベース』の特別版としてお届けする、文化放送「超！A&amp;G＋」と「ABEMA」のアニメチャンネルによる共同制作・コラボ番組『鈴村健一のラジベースDUO』。パーソナリティを務める鈴村さんとゲストによるトークをメインに、ここでしか見られないオリジナル番組をお届けします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p5/thumb001.png" />
 	</programme>
-	<programme channel="anime-live" start="20250404163000 +0000" stop="20250404170000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
-	</programme>
-	<programme channel="anime-live" start="20250404170000 +0000" stop="20250404210000 +0000">
-		<title>スーパーウィングス #21〜39【無料ビデオ1週間】</title>
-		<desc>お届け先はアメリカ、ワイオミング州。開拓時代のテーマパークの保安官スザンナに投げ縄を届けたジェットは助手にしてもらう。機関車のケイトが石炭による咳で困っていたため、ディジーとドニーが太陽光発電に改造。ケイトは子どもたちを乗せ走り出すが強い日差しで暴走し崖へと向かってしまう。そこでスザンナとジェットたちが協力し、新たな線路と投げ縄でケイトたちを救うのだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-90_s1_p21/thumb001.png" />
+	<programme channel="anime-live" start="20250404163000 +0000" stop="20250404210000 +0000">
+		<title>スーパーウィングス #19〜39【無料ビデオ1週間】</title>
+		<desc>キューバに住む野球好きの男の子フリオに届け物をすることになったジェット。フリオが一度もホームランを打てたことがないと聞き、一緒に練習に行く。ホームランを打つ瞬間を記録しておきたいと思ったジェットは宇宙で作業中のアストラにビデオに残して欲しいとお願いする。アストラがセッティングを始めようとした時、キューバに向かって飛んでいく隕石を発見。アストラの力で破壊しようとするが失敗して隕石は二つに割れてしまう。グランド・アルバートが招集され、彼のサイズ変更カメラで巨大化したジェットとフリオ。ジェットが隕石のひとつをキャッチ、フリオがもうひとつを地球外ホームランで打ち返し、キューバは無事に救われる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-90_s1_p19/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250404210000 +0000" stop="20250404230500 +0000">
 		<title>「真の仲間」2nd #1〜5【無料ビデオ2週間】</title>
@@ -10897,6 +10893,327 @@ MCに岩井勇気さん、アシスタントMCに徳井青空さん、ゲスト�
 		<title>北斗の拳2 #140〜152【無料ビデオ1週間】</title>
 		<desc>シャチは、安全な場所までケンシロウを運び込む。その頃、シャチとケンシロウの手配書を受け取った修羅の郡将ケインは、第三の羅将の地位を欲してシャチたちの捜索に取り掛かっていた。そしてついにシャチが辿り付いた小屋を調べだしてしまう。小屋には世話係の老人しかいない。そこに手下の修羅たちがおしかけて……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-22_s2_p140/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250323120000 +0000" stop="20250323233000 +0000">
+		<title>機動戦士ガンダム 水星の魔女 #0〜24【無料ビデオ1週間】</title>
+		<desc>小惑星に建造されたフロント、フォールクヴァング。
+ヴァナディース機関のラボでは、ガンダム・ルブリスの稼働実験が行われていた。
+
+評議会から課された条件をクリア出来ないままのルブリスに、
+焦燥感を募らせるテストパイロット、エルノラ・サマヤ。
+
+――その日は、彼女の娘が4歳を迎える誕生日だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-158_s1_p100/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250323233000 +0000" stop="20250324050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250324050000 +0000" stop="20250324090000 +0000">
+		<title>機動武闘伝Gガンダム #1〜8【無料ビデオ72時間】</title>
+		<desc>第13回大会が開幕されようとする日、ドモンはマフィアが実権を握るネオイタリアのローマに現れた。彼は酒場で暴れるマフィア一派を叩きのめした事で、ネオイタリアのガンダムファイターでありマフィアのボスでもあるミケロの恨みを買ってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250324090000 +0000" stop="20250324130000 +0000">
+		<title>機動武闘伝Gガンダム #1〜8【無料ビデオ72時間】</title>
+		<desc>第13回大会が開幕されようとする日、ドモンはマフィアが実権を握るネオイタリアのローマに現れた。彼は酒場で暴れるマフィア一派を叩きのめした事で、ネオイタリアのガンダムファイターでありマフィアのボスでもあるミケロの恨みを買ってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250324130000 +0000" stop="20250324170000 +0000">
+		<title>機動武闘伝Gガンダム #1〜8【無料ビデオ72時間】</title>
+		<desc>第13回大会が開幕されようとする日、ドモンはマフィアが実権を握るネオイタリアのローマに現れた。彼は酒場で暴れるマフィア一派を叩きのめした事で、ネオイタリアのガンダムファイターでありマフィアのボスでもあるミケロの恨みを買ってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250324170000 +0000" stop="20250325050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250325050000 +0000" stop="20250325090000 +0000">
+		<title>機動武闘伝Gガンダム #9〜16【無料ビデオ72時間】</title>
+		<desc>ドモンの次なる相手は、ガンダムファイト連続優勝の記録を持つベテランファイター、ネオイングランドのチャップマン！ だが、彼と対戦したジョルジュは、卑怯な手段で勝とうとする極悪ファイターだと言う。果たしてチャップマンの真実の姿とは？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250325090000 +0000" stop="20250325130000 +0000">
+		<title>機動武闘伝Gガンダム #9〜16【無料ビデオ72時間】</title>
+		<desc>ドモンの次なる相手は、ガンダムファイト連続優勝の記録を持つベテランファイター、ネオイングランドのチャップマン！ だが、彼と対戦したジョルジュは、卑怯な手段で勝とうとする極悪ファイターだと言う。果たしてチャップマンの真実の姿とは？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250325130000 +0000" stop="20250325170000 +0000">
+		<title>機動武闘伝Gガンダム #9〜16【無料ビデオ72時間】</title>
+		<desc>ドモンの次なる相手は、ガンダムファイト連続優勝の記録を持つベテランファイター、ネオイングランドのチャップマン！ だが、彼と対戦したジョルジュは、卑怯な手段で勝とうとする極悪ファイターだと言う。果たしてチャップマンの真実の姿とは？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250325170000 +0000" stop="20250326050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250326050000 +0000" stop="20250326090000 +0000">
+		<title>機動武闘伝Gガンダム #17〜24【無料ビデオ72時間】</title>
+		<desc>新宿から忽然と消えたキョウジとデビルガンダムを追い求めるドモン。その行く手に待ち受けるマスターの恐ろしい罠。さらにネオドイツのファイター、シュバルツまでもが立ちはだかり、ガンダムシュピーゲルでファイトを挑んできた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p17/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250326090000 +0000" stop="20250326130000 +0000">
+		<title>機動武闘伝Gガンダム #17〜24【無料ビデオ72時間】</title>
+		<desc>新宿から忽然と消えたキョウジとデビルガンダムを追い求めるドモン。その行く手に待ち受けるマスターの恐ろしい罠。さらにネオドイツのファイター、シュバルツまでもが立ちはだかり、ガンダムシュピーゲルでファイトを挑んできた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p17/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250326130000 +0000" stop="20250326170000 +0000">
+		<title>機動武闘伝Gガンダム #17〜24【無料ビデオ72時間】</title>
+		<desc>新宿から忽然と消えたキョウジとデビルガンダムを追い求めるドモン。その行く手に待ち受けるマスターの恐ろしい罠。さらにネオドイツのファイター、シュバルツまでもが立ちはだかり、ガンダムシュピーゲルでファイトを挑んできた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p17/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250326170000 +0000" stop="20250327050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250327050000 +0000" stop="20250327090000 +0000">
+		<title>機動武闘伝Gガンダム #25〜32【無料ビデオ72時間】</title>
+		<desc>ガンダムファイト決勝大会がいよいよスタート。ドモンの新型機ゴッドガンダムを初めとする世界各国の強豪ガンダム達がネオ香港に集まった。しかしそこには、驚くべきファイターまでもが姿を見せた……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p25/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250327090000 +0000" stop="20250327130000 +0000">
+		<title>機動武闘伝Gガンダム #25〜32【無料ビデオ72時間】</title>
+		<desc>ガンダムファイト決勝大会がいよいよスタート。ドモンの新型機ゴッドガンダムを初めとする世界各国の強豪ガンダム達がネオ香港に集まった。しかしそこには、驚くべきファイターまでもが姿を見せた……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p25/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250327130000 +0000" stop="20250327170000 +0000">
+		<title>機動武闘伝Gガンダム #25〜32【無料ビデオ72時間】</title>
+		<desc>ガンダムファイト決勝大会がいよいよスタート。ドモンの新型機ゴッドガンダムを初めとする世界各国の強豪ガンダム達がネオ香港に集まった。しかしそこには、驚くべきファイターまでもが姿を見せた……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p25/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250327170000 +0000" stop="20250328050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250328050000 +0000" stop="20250328090000 +0000">
+		<title>機動武闘伝Gガンダム #33〜40【無料ビデオ72時間】</title>
+		<desc>ジョルジュの次なる対戦相手は、DG細胞の力で驚異の復活を遂げたチャップマン。さらに、悪魔の手先はファイト中にバリア・コントロール・センターを占拠。マリアルイゼたちネオフランス・クルーを守るためジョルジュは窮地に立たされる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p33/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250328090000 +0000" stop="20250328130000 +0000">
+		<title>機動武闘伝Gガンダム #33〜40【無料ビデオ72時間】</title>
+		<desc>ジョルジュの次なる対戦相手は、DG細胞の力で驚異の復活を遂げたチャップマン。さらに、悪魔の手先はファイト中にバリア・コントロール・センターを占拠。マリアルイゼたちネオフランス・クルーを守るためジョルジュは窮地に立たされる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p33/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250328130000 +0000" stop="20250328170000 +0000">
+		<title>機動武闘伝Gガンダム #33〜40【無料ビデオ72時間】</title>
+		<desc>ジョルジュの次なる対戦相手は、DG細胞の力で驚異の復活を遂げたチャップマン。さらに、悪魔の手先はファイト中にバリア・コントロール・センターを占拠。マリアルイゼたちネオフランス・クルーを守るためジョルジュは窮地に立たされる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p33/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250328170000 +0000" stop="20250329043000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250329043000 +0000" stop="20250329090000 +0000">
+		<title>機動武闘伝Gガンダム #41〜49【無料ビデオ72時間】</title>
+		<desc>決勝大会もいよいよ大詰め。最終決戦の地、ランタオ島ではドモン達が激しいファイトを展開する。勝利の栄冠を手にするのは果たして一体誰か？ シュバルツがドモンに告げた島の秘密、それはあの恐ろしき悪魔の復活のことだった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p41/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250329090000 +0000" stop="20250329133000 +0000">
+		<title>機動武闘伝Gガンダム #41〜49【無料ビデオ72時間】</title>
+		<desc>決勝大会もいよいよ大詰め。最終決戦の地、ランタオ島ではドモン達が激しいファイトを展開する。勝利の栄冠を手にするのは果たして一体誰か？ シュバルツがドモンに告げた島の秘密、それはあの恐ろしき悪魔の復活のことだった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p41/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250329133000 +0000" stop="20250329180000 +0000">
+		<title>機動武闘伝Gガンダム #41〜49【無料ビデオ72時間】</title>
+		<desc>決勝大会もいよいよ大詰め。最終決戦の地、ランタオ島ではドモン達が激しいファイトを展開する。勝利の栄冠を手にするのは果たして一体誰か？ シュバルツがドモンに告げた島の秘密、それはあの恐ろしき悪魔の復活のことだった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p41/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250329180000 +0000" stop="20250330043000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250330043000 +0000" stop="20250330090000 +0000">
+		<title>新機動戦記ガンダムＷ #1〜9【無料ビデオ72時間】</title>
+		<desc>5体のMSが地球へと降下。その1体であるウイングはOZのゼクスに撃墜されてしまう。外務次官の娘リリーナは漂着した操縦者ヒイロを発見するが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250330090000 +0000" stop="20250330133000 +0000">
+		<title>新機動戦記ガンダムＷ #1〜9【無料ビデオ72時間】</title>
+		<desc>5体のMSが地球へと降下。その1体であるウイングはOZのゼクスに撃墜されてしまう。外務次官の娘リリーナは漂着した操縦者ヒイロを発見するが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250330133000 +0000" stop="20250330180000 +0000">
+		<title>新機動戦記ガンダムＷ #1〜9【無料ビデオ72時間】</title>
+		<desc>5体のMSが地球へと降下。その1体であるウイングはOZのゼクスに撃墜されてしまう。外務次官の娘リリーナは漂着した操縦者ヒイロを発見するが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250330180000 +0000" stop="20250331050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250331050000 +0000" stop="20250331090000 +0000">
+		<title>新機動戦記ガンダムＷ #10〜17【無料ビデオ72時間】</title>
+		<desc>宇宙用MSトーラスのシベリア基地輸送計画を知り、出撃するガンダムたち。だがそれはOZによる陽動作戦だった。宇宙要塞バルジの照準をコロニーに向けさせ、降伏を迫るレディ・アン。ヒイロはついにウイングの自爆を決意する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p10/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250331090000 +0000" stop="20250331130000 +0000">
+		<title>新機動戦記ガンダムＷ #10〜17【無料ビデオ72時間】</title>
+		<desc>宇宙用MSトーラスのシベリア基地輸送計画を知り、出撃するガンダムたち。だがそれはOZによる陽動作戦だった。宇宙要塞バルジの照準をコロニーに向けさせ、降伏を迫るレディ・アン。ヒイロはついにウイングの自爆を決意する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p10/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250331130000 +0000" stop="20250331170000 +0000">
+		<title>新機動戦記ガンダムＷ #10〜17【無料ビデオ72時間】</title>
+		<desc>宇宙用MSトーラスのシベリア基地輸送計画を知り、出撃するガンダムたち。だがそれはOZによる陽動作戦だった。宇宙要塞バルジの照準をコロニーに向けさせ、降伏を迫るレディ・アン。ヒイロはついにウイングの自爆を決意する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p10/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250331170000 +0000" stop="20250401050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250401050000 +0000" stop="20250401090000 +0000">
+		<title>新機動戦記ガンダムＷ #18〜25【無料ビデオ72時間】</title>
+		<desc>財団は無人MS(モビルスーツ)・モビルドールの導入に本腰を入れ始めた。一方、戦士としての個人的感情からガンダムと戦ってきたと悟ったゼクスはOZとの、そして友であるトレーズとの決別をはかる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p18/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250401090000 +0000" stop="20250401130000 +0000">
+		<title>新機動戦記ガンダムＷ #18〜25【無料ビデオ72時間】</title>
+		<desc>財団は無人MS(モビルスーツ)・モビルドールの導入に本腰を入れ始めた。一方、戦士としての個人的感情からガンダムと戦ってきたと悟ったゼクスはOZとの、そして友であるトレーズとの決別をはかる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p18/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250401130000 +0000" stop="20250401170000 +0000">
+		<title>新機動戦記ガンダムＷ #18〜25【無料ビデオ72時間】</title>
+		<desc>財団は無人MS(モビルスーツ)・モビルドールの導入に本腰を入れ始めた。一方、戦士としての個人的感情からガンダムと戦ってきたと悟ったゼクスはOZとの、そして友であるトレーズとの決別をはかる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p18/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250401170000 +0000" stop="20250402050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250402050000 +0000" stop="20250402090000 +0000">
+		<title>新機動戦記ガンダムＷ #26〜33【無料ビデオ72時間】</title>
+		<desc>トレーズを支持する一部の兵士たちが財団に反旗を翻した。OZを二分する内乱は地球と宇宙に広がっていく。その頃、ウイングゼロを回収した月面基地では戦闘データの調査が開始されたが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p26/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250402090000 +0000" stop="20250402130000 +0000">
+		<title>新機動戦記ガンダムＷ #26〜33【無料ビデオ72時間】</title>
+		<desc>トレーズを支持する一部の兵士たちが財団に反旗を翻した。OZを二分する内乱は地球と宇宙に広がっていく。その頃、ウイングゼロを回収した月面基地では戦闘データの調査が開始されたが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p26/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250402130000 +0000" stop="20250402170000 +0000">
+		<title>新機動戦記ガンダムＷ #26〜33【無料ビデオ72時間】</title>
+		<desc>トレーズを支持する一部の兵士たちが財団に反旗を翻した。OZを二分する内乱は地球と宇宙に広がっていく。その頃、ウイングゼロを回収した月面基地では戦闘データの調査が開始されたが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p26/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250402170000 +0000" stop="20250403050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250403050000 +0000" stop="20250403090000 +0000">
+		<title>新機動戦記ガンダムＷ #34〜41【無料ビデオ72時間】</title>
+		<desc>ルクセンブルクの古城で、トレーズから新型MSガンダムエピオンを託されるヒイロ。だが、危険なシステムが再び彼を暴走させる。その頃宇宙では、ゼクスがOZ軍からゼロを奪取していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p34/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250403090000 +0000" stop="20250403130000 +0000">
+		<title>新機動戦記ガンダムＷ #34〜41【無料ビデオ72時間】</title>
+		<desc>ルクセンブルクの古城で、トレーズから新型MSガンダムエピオンを託されるヒイロ。だが、危険なシステムが再び彼を暴走させる。その頃宇宙では、ゼクスがOZ軍からゼロを奪取していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p34/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250403130000 +0000" stop="20250403170000 +0000">
+		<title>新機動戦記ガンダムＷ #34〜41【無料ビデオ72時間】</title>
+		<desc>ルクセンブルクの古城で、トレーズから新型MSガンダムエピオンを託されるヒイロ。だが、危険なシステムが再び彼を暴走させる。その頃宇宙では、ゼクスがOZ軍からゼロを奪取していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p34/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250403170000 +0000" stop="20250404060000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250404060000 +0000" stop="20250404100000 +0000">
+		<title>新機動戦記ガンダムＷ #42〜49【無料ビデオ72時間】</title>
+		<desc>損傷したアルトロンとともに、サリィのシャトルに救出された五飛。ヒイロの勧めでゼロに乗った彼は、自身の進むべき未来を知る。その頃、トレーズは意識不明のレディ・アンと再会していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p42/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250404100000 +0000" stop="20250404113000 +0000">
+		<title>新機動戦記ガンダムW Endless Waltz #1〜3【無料ビデオ72時間】</title>
+		<desc>A.C.196年…地球国家軍と革命軍ホワイトファングの戦いが終結して1年。五飛を除き、平和な世界には必要なくなったガンダムを処分しようとするカトルたち。一方、地球ではレディ・アン指導のもと「プリベンター」が組織された。そんな時、リリーナがマリーメイアを元首とするマリーメイア軍に誘拐されてしまい…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-130_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250404113000 +0000" stop="20250404153000 +0000">
+		<title>新機動戦記ガンダムＷ #42〜49【無料ビデオ72時間】</title>
+		<desc>損傷したアルトロンとともに、サリィのシャトルに救出された五飛。ヒイロの勧めでゼロに乗った彼は、自身の進むべき未来を知る。その頃、トレーズは意識不明のレディ・アンと再会していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p42/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250404153000 +0000" stop="20250404170000 +0000">
+		<title>新機動戦記ガンダムW Endless Waltz #1〜3【無料ビデオ72時間】</title>
+		<desc>A.C.196年…地球国家軍と革命軍ホワイトファングの戦いが終結して1年。五飛を除き、平和な世界には必要なくなったガンダムを処分しようとするカトルたち。一方、地球ではレディ・アン指導のもと「プリベンター」が組織された。そんな時、リリーナがマリーメイアを元首とするマリーメイア軍に誘拐されてしまい…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-130_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250404170000 +0000" stop="20250405013000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250405013000 +0000" stop="20250405053000 +0000">
+		<title>新機動戦記ガンダムＷ #42〜49【無料ビデオ72時間】</title>
+		<desc>損傷したアルトロンとともに、サリィのシャトルに救出された五飛。ヒイロの勧めでゼロに乗った彼は、自身の進むべき未来を知る。その頃、トレーズは意識不明のレディ・アンと再会していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p42/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250405053000 +0000" stop="20250405070000 +0000">
+		<title>新機動戦記ガンダムW Endless Waltz #1〜3【無料ビデオ72時間】</title>
+		<desc>A.C.196年…地球国家軍と革命軍ホワイトファングの戦いが終結して1年。五飛を除き、平和な世界には必要なくなったガンダムを処分しようとするカトルたち。一方、地球ではレディ・アン指導のもと「プリベンター」が組織された。そんな時、リリーナがマリーメイアを元首とするマリーメイア軍に誘拐されてしまい…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-130_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250405070000 +0000" stop="20250405110000 +0000">
+		<title>機動戦士Ζガンダム #1〜8【無料ビデオ72時間】</title>
+		<desc>宇宙世紀0087年、シャアはクワトロと名前を変え、反連邦組織エゥーゴに参加していた。潜入したコロニーで、彼は黒いガンダムを目撃する。一方、カミーユ少年は、憲兵から尋問中、ガンダム墜落の混乱に乗じて脱出した。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-62_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250405110000 +0000" stop="20250405150000 +0000">
+		<title>機動戦士Ζガンダム #1〜8【無料ビデオ72時間】</title>
+		<desc>宇宙世紀0087年、シャアはクワトロと名前を変え、反連邦組織エゥーゴに参加していた。潜入したコロニーで、彼は黒いガンダムを目撃する。一方、カミーユ少年は、憲兵から尋問中、ガンダム墜落の混乱に乗じて脱出した。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-62_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250405150000 +0000" stop="20250405190000 +0000">
+		<title>機動戦士Ζガンダム #1〜8【無料ビデオ72時間】</title>
+		<desc>宇宙世紀0087年、シャアはクワトロと名前を変え、反連邦組織エゥーゴに参加していた。潜入したコロニーで、彼は黒いガンダムを目撃する。一方、カミーユ少年は、憲兵から尋問中、ガンダム墜落の混乱に乗じて脱出した。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-62_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250405190000 +0000" stop="20250405220000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250405220000 +0000" stop="20250406013000 +0000">
+		<title>機動戦士Ζガンダム #9〜15【無料ビデオ72時間】</title>
+		<desc>ジャブローに到着したレコアは、危ういところをカイに助けられた。一方、カミーユはミーティングに遅刻し、ウォンに「修正」という名目の鉄拳制裁を食らった。エゥーゴは、ティターンズの戦艦奪取作戦を実行する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-62_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250406013000 +0000" stop="20250406050000 +0000">
+		<title>機動戦士ガンダム #1〜7【無料ビデオ72時間】</title>
+		<desc>宇宙世紀0079。ジオン公国の独立戦争で劣勢に陥った連邦軍は新鋭モビルスーツの開発と運用テストを“サイド7”で行っていた。それを察知したジオン公国軍のシャア・アズナブル少佐は偵察を差し向ける。その中の一人が軍功を焦り砲撃を開始。戦火に巻きこまれたアムロ・レイは、モビルスーツ“ガンダム”に乗りこむ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250406050000 +0000" stop="20250406083000 +0000">
+		<title>機動戦士Ζガンダム #9〜15【無料ビデオ72時間】</title>
+		<desc>ジャブローに到着したレコアは、危ういところをカイに助けられた。一方、カミーユはミーティングに遅刻し、ウォンに「修正」という名目の鉄拳制裁を食らった。エゥーゴは、ティターンズの戦艦奪取作戦を実行する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-62_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250406083000 +0000" stop="20250406120000 +0000">
+		<title>機動戦士ガンダム #1〜7【無料ビデオ72時間】</title>
+		<desc>宇宙世紀0079。ジオン公国の独立戦争で劣勢に陥った連邦軍は新鋭モビルスーツの開発と運用テストを“サイド7”で行っていた。それを察知したジオン公国軍のシャア・アズナブル少佐は偵察を差し向ける。その中の一人が軍功を焦り砲撃を開始。戦火に巻きこまれたアムロ・レイは、モビルスーツ“ガンダム”に乗りこむ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250406120000 +0000" stop="20250406153000 +0000">
+		<title>機動戦士ガンダム #1〜7【無料ビデオ72時間】</title>
+		<desc>宇宙世紀0079。ジオン公国の独立戦争で劣勢に陥った連邦軍は新鋭モビルスーツの開発と運用テストを“サイド7”で行っていた。それを察知したジオン公国軍のシャア・アズナブル少佐は偵察を差し向ける。その中の一人が軍功を焦り砲撃を開始。戦火に巻きこまれたアムロ・レイは、モビルスーツ“ガンダム”に乗りこむ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250406153000 +0000" stop="20250406190000 +0000">
+		<title>機動戦士Ζガンダム #9〜15【無料ビデオ72時間】</title>
+		<desc>ジャブローに到着したレコアは、危ういところをカイに助けられた。一方、カミーユはミーティングに遅刻し、ウォンに「修正」という名目の鉄拳制裁を食らった。エゥーゴは、ティターンズの戦艦奪取作戦を実行する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-62_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="80s-anime-1" start="20250323111700 +0000" stop="20250323172500 +0000">
 		<title>美味しんぼ #97～108【無料ビデオ1週間】</title>
@@ -15754,7 +16071,7 @@ AIの最終進化は…神…？
 今夜はモンハンスペシャル！モンハン愛の止まらない限界オタクたちが、プレイステーション®5で最新作の「モンスターハンターワイルズ」を遊びつくす！
 【楽曲提供】OWV/DXTEEN
 【協力】プレイステーション®</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p130/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-293_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250402124500 +0000" stop="20250403010000 +0000">
 		<title>No programme</title>
@@ -26861,9 +27178,12 @@ EX風林火山vs 渋谷ABEMAS vs TEAM RAIDEN / 雷電vs U-NEXT Pirates</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-22_s60_p11/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250405073000 +0000" stop="20250405080000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
+		<title>このあと5時から 関東B VS 中国・四国！！ABEMA地域対抗戦2025</title>
+		<desc>『地域対抗戦』は、将棋連盟100周年企画として、“地域を背負う“をコンセプトに2024年より開催された、「ABEMA」オリジナルの団体戦です。昨年に引き続き、屋敷伸之九段(北海道・東北)、羽生善治九段(関東A)、渡辺明九段(関東B)、杉本昌隆八段(中部)、谷川浩司十七世名人(関西A)、畠山鎮八段(関西B)、山崎隆之八段(中国・四国)、深浦康市(九州)の8名が「地域チーム」の監督に就任。それぞれの地域を背負い、チームを率いていきます。
+今回の『地域対抗戦 2025』では対戦方式を一新し、監督と大会出場登録棋士の5人が登場するステージ1、勝利した棋士だけが出場するステージ2の二段階方式を採用することになりました。そして昨年に続き、対局ルールは、羽生善治九段の着想から作られた「AbemaTVルール」で対局を行います。
+「AbemaTVルール」は、持ち時間5分で開始し、1手指すごとに5秒が加算、持ち時間が切れると負けとなるフィッシャールールを採用しており、1対局約30分と初心者の方でも楽しみやすいスピーディーな展開が見所です。
+※段位は収録当時のものになります</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/288-41_s10_p601/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250405080000 +0000" stop="20250405150000 +0000">
 		<title>ABEMA地域対抗戦 準決勝 第一試合 &lt;チーム関東B VS チーム中国・四国&gt;</title>
