@@ -148,6 +148,10 @@
 		<display-name>MOTOR SPORTチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
 	</channel>
+	<channel id="world-sports-1">
+		<display-name>SPORTS LIVE1 チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -1702,13 +1706,15 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 		<desc>人を傷つける者、物を壊す者、悪意を持ち込む者
 何人も例外なくボウフウリンが粛清する――！
 
-偏差値は最底辺、ケンカは最強。超不良校として名高い、風鈴（ふうりん）高校。
+偏差値は最底辺、ケンカは最強。超不良校として名高い、風鈴(ふうりん)高校。
 その「てっぺん」を獲るため、街の“外”からやってきた高校1年生・桜遥。
-しかし、現在の風鈴高校は“防風鈴”（ボウフウリン）と名付けられ街を守る集団となっていた。
+しかし、現在の風鈴高校は“防風鈴(ボウフウリン)”と名付けられ街を守る集団となっていた。
 
-仲間や街の人々との触れ合いを通して、少しずつ「てっぺん」のあり方が変わり始めた桜。
+仲間や街の人々との触れ合いを通して、
+少しずつ「てっぺん」のあり方が変わり始めた桜。
 新たな仲間、新たな敵との出会い――
-級長として“守るために闘う”桜の英雄伝説、次なるステージへ！</desc>
+級長として“守るために闘う”桜の英雄伝説、
+次なるステージへ！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p51/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250410172800 +0000" stop="20250410173000 +0000">
@@ -2054,13 +2060,15 @@ MCに岩井勇気さん、アシスタントMCに徳井青空さん、ゲスト�
 		<desc>人を傷つける者、物を壊す者、悪意を持ち込む者
 何人も例外なくボウフウリンが粛清する――！
 
-偏差値は最底辺、ケンカは最強。超不良校として名高い、風鈴（ふうりん）高校。
+偏差値は最底辺、ケンカは最強。超不良校として名高い、風鈴(ふうりん)高校。
 その「てっぺん」を獲るため、街の“外”からやってきた高校1年生・桜遥。
-しかし、現在の風鈴高校は“防風鈴”（ボウフウリン）と名付けられ街を守る集団となっていた。
+しかし、現在の風鈴高校は“防風鈴(ボウフウリン)”と名付けられ街を守る集団となっていた。
 
-仲間や街の人々との触れ合いを通して、少しずつ「てっぺん」のあり方が変わり始めた桜。
+仲間や街の人々との触れ合いを通して、
+少しずつ「てっぺん」のあり方が変わり始めた桜。
 新たな仲間、新たな敵との出会い――
-級長として“守るために闘う”桜の英雄伝説、次なるステージへ！</desc>
+級長として“守るために闘う”桜の英雄伝説、
+次なるステージへ！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p51/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250412163000 +0000" stop="20250412170000 +0000">
@@ -5288,9 +5296,12 @@ MCに岩井勇気さん、アシスタントMCに徳井青空さん、ゲスト�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-253_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250408142700 +0000" stop="20250408143000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
+		<title>ダイキン空気予報 4/8</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p8/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250408143000 +0000" stop="20250408203000 +0000">
 		<title>ダンジョン飯 #13～24【無料ビデオ2週間】</title>
@@ -5436,9 +5447,10 @@ MCに岩井勇気さん、アシスタントMCに徳井青空さん、ゲスト�
 	</programme>
 	<programme channel="anime-live" start="20250411163000 +0000" stop="20250411170000 +0000">
 		<title>小林千晃のPARTY×PARTY #1</title>
-		<desc>この番組は、小林千晃がオーガナイザーを務め、
-リスナーのみなさんと作り上げていくパーティプログラムです。
-party peopleのみなさんも、そうじゃないみなさんも一緒に盛り上がっていきましょう！</desc>
+		<desc>文化放送とABEMAでお届けする、声優・小林千晃さんの1人しゃべり番組「小林千晃のPARTY×PARTY」！
+この番組は、小林千晃がオーガナイザーを務め、リスナーのみなさんと作り上げていくパーティプログラムです。
+party peopleのみなさんも、そうじゃないみなさんも一緒に盛り上がっていきましょう！
+こちらは2025年4月11日（金）に放送の第1回です。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p4/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250411170000 +0000" stop="20250411230000 +0000">
@@ -7789,9 +7801,12 @@ MCに岩井勇気さん、アシスタントMCに徳井青空さん、ゲスト�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-50_s1_p939/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20250408120000 +0000" stop="20250408120300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 4/8</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p8/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20250408120300 +0000" stop="20250408131800 +0000">
 		<title>ドラえもん #939～944【無料ビデオ1週間】</title>
@@ -12800,9 +12815,12 @@ Supported by 株式会社KINUJO</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250408114100 +0000" stop="20250408114400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 4/8</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250408114400 +0000" stop="20250408125700 +0000">
 		<title>善意の競争 第15〜最終話</title>
@@ -12810,9 +12828,12 @@ Supported by 株式会社KINUJO</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-88_s1_p15/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250408125700 +0000" stop="20250408130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 4/8</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250408130000 +0000" stop="20250408150000 +0000">
 		<title>【日本初・独占配信】ホ食堂～時空を超えた恋のシェフ 第1〜2話</title>
@@ -13084,9 +13105,13 @@ Supported by 株式会社KINUJO</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-53_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250409213000 +0000" stop="20250409230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>死ぬほど愛して 第1話~2話</title>
+		<desc>エリートサラリーマンの神城真人（成宮寛貴）とその妻の澪（瀧本美織）は、順風満帆な結婚生活を送っていた。
+ところがある日、澪は出張に出掛けたはずの真人から送られてきた写真がネットから拾ったアリバイ写真だと気づいてしまう。
+平穏な日常にもたらされる一抹の疑念。
+さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
+仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250409230000 +0000" stop="20250410023200 +0000">
 		<title>ペントハウスシーズン2 第17〜21話【韓流アワー】</title>
@@ -14683,9 +14708,12 @@ G大阪戦では古巣対決と福岡戦のリベンジに燃える谷晃生選�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250408115700 +0000" stop="20250408120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 4/8</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+ 
+ 【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p8/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250408120000 +0000" stop="20250408150000 +0000">
 		<title>WWE　RAW &amp; ABEMA#80</title>
@@ -14753,17 +14781,78 @@ G大阪戦では古巣対決と福岡戦のリベンジに燃える谷晃生選�
 ホールインワンを達成者は果たして出るのか！？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2028_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250408220000 +0000" stop="20250409040900 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20250408220000 +0000" stop="20250409000000 +0000">
+		<title>世界の果てに、ひろゆき置いてきた シーズン1 #5~6</title>
+		<desc>ひろゆき＆東出昌大のアフリカ放置旅は
+ザンビアの更なる奥地へと続く。
+
+田舎の露店で出会った怪しい商人に
+謎の葉を売り込まれて…
+
+アフリカ大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250409000000 +0000" stop="20250409010000 +0000">
+		<title>FRUITS ZIPPERの超めでたいさぷらいずTV #1~2</title>
+		<desc>FRUITS ZIPPERのメンバーが 
+人生の門出を迎える人々に向け 
+全力の「おめでとう」を届ける― 
+ 
+今回は高校の卒業式にこっそり潜入し 
+サプライズライブを敢行！ 
+メンバーたちは無事にライブを成功させ 
+卒業生たちにエールを送ることができるのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2027_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250409010000 +0000" stop="20250409012600 +0000">
+		<title>成宮寛貴のいま presented by 死ぬほど愛して #1~2</title>
+		<desc>８年ぶりに俳優に復帰した成宮寛貴。
+彼が主演を務めるABEMAオリジナルドラマ『死ぬほど愛して』のポスター撮影や取材を通じて、どんな想いで芝居に向き合い、彼が演じる「愛妻家という表の顔と凶悪殺人鬼という裏の顔を持つ神城真人役」を彼自身どう考えているのか。
+
+成宮寛貴のいまを追う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p801/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250409012600 +0000" stop="20250409025100 +0000">
+		<title>死ぬほど愛して 第1話~2話</title>
+		<desc>エリートサラリーマンの神城真人（成宮寛貴）とその妻の澪（瀧本美織）は、順風満帆な結婚生活を送っていた。
+ところがある日、澪は出張に出掛けたはずの真人から送られてきた写真がネットから拾ったアリバイ写真だと気づいてしまう。
+平穏な日常にもたらされる一抹の疑念。
+さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
+仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250409025100 +0000" stop="20250409040900 +0000">
+		<title>しくじり先生 横川尚隆 #247~248</title>
+		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p280/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250409040900 +0000" stop="20250409060000 +0000">
 		<title>リミテッド(吹替)【無料1週間】</title>
 		<desc>砂漠を旅する二人の漂流者は、史上最大の金塊を発見し、欲望を抱く。しかし、金塊の大部分が地下に埋まっていることが判明。そこで、彼らは金塊発掘計画のため、老人は必要な道具を調達しに、青年(ザック・エフロン)は砂漠の過酷な状況に耐えながら、たった一人で金塊を守ることに。しかし、予定より戻るのが遅くなると連絡があり、青年は過酷な長期戦を強いられることとなる。灼熱地獄の地と血に飢えた狂狼の中で、金塊を盗賊から守り抜くことができるのか―</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/177-498_s1_p2/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250409060000 +0000" stop="20250409130000 +0000">
+	<programme channel="special-plus" start="20250409060000 +0000" stop="20250409125700 +0000">
+		<title>ラブパワーキングダム〜恋愛強者選挙〜 #1~7【今夜10時~SPchで最終回】</title>
+		<desc>▼みどころ
+「わたしが1番モテます♡」
+ダンサー、モデル、スポーツ選手、経営者、俳優・・・
+自信満々の恋愛強者16人の中で誰が1番モテるのかを競う、モテ総選挙が開催！
+『モテキング』＆『モテクイーン』の称号を手にするのは誰だ！？
+
+▼概要
+No.1モテ男＆モテ女を決める恋愛サバイバル、開幕ー
+"モテ"なければ生き残れない
+「爆モテ自慢」の恋愛強者16名によるハイクラスな恋の駆け引き。
+予測不能なモテランキング、
+壊れていく強者のプライド、
+そして、抑えきれない本気の恋。
+最後までモテ続け
+『モテキング』＆『モテクイーン』の称号を手にするのは誰だ！？
+
+Supported by 株式会社KINUJO</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2021_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250409125700 +0000" stop="20250409130000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -14790,7 +14879,36 @@ RIZIN男祭りの見どころを出演者たちが分析、解説予定!</desc>
 より一層スポーツが楽しくなる番組!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p81/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250409150000 +0000" stop="20250410010100 +0000">
+	<programme channel="special-plus" start="20250409150000 +0000" stop="20250409170000 +0000">
+		<title>チャンスの時間 #270~271</title>
+		<desc>【激論！アルコ&amp;ピース平子 長茎手術 審議会】
+短小で悩むアルコ&amp;ピースの平子が、
+長茎手術をするべきかどうか？徹底討論！
+人気芸人たちの下半身事情が丸裸に!!
+
+アンガールズ田中がポロリ事件告白！生放送で下半身がアップになり…
+手術経験者の銀シャリ鰻のがした方が良いと熱弁！「自信が違う！」
+
+興味津々な大悟「先生！なんで熱い？なんで赤い？」
+激論の末、平子は長茎手術を決断したのか？
+
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p270/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250409170000 +0000" stop="20250409190000 +0000">
+		<title>愛のハイエナ season3 #5~6</title>
+		<desc>「山本裕典、ホストになる。」新店舗編 第3弾
+この日は戦力外通告待ったなしの後輩を救うべく
+山本が落ちこぼれホストとペアを組んで接客をすることに…
+頼もしい先輩の姿を見せることが出来るのか!?
+
+さらに
+借金を抱え 恋に踏み出せない男性と
+お金がありすぎて本当の恋が出来ない女性の恋愛企画が始動！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s3_p5/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250409190000 +0000" stop="20250410010100 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -22224,9 +22342,12 @@ SEVENTEEN、ITZY、KISS OF LIFE、YENA、AB6IX、CNBLUE、The Wind、Xdinary Her
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/176-34_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20250408115700 +0000" stop="20250408120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 4/8</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p8/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20250408120000 +0000" stop="20250408125000 +0000">
 		<title>NOW A LEARN DAYS #4-1～4-2</title>
@@ -26788,9 +26909,12 @@ Mリーグ2024-25では、新Mリーガー2名が誕生し、総勢36名での�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p309/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250408145700 +0000" stop="20250408150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 4/8</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p8/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250408150000 +0000" stop="20250408180000 +0000">
 		<title>MONDO TVアワー女流モンド杯 第19期 予選#3~4</title>
@@ -29258,6 +29382,86 @@ https://abema.tv/video/title/16-92</desc>
 全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km！
 約40台の激しいバトルや接触が非常に迫力のあるレースです！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s10003_p14/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250408110000 +0000" stop="20250408144500 +0000">
+		<title>グランドスラム オブ カーリング2024-2025 放送スケジュール</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s30000_p25/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250408144500 +0000" stop="20250408193000 +0000">
+		<title>【第1試合】ロコ・ソラーレvsTeam Ha|25.4.9</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s50000_p1/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250408193000 +0000" stop="20250409111500 +0000">
+		<title>グランドスラム オブ カーリング2024-2025 放送スケジュール</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s30000_p26/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250409111500 +0000" stop="20250409163000 +0000">
+		<title>【第2試合】ロコ・ソラーレvs北海道銀行|25.4.9</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s50000_p2/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250409163000 +0000" stop="20250410111500 +0000">
+		<title>グランドスラム オブ カーリング2024-2025 放送スケジュール</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s30000_p27/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250410111500 +0000" stop="20250410163000 +0000">
+		<title>【第3試合】ロコ・ソラーレvsTeam Gim|25.4.10</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s50000_p3/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250410163000 +0000" stop="20250410184500 +0000">
+		<title>グランドスラム オブ カーリング2024-2025 放送スケジュール</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s30000_p28/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250410184500 +0000" stop="20250411000000 +0000">
+		<title>【第4試合】ロコ・ソラーレvsTeam Tirinzoni|25.4.11</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s50000_p4/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250411000000 +0000" stop="20250411111500 +0000">
+		<title>グランドスラム オブ カーリング2024-2025 放送スケジュール</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s30000_p29/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250411111500 +0000" stop="20250411163000 +0000">
+		<title>【第5試合】ロコ・ソラーレvsTeam Hasselborg|25.4.12</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s50000_p5/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250331143000 +0000" stop="20250331183000 +0000">
 		<title>Krush.140 2022.8.27</title>
