@@ -88,6 +88,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -17226,6 +17230,33 @@ M1ファイナリストの東京ホテイソン ショーゴが
 【提供】BOATRACE振興会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-308_s10000_p1003/thumb001.png" />
 	</programme>
+	<programme channel="special-plus-2" start="20250405034500 +0000" stop="20250405073000 +0000">
+		<title>マイナビ TGC in 大阪・関西万博 2025</title>
+		<desc>大阪・関西万博の開幕直前となる4月5日（土）に、大阪・関西万博会場内EXPO メッセ「WASSE」にて開催される「マイナビ TGC in 大阪・関西万博 2025」の様子をABEMAにて無料生中継！
+
+人気モデルや俳優、アイドル、アーティスト、動画クリエイターたちが大集結！
+ファッションショーやライブパフォーマンスだけでなく、ここでしか見ることのできないスペシャルステージも！
+
+#マイナビTGC #EXPO2025 #ABEMAでリアタイTGC をつけてご視聴ください！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/140-31_s10000_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250405073000 +0000" stop="20250412042000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250412042000 +0000" stop="20250412100000 +0000">
+		<title>麻生専門学校グループ presents TGC 熊本 2025</title>
+		<desc>『麻生専門学校グループ presents TGC 熊本 2025』をABEMAにて無料生中継！
+
+日本を代表する人気モデルや俳優、アイドル、アーティスト、動画クリエイターたちが大集結！
+ファッションショーやライブパフォーマンスだけでなく、ここでしか見ることのできないスペシャルステージも！
+
+3回目を迎えさらにパワーアップしてお届けするTGC 熊本 2025にご期待ください！
+
+#TGC熊本 #ABEMAでTGC をつけてご視聴ください！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/140-32_s10000_p1/thumb001.png" />
+	</programme>
 	<programme channel="abema-news" start="20250404150000 +0000" stop="20250404170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
 		<desc>地上波の放送を見逃してしまった場合でも、手元のスマートフォンやタブレットなどで気軽に「報道ステーション」をご覧いただけます。 
@@ -31857,7 +31888,47 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s30000_p30/thumb001.png" />
 	</programme>
-	<programme channel="world-sports-1" start="20250412150000 +0000" stop="20250415210000 +0000">
+	<programme channel="world-sports-1" start="20250412150000 +0000" stop="20250412193000 +0000">
+		<title>【準々決勝】ロコ・ソラーレvs対戦相手未定|25.4.13</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s50000_p7/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250412193000 +0000" stop="20250412230000 +0000">
+		<title>グランドスラム オブ カーリング2024-2025 放送スケジュール</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s40000_p9/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250412230000 +0000" stop="20250413033000 +0000">
+		<title>【準決勝】ロコ・ソラーレvs対戦相手未定|25.4.13</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s50000_p8/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250413033000 +0000" stop="20250413153000 +0000">
+		<title>グランドスラム オブ カーリング2024-2025 放送スケジュール</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s40000_p10/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250413153000 +0000" stop="20250413200000 +0000">
+		<title>【決勝】ロコ・ソラーレvs対戦相手未定|25.4.14</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s50000_p9/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250413200000 +0000" stop="20250415210000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
@@ -33573,19 +33644,232 @@ TETSU vs 西元 也史
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-121_s10_p5/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250415075000 +0000" stop="20250415120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
+		<title>イリミネーション・チェンバー 2025</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s120_p102/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250415120000 +0000" stop="20250415150000 +0000">
 		<title>WWE　RAW &amp; ABEMA #81</title>
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!赤いブランド・RAWは火曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s10005_p81/thumb001.png" />
 	</programme>
-	<programme channel="fighting-sports" start="20250415150000 +0000" stop="20250419033000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
+	<programme channel="fighting-sports" start="20250415150000 +0000" stop="20250415182500 +0000">
+		<title>【中邑真輔出場】FASTLANE 2023</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s40_p23/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250415182500 +0000" stop="20250415212000 +0000">
+		<title>【アンダーテイカー出場】HELL IN A CELL 2015</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s130_p93/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250415212000 +0000" stop="20250416012000 +0000">
+		<title>【WWE名場面集】Best of 2023</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s360_p400/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250416012000 +0000" stop="20250416052000 +0000">
+		<title>【新旧ブラッドライン抗争】WWE バッド・ブラッド 2024</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s765_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250416052000 +0000" stop="20250416075500 +0000">
+		<title>【中邑真輔出場】Extreme Rules 2020</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s150_p98/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250416075500 +0000" stop="20250416114500 +0000">
+		<title>【ザ・ロック出場】レッスルマニア17 (2001)</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s20_p26/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250416114500 +0000" stop="20250416155500 +0000">
+		<title>【ザ・ロック出場】レッスルマニア18 (2002)</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s20_p27/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250416155500 +0000" stop="20250416184000 +0000">
+		<title>【ザ・ロック出場】サマースラム 2002</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s30_p24/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250416184000 +0000" stop="20250416223000 +0000">
+		<title>【ザ・ロックvsオースチン】レッスルマニア19 (2003)</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s20_p28/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250416223000 +0000" stop="20250417011000 +0000">
+		<title>【ザ・ロックvsトリプルH】サマースラム 1998</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s30_p20/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250417011000 +0000" stop="20250417035500 +0000">
+		<title>【ザ・ロック出場】サバイバーシリーズ 1998</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s50_p76/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250417035500 +0000" stop="20250417064000 +0000">
+		<title>【ザ・ロック出場】ロイヤルランブル 2000</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s80_p77/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250417064000 +0000" stop="20250417110000 +0000">
+		<title>【新旧ブラッドライン抗争】サバイバーシリーズ 2024</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s50_p103/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250417110000 +0000" stop="20250417145000 +0000">
+		<title>【ジョン・シーナ出場】レッスルマニア21 (2005)</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s20_p30/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250417145000 +0000" stop="20250417174500 +0000">
+		<title>【ジョン・シーナ出場】Extreme Rules 2012</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s150_p90/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250417174500 +0000" stop="20250417230500 +0000">
+		<title>【ローマン・レインズvsトリプルH】レッスルマニア32 (2016)</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s20_p41/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250417230500 +0000" stop="20250418032500 +0000">
+		<title>【中邑&amp;イヨ出場】サバイバーシリーズ 2024</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s50_p103/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250418032500 +0000" stop="20250418072000 +0000">
+		<title>【ザ・ロックvsジョン・シーナ】レッスルマニア28 (2012)</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s20_p37/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250418072000 +0000" stop="20250418111000 +0000">
+		<title>【ザ・ロックvsジョン・シーナ】レッスルマニア29 (2013)</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s20_p38/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250418111000 +0000" stop="20250418150500 +0000">
+		<title>【コーディー出場】レッスルマニア26 (2010)</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s20_p35/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250418150500 +0000" stop="20250418180500 +0000">
+		<title>【コーディー出場】サマースラム 2010</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s30_p32/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250418180500 +0000" stop="20250418210000 +0000">
+		<title>【コーディー出場】マネー・イン・ザ・バンク 2013</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s70_p90/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250418210000 +0000" stop="20250419000000 +0000">
+		<title>【コーディー出場】Hell in a Cell 2022</title>
+		<desc>4/20(日),21(月) レッスルマニア41直前！
+記念してABEMAプレミアム限定の超貴重映像を格闘&amp;格闘2chで大公開！
+
+今年のレッスルマニアはABEMAプレミアム会員なら誰でも視聴可能！
+既存会員は追加料金なし、これから入る方も1,080円でレッスルマニア2DAYSがお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s130_p100/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250419000000 +0000" stop="20250419033000 +0000">
+		<title>レッスルマニア直前緊急生中継！WWE SMACKDOWN#81</title>
+		<desc>SMACKDOWN、本日はレッスルマニア直前緊急生中継！
+
+世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10006_p81/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250419033000 +0000" stop="20250419080000 +0000">
 		<title>12.17 Krush.156 全編</title>
