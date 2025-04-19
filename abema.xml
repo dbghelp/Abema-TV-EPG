@@ -132,6 +132,10 @@
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
 	</channel>
+	<channel id="shogi-live">
+		<display-name>将棋 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi-live/logo.png" />
+	</channel>
 	<channel id="world-sports">
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
@@ -29179,6 +29183,11 @@ KADOKAWAサクラナイツvs渋谷ABEMAS vsセガサミーフェニックスvs T
 		<title>【再】第18回朝日杯本戦トーナメント 藤井聡太竜王・名人 対 服部慎一郎六段</title>
 		<desc>朝日杯は全棋士、アマチュア10人、女流棋士3人によるトーナメントです。 1次予選から本戦まで全てがトーナメントで、決勝も1番勝負となります。優勝者が獲得する賞金は750万円。1次予選、2次予選、本戦(16名)のトーナメント制で持ち時間は40分となります。 朝日アマ名人、朝日アマ名人戦全国大会ベスト8進出者、学生名人の計10名。女流棋士は主催者推薦3名を選抜。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-183_s180_p303/thumb001.png" />
+	</programme>
+	<programme channel="shogi-live" start="20250419003000 +0000" stop="20250419160000 +0000">
+		<title>第10期 叡王戦 五番勝負 第2局 伊藤匠叡王 対 斎藤慎太郎八段</title>
+		<desc>叡王戦は全棋士の段位別予選と本戦を勝ち抜いた2名が決勝五番勝負を行い、先に3勝した棋士が「叡王」の称号を獲得します(第4期以降は本戦優勝者が叡王への挑戦権を獲得)。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-89_s10000_p12/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250411123500 +0000" stop="20250411161500 +0000">
 		<title>S.LEAGUE 24-25 ショートボード&amp;ロングボード第1戦 DAY3 後半</title>
