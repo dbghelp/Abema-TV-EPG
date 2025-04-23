@@ -128,6 +128,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -870,9 +874,9 @@ KEEL編、堂々のクライマックス！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-102_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250420140000 +0000" stop="20250420143000 +0000">
-		<title>前橋ウィッチーズ #3【最新話】</title>
-		<desc>店を訪れた凛子の体型に対し、アズは心無い言葉を浴びせた。人としてあるまじき態度に、不満を募らせる一同。しかしアズもまた自分の体型にコンプレックスを抱いており、周囲の声に傷つく日々を送っていた。後ろめたさを感じつつ店番をするアズの元へ、再び凛子が現れる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-200_s1_p3/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250420143000 +0000" stop="20250420150000 +0000">
 		<title>最強の王様、二度目の人生は何をする？ #3【最新話】</title>
@@ -958,9 +962,9 @@ KEEL編、堂々のクライマックス！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-262_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250420223000 +0000" stop="20250420230000 +0000">
-		<title>前橋ウィッチーズ #3・見逃し放送</title>
-		<desc>店を訪れた凛子の体型に対し、アズは心無い言葉を浴びせた。人としてあるまじき態度に、不満を募らせる一同。しかしアズもまた自分の体型にコンプレックスを抱いており、周囲の声に傷つく日々を送っていた。後ろめたさを感じつつ店番をするアズの元へ、再び凛子が現れる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-200_s1_p3/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250420230000 +0000" stop="20250421050000 +0000">
 		<title>悪役令嬢転生おじさん #1〜12【無料ビデオ1週間】</title>
@@ -14549,7 +14553,7 @@ RIZINガールは「君気に入った」と３００万を出され…
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-153_s0_p18/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250423030000 +0000" stop="20250423041500 +0000">
-		<title>ABEMAヒルズ　そのニュース、ゆっくり話そう</title>
+		<title>＃アベヒル　ダメ？大学で「四則演算」/財務省が教育の質に注文</title>
 		<desc>「そのニュース、ゆっくり話そう」
 大量の情報が通り過ぎていく毎日。ちょっと立ち止まって、そのニュースをゆっくり話したい。番組MCの柴田阿弥、徳永有美が気になる話題を個性豊かな識者らと語り合います。好奇心の赴くままに。そのニュースは、社会を、政治を、経済を、世界を、そして、あなたの生活を、どう変えるのか…？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-52_s0_p1933/thumb001.png" />
@@ -24924,6 +24928,34 @@ Mリーグ2024-25では、新Mリーガー2名が誕生し、総勢36名での�
 		<title>第42期鳳凰戦A1リーグ第3節A卓【ABEMAセレクト】</title>
 		<desc>プロ連盟の頂点を決める1年間のリーグ戦。A1リーグは15人、A2リーグは16人で行われ、A1リーグ上位3選手が鳳凰位決定戦に進出となる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p7/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250416030000 +0000" stop="20250416145000 +0000">
+		<title>第50期最高位戦A1リーグ 第4節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p7/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250416145000 +0000" stop="20250423030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250423030000 +0000" stop="20250423145000 +0000">
+		<title>第50期最高位戦A1リーグ 第4節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p8/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250423145000 +0000" stop="20250430030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250430030000 +0000" stop="20250430145000 +0000">
+		<title>第50期最高位戦A1リーグ 第4節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p9/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250415090500 +0000" stop="20250415181000 +0000">
 		<title>【再】第50期棋王戦コナミグループ杯五番勝負第1局 藤井聡太棋王対増田康宏八段</title>
