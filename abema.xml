@@ -88,10 +88,6 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
-	<channel id="special-plus-2">
-		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -6438,9 +6434,12 @@ https://abema.tv/channels/anime-live/slots/CS8ijxc9td4jEF</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/283-24_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250425125700 +0000" stop="20250425130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
+		<title>ダイキン空気予報 4/25</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p25/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250425130000 +0000" stop="20250425143000 +0000">
 		<title>声優と夜あそび 金【関智一×川島零士】#2</title>
@@ -8953,9 +8952,12 @@ MCに岩井勇気さん、アシスタントMCに徳井青空さん、ゲスト�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p27/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20250425123000 +0000" stop="20250425123300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 4/25</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p25/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20250425123300 +0000" stop="20250425143400 +0000">
 		<title>映画ドラえもん のび太と緑の巨人伝</title>
@@ -9184,6 +9186,445 @@ MCに岩井勇気さん、アシスタントMCに徳井青空さん、ゲスト�
 		<title>ケシカスくん #18〜20【無料ビデオ1週間】</title>
 		<desc>ボウズにハサミを渡そうとするミナコ。そこに彫刻刀丸が現れて！？他4本</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-16_s1_p18/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250427190000 +0000" stop="20250427201100 +0000">
+		<title>忍者ハットリくん #47〜49【無料ビデオ1週間】</title>
+		<desc>『獅子丸子守唄の巻』…ひょんなことから迷子子ブタに懐かれてしまった獅子丸は、仕方なく子ブタの世話をすることに。一方、ハットリくん達は忍法「こだま散らし」で子ブタの母親を探すことにする。そして見つかった母親ブタは獅子丸にそっくりで…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p47/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250427201100 +0000" stop="20250427220100 +0000">
+		<title>映画ドラえもん のび太と奇跡の島　アニマルアドベンチャー</title>
+		<desc>「タイムトリモチ」でつかまえた、500年前に絶滅（ぜつめつ）した鳥モアをベレーガモンド島へつれていくことになったのび太たち。そこは黄金のカブトムシの力に守られた不思議（ふしぎ）な島だった…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p32/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250427220100 +0000" stop="20250427234000 +0000">
+		<title>映画ドラえもん のび太と竜の騎士</title>
+		<desc>ひみつ道具の「どこでもホール」が見つけた大洞窟で、スネ夫が行方不明に。スネ夫を探しに、ドラえもんたちは地底探検に出発。一行は、地底に広がる白亜紀の森で、竜の騎士と出会った！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p8/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250427234000 +0000" stop="20250428012300 +0000">
+		<title>映画クレヨンしんちゃん ブリブリ王国の秘宝【無料ビデオ1週間】</title>
+		<desc>オラ、野原しんのすけ。こんどはオラが南の島のブリブリ王国で大活躍！！
+　福引きで当たった海外旅行、オラとかあちゃんととうちゃんでおバカンスーと思ったら、ホワイトスネーク団て悪いやつらの罠だったんだ。変なオカマにオラが誘拐されて、オラにそっくりのスンノケシ王子なんてのに会わされて、最後はブリブリ魔人が出て、もー、みんな見ればー！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p2/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428012300 +0000" stop="20250428024900 +0000">
+		<title>クレヨンしんちゃん #889～897</title>
+		<desc>夜泣きがおさまらないひまわり。赤ちゃんは車に乗せれば眠ってしまうことがあると知った一家は、真夜中のドライブに出かける……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-50_s1_p889/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428024900 +0000" stop="20250428044400 +0000">
+		<title>ドラえもん #889～897</title>
+		<desc>「１日くらい、２２世紀に帰ってゆっくりしたら？」とドラミにさそわれたドラえもんは、のび太のことを心配しつつ、ひさしぶりに未来にいるセワシのもとに里帰り。ふだんはのび太の世話でつかれているだろうから、ここではのんびりしていってとセワシに言われたものの、ドラミも出かけてしまい、することもなく落ち着かないドラえもん。
+　そこで、夏休みの宿題でロボットを作るというセワシを手伝うことに。安物の部品しかないとなげくセワシに、おもちゃに液（えき）をたらすだけで本物のロボットに育ってくれるという『キカイソダテール』を取り出す。ところが、液のかけすぎで、ロボットが育ちすぎてしまい、ヨボヨボになってしまった…。
+　その後も、ドラえもんの出す道具ではうまくロボットを作ることができず、あきれたセワシから、「お願いだから休んでいて」と言われてしまうドラえもん。それでも、ついついセワシに手をかしたくなってしまい…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-53_s1_p889/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428044400 +0000" stop="20250428063400 +0000">
+		<title>映画ドラえもん のび太と奇跡の島　アニマルアドベンチャー</title>
+		<desc>「タイムトリモチ」でつかまえた、500年前に絶滅（ぜつめつ）した鳥モアをベレーガモンド島へつれていくことになったのび太たち。そこは黄金のカブトムシの力に守られた不思議（ふしぎ）な島だった…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p32/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428063400 +0000" stop="20250428081300 +0000">
+		<title>映画ドラえもん のび太と竜の騎士</title>
+		<desc>ひみつ道具の「どこでもホール」が見つけた大洞窟で、スネ夫が行方不明に。スネ夫を探しに、ドラえもんたちは地底探検に出発。一行は、地底に広がる白亜紀の森で、竜の騎士と出会った！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p8/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428081300 +0000" stop="20250428095600 +0000">
+		<title>映画クレヨンしんちゃん ブリブリ王国の秘宝【無料ビデオ1週間】</title>
+		<desc>オラ、野原しんのすけ。こんどはオラが南の島のブリブリ王国で大活躍！！
+　福引きで当たった海外旅行、オラとかあちゃんととうちゃんでおバカンスーと思ったら、ホワイトスネーク団て悪いやつらの罠だったんだ。変なオカマにオラが誘拐されて、オラにそっくりのスンノケシ王子なんてのに会わされて、最後はブリブリ魔人が出て、もー、みんな見ればー！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p2/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428095600 +0000" stop="20250428114600 +0000">
+		<title>映画ドラえもん のび太と奇跡の島　アニマルアドベンチャー</title>
+		<desc>「タイムトリモチ」でつかまえた、500年前に絶滅（ぜつめつ）した鳥モアをベレーガモンド島へつれていくことになったのび太たち。そこは黄金のカブトムシの力に守られた不思議（ふしぎ）な島だった…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p32/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428114600 +0000" stop="20250428114900 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428114900 +0000" stop="20250428133000 +0000">
+		<title>映画ドラえもん のび太と竜の騎士</title>
+		<desc>ひみつ道具の「どこでもホール」が見つけた大洞窟で、スネ夫が行方不明に。スネ夫を探しに、ドラえもんたちは地底探検に出発。一行は、地底に広がる白亜紀の森で、竜の騎士と出会った！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p8/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428133000 +0000" stop="20250428151300 +0000">
+		<title>映画クレヨンしんちゃん ブリブリ王国の秘宝【無料ビデオ1週間】</title>
+		<desc>オラ、野原しんのすけ。こんどはオラが南の島のブリブリ王国で大活躍！！
+　福引きで当たった海外旅行、オラとかあちゃんととうちゃんでおバカンスーと思ったら、ホワイトスネーク団て悪いやつらの罠だったんだ。変なオカマにオラが誘拐されて、オラにそっくりのスンノケシ王子なんてのに会わされて、最後はブリブリ魔人が出て、もー、みんな見ればー！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p2/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428151300 +0000" stop="20250428163900 +0000">
+		<title>クレヨンしんちゃん #889～897</title>
+		<desc>夜泣きがおさまらないひまわり。赤ちゃんは車に乗せれば眠ってしまうことがあると知った一家は、真夜中のドライブに出かける……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-50_s1_p889/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428163900 +0000" stop="20250428183400 +0000">
+		<title>ドラえもん #889～897</title>
+		<desc>「１日くらい、２２世紀に帰ってゆっくりしたら？」とドラミにさそわれたドラえもんは、のび太のことを心配しつつ、ひさしぶりに未来にいるセワシのもとに里帰り。ふだんはのび太の世話でつかれているだろうから、ここではのんびりしていってとセワシに言われたものの、ドラミも出かけてしまい、することもなく落ち着かないドラえもん。
+　そこで、夏休みの宿題でロボットを作るというセワシを手伝うことに。安物の部品しかないとなげくセワシに、おもちゃに液（えき）をたらすだけで本物のロボットに育ってくれるという『キカイソダテール』を取り出す。ところが、液のかけすぎで、ロボットが育ちすぎてしまい、ヨボヨボになってしまった…。
+　その後も、ドラえもんの出す道具ではうまくロボットを作ることができず、あきれたセワシから、「お願いだから休んでいて」と言われてしまうドラえもん。それでも、ついついセワシに手をかしたくなってしまい…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-53_s1_p889/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428183400 +0000" stop="20250428190000 +0000">
+		<title>忍者ハットリくん #49【無料ビデオ1週間】</title>
+		<desc>『夢子ちゃんのお守りになるんだの巻』…女子生徒の間でブロマイド写真をお守り代わりに持つことが流行っていた。そこでケン一は、自分のブロマイド写真を夢子ちゃんに渡そうと写真を撮るが、ケムマキに邪魔ばかりされてしまう。そんなケムマキにケン一は仕返しを企てるが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p49/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428190000 +0000" stop="20250428204200 +0000">
+		<title>映画クレヨンしんちゃん アクション仮面VSハイグレ魔王【無料ビデオ1週間】</title>
+		<desc>オラ、のはらしんのすけ！オラがチョコビで当てたカードを使って入場した「アクション仮面アトラクションハウス」で乗り物に乗ったら、一家そろって異次元世界に来ちゃったゾ！！
+　そこでは、ハイグレ魔王っていうおかまのおねいさんに、み～んなハイグレにされているんだ！ハイグレ魔王とその手下の悪いヤツらをやっつけるには、なんとかしてアクション仮面をよばなくちゃ！よ～し、アクション戦士に選ばれたオラもいっしょに戦うゾ！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428204200 +0000" stop="20250428222700 +0000">
+		<title>映画クレヨンしんちゃん ヘンダーランドの大冒険【無料ビデオ1週間】</title>
+		<desc>今度はテーマパークを舞台にしんちゃん大活躍！？
+　幼稚園の遠足で出かけた“群馬ヘンダーランド”。実はそのヘンダーランドこそオカマ魔女とその一味が地球征服を企む本拠地だった！
+　そこで地球のピンチに立ち上がったしんちゃん。お馴染みのアクション仮面、ぶりぶりざえもん、カンタム・ロボと強力な助っ人を引き連れて、オカマ魔女率いる強敵陣と世紀の大勝負!!当時セクシーアイドルとして大活躍した雛形あきこも登場。
+　さあ、地球の運命はいったいどうなる！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p4/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250428222700 +0000" stop="20250429002700 +0000">
+		<title>映画ドラえもん 新・のび太の大魔境～ペコと５人の探検隊～</title>
+		<desc>夏休みのある日。のび太くんは「地球のどこかにまだかくされた秘境ひきょうがあるはずだ！」と大冒険だいぼうけんできる場所をさがしはじめた。そんな時、空き地で一匹の子犬・ペコに出会う。そのペコがなんと、山積やまづみの衛星えいせい写真の中から、ジャングルの奥地おくちに立つなぞの巨神像きょしんぞうを見つけ出した！　ふしぎに思ったのび太くんたちとペコは、巨神像きょしんぞうのなぞを解とき明かすために、未開みかいのジャングルに向かう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p34/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429002700 +0000" stop="20250429021800 +0000">
+		<title>映画ドラえもん のび太の日本誕生</title>
+		<desc>７万年前の世界に家出したドラえもんたち。だが、そこには、恐ろしい力を自在に操る、精霊王ギガゾンビがいた。ドラえもんたちは、ヒカリ族の少年ククルを助けて、ギガゾンビに立ち向かう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p10/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429021800 +0000" stop="20250429040000 +0000">
+		<title>ドラえもん #898～905</title>
+		<desc>部屋を片づけていたのび太は、押し入れから小さな赤いくつを見つける。そのくつは、のび太が幼稚園に通っていたころ、となりに住んでいた女の子“ノンちゃん”のものだった。
+　当時、のび太はノンちゃんと大の仲よしだったが、ジャイアンたちから冷やかされ、ノンちゃんのくつをかくすというイジワルをしてしまったのだ！　その後、あやまる機会がないまま、ノンちゃんは引越してしまったのだった…。
+「ちゃんとあやまりたかった…」とくやむのび太のため、ドラえもんは『タイムマシン』で昔にもどろうと提案して…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-53_s1_p898/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429040000 +0000" stop="20250429051200 +0000">
+		<title>クレヨンしんちゃん #898～905</title>
+		<desc>怪獣シリマルダシのテレビスペシャルの撮影に、エキストラとして出演することになった四郎さん。それを知ったしんのすけは、自分も出たいと言い出し……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-50_s1_p898/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429051200 +0000" stop="20250429065400 +0000">
+		<title>映画クレヨンしんちゃん アクション仮面VSハイグレ魔王【無料ビデオ1週間】</title>
+		<desc>オラ、のはらしんのすけ！オラがチョコビで当てたカードを使って入場した「アクション仮面アトラクションハウス」で乗り物に乗ったら、一家そろって異次元世界に来ちゃったゾ！！
+　そこでは、ハイグレ魔王っていうおかまのおねいさんに、み～んなハイグレにされているんだ！ハイグレ魔王とその手下の悪いヤツらをやっつけるには、なんとかしてアクション仮面をよばなくちゃ！よ～し、アクション戦士に選ばれたオラもいっしょに戦うゾ！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429065400 +0000" stop="20250429083900 +0000">
+		<title>映画クレヨンしんちゃん ヘンダーランドの大冒険【無料ビデオ1週間】</title>
+		<desc>今度はテーマパークを舞台にしんちゃん大活躍！？
+　幼稚園の遠足で出かけた“群馬ヘンダーランド”。実はそのヘンダーランドこそオカマ魔女とその一味が地球征服を企む本拠地だった！
+　そこで地球のピンチに立ち上がったしんちゃん。お馴染みのアクション仮面、ぶりぶりざえもん、カンタム・ロボと強力な助っ人を引き連れて、オカマ魔女率いる強敵陣と世紀の大勝負!!当時セクシーアイドルとして大活躍した雛形あきこも登場。
+　さあ、地球の運命はいったいどうなる！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p4/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429083900 +0000" stop="20250429103900 +0000">
+		<title>映画ドラえもん 新・のび太の大魔境～ペコと５人の探検隊～</title>
+		<desc>夏休みのある日。のび太くんは「地球のどこかにまだかくされた秘境ひきょうがあるはずだ！」と大冒険だいぼうけんできる場所をさがしはじめた。そんな時、空き地で一匹の子犬・ペコに出会う。そのペコがなんと、山積やまづみの衛星えいせい写真の中から、ジャングルの奥地おくちに立つなぞの巨神像きょしんぞうを見つけ出した！　ふしぎに思ったのび太くんたちとペコは、巨神像きょしんぞうのなぞを解とき明かすために、未開みかいのジャングルに向かう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p34/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429103900 +0000" stop="20250429123000 +0000">
+		<title>映画ドラえもん のび太の日本誕生</title>
+		<desc>７万年前の世界に家出したドラえもんたち。だが、そこには、恐ろしい力を自在に操る、精霊王ギガゾンビがいた。ドラえもんたちは、ヒカリ族の少年ククルを助けて、ギガゾンビに立ち向かう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p10/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429123000 +0000" stop="20250429123300 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429123300 +0000" stop="20250429141500 +0000">
+		<title>映画クレヨンしんちゃん アクション仮面VSハイグレ魔王【無料ビデオ1週間】</title>
+		<desc>オラ、のはらしんのすけ！オラがチョコビで当てたカードを使って入場した「アクション仮面アトラクションハウス」で乗り物に乗ったら、一家そろって異次元世界に来ちゃったゾ！！
+　そこでは、ハイグレ魔王っていうおかまのおねいさんに、み～んなハイグレにされているんだ！ハイグレ魔王とその手下の悪いヤツらをやっつけるには、なんとかしてアクション仮面をよばなくちゃ！よ～し、アクション戦士に選ばれたオラもいっしょに戦うゾ！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429141500 +0000" stop="20250429160000 +0000">
+		<title>映画クレヨンしんちゃん ヘンダーランドの大冒険【無料ビデオ1週間】</title>
+		<desc>今度はテーマパークを舞台にしんちゃん大活躍！？
+　幼稚園の遠足で出かけた“群馬ヘンダーランド”。実はそのヘンダーランドこそオカマ魔女とその一味が地球征服を企む本拠地だった！
+　そこで地球のピンチに立ち上がったしんちゃん。お馴染みのアクション仮面、ぶりぶりざえもん、カンタム・ロボと強力な助っ人を引き連れて、オカマ魔女率いる強敵陣と世紀の大勝負!!当時セクシーアイドルとして大活躍した雛形あきこも登場。
+　さあ、地球の運命はいったいどうなる！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p4/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429160000 +0000" stop="20250429171200 +0000">
+		<title>クレヨンしんちゃん #898～905</title>
+		<desc>怪獣シリマルダシのテレビスペシャルの撮影に、エキストラとして出演することになった四郎さん。それを知ったしんのすけは、自分も出たいと言い出し……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-50_s1_p898/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429171200 +0000" stop="20250429185400 +0000">
+		<title>ドラえもん #898～905</title>
+		<desc>部屋を片づけていたのび太は、押し入れから小さな赤いくつを見つける。そのくつは、のび太が幼稚園に通っていたころ、となりに住んでいた女の子“ノンちゃん”のものだった。
+　当時、のび太はノンちゃんと大の仲よしだったが、ジャイアンたちから冷やかされ、ノンちゃんのくつをかくすというイジワルをしてしまったのだ！　その後、あやまる機会がないまま、ノンちゃんは引越してしまったのだった…。
+「ちゃんとあやまりたかった…」とくやむのび太のため、ドラえもんは『タイムマシン』で昔にもどろうと提案して…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-53_s1_p898/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429185400 +0000" stop="20250429200600 +0000">
+		<title>忍者ハットリくん #50〜52【無料ビデオ1週間】</title>
+		<desc>『忍法仲なおりの巻』…パパとママがケンカをしてしまった。なんとかしたいケン一はハットリくんに相談をもちかける。忍法「変わり身」でパパに変身したハットリくんは、食事の支度をしているママのもとに仲直りしに行くが、そこに本物のパパが帰ってきてしまい、かえって二人を険悪にしてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p50/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429200600 +0000" stop="20250429220000 +0000">
+		<title>映画ドラえもん 新・のび太の日本誕生</title>
+		<desc>家出を決心したのび太たち５人は、タイムマシンで、誰もいない７万年前の日本に行くことに。原始時代の日本で、自分たちだけのパラダイスを作り、たっぷり遊んだのび太たちは、いったん家に帰ることにしたが、なぜか現代で原始人のククルと出会う。どうやら時空乱流に巻き込まれて現代に来てしまったらしい。そして、ククルの家族がいるヒカリ族は、精霊王ギガゾンビとクラヤミ族に襲われたという。ククルとともに原始時代に戻った５人は、ヒカリ族を救うため立ち上がる！史上最大の家出から、史上最大の冒険が始まる！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p36/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429220000 +0000" stop="20250429235000 +0000">
+		<title>映画ドラえもん のび太のドラビアンナイト</title>
+		<desc>絵本の世界で迷子になったしずかちゃんを助けに、ドラえもんたちはアラビアンナイトの世界へ。ところが、盗賊団に襲われて大ピンチ。そして、砂漠をさまよう一行の前に、巨大な魔人が現れた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p12/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250429235000 +0000" stop="20250430013500 +0000">
+		<title>映画クレヨンしんちゃん 雲黒斎の野望【無料ビデオ1週間】</title>
+		<desc>「おおっ、シロがしゃべった…！」未来の30世紀からやってきたタイムパトロール隊員のリングが、シロの体を借りてオラに話しかけてきたんだ。悪いヤツが時間をこえて、過去を変えようと企んでるって！人類の大ピンチ!!
+　そんでもって、オラが人類をオタスケするっていうワケ。敵は雲黒斎（うんこくさい）なんてとーってもにおいそうなヤツだゾ～　”タスケテケスタ”の呪文でオラが３回大変身！？　カンタムロボも活躍するゾ!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p3/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430013500 +0000" stop="20250430024600 +0000">
+		<title>クレヨンしんちゃん #906～913</title>
+		<desc>スマホで自分の写真を撮りたいひまわり。だが偶然、ふたば幼稚園に電話が繋がってしまった。その電話を受けたよしなが先生は、ひまわりの悲鳴を聞き、野原家に“ただならぬこと”が起きたと勘違いしてしまう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-50_s1_p906/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430024600 +0000" stop="20250430042900 +0000">
+		<title>ドラえもん #906～913</title>
+		<desc>空き地で捨てネコをひろった、ドラえもん。なんと、その子ネコは、ドラえもんにうりふたつだった!!　
+　自分にそっくりな子ネコをかわいそうに思ったドラえもんは、のび太とともに、飼ってくれる人をさがしはじめる。だが、町中をまわっても、引き取り手は見つからない…。
+　すっかり日もかたむき、ドラえもんとのび太は途方にくれてしまう。そんなとき、ドラえもんは「最後の手段だ」と言って、あるひみつ道具を取りだすのだが…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-53_s1_p906/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430042900 +0000" stop="20250430062300 +0000">
+		<title>映画ドラえもん 新・のび太の日本誕生</title>
+		<desc>家出を決心したのび太たち５人は、タイムマシンで、誰もいない７万年前の日本に行くことに。原始時代の日本で、自分たちだけのパラダイスを作り、たっぷり遊んだのび太たちは、いったん家に帰ることにしたが、なぜか現代で原始人のククルと出会う。どうやら時空乱流に巻き込まれて現代に来てしまったらしい。そして、ククルの家族がいるヒカリ族は、精霊王ギガゾンビとクラヤミ族に襲われたという。ククルとともに原始時代に戻った５人は、ヒカリ族を救うため立ち上がる！史上最大の家出から、史上最大の冒険が始まる！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p36/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430062300 +0000" stop="20250430081300 +0000">
+		<title>映画ドラえもん のび太のドラビアンナイト</title>
+		<desc>絵本の世界で迷子になったしずかちゃんを助けに、ドラえもんたちはアラビアンナイトの世界へ。ところが、盗賊団に襲われて大ピンチ。そして、砂漠をさまよう一行の前に、巨大な魔人が現れた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p12/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430081300 +0000" stop="20250430095800 +0000">
+		<title>映画クレヨンしんちゃん 雲黒斎の野望【無料ビデオ1週間】</title>
+		<desc>「おおっ、シロがしゃべった…！」未来の30世紀からやってきたタイムパトロール隊員のリングが、シロの体を借りてオラに話しかけてきたんだ。悪いヤツが時間をこえて、過去を変えようと企んでるって！人類の大ピンチ!!
+　そんでもって、オラが人類をオタスケするっていうワケ。敵は雲黒斎（うんこくさい）なんてとーってもにおいそうなヤツだゾ～　”タスケテケスタ”の呪文でオラが３回大変身！？　カンタムロボも活躍するゾ!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p3/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430095800 +0000" stop="20250430115200 +0000">
+		<title>映画ドラえもん 新・のび太の日本誕生</title>
+		<desc>家出を決心したのび太たち５人は、タイムマシンで、誰もいない７万年前の日本に行くことに。原始時代の日本で、自分たちだけのパラダイスを作り、たっぷり遊んだのび太たちは、いったん家に帰ることにしたが、なぜか現代で原始人のククルと出会う。どうやら時空乱流に巻き込まれて現代に来てしまったらしい。そして、ククルの家族がいるヒカリ族は、精霊王ギガゾンビとクラヤミ族に襲われたという。ククルとともに原始時代に戻った５人は、ヒカリ族を救うため立ち上がる！史上最大の家出から、史上最大の冒険が始まる！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p36/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430115200 +0000" stop="20250430115500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430115500 +0000" stop="20250430134500 +0000">
+		<title>映画ドラえもん のび太のドラビアンナイト</title>
+		<desc>絵本の世界で迷子になったしずかちゃんを助けに、ドラえもんたちはアラビアンナイトの世界へ。ところが、盗賊団に襲われて大ピンチ。そして、砂漠をさまよう一行の前に、巨大な魔人が現れた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p12/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430134500 +0000" stop="20250430153000 +0000">
+		<title>映画クレヨンしんちゃん 雲黒斎の野望【無料ビデオ1週間】</title>
+		<desc>「おおっ、シロがしゃべった…！」未来の30世紀からやってきたタイムパトロール隊員のリングが、シロの体を借りてオラに話しかけてきたんだ。悪いヤツが時間をこえて、過去を変えようと企んでるって！人類の大ピンチ!!
+　そんでもって、オラが人類をオタスケするっていうワケ。敵は雲黒斎（うんこくさい）なんてとーってもにおいそうなヤツだゾ～　”タスケテケスタ”の呪文でオラが３回大変身！？　カンタムロボも活躍するゾ!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p3/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430153000 +0000" stop="20250430164100 +0000">
+		<title>クレヨンしんちゃん #906～913</title>
+		<desc>スマホで自分の写真を撮りたいひまわり。だが偶然、ふたば幼稚園に電話が繋がってしまった。その電話を受けたよしなが先生は、ひまわりの悲鳴を聞き、野原家に“ただならぬこと”が起きたと勘違いしてしまう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-50_s1_p906/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430164100 +0000" stop="20250430182400 +0000">
+		<title>ドラえもん #906～913</title>
+		<desc>空き地で捨てネコをひろった、ドラえもん。なんと、その子ネコは、ドラえもんにうりふたつだった!!　
+　自分にそっくりな子ネコをかわいそうに思ったドラえもんは、のび太とともに、飼ってくれる人をさがしはじめる。だが、町中をまわっても、引き取り手は見つからない…。
+　すっかり日もかたむき、ドラえもんとのび太は途方にくれてしまう。そんなとき、ドラえもんは「最後の手段だ」と言って、あるひみつ道具を取りだすのだが…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-53_s1_p906/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430182400 +0000" stop="20250430193600 +0000">
+		<title>忍者ハットリくん #50〜52【無料ビデオ1週間】</title>
+		<desc>『忍法仲なおりの巻』…パパとママがケンカをしてしまった。なんとかしたいケン一はハットリくんに相談をもちかける。忍法「変わり身」でパパに変身したハットリくんは、食事の支度をしているママのもとに仲直りしに行くが、そこに本物のパパが帰ってきてしまい、かえって二人を険悪にしてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p50/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430193600 +0000" stop="20250430202500 +0000">
+		<title>忍者ハットリくん #53〜54【無料ビデオ1週間】</title>
+		<desc>『エイプリルフールうそつき合戦の巻』…今日はエイプリルフール。ケムマキに易々とだまされて不機嫌なケン一は、ひょんなことから道端に捨てられた空き缶を掃除することになってしまい踏んだり蹴ったり。そこでケン一は、「空き缶を集めて公園に持っていくとお菓子がもらえる」という嘘を思いつき…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p53/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430202500 +0000" stop="20250430222000 +0000">
+		<title>映画ドラえもん のび太の宝島</title>
+		<desc>「宝島を見つける！」とジャイアンたちに宣言したのび太は、ドラえもんのひみつ道具”宝探し地図”を使って宝島を探すことに。地図が指し示した場所は、なんと太平洋上に突然現れた新しい島だった・・・。ノビタオーラ号と名付けられた船で宝島に向かったのび太たちは、あと少しで島に上陸というところで海賊たちから襲われる！急にあらわれた敵に立ち向かうのび太たちだったが、戦いのドタバタの中でしずかが海賊船にさらわれてしまう！海賊に逃げられた後、のび太たちは海に漂う一人の少年フロックとオウム型ロボットのクイズと出会う。フロックは海賊船から逃げ出したメカニックで宝島の重要な秘密を知っていた！はたしてのび太たちは海賊からしずかを助けることができるのか！？そして宝島に眠る財宝に隠された秘密とは一体！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p38/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250430222000 +0000" stop="20250501000800 +0000">
+		<title>映画ドラえもん のび太と雲の王国</title>
+		<desc>ひみつ道具で雲の王国を造って、楽しく遊ぶドラえもんたち。だが、いつのまにか、絶滅動物が暮らすふしぎな世界に迷いこんでしまった。そこは、地上よりはるかに発達した、天上人の国だった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p13/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501000800 +0000" stop="20250501015600 +0000">
+		<title>映画クレヨンしんちゃん 暗黒タマタマ大追跡【無料ビデオ1週間】</title>
+		<desc>かつて暗黒魔人ジャークを封じ込めた埴輪と、ジャーク復活のカギとなる2つの“タマ”――。
+　――今、その“タマ”をめぐって、世界征服を企むホステス軍団と、それを阻止しようとするオカマ3兄弟の対決が始まった！ “タマ”の1つをひまわりが飲み込んでしまったため、争いに巻き込まれたしんちゃん一家が東日本をまたにかけ、所狭しと駆けめぐる!!
+　銀座のクラブのママ玉王が率いるセクシーなホステス軍団に、世界一強～い男ヘクソンが加わって今度の敵もパワフル＆パワフル！でも、絶対負けられないゾ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p5/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501015600 +0000" stop="20250501030900 +0000">
+		<title>クレヨンしんちゃん #914～921【無料ビデオ1週間】</title>
+		<desc>最近幼稚園で泣いている子がいなくなった。
+何と上尾先生が園内を回って、泣きだしそうな子をケアしていのだ！
+そんなことは知らないしんのすけは、偶然にもおかしなポーズで……!?!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-50_s1_p914/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501030900 +0000" stop="20250501045400 +0000">
+		<title>ドラえもん #914～921【無料ビデオ1週間】</title>
+		<desc>大人の前で調子がいいことばかり言って、えこひいきをされるスネ夫に、腹が立ってしかたのないのび太とジャイアン。話を聞いたドラえもんは、ポケットから木の形をしたバッジのようなものを取り出す。これは『ひい木』と言い、付けた人は周りの人からえこひいきされるようになるというのだ。
+　さっそくひい木を付けて、ジャイアンと出かけたのび太は、スネ夫をサッカーに誘う。すると、のび太の蹴ったボールが神成さんの家に飛んでいき、神成さんの顔面にぶつかってしまった！ あわてたスネ夫は、犯人はのび太だというが、神成さんはスネ夫に怒り出して…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-53_s1_p914/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501045400 +0000" stop="20250501064900 +0000">
+		<title>映画ドラえもん のび太の宝島</title>
+		<desc>「宝島を見つける！」とジャイアンたちに宣言したのび太は、ドラえもんのひみつ道具”宝探し地図”を使って宝島を探すことに。地図が指し示した場所は、なんと太平洋上に突然現れた新しい島だった・・・。ノビタオーラ号と名付けられた船で宝島に向かったのび太たちは、あと少しで島に上陸というところで海賊たちから襲われる！急にあらわれた敵に立ち向かうのび太たちだったが、戦いのドタバタの中でしずかが海賊船にさらわれてしまう！海賊に逃げられた後、のび太たちは海に漂う一人の少年フロックとオウム型ロボットのクイズと出会う。フロックは海賊船から逃げ出したメカニックで宝島の重要な秘密を知っていた！はたしてのび太たちは海賊からしずかを助けることができるのか！？そして宝島に眠る財宝に隠された秘密とは一体！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p38/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501064900 +0000" stop="20250501083700 +0000">
+		<title>映画ドラえもん のび太と雲の王国</title>
+		<desc>ひみつ道具で雲の王国を造って、楽しく遊ぶドラえもんたち。だが、いつのまにか、絶滅動物が暮らすふしぎな世界に迷いこんでしまった。そこは、地上よりはるかに発達した、天上人の国だった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p13/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501083700 +0000" stop="20250501102500 +0000">
+		<title>映画クレヨンしんちゃん 暗黒タマタマ大追跡【無料ビデオ1週間】</title>
+		<desc>かつて暗黒魔人ジャークを封じ込めた埴輪と、ジャーク復活のカギとなる2つの“タマ”――。
+　――今、その“タマ”をめぐって、世界征服を企むホステス軍団と、それを阻止しようとするオカマ3兄弟の対決が始まった！ “タマ”の1つをひまわりが飲み込んでしまったため、争いに巻き込まれたしんちゃん一家が東日本をまたにかけ、所狭しと駆けめぐる!!
+　銀座のクラブのママ玉王が率いるセクシーなホステス軍団に、世界一強～い男ヘクソンが加わって今度の敵もパワフル＆パワフル！でも、絶対負けられないゾ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p5/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501102500 +0000" stop="20250501122000 +0000">
+		<title>映画ドラえもん のび太の宝島</title>
+		<desc>「宝島を見つける！」とジャイアンたちに宣言したのび太は、ドラえもんのひみつ道具”宝探し地図”を使って宝島を探すことに。地図が指し示した場所は、なんと太平洋上に突然現れた新しい島だった・・・。ノビタオーラ号と名付けられた船で宝島に向かったのび太たちは、あと少しで島に上陸というところで海賊たちから襲われる！急にあらわれた敵に立ち向かうのび太たちだったが、戦いのドタバタの中でしずかが海賊船にさらわれてしまう！海賊に逃げられた後、のび太たちは海に漂う一人の少年フロックとオウム型ロボットのクイズと出会う。フロックは海賊船から逃げ出したメカニックで宝島の重要な秘密を知っていた！はたしてのび太たちは海賊からしずかを助けることができるのか！？そして宝島に眠る財宝に隠された秘密とは一体！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p38/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501122000 +0000" stop="20250501122300 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501122300 +0000" stop="20250501141100 +0000">
+		<title>映画ドラえもん のび太と雲の王国</title>
+		<desc>ひみつ道具で雲の王国を造って、楽しく遊ぶドラえもんたち。だが、いつのまにか、絶滅動物が暮らすふしぎな世界に迷いこんでしまった。そこは、地上よりはるかに発達した、天上人の国だった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p13/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501141100 +0000" stop="20250501155900 +0000">
+		<title>映画クレヨンしんちゃん 暗黒タマタマ大追跡【無料ビデオ1週間】</title>
+		<desc>かつて暗黒魔人ジャークを封じ込めた埴輪と、ジャーク復活のカギとなる2つの“タマ”――。
+　――今、その“タマ”をめぐって、世界征服を企むホステス軍団と、それを阻止しようとするオカマ3兄弟の対決が始まった！ “タマ”の1つをひまわりが飲み込んでしまったため、争いに巻き込まれたしんちゃん一家が東日本をまたにかけ、所狭しと駆けめぐる!!
+　銀座のクラブのママ玉王が率いるセクシーなホステス軍団に、世界一強～い男ヘクソンが加わって今度の敵もパワフル＆パワフル！でも、絶対負けられないゾ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p5/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501155900 +0000" stop="20250501171200 +0000">
+		<title>クレヨンしんちゃん #914～921【無料ビデオ1週間】</title>
+		<desc>最近幼稚園で泣いている子がいなくなった。
+何と上尾先生が園内を回って、泣きだしそうな子をケアしていのだ！
+そんなことは知らないしんのすけは、偶然にもおかしなポーズで……!?!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-50_s1_p914/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501171200 +0000" stop="20250501185700 +0000">
+		<title>ドラえもん #914～921【無料ビデオ1週間】</title>
+		<desc>大人の前で調子がいいことばかり言って、えこひいきをされるスネ夫に、腹が立ってしかたのないのび太とジャイアン。話を聞いたドラえもんは、ポケットから木の形をしたバッジのようなものを取り出す。これは『ひい木』と言い、付けた人は周りの人からえこひいきされるようになるというのだ。
+　さっそくひい木を付けて、ジャイアンと出かけたのび太は、スネ夫をサッカーに誘う。すると、のび太の蹴ったボールが神成さんの家に飛んでいき、神成さんの顔面にぶつかってしまった！ あわてたスネ夫は、犯人はのび太だというが、神成さんはスネ夫に怒り出して…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-53_s1_p914/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501185700 +0000" stop="20250501194600 +0000">
+		<title>忍者ハットリくん #53〜54【無料ビデオ1週間】</title>
+		<desc>『エイプリルフールうそつき合戦の巻』…今日はエイプリルフール。ケムマキに易々とだまされて不機嫌なケン一は、ひょんなことから道端に捨てられた空き缶を掃除することになってしまい踏んだり蹴ったり。そこでケン一は、「空き缶を集めて公園に持っていくとお菓子がもらえる」という嘘を思いつき…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p53/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501194600 +0000" stop="20250501201200 +0000">
+		<title>忍者ハットリくん #55【無料ビデオ1週間】</title>
+		<desc>『犯人を捕まえてみればの巻』…獅子丸が道を歩いていると、ひょんなことから骨付き肉を盗んだ泥棒犬に間違われてしまう。ハットリくんは真犯人を見つけるべく、骨付き肉を持ったケン一をおとりにして後をつけることに。そして再び泥棒犬が現れたところを捕まえてみると、それはなんと近所の飼い犬のジョンであった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-7fbsihxzgdw_s0_p55/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501201200 +0000" stop="20250501215300 +0000">
+		<title>映画ドラえもん のび太の宇宙開拓史</title>
+		<desc>のび太の部屋の畳の下が、超空間のもつれで、宇宙船のドアとつながった！？宇宙船の中にいたのは、地球から遠くはなれた惑星、コーヤコーヤ星の住人、ロップルくんとお供のチャミー。のび太とドラえもんは、思いがけない大宇宙旅行をして、コーヤコーヤ星にいくことになった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p2/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501215300 +0000" stop="20250501233500 +0000">
+		<title>映画ドラえもん のび太の大魔境</title>
+		<desc>のび太は、秘境の探検をするために、ドラえもんのひみつ道具で秘境探しをするが、それは膨大な航空写真から探し出すというものだった。そこにあらわれたのは、のび太がひろってきた一匹の子犬、ペコ。ペコは、アフリカのコンゴにある謎の巨大巨像を、航空写真から探し出した。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p3/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250501233500 +0000" stop="20250502012400 +0000">
+		<title>映画クレヨンしんちゃん 電撃！ブタのヒヅメ大作戦【無料ビデオ1週間】</title>
+		<desc>オラ、のはらしんのすけ５才。またまた地球の大ピンチだゾ！！
+　時は現代。世界征服をもくろむ秘密組織“ブタのヒヅメ”は、電子工学の天才・大袋博士とその助手アンジェラ小梅をだまし、恐ろしいコンピュータウィルスを作り出した。それを知った正義の秘密組織“ＳＭＬ”の一員、コードネーム〈お色気〉は、機械を動かすために必要なパスワードが入っているトランクを盗み、お台場の海に逃げ込んだ。彼女が救いを求めて転がり込んだ屋形船では、なぜかふたば幼稚園の先生としんのすけたち園児が、大宴会中だった！？
+　巨大飛行船を舞台に、“ＳＭＬ”の一員’お色気’と春日部防衛隊のみんなも地球の平和を守るために大活躍だゾ！
+父ちゃん、母ちゃんもひまわりを連れてオラたち救出のために立ち上がった！よ～し、おバカ・パワー全開だぁ！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p6/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250502012400 +0000" stop="20250502023500 +0000">
+		<title>クレヨンしんちゃん #922～929【無料ビデオ1週間】</title>
+		<desc>ネネちゃんの家の庭にタイムカプセルを埋めようとするしんのすけ達。
+それを知ったネネちゃんのママはやめさせようとするのだが……！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-50_s1_p922/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250502023500 +0000" stop="20250502041900 +0000">
+		<title>ドラえもん #922～929【無料ビデオ1週間】</title>
+		<desc>動物のナマケモノを紹介するテレビ番組を見たのび太は、ナマケモノのような何もしない生活にあこがれると言い出す。それを聞いたドラえもんが取り出したのは、『ナマケモノスーツ』と『止まり木』。これを着れば、周りにナマケモノと認められて、いくら怠けても何も言われないのだという。
+　早速、ナマケモノスーツを着たところ、その姿を見たママはのび太をナマケモノだと思い込み、代わりにドラえもんがお風呂や部屋のそうじを頼まれてしまう。一方、止まり木にぶら下がったまま眠ったり、朝までかかって夕食を食べたりとナマケモノ生活を楽しむのび太だったが…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-53_s1_p922/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250502041900 +0000" stop="20250502060000 +0000">
+		<title>映画ドラえもん のび太の宇宙開拓史</title>
+		<desc>のび太の部屋の畳の下が、超空間のもつれで、宇宙船のドアとつながった！？宇宙船の中にいたのは、地球から遠くはなれた惑星、コーヤコーヤ星の住人、ロップルくんとお供のチャミー。のび太とドラえもんは、思いがけない大宇宙旅行をして、コーヤコーヤ星にいくことになった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p2/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250502060000 +0000" stop="20250502074200 +0000">
+		<title>映画ドラえもん のび太の大魔境</title>
+		<desc>のび太は、秘境の探検をするために、ドラえもんのひみつ道具で秘境探しをするが、それは膨大な航空写真から探し出すというものだった。そこにあらわれたのは、のび太がひろってきた一匹の子犬、ペコ。ペコは、アフリカのコンゴにある謎の巨大巨像を、航空写真から探し出した。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p3/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250502074200 +0000" stop="20250502093100 +0000">
+		<title>映画クレヨンしんちゃん 電撃！ブタのヒヅメ大作戦【無料ビデオ1週間】</title>
+		<desc>オラ、のはらしんのすけ５才。またまた地球の大ピンチだゾ！！
+　時は現代。世界征服をもくろむ秘密組織“ブタのヒヅメ”は、電子工学の天才・大袋博士とその助手アンジェラ小梅をだまし、恐ろしいコンピュータウィルスを作り出した。それを知った正義の秘密組織“ＳＭＬ”の一員、コードネーム〈お色気〉は、機械を動かすために必要なパスワードが入っているトランクを盗み、お台場の海に逃げ込んだ。彼女が救いを求めて転がり込んだ屋形船では、なぜかふたば幼稚園の先生としんのすけたち園児が、大宴会中だった！？
+　巨大飛行船を舞台に、“ＳＭＬ”の一員’お色気’と春日部防衛隊のみんなも地球の平和を守るために大活躍だゾ！
+父ちゃん、母ちゃんもひまわりを連れてオラたち救出のために立ち上がった！よ～し、おバカ・パワー全開だぁ！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p6/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250502093100 +0000" stop="20250502111200 +0000">
+		<title>映画ドラえもん のび太の宇宙開拓史</title>
+		<desc>のび太の部屋の畳の下が、超空間のもつれで、宇宙船のドアとつながった！？宇宙船の中にいたのは、地球から遠くはなれた惑星、コーヤコーヤ星の住人、ロップルくんとお供のチャミー。のび太とドラえもんは、思いがけない大宇宙旅行をして、コーヤコーヤ星にいくことになった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p2/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250502111200 +0000" stop="20250502125400 +0000">
+		<title>映画ドラえもん のび太の大魔境</title>
+		<desc>のび太は、秘境の探検をするために、ドラえもんのひみつ道具で秘境探しをするが、それは膨大な航空写真から探し出すというものだった。そこにあらわれたのは、のび太がひろってきた一匹の子犬、ペコ。ペコは、アフリカのコンゴにある謎の巨大巨像を、航空写真から探し出した。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p3/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250502125400 +0000" stop="20250502125700 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250502125700 +0000" stop="20250502144600 +0000">
+		<title>映画クレヨンしんちゃん 電撃！ブタのヒヅメ大作戦【無料ビデオ1週間】</title>
+		<desc>オラ、のはらしんのすけ５才。またまた地球の大ピンチだゾ！！
+　時は現代。世界征服をもくろむ秘密組織“ブタのヒヅメ”は、電子工学の天才・大袋博士とその助手アンジェラ小梅をだまし、恐ろしいコンピュータウィルスを作り出した。それを知った正義の秘密組織“ＳＭＬ”の一員、コードネーム〈お色気〉は、機械を動かすために必要なパスワードが入っているトランクを盗み、お台場の海に逃げ込んだ。彼女が救いを求めて転がり込んだ屋形船では、なぜかふたば幼稚園の先生としんのすけたち園児が、大宴会中だった！？
+　巨大飛行船を舞台に、“ＳＭＬ”の一員’お色気’と春日部防衛隊のみんなも地球の平和を守るために大活躍だゾ！
+父ちゃん、母ちゃんもひまわりを連れてオラたち救出のために立ち上がった！よ～し、おバカ・パワー全開だぁ！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p6/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-1" start="20250502144600 +0000" stop="20250502155700 +0000">
+		<title>クレヨンしんちゃん #922～929【無料ビデオ1週間】</title>
+		<desc>ネネちゃんの家の庭にタイムカプセルを埋めようとするしんのすけ達。
+それを知ったネネちゃんのママはやめさせようとするのだが……！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-50_s1_p922/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-2" start="20250417140000 +0000" stop="20250417163000 +0000">
 		<title>名探偵コナン #214〜218【無料ビデオ1週間】</title>
@@ -12209,7 +12650,67 @@ MCに岩井勇気さん、アシスタントMCに徳井青空さん、ゲスト�
 		<desc>TVアニメ銀魂、新シリーズ再開!! ところが、銀時、神楽、新八、以外の時間が止まってしまった！ どうやら、UFO墜落現場から拾ってきた「三千世界時計」を銀さんが破壊してしまったことが関係しているよう。故障した時計を修復すべく、からくり技師・源外の元を訪れるが、源外の時間も止まっていて…。時計の針を無理やり進めて修理をお願いすることを思いつく3人だが…!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s7_p1/thumb001.png" />
 	</programme>
-	<programme channel="00s-anime-1" start="20250429143000 +0000" stop="20250430143000 +0000">
+	<programme channel="00s-anime-1" start="20250429143000 +0000" stop="20250429145600 +0000">
+		<title>ギャグマンガ日和 OPメドレー</title>
+		<desc>「ギャグマンガ日和」 アニメ全シリーズのオープニング・エンディングを24時間耐久レース！
+どこまで耐えられる？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p601/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250429145600 +0000" stop="20250429152200 +0000">
+		<title>ギャグマンガ日和 EDメドレー</title>
+		<desc>「ギャグマンガ日和」 アニメ全シリーズのオープニング・エンディングを24時間耐久レース！
+どこまで耐えられる？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p602/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250429152200 +0000" stop="20250429154800 +0000">
+		<title>ギャグマンガ日和2 OPメドレー</title>
+		<desc>「ギャグマンガ日和」 アニメ全シリーズのオープニング・エンディングを24時間耐久レース！
+どこまで耐えられる？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s2_p601/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250429154800 +0000" stop="20250429161400 +0000">
+		<title>ギャグマンガ日和2 EDメドレー</title>
+		<desc>「ギャグマンガ日和」 アニメ全シリーズのオープニング・エンディングを24時間耐久レース！
+どこまで耐えられる？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s2_p602/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250429161400 +0000" stop="20250429163900 +0000">
+		<title>ギャグマンガ日和3 OPメドレー</title>
+		<desc>「ギャグマンガ日和」 アニメ全シリーズのオープニング・エンディングを24時間耐久レース！
+どこまで耐えられる？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s3_p601/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250429163900 +0000" stop="20250429170500 +0000">
+		<title>ギャグマンガ日和3 EDメドレー</title>
+		<desc>「ギャグマンガ日和」 アニメ全シリーズのオープニング・エンディングを24時間耐久レース！
+どこまで耐えられる？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s3_p602/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250429170500 +0000" stop="20250429173000 +0000">
+		<title>ギャグマンガ日和＋ OPメドレー</title>
+		<desc>「ギャグマンガ日和」 アニメ全シリーズのオープニング・エンディングを24時間耐久レース！
+どこまで耐えられる？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s4_p601/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250429173000 +0000" stop="20250429175600 +0000">
+		<title>ギャグマンガ日和＋ EDメドレー</title>
+		<desc>「ギャグマンガ日和」 アニメ全シリーズのオープニング・エンディングを24時間耐久レース！
+どこまで耐えられる？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s4_p602/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250429175600 +0000" stop="20250429182200 +0000">
+		<title>ギャグマンガ日和GO OPメドレー</title>
+		<desc>「ギャグマンガ日和」 アニメ全シリーズのオープニング・エンディングを24時間耐久レース！
+どこまで耐えられる？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s5_p601/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250429182200 +0000" stop="20250429184700 +0000">
+		<title>ギャグマンガ日和GO EDメドレー</title>
+		<desc>「ギャグマンガ日和」 アニメ全シリーズのオープニング・エンディングを24時間耐久レース！
+どこまで耐えられる？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s5_p602/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250429184700 +0000" stop="20250430143000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/00s-anime-1/logo.png" />
@@ -13573,9 +14074,12 @@ FANTASTICSとイケメン芸人がカッコ良さを競う!
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-273_s3_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250425130000 +0000" stop="20250425130300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 4/25</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p25/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250425130300 +0000" stop="20250425135700 +0000">
 		<title>ななにー 地下ABEMA #69 普通の主婦なのにとんでもないことになっちゃった</title>
@@ -13593,9 +14097,12 @@ FANTASTICSとイケメン芸人がカッコ良さを競う!
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-980_s102_p170/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250425135700 +0000" stop="20250425140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 4/25</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p25/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250425140000 +0000" stop="20250425143000 +0000">
 		<title>#32：【前編】第2回引かないとタバコが吸えない ニコチンパチンコ！</title>
@@ -13926,7 +14433,7 @@ AIの最終進化は…神…？
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250427120300 +0000" stop="20250427125700 +0000">
-		<title>しくじり先生 俺みたいになるな!! #275</title>
+		<title>しくじり先生 #275 格闘王・前田日明 伝説アウトローが起こしたやり過ぎ事件!</title>
 		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p312/thumb001.png" />
 	</programme>
@@ -14035,10 +14542,34 @@ AIの最終進化は…神…？
 成し遂げたい未来のために、メンバー10人の生き残りをかけた戦いが始まる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2014_s1_p101/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250428040000 +0000" stop="20250428085400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	<programme channel="abema-special" start="20250428040000 +0000" stop="20250428070000 +0000">
+		<title>今日好き 卒業編2025 in ソウル #1~3【月火13時/今日好きアワー】</title>
+		<desc>■卒業編2025 in ソウル #1
+
+ついに、卒業編スタート！
+「顔が見えた瞬間、嬉しくて…」
+はるなとの再会にたくやが思いもよらぬ行動に！？
+
+「会いたかった」「初めて誘われたの」
+初日から急接近するメンバーたち。
+11人の恋の行方は…？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1965_s680_p1001/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250428070000 +0000" stop="20250428080000 +0000">
+		<title>泣かないで。わたしのだいすきな人。 今日好き＃３</title>
+		<desc>前回の旅から、せりを想い続けるひなた。
+「2人で話したい」ひなたが伝えたこととは？
+
+2日目は思わぬ形で急接近！？
+でも、離れて気がつく想いもあって…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s700_p1003/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250428080000 +0000" stop="20250428085400 +0000">
+		<title>死ぬほど愛して #5 終わりの始まり</title>
+		<desc>南沢夕陽（久間田琳加）が命を賭して得た神城真人（成宮寛貴）の取材データを持って、石黒颯馬（細田善彦）は警部補・富沢（山口馬木也）のもとを訪ねる。
+そこには、真人のにわかには信じがたい真実が記されていた。
+明かされる真人の過去と、真の姿。果たして真人は何を企んでいるのか……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250428085400 +0000" stop="20250428110000 +0000">
 		<title>ハニーレモンソーダ【無料1週間】</title>
@@ -14046,9 +14577,15 @@ AIの最終進化は…神…？
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/319-32_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250428110000 +0000" stop="20250428112700 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>#7：FRUITS ZIPPERが入学式にサプライズ潜入！担任の先生とワード対決</title>
+		<desc>FRUITS ZIPPERのメンバーが
+人生の門出を迎える人々に向け
+全力の「おめでとう」を届ける―
+
+今回は高校の入学式にサプライズ潜入！
+メンバー７人で知恵を絞って「生徒にかけるハッピーな言葉」を考え
+新入生を担任する先生達と“心にささるワード”対決</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2027_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250428112700 +0000" stop="20250428115700 +0000">
 		<title>薬屋のひとりごと #40</title>
@@ -14091,7 +14628,31 @@ AIの最終進化は…神…？
 ひなたが今一番気になるのは一体誰？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s700_p1004/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250428130000 +0000" stop="20250428140000 +0000">
+	<programme channel="abema-special" start="20250428130000 +0000" stop="20250428131500 +0000">
+		<title>【先行配信】4/30（水）よる9時放送！今日好きメンバーが送る新バラエティ番組</title>
+		<desc>4/30（水）よる9時からの放送に先立ち、#0を先行配信！
+
+・筋肉メンバーと、お笑い界の筋肉キング野田クリスタルが送るマッチョ部
+・ゆきぽよ＆ゆみちぃ、そしてギャルメンバーが日本文化に挑戦？！
+・人気企画 あの街もお引越し！今回の舞台は熊本。
+
+これをみたら、もっとすぱのびを楽しめる！
+
+▼すぱのびとは？
+放課後がやってきた！さあ、出かけよう！
+高校生たちが新しい人たちと、普段とは違った環境で、やったことないことに挑戦するバラエティ番組。
+高校生たちは、自らの”のびしろ”を求めチャレンジする中で、大人になる第一歩を踏み出します。
+今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2031_s1_p100/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250428131500 +0000" stop="20250428135700 +0000">
+		<title>死ぬほど愛して #5 終わりの始まり</title>
+		<desc>南沢夕陽（久間田琳加）が命を賭して得た神城真人（成宮寛貴）の取材データを持って、石黒颯馬（細田善彦）は警部補・富沢（山口馬木也）のもとを訪ねる。
+そこには、真人のにわかには信じがたい真実が記されていた。
+明かされる真人の過去と、真の姿。果たして真人は何を企んでいるのか……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250428135700 +0000" stop="20250428140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14102,9 +14663,13 @@ AIの最終進化は…神…？
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/319-32_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250428160600 +0000" stop="20250428190000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>死ぬほど愛して 第1話~4話</title>
+		<desc>エリートサラリーマンの神城真人（成宮寛貴）とその妻の澪（瀧本美織）は、順風満帆な結婚生活を送っていた。
+ところがある日、澪は出張に出掛けたはずの真人から送られてきた写真がネットから拾ったアリバイ写真だと気づいてしまう。
+平穏な日常にもたらされる一抹の疑念。
+さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
+仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250428190000 +0000" stop="20250428220000 +0000">
 		<title>さよならプロポーズ via ギリシャ #4~6</title>
@@ -14129,10 +14694,32 @@ AIの最終進化は…神…？
 		<desc>パーティーの日の夜、スリョンはソラが育った児童養護施設を訪ねていた。噴水台に落ちたソラを発見したヘラパレスの面々は、さまざまな口実をつけて遺体の遺棄と証拠隠滅に加担する。式典開始までに彼らの取った行動は...?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-218_s1_p7/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250429040000 +0000" stop="20250429070000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	<programme channel="abema-special" start="20250429040000 +0000" stop="20250429060000 +0000">
+		<title>今日好き 卒業編2025 in ソウル #4~5【月火13時/今日好きアワー】</title>
+		<desc>■卒業編2025 in ソウル #4
+
+告白前夜。
+運命のグループデートで急接近するメンバー、自分の想いに気が付くメンバー。
+
+「きゅんってなるかも」ひなのを巡る恋の行方に進展！？
+のあは号泣。その理由は？
+
+久しぶりに11人が集まり、ついに明かされる旅の秘密。
+見届け人も驚き…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1965_s680_p1004/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250429060000 +0000" stop="20250429070000 +0000">
+		<title>"ともだち" キミだけには言ってほしくなかったな。 今日好き＃４</title>
+		<desc>2日目のグループ分け。
+とういと離れてしまったさわ。
+「寂しいなと思ってた、好きだから。」
+とういの今の気持ちは誰にある...？
+
+「一番最初に思い浮かぶのは...」
+1日目の夜、せりに振られてしまい涙したひなた。
+気持ちを切り替え迎えた2日目。
+ひなたが今一番気になるのは一体誰？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s700_p1004/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250429070000 +0000" stop="20250429090600 +0000">
 		<title>ハニーレモンソーダ【無料1週間】</title>
@@ -14140,9 +14727,11 @@ AIの最終進化は…神…？
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/319-32_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250429090600 +0000" stop="20250429094500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>死ぬほど愛して #5 終わりの始まり</title>
+		<desc>南沢夕陽（久間田琳加）が命を賭して得た神城真人（成宮寛貴）の取材データを持って、石黒颯馬（細田善彦）は警部補・富沢（山口馬木也）のもとを訪ねる。
+そこには、真人のにわかには信じがたい真実が記されていた。
+明かされる真人の過去と、真の姿。果たして真人は何を企んでいるのか……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250429094500 +0000" stop="20250429115700 +0000">
 		<title>ホ食堂～時空を超えた恋のシェフ 第7〜8話【日本初・独占配信】</title>
@@ -14168,7 +14757,41 @@ AIの最終進化は…神…？
 それでも、愛を誓えますか？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2030_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250429125700 +0000" stop="20250429190000 +0000">
+	<programme channel="abema-special" start="20250429125700 +0000" stop="20250429142700 +0000">
+		<title>死ぬほど愛して 第1話~2話</title>
+		<desc>エリートサラリーマンの神城真人（成宮寛貴）とその妻の澪（瀧本美織）は、順風満帆な結婚生活を送っていた。
+ところがある日、澪は出張に出掛けたはずの真人から送られてきた写真がネットから拾ったアリバイ写真だと気づいてしまう。
+平穏な日常にもたらされる一抹の疑念。
+さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
+仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250429142700 +0000" stop="20250429143000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20250429143000 +0000" stop="20250429150000 +0000">
+		<title>未来を駆ける！モビリティ まるわかりSHOW</title>
+		<desc>新たな事業共創を推進する「ビジネスイベント」として開催された
+『JAPAN MOBILITY SHOW BIZWEEK 2024』
+未来のモビリティを形にする、最前線の様子をお届け！
+この番組では、そんな未来へ発信する企業たちの実態を調査し
+どんなサービスが展開されているのかを徹底解剖します！ 
+
+【提供：一般社団法人日本自動車工業会】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-306_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250429150000 +0000" stop="20250429183300 +0000">
+		<title>死ぬほど愛して 第1話~5話</title>
+		<desc>エリートサラリーマンの神城真人（成宮寛貴）とその妻の澪（瀧本美織）は、順風満帆な結婚生活を送っていた。
+ところがある日、澪は出張に出掛けたはずの真人から送られてきた写真がネットから拾ったアリバイ写真だと気づいてしまう。
+平穏な日常にもたらされる一抹の疑念。
+さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
+仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250429183300 +0000" stop="20250429190000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14192,7 +14815,16 @@ AIの最終進化は…神…？
 		<desc>メゾソプラノに振り分けられたことに抗議したロナは、担任のマ・ドゥギに難曲を歌うよう指示され、実力を試される。スリョンはユニにヘラパレスへの引っ越しを勧める。ユンチョルは、ソジンがダンテと密会する店に向かう。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-218_s1_p16/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250430040500 +0000" stop="20250430120000 +0000">
+	<programme channel="abema-special" start="20250430040500 +0000" stop="20250430074500 +0000">
+		<title>死ぬほど愛して 第1話~5話</title>
+		<desc>エリートサラリーマンの神城真人（成宮寛貴）とその妻の澪（瀧本美織）は、順風満帆な結婚生活を送っていた。
+ところがある日、澪は出張に出掛けたはずの真人から送られてきた写真がネットから拾ったアリバイ写真だと気づいてしまう。
+平穏な日常にもたらされる一抹の疑念。
+さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
+仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250430074500 +0000" stop="20250430120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14210,7 +14842,20 @@ AIの最終進化は…神…？
 今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p87/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250430130000 +0000" stop="20250430140000 +0000">
+	<programme channel="abema-special" start="20250430130000 +0000" stop="20250430135700 +0000">
+		<title>"ともだち" キミだけには言ってほしくなかったな。 今日好き＃４</title>
+		<desc>2日目のグループ分け。
+とういと離れてしまったさわ。
+「寂しいなと思ってた、好きだから。」
+とういの今の気持ちは誰にある...？
+
+「一番最初に思い浮かぶのは...」
+1日目の夜、せりに振られてしまい涙したひなた。
+気持ちを切り替え迎えた2日目。
+ひなたが今一番気になるのは一体誰？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s700_p1004/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250430135700 +0000" stop="20250430140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14225,7 +14870,16 @@ AIの最終進化は…神…？
 東京のみならず全国のキャバクラで働く人気キャストに焦点を当てて、日本全体のキャバクラ界を盛り上げます</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-265_s1_p30/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250430150000 +0000" stop="20250430190000 +0000">
+	<programme channel="abema-special" start="20250430150000 +0000" stop="20250430183300 +0000">
+		<title>死ぬほど愛して 第1話~5話</title>
+		<desc>エリートサラリーマンの神城真人（成宮寛貴）とその妻の澪（瀧本美織）は、順風満帆な結婚生活を送っていた。
+ところがある日、澪は出張に出掛けたはずの真人から送られてきた写真がネットから拾ったアリバイ写真だと気づいてしまう。
+平穏な日常にもたらされる一抹の疑念。
+さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
+仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250430183300 +0000" stop="20250430190000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14240,7 +14894,37 @@ AIの最終進化は…神…？
 		<desc>ユニはダンテの懐に入るため、ローガンをダンテに会わせる作戦を進める。ホテルで秘書を待ち伏せ、ローガンに会わせてほしいと頼み込む。一方、捨てたはずの指輪が花束と共に届いたソジンは、ダンテの元にどなり込みに行く。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-218_s1_p25/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250501040000 +0000" stop="20250501140000 +0000">
+	<programme channel="abema-special" start="20250501040000 +0000" stop="20250501065400 +0000">
+		<title>FRUITS ZIPPERの超めでたいさぷらいずTV #1~6</title>
+		<desc>FRUITS ZIPPERのメンバーが 
+人生の門出を迎える人々に向け 
+全力の「おめでとう」を届ける― 
+ 
+今回は高校の卒業式にこっそり潜入し 
+サプライズライブを敢行！ 
+メンバーたちは無事にライブを成功させ 
+卒業生たちにエールを送ることができるのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2027_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250501065400 +0000" stop="20250501102700 +0000">
+		<title>死ぬほど愛して 第1話~5話</title>
+		<desc>エリートサラリーマンの神城真人（成宮寛貴）とその妻の澪（瀧本美織）は、順風満帆な結婚生活を送っていた。
+ところがある日、澪は出張に出掛けたはずの真人から送られてきた写真がネットから拾ったアリバイ写真だと気づいてしまう。
+平穏な日常にもたらされる一抹の疑念。
+さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
+仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250501102700 +0000" stop="20250501135700 +0000">
+		<title>死ぬほど愛して 第1話~5話</title>
+		<desc>エリートサラリーマンの神城真人（成宮寛貴）とその妻の澪（瀧本美織）は、順風満帆な結婚生活を送っていた。
+ところがある日、澪は出張に出掛けたはずの真人から送られてきた写真がネットから拾ったアリバイ写真だと気づいてしまう。
+平穏な日常にもたらされる一抹の疑念。
+さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
+仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250501135700 +0000" stop="20250501140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14266,9 +14950,15 @@ AIの最終進化は…神…？
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-56_s3_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250501183000 +0000" stop="20250501190100 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ナオキマンの都市伝説ワイドショー#3：最新AIが創造する新世界</title>
+		<desc>【AIの進化で私たちの生活はどう変わるのか都市伝説視点で見たら…】
+AIによって奪われる意外な職業とは？
+日本政府が推し進める極秘のAIプログラムとは？
+AIの普及でデモ・テロが頻発する可能性とその理由!?
+AIの進化で人間の記憶がいじられる？
+AIの最終進化は…神…？
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250501190100 +0000" stop="20250501220000 +0000">
 		<title>来世ではちゃんとします3 後半一挙【無料1週間】</title>
@@ -15807,9 +16497,12 @@ RIZINガールは「君気に入った」と３００万を出され…
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p34/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250425115700 +0000" stop="20250425120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 4/25</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p25/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250425120000 +0000" stop="20250425150000 +0000">
 		<title>死ぬほど愛して 第1話~4話</title>
@@ -16328,9 +17021,14 @@ AIの最終進化は…神…？
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250428143100 +0000" stop="20250428150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>#32：【前編】第2回引かないとタバコが吸えない ニコチンパチンコ！</title>
+		<desc>パチンカーにとって最も美味しいタバコのタイミングの瞬間は
+ラッキートリガーの後
+最も美味しいタイミングを実感すべく、喫煙パチンカーがタバコを取り上げられ
+ラッキートリガーを引くまでタバコが吸えないニコチンパチンコ！
+
+今回は田口淳之介が参戦！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p32/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250428150000 +0000" stop="20250428170000 +0000">
 		<title>チャンスの時間 GW厳選回SP パチフェッショナル #260#304</title>
@@ -16513,10 +17211,43 @@ SOLO(1名)×3試合/DUO(2名)×1試合/TRIO(3名)×1試合の合計5試合で、
 驚きの性転換手術に挑んだトランスジェンダーモデルの生き様に密着</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s1_p5/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250429202900 +0000" stop="20250430010000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20250429202900 +0000" stop="20250429210000 +0000">
+		<title>ナオキマンの都市伝説ワイドショー#3：最新AIが創造する新世界</title>
+		<desc>【AIの進化で私たちの生活はどう変わるのか都市伝説視点で見たら…】
+AIによって奪われる意外な職業とは？
+日本政府が推し進める極秘のAIプログラムとは？
+AIの普及でデモ・テロが頻発する可能性とその理由!?
+AIの進化で人間の記憶がいじられる？
+AIの最終進化は…神…？
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250429210000 +0000" stop="20250429220000 +0000">
+		<title>パーラーカチ盛り ABEMA店 #30~31</title>
+		<desc>第３回パチンコ・パチスロ知識王！
+
+前回チャンピオンの沖ヒカルが後輩ライターを引き連れ参戦！
+さらにクズパチンカーチーム、我らが盛山店長率いるチームも加わり大波乱のバトルを繰り広げる！
+果たして優勝はどこのチームなのか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p30/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250429220000 +0000" stop="20250430000000 +0000">
+		<title>世界の果てに、ひろゆき置いてきた シーズン1 #5~6</title>
+		<desc>ひろゆき＆東出昌大のアフリカ放置旅は
+ザンビアの更なる奥地へと続く。
+
+田舎の露店で出会った怪しい商人に
+謎の葉を売り込まれて…
+
+アフリカ大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250430000000 +0000" stop="20250430010000 +0000">
+		<title>死ぬほど愛して #5 終わりの始まり</title>
+		<desc>南沢夕陽（久間田琳加）が命を賭して得た神城真人（成宮寛貴）の取材データを持って、石黒颯馬（細田善彦）は警部補・富沢（山口馬木也）のもとを訪ねる。
+そこには、真人のにわかには信じがたい真実が記されていた。
+明かされる真人の過去と、真の姿。果たして真人は何を企んでいるのか……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250430010000 +0000" stop="20250430030000 +0000">
 		<title>トリック新作スペシャル2【無料1週間】</title>
@@ -16525,10 +17256,34 @@ SOLO(1名)×3試合/DUO(2名)×1試合/TRIO(3名)×1試合の合計5試合で、
 ある日、上田の研究室に一夜村という山奥の寒村から西園寺誠一という青年が訪ねてくる。村には昔から、契り祭りという祭りがあり、好きな相手の体の一部を紙に包み、契り岩と呼ばれる巨岩に括られた縄に結びつければ恋が成就するという言い伝えがある。しかし、もし一方だけしか願を掛けなかった場合、ふられた方は3日以内に死ぬという。誠一は、上田にそんな言い伝えなど迷信だと証明してほしいと頼みに来たのだ。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-26_s2_p2/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250430030000 +0000" stop="20250430060000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20250430030000 +0000" stop="20250430041000 +0000">
+		<title>しくじり先生 月探査ミッション「アポロ計画」 #271~272</title>
+		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p308/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250430041000 +0000" stop="20250430051000 +0000">
+		<title>ハッシュタグハウス #1【男磨きハウス参加者募集中！】</title>
+		<desc>ひとつ屋根の下、ここはSNSの舞台裏ー。
+総フォロワー1000万超えのインフルエンサー10人が、謎の共同生活を送る「ハッシュタグハウス」
+その家では、SNSスキルを競う秘密のバトルゲームが開幕！
+
+インフルエンサーとしてのプライドをかけたバトルを通じ
+"SNSでは見せない裏側"が剥き出しになっていくー。
+
+優勝者には、願いが叶うご褒美が。
+成し遂げたい未来のために、メンバー10人の生き残りをかけた戦いが始まる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2014_s1_p101/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250430051000 +0000" stop="20250430060000 +0000">
+		<title>ナオキマンの都市伝説ワイドショー#1：芸能界とメディアの闇</title>
+		<desc>【あの元芸能人とテレビ局の騒動による都市伝説視点で見たら…】
+スピン報道で芸能人が生贄に？
+芸能界と政界は裏で繋がっている？
+ある巨大派閥の権力者が根こそぎ狙われている？
+日本にも存在する性的ビジネスの闇
+2032年地球に隕石が衝突？
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250430060000 +0000" stop="20250430080000 +0000">
 		<title>トリック新作スペシャル2【無料1週間】</title>
@@ -16537,7 +17292,116 @@ SOLO(1名)×3試合/DUO(2名)×1試合/TRIO(3名)×1試合の合計5試合で、
 ある日、上田の研究室に一夜村という山奥の寒村から西園寺誠一という青年が訪ねてくる。村には昔から、契り祭りという祭りがあり、好きな相手の体の一部を紙に包み、契り岩と呼ばれる巨岩に括られた縄に結びつければ恋が成就するという言い伝えがある。しかし、もし一方だけしか願を掛けなかった場合、ふられた方は3日以内に死ぬという。誠一は、上田にそんな言い伝えなど迷信だと証明してほしいと頼みに来たのだ。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-26_s2_p2/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250430080000 +0000" stop="20250501010000 +0000">
+	<programme channel="special-plus" start="20250430080000 +0000" stop="20250430100000 +0000">
+		<title>FRUITS ZIPPERの超めでたいさぷらいずTV #1~4</title>
+		<desc>FRUITS ZIPPERのメンバーが 
+人生の門出を迎える人々に向け 
+全力の「おめでとう」を届ける― 
+ 
+今回は高校の卒業式にこっそり潜入し 
+サプライズライブを敢行！ 
+メンバーたちは無事にライブを成功させ 
+卒業生たちにエールを送ることができるのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2027_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250430100000 +0000" stop="20250430115700 +0000">
+		<title>世界の果てに、東出ひろゆき置いてきたシーズン1 #1~2</title>
+		<desc>とりあえず、ひろゆきをナミビアの砂漠に置き去りにしました。
+アフリカ大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250430115700 +0000" stop="20250430120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20250430120000 +0000" stop="20250430124500 +0000">
+		<title>限界オタクション #6【今夜はモンハンSP】</title>
+		<desc>“推し”とファンの愛と感謝が交差する新感覚バラエティ番組「限界オタクション」！
+今をときめく人気アーティストが毎話登場し、その"推し”への愛が溢れて仕方ない“限界オタク”が彼らの魅力や愛を語り尽くす。
+今夜はモンハンスペシャル！モンハン愛の止まらない限界オタクたちが、プレイステーション®5で最新作の「モンスターハンターワイルズ」を遊びつくす！
+【楽曲提供】OWV/DXTEEN
+【協力】プレイステーション®</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-293_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250430124500 +0000" stop="20250430150000 +0000">
+		<title>FRUITS ZIPPERの超めでたいさぷらいずTV #1~4</title>
+		<desc>FRUITS ZIPPERのメンバーが 
+人生の門出を迎える人々に向け 
+全力の「おめでとう」を届ける― 
+ 
+今回は高校の卒業式にこっそり潜入し 
+サプライズライブを敢行！ 
+メンバーたちは無事にライブを成功させ 
+卒業生たちにエールを送ることができるのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2027_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250430150000 +0000" stop="20250430170000 +0000">
+		<title>チャンスの時間 GW厳選回SP 前澤友作飲み会ネタGP #289#307</title>
+		<desc>【第1回 前澤友作飲み会ネタGP】
+社長界の最高峰・前澤友作に気に入られたい！
+前澤友作の飲み会に参加すべく、新進気鋭の芸人達が飲み会ネタを披露！
+
+前澤友作がどハマりしているちゃんぴおんずとノブが審査して、
+最高峰の仲間入りできる芸人は現れるのか!?
+
+大ちゃん「大事なのはドラムと一緒にネタができるか」
+テレビを観ない前澤友作の独特な審査基準に芸人達が振り回される!?
+
+【ノブが笑わなかったら裸芸即封印】
+今、オダウエダ・植田が安易な裸芸に手を染めつつある。
+エスカレートして悪い方向に向かわないように、吉本のキャプテン・ノブが、植田を止める！
+
+植田のギリギリの裸芸がノブに襲いかかる！
+しかし、ノブがガチギレ説教!?「おい 汚いからやめろ」一体なぜ…!?
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p289/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250430170000 +0000" stop="20250430190000 +0000">
+		<title>愛のハイエナ season3 #7~8</title>
+		<desc>「山本裕典、ホストになる。」新店舗編 第４弾
+この日は、クリスマスイベント当日
+前回同様、落ちこぼれホストの面倒を見るも成果は出ず―
+すると宿敵JINとまたもや衝突し、ブチギレ！
+さらに
+借金男と金持ち女の恋愛
+脱落者発表で、さらに加速する恋の行方は―</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s3_p7/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250430190000 +0000" stop="20250430205000 +0000">
+		<title>ダマってられない女たち #7~8</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
+
+お笑い芸人ゆってぃの妻 石川あんなの出産に完全密着
+二度の流産、そして不妊治療を経て授かった命－
+分娩室で長時間 力を振り絞る姿にスタジオ号泣
+さらに
+元SKE48北野瑠華が東京秘密基地 新人セラピストと禁断デート</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250430205000 +0000" stop="20250430220000 +0000">
+		<title>パーラーカチ盛り ABEMA店 #26#29</title>
+		<desc>パチンコNEWS 
+日直島田が来店女子2025年の最新事情を切る！
+炎上パチンカー、泥酔パチンカーや
+まさかAI演者まで！？
+
+パチンコバイト面接官
+山田優、山田親太朗の実の弟がバイト面接に登場！
+最強のDNAを持つ男、カチ盛りバイト採用なるか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p26/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250430220000 +0000" stop="20250501000100 +0000">
+		<title>世界の果てに、ひろゆき置いてきた シーズン1 #7~8</title>
+		<desc>世界最貧国マラウイでひろゆき＆東出昌大が事故に巻き込まれる。
+旅を続けることは出来るのか…？
+
+アフリカ大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250501000100 +0000" stop="20250501010000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -16584,265 +17448,6 @@ SOLO(1名)×3試合/DUO(2名)×1試合/TRIO(3名)×1試合の合計5試合で、
 		<title>凶気の桜【無料1週間】</title>
 		<desc>渋谷のストリート、若きナショナリストの結社が誕生した。特注の白い戦闘服を身にまとい、半端な不良どもを狩っていく3人。そんな中、右翼系の暴力団・青修同盟の会長の靑田と出会ったことから、生きる場所を奪い合う生存競争に3人は呑み込まれていく...。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/184-88_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250419112500 +0000" stop="20250419144500 +0000">
-		<title>KEIRIN ADVANCE 青森 F2 初日</title>
-		<desc>新しいKEIRINが始まります！
-
-競輪未経験者や初心者への分かりやすいレース提供のため、ガールズケイリンと同じ先頭固定競走（インターナショナル）ルールによる男子選手の新レースがついに開幕！
-
-番組では、元競輪選手の解説者による「展開予想・解説」だけでなく、KEIRIN ADVANCEの予想ポイントをまとめたさまざまなデータも紹介します！
-これを見れば初心者でも予想が簡単！
-
-伊東 F1 初日は競輪ch、青森 F2 初日はSPECIAL3chでお楽しみください！
-豪華キャストとKEIRIN ADVANCEを楽しみましょう！
-
-番組視聴は、お酒と共に！ご友人と共に！
-そして投票サービス「WINTICKET」と共にお楽しみください！
-まだご登録されていない方はWINTICKETをご登録の上ご視聴ください！
-
-▼ウィンチケット競輪
-https://www.winticket.jp/keirin/
-▼青森競輪
-https://www.winticket.jp/keirin/aomori/
-▼青森出走表
-https://www.winticket.jp/keirin/aomori/racecard/
-▼青森オッズ
-https://www.winticket.jp/keirin/itoh/odds/
-▼KEIRIN ADVANCE 青森 F2 初日
-https://www.winticket.jp/keirin/aomori/racecard/2025041912/?index=1</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-4_s1_p22211/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250419144500 +0000" stop="20250420112500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250420112500 +0000" stop="20250420144500 +0000">
-		<title>KEIRIN ADVANCE 青森 F2 第2日</title>
-		<desc>新しいKEIRINが始まります！
-
-競輪未経験者や初心者への分かりやすいレース提供のため、ガールズケイリンと同じ先頭固定競走（インターナショナル）ルールによる男子選手の新レースがついに開幕！
-
-番組では、元競輪選手の解説者による「展開予想・解説」だけでなく、KEIRIN ADVANCEの予想ポイントをまとめたさまざまなデータも紹介します！
-これを見れば初心者でも予想が簡単！
-
-伊東 F1 2日目は競輪ch、青森 F2 2日目はSPECIAL3chでお楽しみください！
-豪華キャストとKEIRIN ADVANCEを楽しみましょう！
-
-番組視聴は、お酒と共に！ご友人と共に！
-そして投票サービス「WINTICKET」と共にお楽しみください！
-まだご登録されていない方はWINTICKETをご登録の上ご視聴ください！
-
-▼ウィンチケット競輪
-https://www.winticket.jp/keirin/
-▼青森競輪
-https://www.winticket.jp/keirin/aomori/
-▼青森出走表
-https://www.winticket.jp/keirin/aomori/racecard/
-▼青森オッズ
-https://www.winticket.jp/keirin/itoh/odds/
-▼KEIRIN ADVANCE 青森 F2 第2日
-https://www.winticket.jp/keirin/aomori/racecard/2025041912/?index=2</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-4_s1_p22212/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250420144500 +0000" stop="20250421112500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250421112500 +0000" stop="20250421144500 +0000">
-		<title>KEIRIN ADVANCE 青森 F2 最終日</title>
-		<desc>新しいKEIRINが始まります！
-
-競輪未経験者や初心者への分かりやすいレース提供のため、ガールズケイリンと同じ先頭固定競走（インターナショナル）ルールによる男子選手の新レースがついに開幕！
-
-番組では、元競輪選手の解説者による「展開予想・解説」だけでなく、KEIRIN ADVANCEの予想ポイントをまとめたさまざまなデータも紹介します！
-これを見れば初心者でも予想が簡単！
-
-伊東 F1 最終日は競輪ch、青森 F2 最終日はSPECIAL3chでお楽しみください！
-豪華キャストとKEIRIN ADVANCEを楽しみましょう！
-
-番組視聴は、お酒と共に！ご友人と共に！
-そして投票サービス「WINTICKET」と共にお楽しみください！
-まだご登録されていない方はWINTICKETをご登録の上ご視聴ください！
-
-▼ウィンチケット競輪
-https://www.winticket.jp/keirin/
-▼青森競輪
-https://www.winticket.jp/keirin/aomori/
-▼青森出走表
-https://www.winticket.jp/keirin/aomori/racecard/
-▼青森オッズ
-https://www.winticket.jp/keirin/itoh/odds/
-▼KEIRIN ADVANCE 青森 F2 最終日
-https://www.winticket.jp/keirin/aomori/racecard/2025041912/?index=3</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-4_s1_p22213/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250421144500 +0000" stop="20250422112500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250422112500 +0000" stop="20250422144500 +0000">
-		<title>KEIRIN ADVANCE 高知 F2 初日</title>
-		<desc>新KEIRINが始まっています！
-
-競輪未経験者や初心者への分かりやすいレース提供のため、ガールズケイリンと同じ先頭固定競走ルールによる男子選手の新レース！
-番組では、元競輪選手の解説者による「展開予想・解説」だけでなく、KEIRIN ADVANCEの予想ポイントをまとめたさまざまなデータも紹介します！
-これを見れば初心者でも予想が簡単！
-
-宇都宮 F1 初日は競輪ch、高知 F2 初日はSPECIAL3chでお楽しみください！
-豪華キャストとKEIRIN ADVANCEを楽しみましょう！
-
-番組視聴は、お酒、ご友人と、
-そして投票サービス「WINTICKET」と共にお楽しみください！
-まだご登録されていない方はWINTICKETをご登録の上ご視聴ください！
-
-▼ウィンチケット競輪
-https://www.winticket.jp/keirin/
-▼高知競輪
-https://www.winticket.jp/keirin/kochi/
-▼高知出走表
-https://www.winticket.jp/keirin/kochi/racecard/
-▼高知オッズ
-https://www.winticket.jp/keirin/kochi/odds/
-▼KEIRIN ADVANCE 高知 F1 初日
-https://www.winticket.jp/keirin/kochi/racecard/2025042274/?index=1</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-4_s1_p22215/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250422144500 +0000" stop="20250423112500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250423112500 +0000" stop="20250423144500 +0000">
-		<title>KEIRIN ADVANCE 高知 F2 第2日</title>
-		<desc>新KEIRINが始まっています！
-
-競輪未経験者や初心者への分かりやすいレース提供のため、ガールズケイリンと同じ先頭固定競走ルールによる男子選手の新レース！
-番組では、元競輪選手の解説者による「展開予想・解説」だけでなく、KEIRIN ADVANCEの予想ポイントをまとめたさまざまなデータも紹介します！
-これを見れば初心者でも予想が簡単！
-
-宇都宮 F1 2日目は競輪ch、高知 F2 2日目はSPECIAL3chでお楽しみください！
-豪華キャストとKEIRIN ADVANCEを楽しみましょう！
-
-番組視聴は、お酒、ご友人と、
-そして投票サービス「WINTICKET」と共にお楽しみください！
-まだご登録されていない方はWINTICKETをご登録の上ご視聴ください！
-
-▼ウィンチケット競輪
-https://www.winticket.jp/keirin/
-▼高知競輪
-https://www.winticket.jp/keirin/kochi/
-▼高知出走表
-https://www.winticket.jp/keirin/kochi/racecard/
-▼高知オッズ
-https://www.winticket.jp/keirin/kochi/odds/
-▼KEIRIN ADVANCE 高知 F2 第2日
-https://www.winticket.jp/keirin/kochi/racecard/2025042274/?index=1</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-4_s1_p22216/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250423144500 +0000" stop="20250424112500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250424112500 +0000" stop="20250424144500 +0000">
-		<title>KEIRIN ADVANCE 高知 F2 最終日</title>
-		<desc>新しいKEIRINがが始まります！
-
-競輪未経験者や初心者への分かりやすいレース提供のため、
-ガールズケイリンと同じ先頭固定競走（インターナショナル）ルールによる男子選手の新レースを実施！
-
-元競輪選手による「展開予想・解説」だけでなく、
-・今日の推しメン
-・ピックアップデータ
-・一発逆転！夢車券
-など、レースの特性に応じて買うべき車券とそのロジックを紹介するコーナーも実施！
-
-予想あり！笑いあり！
-これを見れば初心者でも予想が簡単！
-豪華キャストとKEIRIN ADVANCEを楽しみましょう！
-
-番組視聴は、お酒、ご友人と、
-そして投票サービス「WINTICKET」と共にお楽しみください！
-まだご登録されていない方はWINTICKETをご登録の上ご視聴ください！
-
-▼ウィンチケット競輪
-https://www.winticket.jp/keirin/
-▼高知競輪
-https://www.winticket.jp/keirin/kochi/
-▼高知出走表
-https://www.winticket.jp/keirin/kochi/racecard/
-▼高知オッズ
-https://www.winticket.jp/keirin/kochi/odds/
-▼KEIRIN ADVANCE 高知 F2 最終日
-https://www.winticket.jp/keirin/kochi/racecard/2025042274/?index=3</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-4_s1_p22217/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250424144500 +0000" stop="20250425080000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250425080000 +0000" stop="20250425100000 +0000">
-		<title>RIZIN男祭り 緊急記者会見</title>
-		<desc>緊急生放送決定！！
-5月4日（日）に開催される日本最大級の格闘技イベント「RIZIN男祭り」
-緊急記者会見を生放送！
-開催まであと1週間の『RIZIN男祭り』の新情報が明らかに...
-RIZIN CEOの榊󠄀原信行氏が何を語るのか...
-
-ーーーーーーーーーー
-5月4日(日)「RIZIN男祭り」
-
-朝倉未来が遂に復活。
-過去の敗北を乗り越え、勝利を掴みとることができるのか。
-そして、メインカードは王者クレベル・コイケが
-最強の挑戦者ラジャブアリ・シェイドゥラエフとベルトを賭けて対決！
-他にも見逃せないカードが目白押し！ABEMA PPVで全試合を生配信。
-
-「過去最大級のキャッシュバック」
-新規ABEMAプレミアム登録で
-【4,000円キャッシュバック】キャンペーンを実施中！
-ABEMAなら実質最安値！
-ーーーーーーーーーー</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s30040_p3/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250425100000 +0000" stop="20250426050000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20250426050000 +0000" stop="20250426100000 +0000">
-		<title>RIZIN男祭り 公開練習＆榊󠄀原社長に呼び出されました【ABEMA拡大SP】</title>
-		<desc>5月4日（日）日本最大級の格闘技イベント「RIZIN男祭り」が東京ドームで開催！
-
-大会を1週間後に控えた選手達を集めた「合同公開練習」と「榊󠄀原社長（バラさん）に呼び出されました」を緊急“無料”生放送が決定！！
-
-前半は、約9か月ぶりに再びリングへ上がることを決意した朝倉未来選手！対戦相手の鈴木千裕選手をはじめ、出場選手が続々と登場する「合同公開練習」を生放送。
-
-後半は、RIZINの人気コンテンツ「榊󠄀原社長（バラさん）に呼び出されました」を緊急生放送！
-特別ゲストは、朝倉選手、鈴木選手、クレベル・コイケ選手！
-RIZIN CEOの榊󠄀原信行氏が試合前の選手たちを呼び出して、本音を引き出します。更に、重大発表も…？！
-ここでしか聞くことができない貴重なトークの数々を、ぜひお楽しみください。 
-
-ーーーーーーーーーー
-5月4日(日)「RIZIN男祭り」
-
-朝倉未来が遂に復活。
-過去の敗北を乗り越え、勝利を掴みとることができるのか。
-そして、メインカードは王者クレベル・コイケが
-最強の挑戦者ラジャブアリ・シェイドゥラエフとベルトを賭けて対決！
-他にも見逃せないカードが目白押し！ABEMA PPVで全試合を生配信。
-
-「過去最大級のキャッシュバック」
-新規ABEMAプレミアム登録で
-【4,000円キャッシュバック】キャンペーンを実施中！
-ABEMAなら実質最安値！
-ーーーーーーーーーー</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s30038_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250417150000 +0000" stop="20250417170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
@@ -19171,12 +19776,12 @@ ABEMAなら実質最安値！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p33216/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20250425010000 +0000" stop="20250425020000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>参院本会議 災害対策基本法の趣旨説明･質疑など</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p33217/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20250425020000 +0000" stop="20250425030000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>参院本会議 災害対策基本法の趣旨説明･質疑など</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p33218/thumb001.png" />
 	</programme>
@@ -19191,7 +19796,7 @@ ABEMAなら実質最安値！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p33220/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20250425050000 +0000" stop="20250425060000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>小池都知事 定例会見</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p33221/thumb001.png" />
 	</programme>
@@ -24413,9 +25018,12 @@ NMIXX、ITZY、フイ(PENTAGON)、YENA、B1A4、SISTAR19、チョン・セウン
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/367-10_s1_p7990/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20250425115700 +0000" stop="20250425120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 4/25</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p25/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20250425120000 +0000" stop="20250425150000 +0000">
 		<title>チプサブイルチェ~師匠に弟子入り(チャ・ウヌ特集) #23〜24</title>
@@ -28724,9 +29332,12 @@ Mリーグ2024-25では、新Mリーガー2名が誕生し、総勢36名での�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p319/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250425145700 +0000" stop="20250425150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 4/25</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p25/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250425150000 +0000" stop="20250425184200 +0000">
 		<title>日清食品Presents 麻雀オールスター BS10チャンピオンシップ 4回戦</title>
@@ -30262,6 +30873,45 @@ ABEMAランナーとしてフルマラソン初挑戦で、完走を果たした
 
 また、東京五輪で女子最年少代表入りを果たし、パリ五輪で2大会連続の五輪出場を果たした谷川亜華葉(近大4年)や、昨年初出場の男子200m背泳ぎで初優勝した日本競泳界の次世代を担う若きホープ・竹原秀一(東洋大2年)など多くのパリ五輪代表が出場予定。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-441_s10_p4/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250429064000 +0000" stop="20250429071000 +0000">
+		<title>【再】ABEMAスポーツタイム#60</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p60/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250429071000 +0000" stop="20250429101000 +0000">
+		<title>【準々決勝】ロコ ソラーレvsTeam Einarson|24.12.1</title>
+		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
+世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
+ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
+高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s30_p5/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250429101000 +0000" stop="20250429125500 +0000">
+		<title>4v4 JAPAN CUP 2024 RESPECT YOU, au 2</title>
+		<desc>サッカー界をさらに盛り上げるべく、本田圭佑が育成年代の小学生の子ども向けに考案した新しい4人制サッカーの大会「4v4」
+今年は全国大会の準決勝・3位決定戦・決勝戦&amp;レジェンドマッチをABEMAで生中継!
+指導者は不在。子どもたちが自ら考えてプレーし勝利へと突き進む、そのクライマックスを見逃すな!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s20_p6/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250429125500 +0000" stop="20250429174500 +0000">
+		<title>S.LEAGUE 24-25 ショートボード&amp;ロングボード第1戦 DAY2 後半</title>
+		<desc>ショートボードとロングボード同時開催のSリーグ開幕戦。
+2024年8月21日(水) ~ 8月25日(日) 予備日:26日
+茨城県大洗町 磯場ポイント</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s10_p4/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250429174500 +0000" stop="20250429235500 +0000">
+		<title>S.LEAGUE 24-25 ショートボード&amp;ロングボード第1戦 DAY3 前半</title>
+		<desc>ショートボードとロングボード同時開催のSリーグ開幕戦。
+2024年8月21日(水) ~ 8月25日(日) 予備日:26日
+茨城県大洗町 磯場ポイント</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s10_p5/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250417145000 +0000" stop="20250417174500 +0000">
 		<title>【ジョン・シーナ出場】Extreme Rules 2012</title>
