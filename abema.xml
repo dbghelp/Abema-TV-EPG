@@ -52,6 +52,10 @@
 		<display-name>アニメ ポケットモンスターチャンネル2</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-2/logo.png" />
 	</channel>
+	<channel id="conan">
+		<display-name>名探偵コナンチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/conan/logo.png" />
+	</channel>
 	<channel id="family-anime-1">
 		<display-name>ファミリーアニメ</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
@@ -63,6 +67,10 @@
 	<channel id="cityhunter">
 		<display-name>シティハンターチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/cityhunter/logo.png" />
+	</channel>
+	<channel id="gundam">
+		<display-name>ガンダム特集</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
 	</channel>
 	<channel id="80s-anime-1">
 		<display-name>なつかしアニメ80's</display-name>
@@ -139,6 +147,10 @@
 	<channel id="motor-sport">
 		<display-name>MOTOR SPORTチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
+	</channel>
+	<channel id="world-sports-1">
+		<display-name>SPORTS LIVE1 チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
 	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
@@ -8157,6 +8169,244 @@ MCに岩井勇気さん、アシスタントMCに徳井青空さん、ゲスト�
 		<desc>いつも以上にテンションの高いサトシ。実は今日から授業の一環でアーカラ島へ向かうのだ。するとそこへルガルガンを連れた女性が現れた。彼女の名前はライチ、これから向かうアーカラ島のしまクイーンだ。ライチと共にアーカラ島へ向かう道中、あるトラブルが発生して・・・！？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-28_s1_p31/thumb001.png" />
 	</programme>
+	<programme channel="conan" start="20250426013000 +0000" stop="20250426083000 +0000">
+		<title>名探偵コナン #135〜270 灰原哀セレクション【無料ビデオ1週間】</title>
+		<desc>歩美は「緑美容室」の美容師・美香から自宅でカットしてあげるという申し出を受け、コナンたちと一緒に美香のマンションに行く。が、美香は何者かに殺されていた。美香の首の前方にだけ索条痕があり、美容室の店長・緑の態度に不振を抱いたコナンは、緑が気にしていた不燃ゴミ置き場を捜索するが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s4_p135/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250426083000 +0000" stop="20250426093000 +0000">
+		<title>青山剛昌アワー 読売テレビ・日本テレビ系列にて放送中</title>
+		<desc>-</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/111-1yyirbkzgnz_s100_p1/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250426093000 +0000" stop="20250426100000 +0000">
+		<title>名探偵コナン #561 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>ダイイングメッセージの謎を解いたコナンと敢助。だが証拠は何もなく、犯人を逮捕できない。するとコナンは直木司郎がイタリアのレッチェに行くと話していた話題を出し、司郎が証拠を隠した場所に気付く。敢助らはそれとなく司郎が証拠を隠した場所を容疑者３人に伝える。すると夜、犯人は司郎のアパートに現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s14_p561/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250426100000 +0000" stop="20250426173000 +0000">
+		<title>名探偵コナン #135〜270 灰原哀セレクション【無料ビデオ1週間】</title>
+		<desc>歩美は「緑美容室」の美容師・美香から自宅でカットしてあげるという申し出を受け、コナンたちと一緒に美香のマンションに行く。が、美香は何者かに殺されていた。美香の首の前方にだけ索条痕があり、美容室の店長・緑の態度に不振を抱いたコナンは、緑が気にしていた不燃ゴミ置き場を捜索するが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s4_p135/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250426173000 +0000" stop="20250426180000 +0000">
+		<title>名探偵コナン #561 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>ダイイングメッセージの謎を解いたコナンと敢助。だが証拠は何もなく、犯人を逮捕できない。するとコナンは直木司郎がイタリアのレッチェに行くと話していた話題を出し、司郎が証拠を隠した場所に気付く。敢助らはそれとなく司郎が証拠を隠した場所を容疑者３人に伝える。すると夜、犯人は司郎のアパートに現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s14_p561/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250426180000 +0000" stop="20250427013000 +0000">
+		<title>名探偵コナン #135〜270 灰原哀セレクション【無料ビデオ1週間】</title>
+		<desc>歩美は「緑美容室」の美容師・美香から自宅でカットしてあげるという申し出を受け、コナンたちと一緒に美香のマンションに行く。が、美香は何者かに殺されていた。美香の首の前方にだけ索条痕があり、美容室の店長・緑の態度に不振を抱いたコナンは、緑が気にしていた不燃ゴミ置き場を捜索するが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s4_p135/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250427013000 +0000" stop="20250427020000 +0000">
+		<title>名探偵コナン #561 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>ダイイングメッセージの謎を解いたコナンと敢助。だが証拠は何もなく、犯人を逮捕できない。するとコナンは直木司郎がイタリアのレッチェに行くと話していた話題を出し、司郎が証拠を隠した場所に気付く。敢助らはそれとなく司郎が証拠を隠した場所を容疑者３人に伝える。すると夜、犯人は司郎のアパートに現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s14_p561/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250427020000 +0000" stop="20250427093000 +0000">
+		<title>名探偵コナン #279〜436 灰原哀セレクション【無料ビデオ1週間】</title>
+		<desc>コナンたち少年探偵団と阿笠博士は、東都競技場で行われた東京スピリッツ対ノワール東京のサッカーの試合を観戦した。負けたノワール東京の戦力が落ちた原因の一つに、主力ＦＷだった比護選手の移籍があげられる。そんな話をしながら乗った帰りの電車内で、コナンたちはノワール東京の熱狂的サポーター・赤野の悲鳴を聞く。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s7_p279/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250427093000 +0000" stop="20250427100000 +0000">
+		<title>名探偵コナン #652 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>軽井沢の別荘で殺害されたデザイン会社の社長、若松耕平の事件の真相を突き止めるために東京にやってきた平次と和葉。コナンは平次たちと共に耕平の本宅を訪ね、妻の芹香から事件当日の話を聞く。次期社長を狙う育郎は椎名と藤波が持ってきたバームクーヘンを食べた直後、苦しみ出して絶命してしまう…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s17_p652/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250427100000 +0000" stop="20250427173000 +0000">
+		<title>名探偵コナン #279〜436 灰原哀セレクション【無料ビデオ1週間】</title>
+		<desc>コナンたち少年探偵団と阿笠博士は、東都競技場で行われた東京スピリッツ対ノワール東京のサッカーの試合を観戦した。負けたノワール東京の戦力が落ちた原因の一つに、主力ＦＷだった比護選手の移籍があげられる。そんな話をしながら乗った帰りの電車内で、コナンたちはノワール東京の熱狂的サポーター・赤野の悲鳴を聞く。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s7_p279/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250427173000 +0000" stop="20250427180000 +0000">
+		<title>名探偵コナン #652 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>軽井沢の別荘で殺害されたデザイン会社の社長、若松耕平の事件の真相を突き止めるために東京にやってきた平次と和葉。コナンは平次たちと共に耕平の本宅を訪ね、妻の芹香から事件当日の話を聞く。次期社長を狙う育郎は椎名と藤波が持ってきたバームクーヘンを食べた直後、苦しみ出して絶命してしまう…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s17_p652/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250427180000 +0000" stop="20250428013000 +0000">
+		<title>名探偵コナン #279〜436 灰原哀セレクション【無料ビデオ1週間】</title>
+		<desc>コナンたち少年探偵団と阿笠博士は、東都競技場で行われた東京スピリッツ対ノワール東京のサッカーの試合を観戦した。負けたノワール東京の戦力が落ちた原因の一つに、主力ＦＷだった比護選手の移籍があげられる。そんな話をしながら乗った帰りの電車内で、コナンたちはノワール東京の熱狂的サポーター・赤野の悲鳴を聞く。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s7_p279/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250428013000 +0000" stop="20250428020000 +0000">
+		<title>名探偵コナン #652 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>軽井沢の別荘で殺害されたデザイン会社の社長、若松耕平の事件の真相を突き止めるために東京にやってきた平次と和葉。コナンは平次たちと共に耕平の本宅を訪ね、妻の芹香から事件当日の話を聞く。次期社長を狙う育郎は椎名と藤波が持ってきたバームクーヘンを食べた直後、苦しみ出して絶命してしまう…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s17_p652/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250428020000 +0000" stop="20250428093000 +0000">
+		<title>名探偵コナン #453〜686 灰原哀セレクション【無料ビデオ1週間】</title>
+		<desc>コナンら少年探偵団はSF映画「スターブレイドVI」の試写会へ。開場前、フリーカメラマンの建井文吾という男性が声をかけてくる。そして昨夜、スターブレイド仲間の鴨川から試写会のチケットをよこせとしつこく電話された事を明かす。その直後、鴨川に呼び出された建井はバッグを置いて待ち合わせ場所へ向かうが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s11_p453/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250428093000 +0000" stop="20250428100000 +0000">
+		<title>名探偵コナン #653 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>米原は耕平のダイイングメッセージがSという字だったと証言。この後、本宅の風呂場のタイルが別荘、大阪の家のタイルと同じ事がわかり、コナンと平次はそのタイルを見て犯人のトリックを見破る。その頃、別荘を検証中の大和警部たちも同じ事に気付き、耕平のダイイングメッセージを発見するが、それは意外な言葉だった…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s17_p653/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250428100000 +0000" stop="20250428173000 +0000">
+		<title>名探偵コナン #453〜686 灰原哀セレクション【無料ビデオ1週間】</title>
+		<desc>コナンら少年探偵団はSF映画「スターブレイドVI」の試写会へ。開場前、フリーカメラマンの建井文吾という男性が声をかけてくる。そして昨夜、スターブレイド仲間の鴨川から試写会のチケットをよこせとしつこく電話された事を明かす。その直後、鴨川に呼び出された建井はバッグを置いて待ち合わせ場所へ向かうが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s11_p453/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250428173000 +0000" stop="20250428180000 +0000">
+		<title>名探偵コナン #653 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>米原は耕平のダイイングメッセージがSという字だったと証言。この後、本宅の風呂場のタイルが別荘、大阪の家のタイルと同じ事がわかり、コナンと平次はそのタイルを見て犯人のトリックを見破る。その頃、別荘を検証中の大和警部たちも同じ事に気付き、耕平のダイイングメッセージを発見するが、それは意外な言葉だった…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s17_p653/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250428180000 +0000" stop="20250429013000 +0000">
+		<title>名探偵コナン #453〜686 灰原哀セレクション【無料ビデオ1週間】</title>
+		<desc>コナンら少年探偵団はSF映画「スターブレイドVI」の試写会へ。開場前、フリーカメラマンの建井文吾という男性が声をかけてくる。そして昨夜、スターブレイド仲間の鴨川から試写会のチケットをよこせとしつこく電話された事を明かす。その直後、鴨川に呼び出された建井はバッグを置いて待ち合わせ場所へ向かうが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s11_p453/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250429013000 +0000" stop="20250429020000 +0000">
+		<title>名探偵コナン #653 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>米原は耕平のダイイングメッセージがSという字だったと証言。この後、本宅の風呂場のタイルが別荘、大阪の家のタイルと同じ事がわかり、コナンと平次はそのタイルを見て犯人のトリックを見破る。その頃、別荘を検証中の大和警部たちも同じ事に気付き、耕平のダイイングメッセージを発見するが、それは意外な言葉だった…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s17_p653/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250429020000 +0000" stop="20250429093000 +0000">
+		<title>名探偵コナン #128〜313 シェリーセレクション【無料ビデオ1週間】</title>
+		<desc>銀行の裏口で現金輸送車の襲撃事件に出くわしたコナンは、ターボエンジン付きスケボーで犯人を追跡するが見失う。単なる強盗事件として捜査が開始されたが、犯人の一味と思われるガードマンと元レーサーが殺され、遺留品の口紅から銀行窓口のお姉さんに容疑がかかる。この事件にはもっと裏があると見抜いたコナンだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s3_p128/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250429093000 +0000" stop="20250429100000 +0000">
+		<title>名探偵コナン #654 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>コナンと平次は佐竹たちの会話をヒントに犯人が育郎を毒殺したトリックを見破る。コナンたちの予想通り、育郎の部屋のドアノブから犯人がかけたと思われる粉末状の毒物が検出される。コナンは犯人のスリッパに毒が付いていると推理。芹香が怪しいと考えるコナンたちだったが、芹香は書斎で毒を飲んで絶命していた…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s17_p654/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250429100000 +0000" stop="20250429173000 +0000">
+		<title>名探偵コナン #128〜313 シェリーセレクション【無料ビデオ1週間】</title>
+		<desc>銀行の裏口で現金輸送車の襲撃事件に出くわしたコナンは、ターボエンジン付きスケボーで犯人を追跡するが見失う。単なる強盗事件として捜査が開始されたが、犯人の一味と思われるガードマンと元レーサーが殺され、遺留品の口紅から銀行窓口のお姉さんに容疑がかかる。この事件にはもっと裏があると見抜いたコナンだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s3_p128/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250429173000 +0000" stop="20250429180000 +0000">
+		<title>名探偵コナン #654 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>コナンと平次は佐竹たちの会話をヒントに犯人が育郎を毒殺したトリックを見破る。コナンたちの予想通り、育郎の部屋のドアノブから犯人がかけたと思われる粉末状の毒物が検出される。コナンは犯人のスリッパに毒が付いていると推理。芹香が怪しいと考えるコナンたちだったが、芹香は書斎で毒を飲んで絶命していた…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s17_p654/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250429180000 +0000" stop="20250430013000 +0000">
+		<title>名探偵コナン #128〜313 シェリーセレクション【無料ビデオ1週間】</title>
+		<desc>銀行の裏口で現金輸送車の襲撃事件に出くわしたコナンは、ターボエンジン付きスケボーで犯人を追跡するが見失う。単なる強盗事件として捜査が開始されたが、犯人の一味と思われるガードマンと元レーサーが殺され、遺留品の口紅から銀行窓口のお姉さんに容疑がかかる。この事件にはもっと裏があると見抜いたコナンだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s3_p128/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250430013000 +0000" stop="20250430020000 +0000">
+		<title>名探偵コナン #654 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>コナンと平次は佐竹たちの会話をヒントに犯人が育郎を毒殺したトリックを見破る。コナンたちの予想通り、育郎の部屋のドアノブから犯人がかけたと思われる粉末状の毒物が検出される。コナンは犯人のスリッパに毒が付いていると推理。芹香が怪しいと考えるコナンたちだったが、芹香は書斎で毒を飲んで絶命していた…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s17_p654/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250430020000 +0000" stop="20250430093000 +0000">
+		<title>名探偵コナン #329〜396 シェリーセレクション【無料ビデオ1週間】</title>
+		<desc>阿笠博士の車でキャンプに出かけたコナンと少年探偵団の子供たちは、アウトドア同好会に所属する福浦玲治、白藤泰美、天堂晴華、飯合拓人の４人と知り合う。その夜、コナンたちは道の真ん中に倒れた泰美を発見する。しかも、もう息はない。間もなく目暮警部たちが到着し、現場検証をした捜査陣は事故と判断するのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s8_p329/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250430093000 +0000" stop="20250430100000 +0000">
+		<title>名探偵コナン #655 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>育郎はバームクーヘンを食べる前に手を洗っていた事がわかり、育郎の手に毒が付いていたという推理は間違いだったと気付くコナンと平次。育郎の部屋のドアノブに付着した毒はフェイクだったのだ。コナンたちは犯人、そして芹那を殺害したトリックも見破るが、証拠だけ見つける事ができずにいた…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s17_p655/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250430100000 +0000" stop="20250430173000 +0000">
+		<title>名探偵コナン #329〜396 シェリーセレクション【無料ビデオ1週間】</title>
+		<desc>阿笠博士の車でキャンプに出かけたコナンと少年探偵団の子供たちは、アウトドア同好会に所属する福浦玲治、白藤泰美、天堂晴華、飯合拓人の４人と知り合う。その夜、コナンたちは道の真ん中に倒れた泰美を発見する。しかも、もう息はない。間もなく目暮警部たちが到着し、現場検証をした捜査陣は事故と判断するのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s8_p329/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250430173000 +0000" stop="20250430180000 +0000">
+		<title>名探偵コナン #655 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>育郎はバームクーヘンを食べる前に手を洗っていた事がわかり、育郎の手に毒が付いていたという推理は間違いだったと気付くコナンと平次。育郎の部屋のドアノブに付着した毒はフェイクだったのだ。コナンたちは犯人、そして芹那を殺害したトリックも見破るが、証拠だけ見つける事ができずにいた…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s17_p655/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250430180000 +0000" stop="20250501013000 +0000">
+		<title>名探偵コナン #329〜396 シェリーセレクション【無料ビデオ1週間】</title>
+		<desc>阿笠博士の車でキャンプに出かけたコナンと少年探偵団の子供たちは、アウトドア同好会に所属する福浦玲治、白藤泰美、天堂晴華、飯合拓人の４人と知り合う。その夜、コナンたちは道の真ん中に倒れた泰美を発見する。しかも、もう息はない。間もなく目暮警部たちが到着し、現場検証をした捜査陣は事故と判断するのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s8_p329/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250501013000 +0000" stop="20250501020000 +0000">
+		<title>名探偵コナン #655 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>育郎はバームクーヘンを食べる前に手を洗っていた事がわかり、育郎の手に毒が付いていたという推理は間違いだったと気付くコナンと平次。育郎の部屋のドアノブに付着した毒はフェイクだったのだ。コナンたちは犯人、そして芹那を殺害したトリックも見破るが、証拠だけ見つける事ができずにいた…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s17_p655/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250501020000 +0000" stop="20250501093000 +0000">
+		<title>名探偵コナン #484〜700 シェリーセレクション【無料ビデオ1週間】</title>
+		<desc>平次は小さい頃の本堂瑛祐を知る人物を見つけたとコナンに報告。その人物とはお好み焼き屋の店長。本堂は父親に連れられ、よくお店に来ていたという。父親と仲が良かった前の店長はすでに他界。だが、店長がかわいがっていた孫なら他の情報も知っているかもしれないという。阿笠とコナン、哀は孫のマンションを訪ねる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s12_p484/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250501093000 +0000" stop="20250501100000 +0000">
+		<title>名探偵コナン #754 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>世良はコナン、蘭、園子を連れて依頼人がいる貸し別荘へ。別荘には高校時代のアウトドア部の仲間が集まっていた。15年前、近くの別荘で妻が夫を刺殺する事件が発生。返り血を浴び、赤女と呼ばれる妻は今も逃走中だった。依頼は赤女にまつわるイタズラの犯人捜し。だがコナンと世良が森を調べている間に事件が起きて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s19_p754/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250501100000 +0000" stop="20250501173000 +0000">
+		<title>名探偵コナン #484〜700 シェリーセレクション【無料ビデオ1週間】</title>
+		<desc>平次は小さい頃の本堂瑛祐を知る人物を見つけたとコナンに報告。その人物とはお好み焼き屋の店長。本堂は父親に連れられ、よくお店に来ていたという。父親と仲が良かった前の店長はすでに他界。だが、店長がかわいがっていた孫なら他の情報も知っているかもしれないという。阿笠とコナン、哀は孫のマンションを訪ねる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s12_p484/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250501173000 +0000" stop="20250501180000 +0000">
+		<title>名探偵コナン #754 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>世良はコナン、蘭、園子を連れて依頼人がいる貸し別荘へ。別荘には高校時代のアウトドア部の仲間が集まっていた。15年前、近くの別荘で妻が夫を刺殺する事件が発生。返り血を浴び、赤女と呼ばれる妻は今も逃走中だった。依頼は赤女にまつわるイタズラの犯人捜し。だがコナンと世良が森を調べている間に事件が起きて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s19_p754/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250501180000 +0000" stop="20250502013000 +0000">
+		<title>名探偵コナン #484〜700 シェリーセレクション【無料ビデオ1週間】</title>
+		<desc>平次は小さい頃の本堂瑛祐を知る人物を見つけたとコナンに報告。その人物とはお好み焼き屋の店長。本堂は父親に連れられ、よくお店に来ていたという。父親と仲が良かった前の店長はすでに他界。だが、店長がかわいがっていた孫なら他の情報も知っているかもしれないという。阿笠とコナン、哀は孫のマンションを訪ねる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s12_p484/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250502013000 +0000" stop="20250502020000 +0000">
+		<title>名探偵コナン #754 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>世良はコナン、蘭、園子を連れて依頼人がいる貸し別荘へ。別荘には高校時代のアウトドア部の仲間が集まっていた。15年前、近くの別荘で妻が夫を刺殺する事件が発生。返り血を浴び、赤女と呼ばれる妻は今も逃走中だった。依頼は赤女にまつわるイタズラの犯人捜し。だがコナンと世良が森を調べている間に事件が起きて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s19_p754/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250502020000 +0000" stop="20250502093000 +0000">
+		<title>名探偵コナン #8〜351 毛利小五郎セレクション【無料ビデオ1週間】</title>
+		<desc>夜な夜な甲冑の騎士が歩き回るというウワサの美術館。興味津々の蘭は、コナンと小五郎を連れ見学に行く。
+だが最後の「地獄の間」でコナンたちが見たのは、ホテルに転業するため美術館を閉館すると決めた新オーナー・真中が、「天罰」と題された絵画の後ろで、絵と同じように喉を剣で串刺しにされて絶命している姿だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250502093000 +0000" stop="20250502100000 +0000">
+		<title>名探偵コナン #755 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>薄谷の遺体が見つかり、長野県警の上原刑事は蘭たちが風呂場の湯気に気付いた後、風呂に入るまでの犯行と推理する。任田は薄谷を殺害したのは赤女しかいないと訴えるが…。捜査が進む中、コナンと世良はトマトと塩を使った実験をして犯人の見当をつける。この後、この世にいるはずのない赤女が貸し別荘に現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s19_p755/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250502100000 +0000" stop="20250502170000 +0000">
+		<title>名探偵コナン #8〜351 毛利小五郎セレクション【無料ビデオ1週間】</title>
+		<desc>夜な夜な甲冑の騎士が歩き回るというウワサの美術館。興味津々の蘭は、コナンと小五郎を連れ見学に行く。
+だが最後の「地獄の間」でコナンたちが見たのは、ホテルに転業するため美術館を閉館すると決めた新オーナー・真中が、「天罰」と題された絵画の後ろで、絵と同じように喉を剣で串刺しにされて絶命している姿だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250502170000 +0000" stop="20250502173000 +0000">
+		<title>名探偵コナン #755 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>薄谷の遺体が見つかり、長野県警の上原刑事は蘭たちが風呂場の湯気に気付いた後、風呂に入るまでの犯行と推理する。任田は薄谷を殺害したのは赤女しかいないと訴えるが…。捜査が進む中、コナンと世良はトマトと塩を使った実験をして犯人の見当をつける。この後、この世にいるはずのない赤女が貸し別荘に現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s19_p755/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250502173000 +0000" stop="20250503003000 +0000">
+		<title>名探偵コナン #8〜351 毛利小五郎セレクション【無料ビデオ1週間】</title>
+		<desc>夜な夜な甲冑の騎士が歩き回るというウワサの美術館。興味津々の蘭は、コナンと小五郎を連れ見学に行く。
+だが最後の「地獄の間」でコナンたちが見たのは、ホテルに転業するため美術館を閉館すると決めた新オーナー・真中が、「天罰」と題された絵画の後ろで、絵と同じように喉を剣で串刺しにされて絶命している姿だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250503003000 +0000" stop="20250503010000 +0000">
+		<title>名探偵コナン #755 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>薄谷の遺体が見つかり、長野県警の上原刑事は蘭たちが風呂場の湯気に気付いた後、風呂に入るまでの犯行と推理する。任田は薄谷を殺害したのは赤女しかいないと訴えるが…。捜査が進む中、コナンと世良はトマトと塩を使った実験をして犯人の見当をつける。この後、この世にいるはずのない赤女が貸し別荘に現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s19_p755/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250503010000 +0000" stop="20250503083000 +0000">
+		<title>名探偵コナン #371〜739 毛利小五郎セレクション【無料ビデオ1週間】</title>
+		<desc>プロ野球チーム・ジャガーズの守護神、能勢利三とスポーツタレントの本山正治と対談することになった小五郎はコナンと蘭を連れて沖縄を訪れた。しばらくして本山の乗る飛行機が到着し、車で移動するコナンたち。すると、行く手の路上に倒れている人影を見つける。コナンが人影に駆け寄り抱き抱えると、何と能勢選手だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s9_p371/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250503083000 +0000" stop="20250503093000 +0000">
+		<title>青山剛昌アワー 読売テレビ・日本テレビ系列にて放送中</title>
+		<desc>-</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/111-1yyirbkzgnz_s100_p2/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250503093000 +0000" stop="20250503100000 +0000">
+		<title>名探偵コナン #756 長野県警セレクション【無料ビデオ1週間】</title>
+		<desc>コナンたちは奇妙な事件の写真を確認し、上原は12年前に聡子が行方不明になった日の写真に注目。大和警部は赤女事件の現場にいた元警察官から新事実を聞き出す。大和から新事実を聞いたコナンと世良は自分たちの推理が正しいと確信し、薄谷を殺害した犯人とトリックを暴くが…。その時、窓の外から赤女が再び現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s19_p756/thumb001.png" />
+	</programme>
+	<programme channel="conan" start="20250503100000 +0000" stop="20250503200000 +0000">
+		<title>名探偵コナン #371〜964 毛利小五郎セレクション【無料ビデオ1週間】</title>
+		<desc>プロ野球チーム・ジャガーズの守護神、能勢利三とスポーツタレントの本山正治と対談することになった小五郎はコナンと蘭を連れて沖縄を訪れた。しばらくして本山の乗る飛行機が到着し、車で移動するコナンたち。すると、行く手の路上に倒れている人影を見つける。コナンが人影に駆け寄り抱き抱えると、何と能勢選手だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-5_s9_p371/thumb001.png" />
+	</programme>
 	<programme channel="family-anime-1" start="20250418134400 +0000" stop="20250418154200 +0000">
 		<title>映画クレヨンしんちゃん 嵐を呼ぶ黄金のスパイ大作戦【無料ビデオ1週間】</title>
 		<desc>突如現れた国籍不明の少女レモン。
@@ -10460,6 +10710,351 @@ MCに岩井勇気さん、アシスタントMCに徳井青空さん、ゲスト�
 		<title>シティーハンター2 #33〜63【無料ビデオ1週間】</title>
 		<desc>婚約者・森村の妹、さくらを探して連れ戻して欲しいという依頼人・ひろみ。リョウは不良集団パイレーツのアジトに乗り込み、さくらを連れ出す。パイレーツの追撃をかわして逃げるリョウたち。だが、さくらが兄・森村が作って持ち出した偽ドル札の原版を持っていたため、香港マフィアにも追われる羽目に。しかもマフィアに追跡を依頼されたのは海坊主で……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-81_s2_p33/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250418143000 +0000" stop="20250418180000 +0000">
+		<title>機動戦士ガンダムZZ #34〜40【無料ビデオ72時間】</title>
+		<desc>ZZで出撃したプルの活躍で敵を退けたアーガマだったが、今度は連邦軍が武装解除を要求してきた。ファからカミーユが行方不明と聞いたアーガマのクルーは手分けして捜索に出る。その間に1人Mk-IIで出撃したプルは窮地に陥るが、そのとき何者かの声が……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-115_s0_p34/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250418180000 +0000" stop="20250419030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250419030000 +0000" stop="20250419043000 +0000">
+		<title>機動戦士ガンダム #38〜40【無料ビデオ72時間】</title>
+		<desc>行動不能に陥ったガンダムの捜索に出たホワイトベース。そんな中、再会するシャアとセイラ。シャアの本名はキャスバル、セイラの本名はアルテイシア。二人は、ニュータイプ思想を掲げたジオン・ズム・ダイクンの遺児だった。父を暗殺したのはザビ家だと考えたキャスバルは、復讐のためにジオン軍に入っていたのだ…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p38/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250419043000 +0000" stop="20250419080000 +0000">
+		<title>機動戦士ガンダムZZ #34〜40【無料ビデオ72時間】</title>
+		<desc>ZZで出撃したプルの活躍で敵を退けたアーガマだったが、今度は連邦軍が武装解除を要求してきた。ファからカミーユが行方不明と聞いたアーガマのクルーは手分けして捜索に出る。その間に1人Mk-IIで出撃したプルは窮地に陥るが、そのとき何者かの声が……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-115_s0_p34/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250419080000 +0000" stop="20250419093000 +0000">
+		<title>機動戦士ガンダム #38〜40【無料ビデオ72時間】</title>
+		<desc>行動不能に陥ったガンダムの捜索に出たホワイトベース。そんな中、再会するシャアとセイラ。シャアの本名はキャスバル、セイラの本名はアルテイシア。二人は、ニュータイプ思想を掲げたジオン・ズム・ダイクンの遺児だった。父を暗殺したのはザビ家だと考えたキャスバルは、復讐のためにジオン軍に入っていたのだ…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p38/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250419093000 +0000" stop="20250419130000 +0000">
+		<title>機動戦士ガンダムZZ #34〜40【無料ビデオ72時間】</title>
+		<desc>ZZで出撃したプルの活躍で敵を退けたアーガマだったが、今度は連邦軍が武装解除を要求してきた。ファからカミーユが行方不明と聞いたアーガマのクルーは手分けして捜索に出る。その間に1人Mk-IIで出撃したプルは窮地に陥るが、そのとき何者かの声が……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-115_s0_p34/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250419130000 +0000" stop="20250419143000 +0000">
+		<title>機動戦士ガンダム #41〜43【無料ビデオ72時間】</title>
+		<desc>相対するララァとアムロ。サイコミュ誘導されたビットはオールレンジ攻撃でガンダムを包囲するが、アムロはコントロール系を読んで次々に撃破していく。先鋭化する二人の意識は共鳴し、思惟が直結して会話となっていく。思わず二人の間に割って入るシャア。そして、ガンダムがゲルググにとどめを刺そうとした瞬間…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p41/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250419143000 +0000" stop="20250419180000 +0000">
+		<title>機動戦士ガンダムZZ #41〜47【無料ビデオ72時間】</title>
+		<desc>ハマーンの邪悪の気を感じたサラサとラサラは、モンドとともにコロニー内へと向かった。しかし、途中でスタンパのズゴックが現れ、モンドをかばったラサラが犠牲となってしまった。ジュドーはハマーンこそがその原因と考え、スタンパの屋敷に乗り込んでいく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-115_s0_p41/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250419180000 +0000" stop="20250420030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250420030000 +0000" stop="20250420043000 +0000">
+		<title>機動戦士ガンダム #41〜43【無料ビデオ72時間】</title>
+		<desc>相対するララァとアムロ。サイコミュ誘導されたビットはオールレンジ攻撃でガンダムを包囲するが、アムロはコントロール系を読んで次々に撃破していく。先鋭化する二人の意識は共鳴し、思惟が直結して会話となっていく。思わず二人の間に割って入るシャア。そして、ガンダムがゲルググにとどめを刺そうとした瞬間…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p41/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250420043000 +0000" stop="20250420080000 +0000">
+		<title>機動戦士ガンダムZZ #41〜47【無料ビデオ72時間】</title>
+		<desc>ハマーンの邪悪の気を感じたサラサとラサラは、モンドとともにコロニー内へと向かった。しかし、途中でスタンパのズゴックが現れ、モンドをかばったラサラが犠牲となってしまった。ジュドーはハマーンこそがその原因と考え、スタンパの屋敷に乗り込んでいく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-115_s0_p41/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250420080000 +0000" stop="20250420113000 +0000">
+		<title>機動戦士ガンダムZZ #41〜47【無料ビデオ72時間】</title>
+		<desc>ハマーンの邪悪の気を感じたサラサとラサラは、モンドとともにコロニー内へと向かった。しかし、途中でスタンパのズゴックが現れ、モンドをかばったラサラが犠牲となってしまった。ジュドーはハマーンこそがその原因と考え、スタンパの屋敷に乗り込んでいく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-115_s0_p41/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250420113000 +0000" stop="20250420130000 +0000">
+		<title>機動戦士ガンダム #41〜43【無料ビデオ72時間】</title>
+		<desc>相対するララァとアムロ。サイコミュ誘導されたビットはオールレンジ攻撃でガンダムを包囲するが、アムロはコントロール系を読んで次々に撃破していく。先鋭化する二人の意識は共鳴し、思惟が直結して会話となっていく。思わず二人の間に割って入るシャア。そして、ガンダムがゲルググにとどめを刺そうとした瞬間…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p41/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250420130000 +0000" stop="20250420133000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #2【最新話】</title>
+		<desc>ジオン公国軍のエースパイロットであるシャアは、地球連邦軍の《V作戦》の要である最新鋭モビルスーツ《ガンダム》をサイド7で鹵獲。その時から戦局は大きく動き、一年戦争をジオンの勝利へと導いた。しかし、その終戦直前、ガンダムとシャアは……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250420133000 +0000" stop="20250420170000 +0000">
+		<title>機動新世紀ガンダムX #1〜7【無料ビデオ72時間】</title>
+		<desc>宇宙革命軍と地球連邦軍の戦争から15年。戦災孤児のガロード・ランは、謎の紳士ライク・アントから依頼を受け、ティファ・アディールという少女を奪還した。だがティファがアントを見て怯え出したため、ガロードは彼女を連れて離脱。ティファの導きで旧連邦地下工場に逃げ込んだガロードは、「ガンダムX」を発見する！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250420170000 +0000" stop="20250421060000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250421060000 +0000" stop="20250421093000 +0000">
+		<title>機動新世紀ガンダムX #1〜7【無料ビデオ72時間】</title>
+		<desc>宇宙革命軍と地球連邦軍の戦争から15年。戦災孤児のガロード・ランは、謎の紳士ライク・アントから依頼を受け、ティファ・アディールという少女を奪還した。だがティファがアントを見て怯え出したため、ガロードは彼女を連れて離脱。ティファの導きで旧連邦地下工場に逃げ込んだガロードは、「ガンダムX」を発見する！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250421093000 +0000" stop="20250421100000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #2・見逃し放送</title>
+		<desc>ジオン公国軍のエースパイロットであるシャアは、地球連邦軍の《V作戦》の要である最新鋭モビルスーツ《ガンダム》をサイド7で鹵獲。その時から戦局は大きく動き、一年戦争をジオンの勝利へと導いた。しかし、その終戦直前、ガンダムとシャアは……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250421100000 +0000" stop="20250421133000 +0000">
+		<title>機動新世紀ガンダムX #1〜7【無料ビデオ72時間】</title>
+		<desc>宇宙革命軍と地球連邦軍の戦争から15年。戦災孤児のガロード・ランは、謎の紳士ライク・アントから依頼を受け、ティファ・アディールという少女を奪還した。だがティファがアントを見て怯え出したため、ガロードは彼女を連れて離脱。ティファの導きで旧連邦地下工場に逃げ込んだガロードは、「ガンダムX」を発見する！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250421133000 +0000" stop="20250421170000 +0000">
+		<title>機動新世紀ガンダムX #8〜14【無料ビデオ72時間】</title>
+		<desc>炎の時計部隊の攻撃から、フロスト兄弟の輸送機のお陰で逃げることに成功したウィッツ。彼は戦力不足のフリーデンに呼び出されたロアビィと偶然合流し、共にジャミルが回復するまでの用心棒として雇われる。一方、ガロードの部屋を訪れたエニルは、彼に警戒され追い出されてしまう。そのことを逆恨みしたエニルは…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250421170000 +0000" stop="20250422063000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250422063000 +0000" stop="20250422100000 +0000">
+		<title>機動新世紀ガンダムX #8〜14【無料ビデオ72時間】</title>
+		<desc>炎の時計部隊の攻撃から、フロスト兄弟の輸送機のお陰で逃げることに成功したウィッツ。彼は戦力不足のフリーデンに呼び出されたロアビィと偶然合流し、共にジャミルが回復するまでの用心棒として雇われる。一方、ガロードの部屋を訪れたエニルは、彼に警戒され追い出されてしまう。そのことを逆恨みしたエニルは…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250422100000 +0000" stop="20250422133000 +0000">
+		<title>機動新世紀ガンダムX #8〜14【無料ビデオ72時間】</title>
+		<desc>炎の時計部隊の攻撃から、フロスト兄弟の輸送機のお陰で逃げることに成功したウィッツ。彼は戦力不足のフリーデンに呼び出されたロアビィと偶然合流し、共にジャミルが回復するまでの用心棒として雇われる。一方、ガロードの部屋を訪れたエニルは、彼に警戒され追い出されてしまう。そのことを逆恨みしたエニルは…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250422133000 +0000" stop="20250422170000 +0000">
+		<title>機動新世紀ガンダムX #15〜21【無料ビデオ72時間】</title>
+		<desc>ウィッツとロアビィは、フリーデンから休暇をとった。母が嫌うモビルスーツに乗る職業だと、再会した母に知られてしまったウィッツ。そして、母が自分に内緒で再婚していたことを知ったウィッツは、母との対立の末に家を飛び出してしまう。一方、各地に残した恋人たちと再会していたロアビィ。彼が最後に訪れた先は…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250422170000 +0000" stop="20250423063000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250423063000 +0000" stop="20250423100000 +0000">
+		<title>機動新世紀ガンダムX #15〜21【無料ビデオ72時間】</title>
+		<desc>ウィッツとロアビィは、フリーデンから休暇をとった。母が嫌うモビルスーツに乗る職業だと、再会した母に知られてしまったウィッツ。そして、母が自分に内緒で再婚していたことを知ったウィッツは、母との対立の末に家を飛び出してしまう。一方、各地に残した恋人たちと再会していたロアビィ。彼が最後に訪れた先は…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250423100000 +0000" stop="20250423133000 +0000">
+		<title>機動新世紀ガンダムX #15〜21【無料ビデオ72時間】</title>
+		<desc>ウィッツとロアビィは、フリーデンから休暇をとった。母が嫌うモビルスーツに乗る職業だと、再会した母に知られてしまったウィッツ。そして、母が自分に内緒で再婚していたことを知ったウィッツは、母との対立の末に家を飛び出してしまう。一方、各地に残した恋人たちと再会していたロアビィ。彼が最後に訪れた先は…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250423133000 +0000" stop="20250423170000 +0000">
+		<title>機動新世紀ガンダムX #22〜28【無料ビデオ72時間】</title>
+		<desc>人工島ゾンダーエプタで新たなガンダムを目撃したエニル。証拠隠滅のためにフロスト兄弟に追撃されたエニルは、フリーデンによって保護された。そして、彼女からゾンダーエプタで新たなガンダムを発見したことを聞き出したジャミルたちは、エスペランサの飛行記録からゾンダーエプタの位置を割り出して…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p22/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250423170000 +0000" stop="20250424063000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250424063000 +0000" stop="20250424100000 +0000">
+		<title>機動新世紀ガンダムX #22〜28【無料ビデオ72時間】</title>
+		<desc>人工島ゾンダーエプタで新たなガンダムを目撃したエニル。証拠隠滅のためにフロスト兄弟に追撃されたエニルは、フリーデンによって保護された。そして、彼女からゾンダーエプタで新たなガンダムを発見したことを聞き出したジャミルたちは、エスペランサの飛行記録からゾンダーエプタの位置を割り出して…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p22/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250424100000 +0000" stop="20250424133000 +0000">
+		<title>機動新世紀ガンダムX #22〜28【無料ビデオ72時間】</title>
+		<desc>人工島ゾンダーエプタで新たなガンダムを目撃したエニル。証拠隠滅のためにフロスト兄弟に追撃されたエニルは、フリーデンによって保護された。そして、彼女からゾンダーエプタで新たなガンダムを発見したことを聞き出したジャミルたちは、エスペランサの飛行記録からゾンダーエプタの位置を割り出して…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p22/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250424133000 +0000" stop="20250424190000 +0000">
+		<title>機動新世紀ガンダムX #29〜39【無料ビデオ72時間】</title>
+		<desc>ジャミルの決定でニュータイプ研究所を目指すフリーデン。しかしティファは、ガロードが自分から離れてしまったような感覚に陥って能力を発揮できず、場所を特定できない。その頃、フロスト兄弟はニュータイプ研究所でも有能力者と認められたアベル・バウアーを呼び寄せた。だが、アベルはまだ覚醒しておらず…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p29/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250424190000 +0000" stop="20250425063000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250425063000 +0000" stop="20250425120000 +0000">
+		<title>機動新世紀ガンダムX #29〜39【無料ビデオ72時間】</title>
+		<desc>ジャミルの決定でニュータイプ研究所を目指すフリーデン。しかしティファは、ガロードが自分から離れてしまったような感覚に陥って能力を発揮できず、場所を特定できない。その頃、フロスト兄弟はニュータイプ研究所でも有能力者と認められたアベル・バウアーを呼び寄せた。だが、アベルはまだ覚醒しておらず…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p29/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250425120000 +0000" stop="20250425173000 +0000">
+		<title>機動新世紀ガンダムX #29〜39【無料ビデオ72時間】</title>
+		<desc>ジャミルの決定でニュータイプ研究所を目指すフリーデン。しかしティファは、ガロードが自分から離れてしまったような感覚に陥って能力を発揮できず、場所を特定できない。その頃、フロスト兄弟はニュータイプ研究所でも有能力者と認められたアベル・バウアーを呼び寄せた。だが、アベルはまだ覚醒しておらず…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p29/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250425173000 +0000" stop="20250426003000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250426003000 +0000" stop="20250426105400 +0000">
+		<title>機動戦士ガンダムユニコーン RE:0096 #1〜22【無料ビデオ1週間】</title>
+		<desc>宇宙世紀0096年――。ネオ・ジオン軍と地球連邦軍が戦火を交えた『シャアの反乱』から3年。工業コロニー、インダストリアル7に住む少年バナージ・リンクスは、オードリー・バーンと名乗る謎の少女と出会う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-66_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250426105400 +0000" stop="20250426130000 +0000">
+		<title>機動戦士ガンダム 逆襲のシャア【無料ビデオ72時間】</title>
+		<desc>アムロとシャアの13年に及ぶ宿命の対決に決着がつく、シリーズ最終章。宇宙世紀0093、シャアがネオ・ジオン総帥に就任、地球に宣戦を布告した。ブライト率いる連邦軍の独立部隊、ロンド・ベルに所属していたアムロは、最新型のν(ニュー)ガンダムに搭乗して出撃する。アムロはシャアの野望を阻止することができるのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-73_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250426130000 +0000" stop="20250426233000 +0000">
+		<title>機動戦士ガンダムユニコーン RE:0096 #1〜22【無料ビデオ1週間】</title>
+		<desc>宇宙世紀0096年――。ネオ・ジオン軍と地球連邦軍が戦火を交えた『シャアの反乱』から3年。工業コロニー、インダストリアル7に住む少年バナージ・リンクスは、オードリー・バーンと名乗る謎の少女と出会う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-66_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250426233000 +0000" stop="20250427095400 +0000">
+		<title>機動戦士ガンダムユニコーン RE:0096 #1〜22【無料ビデオ1週間】</title>
+		<desc>宇宙世紀0096年――。ネオ・ジオン軍と地球連邦軍が戦火を交えた『シャアの反乱』から3年。工業コロニー、インダストリアル7に住む少年バナージ・リンクスは、オードリー・バーンと名乗る謎の少女と出会う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-66_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250427095400 +0000" stop="20250427120000 +0000">
+		<title>機動戦士ガンダム 逆襲のシャア【無料ビデオ72時間】</title>
+		<desc>アムロとシャアの13年に及ぶ宿命の対決に決着がつく、シリーズ最終章。宇宙世紀0093、シャアがネオ・ジオン総帥に就任、地球に宣戦を布告した。ブライト率いる連邦軍の独立部隊、ロンド・ベルに所属していたアムロは、最新型のν(ニュー)ガンダムに搭乗して出撃する。アムロはシャアの野望を阻止することができるのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-73_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250427120000 +0000" stop="20250427130000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX #1〜2【無料ビデオ1週間】</title>
+		<desc>女子高生アマテは、偶然運び屋の少女ニャアンと知り合い、非合法なジャンク屋と関わってしまう。そんな時、軍警のザクが領空侵犯の赤いガンダムとコロニー内で戦闘を始める。巻き込まれたアマテはジークアクスを駆るのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250427130000 +0000" stop="20250427133000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #3【最新話】</title>
+		<desc>宇宙に浮かぶスペース・コロニーで平穏に暮らしていた女子高生アマテ・ユズリハは、少女ニャアンと出会ったことで、非合法なモビルスーツ決闘競技《クランバトル》に巻き込まれる。エントリーネーム《マチュ》を名乗るアマテは、 GQuuuuuuX ジークアクス を駆り、苛烈なバトルの日々に身を投じていく。同じ頃、宇宙軍と警察の双方から追われていた正体不明のモビルスーツ《ガンダム》と、そのパイロットの少年シュウジが彼女の前に姿を現す。そして、世界は新たな時代を迎えようとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250427133000 +0000" stop="20250427150000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX #1〜3【無料ビデオ1週間】</title>
+		<desc>女子高生アマテは、偶然運び屋の少女ニャアンと知り合い、非合法なジャンク屋と関わってしまう。そんな時、軍警のザクが領空侵犯の赤いガンダムとコロニー内で戦闘を始める。巻き込まれたアマテはジークアクスを駆るのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250427150000 +0000" stop="20250427190000 +0000">
+		<title>機動戦士ガンダムSEED #1〜8【無料ビデオ72時間】</title>
+		<desc>中立コロニーヘリオポリス。ここでの地球連合軍機動兵器開発の情報を得て、ザフト軍が兵器奪取に侵攻を開始する。平和なコロニーが一瞬にして戦場と化した。ストライクが襲撃されるその瞬間に居合わせた少年がいた。キラはそこで、ザフトのパイロットアスランと邂逅する……！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250427190000 +0000" stop="20250428040000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250428040000 +0000" stop="20250428080000 +0000">
+		<title>機動戦士ガンダムSEED #1〜8【無料ビデオ72時間】</title>
+		<desc>中立コロニーヘリオポリス。ここでの地球連合軍機動兵器開発の情報を得て、ザフト軍が兵器奪取に侵攻を開始する。平和なコロニーが一瞬にして戦場と化した。ストライクが襲撃されるその瞬間に居合わせた少年がいた。キラはそこで、ザフトのパイロットアスランと邂逅する……！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250428080000 +0000" stop="20250428093000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX #1〜3【無料ビデオ1週間】</title>
+		<desc>女子高生アマテは、偶然運び屋の少女ニャアンと知り合い、非合法なジャンク屋と関わってしまう。そんな時、軍警のザクが領空侵犯の赤いガンダムとコロニー内で戦闘を始める。巻き込まれたアマテはジークアクスを駆るのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250428093000 +0000" stop="20250428133000 +0000">
+		<title>機動戦士ガンダムSEED #1〜8【無料ビデオ72時間】</title>
+		<desc>中立コロニーヘリオポリス。ここでの地球連合軍機動兵器開発の情報を得て、ザフト軍が兵器奪取に侵攻を開始する。平和なコロニーが一瞬にして戦場と化した。ストライクが襲撃されるその瞬間に居合わせた少年がいた。キラはそこで、ザフトのパイロットアスランと邂逅する……！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250428133000 +0000" stop="20250428180000 +0000">
+		<title>機動戦士ガンダムSEED #9〜17【無料ビデオ72時間】</title>
+		<desc>フレイの父が同乗する第8艦隊の先遣隊と接触を目前にしたアークエンジェルに、束の間の安堵の空気が流れた。しかしそこへクルーゼ隊が急襲をかけ、状況は一変する。為す術なく駆逐されてゆく先遣隊にキラのストライクも救援に向かうが、アスランのイージスが立ちはだかった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250428180000 +0000" stop="20250429043000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250429043000 +0000" stop="20250429090000 +0000">
+		<title>機動戦士ガンダムSEED #9〜17【無料ビデオ72時間】</title>
+		<desc>フレイの父が同乗する第8艦隊の先遣隊と接触を目前にしたアークエンジェルに、束の間の安堵の空気が流れた。しかしそこへクルーゼ隊が急襲をかけ、状況は一変する。為す術なく駆逐されてゆく先遣隊にキラのストライクも救援に向かうが、アスランのイージスが立ちはだかった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250429090000 +0000" stop="20250429133000 +0000">
+		<title>機動戦士ガンダムSEED #9〜17【無料ビデオ72時間】</title>
+		<desc>フレイの父が同乗する第8艦隊の先遣隊と接触を目前にしたアークエンジェルに、束の間の安堵の空気が流れた。しかしそこへクルーゼ隊が急襲をかけ、状況は一変する。為す術なく駆逐されてゆく先遣隊にキラのストライクも救援に向かうが、アスランのイージスが立ちはだかった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250429133000 +0000" stop="20250429180000 +0000">
+		<title>機動戦士ガンダムSEED #18〜26【無料ビデオ72時間】</title>
+		<desc>武器弾薬、生活物資の補給のために、キラはカガリと共にバナディーヤの街に出た。買い物の後、ドネル・ケバブにありついた2人は、ソースの味で不審な男ともめる。彼こそが敵将、バルトフェルドだった。彼は問う。戦争とは何か？「キミも死んだ方がマシなクチかね？」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p18/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250429180000 +0000" stop="20250430043000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250430043000 +0000" stop="20250430090000 +0000">
+		<title>機動戦士ガンダムSEED #18〜26【無料ビデオ72時間】</title>
+		<desc>武器弾薬、生活物資の補給のために、キラはカガリと共にバナディーヤの街に出た。買い物の後、ドネル・ケバブにありついた2人は、ソースの味で不審な男ともめる。彼こそが敵将、バルトフェルドだった。彼は問う。戦争とは何か？「キミも死んだ方がマシなクチかね？」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p18/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250430090000 +0000" stop="20250430133000 +0000">
+		<title>機動戦士ガンダムSEED #18〜26【無料ビデオ72時間】</title>
+		<desc>武器弾薬、生活物資の補給のために、キラはカガリと共にバナディーヤの街に出た。買い物の後、ドネル・ケバブにありついた2人は、ソースの味で不審な男ともめる。彼こそが敵将、バルトフェルドだった。彼は問う。戦争とは何か？「キミも死んだ方がマシなクチかね？」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p18/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250430133000 +0000" stop="20250430180000 +0000">
+		<title>機動戦士ガンダムSEED #27〜35【無料ビデオ72時間】</title>
+		<desc>修理と補給が終わったアークエンジェルは、オーブから出航した。動向を探っていたアスランらはオーブ領海を出たところで攻撃を開始。キラ、ムウに続き、トールも出撃する。敵味方入り乱れる激戦の中、イージスとストライクの戦いは熾烈を極め、やがてひとつの悲劇を招く……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250430180000 +0000" stop="20250501043000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250501043000 +0000" stop="20250501090000 +0000">
+		<title>機動戦士ガンダムSEED #27〜35【無料ビデオ72時間】</title>
+		<desc>修理と補給が終わったアークエンジェルは、オーブから出航した。動向を探っていたアスランらはオーブ領海を出たところで攻撃を開始。キラ、ムウに続き、トールも出撃する。敵味方入り乱れる激戦の中、イージスとストライクの戦いは熾烈を極め、やがてひとつの悲劇を招く……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250501090000 +0000" stop="20250501133000 +0000">
+		<title>機動戦士ガンダムSEED #27〜35【無料ビデオ72時間】</title>
+		<desc>修理と補給が終わったアークエンジェルは、オーブから出航した。動向を探っていたアスランらはオーブ領海を出たところで攻撃を開始。キラ、ムウに続き、トールも出撃する。敵味方入り乱れる激戦の中、イージスとストライクの戦いは熾烈を極め、やがてひとつの悲劇を招く……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250501133000 +0000" stop="20250501200000 +0000">
+		<title>機動戦士ガンダムSEED #36〜48【無料ビデオ72時間】</title>
+		<desc>EMP兵器によりマス・ドライバーを破壊された連合軍は、オーブのそれを狙う。その背後にはブルーコスモス総帥アズラエルの姿があった。オーブを護るため戦う決意したマリューは、アークエンジェルのクルーに、共に戦うか退艦かの選択を呼びかける。そして戦端が開かれた!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p36/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250501200000 +0000" stop="20250502043000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250502043000 +0000" stop="20250502110000 +0000">
+		<title>機動戦士ガンダムSEED #36〜48【無料ビデオ72時間】</title>
+		<desc>EMP兵器によりマス・ドライバーを破壊された連合軍は、オーブのそれを狙う。その背後にはブルーコスモス総帥アズラエルの姿があった。オーブを護るため戦う決意したマリューは、アークエンジェルのクルーに、共に戦うか退艦かの選択を呼びかける。そして戦端が開かれた!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p36/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250502110000 +0000" stop="20250502173000 +0000">
+		<title>機動戦士ガンダムSEED #36〜48【無料ビデオ72時間】</title>
+		<desc>EMP兵器によりマス・ドライバーを破壊された連合軍は、オーブのそれを狙う。その背後にはブルーコスモス総帥アズラエルの姿があった。オーブを護るため戦う決意したマリューは、アークエンジェルのクルーに、共に戦うか退艦かの選択を呼びかける。そして戦端が開かれた!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p36/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250502173000 +0000" stop="20250503013000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250503013000 +0000" stop="20250503080000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #1〜13【無料ビデオ72時間】</title>
+		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250503080000 +0000" stop="20250503143000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #1〜13【無料ビデオ72時間】</title>
+		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250503143000 +0000" stop="20250503210000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #1〜13【無料ビデオ72時間】</title>
+		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="80s-anime-1" start="20250418110000 +0000" stop="20250418170000 +0000">
 		<title>美味しんぼ #13～24【無料ビデオ1週間】</title>
@@ -30929,6 +31524,32 @@ https://abema.tv/video/title/634-3
 ▼NASCARはこちら
 https://abema.tv/video/title/16-92</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s20000_p60/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250418210000 +0000" stop="20250419100000 +0000">
+		<title>S.LEAGUE 24-25 ショート&amp;ロング　グランドファイナル　DAY4</title>
+		<desc>Sリーグついに最終戦。来季のS1をかけた最終決戦。2025年4月16日(水) ～ 4月19日(土) 予備日:20日
+会場は、東京五輪も行われた千葉県長生郡一宮町 釣ヶ崎海岸（志田下ポイント）にて開催。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s10006_p4/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250419100000 +0000" stop="20250426000000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250426000000 +0000" stop="20250426090000 +0000">
+		<title>前澤杯 MAEZAWA CUP 2025 本戦第3ラウンド</title>
+		<desc>賞金総額2億円、優勝賞金4,000万円――国内男子ゴルフツアー屈指のビッグトーナメント「前澤杯 MAEZAWA CUP 2025」。その白熱の本戦、第3ラウンド（4月26日）と決勝ラウンド（4月27日）を中継でお届けします！国内初の“2週間開催”というスケールで注目を集める本大会は、全国のゴルフファンとプロが集う、まさに“日本一ゴルフが熱い”イベント。華やかなラウンドガールの帯同や、プロアマ戦から続く高揚感が最高潮に達する決勝ラウンドでは、優勝争いとともに熱気もピークへ！国内トップ選手たちが最高賞金を懸けて繰り広げる白熱の戦いを、ぜひリアルタイムでご覧ください！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/235-28_s10000_p3/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250426090000 +0000" stop="20250427000000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250427000000 +0000" stop="20250427090000 +0000">
+		<title>前澤杯 MAEZAWA CUP 2025 本戦決勝ラウンド</title>
+		<desc>賞金総額2億円、優勝賞金4,000万円――国内男子ゴルフツアー屈指のビッグトーナメント「前澤杯 MAEZAWA CUP 2025」。その白熱の本戦、第3ラウンド（4月26日）と決勝ラウンド（4月27日）を中継でお届けします！国内初の“2週間開催”というスケールで注目を集める本大会は、全国のゴルフファンとプロが集う、まさに“日本一ゴルフが熱い”イベント。華やかなラウンドガールの帯同や、プロアマ戦から続く高揚感が最高潮に達する決勝ラウンドでは、優勝争いとともに熱気もピークへ！国内トップ選手たちが最高賞金を懸けて繰り広げる白熱の戦いを、ぜひリアルタイムでご覧ください！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/235-28_s10000_p4/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250418111000 +0000" stop="20250418150500 +0000">
 		<title>【コーディー出場】レッスルマニア26 (2010)</title>
