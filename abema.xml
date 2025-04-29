@@ -96,6 +96,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -2631,10 +2635,15 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 		<desc>香港で一躍有名人となっている、蛇沼製薬社長であり蛇沼総合メディカル院長でもある蛇沼みゆきは、グエンと共に変装姿で九龍を探索していた。現在の九龍と鯨井令子の存在に違和感を感じている蛇沼とグエンは、令子の近くにいる工藤にも興味を持ち始める。一方、令子は工藤や楊明と一緒に、小黒の引っ越しパーティを楽しんでいた。その晩、屋上でタバコを吸いながら、工藤は令子に空に浮かぶジェネリックテラが輝く理由を尋ねる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-73_s1_p4/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20250504030000 +0000" stop="20250504070000 +0000">
+	<programme channel="abema-anime" start="20250504030000 +0000" stop="20250504050000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	</programme>
+	<programme channel="abema-anime" start="20250504050000 +0000" stop="20250504070000 +0000">
+		<title>LAZARUS ラザロ #1〜4【無料ビデオ1週間】</title>
+		<desc>天才科学者スキナーの開発した奇跡の鎮痛剤「ハプナ」は、実は人類を滅ぼす薬だった。そして刑務所にいたアクセルのもとにハーシュと名乗る女性が現れ、自由と引き換えにスキナーを見つけて欲しいと告げる。だがアクセルは隙をついて脱獄、彼を捕まえるために派遣されたダグ、クリス、リーランド、エレイナの４人は、街中をパルクールで軽々と駆け抜けるアクセルを追い詰めていく…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-241_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250504070000 +0000" stop="20250504083000 +0000">
 		<title>機動戦士Gundam GQuuuuuuX #1〜3【無料ビデオ1週間】</title>
@@ -2851,7 +2860,17 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 ──これは、そんな“よくある(?)話”。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p76/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20250504190000 +0000" stop="20250505090000 +0000">
+	<programme channel="abema-anime" start="20250504190000 +0000" stop="20250504220000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	</programme>
+	<programme channel="abema-anime" start="20250504220000 +0000" stop="20250505000000 +0000">
+		<title>LAZARUS ラザロ #1〜4【無料ビデオ1週間】</title>
+		<desc>天才科学者スキナーの開発した奇跡の鎮痛剤「ハプナ」は、実は人類を滅ぼす薬だった。そして刑務所にいたアクセルのもとにハーシュと名乗る女性が現れ、自由と引き換えにスキナーを見つけて欲しいと告げる。だがアクセルは隙をついて脱獄、彼を捕まえるために派遣されたダグ、クリス、リーランド、エレイナの４人は、街中をパルクールで軽々と駆け抜けるアクセルを追い詰めていく…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-241_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20250505000000 +0000" stop="20250505090000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
@@ -17407,6 +17426,221 @@ Lillion vs LiTA の合同初回売上バトルに備え
 		<title>WWE　RAW &amp; ABEMA#84</title>
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!赤いブランド・RAWは火曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s10006_p84/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250422112500 +0000" stop="20250422144500 +0000">
+		<title>KEIRIN ADVANCE 高知 F2 初日</title>
+		<desc>新KEIRINが始まっています！
+
+競輪未経験者や初心者への分かりやすいレース提供のため、ガールズケイリンと同じ先頭固定競走ルールによる男子選手の新レース！
+番組では、元競輪選手の解説者による「展開予想・解説」だけでなく、KEIRIN ADVANCEの予想ポイントをまとめたさまざまなデータも紹介します！
+これを見れば初心者でも予想が簡単！
+
+宇都宮 F1 初日は競輪ch、高知 F2 初日はSPECIAL3chでお楽しみください！
+豪華キャストとKEIRIN ADVANCEを楽しみましょう！
+
+番組視聴は、お酒、ご友人と、
+そして投票サービス「WINTICKET」と共にお楽しみください！
+まだご登録されていない方はWINTICKETをご登録の上ご視聴ください！
+
+▼ウィンチケット競輪
+https://www.winticket.jp/keirin/
+▼高知競輪
+https://www.winticket.jp/keirin/kochi/
+▼高知出走表
+https://www.winticket.jp/keirin/kochi/racecard/
+▼高知オッズ
+https://www.winticket.jp/keirin/kochi/odds/
+▼KEIRIN ADVANCE 高知 F1 初日
+https://www.winticket.jp/keirin/kochi/racecard/2025042274/?index=1</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-4_s1_p22215/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250422144500 +0000" stop="20250423112500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250423112500 +0000" stop="20250423144500 +0000">
+		<title>KEIRIN ADVANCE 高知 F2 第2日</title>
+		<desc>新KEIRINが始まっています！
+
+競輪未経験者や初心者への分かりやすいレース提供のため、ガールズケイリンと同じ先頭固定競走ルールによる男子選手の新レース！
+番組では、元競輪選手の解説者による「展開予想・解説」だけでなく、KEIRIN ADVANCEの予想ポイントをまとめたさまざまなデータも紹介します！
+これを見れば初心者でも予想が簡単！
+
+宇都宮 F1 2日目は競輪ch、高知 F2 2日目はSPECIAL3chでお楽しみください！
+豪華キャストとKEIRIN ADVANCEを楽しみましょう！
+
+番組視聴は、お酒、ご友人と、
+そして投票サービス「WINTICKET」と共にお楽しみください！
+まだご登録されていない方はWINTICKETをご登録の上ご視聴ください！
+
+▼ウィンチケット競輪
+https://www.winticket.jp/keirin/
+▼高知競輪
+https://www.winticket.jp/keirin/kochi/
+▼高知出走表
+https://www.winticket.jp/keirin/kochi/racecard/
+▼高知オッズ
+https://www.winticket.jp/keirin/kochi/odds/
+▼KEIRIN ADVANCE 高知 F2 第2日
+https://www.winticket.jp/keirin/kochi/racecard/2025042274/?index=1</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-4_s1_p22216/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250423144500 +0000" stop="20250424112500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250424112500 +0000" stop="20250424144500 +0000">
+		<title>KEIRIN ADVANCE 高知 F2 最終日</title>
+		<desc>新しいKEIRINがが始まります！
+
+競輪未経験者や初心者への分かりやすいレース提供のため、
+ガールズケイリンと同じ先頭固定競走（インターナショナル）ルールによる男子選手の新レースを実施！
+
+元競輪選手による「展開予想・解説」だけでなく、
+・今日の推しメン
+・ピックアップデータ
+・一発逆転！夢車券
+など、レースの特性に応じて買うべき車券とそのロジックを紹介するコーナーも実施！
+
+予想あり！笑いあり！
+これを見れば初心者でも予想が簡単！
+豪華キャストとKEIRIN ADVANCEを楽しみましょう！
+
+番組視聴は、お酒、ご友人と、
+そして投票サービス「WINTICKET」と共にお楽しみください！
+まだご登録されていない方はWINTICKETをご登録の上ご視聴ください！
+
+▼ウィンチケット競輪
+https://www.winticket.jp/keirin/
+▼高知競輪
+https://www.winticket.jp/keirin/kochi/
+▼高知出走表
+https://www.winticket.jp/keirin/kochi/racecard/
+▼高知オッズ
+https://www.winticket.jp/keirin/kochi/odds/
+▼KEIRIN ADVANCE 高知 F2 最終日
+https://www.winticket.jp/keirin/kochi/racecard/2025042274/?index=3</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-4_s1_p22217/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250424144500 +0000" stop="20250425080000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250425080000 +0000" stop="20250425100000 +0000">
+		<title>RIZIN男祭り 緊急記者会見</title>
+		<desc>緊急生放送決定！！
+5月4日（日）に開催される日本最大級の格闘技イベント「RIZIN男祭り」
+緊急記者会見を生放送！
+開催まであと1週間の『RIZIN男祭り』の新情報が明らかに...
+RIZIN CEOの榊󠄀原信行氏が何を語るのか...
+
+ーーーーーーーーーー
+5月4日(日)「RIZIN男祭り」
+
+朝倉未来が遂に復活。
+過去の敗北を乗り越え、勝利を掴みとることができるのか。
+そして、メインカードは王者クレベル・コイケが
+最強の挑戦者ラジャブアリ・シェイドゥラエフとベルトを賭けて対決！
+他にも見逃せないカードが目白押し！ABEMA PPVで全試合を生配信。
+
+「過去最大級のキャッシュバック」
+新規ABEMAプレミアム登録で
+【4,000円キャッシュバック】キャンペーンを実施中！
+ABEMAなら実質最安値！
+ーーーーーーーーーー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s30040_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250425100000 +0000" stop="20250426050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250426050000 +0000" stop="20250426100000 +0000">
+		<title>RIZIN男祭り 公開練習＆榊󠄀原社長に呼び出されました【ABEMA拡大SP】</title>
+		<desc>5月4日（日）日本最大級の格闘技イベント「RIZIN男祭り」が東京ドームで開催！
+
+大会を1週間後に控えた選手達を集めた「合同公開練習」と「榊󠄀原社長（バラさん）に呼び出されました」を緊急“無料”生放送が決定！！
+
+前半は、約9か月ぶりに再びリングへ上がることを決意した朝倉未来選手！対戦相手の鈴木千裕選手をはじめ、出場選手が続々と登場する「合同公開練習」を生放送。
+
+後半は、RIZINの人気コンテンツ「榊󠄀原社長（バラさん）に呼び出されました」を緊急生放送！
+特別ゲストは、朝倉選手、鈴木選手、クレベル・コイケ選手！
+RIZIN CEOの榊󠄀原信行氏が試合前の選手たちを呼び出して、本音を引き出します。更に、重大発表も…？！
+ここでしか聞くことができない貴重なトークの数々を、ぜひお楽しみください。 
+
+ーーーーーーーーーー
+5月4日(日)「RIZIN男祭り」
+
+朝倉未来が遂に復活。
+過去の敗北を乗り越え、勝利を掴みとることができるのか。
+そして、メインカードは王者クレベル・コイケが
+最強の挑戦者ラジャブアリ・シェイドゥラエフとベルトを賭けて対決！
+他にも見逃せないカードが目白押し！ABEMA PPVで全試合を生配信。
+
+「過去最大級のキャッシュバック」
+新規ABEMAプレミアム登録で
+【4,000円キャッシュバック】キャンペーンを実施中！
+ABEMAなら実質最安値！
+ーーーーーーーーーー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s30038_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250426100000 +0000" stop="20250427020000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250427020000 +0000" stop="20250427140500 +0000">
+		<title>FANTASTICSのイケメンを、壊したい！ 全話一挙</title>
+		<desc>FANTASTICSのABEMA初冠番組がスタート!
+
+初回は佐藤・世界・堀の3人が、自称?イケメン芸人とそのイケメン顔を壊す仕掛けだらけの熱海旅に!!
+オープニングからビビりまくる佐藤のイケメン崩壊が止まらない!
+みかん狩りに訪れた農園では、突然〇〇に襲われて全員思わずおブス顔に!?
+
+八木勇征がロケの仕掛けをスタジオで体験!…イケメン顔はキープできたのか!?
+
+更に、FANTASTICSファンへのインタビューを実施!
+よりカッコよくなるために必要なことを聞いてみると…
+愛のあるダメ出しの数々にメンバーも思わず赤面！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2020_s1_p101/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250427140500 +0000" stop="20250429050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250429050000 +0000" stop="20250429134000 +0000">
+		<title>ハッシュタグハウス 全話一挙【男磨きハウス参加者募集中！】</title>
+		<desc>ひとつ屋根の下、ここはSNSの舞台裏ー。
+総フォロワー1000万超えのインフルエンサー10人が、謎の共同生活を送る「ハッシュタグハウス」
+その家では、SNSスキルを競う秘密のバトルゲームが開幕！
+
+インフルエンサーとしてのプライドをかけたバトルを通じ
+"SNSでは見せない裏側"が剥き出しになっていくー。
+
+優勝者には、願いが叶うご褒美が。
+成し遂げたい未来のために、メンバー10人の生き残りをかけた戦いが始まる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2014_s1_p101/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250429134000 +0000" stop="20250506032000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250506032000 +0000" stop="20250506084500 +0000">
+		<title>セトラスホールディングス presents TGC 香川 2025</title>
+		<desc>『セトラスホールディングス presents TGC 香川 2025』をABEMAにて無料生中継！
+
+日本を代表する人気モデルや俳優、アイドル、アーティスト、動画クリエイターたちが大集結！
+ファッションショーやライブパフォーマンスだけでなく、ここでしか見ることのできないスペシャルステージも！
+
+初開催となるTGC香川にご期待ください！
+
+#TGC香川 #ABEMAでTGC をつけてご視聴ください！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/140-33_s10000_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250421150000 +0000" stop="20250421170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
@@ -32763,7 +32997,7 @@ SEIYA vs 鈴木孝司</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-124_s10_p4/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250501120000 +0000" stop="20250501134500 +0000">
-		<title>NOAH TIME LIVE #7</title>
+		<title>両国大会まであと2日！OZAWA自らKENTA戦を語る！拡大90分SP</title>
 		<desc>これを見ればプロレスリング・ノアが分かる！NOAH TIMEが生放送になってスケールアップ！プロレスリング・ノアの旬な選手もゲスト出演！密着ドキュメント、ビギナー向けNOAH紹介コンテンツも激アツ！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-19_s10004_p4/thumb001.png" />
 	</programme>
