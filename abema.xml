@@ -72,6 +72,10 @@
 		<display-name>ドラゴンボールチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/dragonball/logo.png" />
 	</channel>
+	<channel id="gundam">
+		<display-name>ガンダム特集</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</channel>
 	<channel id="80s-anime-1">
 		<display-name>なつかしアニメ80's</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png" />
@@ -1496,8 +1500,8 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 	</programme>
 	<programme channel="abema-anime" start="20250510113000 +0000" stop="20250510123000 +0000">
 		<title>TVアニメ「WIND BREAKER」六方一座編開幕特番</title>
-		<desc>-</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p100/thumb001.png" />
+		<desc>このたび「ABEMA」にて独占無料放送が決定した、『TVアニメ「WIND BREAKER Season 2」六方一座編開幕特番』には、内田雄馬さん（桜 遥 役）、千葉翔也さん（楡井秋彦 役）、逢坂良太さん（椿野 佑 役）、さらに六方一座編から登場する新キャラクター、中村幹路を演じるキャストが出演。放送を終えたばかりの「KEEL編」を名シーンダイジェストともに振り返るほか、この後始まる超武闘派集団・六方一座との戦いを描く「六方一座編」の見どころを徹底解説いたします。豪華キャストとともに、大人気ヤンキーアニメ『WIND BREAKER Season 2』の魅力と最新情報をたっぷりとお伝えする本特別番組をぜひお見逃しなく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-802_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250510123000 +0000" stop="20250510125700 +0000">
 		<title>ゴリラの神から加護された令嬢は王立騎士団で可愛がられる #5・見逃し放送</title>
@@ -1510,13 +1514,9 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-103_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250510125700 +0000" stop="20250510130000 +0000">
-		<title>ちいかわ #110【無料ビデオ1週間】</title>
-		<desc>【なんか小さくてかわいいやつ】通称「ちいかわ」たちが送る
-楽しくて、ちょっぴり切ない物語。
-時には辛いことで泣いちゃうけれど
-「ちいかわ」の周りにはやさしい友達や個性豊かなキャラクターがたくさん！
-イラストレーター・ナガノによる大人気マンガ「ちいかわ」がついにアニメ化！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p110/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250510130000 +0000" stop="20250510133000 +0000">
 		<title>スライム倒して300年 そのに #6【地上波同時・WEB最速】</title>
@@ -1533,7 +1533,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 世界樹と呼ばれる巨大ダンジョンを攻略したり。
 
 今日も楽しい一日が始まります！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p55/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-20_s2_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250510133000 +0000" stop="20250510140000 +0000">
 		<title>真･侍伝 YAIBA #6【WEB最速】</title>
@@ -1649,7 +1649,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 新制高校の二年生に進級した日下部栞奈は、国語の新任講師・中禅寺秋彦と出会う。
 
 栞奈の周囲では、怪異にまつわる奇々怪々な事件が次々と発生。今日もまた、栞奈は助けを求め、仏頂面の中禅寺先生が待つ図書準備室の扉を開けるのだった――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p86/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/189-80_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250510183000 +0000" stop="20250510190000 +0000">
 		<title>真･侍伝 YAIBA #6・見逃し放送</title>
@@ -1740,7 +1740,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 世界樹と呼ばれる巨大ダンジョンを攻略したり。
 
 今日も楽しい一日が始まります！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p55/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-20_s2_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250510230000 +0000" stop="20250510231200 +0000">
 		<title>最強王図鑑 #6【最新話】</title>
@@ -1755,7 +1755,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 
 「勝つのはどっちだ～～!?」
 「モ～～～～スト、ファイッ！」</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p74/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/204-15_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250510231200 +0000" stop="20250510231700 +0000">
 		<title>かいじゅうせかいせいふく #6【最新話】</title>
@@ -1827,7 +1827,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 われてしまう――。
 そんなピンチにあっても、胸に歌を忘れない『プリンセス』たちの冒険を描いた物語。
 勇気と元気がたくさん詰まった、ポップソング・ファンタジア――プリンセッション・オーケストラ！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p79/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/115-120_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250511010000 +0000" stop="20250511010500 +0000">
 		<title>ゴー！ゴー！びーくるずー のりものスター編 #5【最新話】</title>
@@ -1915,7 +1915,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 われてしまう――。
 そんなピンチにあっても、胸に歌を忘れない『プリンセス』たちの冒険を描いた物語。
 勇気と元気がたくさん詰まった、ポップソング・ファンタジア――プリンセッション・オーケストラ！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p79/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/115-120_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250511110000 +0000" stop="20250511113000 +0000">
 		<title>しろひよ #5【地上波1クール先行・独占】</title>
@@ -1950,7 +1950,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 守仁には予言された災いからニコを守る使い魔としての使命があり…。
 ニコの魔法が引き起こす予測不能なトラブル、年ごろの男女の二人暮らし...
 前途多難で摩訶不思議な日々が始まる！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p33/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/593-12_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250511123000 +0000" stop="20250511130000 +0000">
 		<title>ウマ娘 シンデレラグレイ #6【最新話】</title>
@@ -1985,12 +1985,12 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 英雄パーティをクビになった少年が途方に暮れて旅をする。
 
 ──これは、そんな“よくある(?)話”。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p76/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-102_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250511140000 +0000" stop="20250511143000 +0000">
 		<title>前橋ウィッチーズ #6【最新話】</title>
 		<desc>地元(まえばし)で魔女ってエモエモじゃない!? 群馬県前橋市。高校1年生・赤城(あかぎ)ユイナの”普通にまぁ”な物足りない日常は……「じゃあ君、魔女になってみてよ」謎のカエル、ケロッペの登場で一変！ 部屋のクローゼットは不思議な空間に繋がっていて――新里(にいさと)アズ「アンタには魔女になる本気度が足りない！」北原(きたはら)キョウカ「……喧嘩はやめて、お客さんの願い叶えない？」 三俣(みつまた)チョコ「夢が見れるって素敵だよ！ ハピハピチョコちゃんだよ！」 上泉(かみいずみ)マイ「私、長いものには巻かれろタイプなの♪」うん、5人だとなんか楽しいことが起きる気がする!! 最高に刺激的な魔女、私たち前橋ウィッチーズが、あなたの願いを叶えます。赤城ユイナ「ここは、あなただけのお花屋さん。心の奥にある、あなたのお花、咲かせる場所」歌って踊る、魔法の花屋、ミラクルに本日開店！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p84/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-200_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250511143000 +0000" stop="20250511150000 +0000">
 		<title>最強の王様、二度目の人生は何をする？ #6【最新話】</title>
@@ -2000,7 +2000,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 そこでは自身を愛してくれる家族や仲間に囲まれ、再び赤子から成長していく日々に、前世とは異なる喜びを覚えていくアーサー。そんな時、旅の途中で家族が盗賊に襲われてしまい……。
 
 愛と冒険に満ちた“二度目の人生”が始まる──！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p81/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-254_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250511150000 +0000" stop="20250511153000 +0000">
 		<title>忍者と殺し屋のふたりぐらし #5【最新話】</title>
@@ -2011,7 +2011,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 …なんと彼女の正体は殺し屋だったのだ！
 
 世間知らずのくノ一と殺し屋女子高生の危ない共同生活がスタート！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p73/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-286_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250511153000 +0000" stop="20250511160000 +0000">
 		<title>キミとアイドルプリキュア♪ #13・見逃し放送</title>
@@ -2038,7 +2038,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 われてしまう――。
 そんなピンチにあっても、胸に歌を忘れない『プリンセス』たちの冒険を描いた物語。
 勇気と元気がたくさん詰まった、ポップソング・ファンタジア――プリンセッション・オーケストラ！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p79/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/115-120_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250511170000 +0000" stop="20250511173000 +0000">
 		<title>ウィッチウォッチ #6・見逃し放送</title>
@@ -2049,7 +2049,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 守仁には予言された災いからニコを守る使い魔としての使命があり…。
 ニコの魔法が引き起こす予測不能なトラブル、年ごろの男女の二人暮らし...
 前途多難で摩訶不思議な日々が始まる！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p33/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/593-12_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250511173000 +0000" stop="20250511180000 +0000">
 		<title>忍者と殺し屋のふたりぐらし #5・見逃し放送</title>
@@ -2060,7 +2060,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 …なんと彼女の正体は殺し屋だったのだ！
 
 世間知らずのくノ一と殺し屋女子高生の危ない共同生活がスタート！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p73/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-286_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250511180000 +0000" stop="20250511183000 +0000">
 		<title>最強の王様、二度目の人生は何をする？ #6・見逃し放送</title>
@@ -2070,7 +2070,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 そこでは自身を愛してくれる家族や仲間に囲まれ、再び赤子から成長していく日々に、前世とは異なる喜びを覚えていくアーサー。そんな時、旅の途中で家族が盗賊に襲われてしまい……。
 
 愛と冒険に満ちた“二度目の人生”が始まる──！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p81/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-254_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250511183000 +0000" stop="20250511190000 +0000">
 		<title>勘違いの工房主 #7・見逃し放送</title>
@@ -2088,7 +2088,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 英雄パーティをクビになった少年が途方に暮れて旅をする。
 
 ──これは、そんな“よくある(?)話”。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p76/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-102_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250511190000 +0000" stop="20250513143000 +0000">
 		<title>No programme</title>
@@ -2105,7 +2105,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 記憶がないのに懐かしく感じる風景。
 そして、止められない恋心。過去・現在の時間軸が交錯する中、
 恋が、秘密を解き明かす――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p93/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-73_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250513150000 +0000" stop="20250515083000 +0000">
 		<title>No programme</title>
@@ -2585,6 +2585,26 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 		<title>ダンジョンに出会いを求めるのは間違っているだろうか#1【シリーズ全話無料配信中】</title>
 		<desc>迷宮都市オラリオ。その都市の象徴ともいうべき『ダンジョン』にこだまする魔獣の咆哮――新米冒険者・ベル・クラネルは、まさに絶体絶命の危機を迎えていた。少々残念な神・ヘスティアの唯一の眷族となり、はや半月。眼前には、5階層で遭遇するはずのない高レベルモンスター。すくむ足、震える身体……恐怖と絶望に支配されたベルの前に、一人の剣士が舞い降りる……。剣、魔法、魔物、そして神々。オラリオの零細ファミリア所属、ベル・クラネルの冒険譚は、ここから始まった――。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-3_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20250511150000 +0000" stop="20250515130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20250515130000 +0000" stop="20250515190000 +0000">
+		<title>陰の実力者になりたくて！2nd season #1〜12【無料ビデオ2週間】</title>
+		<desc>吸血鬼を退治するというクレアに連れ出され、巨大なスラム「無法都市」にやってきたシド。だが早々にクレアとはぐれ、「赤き月」が引き起こした大騒動に巻きこまれる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-221_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20250515190000 +0000" stop="20250516010000 +0000">
+		<title>陰の実力者になりたくて！2nd season #1〜12【無料ビデオ2週間】</title>
+		<desc>吸血鬼を退治するというクレアに連れ出され、巨大なスラム「無法都市」にやってきたシド。だが早々にクレアとはぐれ、「赤き月」が引き起こした大騒動に巻きこまれる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-221_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20250516010000 +0000" stop="20250516070000 +0000">
+		<title>陰の実力者になりたくて！2nd season #1〜12【無料ビデオ2週間】</title>
+		<desc>吸血鬼を退治するというクレアに連れ出され、巨大なスラム「無法都市」にやってきたシド。だが早々にクレアとはぐれ、「赤き月」が引き起こした大騒動に巻きこまれる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-221_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-special-2" start="20250501110000 +0000" stop="20250501190000 +0000">
 		<title>タイムボカンシリーズ ヤッターマン #9〜24【無料ビデオ1週間】</title>
@@ -3221,17 +3241,17 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 		<desc>豚のレバーを生で食べて倒れた俺は、異世界(メステリア)で豚になっていた！　助けてくれた小間使いの美少女ジェスは、心を読む能力をもつイェスマという種族らしい。元・眼鏡ヒョロガリクソ童貞である俺のだだ漏れの欲望に、はにかみながらも応えてくれるジェス。ちょっと待て、どうしてそんなに優しくしてくれるんだ……！？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-245_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime-2" start="20250510050000 +0000" stop="20250510110000 +0000">
-		<title>インフィニット・デンドログラム #1〜13【無料ビデオ1週間】</title>
-		<desc>VRMMO&lt;Infinite Dendrogram&gt;がリリースされてから約1年半。大学受験を終えた椋鳥玲二は念願の&lt;Infinite Dendrogram&gt;をプレイする。レイ・スターリングとなり、兄シュウに会うためアルター王国にやってくると、突然クエストに巻き込まれて……!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/149-7_s1_p1/thumb001.png" />
+	<programme channel="isekai-anime-2" start="20250510050000 +0000" stop="20250510160000 +0000">
+		<title>無職転生～異世界行ったら本気だす～ #1〜23【無料ビデオ1週間】</title>
+		<desc>34歳・童貞・無職の引きこもりだった男は車に撥ねられ、その一生を終える……はずだった。しかし、男が次に目を覚ましたとき、そこは剣と魔法の異世界であった。少年・ルーデウスとして転生した男は考える、この世界ならば、自分も本気で生きていくことができるかもしれない……と。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/149-11_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime-2" start="20250510110000 +0000" stop="20250510170000 +0000">
-		<title>インフィニット・デンドログラム #1〜13【無料ビデオ1週間】</title>
-		<desc>VRMMO&lt;Infinite Dendrogram&gt;がリリースされてから約1年半。大学受験を終えた椋鳥玲二は念願の&lt;Infinite Dendrogram&gt;をプレイする。レイ・スターリングとなり、兄シュウに会うためアルター王国にやってくると、突然クエストに巻き込まれて……!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/149-7_s1_p1/thumb001.png" />
+	<programme channel="isekai-anime-2" start="20250510160000 +0000" stop="20250511030000 +0000">
+		<title>無職転生～異世界行ったら本気だす～ #1〜23【無料ビデオ1週間】</title>
+		<desc>34歳・童貞・無職の引きこもりだった男は車に撥ねられ、その一生を終える……はずだった。しかし、男が次に目を覚ましたとき、そこは剣と魔法の異世界であった。少年・ルーデウスとして転生した男は考える、この世界ならば、自分も本気で生きていくことができるかもしれない……と。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/149-11_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime-2" start="20250510170000 +0000" stop="20250510230000 +0000">
+	<programme channel="isekai-anime-2" start="20250511030000 +0000" stop="20250511090000 +0000">
 		<title>ゴブリンスレイヤー #1〜12【無料ビデオ1週間】</title>
 		<desc>女神官は冒険者となったその日に、ゴブリンに攫われた娘を助け出すため、新米の冒険者たちと共に森の洞窟へと向かう。
 モンスターの中でも最弱と言われるゴブリンだったが、洞窟に仕掛けられた罠にはまり彼女たちは絶体絶命の危機に陥ってしまう。
@@ -3239,7 +3259,7 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 淡々と手間を惜しまずゴブリンを退治していくその男は、自らを“ゴブリンスレイヤー”と名乗るが…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-10_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime-2" start="20250510230000 +0000" stop="20250511045500 +0000">
+	<programme channel="isekai-anime-2" start="20250511090000 +0000" stop="20250511143000 +0000">
 		<title>ゴブリンスレイヤー #1〜12【無料ビデオ1週間】</title>
 		<desc>女神官は冒険者となったその日に、ゴブリンに攫われた娘を助け出すため、新米の冒険者たちと共に森の洞窟へと向かう。
 モンスターの中でも最弱と言われるゴブリンだったが、洞窟に仕掛けられた罠にはまり彼女たちは絶体絶命の危機に陥ってしまう。
@@ -3247,23 +3267,10 @@ MC・岩井勇気が観たオススメ春アニメ3選を紹介！
 淡々と手間を惜しまずゴブリンを退治していくその男は、自らを“ゴブリンスレイヤー”と名乗るが…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-10_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime-2" start="20250511045500 +0000" stop="20250511105500 +0000">
-		<title>インフィニット・デンドログラム #1〜13【無料ビデオ1週間】</title>
-		<desc>VRMMO&lt;Infinite Dendrogram&gt;がリリースされてから約1年半。大学受験を終えた椋鳥玲二は念願の&lt;Infinite Dendrogram&gt;をプレイする。レイ・スターリングとなり、兄シュウに会うためアルター王国にやってくると、突然クエストに巻き込まれて……!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/149-7_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="isekai-anime-2" start="20250511105500 +0000" stop="20250511165500 +0000">
+	<programme channel="isekai-anime-2" start="20250511143000 +0000" stop="20250511200000 +0000">
 		<title>アラフォー男の異世界通販 #1〜13【無料ビデオ2週間】</title>
 		<desc>アラフォーの独身男ケンイチは、気づくと異世界の深い森に立っていた。元いた世界の巨大ネット通販サイト「シャングリ・ラ」をスキルとして使用できると気づいたケンイチは、異世界で手に入れたアイテムを換金し、さまざまな商品を購入してサバイバルを開始！　しかし魔物の群れに囲まれ、絶体絶命の危機に陥ってしまう。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-281_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="isekai-anime-2" start="20250511165500 +0000" stop="20250511225500 +0000">
-		<title>ゴブリンスレイヤー #1〜12【無料ビデオ1週間】</title>
-		<desc>女神官は冒険者となったその日に、ゴブリンに攫われた娘を助け出すため、新米の冒険者たちと共に森の洞窟へと向かう。
-モンスターの中でも最弱と言われるゴブリンだったが、洞窟に仕掛けられた罠にはまり彼女たちは絶体絶命の危機に陥ってしまう。
-その時、全身を鎧で覆った銀等級（序列三位）の人物が女神官の前に現れた。
-淡々と手間を惜しまずゴブリンを退治していくその男は、自らを“ゴブリンスレイヤー”と名乗るが…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-10_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime-3" start="20250501105500 +0000" stop="20250501165500 +0000">
 		<title>転生したら剣でした #1～12【無料ビデオ1週間】</title>
@@ -8872,6 +8879,341 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 		<desc>悟空の猛攻に自尊心を傷つけられたフリーザは、ナメック星の破壊を決意。強大なエネルギー波を星の中枢へ撃ちこむ。しかし自爆を恐れパワーを抑制したため、星の爆発まで５分の余地を残してしまう。一方、宇宙船に辿り着いた悟飯は、地球へ戻るためブルマを探しに出発。そして悟空とフリーザの最後の闘いが始まった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-47_s2_p97/thumb001.png" />
 	</programme>
+	<programme channel="gundam" start="20250501133000 +0000" stop="20250501200000 +0000">
+		<title>機動戦士ガンダムSEED #36〜48【無料ビデオ72時間】</title>
+		<desc>EMP兵器によりマス・ドライバーを破壊された連合軍は、オーブのそれを狙う。その背後にはブルーコスモス総帥アズラエルの姿があった。オーブを護るため戦う決意したマリューは、アークエンジェルのクルーに、共に戦うか退艦かの選択を呼びかける。そして戦端が開かれた!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p36/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250501200000 +0000" stop="20250502043000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250502043000 +0000" stop="20250502110000 +0000">
+		<title>機動戦士ガンダムSEED #36〜48【無料ビデオ72時間】</title>
+		<desc>EMP兵器によりマス・ドライバーを破壊された連合軍は、オーブのそれを狙う。その背後にはブルーコスモス総帥アズラエルの姿があった。オーブを護るため戦う決意したマリューは、アークエンジェルのクルーに、共に戦うか退艦かの選択を呼びかける。そして戦端が開かれた!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p36/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250502110000 +0000" stop="20250502173000 +0000">
+		<title>機動戦士ガンダムSEED #36〜48【無料ビデオ72時間】</title>
+		<desc>EMP兵器によりマス・ドライバーを破壊された連合軍は、オーブのそれを狙う。その背後にはブルーコスモス総帥アズラエルの姿があった。オーブを護るため戦う決意したマリューは、アークエンジェルのクルーに、共に戦うか退艦かの選択を呼びかける。そして戦端が開かれた!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-96_s1_p36/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250502173000 +0000" stop="20250503013000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250503013000 +0000" stop="20250503080000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #1〜13【無料ビデオ72時間】</title>
+		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250503080000 +0000" stop="20250503143000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #1〜13【無料ビデオ72時間】</title>
+		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250503143000 +0000" stop="20250503210000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #1〜13【無料ビデオ72時間】</title>
+		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250503210000 +0000" stop="20250504033000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #14〜26【無料ビデオ72時間】</title>
+		<desc>キラたちのもとに、カガリの乳母マーナが訪ねてきた。渡されたカガリからの手紙には、オーブの代表としての責務を果たすため、ユウナとの結婚を決めたことが記されていた。アスランに返しておいて欲しいと渡されたカガリの指輪を見て、キラはある決意を固める。そして婚礼の日、結婚式場にフリーダムが現れて……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p14/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250504033000 +0000" stop="20250504050000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX #1〜3【無料ビデオ1週間】</title>
+		<desc>女子高生アマテは、偶然運び屋の少女ニャアンと知り合い、非合法なジャンク屋と関わってしまう。そんな時、軍警のザクが領空侵犯の赤いガンダムとコロニー内で戦闘を始める。巻き込まれたアマテはジークアクスを駆るのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250504050000 +0000" stop="20250504113000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #14〜26【無料ビデオ72時間】</title>
+		<desc>キラたちのもとに、カガリの乳母マーナが訪ねてきた。渡されたカガリからの手紙には、オーブの代表としての責務を果たすため、ユウナとの結婚を決めたことが記されていた。アスランに返しておいて欲しいと渡されたカガリの指輪を見て、キラはある決意を固める。そして婚礼の日、結婚式場にフリーダムが現れて……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p14/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250504113000 +0000" stop="20250504130000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX #1〜3【無料ビデオ1週間】</title>
+		<desc>女子高生アマテは、偶然運び屋の少女ニャアンと知り合い、非合法なジャンク屋と関わってしまう。そんな時、軍警のザクが領空侵犯の赤いガンダムとコロニー内で戦闘を始める。巻き込まれたアマテはジークアクスを駆るのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250504130000 +0000" stop="20250504133000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #4【最新話】</title>
+		<desc>ジャンク屋を訪ねてきたおっとりした女性シイコ・スガイは、魔女の異名を持つ撃墜王だった。因縁の敵である赤いガンダムと決着をつけるためクランバトルにエントリーする魔女の恐るべき執念に、マチュは圧倒される。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250504133000 +0000" stop="20250504200000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #14〜26【無料ビデオ72時間】</title>
+		<desc>キラたちのもとに、カガリの乳母マーナが訪ねてきた。渡されたカガリからの手紙には、オーブの代表としての責務を果たすため、ユウナとの結婚を決めたことが記されていた。アスランに返しておいて欲しいと渡されたカガリの指輪を見て、キラはある決意を固める。そして婚礼の日、結婚式場にフリーダムが現れて……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p14/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250504200000 +0000" stop="20250504230000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250504230000 +0000" stop="20250505050000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #27〜38【無料ビデオ72時間】</title>
+		<desc>アスランとキラたちの会談を監視していたルナマリアは、その調査データをタリアに提出するが、本物のラクスが何者かに命を狙われた件に関しては言い出せずにいた。一方ステラは、強化人間ゆえに通常の治療を施せないまま、徐々に弱り始める。そんな中、ネオはミネルバの追跡・破壊をジブリールに改めて厳命されて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250505050000 +0000" stop="20250505053000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #4・見逃し放送</title>
+		<desc>ジャンク屋を訪ねてきたおっとりした女性シイコ・スガイは、魔女の異名を持つ撃墜王だった。因縁の敵である赤いガンダムと決着をつけるためクランバトルにエントリーする魔女の恐るべき執念に、マチュは圧倒される。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250505053000 +0000" stop="20250505113000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #27〜38【無料ビデオ72時間】</title>
+		<desc>アスランとキラたちの会談を監視していたルナマリアは、その調査データをタリアに提出するが、本物のラクスが何者かに命を狙われた件に関しては言い出せずにいた。一方ステラは、強化人間ゆえに通常の治療を施せないまま、徐々に弱り始める。そんな中、ネオはミネルバの追跡・破壊をジブリールに改めて厳命されて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250505113000 +0000" stop="20250505120000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #4・見逃し放送</title>
+		<desc>ジャンク屋を訪ねてきたおっとりした女性シイコ・スガイは、魔女の異名を持つ撃墜王だった。因縁の敵である赤いガンダムと決着をつけるためクランバトルにエントリーする魔女の恐るべき執念に、マチュは圧倒される。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250505120000 +0000" stop="20250505180000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #27〜38【無料ビデオ72時間】</title>
+		<desc>アスランとキラたちの会談を監視していたルナマリアは、その調査データをタリアに提出するが、本物のラクスが何者かに命を狙われた件に関しては言い出せずにいた。一方ステラは、強化人間ゆえに通常の治療を施せないまま、徐々に弱り始める。そんな中、ネオはミネルバの追跡・破壊をジブリールに改めて厳命されて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250505180000 +0000" stop="20250506000000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250506000000 +0000" stop="20250506060000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #39〜50【無料ビデオ72時間】</title>
+		<desc>ザフトによって完全に制圧されたヘブンズゲート。デュランダルは、行方不明のジブリールの足取りを追うよう軍に命じる。一方、ラクスの指示を受けたダコスタは、かつて遺伝子研究所のあったコロニー・メンデルの中で一冊のノートを見つけ、ラクスのもとに持ち帰る。しかしそこをザフトに発見されてしまって…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p39/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250506060000 +0000" stop="20250506120000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #39〜50【無料ビデオ72時間】</title>
+		<desc>ザフトによって完全に制圧されたヘブンズゲート。デュランダルは、行方不明のジブリールの足取りを追うよう軍に命じる。一方、ラクスの指示を受けたダコスタは、かつて遺伝子研究所のあったコロニー・メンデルの中で一冊のノートを見つけ、ラクスのもとに持ち帰る。しかしそこをザフトに発見されてしまって…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p39/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250506120000 +0000" stop="20250506180000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #39〜50【無料ビデオ72時間】</title>
+		<desc>ザフトによって完全に制圧されたヘブンズゲート。デュランダルは、行方不明のジブリールの足取りを追うよう軍に命じる。一方、ラクスの指示を受けたダコスタは、かつて遺伝子研究所のあったコロニー・メンデルの中で一冊のノートを見つけ、ラクスのもとに持ち帰る。しかしそこをザフトに発見されてしまって…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p39/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250506180000 +0000" stop="20250507050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250507050000 +0000" stop="20250507090000 +0000">
+		<title>機動武闘伝Ｇガンダム #1〜8【無料ビデオ72時間】</title>
+		<desc>第13回大会が開幕されようとする日、ドモンはマフィアが実権を握るネオイタリアのローマに現れた。彼は酒場で暴れるマフィア一派を叩きのめした事で、ネオイタリアのガンダムファイターでありマフィアのボスでもあるミケロの恨みを買ってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250507090000 +0000" stop="20250507130000 +0000">
+		<title>機動武闘伝Ｇガンダム #1〜8【無料ビデオ72時間】</title>
+		<desc>第13回大会が開幕されようとする日、ドモンはマフィアが実権を握るネオイタリアのローマに現れた。彼は酒場で暴れるマフィア一派を叩きのめした事で、ネオイタリアのガンダムファイターでありマフィアのボスでもあるミケロの恨みを買ってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250507130000 +0000" stop="20250507170000 +0000">
+		<title>機動武闘伝Ｇガンダム #1〜8【無料ビデオ72時間】</title>
+		<desc>第13回大会が開幕されようとする日、ドモンはマフィアが実権を握るネオイタリアのローマに現れた。彼は酒場で暴れるマフィア一派を叩きのめした事で、ネオイタリアのガンダムファイターでありマフィアのボスでもあるミケロの恨みを買ってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250507170000 +0000" stop="20250508050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250508050000 +0000" stop="20250508090000 +0000">
+		<title>機動武闘伝Ｇガンダム #9〜16【無料ビデオ72時間】</title>
+		<desc>ドモンの次なる相手は、ガンダムファイト連続優勝の記録を持つベテランファイター、ネオイングランドのチャップマン！ だが、彼と対戦したジョルジュは、卑怯な手段で勝とうとする極悪ファイターだと言う。果たしてチャップマンの真実の姿とは？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250508090000 +0000" stop="20250508130000 +0000">
+		<title>機動武闘伝Ｇガンダム #9〜16【無料ビデオ72時間】</title>
+		<desc>ドモンの次なる相手は、ガンダムファイト連続優勝の記録を持つベテランファイター、ネオイングランドのチャップマン！ だが、彼と対戦したジョルジュは、卑怯な手段で勝とうとする極悪ファイターだと言う。果たしてチャップマンの真実の姿とは？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250508130000 +0000" stop="20250508170000 +0000">
+		<title>機動武闘伝Ｇガンダム #9〜16【無料ビデオ72時間】</title>
+		<desc>ドモンの次なる相手は、ガンダムファイト連続優勝の記録を持つベテランファイター、ネオイングランドのチャップマン！ だが、彼と対戦したジョルジュは、卑怯な手段で勝とうとする極悪ファイターだと言う。果たしてチャップマンの真実の姿とは？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p9/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250508170000 +0000" stop="20250509050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250509050000 +0000" stop="20250509090000 +0000">
+		<title>機動武闘伝Ｇガンダム #17〜24【無料ビデオ72時間】</title>
+		<desc>新宿から忽然と消えたキョウジとデビルガンダムを追い求めるドモン。その行く手に待ち受けるマスターの恐ろしい罠。さらにネオドイツのファイター、シュバルツまでもが立ちはだかり、ガンダムシュピーゲルでファイトを挑んできた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p17/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250509090000 +0000" stop="20250509130000 +0000">
+		<title>機動武闘伝Ｇガンダム #17〜24【無料ビデオ72時間】</title>
+		<desc>新宿から忽然と消えたキョウジとデビルガンダムを追い求めるドモン。その行く手に待ち受けるマスターの恐ろしい罠。さらにネオドイツのファイター、シュバルツまでもが立ちはだかり、ガンダムシュピーゲルでファイトを挑んできた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p17/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250509130000 +0000" stop="20250509170000 +0000">
+		<title>機動武闘伝Ｇガンダム #17〜24【無料ビデオ72時間】</title>
+		<desc>新宿から忽然と消えたキョウジとデビルガンダムを追い求めるドモン。その行く手に待ち受けるマスターの恐ろしい罠。さらにネオドイツのファイター、シュバルツまでもが立ちはだかり、ガンダムシュピーゲルでファイトを挑んできた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p17/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250509170000 +0000" stop="20250510050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250510050000 +0000" stop="20250510090000 +0000">
+		<title>機動武闘伝Ｇガンダム #25〜32【無料ビデオ72時間】</title>
+		<desc>ガンダムファイト決勝大会がいよいよスタート。ドモンの新型機ゴッドガンダムを初めとする世界各国の強豪ガンダム達がネオ香港に集まった。しかしそこには、驚くべきファイターまでもが姿を見せた……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p25/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250510090000 +0000" stop="20250510130000 +0000">
+		<title>機動武闘伝Ｇガンダム #25〜32【無料ビデオ72時間】</title>
+		<desc>ガンダムファイト決勝大会がいよいよスタート。ドモンの新型機ゴッドガンダムを初めとする世界各国の強豪ガンダム達がネオ香港に集まった。しかしそこには、驚くべきファイターまでもが姿を見せた……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p25/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250510130000 +0000" stop="20250510170000 +0000">
+		<title>機動武闘伝Ｇガンダム #25〜32【無料ビデオ72時間】</title>
+		<desc>ガンダムファイト決勝大会がいよいよスタート。ドモンの新型機ゴッドガンダムを初めとする世界各国の強豪ガンダム達がネオ香港に集まった。しかしそこには、驚くべきファイターまでもが姿を見せた……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p25/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250510170000 +0000" stop="20250511040000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250511040000 +0000" stop="20250511083000 +0000">
+		<title>機動武闘伝Ｇガンダム #33〜41【無料ビデオ72時間】</title>
+		<desc>ジョルジュの次なる対戦相手は、DG細胞の力で驚異の復活を遂げたチャップマン。さらに、悪魔の手先はファイト中にバリア・コントロール・センターを占拠。マリアルイゼたちネオフランス・クルーを守るためジョルジュは窮地に立たされる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p33/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250511083000 +0000" stop="20250511130000 +0000">
+		<title>機動武闘伝Ｇガンダム #33〜41【無料ビデオ72時間】</title>
+		<desc>ジョルジュの次なる対戦相手は、DG細胞の力で驚異の復活を遂げたチャップマン。さらに、悪魔の手先はファイト中にバリア・コントロール・センターを占拠。マリアルイゼたちネオフランス・クルーを守るためジョルジュは窮地に立たされる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p33/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250511130000 +0000" stop="20250511133000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #5【最新話】</title>
+		<desc>宇宙に浮かぶスペース・コロニーで平穏に暮らしていた女子高生アマテ・ユズリハは、少女ニャアンと出会ったことで、非合法なモビルスーツ決闘競技《クランバトル》に巻き込まれる。エントリーネーム《マチュ》を名乗るアマテは、 GQuuuuuuX ジークアクス を駆り、苛烈なバトルの日々に身を投じていく。同じ頃、宇宙軍と警察の双方から追われていた正体不明のモビルスーツ《ガンダム》と、そのパイロットの少年シュウジが彼女の前に姿を現す。そして、世界は新たな時代を迎えようとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250511133000 +0000" stop="20250511180000 +0000">
+		<title>機動武闘伝Ｇガンダム #33〜41【無料ビデオ72時間】</title>
+		<desc>ジョルジュの次なる対戦相手は、DG細胞の力で驚異の復活を遂げたチャップマン。さらに、悪魔の手先はファイト中にバリア・コントロール・センターを占拠。マリアルイゼたちネオフランス・クルーを守るためジョルジュは窮地に立たされる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p33/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250511180000 +0000" stop="20250512040000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250512040000 +0000" stop="20250512080000 +0000">
+		<title>機動武闘伝Ｇガンダム #42〜49【無料ビデオ72時間】</title>
+		<desc>レインが聞かされるデビルガンダム事件の意外な真相。一方、デビルガンダムの配下となったミケロの圧倒的な攻撃力にドモンは大苦戦。その時、シャッフルの仲間、サイ・サイシーとアルゴがドモンのピンチに駆けつけた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p42/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250512080000 +0000" stop="20250512083000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #5・見逃し放送</title>
+		<desc>宇宙に浮かぶスペース・コロニーで平穏に暮らしていた女子高生アマテ・ユズリハは、少女ニャアンと出会ったことで、非合法なモビルスーツ決闘競技《クランバトル》に巻き込まれる。エントリーネーム《マチュ》を名乗るアマテは、 GQuuuuuuX ジークアクス を駆り、苛烈なバトルの日々に身を投じていく。同じ頃、宇宙軍と警察の双方から追われていた正体不明のモビルスーツ《ガンダム》と、そのパイロットの少年シュウジが彼女の前に姿を現す。そして、世界は新たな時代を迎えようとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250512083000 +0000" stop="20250512123000 +0000">
+		<title>機動武闘伝Ｇガンダム #42〜49【無料ビデオ72時間】</title>
+		<desc>レインが聞かされるデビルガンダム事件の意外な真相。一方、デビルガンダムの配下となったミケロの圧倒的な攻撃力にドモンは大苦戦。その時、シャッフルの仲間、サイ・サイシーとアルゴがドモンのピンチに駆けつけた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p42/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250512123000 +0000" stop="20250512130000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #5・見逃し放送</title>
+		<desc>宇宙に浮かぶスペース・コロニーで平穏に暮らしていた女子高生アマテ・ユズリハは、少女ニャアンと出会ったことで、非合法なモビルスーツ決闘競技《クランバトル》に巻き込まれる。エントリーネーム《マチュ》を名乗るアマテは、 GQuuuuuuX ジークアクス を駆り、苛烈なバトルの日々に身を投じていく。同じ頃、宇宙軍と警察の双方から追われていた正体不明のモビルスーツ《ガンダム》と、そのパイロットの少年シュウジが彼女の前に姿を現す。そして、世界は新たな時代を迎えようとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250512130000 +0000" stop="20250512170000 +0000">
+		<title>機動武闘伝Ｇガンダム #42〜49【無料ビデオ72時間】</title>
+		<desc>レインが聞かされるデビルガンダム事件の意外な真相。一方、デビルガンダムの配下となったミケロの圧倒的な攻撃力にドモンは大苦戦。その時、シャッフルの仲間、サイ・サイシーとアルゴがドモンのピンチに駆けつけた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-120_s0_p42/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250512170000 +0000" stop="20250513043000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250513043000 +0000" stop="20250513090000 +0000">
+		<title>新機動戦記ガンダムＷ #1〜9【無料ビデオ72時間】</title>
+		<desc>5体のMSが地球へと降下。その1体であるウイングはOZのゼクスに撃墜されてしまう。外務次官の娘リリーナは漂着した操縦者ヒイロを発見するが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250513090000 +0000" stop="20250513133000 +0000">
+		<title>新機動戦記ガンダムＷ #1〜9【無料ビデオ72時間】</title>
+		<desc>5体のMSが地球へと降下。その1体であるウイングはOZのゼクスに撃墜されてしまう。外務次官の娘リリーナは漂着した操縦者ヒイロを発見するが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250513133000 +0000" stop="20250513180000 +0000">
+		<title>新機動戦記ガンダムＷ #1〜9【無料ビデオ72時間】</title>
+		<desc>5体のMSが地球へと降下。その1体であるウイングはOZのゼクスに撃墜されてしまう。外務次官の娘リリーナは漂着した操縦者ヒイロを発見するが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250513180000 +0000" stop="20250514050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250514050000 +0000" stop="20250514090000 +0000">
+		<title>新機動戦記ガンダムＷ #10〜17【無料ビデオ72時間】</title>
+		<desc>宇宙用MSトーラスのシベリア基地輸送計画を知り、出撃するガンダムたち。だがそれはOZによる陽動作戦だった。宇宙要塞バルジの照準をコロニーに向けさせ、降伏を迫るレディ・アン。ヒイロはついにウイングの自爆を決意する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p10/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250514090000 +0000" stop="20250514130000 +0000">
+		<title>新機動戦記ガンダムＷ #10〜17【無料ビデオ72時間】</title>
+		<desc>宇宙用MSトーラスのシベリア基地輸送計画を知り、出撃するガンダムたち。だがそれはOZによる陽動作戦だった。宇宙要塞バルジの照準をコロニーに向けさせ、降伏を迫るレディ・アン。ヒイロはついにウイングの自爆を決意する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p10/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250514130000 +0000" stop="20250514170000 +0000">
+		<title>新機動戦記ガンダムＷ #10〜17【無料ビデオ72時間】</title>
+		<desc>宇宙用MSトーラスのシベリア基地輸送計画を知り、出撃するガンダムたち。だがそれはOZによる陽動作戦だった。宇宙要塞バルジの照準をコロニーに向けさせ、降伏を迫るレディ・アン。ヒイロはついにウイングの自爆を決意する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p10/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250514170000 +0000" stop="20250515050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250515050000 +0000" stop="20250515090000 +0000">
+		<title>新機動戦記ガンダムＷ #18〜25【無料ビデオ72時間】</title>
+		<desc>財団は無人MS(モビルスーツ)・モビルドールの導入に本腰を入れ始めた。一方、戦士としての個人的感情からガンダムと戦ってきたと悟ったゼクスはOZとの、そして友であるトレーズとの決別をはかる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p18/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250515090000 +0000" stop="20250515130000 +0000">
+		<title>新機動戦記ガンダムＷ #18〜25【無料ビデオ72時間】</title>
+		<desc>財団は無人MS(モビルスーツ)・モビルドールの導入に本腰を入れ始めた。一方、戦士としての個人的感情からガンダムと戦ってきたと悟ったゼクスはOZとの、そして友であるトレーズとの決別をはかる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p18/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250515130000 +0000" stop="20250515170000 +0000">
+		<title>新機動戦記ガンダムＷ #18〜25【無料ビデオ72時間】</title>
+		<desc>財団は無人MS(モビルスーツ)・モビルドールの導入に本腰を入れ始めた。一方、戦士としての個人的感情からガンダムと戦ってきたと悟ったゼクスはOZとの、そして友であるトレーズとの決別をはかる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p18/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250515170000 +0000" stop="20250516050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250516050000 +0000" stop="20250516090000 +0000">
+		<title>新機動戦記ガンダムＷ #26〜33【無料ビデオ72時間】</title>
+		<desc>トレーズを支持する一部の兵士たちが財団に反旗を翻した。OZを二分する内乱は地球と宇宙に広がっていく。その頃、ウイングゼロを回収した月面基地では戦闘データの調査が開始されたが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p26/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250516090000 +0000" stop="20250516130000 +0000">
+		<title>新機動戦記ガンダムＷ #26〜33【無料ビデオ72時間】</title>
+		<desc>トレーズを支持する一部の兵士たちが財団に反旗を翻した。OZを二分する内乱は地球と宇宙に広がっていく。その頃、ウイングゼロを回収した月面基地では戦闘データの調査が開始されたが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p26/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250516130000 +0000" stop="20250516170000 +0000">
+		<title>新機動戦記ガンダムＷ #26〜33【無料ビデオ72時間】</title>
+		<desc>トレーズを支持する一部の兵士たちが財団に反旗を翻した。OZを二分する内乱は地球と宇宙に広がっていく。その頃、ウイングゼロを回収した月面基地では戦闘データの調査が開始されたが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p26/thumb001.png" />
+	</programme>
 	<programme channel="80s-anime-1" start="20250501110000 +0000" stop="20250501150500 +0000">
 		<title>美味しんぼ #34～41【無料ビデオ1週間】</title>
 		<desc>父亡きあと女ながらに寿司屋を継いだ夏子。その気負いから来る極端な男勝りの物腰が客に不快感を与えて、自己嫌悪に陥る。”女性の持つ長所で勝負する事こそが大切”と悟った夏子は・・・。</desc>
@@ -12814,14 +13156,48 @@ M-1ファイナリストのジョックロックが挑戦！
 		<desc>有罪になり収監されたチュ・ダンテは、イ・ギュジンとは別の雑居房にいた。カン・マリと同じ房に収監されたコ・サンアは、適応力の違いを見せつけられる。そんな中、チョン・ソジンは弁護士と面会し、控訴審に備えていた。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-218_s3_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250512033300 +0000" stop="20250512120000 +0000">
+	<programme channel="abema-special" start="20250512033300 +0000" stop="20250512112700 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20250512112700 +0000" stop="20250512115700 +0000">
+		<title>薬屋のひとりごと #42</title>
+		<desc>毒と薬に異常な執着を持つ薬屋の娘・猫猫と
+謎多き美形の宦官・壬氏が
+宮中で巻き起こるさらなる難事件へと挑んでいく。
+
+シリーズ累計発行部数3,800万部突破の大人気作品『薬屋のひとりごと』。
+2023年10月から放送された第1期は、放送直後から大きな話題を呼び
+猫猫の痛快なヒロイン性はもちろん、本格的なミステリー
+そして後宮内で紡ぎだされる人間ドラマに多くの共感を集め、
+まさに老若男女幅広い世代から愛される作品となりました。
+
+熱狂冷めやらぬまま、2025年に第2期の放送が決定！
+玉葉妃の妊娠判明により、後宮内に渦巻き始める暗雲。
+そして壬氏の命が狙われた、前代未聞の未解決事件。
+
+謎がさらなる謎を呼び、
+猫猫と壬氏をさらなる難事件が待ち受ける。
+
+後宮謎解きエンタテインメイントが
+今、再び開幕する！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-174_s2_p42/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250512115700 +0000" stop="20250512120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250512120000 +0000" stop="20250512130000 +0000">
-		<title>今日、好きになりました。</title>
-		<desc>近日公開</desc>
+		<title>新シーズン 今日、かわいくしてきてよかった。 今日好き＃１</title>
+		<desc>新シーズンの舞台は、フィリピンのマクタン！
+メンバー10人の恋が始まる。
+
+ニュージーランド編から継続で旅に参加したもか。
+気になるのは、ずっとかっこいいと思っていたはると。
+「もかちゃんともうちょっと話したいなと思って。」
+今回こそ成立することはできる？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s710_p1001/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250512130000 +0000" stop="20250512190000 +0000">
@@ -12876,7 +13252,17 @@ M-1ファイナリストのジョックロックが挑戦！
 それでも、愛を誓えますか？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-31_s2_p16/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250513124800 +0000" stop="20250513160000 +0000">
+	<programme channel="abema-special" start="20250513124800 +0000" stop="20250513141000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20250513141000 +0000" stop="20250513144000 +0000">
+		<title>TVアニメ『九龍ジェネリックロマンス』 #5・見逃し放送</title>
+		<desc>「鯨井令子は俺が殺した」という工藤の言葉が忘れられず、鯨井Bの過去とその人物を知ろうとする令子だったが、楊明はそんな令子に不満を抱く。そんな中、九龍の映画館で古い映画「胡蝶の夢」がリバイバル上映される。主演女優の美しさに興奮する令子に、楊明はいつにない表情を見せ、距離を置く。思わず自身の過去を突き付けられ、現在の自分自身を見失う楊明。過去を持たず、自分の人生を奪われる感覚がわからない令子だが、それでも楊明のもとへ急ぐ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-73_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250513144000 +0000" stop="20250513160000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -12921,11 +13307,16 @@ M-1ファイナリストのジョックロックが挑戦！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250514120000 +0000" stop="20250514130000 +0000">
-		<title>#3：すーぱーのびしろたいむ by 今日、好きになりました。</title>
-		<desc>放課後がやってきた！さあ、出かけよう！
+		<title>ギャル日本文化を学ぶ！ ＆ きんごガチギレ？ すぱのび#3</title>
+		<desc>▼見どころ
+・ギャルが殺陣を学ぶ！みなつに特別ゲストがきて、全員爆笑？！
+・あの街in熊本！きんごが豚のレースで本気出しすぎてガチギレ？
+
+▼すぱのびとは？
+放課後がやってきた！さあ、出かけよう！
 高校生たちが新しい人たちと、普段とは違った環境で、やったことないことに挑戦するバラエティ番組。
-高校生たちは、自らの”のびしろ”を求めチャレンジする中で、大人になる第一歩を踏み出します。
-今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
+高校生たちは、自らの"のびしろ"を求めチャレンジする中で、大人になる第一歩を踏み出します。
+今しかないこの瞬間"すーぱーのびしろたいむ"をお見逃しなく！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p173/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250514130000 +0000" stop="20250514160000 +0000">
@@ -12980,7 +13371,48 @@ M-1ファイナリストのジョックロックが挑戦！
 魅惑的な殺人鬼との「愛」と「狂気」にまみれた純愛サスペンス</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p8/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250515144600 +0000" stop="20250516140000 +0000">
+	<programme channel="abema-special" start="20250515144600 +0000" stop="20250515154600 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20250515154600 +0000" stop="20250515181800 +0000">
+		<title>unknown #7~9【24時間無料】</title>
+		<desc>降りしきる雨、地面に広がる赤い血。血に塗れたウエディングドレス姿で倒れていた闇原こころ(高畑充希)が目を覚まし、悲鳴を上げる。次々に駆けつける目撃者たち、そして最後に現れた人物は、朝田虎松(田中圭)だった―。
+目の前の惨劇に絶句する虎松。その視線の先には、血を流して死んでいる虎松の父親・一条彪牙(井浦新)と、血に濡れたアイスピックを握りしめる妻・こころの姿が。虎松を見上げてこころは呟く。
+「私じゃない、信じて―?」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-125_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250515181800 +0000" stop="20250515230000 +0000">
+		<title>それでも愛を誓いますか? 全話一挙【無料1週間】</title>
+		<desc>純須純(松本まりか)と武頼(池内博之)は結婚歴8年、子どもなしの夫婦。仲のいい夫婦だが、「子どもが欲しい」という純の想いをよそに、セックスレスは5年目になる。純は女性としての劣等感と同時に、将来について本音を語り合えない二人の関係性に不満を感じていた。
+ なにかを変えなければ...そんな思いから、純は8年ぶりに再就職し、契約社員として働き始める。
+初出勤の帰り道、駅で待ち合わせて、いい雰囲気で帰宅する二人。その夜、純は勇気を出して武頼を求めるが、武頼は優しく拒絶するのだった...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-12_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250515230000 +0000" stop="20250516033000 +0000">
+		<title>ペントハウス シーズン3(吹替) 第23〜最終話【韓流アワー】</title>
+		<desc>ダンテの密航に関わった疑いで警察の取り調べを受けたソッキョンは、迎えに来たスリョンとソクフンのことを家族ではないと言い張る。病院に運ばれたユンチョルの手術が続く中、知らせを聞いた面々が病院に駆けつける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-218_s3_p23/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250516033000 +0000" stop="20250516100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20250516100000 +0000" stop="20250516120000 +0000">
+		<title>『ときめきファンファーレ』#7</title>
+		<desc>MCにクロちゃん（安田大サーカス）と「ABEMA BOATRACE COLORS『クロクルパレット』に出演していた先輩アイドル・田中れいな、岡部麟が毎週交互に出演。
+準レギュラーメンバーであるアイドルたちを加えて、クロちゃん・田中れいなさん・岡部麟さんがそれぞれのチームを結成！
+ボートレースの予想や、ボートレースに関するクイズなど様々な企画をチームで対決！
+さらに、注目の若手レーサーを紹介するVTRコーナーも。
+クロちゃんやレーサー、出演者たちの個性的なカラーを引き立てながらお送りします。
+
+週末のボートレースはABEMAで！
+【提供】BOATRACE振興会</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-307_s10000_p1007/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250516120000 +0000" stop="20250516140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14423,17 +14855,172 @@ AMEMIYAの絶叫がこだまする「チクショーーーー!!」
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10007_p84/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250510150000 +0000" stop="20250511004700 +0000">
+	<programme channel="special-plus" start="20250510150000 +0000" stop="20250510170000 +0000">
+		<title>チャンスの時間#296〜年末ブチギレSP！永野vsアンジャッシュ渡部で大暴走!!</title>
+		<desc>【行列のできるブチギレ相談所２時間SP】
+史上最強ブチギレ軍団が炎上覚悟で縦横無尽に暴れまくる!!
+
+永野「いよいよ生意気に口答えし出したね」「自我持っちゃったよ おい」
+永野vsアンジャ渡部が新たなフェーズを迎える…!!
+さらに、アンジャ渡部がまた爆弾発言!?「現在は、盗撮魔として生きてます」
+
+相談員・ドランクドラゴン鈴木拓の矛先は
+同じ事務所の先輩アンジャ渡部に「絶対まだ許してない！」
+
+そして、大悟がまさかのガチ説教!?「お前今日何しに来たの？」…一体どうなる!?
+
+【孤独のフィリピンパブ】
+喫煙所を探しているとそのままフィリピンパブに吸い込まれる。
+挨拶がわりに下ネタをぶっ込むフィリピン娘
+みちおがプレゼント何欲しいと尋ねると最高の答えが…！ノブ「嘘やろ!?」
+酒を飲み進めるとまさかの感動ストーリーへ
+みちお「ここは愛に満ちていた…」
+
+ノブ「プロ野球選手の引退映像くらい良かった」
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p296/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250510170000 +0000" stop="20250510191200 +0000">
+		<title>愛のハイエナ season1 #9~10</title>
+		<desc>「人気キャバ嬢がすっぴんで接客しても、客は金を落とすのか？」禁断の検証企画
+さらにセクシー女優が本気で恋人探し「ピュアな恋しちゃダメですか？」第2章
+動き出す恋心…セクシー女優が大胆アプローチ
+
+ニューヨーク＆さらば青春の光が、人間のリアルな本性を暴きだす!!
+遠慮を知らない土足系ドキュメントバラエティ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s1_p109/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250510191200 +0000" stop="20250510194200 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20250510194200 +0000" stop="20250510210000 +0000">
+		<title>ナオキマンの都市伝説ワイドショー #1~2</title>
+		<desc>【あの元芸能人とテレビ局の騒動による都市伝説視点で見たら…】
+スピン報道で芸能人が生贄に？
+芸能界と政界は裏で繋がっている？
+ある巨大派閥の権力者が根こそぎ狙われている？
+日本にも存在する性的ビジネスの闇
+2032年地球に隕石が衝突？
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250510210000 +0000" stop="20250510220000 +0000">
+		<title>チャンスの時間#311〜アンジャ渡部から大切なお知らせ連続?永野に新たな刺客が…</title>
+		<desc>【第7回 行列のできるブチギレ相談所】
+アンジャッシュ渡部のあの騒動をみんなが忘れないように…
+渡部が切り抜きショート確定の名言炸裂！！俺が何をしたか忘れんなよ？」
+
+狩野英孝 vs 永野　勃発！
+そして、永野相談員が追い込まれる!?
+永野に噛み付く刺客が現れ予想だにしない展開に！
+
+本家は終わっても、こっちはまだまだ続く!?
+暴論！極論！乱れ咲き！春のブチギレSP！！
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p311/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250510220000 +0000" stop="20250510233000 +0000">
+		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #19~20</title>
+		<desc>とりあえず、東出昌大・ひろゆきを南米に置き去りにしました。
+南米大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p38/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250510233000 +0000" stop="20250511000100 +0000">
+		<title>ナオキマンの都市伝説ワイドショー#3：最新AIが創造する新世界</title>
+		<desc>【AIの進化で私たちの生活はどう変わるのか都市伝説視点で見たら…】
+AIによって奪われる意外な職業とは？
+日本政府が推し進める極秘のAIプログラムとは？
+AIの普及でデモ・テロが頻発する可能性とその理由!?
+AIの進化で人間の記憶がいじられる？
+AIの最終進化は…神…？
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250511000100 +0000" stop="20250511004700 +0000">
+		<title>死ぬほど愛して #7 愛する人のために</title>
+		<desc>澪（瀧本美織）殺人計画である記念日旅行に出発した神城真人（成宮寛貴）と澪。
+それを阻止するため後を追う石黒颯馬（細田善彦）だが、真人に気付かれてしまう。
+
+一方警察では、真人の前妻である神城彩 (青山倫子)も他殺であったと判明し騒然としてた。
+真人を信じ切る澪。誰もいないチャペルで、真人と2人きりの結婚式が執り行われていたが……
+
+真人と、石黒や警察たちの決死のチェイスが幕をあける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250511004700 +0000" stop="20250511030000 +0000">
 		<title>僕の彼女はサイボーグ【無料1週間】</title>
 		<desc>ひとりぼっちで過ごす20歳の誕生日。寂しい大学生ジローの前に、突然キュートな“彼女”が現れる。彼女と過ごした数時間は人生の中で最も輝ける時間となるが、突然彼女は姿を消してしまう。1年後の21歳の誕生日、ジローは再び彼女に出会う。似ているけれどどこか違う、“完璧”な彼女に。しかしそれは、決して起こるはずのなかった、運命を変えてしまう“恋”の始まりだった―。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/694-1_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250511030000 +0000" stop="20250511120000 +0000">
+	<programme channel="special-plus" start="20250511030000 +0000" stop="20250511050000 +0000">
+		<title>チャンスの時間 #305#311【土日ひる12時は人気バラエティ】</title>
+		<desc>【金借りスポーツSHAKKING】
+将棋・麻雀・ポーカーに続く新たな頭脳スポーツが誕生！
+その名も「金借りスポーツSHAKKING」
+何も知らされていない債権者候補の楽屋を訪れ、制限時間以内に金を借りろ！
+
+大御所・山田邦子に10万円借りれるか、や団・ロングサイズ伊藤がチャレンジ！
+ロングサイズ伊藤の失礼な態度に大悟「先輩に話す態度じゃない！」
+そして…!!「ギリギリ我慢してっけど…」山田邦子がブチギレる！？「私はぶっ飛ばす時はぶっ飛ばすタイプ」
+
+この状況で金を借りることはできるのか…!? 最後にまさかの心が動く…!?「話を聞いてみようじゃないの」
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p305/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250511050000 +0000" stop="20250511060000 +0000">
+		<title>しくじり先生 史上最悪 地獄の夏フェス #245~246</title>
+		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p278/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250511060000 +0000" stop="20250511080000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20250511080000 +0000" stop="20250511093000 +0000">
+		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #19~20</title>
+		<desc>とりあえず、東出昌大・ひろゆきを南米に置き去りにしました。
+南米大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p38/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250511093000 +0000" stop="20250511100000 +0000">
+		<title>ゼルつく#186/頭の中勝手に解説が進化！&amp;藤尾・相馬の好プレーをテセが熱演！？</title>
+		<desc>■鄭大世＆太田宏介がゼルビア戦士の頭の中を勝手に解説
+ワールドカップ北朝鮮代表・鄭大世がゼルビアフォワード陣の想いを代弁！番組名物企画「選手の頭の中勝手に解説」では、浦和戦サイドに回った藤尾翔太選手の気持ちを代弁！さらに、J1トップのアシスト数を誇る相馬勇紀選手の意外すぎる頭の中を発表！
+先日の生放送直後、太田宏介が奥様からまさかの連絡が・・・！？
+
+■C大阪戦＆鹿島戦を選手証言とともにプレイバック
+３連敗で迎えたAWAYセレッソ大阪戦。昨年までのチームメイト福井光輝選手が相手ゴールを守る中、ゼルビア攻撃陣が覚醒！オセフン選手が今季初ゴール＆ドレシェヴィッチ選手が前節の悔しさを晴らす豪快ヘッド！プレー＆心境を選手本人がゼルビアナライズ！さらに、J1首位を走る鹿島戦も！
+
+※放送内容は予告なく変更になる可能性があります
+
+【番組概要】
+『#ゼルつく』はサッカーJ1リーグに属するFC町田ゼルビアを盛り上げるために生まれた、視聴者やサポーターと一緒につくる参加型サッカーリアリティーショー番組。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1238_s80_p186/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250511100000 +0000" stop="20250511115700 +0000">
+		<title>チャンスの時間 #310~311</title>
+		<desc>【第3回 私が一番カワイイ オーディション】
+はちゃめちゃ元気なベテランか？超スレンダーモデルか？はたまた芸歴0年！テレビ初出演のアイドルか？
+美女たちが、それぞれのかわいさを武器に今日こそNo.1を決める!!
+
+「私、どうしても売れたいんです。」
+絶好のチャンスを逃すまいと美女たちがノブを振り回す!!ノブ「昨日しっかり寝てなかったら死んでた」
+
+第1回・第2回で爪痕を残した美女も再登場し、スタジオはカオスを極める大混戦！
+AMEMIYAの絶叫がこだまする「チクショーーーー!!」
+
+「1番可愛い女の子」の称号を得られるのは誰だ…!?
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p310/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250511115700 +0000" stop="20250511120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -14456,10 +15043,47 @@ AMEMIYAの絶叫がこだまする「チクショーーーー!!」
 		<desc>ひとりぼっちで過ごす20歳の誕生日。寂しい大学生ジローの前に、突然キュートな“彼女”が現れる。彼女と過ごした数時間は人生の中で最も輝ける時間となるが、突然彼女は姿を消してしまう。1年後の21歳の誕生日、ジローは再び彼女に出会う。似ているけれどどこか違う、“完璧”な彼女に。しかしそれは、決して起こるはずのなかった、運命を変えてしまう“恋”の始まりだった―。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/694-1_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250511161800 +0000" stop="20250512003400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20250511161800 +0000" stop="20250511200000 +0000">
+		<title>愛のハイエナ season1 #11~13</title>
+		<desc>「俳優・山本裕典ホストになる」待望の第7弾で衝撃事件が発生
+軍神から衝撃の一言で、山本裕典が涙…一体何が!?
+
+さらに新恋愛企画「ピュア嬢ちゃんとキャバ嬢ちゃん」スタート
+恋をしないキャバ嬢に惑わされず、真実の愛を見つけ出せ。
+
+ニューヨーク＆さらば青春の光が、人間のリアルな本性を暴きだす!!
+遠慮を知らない土足系ドキュメントバラエティ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s1_p111/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250511200000 +0000" stop="20250511220000 +0000">
+		<title>ダマってられない女たち #1~2</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
+
+ハリウッド俳優ニコラス・ケイジ ５人目の日本人妻に世界初密着
+出会った経緯や衝撃のプロポーズを告白
+さらに、LAに購入した15億円の新居を世界初公開！
+
+また、東京秘密基地No1セラピストと元AKB平嶋夏海が
+密着度100％の赤面デート</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250511220000 +0000" stop="20250511235000 +0000">
+		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #11~12</title>
+		<desc>とりあえず、東出昌大・ひろゆきを南米に置き去りにしました。
+南米大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p12/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250511235000 +0000" stop="20250512003400 +0000">
+		<title>死ぬほど愛して #7 愛する人のために</title>
+		<desc>澪（瀧本美織）殺人計画である記念日旅行に出発した神城真人（成宮寛貴）と澪。
+それを阻止するため後を追う石黒颯馬（細田善彦）だが、真人に気付かれてしまう。
+
+一方警察では、真人の前妻である神城彩 (青山倫子)も他殺であったと判明し騒然としてた。
+真人を信じ切る澪。誰もいないチャペルで、真人と2人きりの結婚式が執り行われていたが……
+
+真人と、石黒や警察たちの決死のチェイスが幕をあける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250512003400 +0000" stop="20250512030000 +0000">
 		<title>惡の華【無料1週間】</title>
@@ -14467,10 +15091,15 @@ AMEMIYAの絶叫がこだまする「チクショーーーー!!」
 山々に囲まれた閉塞感に満ちた地方都市。中学２年の春日高男は、ボードレールの詩集「惡の華」を心の拠り所に、息苦しい毎日をなんとかやり過ごしていた。ある放課後、春日は教室で憧れのクラスメイト・佐伯奈々子の体操着を見つける。衝動のままに春日は体操着を掴み、その場から逃げ出してしまう。その一部始終を目撃したクラスの問題児・仲村佐和は、そのことを秘密にする代わりに、春日にある“契約”を持ちかける。こうして仲村と春日の悪夢のような主従関係が始まった・・・。仲村に支配された春日は、仲村からの変態的な要求に翻弄されるうちに、アイデンティティが崩壊し、絶望を知る。そして、「惡の華」への憧れと同じような魅力を仲村にも感じ始めた頃、２人は夏祭りの夜に大事件を起こしてしまう・・・</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/170-17_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250512030000 +0000" stop="20250512060400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20250512030000 +0000" stop="20250512040400 +0000">
+		<title>しくじり先生 #214 相方が急にお休みになるを考える！【完全版】</title>
+		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p243/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250512040400 +0000" stop="20250512060400 +0000">
+		<title>ABEMA Queen Of Poker シーズン1 #1~2</title>
+		<desc>ABEMA Queen Of Poker （AQOP）は、現役最強ポーカー女子8名が”ポーカークイーン”の座を競い合うABEMAオリジナルの新たなポーカートーナメント。予選ステージを3試合競い、ポイント上位6名がFINALステージへ進出。初代ポーカークイーンの座を懸けて女同士の本気のサバイバルバトルが繰り広げられる!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1998_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250512060400 +0000" stop="20250512083000 +0000">
 		<title>惡の華【無料1週間】</title>
@@ -14478,27 +15107,151 @@ AMEMIYAの絶叫がこだまする「チクショーーーー!!」
 山々に囲まれた閉塞感に満ちた地方都市。中学２年の春日高男は、ボードレールの詩集「惡の華」を心の拠り所に、息苦しい毎日をなんとかやり過ごしていた。ある放課後、春日は教室で憧れのクラスメイト・佐伯奈々子の体操着を見つける。衝動のままに春日は体操着を掴み、その場から逃げ出してしまう。その一部始終を目撃したクラスの問題児・仲村佐和は、そのことを秘密にする代わりに、春日にある“契約”を持ちかける。こうして仲村と春日の悪夢のような主従関係が始まった・・・。仲村に支配された春日は、仲村からの変態的な要求に翻弄されるうちに、アイデンティティが崩壊し、絶望を知る。そして、「惡の華」への憧れと同じような魅力を仲村にも感じ始めた頃、２人は夏祭りの夜に大事件を起こしてしまう・・・</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/170-17_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250512083000 +0000" stop="20250513005000 +0000">
+	<programme channel="special-plus" start="20250512083000 +0000" stop="20250512100000 +0000">
+		<title>死ぬほど愛して 第1話~2話</title>
+		<desc>エリートサラリーマンの神城真人（成宮寛貴）とその妻の澪（瀧本美織）は、順風満帆な結婚生活を送っていた。
+ところがある日、澪は出張に出掛けたはずの真人から送られてきた写真がネットから拾ったアリバイ写真だと気づいてしまう。
+平穏な日常にもたらされる一抹の疑念。
+さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
+仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250512100000 +0000" stop="20250512113000 +0000">
+		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #5~6</title>
+		<desc>とりあえず、東出昌大・ひろゆきを南米に置き去りにしました。
+南米大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p6/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250512113000 +0000" stop="20250512130000 +0000">
+		<title>死ぬほど愛して 第6話~7話</title>
+		<desc>次々と明らかになっていく神城真人（成宮寛貴）の正体。
+警部補・富沢（山口馬木也）は南沢夕陽（久間田琳加）、小泉彩葉（南沢夕陽）殺人事件の捜査を一からやり直す決心をする。
+そんな中、真人は澪（瀧本美織）と共に結婚記念旅行の準備を進めていた。真人の澪への保険金殺人計画は最終局面を迎える。
+そこに現れる元不倫相手の長野真澄（筒井真理子）。一方、石黒颯馬（細田善彦）は澪に接触し……
+
+波乱の最終章突入。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250512130000 +0000" stop="20250512150000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20250512150000 +0000" stop="20250512170000 +0000">
+		<title>チャンスの時間 #254~255</title>
+		<desc>【アンジャッシュ渡部の今やっていいはしゃぎダメなはしゃぎ】
+
+未だに反省モードが抜けないアンジャッシュ渡部…
+地上波復帰を本格的に果たすためにも“やっていいはしゃぎ”と“ダメなはしゃぎ”を千鳥が見極め!!
+食リポや若手芸人との絡みに始まり、
+空手着から谷間チラ見せのグラドルとの営業コント、
+そして、ギャルとのTikTok撮影…渡部がはしゃぎまくる!?
+大悟「もっとやっていい！」に渡部困惑!?
+
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p254/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250512170000 +0000" stop="20250512184200 +0000">
+		<title>愛のハイエナ season2 #1~2</title>
+		<desc>「山本裕典、ホストになる。」第２章開幕！
+歌舞伎町でホスト修行を積んだ山本
+今度は大阪屈指の繁華街ミナミでホストの高みを目指す！
+
+さらに、
+『恋愛って…しちゃダメな職業だと思い込んでた』
+石原希望、七ツ森りりなど人気セクシー女優たちが
+ひとりの女性として恋に揺れ動く「ピュア恋」第３弾！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s2_p101/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250512184200 +0000" stop="20250512203000 +0000">
+		<title>ダマってられない女たち #3~4</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生きざまに触れ、本音で人生を語り合う
+約８年ぶりにメディア密着
+テレビから離れていたモデル・マギーの今に迫る
+年商億超え社長に転身した彼女が語る生きざまとは―
+さらに
+年収１億５千万円！歌舞伎町でもトップ級の売り上げを誇る
+カリスマ女性ホスト天使ニアの実態</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250512203000 +0000" stop="20250512210000 +0000">
+		<title>9割が夫婦別室⁈鈴木えみ&amp;津田が結婚のリアルを告白</title>
+		<desc>結婚するのが怖くなる!?
+結婚を誓い合った8組のカップルたちによる
+過酷な婚前合宿サバイバル、開幕！
+
+貯金ゼロ、浮気、性の不一致…
+結婚資金1000万円獲得のため挑んだバトルのはずが、
+浮き彫りになっていく互いの問題と、暴かれる”本性”...!?
+
+目を背けていた現実に直面した時、
+それでも、愛を誓えますか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2030_s1_p490/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250512210000 +0000" stop="20250512220000 +0000">
+		<title>パーラーカチ盛り ABEMA店 #11~12</title>
+		<desc>現れたのは初代北斗の拳と呼ばれる巨大マシーン
+継続率84%、20連して昇天を目指せ！
+外せば激臭ローションが頭上から降り注ぐ…
+
+ラスト、さらば青春の光に
+「バラエティ初の映像」と言わしめる奇跡が起きる…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250512220000 +0000" stop="20250513000000 +0000">
+		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #13~14</title>
+		<desc>とりあえず、東出昌大・ひろゆきを南米に置き去りにしました。
+南米大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p18/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250513000000 +0000" stop="20250513005000 +0000">
+		<title>死ぬほど愛して #7 愛する人のために</title>
+		<desc>澪（瀧本美織）殺人計画である記念日旅行に出発した神城真人（成宮寛貴）と澪。
+それを阻止するため後を追う石黒颯馬（細田善彦）だが、真人に気付かれてしまう。
+
+一方警察では、真人の前妻である神城彩 (青山倫子)も他殺であったと判明し騒然としてた。
+真人を信じ切る澪。誰もいないチャペルで、真人と2人きりの結婚式が執り行われていたが……
+
+真人と、石黒や警察たちの決死のチェイスが幕をあける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250513005000 +0000" stop="20250513030000 +0000">
 		<title>家に帰ると妻が必ず死んだふりをしています。【無料1週間】</title>
 		<desc>サラリーマンのじゅんが仕事を終えて帰宅すると、玄関で妻のちえが口から血を流して倒れていた！動転するじゅんだが、「ククク……」と笑うちえの傍らにはケチャップ。ちえは死んだふりをしていたのだ。それからというもの、家に帰ると必ず死んだふりをするようになった。ある時は、ワニに喰われ、ある時は銃で撃たれ、またある時は頭で矢が射抜かれ……次第にエスカレートしてゆく‘死んだふり’。最初は呆れるじゅんだったが、何を聞いても「月が綺麗ですね」と笑うだけのちえにだんだん不安を覚え始める。寂しいだけなのか、何かのSOSのサインなのか――。ちえの謎の行動には、秘密があった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/170-31_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250513030000 +0000" stop="20250513061400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20250513030000 +0000" stop="20250513041400 +0000">
+		<title>しくじり先生「VIVANT」公安監修を務めた勝丸円覚先生 #216~217</title>
+		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p245/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250513041400 +0000" stop="20250513061400 +0000">
+		<title>ABEMA Queen Of Poker シーズン1 #3~4</title>
+		<desc>ABEMA Queen Of Poker （AQOP）は、現役最強ポーカー女子8名が”ポーカークイーン”の座を競い合うABEMAオリジナルの新たなポーカートーナメント。予選ステージを3試合競い、ポイント上位6名がFINALステージへ進出。初代ポーカークイーンの座を懸けて女同士の本気のサバイバルバトルが繰り広げられる!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1998_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250513061400 +0000" stop="20250513083000 +0000">
 		<title>家に帰ると妻が必ず死んだふりをしています。【無料1週間】</title>
 		<desc>サラリーマンのじゅんが仕事を終えて帰宅すると、玄関で妻のちえが口から血を流して倒れていた！動転するじゅんだが、「ククク……」と笑うちえの傍らにはケチャップ。ちえは死んだふりをしていたのだ。それからというもの、家に帰ると必ず死んだふりをするようになった。ある時は、ワニに喰われ、ある時は銃で撃たれ、またある時は頭で矢が射抜かれ……次第にエスカレートしてゆく‘死んだふり’。最初は呆れるじゅんだったが、何を聞いても「月が綺麗ですね」と笑うだけのちえにだんだん不安を覚え始める。寂しいだけなのか、何かのSOSのサインなのか――。ちえの謎の行動には、秘密があった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/170-31_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250513083000 +0000" stop="20250513120000 +0000">
+	<programme channel="special-plus" start="20250513083000 +0000" stop="20250513100000 +0000">
+		<title>死ぬほど愛して 第3話~4話</title>
+		<desc>神城澪（瀧本美織）の同僚の小泉彩葉（田中美久）が遺体となって発見された。
+彩葉に脅されていたパティシエの小山田丈治（片桐仁）は「女性記者・南沢夕陽（久間田琳加）殺人事件」と併せ重要参考人として取り調べを受けることに。
+不安になる澪をなだめる神城真人（成宮寛貴）だが、その裏では投資家・長野真澄（筒井真理子）との逢瀬を重ねていた。
+真人の化けの皮が剥がれていく……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250513100000 +0000" stop="20250513115700 +0000">
+		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #7~8</title>
+		<desc>とりあえず、東出昌大・ひろゆきを南米に置き去りにしました。
+南米大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p8/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250513115700 +0000" stop="20250513120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -14508,10 +15261,74 @@ AMEMIYAの絶叫がこだまする「チクショーーーー!!」
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!赤いブランド・RAWは火曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s10006_p85/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250513150000 +0000" stop="20250514011100 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20250513150000 +0000" stop="20250513170000 +0000">
+		<title>チャンスの時間 #256~257</title>
+		<desc>【きしたかの高野、宙に浮く】
+SNSでバズり中の「宙を浮くステップ」
+きしたかの高野もこれから益々人気者になって、"怒る"以外の武器を身につけるべく、このスリックバックに挑戦!!
+M-1グランプリ初の準決勝進出の最中…必死にステップ会得に挑む高野
+スリックバック芸人としてバズることができるのか!?
+
+【酔っ払い心霊ブレイク】
+酒は一滴も飲んでいないのがウソのように酔っ払い演技がナチュラルなはんにゃ.金田とネルソンズ和田
+そんな２人がガチ心霊スポットに行っても怖さより面白さが勝つのでは!?
+想像以上に雰囲気がありするぎ心霊スポットに酔っ払い演技継続不可!?
+自我と演技に揺れる２人の渾身の心霊レポートに千鳥爆笑
+
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p256/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250513170000 +0000" stop="20250513185200 +0000">
+		<title>愛のハイエナ season2 #3~4</title>
+		<desc>大阪のホストクラブに出勤している山本裕典
+だが、トークや飲みまくるスタイルに圧倒され
+大阪ホストから完全にナメられる展開に…
+巻き返そうと奮闘するも、とある事件をきっかけに店内は不穏な空気に
+
+さらに
+セクシー女優の恋人探しに追加メンバー
+レジェンド女優 成瀬心美 登場！
+運命の告白を目前に、それぞれの恋路が加速する！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s2_p103/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250513185200 +0000" stop="20250513203000 +0000">
+		<title>ダマってられない女たち #5~6</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
+
+バスト129㎝ Ｍカップに生まれた女性の苦悩
+「普通には生活できない…」
+コンプレックスを強みに変えた波乱万丈な人生とは―
+
+さらに
+大腸を切断し女性器を作る
+驚きの性転換手術に挑んだトランスジェンダーモデルの生き様に密着</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250513203000 +0000" stop="20250513220000 +0000">
+		<title>パーラーカチ盛り ABEMA店 #13~15</title>
+		<desc>努力は必ず報われる…
+盛山店長の後輩芸人・らぶおじさんが万枚の奇跡を信じて自転車で仙台にあるマルハン新店舗へに向かう
+総走行距離約350km
+ゴミ拾い・護摩業・宇宙パワー…道中で様々な徳を積み、奇跡を起こすことは出来るのか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250513220000 +0000" stop="20250513234900 +0000">
+		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #15~16</title>
+		<desc>とりあえず、東出昌大・ひろゆきを南米に置き去りにしました。
+南米大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p26/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250513234900 +0000" stop="20250514011100 +0000">
+		<title>死ぬほど愛して 第6話~7話</title>
+		<desc>次々と明らかになっていく神城真人（成宮寛貴）の正体。
+警部補・富沢（山口馬木也）は南沢夕陽（久間田琳加）、小泉彩葉（南沢夕陽）殺人事件の捜査を一からやり直す決心をする。
+そんな中、真人は澪（瀧本美織）と共に結婚記念旅行の準備を進めていた。真人の澪への保険金殺人計画は最終局面を迎える。
+そこに現れる元不倫相手の長野真澄（筒井真理子）。一方、石黒颯馬（細田善彦）は澪に接触し……
+
+波乱の最終章突入。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250514011100 +0000" stop="20250514030000 +0000">
 		<title>びったれ!!!　(劇場版)【無料1週間】</title>
@@ -14521,10 +15338,15 @@ AMEMIYAの絶叫がこだまする「チクショーーーー!!」
 かつては暴力団組織の金バッヂ、狂犬と恐れられた男・伊武努(田中圭)。極道から足を洗い、いまや司法書士となり亡き姉の娘・かりん(岩崎未来)を男手一つで育てている。ドラマ最終話で無事に娘を取り戻し、平和な生活に戻ったかのように思えたが、幼稚園のパパ友はまたも不当解雇に怯え、大事な補助者・杉山(森カンナ)の実家は不正な取引で立ち退きを迫られ、かりんまで人質に...。ライバル弁護士・霧浦(山本耕史)の狡猾な戦略、そして外道な伊武の父(竹中直人)の魔の手が伊武の前に立ちはだかる。皆の未来を背負った伊武は義理と人情を貫き、かりんと杉山、善良な市井の人々を守ることができるのか!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/337-14_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250514030000 +0000" stop="20250514060600 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20250514030000 +0000" stop="20250514040600 +0000">
+		<title>しくじり先生 芸人闇鍋パーティ #218~219</title>
+		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p247/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250514040600 +0000" stop="20250514060600 +0000">
+		<title>ABEMA Queen Of Poker シーズン1 #5~6</title>
+		<desc>ABEMA Queen Of Poker （AQOP）は、現役最強ポーカー女子8名が”ポーカークイーン”の座を競い合うABEMAオリジナルの新たなポーカートーナメント。予選ステージを3試合競い、ポイント上位6名がFINALステージへ進出。初代ポーカークイーンの座を懸けて女同士の本気のサバイバルバトルが繰り広げられる!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1998_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250514060600 +0000" stop="20250514075600 +0000">
 		<title>びったれ!!!　(劇場版)【無料1週間】</title>
@@ -14534,20 +15356,122 @@ AMEMIYAの絶叫がこだまする「チクショーーーー!!」
 かつては暴力団組織の金バッヂ、狂犬と恐れられた男・伊武努(田中圭)。極道から足を洗い、いまや司法書士となり亡き姉の娘・かりん(岩崎未来)を男手一つで育てている。ドラマ最終話で無事に娘を取り戻し、平和な生活に戻ったかのように思えたが、幼稚園のパパ友はまたも不当解雇に怯え、大事な補助者・杉山(森カンナ)の実家は不正な取引で立ち退きを迫られ、かりんまで人質に...。ライバル弁護士・霧浦(山本耕史)の狡猾な戦略、そして外道な伊武の父(竹中直人)の魔の手が伊武の前に立ちはだかる。皆の未来を背負った伊武は義理と人情を貫き、かりんと杉山、善良な市井の人々を守ることができるのか!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/337-14_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250514075600 +0000" stop="20250515012200 +0000">
+	<programme channel="special-plus" start="20250514075600 +0000" stop="20250514100000 +0000">
+		<title>死ぬほど愛して 第5話~7話</title>
+		<desc>南沢夕陽（久間田琳加）が命を賭して得た神城真人（成宮寛貴）の取材データを持って、石黒颯馬（細田善彦）は警部補・富沢（山口馬木也）のもとを訪ねる。
+そこには、真人のにわかには信じがたい真実が記されていた。
+明かされる真人の過去と、真の姿。果たして真人は何を企んでいるのか……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250514100000 +0000" stop="20250514115700 +0000">
+		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #9~10</title>
+		<desc>とりあえず、東出昌大・ひろゆきを南米に置き去りにしました。
+南米大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250514115700 +0000" stop="20250514140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20250514140000 +0000" stop="20250514144000 +0000">
+		<title>死ぬほど愛して #7 愛する人のために</title>
+		<desc>澪（瀧本美織）殺人計画である記念日旅行に出発した神城真人（成宮寛貴）と澪。
+それを阻止するため後を追う石黒颯馬（細田善彦）だが、真人に気付かれてしまう。
+
+一方警察では、真人の前妻である神城彩 (青山倫子)も他殺であったと判明し騒然としてた。
+真人を信じ切る澪。誰もいないチャペルで、真人と2人きりの結婚式が執り行われていたが……
+
+真人と、石黒や警察たちの決死のチェイスが幕をあける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250514144000 +0000" stop="20250514150000 +0000">
+		<title>9割が夫婦別室⁈鈴木えみ&amp;津田が結婚のリアルを告白</title>
+		<desc>結婚するのが怖くなる!?
+結婚を誓い合った8組のカップルたちによる
+過酷な婚前合宿サバイバル、開幕！
+
+貯金ゼロ、浮気、性の不一致…
+結婚資金1000万円獲得のため挑んだバトルのはずが、
+浮き彫りになっていく互いの問題と、暴かれる”本性”...!?
+
+目を背けていた現実に直面した時、
+それでも、愛を誓えますか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2030_s1_p490/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250514150000 +0000" stop="20250514170000 +0000">
+		<title>チャンスの時間 #258~259</title>
+		<desc>【行列のできるブチギレ相談所】
+永野ブチギレ大フィーバー！！
+キレたいけどキレれない…そんな悩みを一刀両断！
+最強の相談員がスパッとお悩み解決！
+
+永野が今回もキレまくる！「終わりだよ、千鳥はもう」
+COWCOW多田がM-1について爆弾発言！誰にも言えなかった秘めた悩みを告白！
+劇場を愛す千鳥に永野が鋭い一言！
+大悟「確かに…なんでワシ真面目に…」
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p258/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250514170000 +0000" stop="20250514190000 +0000">
+		<title>愛のハイエナ season2 #5~6</title>
+		<desc>山本裕典 出勤２日目
+大阪ホストを見返すために渾身のシャンパンコールを披露
+また、５卓同時に指名客がいるという「売れっ子」状態に…
+しかし、そこには試練とも言える「落とし穴」が！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s2_p105/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250514190000 +0000" stop="20250514210000 +0000">
+		<title>ダマってられない女たち #7~8</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
+
+お笑い芸人ゆってぃの妻 石川あんなの出産に完全密着
+二度の流産、そして不妊治療を経て授かった命－
+分娩室で長時間 力を振り絞る姿にスタジオ号泣
+さらに
+元SKE48北野瑠華が東京秘密基地 新人セラピストと禁断デート</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250514210000 +0000" stop="20250514220000 +0000">
+		<title>パーラーカチ盛り ABEMA店 #16~17</title>
+		<desc>パチンカーにとって最も美味しいタバコのタイミングの瞬間は
+ラッキートリガーの後
+最も美味しいタイミングを実感すべく、喫煙パチンカーがタバコを取り上げられ
+ラッキートリガーを引くまでタバコが吸えないニコチンパチンコ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250514220000 +0000" stop="20250515000000 +0000">
+		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #17~18</title>
+		<desc>とりあえず、東出昌大・ひろゆきを南米に置き去りにしました。
+南米大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p34/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250515000000 +0000" stop="20250515012200 +0000">
+		<title>死ぬほど愛して 第6話~7話</title>
+		<desc>次々と明らかになっていく神城真人（成宮寛貴）の正体。
+警部補・富沢（山口馬木也）は南沢夕陽（久間田琳加）、小泉彩葉（南沢夕陽）殺人事件の捜査を一からやり直す決心をする。
+そんな中、真人は澪（瀧本美織）と共に結婚記念旅行の準備を進めていた。真人の澪への保険金殺人計画は最終局面を迎える。
+そこに現れる元不倫相手の長野真澄（筒井真理子）。一方、石黒颯馬（細田善彦）は澪に接触し……
+
+波乱の最終章突入。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250515012200 +0000" stop="20250515030000 +0000">
 		<title>素敵な人生のはじめ方【無料1週間】</title>
 		<desc>ロサンゼルス。以前はスターだったがここ数年間、仕事がないベテラン男優に、インディペンデントの小さな映画に出演する話が舞い込む。出演契約はまだだが、男優はスーパーの店長の役作りのため、あるスーパーに行くが、そこで働いていた女性の店員スカーレットに関心を抱く。彼はスカーレットの車で家まで送ってもらうことになるが、生活が厳しい彼女は転職のため、建設会社の面接を受けるという。男優は自信がない彼女を励ます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/202-15_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250515030000 +0000" stop="20250515060000 +0000">
+	<programme channel="special-plus" start="20250515030000 +0000" stop="20250515040000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20250515040000 +0000" stop="20250515060000 +0000">
+		<title>ABEMA Queen Of Poker シーズン1 #7~8</title>
+		<desc>ABEMA Queen Of Poker （AQOP）は、現役最強ポーカー女子8名が”ポーカークイーン”の座を競い合うABEMAオリジナルの新たなポーカートーナメント。予選ステージを3試合競い、ポイント上位6名がFINALステージへ進出。初代ポーカークイーンの座を懸けて女同士の本気のサバイバルバトルが繰り広げられる!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1998_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250515060000 +0000" stop="20250515073000 +0000">
 		<title>素敵な人生のはじめ方【無料1週間】</title>
@@ -15341,7 +16265,7 @@ AMEMIYAの絶叫がこだまする「チクショーーーー!!」
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1425/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250509120000 +0000" stop="20250509130000 +0000">
-		<title>#アベプラ①松陰寺,柴田,泉健太,Tehu,五味,山之内すず</title>
+		<title>#アベプラ①百年に一度の危機!?学術会議／グリ下×居場所問題</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はシンガーソングライターTOMOOの｢Super Ball｣です。（MC）EXIT、カンニング竹山、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）安部敏樹、岩田温、乙武洋匡、カマたく、ケンドーコバヤシ、後藤寛勝、小原ブラス、佐々木俊尚、シモダテツヤ、竹中平蔵、田端信太郎、男色ディーノ、辻伸弘、てぃ先生、tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、パックン、速水健朗、堀潤、南和行、茂木健一郎、山田俊浩、ヤマトパンクス、ヨッピー、呂布カルマ、あおちゃんぺ、池澤あやか、市原えつこ、岩澤直美、薄井シンシア、大槻奈那、河崎環、菅野志桜里、紗倉まな、柴田阿弥、シャララジマ、鈴木涼美、たかまつなな、陳暁夏代、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、室井佑月、RaMu、山田邦子（気象予報士）穂川果音（進行）平石直之、仁科健吾、田中萌（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p5995/thumb001.png" />
 	</programme>
@@ -26873,7 +27797,288 @@ https://abema.tv/video/title/16-92
 「SUPER FORMULA」2024年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ! 今季初参戦のレーサーに注目。 F2ランキング4位の岩佐歩夢。 そして日本人女性初かつ史上最年少となるJuju(19歳)。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-2_s80_p5/thumb001.png" />
 	</programme>
-	<programme channel="motor-sport" start="20250509153500 +0000" stop="20250513080000 +0000">
+	<programme channel="motor-sport" start="20250509153500 +0000" stop="20250509212000 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s20000_p71/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250509212000 +0000" stop="20250509233000 +0000">
+		<title>【再】スーパーフォーミュラ2025 Rd.3 モビリティリゾートもてぎ</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+ーーー
+
+「SUPER FORMULA」2025年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-3_s30_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250509233000 +0000" stop="20250510015500 +0000">
+		<title>【再】スーパーフォーミュラ2025 Rd.4 モビリティリゾートもてぎ</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+ーーー
+
+「SUPER FORMULA」2025年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-3_s40_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250510015500 +0000" stop="20250510025500 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s20000_p72/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250510025500 +0000" stop="20250510052500 +0000">
+		<title>【再】スーパーフォーミュラ2025 Rd.1 鈴鹿サーキット</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+「SUPER FORMULA」2025年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-3_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250510052500 +0000" stop="20250510075500 +0000">
+		<title>【再】スーパーフォーミュラ2024 Rd.8 鈴鹿サーキット</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+「SUPER FORMULA」2024年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ! 今季初参戦のレーサーに注目。 F2ランキング4位の岩佐歩夢。 そして日本人女性初かつ史上最年少となるJuju(19歳)。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-2_s80_p5/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250510075500 +0000" stop="20250510111000 +0000">
+		<title>【再】スーパーフォーミュラ2024 Rd.9 鈴鹿サーキット</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+「SUPER FORMULA」2024年シーズンの決勝を全戦アベマで無料配信! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ! 今季初参戦のレーサーに注目。 F2ランキング4位の岩佐歩夢。 そして日本人女性初かつ史上最年少となるJuju。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-2_s90_p5/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250510111000 +0000" stop="20250510133500 +0000">
+		<title>【再】Rd.1 ラリー・モンテカルロ SS11|WRC世界ラリー選手権</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+ーーー
+
+WRC 2025 Rd.1 ラリー・モンテカルロを1月25日(土)〜26日(日)でABEMAで無料生中継! &lt;生配信予定ステージ&gt; 1/25(土) 18:00頃〜(日本時間) SS11 開始予定 1/26(日) 20:00頃〜(日本時間) パワーステージ 開始予定 番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え! 注目チームは日本メーカーのTOYOTA GAZOO Racing ! さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる! 最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目! ▼WRC 世界ラリー選手権とは▼ 1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-90_s10_p100/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250510133500 +0000" stop="20250510160000 +0000">
+		<title>【再】Rd.1 ラリー・モンテカルロ パワーステージ|WRC世界ラリー選手権</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+WRC 2025 Rd.1 ラリー・モンテカルロを1月25日(土)〜26日(日)でABEMAで無料生中継! &lt;生配信予定ステージ&gt; 1/25(土) 18:00頃〜(日本時間) SS11 開始予定 1/26(日) 20:00頃〜(日本時間) パワーステージ 開始予定 番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え! 注目チームは日本メーカーのTOYOTA GAZOO Racing ! さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる! 最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目! ▼WRC 世界ラリー選手権とは▼ 1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-90_s10_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250510160000 +0000" stop="20250510224500 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s20000_p73/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250510224500 +0000" stop="20250511011000 +0000">
+		<title>【再】スーパーフォーミュラ2025 Rd.4 モビリティリゾートもてぎ</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+ーーー
+
+「SUPER FORMULA」2025年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-3_s40_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250511011000 +0000" stop="20250511031500 +0000">
+		<title>【再】Rd.2 ラリー・スウェーデン SS10|WRC世界ラリー選手権</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+WRC 2025 Rd.2 ラリー・スウェーデンを2月15日(土)〜16日(日)でABEMAで無料生中継! &lt;生配信予定ステージ&gt; 2/15(土) 18:00頃〜(日本時間) SS10 開始予定 2/16(日) 20:15頃〜(日本時間) パワーステージ(SS18)開始予定 番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え! 注目チームは日本メーカーのTOYOTA GAZOO Racing ! さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる! 最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目! ▼WRC 世界ラリー選手権とは▼ 1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-90_s20_p100/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250511031500 +0000" stop="20250511052500 +0000">
+		<title>【再】Rd.2 ラリー・スウェーデン パワーステージ|WRC世界ラリー選手権</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+WRC 2025 Rd.2 ラリー・スウェーデンを2月15日(土)〜16日(日)でABEMAで無料生中継! &lt;生配信予定ステージ&gt; 2/15(土) 18:00頃〜(日本時間) SS10 開始予定 2/16(日) 20:15頃〜(日本時間) パワーステージ(SS18)開始予定 番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え! 注目チームは日本メーカーのTOYOTA GAZOO Racing ! さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる! 最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目! ▼WRC 世界ラリー選手権とは▼ 1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-90_s20_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250511052500 +0000" stop="20250511062500 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s20000_p74/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250511062500 +0000" stop="20250511095500 +0000">
+		<title>【再】EchoPark Automotive Grand Prix|NASCAR</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+NASCAR 2025 EchoPark Automotive Grand Prixを3月4日18時よりABEMAで無料放送! 舞台となるのは、サーキットオブアメリカ。 番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします! ▼NASCARとは▼ 全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km! 約40台の激しいバトルや接触が非常に迫力のあるレースです!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s30_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250511095500 +0000" stop="20250511143000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250511143000 +0000" stop="20250511150000 +0000">
+		<title>【再】ABEMA SUPER GT ダイジェスト #1</title>
+		<desc>概要
+
+(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+ーーー
+
+『ABEMA SUPER GTダイジェスト』は、国内モータースポーツで最も人気のあるレースの1つSUPER GTの魅力をわかりやすく、楽しく、そしてレースの結果をダイジェスト形式でたっぷりとお伝えする番組です。 本番組だけのオリジナルコーナーや次戦の見どころ紹介などを予定しております。 2024年のSUPER GT・GT500シリーズには、トヨタ、日産、ホンダの3メーカーが参戦。各社ともメーカーのプライドをかけ白熱した戦いが期待されています。 また、GT300クラスにはメルセデスベンツ・BMW・ランボルギーニ・フェラーリ・レクサスなど、バラエティに富んだメーカー・車両が参戦しており、こちらも熾烈な競争が予想されます。 レースはスピード差のある2つのクラスが混走して行われるため、SUPER GTでは抜きつ抜かれつのオーバーテイク合戦が常に繰り広げられることで、手に汗握る白熱したレースが魅力です。 また、本番組の「ABEMA SUPER GT スペシャルサポーター」に朝日奈央さんが決定。大会現地での選手インタビューや体験企画、スタジオではモータースポーツ初心者目線でSUPER GTの魅力を発信していきます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/676-1_s10_p5/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20250511150000 +0000" stop="20250513080000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
@@ -29648,7 +30853,7 @@ HIPHOP界隈で今注目のトピックスについて深堀り！</desc>
 	<programme channel="hiphop" start="20250511130000 +0000" stop="20250511133500 +0000">
 		<title>my name is：#135 Daichi Yamamoto</title>
 		<desc>ラッパー・シンガー・DJ・カメラマン・ダンサー・グラフィティアーティストなど、いつの時代にも不可欠な時代の先駆者たち。『my name is』は、そんな様々なジャンルで輝きを放ち、”今を生きるアーティスト"に密着するリアルドキュメント。誰もが持つ”名前”に人生を掲げ、唯一無二として表現し続ける彼らの生き様とは・・・？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-6_s0_p20/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-122_s10_p116/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20250511133500 +0000" stop="20250511143500 +0000">
 		<title>【見逃し】my name is：工藤洸平 / 神谷康司</title>
@@ -32396,6 +33601,23 @@ HIPHOP界隈で今注目のトピックスについて深堀り！</desc>
 知られざる女子レーサーのプライベートが垣間見える貴重なエピソードたち!
 ボートレースファンはもちろん、そうでない方も楽しく見ることが出来る、ボートレースの魅力等が存分に詰まった番組です!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-316_s1_p39/thumb001.png" />
+	</programme>
+	<programme channel="boatrace" start="20250512140000 +0000" stop="20250516100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boatrace/logo.png" />
+	</programme>
+	<programme channel="boatrace" start="20250516100000 +0000" stop="20250516120000 +0000">
+		<title>『ときめきファンファーレ』#7</title>
+		<desc>MCにクロちゃん（安田大サーカス）と「ABEMA BOATRACE COLORS『クロクルパレット』に出演していた先輩アイドル・田中れいな、岡部麟が毎週交互に出演。
+準レギュラーメンバーであるアイドルたちを加えて、クロちゃん・田中れいなさん・岡部麟さんがそれぞれのチームを結成！
+ボートレースの予想や、ボートレースに関するクイズなど様々な企画をチームで対決！
+さらに、注目の若手レーサーを紹介するVTRコーナーも。
+クロちゃんやレーサー、出演者たちの個性的なカラーを引き立てながらお送りします。
+
+週末のボートレースはABEMAで！
+【提供】BOATRACE振興会</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-307_s10000_p7/thumb001.png" />
 	</programme>
 	<programme channel="keirin-auto" start="20250501113000 +0000" stop="20250501154500 +0000">
 		<title>WINTICKET ミッドナイト競輪 平塚 F2 初日</title>
