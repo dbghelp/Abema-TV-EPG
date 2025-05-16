@@ -88,6 +88,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="metrock">
+		<display-name>メトロックチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/metrock/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -4121,8 +4125,9 @@ SJ2を上回る白熱の狂宴が間もなく始まる……！</desc>
 	</programme>
 	<programme channel="dailylife-anime" start="20250518113000 +0000" stop="20250518123000 +0000">
 		<title>アニメ「青ブタ」大学生編開幕特番</title>
-		<desc>-</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p6/thumb001.png" />
+		<desc>このたび「ABEMA」にて無料放送が決定した、特別番組『アニメ「青ブタ」大学生編開幕特番』には、主人公・梓川咲太役の石川界人さん、桜島麻衣役の瀬戸麻沙美さん、広川卯月役の雨宮天さん、そして今シリーズより登場するミニスカサンタ役の上田麗奈さんが生出演。これまでのシリーズを振り返りながら、大学生となった咲太たちを描く最新作『青春ブタ野郎はサンタクロースの夢を見ない』の見どころを徹底解説するほか、最新作にまつわる新情報も解禁いたします。
+大人気思春期ファンタジー「青春ブタ野郎」シリーズ最新作に向け、キャストと一緒にこれまでの物語を振り返りましょう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-805_s10000_p1/thumb001.png" />
 	</programme>
 	<programme channel="dailylife-anime" start="20250518123000 +0000" stop="20250518170000 +0000">
 		<title>まちカドまぞく 2丁目 #2～11【無料ビデオ1週間】</title>
@@ -12618,6 +12623,77 @@ M-1ファイナリストのジョックロックが挑戦！
 		<title>第一生命 D.LEAGUE 24-25【ROUND.14】</title>
 		<desc>国内のダンス経験者が約2,000万人、競技人口は野球・サッカーに次いで約600万人いると言われており、「ダンス王国」と呼ばれる日本。 さらに平成23年にダンスが義務教育化され、最近でもダンスエクササイズコンテンツが流行するなど、ダンス人口は年々増加しています。 ダンス競技が注目を集め、ダンス市場の成長性が今後期待される中、日本のダンスの発展と普及を図るとともに、ダンスのプロフェッショナルを生み出し、アートとスポーツ、そしてビジネス面での新たな価値を創造し、ダンサーがメインとなる新しい世界を作り上げる「D.LEAGUE」が発足。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/549-7_s300_p14/thumb001.png" />
+	</programme>
+	<programme channel="metrock" start="20250509030000 +0000" stop="20250510021500 +0000">
+		<title>【メトロック2025】5/10・5/11独占生中継！</title>
+		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』をアベマで無料独占生中継！
+さらに、翌週5/17(土)・18(日)には初出しライブ映像満載の拡大版スペシャルの配信も！
+アーティストによる熱狂のライブはもちろん、アベマでしか見られないステージ裏での限定トークなど、豪華ラインナップでお届け！
+今年は2週連続！アベマで無料でメトロックを楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p10/thumb001.png" />
+	</programme>
+	<programme channel="metrock" start="20250510021500 +0000" stop="20250510123000 +0000">
+		<title>メトロック2025 独占生中継！DAY1</title>
+		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』をアベマで無料独占生中継！
+アーティストによる熱狂のライブはもちろん、アベマでしか見られないステージ裏での限定トークなど、豪華ラインナップでお届け！
+
+※出演アーティスト・放送時間は一部変更になる可能性があります。
+※一部のアーティストは収録での出演となります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p1/thumb001.png" />
+	</programme>
+	<programme channel="metrock" start="20250510123000 +0000" stop="20250511011500 +0000">
+		<title>【メトロック2025】5/10・5/11独占生中継！</title>
+		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』をアベマで無料独占生中継！
+さらに、翌週5/17(土)・18(日)には初出しライブ映像満載の拡大版スペシャルの配信も！
+アーティストによる熱狂のライブはもちろん、アベマでしか見られないステージ裏での限定トークなど、豪華ラインナップでお届け！
+今年は2週連続！アベマで無料でメトロックを楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p20/thumb001.png" />
+	</programme>
+	<programme channel="metrock" start="20250511011500 +0000" stop="20250511123000 +0000">
+		<title>メトロック2025 独占生中継！DAY2</title>
+		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』をアベマで無料独占生中継！
+アーティストによる熱狂のライブはもちろん、アベマでしか見られないステージ裏での限定トークなど、豪華ラインナップでお届け！
+
+※出演アーティスト・放送時間は一部変更になる可能性があります。
+※一部のアーティストは収録での出演となります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p2/thumb001.png" />
+	</programme>
+	<programme channel="metrock" start="20250511123000 +0000" stop="20250516030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/metrock/logo.png" />
+	</programme>
+	<programme channel="metrock" start="20250516030000 +0000" stop="20250517020000 +0000">
+		<title>【メトロック2025】5/17・5/18はアベマ拡大版スペシャル！</title>
+		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』
+初出しライブ映像満載のアベマ拡大版スペシャルを配信！
+
+※出演アーティスト・放送時間は一部変更になる可能性があります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p30/thumb001.png" />
+	</programme>
+	<programme channel="metrock" start="20250517020000 +0000" stop="20250517120000 +0000">
+		<title>メトロック2025 アベマ拡大版スペシャル！DAY1</title>
+		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』
+初出しライブ映像満載のアベマ拡大版スペシャルを配信！
+
+※出演アーティスト・放送時間は一部変更になる可能性があります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p3/thumb001.png" />
+	</programme>
+	<programme channel="metrock" start="20250517120000 +0000" stop="20250518020000 +0000">
+		<title>【メトロック2025】5/17・5/18はアベマ拡大版スペシャル！</title>
+		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』
+初出しライブ映像満載のアベマ拡大版スペシャルを配信！
+
+※出演アーティスト・放送時間は一部変更になる可能性があります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p40/thumb001.png" />
+	</programme>
+	<programme channel="metrock" start="20250518020000 +0000" stop="20250518120000 +0000">
+		<title>メトロック2025 アベマ拡大版スペシャル！DAY2</title>
+		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』
+初出しライブ映像満載のアベマ拡大版スペシャルを配信！
+
+※出演アーティスト・放送時間は一部変更になる可能性があります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250508150000 +0000" stop="20250508170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
@@ -29197,7 +29273,7 @@ DOTAMA「HEAD」</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/92-24r-srzkf-wz_s0_p45/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20250519030000 +0000" stop="20250519040000 +0000">
-		<title>Zeebra’s LUNCHTIME BREAKS</title>
+		<title>Zeebra’s LUNCHTIME BREAKS：G-$trategy</title>
 		<desc>Zeebraが局長を務めるHIP HOP専門ラジオ局『WREP』にて放送中の『Zeebra's LUNCHTIME BREAKS』
 渋谷UDAGAWA BASEスタジオにて平日お昼12時から毎日公開生放送！！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-164_s0_p633/thumb001.png" />
@@ -29245,7 +29321,7 @@ TwiGy「七日間」「証言」</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/92-24r-srzkf-wz_s0_p52/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20250520030000 +0000" stop="20250520040000 +0000">
-		<title>Zeebra’s LUNCHTIME BREAKS</title>
+		<title>Zeebra’s LUNCHTIME BREAKS：4PRIDE</title>
 		<desc>Zeebraが局長を務めるHIP HOP専門ラジオ局『WREP』にて放送中の『Zeebra's LUNCHTIME BREAKS』
 渋谷UDAGAWA BASEスタジオにて平日お昼12時から毎日公開生放送！！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-164_s0_p634/thumb001.png" />
@@ -29309,7 +29385,7 @@ S7ICKCHICKs「New dance」</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/92-24r-srzkf-wz_s0_p57/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20250521030000 +0000" stop="20250521040000 +0000">
-		<title>Zeebra’s LUNCHTIME BREAKS</title>
+		<title>Zeebra’s LUNCHTIME BREAKS：Link Hood</title>
 		<desc>Zeebraが局長を務めるHIP HOP専門ラジオ局『WREP』にて放送中の『Zeebra's LUNCHTIME BREAKS』
 渋谷UDAGAWA BASEスタジオにて平日お昼12時から毎日公開生放送！！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-164_s0_p635/thumb001.png" />
@@ -29365,7 +29441,7 @@ team ニガマムシ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/92-24r-srzkf-wz_s0_p58/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20250522030000 +0000" stop="20250522040000 +0000">
-		<title>Zeebra’s LUNCHTIME BREAKS</title>
+		<title>Zeebra’s LTB：Darthreider &amp; The Bassons</title>
 		<desc>Zeebraが局長を務めるHIP HOP専門ラジオ局『WREP』にて放送中の『Zeebra's LUNCHTIME BREAKS』
 渋谷UDAGAWA BASEスタジオにて平日お昼12時から毎日公開生放送！！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-164_s0_p636/thumb001.png" />
@@ -29418,7 +29494,7 @@ CREAM「Girl Like Me」</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/92-24r-srzkf-wz_s0_p64/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20250523030000 +0000" stop="20250523040000 +0000">
-		<title>Zeebra’s LUNCHTIME BREAKS</title>
+		<title>Zeebra’s LUNCHTIME BREAKS：DJ FUKU</title>
 		<desc>Zeebraが局長を務めるHIP HOP専門ラジオ局『WREP』にて放送中の『Zeebra's LUNCHTIME BREAKS』
 渋谷UDAGAWA BASEスタジオにて平日お昼12時から毎日公開生放送！！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-164_s0_p637/thumb001.png" />
