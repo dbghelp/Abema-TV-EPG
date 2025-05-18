@@ -96,10 +96,6 @@
 		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
 	</channel>
-	<channel id="metrock">
-		<display-name>メトロックチャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/metrock/logo.png" />
-	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -15471,9 +15467,17 @@ ADHDを抱える『だいご』はこの先の自分への不安を解消する�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250525110000 +0000" stop="20250525120000 +0000">
-		<title>ななにー 地下ABEMA #74</title>
-		<desc>世間が気になることから、そんなに気にならないことまで、
-“稲垣・草彅・香取”の3人がより深く掘り下げて界隈をざわつかせる！</desc>
+		<title>ななにー 地下ABEMA #74 禁断の恋愛話激白！令和のLGBTQ事情</title>
+		<desc>「ボーイフレンド」で話題の中井大が同棲事情を激白！
+超美形トランスジェンダーの弟もメディア初登場
+
+可愛すぎるジュノンボーイ　井手上漠
+中２で初めて付き合った女性が実は…
+驚きの事実告白
+
+テラスハウスに出演した池添俊亮
+みちょぱがきっかけで同性愛を公表？
+イケメン美容師との禁断の密着</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p181/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250525120000 +0000" stop="20250525140000 +0000">
@@ -17221,60 +17225,6 @@ M-1ファイナリストのジョックロックが挑戦！
 さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
 仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="metrock" start="20250510123000 +0000" stop="20250511011500 +0000">
-		<title>【メトロック2025】5/10・5/11独占生中継！</title>
-		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』をアベマで無料独占生中継！
-さらに、翌週5/17(土)・18(日)には初出しライブ映像満載の拡大版スペシャルの配信も！
-アーティストによる熱狂のライブはもちろん、アベマでしか見られないステージ裏での限定トークなど、豪華ラインナップでお届け！
-今年は2週連続！アベマで無料でメトロックを楽しもう！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p20/thumb001.png" />
-	</programme>
-	<programme channel="metrock" start="20250511011500 +0000" stop="20250511123000 +0000">
-		<title>メトロック2025 独占生中継！DAY2</title>
-		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』をアベマで無料独占生中継！
-アーティストによる熱狂のライブはもちろん、アベマでしか見られないステージ裏での限定トークなど、豪華ラインナップでお届け！
-
-※出演アーティスト・放送時間は一部変更になる可能性があります。
-※一部のアーティストは収録での出演となります。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p2/thumb001.png" />
-	</programme>
-	<programme channel="metrock" start="20250511123000 +0000" stop="20250516030000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/metrock/logo.png" />
-	</programme>
-	<programme channel="metrock" start="20250516030000 +0000" stop="20250517020000 +0000">
-		<title>【メトロック2025】5/17・5/18はアベマ拡大版スペシャル！</title>
-		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』
-初出しライブ映像満載のアベマ拡大版スペシャルを配信！
-
-※出演アーティスト・放送時間は一部変更になる可能性があります。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p30/thumb001.png" />
-	</programme>
-	<programme channel="metrock" start="20250517020000 +0000" stop="20250517120000 +0000">
-		<title>メトロック2025 アベマ拡大版スペシャル！DAY1</title>
-		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』
-初出しライブ映像満載のアベマ拡大版スペシャルを配信！
-
-※出演アーティスト・放送時間は一部変更になる可能性があります。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p3/thumb001.png" />
-	</programme>
-	<programme channel="metrock" start="20250517120000 +0000" stop="20250518020000 +0000">
-		<title>【メトロック2025】5/17・5/18はアベマ拡大版スペシャル！</title>
-		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』
-初出しライブ映像満載のアベマ拡大版スペシャルを配信！
-
-※出演アーティスト・放送時間は一部変更になる可能性があります。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p40/thumb001.png" />
-	</programme>
-	<programme channel="metrock" start="20250518020000 +0000" stop="20250518120000 +0000">
-		<title>メトロック2025 アベマ拡大版スペシャル！DAY2</title>
-		<desc>5/10(土)・11(日)に東京・海の森公園にて開催される野外音楽フェス『METROCK 2025』
-初出しライブ映像満載のアベマ拡大版スペシャルを配信！
-
-※出演アーティスト・放送時間は一部変更になる可能性があります。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/289-39_s10000_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250510140000 +0000" stop="20250510160000 +0000">
 		<title>ABEMA NEWS　お休み前に最新ニュース＆エンタメ</title>
