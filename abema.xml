@@ -152,6 +152,10 @@
 		<display-name>大相撲チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png" />
 	</channel>
+	<channel id="boxing">
+		<display-name>ボクシングチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
+	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -843,20 +847,7 @@ Anthosの人体改造手術にゴシップ記者が噛みつく。
 	</programme>
 	<programme channel="abema-anime" start="20250518010000 +0000" stop="20250518010500 +0000">
 		<title>ゴー！ゴー！びーくるずー のりものスター編 #6【最新話】</title>
-		<desc>どうぶつとのりものが暮らすどこかの世界のとある町
-
-ニコニコ笑顔でたのしく暮らしているけど
-困りごとのひとつやふたつはあるものさ
-
-だれかのヘルプが届いたら
-さぁ、スターターミナルから出動だ！
-
-スターの力でびーくるずーがパワーアップ！
-ほんもののはたらくくるまみたいに
-事件を解決しちゃうんだ！
-
-力をあわせてゴー！ゴー！
-いっしょなら、なんとかなるもんさ！</desc>
+		<desc>泥棒が現れた！レッツとブルンがパトロールカーのコンビに、のりものスターチェンジ！！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/204-16_s2_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250518010500 +0000" stop="20250518013000 +0000">
@@ -1141,26 +1132,7 @@ Anthosの人体改造手術にゴシップ記者が噛みつく。
 	</programme>
 	<programme channel="abema-anime" start="20250520130000 +0000" stop="20250520133000 +0000">
 		<title>ひみつのアイプリ リング編 #58【最新話】</title>
-		<desc>ひみつのとびらをひらいたら、
-メイクにネイル、キラキラコーデにオシャレして、ひみつのわたしに大変身！
-それがアイドルプリンセス『アイプリ』！
-さぁ、みんなもひみつの世界にとびこめば、アイプリになれちゃうかも⁉
-
-新学期！　ひまりとみつきは、パラダイス学園中等部の2年生に進級！
-個性あふれる後輩たちも入ってきて、学園生活はますますにぎやかに。
-
-アイプリバースでは、新しいアイプリもぞくぞく登場！
-見たことのない新たなバズリウムチェンジにみんなで挑戦！
-
-そんな中、謎のお姫様『リング・クローバー姫』と執事のシツムゥが
-『アイプリコンテスト』の開催を宣言！
-優勝すると、あこがれの『エターナルアイプリ』になれると聞いた
-ひまりとみつきはやる気満々、気合いも十分！
-だけどリング姫には、とっても大きな『ひみつ』があるみたい……。
-
-おともだちの、そして、ひみつの輪がどんどん広がってゆく
-待望の「リング編」がいよいよスタート！
-みなさん、どうぞお楽しみに！！</desc>
+		<desc>ジュエルバズリウムチェンジができなかったひまりとみつきは落ち込んだまま。　みつきはひまりを誘い、特訓を開始する。しかし、がんばりすぎなみつきを心配したチィは、ひまりにアドバイスを送る。ひまりは、みつきの大好きなものばかりを集めた『みつきちゃん大好きパーティー』をひらいて元気づけようとする。みつきは立ち直ることが出来るのか。そんな中、はじまる第１回アイプリコンテスト。相手は、じゅりあとえるのデュオ『ラブジュリエル』。優勝するのは果たしてどっちだ⁉</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-13_s2_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250520133000 +0000" stop="20250520140000 +0000">
@@ -1170,8 +1142,10 @@ Anthosの人体改造手術にゴシップ記者が噛みつく。
 	</programme>
 	<programme channel="abema-anime" start="20250520140000 +0000" stop="20250520140500 +0000">
 		<title>ギャグマンガ日和GO #7【最新話】</title>
-		<desc>「久しぶりにあいつらが　きちゃったんだぜ」
-『ギャグマンガ日和』が15年ぶりにTVアニメ化！「聖徳太子」「松尾芭蕉」「うさみちゃん」ら多種多様な登場人物が、増田こうすけが創り出すシュールなギャグによって独特の世界観へ引きずりこみます。毎話登場する個性豊かなキャラクターの活躍もお楽しみに！</desc>
+		<desc>私、牛山サキ！ ちょっとだけ…本当にちょっとだけ売れていない、イケイケのアイドル♪
+流行りの「インフルエンサー」なるものになるべく、スマホをゲット！
+さっそくSNS戦略を相談しに、久方ぶりに事務所へ♪
+売れてなさすぎてアイドル辞めたと思われていたケド、新たに立ち上がるアイドルグループにねじ込…加入するべく、顔合わせに突撃する！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s5_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250520140500 +0000" stop="20250520143000 +0000">
@@ -1189,35 +1163,12 @@ Anthosの人体改造手術にゴシップ記者が噛みつく。
 	</programme>
 	<programme channel="abema-anime" start="20250520150000 +0000" stop="20250520153000 +0000">
 		<title>ある魔女が死ぬまで #8【地上波先行・WEB最速】</title>
-		<desc>「お前、あと一年で死ぬよ」
-十七歳の誕生日を迎えた見習い魔女のメグ・ラズベリーは、魔法の師匠であり、魔法界トップの七賢人に名を連ねる『永年の魔女』・ファウストから、突如として余命一年であることを告げられる。
-メグは『死の宣告』の呪いにかかっていたのだ。
-呪いによる死を免れる方法はただ一つ。
-手にした者に不死をもたらす、『命の種』を生み出すこと。
-そして、『命の種』の材料となるのは、感情の欠片――人が喜んだ時に流す、嬉し涙。
-「それで、一体どれくらい涙を集めればいいんですか？」
-「千人分だ」
-「……はい？」
-こうして、メグは嬉し涙を集めるため、様々な人たちと関わっていく。
-幼馴染みで大親友のフィーネ。
-ファウストと同じ七賢人の一人――『英知の魔女』・祈。
-メグと同い年にして七賢人に名を連ねる天才少女、『祝福の魔女』・ソフィ。
-これは、余命一年を宣告された未熟な魔女、メグ・ラズベリーが起こす、奇跡の物語。</desc>
+		<desc>ある日メグはラピスの街に住む少女、メアリの首筋に火傷のような傷跡を見つける。それは悪魔の生贄になった証「悪魔の烙印」。悪魔は非常に危険な存在のため、ファウストはメグにメアリと関わることを禁じるが――</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-283_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250520153000 +0000" stop="20250520160000 +0000">
 		<title>紫雲寺家の子供たち #7【WEB最速】</title>
-		<desc>東京都世田谷区の高級住宅街に豪邸を構える「紫雲寺家」。
-ここに住む7人の兄弟姉妹は、才色兼備として知られ、
-なかでも年子の5姉妹は全員が美少女だと評判だった。
-誰もが羨む美人姉妹との一つ屋根の下。
-しかし、長男・新は個性的な5姉妹に振り回され、姉妹以外の女子には及び腰になっていた。
-家族を大切に思いながらも、5姉妹のいない別の人生を妄想する新だが……。
-「実は君達は本当の兄弟姉妹ではない」
-ある日、父親から衝撃の事実を告げられ、運命は一変する！
-いつまでも変わらないと信じた家族の繋がりも、変化の兆しを見せはじめ――。
-この愛が行き着く先は、家族、兄弟姉妹、それとも？
-運命が繋ぐワケあり家族の“禁断×純愛”ラブコメディが開幕！</desc>
+		<desc>兄弟姉妹の心配をよそに、姿の見えなかった南が何事もなかったかのように帰宅。インターハイ決勝に出場しないことを明かし、早々に自室へ戻ってしまう。心配した新が部屋を訪ねると、南は驚くほど元気だったため、新は妹の決断を尊重しようとする。しかし朝方、南を偶然見たという志苑から、そのときの様子を聞かされ……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-282_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250520160000 +0000" stop="20250520163000 +0000">
@@ -1233,8 +1184,7 @@ Anthosの人体改造手術にゴシップ記者が噛みつく。
 	</programme>
 	<programme channel="abema-anime" start="20250520170000 +0000" stop="20250520171500 +0000">
 		<title>ニートくノ一となぜか同棲はじめました #19【最新話】</title>
-		<desc>平凡なサラリーマン・安海政（あつみつかさ）を妖魔から守護するべく、居候を条件に主従契約を結んだ天才くノ一・出浦白津莉(いでうらしづり)。颯爽と妖魔を倒す姿とは裏腹に、しづりはゲーム三昧のオタクニートであった。
-政に甘やかされ、ぐうたら同棲生活を送るしづりのもとにクセつよくノ一たちも集結し…。</desc>
+		<desc>スーパー銭湯にやってきたしづりたち。ジャグジー、うたせ湯、壺風呂、マッサージチェアに即落ちするくノ一たちに、男湯でのんびりする政と透。思い思いに楽しむ一行であったが、くノ一たちが岩盤浴を楽しんでいると男湯から妖魔の気配が。駆けつけたしづりたちが目にしたのは、なんとタコ型の妖魔だった！ 忍スーツを置いてきたくノ一たちは大ピンチ。しかもタコ型妖魔の吐く墨には女性の水着だけを溶かす効果があった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/115-118_s1_p190/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250520171500 +0000" stop="20250520173000 +0000">
@@ -1244,7 +1194,10 @@ Anthosの人体改造手術にゴシップ記者が噛みつく。
 	</programme>
 	<programme channel="abema-anime" start="20250520173000 +0000" stop="20250520175500 +0000">
 		<title>アポカリプスホテル #7【WEB最速】</title>
-		<desc>人類がいなくなり、長い年月が流れた地球。 日本の首都・東京の銀座にあるホテル『銀河楼』では、 ホテリエロボットのヤチヨと従業員ロボットたちが、 オーナーの帰還と、再び人類のお客様を迎える時を待っていた。 が――100年ぶりにやってきたお客様は、地球外生命体だった。 次々に訪れる彼らの目的は、宿泊か、侵略か、はたまたどちらでもないのか...... 『銀河楼』の威信をかけたヤチヨたちのおもてなしが、今、始まる――</desc>
+		<desc>ホテリエロボットのヤチヨです。
+ほんの少しずつですが、『銀河楼』にお客様がいらっしゃるようになりました。
+しかしここで立ち止まってはいけません。どれだけお客様に満足頂いても、私どもが現状に満足してはならないのです。
+オーナーが居た時のように、いえそれよりも『銀河楼』に多くのお客様がいらっしゃるよう、攻めの一手を考えましょう。ついでに守りの一手も。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-780_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250520175500 +0000" stop="20250520180000 +0000">
@@ -1272,26 +1225,7 @@ Anthosの人体改造手術にゴシップ記者が噛みつく。
 	</programme>
 	<programme channel="abema-anime" start="20250520193000 +0000" stop="20250520200000 +0000">
 		<title>ひみつのアイプリ リング編 #58・見逃し放送</title>
-		<desc>ひみつのとびらをひらいたら、
-メイクにネイル、キラキラコーデにオシャレして、ひみつのわたしに大変身！
-それがアイドルプリンセス『アイプリ』！
-さぁ、みんなもひみつの世界にとびこめば、アイプリになれちゃうかも⁉
-
-新学期！　ひまりとみつきは、パラダイス学園中等部の2年生に進級！
-個性あふれる後輩たちも入ってきて、学園生活はますますにぎやかに。
-
-アイプリバースでは、新しいアイプリもぞくぞく登場！
-見たことのない新たなバズリウムチェンジにみんなで挑戦！
-
-そんな中、謎のお姫様『リング・クローバー姫』と執事のシツムゥが
-『アイプリコンテスト』の開催を宣言！
-優勝すると、あこがれの『エターナルアイプリ』になれると聞いた
-ひまりとみつきはやる気満々、気合いも十分！
-だけどリング姫には、とっても大きな『ひみつ』があるみたい……。
-
-おともだちの、そして、ひみつの輪がどんどん広がってゆく
-待望の「リング編」がいよいよスタート！
-みなさん、どうぞお楽しみに！！</desc>
+		<desc>ジュエルバズリウムチェンジができなかったひまりとみつきは落ち込んだまま。　みつきはひまりを誘い、特訓を開始する。しかし、がんばりすぎなみつきを心配したチィは、ひまりにアドバイスを送る。ひまりは、みつきの大好きなものばかりを集めた『みつきちゃん大好きパーティー』をひらいて元気づけようとする。みつきは立ち直ることが出来るのか。そんな中、はじまる第１回アイプリコンテスト。相手は、じゅりあとえるのデュオ『ラブジュリエル』。優勝するのは果たしてどっちだ⁉</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-13_s2_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250520200000 +0000" stop="20250521020000 +0000">
@@ -1311,15 +1245,7 @@ Anthosの人体改造手術にゴシップ記者が噛みつく。
 	</programme>
 	<programme channel="abema-anime" start="20250521113000 +0000" stop="20250521120000 +0000">
 		<title>ボールパークでつかまえて！ #8・見逃し放送</title>
-		<desc>「お兄さん、私のことタイプなんだ〜？」
-ある日の球場で、ギャルなビール売り子に絡まれた！？
-でもこの子、実は超絶ウブな純情ガールで......♡
-舞台は、とあるプロ野球の球場！
-日々たくさんの人が集まり、働き、笑い合い、人間ドラマが生まれるこの場所は、
-まるで一つの「町」のよう！
-さあ、あなたもボールパークの「住人」になりませんか！？
-プロ野球に携わるすべての人々に捧ぐ
-笑顔と涙の球場愛コメディー！！</desc>
+		<desc>モーターサンズスタジアムには、屋外球場ならではの『名物』がある。時折吹く、『強い風』だ。風はプレーに大きな影響を及ぼすのはもちろん……ビールの売り子たちにも大きな影響を与える。スタンドで突風に吹かれルリコと村田は……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-789_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250521120000 +0000" stop="20250521120600 +0000">
@@ -1332,57 +1258,29 @@ Anthosの人体改造手術にゴシップ記者が噛みつく。
 	</programme>
 	<programme channel="abema-anime" start="20250521120600 +0000" stop="20250521123000 +0000">
 		<title>アポカリプスホテル #7・見逃し放送</title>
-		<desc>人類がいなくなり、長い年月が流れた地球。 日本の首都・東京の銀座にあるホテル『銀河楼』では、 ホテリエロボットのヤチヨと従業員ロボットたちが、 オーナーの帰還と、再び人類のお客様を迎える時を待っていた。 が――100年ぶりにやってきたお客様は、地球外生命体だった。 次々に訪れる彼らの目的は、宿泊か、侵略か、はたまたどちらでもないのか...... 『銀河楼』の威信をかけたヤチヨたちのおもてなしが、今、始まる――</desc>
+		<desc>ホテリエロボットのヤチヨです。
+ほんの少しずつですが、『銀河楼』にお客様がいらっしゃるようになりました。
+しかしここで立ち止まってはいけません。どれだけお客様に満足頂いても、私どもが現状に満足してはならないのです。
+オーナーが居た時のように、いえそれよりも『銀河楼』に多くのお客様がいらっしゃるよう、攻めの一手を考えましょう。ついでに守りの一手も。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-780_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250521123000 +0000" stop="20250521130000 +0000">
 		<title>LAZARUS ラザロ #7【最新話】</title>
-		<desc>西暦2052年。
-世界はかつてない平和な時代を迎え、脳神経学博士スキナーの開発した鎮痛剤「ハプナ」が大きく貢献していた。
-副作用がない「奇跡の薬」として世界中に広まり、人類を苦痛から解放したハプナ。
-しかし、その開発者であるスキナーは突如姿を消し、その行方は誰も知らなかった。
-――3年後、彼は世界を破滅に導く悪魔として再び現れる。
-ハプナは服用者を3年後に発症させ死に至らしめる薬で、仕掛けられた罠だった。
-「あと３０日。それまでに私の居場所を見つけだせば、人類は生き延びられる。」
-スキナーが持つたったひとつのワクチンを使用するしか、助かる道はない。
-そして、これが欲しければ私を見つけ出せと言う。
-スキナーの陰謀に対抗すべく、世界中から集められた5人のエージェントチーム「ラザロ」。
-彼らは、人類を救うことができるのか？そしてスキナーの真の目的とは――？</desc>
+		<desc>破壊されたAIのナーガに残された謎の数字を分析するラザロたち。それは、どうやら地球温暖化で沈んだ4つの島の座標らしいと判明し、スキナーがそれらの島を全て買い取っていたことがわかる。スキナーの目的は何なのか？それを知るために、それぞれの島へと向かうラザロチーム。そこで彼らが見たのは、はじめて見る青い空や美しい海だった。一方アジトに残ったエレイナは、思いがけずハーシュの秘密を知ることになり…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-241_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250521130000 +0000" stop="20250521133000 +0000">
 		<title>TO BE HERO X #7【最新話】</title>
-		<desc>人は誰しも凡人で、即ち英雄である――
-bilibili×アニプレックスによる完全オリジナルアニメーション誕生！
-
-世界から脚光を浴びる監督Haolin（リ・ハオリン）（『時光代理人-LINK CLICK-』『天官賜福』『詩季織々』『TO BE HERO』シリーズ）とBeDreamが手掛けるスタイル横断型アニメーションシリーズ。
-
-10名のトップヒーローを演じるキャストは宮野真守、花澤香菜、内山昂輝、中村悠一、松岡禎丞、佐倉綾音、水瀬いのり、山寺宏一、島﨑信長、花江夏樹、
-物語を彩る音楽陣は澤野弘之、KOHTA YAMAMOTO、ケンモチヒデフミ、DAIKI(AWSM.)、睦月周平、深澤秀行、馬瀬みさき、髙田龍一(MONACA)の実力派が集結。
-奇跡の超豪華布陣が一堂に会するスーパーヒーロー活劇、開幕！</desc>
+		<desc>シャン・チャオを殺した人物の首に見覚えのある傷跡を見つけたヤン・チョンだったが、犯人の行方と黒幕の手がかりは一向に掴めず、精神を消耗していく。その様子を見守るシア・チンの心配をよそに、ヤン・チョンはイェンさんのサポートを受けて「魂電」の称号をかけた決闘に挑む。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-242_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250521133000 +0000" stop="20250521140000 +0000">
 		<title>キミと僕の最後の戦場、あるいは世界が始まる聖戦 2期 #6【最新話】</title>
-		<desc>科学技術が発達した、機械仕掛けの理想郷「帝国」。
-超常の力・星霊術を駆使し、“魔女の国”と恐れられる「ネビュリス皇庁」。
-二国は長きにわたる戦争を続けてきたーー。
- 
-帝国の最高戦力イスカと皇庁の王女にして“氷禍の魔女”アリスリーゼは、
-激闘の中で互いの素顔に触れ、その生き方と理想に惹かれ合う好敵手となった。
- 
-独立国家アルサミラで帝国と皇庁の謀略を打ち砕いた二人は、
-再会を誓ってそれぞれの道へと進むが、意外な形でその約束を果たす。
- 
-アリスの妹シスベルと取り引きを交わし、護衛として皇庁に潜入するイスカ。
-シスベルの捜索隊として皇庁の都市リースバーデンを訪れるアリス。
- 
-偶然の再会は二人の心をさらに燃え上がらせるが……
-同時に皇庁内では帝国の内通者「純血種・被検体E」が暗躍し、
-帝国の「特務・女王捕獲計画」が動き出そうとしていた。
- 
-否応なく引き裂かれようとするイスカとアリスは、
-その運命に抗うことができるのか――。</desc>
+		<desc>アリス不在のタイミングで、王宮が帝国軍に攻撃された。
+イスカを信じたいアリスは、屋敷から出るなと忠告して王宮へ向かう。
+イスカたちはアリスの行動を再現し、事態を確認。
+しかし、イリーティアの牽制によってエルツ宮から動けないところを何者かに襲撃されてしまう。
+救援に現れたのは、ヒュドラ家の当主タリスマンだった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-154_s2_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250521140000 +0000" stop="20250521143000 +0000">
@@ -1406,18 +1304,8 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 	</programme>
 	<programme channel="abema-anime" start="20250521143000 +0000" stop="20250521150000 +0000">
 		<title>クラシック★スターズ #7【最新話】</title>
-		<desc>音楽・芸術・スポーツ、あらゆるエンターテインメント分野で
-未来を嘱望された若者たちが集う【私立グロリア学園】。
-その音楽科では、偉大な音楽家たちの「才能（可能性）」に適合した者が
-【ギフト】を体内に移植され、その音楽家の名前で呼ばれることになる。
-ケガをきっかけに適合性を見出された青年・ベートーヴェンもその一人。
-
-学園に編入したベートーヴェンは、異なるギフトを受け継ぐ仲間たちと出会い
-音楽の魅力に触れながら、コンテストでの優勝を目指すことに──。
-
-偉大な音楽家の意思を未来へ紡ぐ夢のプロジェクト 
-音楽(エモージョン)とVR空間(ビジュアライズ)が織りなす
-奇跡のシンフォニー がここに開演！</desc>
+		<desc>コンテストの予選に突如現れ、ライブジャックを行った【Dis＝Cord】。彼らの正体は、かつて【ギフト】を授けられるも、学園を去ったロストナンバーだった。
+【Dis＝Cord】の登場により大荒れとなった予選で、【Gran★MyStar】は惜しくも11位という結果に終わる。リベンジマッチに燃えるベートーヴェンだったが、他のメンバーたちはあまり乗り気ではない様子。歯がゆさを覚えながらも、三原木や【Gran★MyStar】のメンバーと特別休暇で温泉旅行へと繰り出すことに。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/115-119_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250521150000 +0000" stop="20250521153000 +0000">
@@ -1473,17 +1361,7 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 	</programme>
 	<programme channel="abema-anime" start="20250521173000 +0000" stop="20250521180000 +0000">
 		<title>LAZARUS ラザロ #7・見逃し放送</title>
-		<desc>西暦2052年。
-世界はかつてない平和な時代を迎え、脳神経学博士スキナーの開発した鎮痛剤「ハプナ」が大きく貢献していた。
-副作用がない「奇跡の薬」として世界中に広まり、人類を苦痛から解放したハプナ。
-しかし、その開発者であるスキナーは突如姿を消し、その行方は誰も知らなかった。
-――3年後、彼は世界を破滅に導く悪魔として再び現れる。
-ハプナは服用者を3年後に発症させ死に至らしめる薬で、仕掛けられた罠だった。
-「あと３０日。それまでに私の居場所を見つけだせば、人類は生き延びられる。」
-スキナーが持つたったひとつのワクチンを使用するしか、助かる道はない。
-そして、これが欲しければ私を見つけ出せと言う。
-スキナーの陰謀に対抗すべく、世界中から集められた5人のエージェントチーム「ラザロ」。
-彼らは、人類を救うことができるのか？そしてスキナーの真の目的とは――？</desc>
+		<desc>破壊されたAIのナーガに残された謎の数字を分析するラザロたち。それは、どうやら地球温暖化で沈んだ4つの島の座標らしいと判明し、スキナーがそれらの島を全て買い取っていたことがわかる。スキナーの目的は何なのか？それを知るために、それぞれの島へと向かうラザロチーム。そこで彼らが見たのは、はじめて見る青い空や美しい海だった。一方アジトに残ったエレイナは、思いがけずハーシュの秘密を知ることになり…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-241_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250521180000 +0000" stop="20250521183000 +0000">
@@ -1508,25 +1386,11 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 	</programme>
 	<programme channel="abema-anime" start="20250521190000 +0000" stop="20250521193000 +0000">
 		<title>キミと僕の最後の戦場、あるいは世界が始まる聖戦 2期 #6・見逃し放送</title>
-		<desc>科学技術が発達した、機械仕掛けの理想郷「帝国」。
-超常の力・星霊術を駆使し、“魔女の国”と恐れられる「ネビュリス皇庁」。
-二国は長きにわたる戦争を続けてきたーー。
- 
-帝国の最高戦力イスカと皇庁の王女にして“氷禍の魔女”アリスリーゼは、
-激闘の中で互いの素顔に触れ、その生き方と理想に惹かれ合う好敵手となった。
- 
-独立国家アルサミラで帝国と皇庁の謀略を打ち砕いた二人は、
-再会を誓ってそれぞれの道へと進むが、意外な形でその約束を果たす。
- 
-アリスの妹シスベルと取り引きを交わし、護衛として皇庁に潜入するイスカ。
-シスベルの捜索隊として皇庁の都市リースバーデンを訪れるアリス。
- 
-偶然の再会は二人の心をさらに燃え上がらせるが……
-同時に皇庁内では帝国の内通者「純血種・被検体E」が暗躍し、
-帝国の「特務・女王捕獲計画」が動き出そうとしていた。
- 
-否応なく引き裂かれようとするイスカとアリスは、
-その運命に抗うことができるのか――。</desc>
+		<desc>アリス不在のタイミングで、王宮が帝国軍に攻撃された。
+イスカを信じたいアリスは、屋敷から出るなと忠告して王宮へ向かう。
+イスカたちはアリスの行動を再現し、事態を確認。
+しかし、イリーティアの牽制によってエルツ宮から動けないところを何者かに襲撃されてしまう。
+救援に現れたのは、ヒュドラ家の当主タリスマンだった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-154_s2_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250521193000 +0000" stop="20250522013000 +0000">
@@ -1744,25 +1608,11 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 	</programme>
 	<programme channel="abema-anime" start="20250522220000 +0000" stop="20250522223000 +0000">
 		<title>キミと僕の最後の戦場、あるいは世界が始まる聖戦 2期 #6・見逃し放送</title>
-		<desc>科学技術が発達した、機械仕掛けの理想郷「帝国」。
-超常の力・星霊術を駆使し、“魔女の国”と恐れられる「ネビュリス皇庁」。
-二国は長きにわたる戦争を続けてきたーー。
- 
-帝国の最高戦力イスカと皇庁の王女にして“氷禍の魔女”アリスリーゼは、
-激闘の中で互いの素顔に触れ、その生き方と理想に惹かれ合う好敵手となった。
- 
-独立国家アルサミラで帝国と皇庁の謀略を打ち砕いた二人は、
-再会を誓ってそれぞれの道へと進むが、意外な形でその約束を果たす。
- 
-アリスの妹シスベルと取り引きを交わし、護衛として皇庁に潜入するイスカ。
-シスベルの捜索隊として皇庁の都市リースバーデンを訪れるアリス。
- 
-偶然の再会は二人の心をさらに燃え上がらせるが……
-同時に皇庁内では帝国の内通者「純血種・被検体E」が暗躍し、
-帝国の「特務・女王捕獲計画」が動き出そうとしていた。
- 
-否応なく引き裂かれようとするイスカとアリスは、
-その運命に抗うことができるのか――。</desc>
+		<desc>アリス不在のタイミングで、王宮が帝国軍に攻撃された。
+イスカを信じたいアリスは、屋敷から出るなと忠告して王宮へ向かう。
+イスカたちはアリスの行動を再現し、事態を確認。
+しかし、イリーティアの牽制によってエルツ宮から動けないところを何者かに襲撃されてしまう。
+救援に現れたのは、ヒュドラ家の当主タリスマンだった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-154_s2_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250522223000 +0000" stop="20250522230000 +0000">
@@ -1877,17 +1727,7 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 	</programme>
 	<programme channel="abema-anime" start="20250523170000 +0000" stop="20250523173000 +0000">
 		<title>紫雲寺家の子供たち #7・見逃し放送</title>
-		<desc>東京都世田谷区の高級住宅街に豪邸を構える「紫雲寺家」。
-ここに住む7人の兄弟姉妹は、才色兼備として知られ、
-なかでも年子の5姉妹は全員が美少女だと評判だった。
-誰もが羨む美人姉妹との一つ屋根の下。
-しかし、長男・新は個性的な5姉妹に振り回され、姉妹以外の女子には及び腰になっていた。
-家族を大切に思いながらも、5姉妹のいない別の人生を妄想する新だが……。
-「実は君達は本当の兄弟姉妹ではない」
-ある日、父親から衝撃の事実を告げられ、運命は一変する！
-いつまでも変わらないと信じた家族の繋がりも、変化の兆しを見せはじめ――。
-この愛が行き着く先は、家族、兄弟姉妹、それとも？
-運命が繋ぐワケあり家族の“禁断×純愛”ラブコメディが開幕！</desc>
+		<desc>兄弟姉妹の心配をよそに、姿の見えなかった南が何事もなかったかのように帰宅。インターハイ決勝に出場しないことを明かし、早々に自室へ戻ってしまう。心配した新が部屋を訪ねると、南は驚くほど元気だったため、新は妹の決断を尊重しようとする。しかし朝方、南を偶然見たという志苑から、そのときの様子を聞かされ……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-282_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250523173000 +0000" stop="20250523180000 +0000">
@@ -2103,20 +1943,7 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 	</programme>
 	<programme channel="abema-anime" start="20250524190000 +0000" stop="20250524193000 +0000">
 		<title>ある魔女が死ぬまで #8・見逃し放送</title>
-		<desc>「お前、あと一年で死ぬよ」
-十七歳の誕生日を迎えた見習い魔女のメグ・ラズベリーは、魔法の師匠であり、魔法界トップの七賢人に名を連ねる『永年の魔女』・ファウストから、突如として余命一年であることを告げられる。
-メグは『死の宣告』の呪いにかかっていたのだ。
-呪いによる死を免れる方法はただ一つ。
-手にした者に不死をもたらす、『命の種』を生み出すこと。
-そして、『命の種』の材料となるのは、感情の欠片――人が喜んだ時に流す、嬉し涙。
-「それで、一体どれくらい涙を集めればいいんですか？」
-「千人分だ」
-「……はい？」
-こうして、メグは嬉し涙を集めるため、様々な人たちと関わっていく。
-幼馴染みで大親友のフィーネ。
-ファウストと同じ七賢人の一人――『英知の魔女』・祈。
-メグと同い年にして七賢人に名を連ねる天才少女、『祝福の魔女』・ソフィ。
-これは、余命一年を宣告された未熟な魔女、メグ・ラズベリーが起こす、奇跡の物語。</desc>
+		<desc>ある日メグはラピスの街に住む少女、メアリの首筋に火傷のような傷跡を見つける。それは悪魔の生贄になった証「悪魔の烙印」。悪魔は非常に危険な存在のため、ファウストはメグにメアリと関わることを禁じるが――</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-283_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250524193000 +0000" stop="20250524200000 +0000">
@@ -2286,14 +2113,7 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 	</programme>
 	<programme channel="abema-anime" start="20250525000000 +0000" stop="20250525003000 +0000">
 		<title>キミとアイドルプリキュア♪ #15【最新話】</title>
-		<desc>主人公【咲良うた】は、歌うのが大好きな中学2年生。
-ある日、伝説の救世主【アイドルプリキュア】を探しにきた妖精【プリルン】と出会う！
-プリルンは、ふるさとの【キラキランド】が、【チョッキリ団】のボス【ダークイーネ】によって、真っ暗闇にされてしまったのだ。
-そんな中、街の人のキラキラがチョッキリ団によって奪われ…大ピンチ！
-「キラッキランランにしたい！　私の歌で！」
-うたの決意が結ばれ、伝説の救世主《キュアアイドル》に変身！
-歌って踊ってファンサして♡
-どんな真っ暗闇でも、キミをキラッキランランにしちゃうよ！</desc>
+		<desc>プリルンと仲良しなうたにやきもちを焼くメロロン。メロロンとも仲良くなりたいうたたちに後押しされたプリルンは、おそろいの衣装でメロロンをデートに誘う。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-75_s1_p15/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250525003000 +0000" stop="20250525010000 +0000">
@@ -2333,20 +2153,7 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 	</programme>
 	<programme channel="abema-anime" start="20250525013000 +0000" stop="20250525020000 +0000">
 		<title>ある魔女が死ぬまで #8・見逃し放送</title>
-		<desc>「お前、あと一年で死ぬよ」
-十七歳の誕生日を迎えた見習い魔女のメグ・ラズベリーは、魔法の師匠であり、魔法界トップの七賢人に名を連ねる『永年の魔女』・ファウストから、突如として余命一年であることを告げられる。
-メグは『死の宣告』の呪いにかかっていたのだ。
-呪いによる死を免れる方法はただ一つ。
-手にした者に不死をもたらす、『命の種』を生み出すこと。
-そして、『命の種』の材料となるのは、感情の欠片――人が喜んだ時に流す、嬉し涙。
-「それで、一体どれくらい涙を集めればいいんですか？」
-「千人分だ」
-「……はい？」
-こうして、メグは嬉し涙を集めるため、様々な人たちと関わっていく。
-幼馴染みで大親友のフィーネ。
-ファウストと同じ七賢人の一人――『英知の魔女』・祈。
-メグと同い年にして七賢人に名を連ねる天才少女、『祝福の魔女』・ソフィ。
-これは、余命一年を宣告された未熟な魔女、メグ・ラズベリーが起こす、奇跡の物語。</desc>
+		<desc>ある日メグはラピスの街に住む少女、メアリの首筋に火傷のような傷跡を見つける。それは悪魔の生贄になった証「悪魔の烙印」。悪魔は非常に危険な存在のため、ファウストはメグにメアリと関わることを禁じるが――</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-283_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250525020000 +0000" stop="20250525023000 +0000">
@@ -2514,14 +2321,7 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 	</programme>
 	<programme channel="abema-anime" start="20250525153000 +0000" stop="20250525160000 +0000">
 		<title>キミとアイドルプリキュア♪ #15・見逃し放送</title>
-		<desc>主人公【咲良うた】は、歌うのが大好きな中学2年生。
-ある日、伝説の救世主【アイドルプリキュア】を探しにきた妖精【プリルン】と出会う！
-プリルンは、ふるさとの【キラキランド】が、【チョッキリ団】のボス【ダークイーネ】によって、真っ暗闇にされてしまったのだ。
-そんな中、街の人のキラキラがチョッキリ団によって奪われ…大ピンチ！
-「キラッキランランにしたい！　私の歌で！」
-うたの決意が結ばれ、伝説の救世主《キュアアイドル》に変身！
-歌って踊ってファンサして♡
-どんな真っ暗闇でも、キミをキラッキランランにしちゃうよ！</desc>
+		<desc>プリルンと仲良しなうたにやきもちを焼くメロロン。メロロンとも仲良くなりたいうたたちに後押しされたプリルンは、おそろいの衣装でメロロンをデートに誘う。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-75_s1_p15/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250525160000 +0000" stop="20250525163000 +0000">
@@ -5747,15 +5547,7 @@ ABEMAでしか見られない素敵な時間をお届けします！</desc>
 	</programme>
 	<programme channel="anime-live" start="20250520163000 +0000" stop="20250520170000 +0000">
 		<title>ボールパークでつかまえて！ #8【WEB最速】</title>
-		<desc>「お兄さん、私のことタイプなんだ〜？」
-ある日の球場で、ギャルなビール売り子に絡まれた！？
-でもこの子、実は超絶ウブな純情ガールで......♡
-舞台は、とあるプロ野球の球場！
-日々たくさんの人が集まり、働き、笑い合い、人間ドラマが生まれるこの場所は、
-まるで一つの「町」のよう！
-さあ、あなたもボールパークの「住人」になりませんか！？
-プロ野球に携わるすべての人々に捧ぐ
-笑顔と涙の球場愛コメディー！！</desc>
+		<desc>モーターサンズスタジアムには、屋外球場ならではの『名物』がある。時折吹く、『強い風』だ。風はプレーに大きな影響を及ぼすのはもちろん……ビールの売り子たちにも大きな影響を与える。スタンドで突風に吹かれルリコと村田は……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-789_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250520170000 +0000" stop="20250520210000 +0000">
@@ -5795,7 +5587,7 @@ ABEMAでしか見られない素敵な時間をお届けします！</desc>
 そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
 
 【提供】ダイキン工業</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s100_p1/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p51/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250521130000 +0000" stop="20250521143000 +0000">
 		<title>声優と夜あそび 水【浪川大輔×八代拓】#5</title>
@@ -7611,9 +7403,12 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p30/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20250521133700 +0000" stop="20250521134000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 5/21</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p51/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20250521134000 +0000" stop="20250521152000 +0000">
 		<title>映画クレヨンしんちゃん アクション仮面VSハイグレ魔王【無料ビデオ1週間】</title>
@@ -12264,9 +12059,12 @@ ADHDを抱える『だいご』はこの先の自分への不安を解消する�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1371_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250521115700 +0000" stop="20250521120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 5/21</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p51/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250521120000 +0000" stop="20250521130000 +0000">
 		<title>カップルが幼稚園の先生に ＆ ギャルがたいようを困らせる！ すぱのび#4</title>
@@ -12295,9 +12093,12 @@ ADHDを抱える『だいご』はこの先の自分への不安を解消する�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s710_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250521135700 +0000" stop="20250521140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 5/21</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p51/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250521140000 +0000" stop="20250521150000 +0000">
 		<title>チャンス学校チェンジ科 #24</title>
@@ -14645,9 +14446,12 @@ M-1ファイナリストのジョックロックが挑戦！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p87/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250521115700 +0000" stop="20250521120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 5/21</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p51/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250521120000 +0000" stop="20250521150000 +0000">
 		<title>ウェディングウォーズ #1~3</title>
@@ -17908,12 +17712,12 @@ K-POPとJ-POPを代表するアーティストたちの洗練されたライブ�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p33849/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20250521100000 +0000" stop="20250521110000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>19:46～小泉進次郎農水大臣が就任会見「まずはコメに全力」</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p33850/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20250521110000 +0000" stop="20250521120000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>「コメに尽きる」小泉進次郎農水大臣が就任会見</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p33851/thumb001.png" />
 	</programme>
@@ -22978,9 +22782,12 @@ ZEROBASEONE、RIIZE、ドヨン(NCT)、BOYNEXTDOOR、ILLIT、n.SSign、EPEX、wo
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/367-11_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20250521115700 +0000" stop="20250521120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 5/21</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p51/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20250521120000 +0000" stop="20250521132000 +0000">
 		<title>スーパーマンが帰ってきた #548(韓国2024年11月13日放送)</title>
@@ -26621,9 +26428,12 @@ WHITE DIVISION開幕戦を飾るにふさわしい豪華なマッチアップ。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250521145700 +0000" stop="20250521150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 5/21</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p51/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250521150000 +0000" stop="20250521211900 +0000">
 		<title>女流プロ麻雀日本シリーズ2024 24回戦~27回戦</title>
@@ -28566,6 +28376,101 @@ ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
 オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。
 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-70_s10002_p30/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250521114500 +0000" stop="20250521181500 +0000">
+		<title>【但馬ミツロ出場】3150FIGHT vol.6</title>
+		<desc>2023年8月11日にエディオンアリーナ 第１競技場で行われた「3150FIGHT vol.6」をABEMAでお届け!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s130_p5/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250521181500 +0000" stop="20250521235000 +0000">
+		<title>【但馬ミツロ出場】3150FIGHT SURVIVAL vol.8</title>
+		<desc>2023年9月3日にコンベックス岡山で行われた「3150FIGHT SURVIVAL vol.8」をABEMAでお届け!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s140_p5/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250521235000 +0000" stop="20250522072500 +0000">
+		<title>3150×LUSHBOMU vol.2</title>
+		<desc>2024年10月12日に愛知県国際展示場で行われた「3150×LUSHBOMU vol.2」をABEMAでお届け!実況西達彦,高柳謙一,解説重岡優大,亀田大毅,ゲスト山本千尋,リポーター奥村菜緒,シベナティ・ノンシンガ,矢吹正道,政所椋,アルビン・カミケ,ロンダン・アルデア,英豪,花田颯,デンマーク・ケビド,藤本翔大、宮里駿太,ピーラポン・ポンケア,上村健太,月田翔一郎,仲里健太</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s210_p5/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250522072500 +0000" stop="20250522151000 +0000">
+		<title>【亀田和毅&amp;重岡銀次郎出場】3150FIGHT vol.7</title>
+		<desc>2023年10月7日に大田区総合体育館で行われた「3150FIGHT vol.7」をABEMAでお届け!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s150_p5/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250522151000 +0000" stop="20250522160000 +0000">
+		<title>重岡 銀次朗vsペドロ・タドゥラン(IBF世界ミニマム級タイトルマッチ)</title>
+		<desc>2024年7月28日に開催された「3150FIGHT vol.9」出場選手の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s190_p16/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250522160000 +0000" stop="20250522164500 +0000">
+		<title>亀田 京之介vs中川 麦茶</title>
+		<desc>2024年7月28日に開催された「3150FIGHT vol.9」出場選手の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s190_p19/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250522164500 +0000" stop="20250522172500 +0000">
+		<title>ペテ・アポリナルvs中川 抹茶</title>
+		<desc>2024年7月28日に開催された「3150FIGHT vol.9」出場選手の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s190_p22/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250522172500 +0000" stop="20250522182000 +0000">
+		<title>亀田 和毅vsレラト・ドラミニ(IBF世界フェザー級2位決定戦)</title>
+		<desc>2023年10月7日に開催された「3150FIGHT vol.7」出場選手の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s150_p24/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250522182000 +0000" stop="20250522192000 +0000">
+		<title>⻄⽥ 凌佑 vs エマヌエル ロドリゲス（IBF 世界バンタム級タイトルマッチ）</title>
+		<desc>2024年5月4日に開催された、「LUSH BOMU vol.3」の様子をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s180_p21/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250522192000 +0000" stop="20250522201500 +0000">
+		<title>シベナティ・ノンシンガvs矢吹正道(IBF世界ライト・フライ級タイトルマッチ)</title>
+		<desc>2024年10月12日に開催された「3150 × LUSHBOMU vol.2」の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s210_p18/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250522201500 +0000" stop="20250523040000 +0000">
+		<title>【亀田和毅出場】3150FIGHT vol.8</title>
+		<desc>2024年3月31日に名古屋国際会議場で行われた「3150FIGHT vol.8」をABEMAでお届け!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s170_p5/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250523040000 +0000" stop="20250523070000 +0000">
+		<title>【前日計量】3150 × LUSHBOMU vol.6</title>
+		<desc>5月24日にインテックス大阪で開催されるボクシング × 音楽イベント「3150 × LUSHBOMU vol.6」の前日計量・会見の様子をABEMAで生配信！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s10021_p1/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250523070000 +0000" stop="20250523151500 +0000">
+		<title>【亀田和毅出場】3150×LUSHBOMU vol.1</title>
+		<desc>2024年8月24日に大和アリーナで行われた「3150×LUSHBOMU vol.1」をABEMAでお届け!実況高柳謙一,解説内山高志,亀田大毅,ゲスト山本千尋,リポーター福田典子,亀田和毅,レラト・ドラミニ,重岡優大,サミュエル・サルバ,野上翔,ダンリック・スマボン,KJ・カタラジャ,健文トーレス,佐々木る玖,大島光容,伊集院嵐,ペン・ファン,シュアイ・ウー,宮川竜成,佐藤陽太,阿部樹</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s200_p5/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250523151500 +0000" stop="20250523231000 +0000">
+		<title>【但馬ミツロ出場】3150×LUSHBOMU 2DAYS【DAY2】</title>
+		<desc>2025年3月30日に愛知県国際展示場で行われた「3150×LUSHBOMU 2DAYS【DAY2】」をABEMAでお届け!実況高柳謙一,西達彦,解説内山高志,亀田大毅,ゲスト山本千尋,リポーター福田典子,メルビン・ジェルサレム,重岡優大,但馬ミツロ,ギジェルモ・カサス,中川麦茶,ナワポン・カイカンハー,鈴木健介,佐々木る玖,辻永遠,梅津奨利,イエシボラチ ナスイウラ,亀田正毅,宮川竜成,ナトワット・マニーウォン</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s230_p7/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250523231000 +0000" stop="20250523233000 +0000">
+		<title>重岡銀次朗vsジェイク・アンパロ(IBF世界ミニマム級タイトルマッチ)</title>
+		<desc>2024年3月31日に開催された「3150FIGHT vol.8」出場選手の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s170_p32/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250523233000 +0000" stop="20250524002500 +0000">
+		<title>亀田 和毅vsレラト・ドラミニ(IBF世界フェザー級2位決定戦)</title>
+		<desc>2023年10月7日に開催された「3150FIGHT vol.7」出場選手の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s150_p24/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250524002500 +0000" stop="20250524010000 +0000">
+		<title>亀田和毅vsケビン・ビジャヌエバ</title>
+		<desc>2024年3月31日に開催された「3150FIGHT vol.8」出場選手の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s170_p30/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250524010000 +0000" stop="20250524020000 +0000">
+		<title>亀田和毅vsレラト・ドラミニ(IBF世界フェザー級挑戦者決定戦)</title>
+		<desc>2024年8月24日に開催された「8.24 3150 ×  LUSHBOMU vol.1」出場選手の試合をABEMAで公開!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s200_p13/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250524020000 +0000" stop="20250524110000 +0000">
+		<title>3150 × LUSHBOMU vol.6</title>
+		<desc>5月24日にインテックス大阪で開催されるボクシング × 音楽イベント「3150 × LUSHBOMU vol.6」の様子をABEMAで生配信！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s10022_p1/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250513150000 +0000" stop="20250513190500 +0000">
 		<title>Krush.141 2022.9.24</title>
@@ -31793,6 +31698,56 @@ HIPHOP界隈で今注目のトピックスについて深堀り！</desc>
 		<title>【再放送】フリースタイルティーチャー：#87~#93</title>
 		<desc>芸人ラッパー vs U-20ヤングモンスター !!ゆりやんレトリィバァ5連勝なるか!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-96_s10_p9/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250527210000 +0000" stop="20250528000000 +0000">
+		<title>【THE LYRICS】Awich / MonyHorse / JNKMN</title>
+		<desc>「THE LYRICS」は、
+歌詞(LYRIC)に込められた意味や想いをアーティストご本人が語ります。
+作詞時のエピソードや、あのパンチラインの誕生秘話etc、、、
+楽曲そしてアーティストをさらに知ることができる番組を目指します。
+本エピソードでは、JNKMNが "娑婆最高” の歌詞(LYRIC)について語ります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-67_s3_p3773/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250528000000 +0000" stop="20250528030000 +0000">
+		<title>【再放送】フリースタイルダンジョン：6th 1-3~1-8</title>
+		<desc>Rec1-3
+9人の腕利きラッパーが「BATTLE OF MOSTER維新軍」として登場!
+9対7のシングルマッチ勝ち抜き戦がスタート!
+固い韻を武器にした湘南出身のラッパーT-TANGGと裂固がバトル!
+
+■ゲストライブ
+Leon Fanourakis「LAMAR」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-20_s6_p3/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250528030000 +0000" stop="20250528040000 +0000">
+		<title>Zeebra’s LUNCHTIME BREAKS</title>
+		<desc>Zeebraが局長を務めるHIP HOP専門ラジオ局『WREP』にて放送中の『Zeebra's LUNCHTIME BREAKS』
+渋谷UDAGAWA BASEスタジオにて平日お昼12時から毎日公開生放送！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-164_s0_p640/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250528040000 +0000" stop="20250528100000 +0000">
+		<title>【THE LYRICS】D.O / Red Eye / SKJ / 漢</title>
+		<desc>「THE LYRICS」は、
+歌詞(LYRIC)に込められた意味や想いをアーティストご本人が語ります。
+作詞時のエピソードや、あのパンチラインの誕生秘話etc、、、
+楽曲そしてアーティストをさらに知ることができる番組を目指します。
+本エピソードでは、SILENT KILLA JOINT がENDRUNとの"ALL FEEL NICE ”の歌詞(LYRIC)について語ります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-67_s3_p3743/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250528100000 +0000" stop="20250528140000 +0000">
+		<title>my name is【一挙放送】</title>
+		<desc>ラッパー・シンガー・DJ・カメラマン・ダンサー・グラフィティアーティストなど、いつの時代にも不可欠な時代の先駆者たち。『my name is』は、そんな様々なジャンルで輝きを放ち、”今を生きるアーティスト"に密着するリアルドキュメント。誰もが持つ”名前”に人生を掲げ、唯一無二として表現し続ける彼らの生き様とは・・・?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-97_s30_p12/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250528140000 +0000" stop="20250528143000 +0000">
+		<title>【再放送】フリースタイル日本統一 #82 47都道府県対抗最強MC決定戦</title>
+		<desc>ラップバトル番組史上初！地元を背負ったラッパーたちが天下統一を目指す新番組『フリースタイル日本統一』</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-6_s0_p15/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250528143000 +0000" stop="20250528210000 +0000">
+		<title>【再放送】フリースタイルティーチャー：#94~#107</title>
+		<desc>ラッパー芸人 ニューカマートーナメントが始動!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-96_s12_p1/thumb001.png" />
 	</programme>
 	<programme channel="commercial" start="20250513150000 +0000" stop="20250513160000 +0000">
 		<title>CM</title>
