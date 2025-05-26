@@ -72,6 +72,10 @@
 		<display-name>ドラゴンボールチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/dragonball/logo.png" />
 	</channel>
+	<channel id="gundam">
+		<display-name>ガンダム特集</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</channel>
 	<channel id="80s-anime-1">
 		<display-name>なつかしアニメ80's</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png" />
@@ -481,7 +485,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20250521120000 +0000" stop="20250521120600 +0000">
 		<title>ショートムービー リコリス・リコイル #6【最新話】</title>
-		<desc>「リコリス・リコイル」がオリジナルショートムービーとして帰ってきます！喫茶リコリコを舞台に繰り広げられる、ちょっとした日常風景をお楽しみください。</desc>
+		<desc>喫茶リコリコの日常その5。テーマは「パジャマパーティー」。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-244_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250521120600 +0000" stop="20250521123000 +0000">
@@ -2981,7 +2985,7 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 うたの決意が結ばれ、伝説の救世主《キュアアイドル》に変身！
 歌って踊ってファンサして♡
 どんな真っ暗闇でも、キミをキラッキランランにしちゃうよ！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p13/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-75_s1_p16/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250601003000 +0000" stop="20250601010000 +0000">
 		<title>プリンセッション・オーケストラ #9【最新話】</title>
@@ -10790,6 +10794,344 @@ Poppin'Party の音楽ユ メは、まだまだ止まらない！</desc>
 		<desc>魔人ブウとの激闘からしばらくたった地球。悟空は、チチの言いつけで農業をしながらさぼって修業する日々を送っていた。その一方、地球を２度救った事になったミスターサタンは世界平和賞を受賞するが！？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-30_s3_p1/thumb001.png" />
 	</programme>
+	<programme channel="gundam" start="20250518133000 +0000" stop="20250518173000 +0000">
+		<title>新機動戦記ガンダムＷ #42〜49【無料ビデオ72時間】</title>
+		<desc>損傷したアルトロンとともに、サリィのシャトルに救出された五飛。ヒイロの勧めでゼロに乗った彼は、自身の進むべき未来を知る。その頃、トレーズは意識不明のレディ・アンと再会していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p42/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250518173000 +0000" stop="20250518190000 +0000">
+		<title>新機動戦記ガンダムW Endless Waltz #1〜3【無料ビデオ72時間】</title>
+		<desc>A.C.196年…地球国家軍と革命軍ホワイトファングの戦いが終結して1年。五飛を除き、平和な世界には必要なくなったガンダムを処分しようとするカトルたち。一方、地球ではレディ・アン指導のもと「プリベンター」が組織された。そんな時、リリーナがマリーメイアを元首とするマリーメイア軍に誘拐されてしまい…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-130_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250518190000 +0000" stop="20250519050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250519050000 +0000" stop="20250519083000 +0000">
+		<title>機動新世紀ガンダムX #1〜7【無料ビデオ72時間】</title>
+		<desc>宇宙革命軍と地球連邦軍の戦争から15年。戦災孤児のガロード・ランは、謎の紳士ライク・アントから依頼を受け、ティファ・アディールという少女を奪還した。だがティファがアントを見て怯え出したため、ガロードは彼女を連れて離脱。ティファの導きで旧連邦地下工場に逃げ込んだガロードは、「ガンダムX」を発見する！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250519083000 +0000" stop="20250519090000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #6・見逃し放送</title>
+		<desc>アンキーがシュウジの隠れ家を見つけた。赤いガンダムの情報はクランバトルの賞金よりも高い。彼女がクランバトル開催中に、その情報を売ろうと画策していることをマチュは知る。一方、キシリアの極秘情報をキャッチした地球連邦軍情報部は……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250519090000 +0000" stop="20250519123000 +0000">
+		<title>機動新世紀ガンダムX #1〜7【無料ビデオ72時間】</title>
+		<desc>宇宙革命軍と地球連邦軍の戦争から15年。戦災孤児のガロード・ランは、謎の紳士ライク・アントから依頼を受け、ティファ・アディールという少女を奪還した。だがティファがアントを見て怯え出したため、ガロードは彼女を連れて離脱。ティファの導きで旧連邦地下工場に逃げ込んだガロードは、「ガンダムX」を発見する！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250519123000 +0000" stop="20250519130000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #6・見逃し放送</title>
+		<desc>アンキーがシュウジの隠れ家を見つけた。赤いガンダムの情報はクランバトルの賞金よりも高い。彼女がクランバトル開催中に、その情報を売ろうと画策していることをマチュは知る。一方、キシリアの極秘情報をキャッチした地球連邦軍情報部は……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250519130000 +0000" stop="20250519163000 +0000">
+		<title>機動新世紀ガンダムX #1〜7【無料ビデオ72時間】</title>
+		<desc>宇宙革命軍と地球連邦軍の戦争から15年。戦災孤児のガロード・ランは、謎の紳士ライク・アントから依頼を受け、ティファ・アディールという少女を奪還した。だがティファがアントを見て怯え出したため、ガロードは彼女を連れて離脱。ティファの導きで旧連邦地下工場に逃げ込んだガロードは、「ガンダムX」を発見する！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250519163000 +0000" stop="20250520050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250520050000 +0000" stop="20250520090000 +0000">
+		<title>機動新世紀ガンダムX #8〜15【無料ビデオ72時間】</title>
+		<desc>炎の時計部隊の攻撃から、フロスト兄弟の輸送機のお陰で逃げることに成功したウィッツ。彼は戦力不足のフリーデンに呼び出されたロアビィと偶然合流し、共にジャミルが回復するまでの用心棒として雇われる。一方、ガロードの部屋を訪れたエニルは、彼に警戒され追い出されてしまう。そのことを逆恨みしたエニルは…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250520090000 +0000" stop="20250520130000 +0000">
+		<title>機動新世紀ガンダムX #8〜15【無料ビデオ72時間】</title>
+		<desc>炎の時計部隊の攻撃から、フロスト兄弟の輸送機のお陰で逃げることに成功したウィッツ。彼は戦力不足のフリーデンに呼び出されたロアビィと偶然合流し、共にジャミルが回復するまでの用心棒として雇われる。一方、ガロードの部屋を訪れたエニルは、彼に警戒され追い出されてしまう。そのことを逆恨みしたエニルは…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250520130000 +0000" stop="20250520170000 +0000">
+		<title>機動新世紀ガンダムX #8〜15【無料ビデオ72時間】</title>
+		<desc>炎の時計部隊の攻撃から、フロスト兄弟の輸送機のお陰で逃げることに成功したウィッツ。彼は戦力不足のフリーデンに呼び出されたロアビィと偶然合流し、共にジャミルが回復するまでの用心棒として雇われる。一方、ガロードの部屋を訪れたエニルは、彼に警戒され追い出されてしまう。そのことを逆恨みしたエニルは…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250520170000 +0000" stop="20250521050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250521050000 +0000" stop="20250521090000 +0000">
+		<title>機動新世紀ガンダムX #16〜23【無料ビデオ72時間】</title>
+		<desc>ティファの絵からニュータイプがいると思われる海岸に向かったガロードたち。ロアビィが海水浴を思い付き、一同はしばしの休息を楽しむことに。その時、突然ティファが許可なくボートを出し、彼らの目の前で沖へと向かってしまった。そんな彼女を救出に向かったガロードたちの前に、海賊オルクのドーザ一味が現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250521090000 +0000" stop="20250521130000 +0000">
+		<title>機動新世紀ガンダムX #16〜23【無料ビデオ72時間】</title>
+		<desc>ティファの絵からニュータイプがいると思われる海岸に向かったガロードたち。ロアビィが海水浴を思い付き、一同はしばしの休息を楽しむことに。その時、突然ティファが許可なくボートを出し、彼らの目の前で沖へと向かってしまった。そんな彼女を救出に向かったガロードたちの前に、海賊オルクのドーザ一味が現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250521130000 +0000" stop="20250521170000 +0000">
+		<title>機動新世紀ガンダムX #16〜23【無料ビデオ72時間】</title>
+		<desc>ティファの絵からニュータイプがいると思われる海岸に向かったガロードたち。ロアビィが海水浴を思い付き、一同はしばしの休息を楽しむことに。その時、突然ティファが許可なくボートを出し、彼らの目の前で沖へと向かってしまった。そんな彼女を救出に向かったガロードたちの前に、海賊オルクのドーザ一味が現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250521170000 +0000" stop="20250522050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250522050000 +0000" stop="20250522090000 +0000">
+		<title>機動新世紀ガンダムX #24〜31【無料ビデオ72時間】</title>
+		<desc>ジャミルとティファを乗せた輸送船に潜入したガロードとカトックは、格納庫で新型ガンダムであるダブルエックスを発見。狙撃部隊に狙われる中、カトックはガロードをダブルエックスに乗せようとするが、そこにはGコンがなく窮地に陥ってしまう。そんな時、Gコンを保管室から持ち出したジャミルとティファが現れるが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p24/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250522090000 +0000" stop="20250522130000 +0000">
+		<title>機動新世紀ガンダムX #24〜31【無料ビデオ72時間】</title>
+		<desc>ジャミルとティファを乗せた輸送船に潜入したガロードとカトックは、格納庫で新型ガンダムであるダブルエックスを発見。狙撃部隊に狙われる中、カトックはガロードをダブルエックスに乗せようとするが、そこにはGコンがなく窮地に陥ってしまう。そんな時、Gコンを保管室から持ち出したジャミルとティファが現れるが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p24/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250522130000 +0000" stop="20250522170000 +0000">
+		<title>機動新世紀ガンダムX #24〜31【無料ビデオ72時間】</title>
+		<desc>ジャミルとティファを乗せた輸送船に潜入したガロードとカトックは、格納庫で新型ガンダムであるダブルエックスを発見。狙撃部隊に狙われる中、カトックはガロードをダブルエックスに乗せようとするが、そこにはGコンがなく窮地に陥ってしまう。そんな時、Gコンを保管室から持ち出したジャミルとティファが現れるが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p24/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250522170000 +0000" stop="20250523050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250523050000 +0000" stop="20250523090000 +0000">
+		<title>機動新世紀ガンダムX #32〜39【無料ビデオ72時間】</title>
+		<desc>革命軍の本拠地「クラウド9」に連れて行かれたティファを追うため、宇宙に出たガロード。そのシャトルから脱出したガロードだったが、革命軍の元ニュータイプであるランスロー・ダーウェルが指揮するモビルスーツ隊に追撃されてしまう。初の無重力戦闘のせいで、苦戦するガロード。だが、そこにGファルコンが現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p32/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250523090000 +0000" stop="20250523130000 +0000">
+		<title>機動新世紀ガンダムX #32〜39【無料ビデオ72時間】</title>
+		<desc>革命軍の本拠地「クラウド9」に連れて行かれたティファを追うため、宇宙に出たガロード。そのシャトルから脱出したガロードだったが、革命軍の元ニュータイプであるランスロー・ダーウェルが指揮するモビルスーツ隊に追撃されてしまう。初の無重力戦闘のせいで、苦戦するガロード。だが、そこにGファルコンが現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p32/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250523130000 +0000" stop="20250523170000 +0000">
+		<title>機動新世紀ガンダムX #32〜39【無料ビデオ72時間】</title>
+		<desc>革命軍の本拠地「クラウド9」に連れて行かれたティファを追うため、宇宙に出たガロード。そのシャトルから脱出したガロードだったが、革命軍の元ニュータイプであるランスロー・ダーウェルが指揮するモビルスーツ隊に追撃されてしまう。初の無重力戦闘のせいで、苦戦するガロード。だが、そこにGファルコンが現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-193_s1_p32/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250523170000 +0000" stop="20250524023000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250524023000 +0000" stop="20250524140000 +0000">
+		<title>機動戦士ガンダム 水星の魔女 全話一挙【無料ビデオ1週間】</title>
+		<desc>小惑星に建造されたフロント、フォールクヴァング。
+ヴァナディース機関のラボでは、ガンダム・ルブリスの稼働実験が行われていた。
+
+評議会から課された条件をクリア出来ないままのルブリスに、
+焦燥感を募らせるテストパイロット、エルノラ・サマヤ。
+
+――その日は、彼女の娘が4歳を迎える誕生日だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-158_s1_p100/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250524140000 +0000" stop="20250525013000 +0000">
+		<title>機動戦士ガンダム 水星の魔女 全話一挙【無料ビデオ1週間】</title>
+		<desc>小惑星に建造されたフロント、フォールクヴァング。
+ヴァナディース機関のラボでは、ガンダム・ルブリスの稼働実験が行われていた。
+
+評議会から課された条件をクリア出来ないままのルブリスに、
+焦燥感を募らせるテストパイロット、エルノラ・サマヤ。
+
+――その日は、彼女の娘が4歳を迎える誕生日だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-158_s1_p100/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250525013000 +0000" stop="20250525130000 +0000">
+		<title>機動戦士ガンダム 水星の魔女 全話一挙【無料ビデオ1週間】</title>
+		<desc>小惑星に建造されたフロント、フォールクヴァング。
+ヴァナディース機関のラボでは、ガンダム・ルブリスの稼働実験が行われていた。
+
+評議会から課された条件をクリア出来ないままのルブリスに、
+焦燥感を募らせるテストパイロット、エルノラ・サマヤ。
+
+――その日は、彼女の娘が4歳を迎える誕生日だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-158_s1_p100/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250525130000 +0000" stop="20250525133000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #7【最新話】</title>
+		<desc>宇宙に浮かぶスペース・コロニーで平穏に暮らしていた女子高生アマテ・ユズリハは、少女ニャアンと出会ったことで、非合法なモビルスーツ決闘競技《クランバトル》に巻き込まれる。エントリーネーム《マチュ》を名乗るアマテは、 GQuuuuuuX ジークアクス を駆り、苛烈なバトルの日々に身を投じていく。同じ頃、宇宙軍と警察の双方から追われていた正体不明のモビルスーツ《ガンダム》と、そのパイロットの少年シュウジが彼女の前に姿を現す。そして、世界は新たな時代を迎えようとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250525133000 +0000" stop="20250525163000 +0000">
+		<title>機動戦士ガンダム #1〜6【無料ビデオ72時間】</title>
+		<desc>宇宙世紀0079。ジオン公国の独立戦争で劣勢に陥った連邦軍は新鋭モビルスーツの開発と運用テストを“サイド7”で行っていた。それを察知したジオン公国軍のシャア・アズナブル少佐は偵察を差し向ける。その中の一人が軍功を焦り砲撃を開始。戦火に巻きこまれたアムロ・レイは、モビルスーツ“ガンダム”に乗りこむ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250525163000 +0000" stop="20250525170000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #7・見逃し放送</title>
+		<desc>宇宙に浮かぶスペース・コロニーで平穏に暮らしていた女子高生アマテ・ユズリハは、少女ニャアンと出会ったことで、非合法なモビルスーツ決闘競技《クランバトル》に巻き込まれる。エントリーネーム《マチュ》を名乗るアマテは、 GQuuuuuuX ジークアクス を駆り、苛烈なバトルの日々に身を投じていく。同じ頃、宇宙軍と警察の双方から追われていた正体不明のモビルスーツ《ガンダム》と、そのパイロットの少年シュウジが彼女の前に姿を現す。そして、世界は新たな時代を迎えようとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250525170000 +0000" stop="20250526073000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250526073000 +0000" stop="20250526103000 +0000">
+		<title>機動戦士ガンダム #1〜6【無料ビデオ72時間】</title>
+		<desc>宇宙世紀0079。ジオン公国の独立戦争で劣勢に陥った連邦軍は新鋭モビルスーツの開発と運用テストを“サイド7”で行っていた。それを察知したジオン公国軍のシャア・アズナブル少佐は偵察を差し向ける。その中の一人が軍功を焦り砲撃を開始。戦火に巻きこまれたアムロ・レイは、モビルスーツ“ガンダム”に乗りこむ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250526103000 +0000" stop="20250526110000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #7・見逃し放送</title>
+		<desc>宇宙に浮かぶスペース・コロニーで平穏に暮らしていた女子高生アマテ・ユズリハは、少女ニャアンと出会ったことで、非合法なモビルスーツ決闘競技《クランバトル》に巻き込まれる。エントリーネーム《マチュ》を名乗るアマテは、 GQuuuuuuX ジークアクス を駆り、苛烈なバトルの日々に身を投じていく。同じ頃、宇宙軍と警察の双方から追われていた正体不明のモビルスーツ《ガンダム》と、そのパイロットの少年シュウジが彼女の前に姿を現す。そして、世界は新たな時代を迎えようとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250526110000 +0000" stop="20250526140000 +0000">
+		<title>機動戦士ガンダム #1〜6【無料ビデオ72時間】</title>
+		<desc>宇宙世紀0079。ジオン公国の独立戦争で劣勢に陥った連邦軍は新鋭モビルスーツの開発と運用テストを“サイド7”で行っていた。それを察知したジオン公国軍のシャア・アズナブル少佐は偵察を差し向ける。その中の一人が軍功を焦り砲撃を開始。戦火に巻きこまれたアムロ・レイは、モビルスーツ“ガンダム”に乗りこむ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250526140000 +0000" stop="20250526163000 +0000">
+		<title>機動戦士ガンダム #7〜11【無料ビデオ72時間】</title>
+		<desc>ホワイトベースは、コア・ファイターを弾道軌道に乗せて射出し、敵陣を飛び越すことで連邦軍本部との直接連絡をつけようとしていた。そんな中、避難民が暴動を起こすが、自分のやるべきことをするためにアムロは格納庫へ向かう。猛スピードで射出されたコア・ファイターを察知したシャアは、コムサイで迎撃に出るが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250526163000 +0000" stop="20250527083000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250527083000 +0000" stop="20250527110000 +0000">
+		<title>機動戦士ガンダム #7〜11【無料ビデオ72時間】</title>
+		<desc>ホワイトベースは、コア・ファイターを弾道軌道に乗せて射出し、敵陣を飛び越すことで連邦軍本部との直接連絡をつけようとしていた。そんな中、避難民が暴動を起こすが、自分のやるべきことをするためにアムロは格納庫へ向かう。猛スピードで射出されたコア・ファイターを察知したシャアは、コムサイで迎撃に出るが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250527110000 +0000" stop="20250527133000 +0000">
+		<title>機動戦士ガンダム #7〜11【無料ビデオ72時間】</title>
+		<desc>ホワイトベースは、コア・ファイターを弾道軌道に乗せて射出し、敵陣を飛び越すことで連邦軍本部との直接連絡をつけようとしていた。そんな中、避難民が暴動を起こすが、自分のやるべきことをするためにアムロは格納庫へ向かう。猛スピードで射出されたコア・ファイターを察知したシャアは、コムサイで迎撃に出るが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250527133000 +0000" stop="20250527160000 +0000">
+		<title>機動戦士ガンダム #12〜16【無料ビデオ72時間】</title>
+		<desc>ジオン公国でガルマの国葬が大々的に行われようとするのと同時に、猛将ランバ・ラルがホワイトベース討伐の任を帯びて戦艦ザンジバルで降下してきた。ザンジバルの追撃を振り切ることができなかったブライトは、ひどい虚脱状態のアムロをガンダムで出撃させる。そんな状態のアムロの前に凶悪な影が立ちはだかる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250527160000 +0000" stop="20250528083000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250528083000 +0000" stop="20250528110000 +0000">
+		<title>機動戦士ガンダム #12〜16【無料ビデオ72時間】</title>
+		<desc>ジオン公国でガルマの国葬が大々的に行われようとするのと同時に、猛将ランバ・ラルがホワイトベース討伐の任を帯びて戦艦ザンジバルで降下してきた。ザンジバルの追撃を振り切ることができなかったブライトは、ひどい虚脱状態のアムロをガンダムで出撃させる。そんな状態のアムロの前に凶悪な影が立ちはだかる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250528110000 +0000" stop="20250528133000 +0000">
+		<title>機動戦士ガンダム #12〜16【無料ビデオ72時間】</title>
+		<desc>ジオン公国でガルマの国葬が大々的に行われようとするのと同時に、猛将ランバ・ラルがホワイトベース討伐の任を帯びて戦艦ザンジバルで降下してきた。ザンジバルの追撃を振り切ることができなかったブライトは、ひどい虚脱状態のアムロをガンダムで出撃させる。そんな状態のアムロの前に凶悪な影が立ちはだかる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250528133000 +0000" stop="20250528160000 +0000">
+		<title>機動戦士ガンダム #17〜21【無料ビデオ72時間】</title>
+		<desc>アムロにガンダム出撃が命じられたが、慢心したアムロは独断で乗機をガンタンクに変更してしまう。だが、そんなアムロの前にラルのグフが出現し、アムロは戦力差に後退を余儀なくされる。ガンダムに換装してシミュレーションどおりの戦いを試みたアムロだったが、それは実戦の厳しさを体感する結果を招いてしまう…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250528160000 +0000" stop="20250529083000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250529083000 +0000" stop="20250529110000 +0000">
+		<title>機動戦士ガンダム #17〜21【無料ビデオ72時間】</title>
+		<desc>アムロにガンダム出撃が命じられたが、慢心したアムロは独断で乗機をガンタンクに変更してしまう。だが、そんなアムロの前にラルのグフが出現し、アムロは戦力差に後退を余儀なくされる。ガンダムに換装してシミュレーションどおりの戦いを試みたアムロだったが、それは実戦の厳しさを体感する結果を招いてしまう…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250529110000 +0000" stop="20250529133000 +0000">
+		<title>機動戦士ガンダム #17〜21【無料ビデオ72時間】</title>
+		<desc>アムロにガンダム出撃が命じられたが、慢心したアムロは独断で乗機をガンタンクに変更してしまう。だが、そんなアムロの前にラルのグフが出現し、アムロは戦力差に後退を余儀なくされる。ガンダムに換装してシミュレーションどおりの戦いを試みたアムロだったが、それは実戦の厳しさを体感する結果を招いてしまう…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250529133000 +0000" stop="20250529160000 +0000">
+		<title>機動戦士ガンダム #22〜26【無料ビデオ72時間】</title>
+		<desc>過労に耐えきれなくなったブライトは、高熱を発して倒れてしまった。そんな中、マ・クベの兵たちにより、ミノフスキー粒子射出口とECM発信機を爆破されたため、無防備になったホワイトベース。ブライトに代わって不慣れな指揮をとるミライだったが、状況把握と経験の不足から、戦闘に大混乱を招いてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p22/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250529160000 +0000" stop="20250530083000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250530083000 +0000" stop="20250530110000 +0000">
+		<title>機動戦士ガンダム #22〜26【無料ビデオ72時間】</title>
+		<desc>過労に耐えきれなくなったブライトは、高熱を発して倒れてしまった。そんな中、マ・クベの兵たちにより、ミノフスキー粒子射出口とECM発信機を爆破されたため、無防備になったホワイトベース。ブライトに代わって不慣れな指揮をとるミライだったが、状況把握と経験の不足から、戦闘に大混乱を招いてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p22/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250530110000 +0000" stop="20250530133000 +0000">
+		<title>機動戦士ガンダム #22〜26【無料ビデオ72時間】</title>
+		<desc>過労に耐えきれなくなったブライトは、高熱を発して倒れてしまった。そんな中、マ・クベの兵たちにより、ミノフスキー粒子射出口とECM発信機を爆破されたため、無防備になったホワイトベース。ブライトに代わって不慣れな指揮をとるミライだったが、状況把握と経験の不足から、戦闘に大混乱を招いてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p22/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250530133000 +0000" stop="20250530160000 +0000">
+		<title>機動戦士ガンダム #27〜31【無料ビデオ72時間】</title>
+		<desc>艦を降りることを決意したカイは、前に基地で声をかけてきた少女ミハルの家に招かれた。ミハルを見て、彼女の事情を察知したカイは、それとなくホワイトベースに関する情報を流してやる。さっそくマッド・アングラー隊に連絡を取ったミハルにシャアは、攻撃による混乱に乗じてホワイトベースへ潜入するよう命じる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250530160000 +0000" stop="20250531060000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250531060000 +0000" stop="20250531083000 +0000">
+		<title>機動戦士ガンダム #27〜31【無料ビデオ72時間】</title>
+		<desc>艦を降りることを決意したカイは、前に基地で声をかけてきた少女ミハルの家に招かれた。ミハルを見て、彼女の事情を察知したカイは、それとなくホワイトベースに関する情報を流してやる。さっそくマッド・アングラー隊に連絡を取ったミハルにシャアは、攻撃による混乱に乗じてホワイトベースへ潜入するよう命じる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250531083000 +0000" stop="20250531110000 +0000">
+		<title>機動戦士ガンダム #27〜31【無料ビデオ72時間】</title>
+		<desc>艦を降りることを決意したカイは、前に基地で声をかけてきた少女ミハルの家に招かれた。ミハルを見て、彼女の事情を察知したカイは、それとなくホワイトベースに関する情報を流してやる。さっそくマッド・アングラー隊に連絡を取ったミハルにシャアは、攻撃による混乱に乗じてホワイトベースへ潜入するよう命じる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250531110000 +0000" stop="20250531143000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX #1〜7【無料ビデオ1週間】</title>
+		<desc>女子高生アマテは、偶然運び屋の少女ニャアンと知り合い、非合法なジャンク屋と関わってしまう。そんな時、軍警のザクが領空侵犯の赤いガンダムとコロニー内で戦闘を始める。巻き込まれたアマテはジークアクスを駆るのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250531143000 +0000" stop="20250531170000 +0000">
+		<title>機動戦士ガンダム #32〜36【無料ビデオ72時間】</title>
+		<desc>元部下のドレン大尉にホワイトベースの迎撃を依頼したシャア大佐。スレッガー中尉もGファイターで出撃し、リック・ドム編隊との交戦が始まった。艦隊戦に集中していたドレンは、ガンダムを見失ったとの報告を聞き不安に陥る。察知されないよう直上から接近したガンダムは、旗艦キャメルのブリッジに襲いかかった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p32/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250531170000 +0000" stop="20250601043000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250601043000 +0000" stop="20250601070000 +0000">
+		<title>機動戦士ガンダム #32〜36【無料ビデオ72時間】</title>
+		<desc>元部下のドレン大尉にホワイトベースの迎撃を依頼したシャア大佐。スレッガー中尉もGファイターで出撃し、リック・ドム編隊との交戦が始まった。艦隊戦に集中していたドレンは、ガンダムを見失ったとの報告を聞き不安に陥る。察知されないよう直上から接近したガンダムは、旗艦キャメルのブリッジに襲いかかった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p32/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250601070000 +0000" stop="20250601093000 +0000">
+		<title>機動戦士ガンダム #32〜36【無料ビデオ72時間】</title>
+		<desc>元部下のドレン大尉にホワイトベースの迎撃を依頼したシャア大佐。スレッガー中尉もGファイターで出撃し、リック・ドム編隊との交戦が始まった。艦隊戦に集中していたドレンは、ガンダムを見失ったとの報告を聞き不安に陥る。察知されないよう直上から接近したガンダムは、旗艦キャメルのブリッジに襲いかかった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p32/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250601093000 +0000" stop="20250601130000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX #1〜7【無料ビデオ1週間】</title>
+		<desc>女子高生アマテは、偶然運び屋の少女ニャアンと知り合い、非合法なジャンク屋と関わってしまう。そんな時、軍警のザクが領空侵犯の赤いガンダムとコロニー内で戦闘を始める。巻き込まれたアマテはジークアクスを駆るのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250601130000 +0000" stop="20250601133000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #8【最新話】</title>
+		<desc>宇宙に浮かぶスペース・コロニーで平穏に暮らしていた女子高生アマテ・ユズリハは、少女ニャアンと出会ったことで、非合法なモビルスーツ決闘競技《クランバトル》に巻き込まれる。エントリーネーム《マチュ》を名乗るアマテは、 GQuuuuuuX ジークアクス を駆り、苛烈なバトルの日々に身を投じていく。同じ頃、宇宙軍と警察の双方から追われていた正体不明のモビルスーツ《ガンダム》と、そのパイロットの少年シュウジが彼女の前に姿を現す。そして、世界は新たな時代を迎えようとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p85/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250601133000 +0000" stop="20250601170000 +0000">
+		<title>機動戦士ガンダム #37〜43【無料ビデオ72時間】</title>
+		<desc>ホワイトベースはテキサス・ゾーンの暗礁空域に向かった。だが、マ・クベ大佐は、ガンダムを仕留めて上司キシリアに報いようと行動を始めていた。同時に、そこにはララァと新型モビルアーマー“エルメス”の実験を行おうとするシャアの姿もあった。マ・クベは幾重にも罠を仕掛けてガンダムをコロニー深部へ誘いこむが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-53_s1_p37/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250601170000 +0000" stop="20250601173000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX（ジークアクス） #8・見逃し放送</title>
+		<desc>宇宙に浮かぶスペース・コロニーで平穏に暮らしていた女子高生アマテ・ユズリハは、少女ニャアンと出会ったことで、非合法なモビルスーツ決闘競技《クランバトル》に巻き込まれる。エントリーネーム《マチュ》を名乗るアマテは、 GQuuuuuuX ジークアクス を駆り、苛烈なバトルの日々に身を投じていく。同じ頃、宇宙軍と警察の双方から追われていた正体不明のモビルスーツ《ガンダム》と、そのパイロットの少年シュウジが彼女の前に姿を現す。そして、世界は新たな時代を迎えようとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p85/thumb001.png" />
+	</programme>
 	<programme channel="80s-anime-1" start="20250518110000 +0000" stop="20250518150500 +0000">
 		<title>美味しんぼ #44～51【無料ビデオ1週間】</title>
 		<desc>花村と三谷の結婚が決定。が、披露宴に予定したレストランのオーナーシェフ・中里が入院。士郎はその息子・靖夫に代役を頼む。花村への想いを乗り越えて、最高のフォン・ド・ヴォーを！</desc>
@@ -14686,9 +15028,24 @@ ADHDを抱える『だいご』はこの先の自分への不安を解消する�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1965_s690_p1004/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250527070000 +0000" stop="20250527080700 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ラブキンコラボ！ウェディングウォーズ鑑賞会でメンバー大暴れ！</title>
+		<desc>▼みどころ
+「パーティー美男美女、乾杯！」
+ラブパワーキングダム〜恋愛強者選挙〜のあかね、みさき、あやか、けいいち、ひろきが
+ウェディングウォーズ鑑賞会を開催！
+
+「好きだけじゃ一緒に居れないよ！？」
+「現実はやっぱ、お金大事なんじゃない？」
+シャンパン片手にウェディングウォーズを言いたい放題、斬りまくり！？
+
+そして、本編の『真実の質問』にちなんでプレイした嘘をつくと手に電流が走る『嘘発見器ゲーム』では
+「スキンシップの頻度は多いほうがいい？」
+「過去にタレント口説いたことがある？」
+など、際どい質問にメンバーの冷や汗が止まらない！？
+
+モテを制する恋愛強者なメンバーは、ウェディングウォーズをどう見るのか！？
+ウェディングウォーズ×ラブパワーキングダム〜恋愛強者選挙〜コラボ企画第一弾、開幕！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2030_s1_p301/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250527080700 +0000" stop="20250527112700 +0000">
 		<title>ウェディングウォーズ #1~4</title>
@@ -14908,7 +15265,25 @@ CIAから聞いた宇宙人に関する極秘情報
 次のステップ「共同同棲」に進むカップルが決まる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1572_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250528070000 +0000" stop="20250528120000 +0000">
+	<programme channel="abema-special" start="20250528070000 +0000" stop="20250528080000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20250528080000 +0000" stop="20250528115700 +0000">
+		<title>すーぱーのびしろたいむ by 今日、好きになりました。 #1~4</title>
+		<desc>▼見どころ
+・マッチョ部始動！愛するメガンのため細身のそうまは粗大ゴミを運ぶことができる？
+・あの街in熊本！じゅりすけのふたりがラブラブすぎて、井上さんも思わず激怒！
+
+▼すぱのびとは？
+放課後がやってきた！さあ、出かけよう！
+高校生たちが新しい人たちと、普段とは違った環境で、やったことないことに挑戦するバラエティ番組。
+高校生たちは、自らの”のびしろ”を求めチャレンジする中で、大人になる第一歩を踏み出します。
+今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2031_s1_p101/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250528115700 +0000" stop="20250528120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14924,9 +15299,22 @@ CIAから聞いた宇宙人に関する極秘情報
 高校生たちが新しい人たちと、普段とは違った環境で、やったことないことに挑戦するバラエティ番組。
 高校生たちは、自らの”のびしろ”を求めチャレンジする中で、大人になる第一歩を踏み出します。
 今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p131/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2031_s1_p105/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250528130000 +0000" stop="20250528140000 +0000">
+	<programme channel="abema-special" start="20250528130000 +0000" stop="20250528135700 +0000">
+		<title>怖くない。キミと一緒なら、きっとどこまでもいける。 今日好き＃３</title>
+		<desc>「はるとくんに積極的に行きたい」
+「ひなのこともっとみて欲しい」
+はるとを巡る恋に急展開が？！
+「もう気持ち固めた」
+気になる女子は一体誰？
+
+青い花を引いたかなとが選んだのは、りのん。
+2人きりでジンベエザメと泳ぐデートへ。
+かなとの気持ちに変化はあったのか....？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s710_p3/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250528135700 +0000" stop="20250528140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14979,19 +15367,54 @@ CIAから聞いた宇宙人に関する極秘情報
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-4_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250528210000 +0000" stop="20250528220000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>＃１：『好き≠結婚』お金、年齢、キャリア…幸せな結婚って？さよプロviaスペイン</title>
+		<desc>“好き”だけじゃ、結婚できないの？
+
+付き合いながらも結婚に踏み出せないカップルが、
+「結婚するか」「別れるか」を決断する、”恋人として最後”の旅行。
+
+今回決断の旅に出るのは
+アイブロウサロンを経営、独立したばかりでまだまだキャリアを積んでいきたいヤワラ(28)と、
+そろそろ結婚したいと考えている年下彼氏ケイゴ(26)。
+そして、30歳を前に結婚への意識が高まるタマミ(29)と、
+結婚願望ナシ、今の生活で満足しているタカミツ(43)。
+
+最愛の人と向き合い、自分自身と向き合う７日間で、
+彼らが選択するのは　涙の結婚か？涙の別れか？
+
+
+提供：一般社団法人 未来ウエディングJAPAN</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1303_s4_p1001/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250528220000 +0000" stop="20250529023000 +0000">
 		<title>トッケビ〜君がくれた愛しい日々〜 第10〜12話(字幕)【コン・ユ主演】</title>
 		<desc>サニーの記憶を消したことを忘れ、うっかり彼女の本名を口走ってしまった死神。なぜ自分の本名を知っているのか、正体は何なのかとサニーは死神に詰め寄り、はぐらかそうとした彼の手をつかむ。手が触れ合ってしまったことでサニーの前世を見た死神は、彼女の前世の顔が掛け軸に描かれていたシンの妹と同じであることに驚き、失われた自分の記憶とサニーの前世、シンとの間には何か因縁があるのかもしれないと思い悩む。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-56_s1_p10/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250529023000 +0000" stop="20250529040000 +0000">
+	<programme channel="abema-special" start="20250529023000 +0000" stop="20250529030000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20250529030000 +0000" stop="20250529040000 +0000">
+		<title>＃１：『好き≠結婚』お金、年齢、キャリア…幸せな結婚って？さよプロviaスペイン</title>
+		<desc>“好き”だけじゃ、結婚できないの？
+
+付き合いながらも結婚に踏み出せないカップルが、
+「結婚するか」「別れるか」を決断する、”恋人として最後”の旅行。
+
+今回決断の旅に出るのは
+アイブロウサロンを経営、独立したばかりでまだまだキャリアを積んでいきたいヤワラ(28)と、
+そろそろ結婚したいと考えている年下彼氏ケイゴ(26)。
+そして、30歳を前に結婚への意識が高まるタマミ(29)と、
+結婚願望ナシ、今の生活で満足しているタカミツ(43)。
+
+最愛の人と向き合い、自分自身と向き合う７日間で、
+彼らが選択するのは　涙の結婚か？涙の別れか？
+
+
+提供：一般社団法人 未来ウエディングJAPAN</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1303_s4_p1001/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250529040000 +0000" stop="20250529080400 +0000">
 		<title>セカンドチャンスウェディング #4~7</title>
@@ -15008,7 +15431,51 @@ CIAから聞いた宇宙人に関する極秘情報
 不安…でも大丈夫。2回目だから、うまくいく。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1572_s1_p4/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250529080400 +0000" stop="20250529120000 +0000">
+	<programme channel="abema-special" start="20250529080400 +0000" stop="20250529110000 +0000">
+		<title>秘密のママ園 #1~2</title>
+		<desc>気になるママの秘密をコッソリ覗き見！
+
+「ママだけど恋していいですか？」
+シングルマザーの恋愛企画スタート！
+なかなか恋をできずにいるシングルマザーとシングルファザー
+1泊2日の共同生活で真実の愛を見つけることはできるのか!?
+普段恋愛番組を観ない滝沢も大興奮！
+
+子育ては十人十色！
+志尊淳に似てると噂の少年登場！
+ママはどんな子育てをしているのか密着してみえてきたものとは!?
+今回子どもに過去の秘密を暴露！意外な反応に近藤爆笑！
+
+
+なかなか人には聞きづらい「お受験」
+受験に精通するプロフェッショナルを集めて噂を根掘り葉掘り追求！
+「サピママってなに？」
+母と子二人三脚で挑むお受験に新米ママの峯岸も興味津々！
+
+子どもを持つMCの育児についてのぶっちゃけトークも！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2029_s1_p101/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250529110000 +0000" stop="20250529115700 +0000">
+		<title>＃１：『好き≠結婚』お金、年齢、キャリア…幸せな結婚って？さよプロviaスペイン</title>
+		<desc>“好き”だけじゃ、結婚できないの？
+
+付き合いながらも結婚に踏み出せないカップルが、
+「結婚するか」「別れるか」を決断する、”恋人として最後”の旅行。
+
+今回決断の旅に出るのは
+アイブロウサロンを経営、独立したばかりでまだまだキャリアを積んでいきたいヤワラ(28)と、
+そろそろ結婚したいと考えている年下彼氏ケイゴ(26)。
+そして、30歳を前に結婚への意識が高まるタマミ(29)と、
+結婚願望ナシ、今の生活で満足しているタカミツ(43)。
+
+最愛の人と向き合い、自分自身と向き合う７日間で、
+彼らが選択するのは　涙の結婚か？涙の別れか？
+
+
+提供：一般社団法人 未来ウエディングJAPAN</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1303_s4_p1001/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250529115700 +0000" stop="20250529120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -15018,10 +15485,67 @@ CIAから聞いた宇宙人に関する極秘情報
 		<desc>近日公開</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-31_s2_p6/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250529130000 +0000" stop="20250529160000 +0000">
+	<programme channel="abema-special" start="20250529130000 +0000" stop="20250529135700 +0000">
+		<title>ウェディングウォーズ #2</title>
+		<desc>▼みどころ
+「100万円をもらって途中棄権する…？」
+嘘発見器により彼氏が浮気をしていたことが発覚したあのカップル。
+「普通に気分悪い」
+怒る彼女が迷いながら下した決断とは！？
+
+「母親もメンタルの起伏が激しくて、施設に預けられて・・・」
+『貯金0』『無職』『浮気』問題だらけの参加男性の中で
+1番の理想の結婚相手と目される、大野くんの衝撃の過去が明らかになる。
+「大野くんの、人生ごと好き 」
+かおこが語る、大野くんへの愛に朝食を囲む食堂が涙に包まれた『シャケ事件』とは・・・？
+
+「もう脱落が出るってこと！？」
+第1回脱落デスマッチが開催、
+8組のカップルの中で1組のカップルの脱落が決定！
+そして新たに明かされた、新ルールでゲームの流れが変わる！？
+
+結婚を誓い合った8組のカップルたちによる
+過酷な婚前合宿サバイバルの行方はいかに！？
+
+
+▼概要
+結婚するのが怖くなる!?
+結婚を誓い合った8組のカップルたちによる
+過酷な婚前合宿サバイバル、開幕！
+
+貯金ゼロ、浮気、性の不一致…
+結婚資金1000万円獲得のため挑んだバトルのはずが、
+浮き彫りになっていく互いの問題と、暴かれる”本性”...!?
+
+目を背けていた現実に直面した時、
+それでも、愛を誓えますか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2030_s1_p1002/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250529135700 +0000" stop="20250529150000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20250529150000 +0000" stop="20250529160000 +0000">
+		<title>ナオキマンの都市伝説ワイドショー#7：国家が隠す宇宙人・UFOの存在</title>
+		<desc>【地球上に紛れる宇宙人を都市伝説視点で見たら…】
+宇宙人・UFO情報は国家単位で隠蔽!?
+各国が宇宙人・UFOの研究実施!?
+
+世界のUFO情報は全てイーロン・マスクが把握!?
+CIAから聞いた宇宙人に関する極秘情報
+
+原子力施設に多発するUFO 宇宙人たちの目的とは!?
+
+デンバー国際空港の地下に宇宙人の施設が存在!?
+メキシコ湾の油田火災は宇宙人による攻撃だった!?
+
+宇宙は無数に存在する!?マルチバース理論
+我々はすでに9次元の世界にいる!?
+宇宙人が別の次元にいる可能性も!?
+
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250529160000 +0000" stop="20250529183000 +0000">
 		<title>3Bの恋人 第1話~5話 前半一挙</title>
@@ -24684,11 +25208,12 @@ NewJeans、aespa、ZEROBASEONE、JO1、ONEUS、JD1、MCND、tripleS、DXMON、E'
 	</programme>
 	<programme channel="k-world" start="20250527125000 +0000" stop="20250527163000 +0000">
 		<title>WORLD OF STREET WOMAN FIGHTER #1</title>
-		<desc>【5/27(火)よりABEMAにて独占・無料配信】世界各国からダンス実力者たちが集い、国別対抗戦でワールドクラスの"ダンスクルー"を決めるダンスサバイバル番組！
-TWICEモモの姉のHANAや、BTSやKing &amp; Princeなど人気アーティストの振付を担当するRIEHATAの参加に注目！
-MCにはZEROBASEONE ソン・ハンビン、審査員にはJ.Y. Parkらが就任！
-6つのチームがそれぞれ魅力を輝かせる姿に、心震わされること間違いなし！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-33_s1_p2/thumb001.png" />
+		<desc>【5/27(火)よりABEMAにて独占・無料配信】韓国でメガヒットを記録した「Mnet」のダンスサバイバル番組『STREET WOMAN FIGHTER(SWF)』の第3シーズン!
+韓国、ニュージーランド、アメリカ、日本、オーストラリアなどの世界各国からダンス実力者たちが集い、国別対抗戦でワールドクラスの"ダンスクルー"を決めるダンスサバイバル番組!
+TWICEモモの姉のHANAや、BTSやKing &amp; Princeなど人気アーティストの振付を担当するRIEHATAの参加に注目!
+MCにはZEROBASEONE ソン・ハンビン、審査員にはJ.Y. Parkらが就任。
+6つのチームが熾烈なダンスバトルを繰り広げ、それぞれ魅力を輝かせる姿に心震わされること間違いなし!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-69_s20000_p1/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20250527163000 +0000" stop="20250527172000 +0000">
 		<title>弱いヒーロー Class１ #8(終)</title>
@@ -28914,10 +29439,18 @@ EX風林火山vs KONAMI 麻雀格闘倶楽部vsセガサミーフェニックス
 (2)3勝2敗で並んだ場合、3名では該当する直接対決&gt;前期成績(前期リーグ勝星&gt;前期予選勝星)、4名では該当する直接対決、5名では前期成績(前期リーグ勝星&gt;前期予選勝星)で優勝者・残留者を決めます。紅白の優勝者で挑戦者決定戦を行います。王位とその挑戦者決定戦の勝者が、例年7月から9月にかけて七番勝負を行います。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-11_s66_p11/thumb001.png" />
 	</programme>
-	<programme channel="shogi" start="20250531041000 +0000" stop="20250531100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
+	<programme channel="shogi" start="20250531041000 +0000" stop="20250531060000 +0000">
+		<title>【再】2024年度将棋日本シリーズ二回戦第四局 藤井JT杯覇者 対 佐々木七段</title>
+		<desc>「ABEMA」にて全対局生中継する「JTプロ公式戦」は、日本将棋連盟と各地区新聞社主催のもと開催される、公式棋戦です。
+大会への参加資格は前年覇者とタイトルホルダー、賞金ランキング上位者の12名という、トップ棋士のみが参加を許されたトーナメント棋戦です。
+今回は、前回優勝者の藤井聡太JT杯覇者、渡辺明九段、広瀬章人九段、永瀬拓矢九段がシード。
+今年の覇者は一体誰になるのか?約5か月にわたり、全国11地区で開催される本大会。公開対局ならではの緊張感と迫力、持ち時間10分の早差し戦というスピード感で競う「JTプロ公式戦」の全対局を、ぜひ「ABEMA」でお楽しみください。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-22_s70_p8/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20250531060000 +0000" stop="20250531100000 +0000">
+		<title>【再】第18回朝日杯本戦トーナメント 藤井聡太竜王・名人 対 服部慎一郎六段</title>
+		<desc>朝日杯は全棋士、アマチュア10人、女流棋士3人によるトーナメントです。 1次予選から本戦まで全てがトーナメントで、決勝も1番勝負となります。優勝者が獲得する賞金は750万円。1次予選、2次予選、本戦(16名)のトーナメント制で持ち時間は40分となります。 朝日アマ名人、朝日アマ名人戦全国大会ベスト8進出者、学生名人の計10名。女流棋士は主催者推薦3名を選抜。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-183_s180_p303/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250531100000 +0000" stop="20250531170000 +0000">
 		<title>ABEMAトーナメント2025 エントリートーナメント</title>
@@ -28927,6 +29460,11 @@ EX風林火山vs KONAMI 麻雀格闘倶楽部vsセガサミーフェニックス
  
 ※段位は収録当時のものになります</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-9_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20250531170000 +0000" stop="20250601063500 +0000">
+		<title>【再】第82期 名人戦 七番勝負 第4局 藤井聡太名人 対 豊島将之九段</title>
+		<desc>順位戦はフリークラスを除いた棋士をA級からC級2組の5つの組に分けてリーグ戦を行います。A級同率首位の棋士が複数出た場合は同率の棋士全員によるプレーオフとなります。名人とA級優勝者が、例年4月から7月にかけて七番勝負を行います。名人戦とは、将棋界で最も格式と歴史のある「名人」のタイトル称号を懸けて行われる七番勝負。名人戦の予選は順位戦と呼ばれ、A級順位戦の優勝者が挑戦者となります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-2_s82_p25/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250518133000 +0000" stop="20250518223500 +0000">
 		<title>S.LEAGUE 24-25 ショートボード第2戦 DAY1</title>
@@ -31347,7 +31885,7 @@ PRO-WRESTLING LOVE FOREVER .EX FUKUOKA FINAL~TRANS MAGIC~
 今、最高にスリリングな旅がはじまる!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-124_s10_p8/thumb001.png" />
 	</programme>
-	<programme channel="fighting-sports" start="20250527153000 +0000" stop="20250528014500 +0000">
+	<programme channel="fighting-sports" start="20250527153000 +0000" stop="20250528015000 +0000">
 		<title>K-1 WORLD GP JAPAN ~K’FESTA.6~ 2023.3.12</title>
 		<desc>2023年3月12日(日)に国立代々木競技場 第一体育館で開催された「K-1 WORLD GP 2023 ~K’FESTA.6~」をABEMAにて配信!
 
@@ -31369,7 +31907,17 @@ PRO-WRESTLING LOVE FOREVER .EX FUKUOKA FINAL~TRANS MAGIC~
 プレリミナリーファイト第1試合/-64.5kg契約/竜義 vs 上野 空大</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-145_s10_p5/thumb001.png" />
 	</programme>
-	<programme channel="fighting-sports" start="20250528014500 +0000" stop="20250528065000 +0000">
+	<programme channel="fighting-sports" start="20250528015000 +0000" stop="20250528033000 +0000">
+		<title>【再】WWE SMACKDOWN×ABEMA#52</title>
+		<desc>毎週金曜夜(現地)に行われる「SMACKDOWN」をお届け!世界最高エンタメ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s13_p48/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250528033000 +0000" stop="20250528053000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250528053000 +0000" stop="20250528105000 +0000">
 		<title>NOAH WRESTLING LOVE FOREVER 2022.10.30</title>
 		<desc>2000年8月5日にプロレス界の“方舟”となるべく旗揚げしたプロレス団体「NOAH」。
 2022年10月30日に放送された「ABEMA presents 有明凱旋ーTHE RETURNーPRO-WRESTLING LOVE FOREVER . 3 ~TRIUMPH~」の模様を公開!
@@ -31406,17 +31954,6 @@ HAYATAvsニンジャ・マック
 第1試合 6人タッグマッチ
 谷口周平&amp;アレハンドロ&amp;エクストリーム・タイガーvs征矢学&amp;近藤修司&amp;大原はじめ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-11_s210_p5/thumb001.png" />
-	</programme>
-	<programme channel="fighting-sports" start="20250528065000 +0000" stop="20250528082500 +0000">
-		<title>【再】WWE SMACKDOWN×ABEMA#52</title>
-		<desc>毎週金曜夜(現地)に行われる「SMACKDOWN」をお届け!世界最高エンタメ WWE!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s13_p48/thumb001.png" />
-	</programme>
-	<programme channel="fighting-sports" start="20250528082500 +0000" stop="20250528105000 +0000">
-		<title>【再】WWE RAW×ABEMA#43</title>
-		<desc>毎週月曜夜(現地)に行われる「RAW」をお届け!世界最高エンタメ
- WWE!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s13_p39/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250528105000 +0000" stop="20250528112000 +0000">
 		<title>芦澤竜誠と行く ぶらり喧嘩旅 #9</title>
