@@ -132,6 +132,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -16079,7 +16083,7 @@ Xからの卒業に際して、SNS在校生のミキ亜生、ネルソンズ青�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-153_s0_p427/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250528030000 +0000" stop="20250528041500 +0000">
-		<title>ABEMAヒルズ　そのニュース、ゆっくり話そう</title>
+		<title>＃アベヒル　政治家はなぜ失言？/年金底上げ”異例復活”</title>
 		<desc>「そのニュース、ゆっくり話そう」
 大量の情報が通り過ぎていく毎日。ちょっと立ち止まって、そのニュースをゆっくり話したい。番組MCの柴田阿弥、徳永有美が気になる話題を個性豊かな識者らと語り合います。好奇心の赴くままに。そのニュースは、社会を、政治を、経済を、世界を、そして、あなたの生活を、どう変えるのか…？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-52_s0_p1958/thumb001.png" />
@@ -17719,12 +17723,12 @@ Xからの卒業に際して、SNS在校生のミキ亜生、ネルソンズ青�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p34007/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20250528000000 +0000" stop="20250528010000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>"コメ問題"で小泉大臣 vs 野党党首が論戦 衆院農水委</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p34008/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20250528010000 +0000" stop="20250528020000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>第75代横綱｢大の里｣誕生 昇進伝達式</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p34009/thumb001.png" />
 	</programme>
@@ -26375,6 +26379,58 @@ EX風林火山vs KONAMI 麻雀格闘倶楽部vsセガサミーフェニックス
 		<title>第42期鳳凰戦A1リーグ第5節B卓【ABEMAセレクト】</title>
 		<desc>プロ連盟の頂点を決める1年間のリーグ戦。A1リーグは15人、A2リーグは16人で行われ、A1リーグ上位3選手が鳳凰位決定戦に進出となる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p14/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250521030000 +0000" stop="20250521145000 +0000">
+		<title>第50期最高位戦A1リーグ 第5節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p12/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250521145000 +0000" stop="20250522115000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250522115000 +0000" stop="20250522140000 +0000">
+		<title>第3期紅龍戦 予選C卓【延長枠】</title>
+		<desc>2023年に設立された日本プロ麻雀連盟所属のMリーガーによるトーナメント戦
+一発・裏ドラ・赤ドラありのWRC-Rルールで2回戦トーナメントを行い、各卓1位のみが決勝戦に進出する</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-78_s10001_p3/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250522140000 +0000" stop="20250523135000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250523135000 +0000" stop="20250523160000 +0000">
+		<title>第3期紅龍戦予選D卓,決勝【延長枠】</title>
+		<desc>2023年に設立された日本プロ麻雀連盟所属のMリーガーによるトーナメント戦
+一発・裏ドラ・赤ドラありのWRC-Rルールで2回戦トーナメントを行い、各卓1位のみが決勝戦に進出
+決勝は2回戦で優勝者を決める
+2023は内川幸太郎、2024は佐々木寿人が優勝</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-78_s10001_p4/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250523160000 +0000" stop="20250528030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250528030000 +0000" stop="20250528145000 +0000">
+		<title>第50期最高位戦A1リーグ 第5節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p13/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250528145000 +0000" stop="20250604030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250604030000 +0000" stop="20250604145000 +0000">
+		<title>第50期最高位戦A1リーグ 第5節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p14/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250520133400 +0000" stop="20250520224000 +0000">
 		<title>【再】第9期 叡王戦 五番勝負 第3局 藤井聡太叡王 対 伊藤匠七段</title>
