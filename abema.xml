@@ -144,10 +144,6 @@
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
 	</channel>
-	<channel id="world-sports-1">
-		<display-name>SPORTS LIVE1 チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
-	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -1087,21 +1083,13 @@
 	</programme>
 	<programme channel="abema-anime" start="20250528140000 +0000" stop="20250528143000 +0000">
 		<title>華Doll* #8【最新話】</title>
-		<desc>『華人形プロジェクト』のオーディションを受ける少年たち。
-彼らは皆、暗然たる過去を胸に臨んでいた。
+		<desc>Anthosの闇がニュースとなり、好奇の目が彼らに注がれる。
 
-秘密を有していたのは彼らだけではない。
+孤児院出身の秘密をバラされ、更にタイミング悪く
+怪我の悪化が原因で活動自粛となる陽汰。
 
-主催のプロダクションは、合格の条件に、
-完璧なアイドルとして「開花」を促すべく
-人生と引き換えに特殊な「種」を
-体内に埋め込む手術を受ける契約にサインを求める。
-
-拒否する者などいない。
-
-何を代償にしようと、必ず『夢』を叶えてみせる――
-
-果たして、彼らの覚悟は華を咲かせるのか。</desc>
+追いつめられた彼が出した答えとは――。
+5人だけのファンミーティング中、小さな影が一歩踏み出す。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/564-14_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250528143000 +0000" stop="20250528150000 +0000">
@@ -1112,17 +1100,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20250528150000 +0000" stop="20250528153000 +0000">
 		<title>完璧聖女 #9【無料独占・見放題最速】</title>
-		<desc>この世界には、魔物から
-国の守護を担う『聖女』が存在している。
-
-ジルトニア王国で聖女を代々輩出する家系に生まれたフィリアは、
-厳しい教育により「歴代最高」と評される程の実力を身につけ、日々お務めに励んでいた。
-しかし、あまりの隙の無さに「完璧すぎて可愛げがない」と周囲には疎まれ、婚約者の第二王子ユリウスからは婚約破棄されてしまう――。
-
-さらにはお金と資源を対価に聖女不在で苦しむ隣国パルナコルタ王国に売られて、故郷から旅立つことに。
-
-悲惨な待遇を覚悟して隣国へと向かうフィリアだったが、
-そこで待っていたのは予想外の大歓迎で……!?</desc>
+		<desc>ジルトニア王国を守るため、必死に魔物との攻防を続けているミア。
+魔界が迫るにつれ魔物の勢いも増し、次第に追い詰められていく。そんな緊迫した状況にもかかわらずユリウスは国一丸となって戦うためという名目でパーティーの開催を企画していた。危機感を覚えないユリウスたちにミアは決意を固め……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-5_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250528153000 +0000" stop="20250528160000 +0000">
@@ -1145,20 +1124,12 @@
 	</programme>
 	<programme channel="abema-anime" start="20250528163000 +0000" stop="20250528170000 +0000">
 		<title>宇宙人ムームー #8【WEB最速】</title>
-		<desc>遠い宇宙から地球にやってきた猫型異星人・ムームー。
-その目的は、自らの種族が失ったテクノロジーを取り戻すため、地球で家電の技術を学ぶこと。
-主人公・桜子の平凡な大学生活は、ムームーの登場で一変！
-予想外の同居が始まり、次々と起こる騒動に巻き込まれることに。
-ムームーとの化学反応が巻き起こす、
-スーパースペクタクル×家電あれこれ×にゃんコメディ。</desc>
+		<desc>園子の衣類に誤ってコーヒーが掛かり、天空橋はそれを奪うようにして、部室裏のコインランドリーへ。慌てる園子をよそに、天空橋は洗濯を始めるが……。さらに後日、桜子の提案で始まったタコパが、天空橋のコンセント談義に発展？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/189-81_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250528170000 +0000" stop="20250528173000 +0000">
 		<title>愛重ダークエルフ+ミニアニメ #8【最新話】</title>
-		<desc>異世界に転移し、勇者となった春原日向。
-ダークエルフのマリアベル、亜人族のメイ、神官のセシルと共についに魔王を討伐。役目を終えた日向は現世へと帰還を果たし元の生活に戻る、はずだったが……
-それから1カ月、マリアベルが日向の住むマンションにやって来る。目的は日向と結ばれるため!?
-同級生の持田咲良も巻き込んで、ちょっとだけ（？）愛が重いマリアベルとの甘くて刺激的な逆異世界同棲ラブコメが幕を開ける！</desc>
+		<desc>小さい時からアニメやマンガが好きな咲良は、イベントに参加するための同人誌を作っていた。ベルと日向にインスピレーションを受け、剣と魔法のファンタジー漫画の制作が進む。そんな中、日向とベルに「コスプレをして売り子をしてくれないか」とお願いをする咲良。寝る間を惜しんでコスプレの小物や漫画を制作し、いよいよイベント当日を迎えてーー</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/643-9_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250528173000 +0000" stop="20250528180000 +0000">
@@ -1168,17 +1139,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20250528180000 +0000" stop="20250528183000 +0000">
 		<title>完璧聖女 #9・見逃し放送</title>
-		<desc>この世界には、魔物から
-国の守護を担う『聖女』が存在している。
-
-ジルトニア王国で聖女を代々輩出する家系に生まれたフィリアは、
-厳しい教育により「歴代最高」と評される程の実力を身につけ、日々お務めに励んでいた。
-しかし、あまりの隙の無さに「完璧すぎて可愛げがない」と周囲には疎まれ、婚約者の第二王子ユリウスからは婚約破棄されてしまう――。
-
-さらにはお金と資源を対価に聖女不在で苦しむ隣国パルナコルタ王国に売られて、故郷から旅立つことに。
-
-悲惨な待遇を覚悟して隣国へと向かうフィリアだったが、
-そこで待っていたのは予想外の大歓迎で……!?</desc>
+		<desc>ジルトニア王国を守るため、必死に魔物との攻防を続けているミア。
+魔界が迫るにつれ魔物の勢いも増し、次第に追い詰められていく。そんな緊迫した状況にもかかわらずユリウスは国一丸となって戦うためという名目でパーティーの開催を企画していた。危機感を覚えないユリウスたちにミアは決意を固め……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-5_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250528183000 +0000" stop="20250528185500 +0000">
@@ -1225,15 +1187,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20250529123000 +0000" stop="20250529130000 +0000">
 		<title>この恋で鼻血を止めて #9【最新話】</title>
-		<desc>時は未来。
-どこにでもいる平凡な女性のモカは刺激のない退屈な日々を送っていた。
-しかしある日、彼女が働くオフィスがエイリアンの戦いに巻き込まれてしまう。
-モカを助けたスーパー宇宙人のヤーセンだったが、
-彼が捕獲していた心原虫（しんげんちゅう）という寄生虫が誤ってモカに寄生してしまった。
-その虫に寄生された者は「退屈すると死んでしまう」という！
-
-日々死の脅威にさらされるモカと、彼女を救いたい不器用でまっすぐなヒーロー、
-ヤーセンの運命は……！？</desc>
+		<desc>無事に日常生活に戻ってきたモカとヤーセン。しかし、超能力に目覚めたモカはヤーセンとヒーロー活動をする中で、同じことの繰り返しに退屈さを感じ始めていた。そんな時、ヤーセンの兄・ユウが銀河ヒーロー事務所の創立者だと知ったモカは、相当なお金持ちなのではないかと推察する。しかし、財産はすべて郷友会という施設に寄付されていて……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-262_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250529130000 +0000" stop="20250529133000 +0000">
@@ -1253,12 +1207,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20250529141500 +0000" stop="20250529143000 +0000">
 		<title>かくして！ マキナさん!! #8【最新話】</title>
-		<desc>阿久津栄太（あくつ えいた）は、ぼっちで陰キャのメカオタク。
-ある夜、ひとり暮らしのアパートに、超美人で明るい人気者のギャル・我妻マキナ（あがつま まきな）が現れる。
-何やら様子のおかしい彼女が、いきなり裸になってみせると……そこにあったのは、人間とは異なる機械の体だった！
-エッチのために作られながら、アダルト情報にアクセス制限をかけられたAIロボのマキナ。
-エッチなことが大の苦手で、お人好しな童貞の栄太。
-二人のメカバレ厳禁な同居生活が始まる！</desc>
+		<desc>小さくなってしまったマキナは、大きくなったミミカとにらみ合い。栄太を人質に取られているため、うかつに手を出すことができない。自分をメンテナンスしろと、栄太を脅すミミカ。怯える栄太に、マキナは大逆転の秘策を授ける。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/643-11_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250529143000 +0000" stop="20250529150000 +0000">
@@ -1302,13 +1251,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20250529163000 +0000" stop="20250529163300 +0000">
 		<title>SHIBUYA♡HACHI #33【最新話】</title>
-		<desc>渋谷駅前のシンボル“忠犬ハチ公像“として、
-まちを見守り続けて来た“HACHI(ハチ)”が現代の渋谷で動き出す！
-
-ミケ・ナナ・ハリー・クロといった
-渋谷に集まる愉快な仲間たちと繰り広げるユル〜く楽しい日常。
-
-“HACHI(ハチ)”の小さな冒険が、いま始まる！</desc>
+		<desc>公園で仕事をサボっているサラリーマン。キラキラした大きな噴水にはしゃぐハチと一緒に軽く遊ぼうとしたばかりに、、、</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/115-111_s1_p33/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250529163300 +0000" stop="20250529170000 +0000">
@@ -1472,17 +1415,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20250530185800 +0000" stop="20250530193000 +0000">
 		<title>完璧聖女 #9・見逃し放送</title>
-		<desc>この世界には、魔物から
-国の守護を担う『聖女』が存在している。
-
-ジルトニア王国で聖女を代々輩出する家系に生まれたフィリアは、
-厳しい教育により「歴代最高」と評される程の実力を身につけ、日々お務めに励んでいた。
-しかし、あまりの隙の無さに「完璧すぎて可愛げがない」と周囲には疎まれ、婚約者の第二王子ユリウスからは婚約破棄されてしまう――。
-
-さらにはお金と資源を対価に聖女不在で苦しむ隣国パルナコルタ王国に売られて、故郷から旅立つことに。
-
-悲惨な待遇を覚悟して隣国へと向かうフィリアだったが、
-そこで待っていたのは予想外の大歓迎で……!?</desc>
+		<desc>ジルトニア王国を守るため、必死に魔物との攻防を続けているミア。
+魔界が迫るにつれ魔物の勢いも増し、次第に追い詰められていく。そんな緊迫した状況にもかかわらずユリウスは国一丸となって戦うためという名目でパーティーの開催を企画していた。危機感を覚えないユリウスたちにミアは決意を固め……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-5_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250530193000 +0000" stop="20250530200000 +0000">
@@ -1513,17 +1447,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20250530210000 +0000" stop="20250530213000 +0000">
 		<title>完璧聖女 #9・見逃し放送</title>
-		<desc>この世界には、魔物から
-国の守護を担う『聖女』が存在している。
-
-ジルトニア王国で聖女を代々輩出する家系に生まれたフィリアは、
-厳しい教育により「歴代最高」と評される程の実力を身につけ、日々お務めに励んでいた。
-しかし、あまりの隙の無さに「完璧すぎて可愛げがない」と周囲には疎まれ、婚約者の第二王子ユリウスからは婚約破棄されてしまう――。
-
-さらにはお金と資源を対価に聖女不在で苦しむ隣国パルナコルタ王国に売られて、故郷から旅立つことに。
-
-悲惨な待遇を覚悟して隣国へと向かうフィリアだったが、
-そこで待っていたのは予想外の大歓迎で……!?</desc>
+		<desc>ジルトニア王国を守るため、必死に魔物との攻防を続けているミア。
+魔界が迫るにつれ魔物の勢いも増し、次第に追い詰められていく。そんな緊迫した状況にもかかわらずユリウスは国一丸となって戦うためという名目でパーティーの開催を企画していた。危機感を覚えないユリウスたちにミアは決意を固め……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-5_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250530213000 +0000" stop="20250530220000 +0000">
@@ -1757,17 +1682,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20250531200000 +0000" stop="20250531203000 +0000">
 		<title>完璧聖女 #9・見逃し放送</title>
-		<desc>この世界には、魔物から
-国の守護を担う『聖女』が存在している。
-
-ジルトニア王国で聖女を代々輩出する家系に生まれたフィリアは、
-厳しい教育により「歴代最高」と評される程の実力を身につけ、日々お務めに励んでいた。
-しかし、あまりの隙の無さに「完璧すぎて可愛げがない」と周囲には疎まれ、婚約者の第二王子ユリウスからは婚約破棄されてしまう――。
-
-さらにはお金と資源を対価に聖女不在で苦しむ隣国パルナコルタ王国に売られて、故郷から旅立つことに。
-
-悲惨な待遇を覚悟して隣国へと向かうフィリアだったが、
-そこで待っていたのは予想外の大歓迎で……!?</desc>
+		<desc>ジルトニア王国を守るため、必死に魔物との攻防を続けているミア。
+魔界が迫るにつれ魔物の勢いも増し、次第に追い詰められていく。そんな緊迫した状況にもかかわらずユリウスは国一丸となって戦うためという名目でパーティーの開催を企画していた。危機感を覚えないユリウスたちにミアは決意を固め……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-5_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250531203000 +0000" stop="20250531210000 +0000">
@@ -4705,11 +4621,9 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-70_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime-2" start="20250603110000 +0000" stop="20250603170000 +0000">
-		<title>没落予定の貴族だけど、暇だったから魔法を極めてみた #1〜12【無料1週間】</title>
-		<desc>ある日突然、庶民の男はハミルトン伯爵家の五男、リアムの体になっていた。
-リアムとして生活する中で、ハミルトン家は没落寸前であり、五男のリアムはいずれ家を出ることになると知る。
-貴族としてのしがらみのないリアムは、庶民の頃に憧れていた『魔法』を学ぶことに夢中になっていく！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/506-6_s1_p1/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime-2/logo.png" />
 	</programme>
 	<programme channel="isekai-anime-2" start="20250603170000 +0000" stop="20250603225000 +0000">
 		<title>異世界食堂２ #1〜12【無料ビデオ2週間】</title>
@@ -4730,19 +4644,10 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 		<desc>強さゆえの孤独から平凡な生活に憧れた《魔王》ヴァルヴァトスは、数千年後の村人アード・メテオールに転生する。夢は人間と友情の絆を結ぶこと。しかし、10歳を迎えても友達を作るという目的は達成できずにいた。そんな中、森の中で魔物と戦う少女と運命の出会いを果たす。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-70_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime-2" start="20250604050000 +0000" stop="20250604105500 +0000">
-		<title>没落予定の貴族だけど、暇だったから魔法を極めてみた #1〜12【無料1週間】</title>
-		<desc>ある日突然、庶民の男はハミルトン伯爵家の五男、リアムの体になっていた。
-リアムとして生活する中で、ハミルトン家は没落寸前であり、五男のリアムはいずれ家を出ることになると知る。
-貴族としてのしがらみのないリアムは、庶民の頃に憧れていた『魔法』を学ぶことに夢中になっていく！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/506-6_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="isekai-anime-2" start="20250604105500 +0000" stop="20250604165000 +0000">
-		<title>没落予定の貴族だけど、暇だったから魔法を極めてみた #1〜12【無料1週間】</title>
-		<desc>ある日突然、庶民の男はハミルトン伯爵家の五男、リアムの体になっていた。
-リアムとして生活する中で、ハミルトン家は没落寸前であり、五男のリアムはいずれ家を出ることになると知る。
-貴族としてのしがらみのないリアムは、庶民の頃に憧れていた『魔法』を学ぶことに夢中になっていく！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/506-6_s1_p1/thumb001.png" />
+	<programme channel="isekai-anime-2" start="20250604050000 +0000" stop="20250604165000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime-2/logo.png" />
 	</programme>
 	<programme channel="isekai-anime-2" start="20250604165000 +0000" stop="20250604170000 +0000">
 		<title>ポンコツクエスト～魔王と派遣の魔物たち～ #76〜77【無料ビデオ1週間】</title>
@@ -6709,7 +6614,7 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 	</programme>
 	<programme channel="anime-live" start="20250531050000 +0000" stop="20250531080000 +0000">
 		<title>バンドリ！FILM LIVE 2nd Stage + ぽっぴん'どりーむ！</title>
-		<desc>・劇場版「BanG Dream! FILM LIVE 2nd Stage」
+		<desc>▼劇場版「BanG Dream! FILM LIVE 2nd Stage」
 
 バンドリ！劇場ライブアニメーション「BanG Dream! FILM LIVE 2nd Stage」開催決定！
 
@@ -6721,7 +6626,21 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 
 7つのバンドが目指す、「2nd Stage(次のステージ)」は......？
 
-週替わりアンコールのPoppin'Party×Pastel＊Palettes×Morfonica「絆色のアンサンブル」、RAISE A SUILEN×ハロー、ハッピーワールド！「ラスハピーポー！」、Roselia×Afterglow「競宴Red×Violet」も余すことなくお楽しみください。</desc>
+週替わりアンコールのPoppin'Party×Pastel＊Palettes×Morfonica「絆色のアンサンブル」、RAISE A SUILEN×ハロー、ハッピーワールド！「ラスハピーポー！」、Roselia×Afterglow「競宴Red×Violet」も余すことなくお楽しみください。
+
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+
+▼劇場版「BanG Dream! ぽっぴん'どりーむ！」
+
+バンドは...いつだって夢を見させてくれる
+
+武道館ライブを成功させた
+Poppin'Party、Roselia、RAISE A SUILEN。
+
+夢の舞台に立った余韻が残る香澄たちの前に謎の女性が現れる――。
+次のステージは、なんと海外!?
+
+Poppin'Party の音楽(ユメ)は、まだまだ止まらない！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/283-28_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250531080000 +0000" stop="20250531083000 +0000">
@@ -6869,7 +6788,7 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<desc>神崎エルザの歌唱キャストのReoNaさんと、神崎エルザ／ピトフーイ役の日笠陽子さんが現在放送中の『SAOAGGO』第2期や“神崎エルザ”について語るスペシャル対談をお届けするほか、2nd Mini Album「ELZA2」についてや、今年の10月に開催されたライブ「神崎エルザ starring ReoNa × ReoNa Special Live "AVATAR 2024"」についても、ライブの脚本・演出を務めた加東岳史さんを招き、ReoNaさんとともにたっぷりと語ってもらいます。
 また、ミニアルバムに収録されている楽曲「Toxic」と「Oh Unhappy Day」の初披露ライブも。
 さらに、「神崎エルザ starring ReoNa × ReoNa Special Live "AVATAR 2024"」で披露された「Girls Don’t Cry」のライブ映像もフルサイズで初公開いたします。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-769_s1_p1/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p19/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250603100000 +0000" stop="20250603114000 +0000">
 		<title>ReoNa AVATAR &amp; Birth 2024Blu-ray発売記念特番</title>
@@ -6937,7 +6856,19 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<desc>空き家に暮らすアンドロイドのコバルト、クロム、ケイ、ネオン。四人は巨額の借金を返済するためエンターテインメントタワー『バベル』で賞金を得ようとしていた。そんな中、父を亡くした少年・エソラとの出会いによって、四人の特別なプログラムが作動し始める。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/481-9_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="anime-live" start="20250604090000 +0000" stop="20250604130000 +0000">
+	<programme channel="anime-live" start="20250604090000 +0000" stop="20250604125700 +0000">
+		<title>華Doll* #1〜8【無料ビデオ1週間】</title>
+		<desc>オーディションに合格した６名は
+正式デビューを目指して共同生活を始める。
+
+皆、緊張をほぐそうと触れあうが、一人、慣れ合いを拒む者がいた。
+空気は最悪。
+レッスンはミスだらけ、ユニットとしてもまとまらない。
+
+そんな中、プロダクションから厳しい通達が――</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/564-14_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live" start="20250604125700 +0000" stop="20250604130000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
@@ -18971,12 +18902,12 @@ AMEMIYA「今回レベル高いな」誰もまだ見たことのない新たな�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p34032/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20250529010000 +0000" stop="20250529020000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>小泉大臣出席 "コメ問題"などで質疑 参院農水委</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p34033/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20250529020000 +0000" stop="20250529030000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>小泉大臣出席 "コメ問題"などで質疑 参院農水委</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p34034/thumb001.png" />
 	</programme>
@@ -18986,12 +18917,12 @@ AMEMIYA「今回レベル高いな」誰もまだ見たことのない新たな�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p34035/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20250529040000 +0000" stop="20250529050000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>小泉大臣出席 "コメ問題"などで質疑 参院農水委</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p34036/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20250529050000 +0000" stop="20250529060000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>注小泉大臣出席 "コメ問題"などで質疑 参院農水委</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p34037/thumb001.png" />
 	</programme>
@@ -19001,12 +18932,12 @@ AMEMIYA「今回レベル高いな」誰もまだ見たことのない新たな�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p34038/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20250529070000 +0000" stop="20250529080000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>NTTドコモが住信SBIネット銀行を買収へ</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p34039/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20250529080000 +0000" stop="20250529090000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>NTTドコモが住信SBIネット銀行を買収へ</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p34040/thumb001.png" />
 	</programme>
@@ -28859,41 +28790,6 @@ ABEMA SUPER GT アンバサダーを務めた朝日奈央がナレーション�
 2024年8月21日(水) ~ 8月25日(日) 予備日:26日
 茨城県大洗町 磯場ポイント</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s10_p7/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20250529000000 +0000" stop="20250529103000 +0000">
-		<title>〜全英への道〜ミズノオープン　1日目</title>
-		<desc>第54回「~全英への道~ミズノオープン」は、2025年5月29日(木)から6月1日(日)まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名(有資格者を除く)に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10001_p1/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20250529103000 +0000" stop="20250530000000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20250530000000 +0000" stop="20250530103000 +0000">
-		<title>〜全英への道〜ミズノオープン　2日目</title>
-		<desc>第54回「~全英への道~ミズノオープン」は、2025年5月29日(木)から6月1日(日)まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名(有資格者を除く)に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10001_p2/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20250530103000 +0000" stop="20250531000000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20250531000000 +0000" stop="20250531103000 +0000">
-		<title>〜全英への道〜ミズノオープン　3日目</title>
-		<desc>第54回「~全英への道~ミズノオープン」は、2025年5月29日(木)から6月1日(日)まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名(有資格者を除く)に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10001_p3/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20250531103000 +0000" stop="20250601000000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20250601000000 +0000" stop="20250601103000 +0000">
-		<title>〜全英への道〜ミズノオープン　最終日</title>
-		<desc>第54回「~全英への道~ミズノオープン」は、2025年5月29日(木)から6月1日(日)まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名(有資格者を除く)に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10001_p4/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250521083500 +0000" stop="20250521164500 +0000">
 		<title>K-1 WORLD GP JAPAN ~K’FESTA.5~ 2022.4.3</title>
