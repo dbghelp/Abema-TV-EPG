@@ -136,6 +136,10 @@
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
 	</channel>
+	<channel id="world-sports-1">
+		<display-name>SPORTS LIVE1 チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -15090,11 +15094,8 @@ HIPHOPの未来について語るAK-69と般若の熱い対談にも注目！</d
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p655/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250531110000 +0000" stop="20250531113000 +0000">
-		<title>NO MAKE　-あの人を、話したくなる‐</title>
-		<desc>“あの人の素顔は…”
-俳優・タレント・アーティスト・モデルの素顔に密着。
-表舞台に立つ人の、知られざる過去とそれを受け止めた“イマ“に迫ります。
-見れば、きっと…「あの人を、話したくなる」</desc>
+		<title>NO MAKE“目が見えない”コージー冨田モノマネショー密着</title>
+		<desc>糖尿病で「目が見えなくなった」モノマネ芸人 コージー冨田(58) 舞台前にインスリン注射も…タモリや笑福亭鶴瓶など24人のモノマネを披露「俺としては笑ってほしい」視力を失っても舞台に立ち続ける理由とは？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-152_s0_p17/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250531113000 +0000" stop="20250531120000 +0000">
@@ -15160,11 +15161,8 @@ HIPHOPの未来について語るAK-69と般若の熱い対談にも注目！</d
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-75_s0_p988/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250601050000 +0000" stop="20250601053000 +0000">
-		<title>NO MAKE　-あの人を、話したくなる‐　【見逃し配信】</title>
-		<desc>“あの人の素顔は…”
-俳優・タレント・アーティスト・モデルの素顔に密着。
-表舞台に立つ人の、知られざる過去とそれを受け止めた“イマ“に迫ります。
-見れば、きっと…「あの人を、話したくなる」</desc>
+		<title>NO MAKE“目が見えない”コージー冨田モノマネショー密着</title>
+		<desc>糖尿病で「目が見えなくなった」モノマネ芸人 コージー冨田(58) 舞台前にインスリン注射も…タモリや笑福亭鶴瓶など24人のモノマネを披露「俺としては笑ってほしい」視力を失っても舞台に立ち続ける理由とは？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-152_s0_p18/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250601053000 +0000" stop="20250601060000 +0000">
@@ -26415,6 +26413,41 @@ ABEMA SUPER GT アンバサダーを務めた朝日奈央がナレーション�
 2024年8月21日(水) ~ 8月25日(日) 予備日:26日
 茨城県大洗町 磯場ポイント</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s10_p7/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250529000000 +0000" stop="20250529103000 +0000">
+		<title>〜全英への道〜ミズノオープン　1日目</title>
+		<desc>第54回「~全英への道~ミズノオープン」は、2025年5月29日(木)から6月1日(日)まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名(有資格者を除く)に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10001_p1/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250529103000 +0000" stop="20250530000000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250530000000 +0000" stop="20250530103000 +0000">
+		<title>〜全英への道〜ミズノオープン　2日目</title>
+		<desc>第54回「~全英への道~ミズノオープン」は、2025年5月29日(木)から6月1日(日)まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名(有資格者を除く)に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10001_p2/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250530103000 +0000" stop="20250531000000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250531000000 +0000" stop="20250531103000 +0000">
+		<title>〜全英への道〜ミズノオープン　3日目</title>
+		<desc>第54回「~全英への道~ミズノオープン」は、2025年5月29日(木)から6月1日(日)まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名(有資格者を除く)に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10001_p3/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250531103000 +0000" stop="20250601000000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250601000000 +0000" stop="20250601103000 +0000">
+		<title>〜全英への道〜ミズノオープン　最終日</title>
+		<desc>第54回「~全英への道~ミズノオープン」は、2025年5月29日(木)から6月1日(日)まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名(有資格者を除く)に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10001_p4/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250521083500 +0000" stop="20250521164500 +0000">
 		<title>K-1 WORLD GP JAPAN ~K’FESTA.5~ 2022.4.3</title>
