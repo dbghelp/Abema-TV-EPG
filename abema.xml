@@ -44,6 +44,10 @@
 		<display-name>アニメLIVEチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
 	</channel>
+	<channel id="anime-live2">
+		<display-name>アニメLIVEチャンネル2</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</channel>
 	<channel id="atashinchi">
 		<display-name>あたしンちチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png" />
@@ -75,6 +79,10 @@
 	<channel id="90s-anime-1">
 		<display-name>なつかしアニメ90's</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/90s-anime-1/logo.png" />
+	</channel>
+	<channel id="00s-anime-1">
+		<display-name>なつかしアニメ00's</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/00s-anime-1/logo.png" />
 	</channel>
 	<channel id="abema-special">
 		<display-name>ABEMA SPECIALチャンネル</display-name>
@@ -4657,9 +4665,9 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-70_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime-2" start="20250603110000 +0000" stop="20250603170000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime-2/logo.png" />
+		<title>聖女の魔力は万能です #1〜12【無料ビデオ2週間】</title>
+		<desc>小鳥遊聖（タカナシ・セイ）は、ちょっと仕事中毒な20代の会社員。ある夜、残業を終えて帰宅すると突然光に包まれ、異世界の王宮に「聖女」として召喚されてしまう。ところが、現れた王子は同じく召喚されたもう一人の少女に夢中で、放置されたセイは暇を持て余す。そんな時、王宮敷地内で出会った青年・ジュードに案内されたのは薬用植物研究所。元々植物好きで研究所に興味を持ったセイは、そこで研究員として働くことになるが、薬草と魔法を使ったポーション作りで思いがけない能力を発揮することに……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-167_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime-2" start="20250603170000 +0000" stop="20250603225000 +0000">
 		<title>異世界食堂２ #1〜12【無料ビデオ2週間】</title>
@@ -4680,15 +4688,15 @@ bilibili×アニプレックスによる完全オリジナルアニメーショ�
 		<desc>強さゆえの孤独から平凡な生活に憧れた《魔王》ヴァルヴァトスは、数千年後の村人アード・メテオールに転生する。夢は人間と友情の絆を結ぶこと。しかし、10歳を迎えても友達を作るという目的は達成できずにいた。そんな中、森の中で魔物と戦う少女と運命の出会いを果たす。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-70_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime-2" start="20250604050000 +0000" stop="20250604165000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime-2/logo.png" />
+	<programme channel="isekai-anime-2" start="20250604050000 +0000" stop="20250604110000 +0000">
+		<title>聖女の魔力は万能です Season2 #1〜12【無料ビデオ2週間】</title>
+		<desc>聖女として認知されてからも、薬用植物研究所で研究三昧の日々を過ごすセイ。今は新しい化粧品を開発中だが、その効果の高さは侍女たちにも注目されていた。そんなとき、ヨハンはセイに新たな商会を立ち上げることを提案する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-167_s2_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime-2" start="20250604165000 +0000" stop="20250604170000 +0000">
-		<title>ポンコツクエスト～魔王と派遣の魔物たち～ #76〜77【無料ビデオ1週間】</title>
-		<desc>「兄妹」</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/143-1_s0_p76/thumb001.png" />
+	<programme channel="isekai-anime-2" start="20250604110000 +0000" stop="20250604170000 +0000">
+		<title>聖女の魔力は万能です Season2 #1〜12【無料ビデオ2週間】</title>
+		<desc>聖女として認知されてからも、薬用植物研究所で研究三昧の日々を過ごすセイ。今は新しい化粧品を開発中だが、その効果の高さは侍女たちにも注目されていた。そんなとき、ヨハンはセイに新たな商会を立ち上げることを提案する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-167_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime-2" start="20250604170000 +0000" stop="20250604223000 +0000">
 		<title>月が導く異世界道中 #1〜12【無料ビデオ1週間】</title>
@@ -6775,8 +6783,10 @@ Poppin'Party の音楽(ユメ)は、まだまだ止まらない！</desc>
 	</programme>
 	<programme channel="anime-live" start="20250603100000 +0000" stop="20250603114000 +0000">
 		<title>ReoNa AVATAR &amp; Birth 2024Blu-ray発売記念特番</title>
-		<desc>-</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p7/thumb001.png" />
+		<desc>このたび「ABEMA」にて、2025年6月3日（火）夜7時より、特別番組『ReoNa AVATAR &amp; Birth 2024 Blu-ray / DVD発売記念特番 in ABEMA』の独占無料生放送が決定いたしました。
+ReoNaさんの新作リリース前日に恒例でお届けしている「ABEMA」特番。昨年一夜限りで開催されたライブ「神崎エルザ starring ReoNa × ReoNa Special Live AVATAR 2024」および「ReoNa ONE-MAN Concert“Birth 2024”」のBlu-ray &amp; DVD発売を記念した本番組には、ReoNaさんに加え、“AVATAR 2024”の脚本を務めた加東岳史さんをはじめとするReoNa有識者が集結。
+神崎エルザとReoNaさんの“対バン”形式が大きな話題を呼んだ「神崎エルザ starring ReoNa × ReoNa Special Live AVATAR 2024」、ReoNaさんの誕生日に開催された「ReoNa ONE-MAN Concert“Birth 2024”」の2公演について、ライブのこだわりや制作裏話など、ライブ映像を交えながらたっぷりと語ってもらいます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-808_s10000_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250603114000 +0000" stop="20250603120000 +0000">
 		<title>いくだもも！そびー #1〜4【無料ビデオ1週間】</title>
@@ -6942,6 +6952,250 @@ Poppin'Party の音楽(ユメ)は、まだまだ止まらない！</desc>
 		<title>宇宙よりも遠い場所【試し見#1 続きはABEMAビデオへ】</title>
 		<desc>高校に入ったら何かを始めたいと思いながらも、なかなか一歩を踏み出すことのできないまま、高校2年生になってしまった少女・玉木マリ(たまき・まり)ことキマリは、とあることをきっかけに南極を目指す少女・小淵沢報瀬(こぶちざわ・しらせ)と出会う。高校生が南極になんて行けるわけがないと言われても、絶対にあきらめようとしない報瀬の姿に心を動かされたキマリは、報瀬と共に南極を目指すことを誓う。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-229_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250523110000 +0000" stop="20250523140000 +0000">
+		<title>ゴリラの神から加護された令嬢は王立騎士団で可愛がられる #1〜6【無料2週間】</title>
+		<desc>王都の学校に通う気弱な伯爵令嬢ソフィア・リーラーは、加護の式典で戦闘系最強クラスのひとつと呼ばれる『ゴリラの神』を引き当てる。うっかりリンゴを握りつぶしたりドアノブを粉砕したりと力加減に悩まされるソフィアに、王立騎士団から従騎士のスカウトが届き、やむなく候補生試験を受けることに。試験会場へ向かう道中で迷子になり不安でいっぱいのソフィアに道を教えてくれたのは、綺麗な顔立ちの男性で……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-103_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250523140000 +0000" stop="20250524050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250524050000 +0000" stop="20250524080000 +0000">
+		<title>ゴリラの神から加護された令嬢は王立騎士団で可愛がられる #1〜6【無料2週間】</title>
+		<desc>王都の学校に通う気弱な伯爵令嬢ソフィア・リーラーは、加護の式典で戦闘系最強クラスのひとつと呼ばれる『ゴリラの神』を引き当てる。うっかりリンゴを握りつぶしたりドアノブを粉砕したりと力加減に悩まされるソフィアに、王立騎士団から従騎士のスカウトが届き、やむなく候補生試験を受けることに。試験会場へ向かう道中で迷子になり不安でいっぱいのソフィアに道を教えてくれたのは、綺麗な顔立ちの男性で……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-103_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250524080000 +0000" stop="20250524110000 +0000">
+		<title>ゴリラの神から加護された令嬢は王立騎士団で可愛がられる #1〜6【無料2週間】</title>
+		<desc>王都の学校に通う気弱な伯爵令嬢ソフィア・リーラーは、加護の式典で戦闘系最強クラスのひとつと呼ばれる『ゴリラの神』を引き当てる。うっかりリンゴを握りつぶしたりドアノブを粉砕したりと力加減に悩まされるソフィアに、王立騎士団から従騎士のスカウトが届き、やむなく候補生試験を受けることに。試験会場へ向かう道中で迷子になり不安でいっぱいのソフィアに道を教えてくれたのは、綺麗な顔立ちの男性で……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-103_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250524110000 +0000" stop="20250524143000 +0000">
+		<title>黒執事 -緑の魔女編- #1〜7【無料ビデオ1週間】</title>
+		<desc>ドイツで不可解な死亡事件が発生。被害者たちは皆「人狼（ヴェアヴォルフ）の森」に足を踏み入れ、「魔女の呪い」を受けたと言う。
+真相を調査すべく、セバスチャンとシエルは使用人たちと共に「狼の谷（ヴォルフス・シュルト）」を訪れる。
+女性ばかりが暮らすその村で一行が出会ったのは、幼き領主ジークリンデ・サリヴァンだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-239_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250524143000 +0000" stop="20250524150000 +0000">
+		<title>黒執事 -緑の魔女編- #8【地上波同時・単独先行配信】</title>
+		<desc>セバスチャンとシエルにより明らかとなった「狼の谷（ヴォルフス・シュルト）」の正体。
+「緑の魔女」「人狼」「呪い」……その真実を知り、憔悴するサリヴァンに、シエルはある選択を迫る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-239_s1_p19/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250524150000 +0000" stop="20250525030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250525030000 +0000" stop="20250525070000 +0000">
+		<title>黒執事 -緑の魔女編- #1〜8【無料ビデオ1週間】</title>
+		<desc>ドイツで不可解な死亡事件が発生。被害者たちは皆「人狼（ヴェアヴォルフ）の森」に足を踏み入れ、「魔女の呪い」を受けたと言う。
+真相を調査すべく、セバスチャンとシエルは使用人たちと共に「狼の谷（ヴォルフス・シュルト）」を訪れる。
+女性ばかりが暮らすその村で一行が出会ったのは、幼き領主ジークリンデ・サリヴァンだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-239_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250525070000 +0000" stop="20250525110000 +0000">
+		<title>黒執事 -緑の魔女編- #1〜8【無料ビデオ1週間】</title>
+		<desc>ドイツで不可解な死亡事件が発生。被害者たちは皆「人狼（ヴェアヴォルフ）の森」に足を踏み入れ、「魔女の呪い」を受けたと言う。
+真相を調査すべく、セバスチャンとシエルは使用人たちと共に「狼の谷（ヴォルフス・シュルト）」を訪れる。
+女性ばかりが暮らすその村で一行が出会ったのは、幼き領主ジークリンデ・サリヴァンだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-239_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250525110000 +0000" stop="20250525143000 +0000">
+		<title>最強の王様、二度目の人生は何をする？ #1〜7【無料ビデオ1週間】</title>
+		<desc>数々の敵を倒し、富も名声もすべてを手に入れた史上最強の王様・グレイは、ある日突然の死を遂げてしまう。しかし、次に目覚めると、無力な赤子として魔法世界に転生していた。そこではアーサーと名付けられ、愛情あふれる両親のもと“二度目の人生”が始まった──</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-254_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250525143000 +0000" stop="20250526033000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250526033000 +0000" stop="20250526070000 +0000">
+		<title>最強の王様、二度目の人生は何をする？ #1〜7【無料ビデオ1週間】</title>
+		<desc>数々の敵を倒し、富も名声もすべてを手に入れた史上最強の王様・グレイは、ある日突然の死を遂げてしまう。しかし、次に目覚めると、無力な赤子として魔法世界に転生していた。そこではアーサーと名付けられ、愛情あふれる両親のもと“二度目の人生”が始まった──</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-254_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250526070000 +0000" stop="20250526110000 +0000">
+		<title>鬼人幻燈抄 #1〜8【無料ビデオ1週間】</title>
+		<desc>時は天保十一年（1840年）。大飢饉により人心が乱れた世において、鬼が人の姿に化け、戯れに人をたぶらかすようになっていた。江戸の街から遠く離れた山間の集落・葛野（かどの）。この集落に、甚太と鈴音という兄妹が暮らしていた。集落には、「いつきひめ」と呼ばれる巫女がおり、甚太はその「いつきひめ」を守る巫女守で、集落に仇なす怪異を払いのける鬼切役を命じられていた。ある日、近くの森で鬼が二匹出たとの報告があり、討伐のため森に向かった甚太。森で赤黒い皮膚にざんばら髪、二本の角と屈強な体を持つ鬼に遭遇。二匹と聞いていたが、その場にいた鬼は一匹のみ。もう一匹は「葛野の地へ行った」とその鬼は言った…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/169-144_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250526110000 +0000" stop="20250526143000 +0000">
+		<title>履いてください、鷹峰さん #1〜7【無料ビデオ2週間】</title>
+		<desc>スクールカーストの頂点を極める生徒会長・鷹峰さん。冴えない高校生活を送る白田くんは、偶然にも鷹峰さんの生のおっぱいを見てしまう。学園一の美少女のおっぱいのことが気になっていると、今度は鷹峰さんは目の前でテストの返却中に下着を脱ぎ始める。すると、同じようなテスト返却シーンが続き、デジャブのような出来事が…？真相を探るため白田くんは生徒会室へ向かうのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-104_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250526143000 +0000" stop="20250527023000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250527023000 +0000" stop="20250527063000 +0000">
+		<title>鬼人幻燈抄 #1〜8【無料ビデオ1週間】</title>
+		<desc>時は天保十一年（1840年）。大飢饉により人心が乱れた世において、鬼が人の姿に化け、戯れに人をたぶらかすようになっていた。江戸の街から遠く離れた山間の集落・葛野（かどの）。この集落に、甚太と鈴音という兄妹が暮らしていた。集落には、「いつきひめ」と呼ばれる巫女がおり、甚太はその「いつきひめ」を守る巫女守で、集落に仇なす怪異を払いのける鬼切役を命じられていた。ある日、近くの森で鬼が二匹出たとの報告があり、討伐のため森に向かった甚太。森で赤黒い皮膚にざんばら髪、二本の角と屈強な体を持つ鬼に遭遇。二匹と聞いていたが、その場にいた鬼は一匹のみ。もう一匹は「葛野の地へ行った」とその鬼は言った…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/169-144_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250527063000 +0000" stop="20250527100000 +0000">
+		<title>履いてください、鷹峰さん #1〜7【無料ビデオ2週間】</title>
+		<desc>スクールカーストの頂点を極める生徒会長・鷹峰さん。冴えない高校生活を送る白田くんは、偶然にも鷹峰さんの生のおっぱいを見てしまう。学園一の美少女のおっぱいのことが気になっていると、今度は鷹峰さんは目の前でテストの返却中に下着を脱ぎ始める。すると、同じようなテスト返却シーンが続き、デジャブのような出来事が…？真相を探るため白田くんは生徒会室へ向かうのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-104_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250527100000 +0000" stop="20250528110000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250528110000 +0000" stop="20250528143000 +0000">
+		<title>mono #1〜7【無料ビデオ1週間】</title>
+		<desc>高校の写真部員・雨宮さつきは、大好きな部長の卒業により意気消沈していた。
+同じ写真部で親友の霧山アンの激励により、再び部活を頑張る決心をする。
+その矢先、さつきがネットオークションで購入した360°カメラが届かない!?
+さつきとアンは、出品者を訪ねてみることに。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-240_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250528143000 +0000" stop="20250529040000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250529040000 +0000" stop="20250529073000 +0000">
+		<title>mono #1〜7【無料ビデオ1週間】</title>
+		<desc>高校の写真部員・雨宮さつきは、大好きな部長の卒業により意気消沈していた。
+同じ写真部で親友の霧山アンの激励により、再び部活を頑張る決心をする。
+その矢先、さつきがネットオークションで購入した360°カメラが届かない!?
+さつきとアンは、出品者を訪ねてみることに。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-240_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250529073000 +0000" stop="20250529110000 +0000">
+		<title>mono #1〜7【無料ビデオ1週間】</title>
+		<desc>高校の写真部員・雨宮さつきは、大好きな部長の卒業により意気消沈していた。
+同じ写真部で親友の霧山アンの激励により、再び部活を頑張る決心をする。
+その矢先、さつきがネットオークションで購入した360°カメラが届かない!?
+さつきとアンは、出品者を訪ねてみることに。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-240_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250529110000 +0000" stop="20250529143000 +0000">
+		<title>忍者と殺し屋のふたりぐらし #1〜7【無料ビデオ2週間】</title>
+		<desc>「お願いします…何か食べ物を恵んでくれませんか…」
+仲間に流されるまま里を飛び出し抜け忍となってしまったくノ一、草隠さとこ。路地裏で行き倒れた彼女は、通りすがりの女子高生古賀このはに助けられる。しかし一息ついたのもつかの間、さとこに追手の忍者が！絶体絶命のピンチかと思われたその時、あっさりと追手を返り討ちにしたのはまさかのこのはで！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-286_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250529143000 +0000" stop="20250530040000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250530040000 +0000" stop="20250530073000 +0000">
+		<title>忍者と殺し屋のふたりぐらし #1〜7【無料ビデオ2週間】</title>
+		<desc>「お願いします…何か食べ物を恵んでくれませんか…」
+仲間に流されるまま里を飛び出し抜け忍となってしまったくノ一、草隠さとこ。路地裏で行き倒れた彼女は、通りすがりの女子高生古賀このはに助けられる。しかし一息ついたのもつかの間、さとこに追手の忍者が！絶体絶命のピンチかと思われたその時、あっさりと追手を返り討ちにしたのはまさかのこのはで！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-286_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250530073000 +0000" stop="20250530110000 +0000">
+		<title>忍者と殺し屋のふたりぐらし #1〜7【無料ビデオ2週間】</title>
+		<desc>「お願いします…何か食べ物を恵んでくれませんか…」
+仲間に流されるまま里を飛び出し抜け忍となってしまったくノ一、草隠さとこ。路地裏で行き倒れた彼女は、通りすがりの女子高生古賀このはに助けられる。しかし一息ついたのもつかの間、さとこに追手の忍者が！絶体絶命のピンチかと思われたその時、あっさりと追手を返り討ちにしたのはまさかのこのはで！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-286_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250530110000 +0000" stop="20250530143000 +0000">
+		<title>日々は過ぎれど飯うまし #1〜7【無料ビデオ1週間】</title>
+		<desc>一人暮らしを始めた大学一年生の河合まこ。趣味の料理で毎日自炊をしながら、大学生活を送っていた。そんなある日、すごい剣幕でまこに近寄ってきたのは小川しのん。小学校の幼馴染が同じ大学へ通っていたのだ。しのんと一緒にいたのは、比嘉つつじと古舘くれあ。三人は新たに作るサークル「食文化研究部」の仲間としてまこを誘う。突然の幼馴染との再会とサークル入部への誘いに戸惑い、思わず断ってしまうまこ。後日、落ち込みながらとある店のショーケースを眺めていると、エプロン姿のくれあが声をかけてくる。この店は、くれあの母親の経営でくれあはバイトとして手伝いをしていた。一人で外食が出来なかったまこだったが、ずっと食べてみたいと思っていたソースかつ丼がテーブルに運ばれてくると思わずゴクリと唾を飲み込み……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-243_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250530143000 +0000" stop="20250531040000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250531040000 +0000" stop="20250531073000 +0000">
+		<title>日々は過ぎれど飯うまし #1〜7【無料ビデオ1週間】</title>
+		<desc>一人暮らしを始めた大学一年生の河合まこ。趣味の料理で毎日自炊をしながら、大学生活を送っていた。そんなある日、すごい剣幕でまこに近寄ってきたのは小川しのん。小学校の幼馴染が同じ大学へ通っていたのだ。しのんと一緒にいたのは、比嘉つつじと古舘くれあ。三人は新たに作るサークル「食文化研究部」の仲間としてまこを誘う。突然の幼馴染との再会とサークル入部への誘いに戸惑い、思わず断ってしまうまこ。後日、落ち込みながらとある店のショーケースを眺めていると、エプロン姿のくれあが声をかけてくる。この店は、くれあの母親の経営でくれあはバイトとして手伝いをしていた。一人で外食が出来なかったまこだったが、ずっと食べてみたいと思っていたソースかつ丼がテーブルに運ばれてくると思わずゴクリと唾を飲み込み……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-243_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250531073000 +0000" stop="20250531110000 +0000">
+		<title>日々は過ぎれど飯うまし #1〜7【無料ビデオ1週間】</title>
+		<desc>一人暮らしを始めた大学一年生の河合まこ。趣味の料理で毎日自炊をしながら、大学生活を送っていた。そんなある日、すごい剣幕でまこに近寄ってきたのは小川しのん。小学校の幼馴染が同じ大学へ通っていたのだ。しのんと一緒にいたのは、比嘉つつじと古舘くれあ。三人は新たに作るサークル「食文化研究部」の仲間としてまこを誘う。突然の幼馴染との再会とサークル入部への誘いに戸惑い、思わず断ってしまうまこ。後日、落ち込みながらとある店のショーケースを眺めていると、エプロン姿のくれあが声をかけてくる。この店は、くれあの母親の経営でくれあはバイトとして手伝いをしていた。一人で外食が出来なかったまこだったが、ずっと食べてみたいと思っていたソースかつ丼がテーブルに運ばれてくると思わずゴクリと唾を飲み込み……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-243_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250531110000 +0000" stop="20250531150000 +0000">
+		<title>ゴリラの神から加護された令嬢は王立騎士団で可愛がられる #1〜8【無料2週間】</title>
+		<desc>王都の学校に通う気弱な伯爵令嬢ソフィア・リーラーは、加護の式典で戦闘系最強クラスのひとつと呼ばれる『ゴリラの神』を引き当てる。うっかりリンゴを握りつぶしたりドアノブを粉砕したりと力加減に悩まされるソフィアに、王立騎士団から従騎士のスカウトが届き、やむなく候補生試験を受けることに。試験会場へ向かう道中で迷子になり不安でいっぱいのソフィアに道を教えてくれたのは、綺麗な顔立ちの男性で……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-103_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250531150000 +0000" stop="20250601030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250601030000 +0000" stop="20250601070000 +0000">
+		<title>ゴリラの神から加護された令嬢は王立騎士団で可愛がられる #1〜8【無料2週間】</title>
+		<desc>王都の学校に通う気弱な伯爵令嬢ソフィア・リーラーは、加護の式典で戦闘系最強クラスのひとつと呼ばれる『ゴリラの神』を引き当てる。うっかりリンゴを握りつぶしたりドアノブを粉砕したりと力加減に悩まされるソフィアに、王立騎士団から従騎士のスカウトが届き、やむなく候補生試験を受けることに。試験会場へ向かう道中で迷子になり不安でいっぱいのソフィアに道を教えてくれたのは、綺麗な顔立ちの男性で……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-103_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250601070000 +0000" stop="20250601110000 +0000">
+		<title>ゴリラの神から加護された令嬢は王立騎士団で可愛がられる #1〜8【無料2週間】</title>
+		<desc>王都の学校に通う気弱な伯爵令嬢ソフィア・リーラーは、加護の式典で戦闘系最強クラスのひとつと呼ばれる『ゴリラの神』を引き当てる。うっかりリンゴを握りつぶしたりドアノブを粉砕したりと力加減に悩まされるソフィアに、王立騎士団から従騎士のスカウトが届き、やむなく候補生試験を受けることに。試験会場へ向かう道中で迷子になり不安でいっぱいのソフィアに道を教えてくれたのは、綺麗な顔立ちの男性で……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-103_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250601110000 +0000" stop="20250601150000 +0000">
+		<title>Summer Pockets #1〜8【無料ビデオ1週間】</title>
+		<desc>豊かな自然に囲まれた、小さな島――鳥白島。高校生の鷹原羽依里は、母方の叔母にあたる岬鏡子に誘われ、夏休みの間、祖母の遺品整理を手伝うことになっていた。「さしずめ俺は、傷ついた渡り鳥か……」木陰で無防備に寝る少女や、上半身裸で堂々と道を歩く少年、親戚にあたるという加藤うみなど、羽依里は鳥白島で様々な人たちと出会っていく。そんな中、誰もいない夜のプールで泳ぐ不思議な少女、鳴瀬しろはを目撃して……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-199_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250601150000 +0000" stop="20250602030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250602030000 +0000" stop="20250602070000 +0000">
+		<title>Summer Pockets #1〜8【無料ビデオ1週間】</title>
+		<desc>豊かな自然に囲まれた、小さな島――鳥白島。高校生の鷹原羽依里は、母方の叔母にあたる岬鏡子に誘われ、夏休みの間、祖母の遺品整理を手伝うことになっていた。「さしずめ俺は、傷ついた渡り鳥か……」木陰で無防備に寝る少女や、上半身裸で堂々と道を歩く少年、親戚にあたるという加藤うみなど、羽依里は鳥白島で様々な人たちと出会っていく。そんな中、誰もいない夜のプールで泳ぐ不思議な少女、鳴瀬しろはを目撃して……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-199_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250602070000 +0000" stop="20250602110000 +0000">
+		<title>Summer Pockets #1〜8【無料ビデオ1週間】</title>
+		<desc>豊かな自然に囲まれた、小さな島――鳥白島。高校生の鷹原羽依里は、母方の叔母にあたる岬鏡子に誘われ、夏休みの間、祖母の遺品整理を手伝うことになっていた。「さしずめ俺は、傷ついた渡り鳥か……」木陰で無防備に寝る少女や、上半身裸で堂々と道を歩く少年、親戚にあたるという加藤うみなど、羽依里は鳥白島で様々な人たちと出会っていく。そんな中、誰もいない夜のプールで泳ぐ不思議な少女、鳴瀬しろはを目撃して……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-199_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250602110000 +0000" stop="20250602153000 +0000">
+		<title>最強の王様、二度目の人生は何をする？ #1〜9【無料ビデオ1週間】</title>
+		<desc>史上最強の王様・グレイ。比類のない力・富・名声すべてを持つ一方、冷酷無情な彼に寄り添う者はおらず、彼もまた信頼できる者は誰一人いなかった──。
+
+ある日、グレイ王は突然の死を遂げてしまい、無力な赤子・アーサーとして魔法世界に転生してしまう。
+そこでは自身を愛してくれる家族や仲間に囲まれ、再び赤子から成長していく日々に、前世とは異なる喜びを覚えていくアーサー。そんな時、旅の途中で家族が盗賊に襲われてしまい……。
+
+愛と冒険に満ちた“二度目の人生”が始まる──！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p81/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250602153000 +0000" stop="20250603020000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250603020000 +0000" stop="20250603063000 +0000">
+		<title>最強の王様、二度目の人生は何をする？ #1〜9【無料ビデオ1週間】</title>
+		<desc>史上最強の王様・グレイ。比類のない力・富・名声すべてを持つ一方、冷酷無情な彼に寄り添う者はおらず、彼もまた信頼できる者は誰一人いなかった──。
+
+ある日、グレイ王は突然の死を遂げてしまい、無力な赤子・アーサーとして魔法世界に転生してしまう。
+そこでは自身を愛してくれる家族や仲間に囲まれ、再び赤子から成長していく日々に、前世とは異なる喜びを覚えていくアーサー。そんな時、旅の途中で家族が盗賊に襲われてしまい……。
+
+愛と冒険に満ちた“二度目の人生”が始まる──！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p81/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20250603063000 +0000" stop="20250603110000 +0000">
+		<title>最強の王様、二度目の人生は何をする？ #1〜9【無料ビデオ1週間】</title>
+		<desc>史上最強の王様・グレイ。比類のない力・富・名声すべてを持つ一方、冷酷無情な彼に寄り添う者はおらず、彼もまた信頼できる者は誰一人いなかった──。
+
+ある日、グレイ王は突然の死を遂げてしまい、無力な赤子・アーサーとして魔法世界に転生してしまう。
+そこでは自身を愛してくれる家族や仲間に囲まれ、再び赤子から成長していく日々に、前世とは異なる喜びを覚えていくアーサー。そんな時、旅の途中で家族が盗賊に襲われてしまい……。
+
+愛と冒険に満ちた“二度目の人生”が始まる──！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p81/thumb001.png" />
 	</programme>
 	<programme channel="atashinchi" start="20250522110000 +0000" stop="20250522190000 +0000">
 		<title>あたしンち #97〜148【無料ビデオ1週間】</title>
@@ -10399,6 +10653,512 @@ Poppin'Party の音楽(ユメ)は、まだまだ止まらない！</desc>
 		<title>クッキングパパ #90〜93【無料ビデオ1週間】</title>
 		<desc>今日は学校で月に一度のお弁当の日、エッちゃんが凄いお弁当を作ってきた。自分で作ったって言うけど？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-3_s1_p88/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250523030000 +0000" stop="20250523080000 +0000">
+		<title>銀魂’ #202〜211【無料ビデオ1週間】</title>
+		<desc>祝放送再開！ 決意を新たに一年ぶりの万事屋に出社する新八。しかし、そこには見慣れぬ謎の男とグラマラスな大人な女性…。まるで別人に変貌した銀時と神楽だった。己の知らぬ間にここでは二年の月日が経っていると知り新八は困惑する。自分だけが変われず皆に置いてかれていることに愕然とし、道場へ戻り落ち込む新八にさらに追い討ちをかけるような事態が起こっていた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250523080000 +0000" stop="20250523130000 +0000">
+		<title>銀魂’ #202〜211【無料ビデオ1週間】</title>
+		<desc>祝放送再開！ 決意を新たに一年ぶりの万事屋に出社する新八。しかし、そこには見慣れぬ謎の男とグラマラスな大人な女性…。まるで別人に変貌した銀時と神楽だった。己の知らぬ間にここでは二年の月日が経っていると知り新八は困惑する。自分だけが変われず皆に置いてかれていることに愕然とし、道場へ戻り落ち込む新八にさらに追い討ちをかけるような事態が起こっていた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250523130000 +0000" stop="20250523180000 +0000">
+		<title>銀魂’ #202〜211【無料ビデオ1週間】</title>
+		<desc>祝放送再開！ 決意を新たに一年ぶりの万事屋に出社する新八。しかし、そこには見慣れぬ謎の男とグラマラスな大人な女性…。まるで別人に変貌した銀時と神楽だった。己の知らぬ間にここでは二年の月日が経っていると知り新八は困惑する。自分だけが変われず皆に置いてかれていることに愕然とし、道場へ戻り落ち込む新八にさらに追い討ちをかけるような事態が起こっていた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250523180000 +0000" stop="20250523190000 +0000">
+		<title>流星のロックマン #29〜34【無料ビデオ1週間】</title>
+		<desc>電波ウィルスに襲われ壊滅状態の町で、スバルはウォーロックと再会する。ロックマンに変身したスバルはサテライト管理局を制圧したキグナス・ウイングの元へ駆けつける。キグナス・ウィングは、電波変換体となったFM星人達と共にロックマンを待ち構えていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s1_p29/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250523190000 +0000" stop="20250523200000 +0000">
+		<title>流星のロックマン #29〜34【無料ビデオ1週間】</title>
+		<desc>電波ウィルスに襲われ壊滅状態の町で、スバルはウォーロックと再会する。ロックマンに変身したスバルはサテライト管理局を制圧したキグナス・ウイングの元へ駆けつける。キグナス・ウィングは、電波変換体となったFM星人達と共にロックマンを待ち構えていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s1_p29/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250523200000 +0000" stop="20250523233000 +0000">
+		<title>頭文字[イニシャル]D First Stage #1～7【無料ビデオ72時間】</title>
+		<desc>北関東の一角に位置する秋名山はこの地を拠点とする走り屋グループ「秋名スピードスターズ」のホームである。リーダーの池谷は「俺たちが秋名最速だ!」と豪語し、夜ごと走りを楽しんでいた。だがある夜、赤城山で名の知れたグルーブ「赤城レッドサンズ」が出現。次の土曜日に交流会とは名ばかりのダウンヒル・バトルをすることになってしまった。レッドサンズのNo.2 高橋啓介は池谷たちを格下と見なし、既に勝利したつもりでいたが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250523233000 +0000" stop="20250524033000 +0000">
+		<title>銀魂’ #212〜219【無料ビデオ1週間】</title>
+		<desc>次郎長をかぶき町に妄執させていたお登勢が消え満足する平子。彼女がいなくなり四天王勢力の均衡が崩れた今、かぶき町では戦争が始まろうとしていた。一方、お登勢の安否を見守る万事屋一行のもとへ西郷が現れ、自分たちの店が四天王勢力によって打ち壊される事を告げられる。居場所を奪われる彼らに、この町を去るように促すが…。そしてスナックお登勢の立ち退きの日がやってきた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p11/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250524033000 +0000" stop="20250524040000 +0000">
+		<title>流星のロックマン #32〜34【無料ビデオ1週間】</title>
+		<desc>FM星人達はFM星へ帰ろうと通信を試みるが、母星からの応答はなく意気消沈。一方、アンドロメダの鍵はなぜかキャンサーの手に渡っていた。これさえあれば地球抹殺の任務を遂行できると意気込むFM星人達だったが･･･</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s1_p32/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250524040000 +0000" stop="20250524073000 +0000">
+		<title>頭文字[イニシャル]D First Stage #1～7【無料ビデオ72時間】</title>
+		<desc>北関東の一角に位置する秋名山はこの地を拠点とする走り屋グループ「秋名スピードスターズ」のホームである。リーダーの池谷は「俺たちが秋名最速だ!」と豪語し、夜ごと走りを楽しんでいた。だがある夜、赤城山で名の知れたグルーブ「赤城レッドサンズ」が出現。次の土曜日に交流会とは名ばかりのダウンヒル・バトルをすることになってしまった。レッドサンズのNo.2 高橋啓介は池谷たちを格下と見なし、既に勝利したつもりでいたが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250524073000 +0000" stop="20250524113000 +0000">
+		<title>銀魂’ #212〜219【無料ビデオ1週間】</title>
+		<desc>次郎長をかぶき町に妄執させていたお登勢が消え満足する平子。彼女がいなくなり四天王勢力の均衡が崩れた今、かぶき町では戦争が始まろうとしていた。一方、お登勢の安否を見守る万事屋一行のもとへ西郷が現れ、自分たちの店が四天王勢力によって打ち壊される事を告げられる。居場所を奪われる彼らに、この町を去るように促すが…。そしてスナックお登勢の立ち退きの日がやってきた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p11/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250524113000 +0000" stop="20250524150000 +0000">
+		<title>頭文字[イニシャル]D First Stage #1～7【無料ビデオ72時間】</title>
+		<desc>北関東の一角に位置する秋名山はこの地を拠点とする走り屋グループ「秋名スピードスターズ」のホームである。リーダーの池谷は「俺たちが秋名最速だ!」と豪語し、夜ごと走りを楽しんでいた。だがある夜、赤城山で名の知れたグルーブ「赤城レッドサンズ」が出現。次の土曜日に交流会とは名ばかりのダウンヒル・バトルをすることになってしまった。レッドサンズのNo.2 高橋啓介は池谷たちを格下と見なし、既に勝利したつもりでいたが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250524150000 +0000" stop="20250524190000 +0000">
+		<title>銀魂’ #212〜219【無料ビデオ1週間】</title>
+		<desc>次郎長をかぶき町に妄執させていたお登勢が消え満足する平子。彼女がいなくなり四天王勢力の均衡が崩れた今、かぶき町では戦争が始まろうとしていた。一方、お登勢の安否を見守る万事屋一行のもとへ西郷が現れ、自分たちの店が四天王勢力によって打ち壊される事を告げられる。居場所を奪われる彼らに、この町を去るように促すが…。そしてスナックお登勢の立ち退きの日がやってきた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p11/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250524190000 +0000" stop="20250524200000 +0000">
+		<title>流星のロックマン #35〜40【無料ビデオ1週間】</title>
+		<desc>キザマロはルナとゴン太に気を使い、スバルにも二人の恋路の邪魔をしないよう指導する。が、スバルはキザマロが見たルナとゴン太はオヒュカスとオックスなのではと疑う。一方、二人のことが気になって仕方がないキザマロはゴン太達の後をつけ始めた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s1_p35/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250524200000 +0000" stop="20250524233000 +0000">
+		<title>頭文字[イニシャル]D First Stage #8～14【無料ビデオ72時間】</title>
+		<desc>バトル当日、秋名山の頂上には大勢のギャラリーが詰めかけ、スタート時刻を待ち焦がれていた。だがいくら待ってもハチロクが姿を現さない。業を煮やして迎えに行った池谷たちは、拓海の口から衝撃の事実を聞かされた。文太がハチロクに乗って出かけたまま、まだ帰って来ていないというのだ。マシンがなければバトルどころではない。それでも約束の時間ギリギリのところで文太は帰宅。拓海はハチロクに乗り込み、秋名山へと急ぐ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250524233000 +0000" stop="20250525033000 +0000">
+		<title>銀魂’ #220〜227【無料ビデオ1週間】</title>
+		<desc>屁怒絽一家と銭湯ではち合わせしてしまった銀時たち。一家は地球侵略をするに違いない！と恐れ、何としてでも風呂場から脱出したい彼らはちびっこ風呂に逃げこむが、実は荼吉尼族は熱いお湯が苦手！ 結局一緒の風呂に入ることに。行き場を失った銀時たちは、無事風呂場から脱出できるのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p19/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250525033000 +0000" stop="20250525040000 +0000">
+		<title>流星のロックマン #38〜40【無料ビデオ1週間】</title>
+		<desc>巷ではトランサーやウェーブスキャナーの中で育てる電波ペットが流行中。一方、ウルフは他のFM星人達と大ゲンカの末、アジトを飛び出し五陽田に追われる羽目に。手近な人間の持っていたウェーブスキャナーの中に潜伏するウルフだが･･･</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s1_p38/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250525040000 +0000" stop="20250525073000 +0000">
+		<title>頭文字[イニシャル]D First Stage #8～14【無料ビデオ72時間】</title>
+		<desc>バトル当日、秋名山の頂上には大勢のギャラリーが詰めかけ、スタート時刻を待ち焦がれていた。だがいくら待ってもハチロクが姿を現さない。業を煮やして迎えに行った池谷たちは、拓海の口から衝撃の事実を聞かされた。文太がハチロクに乗って出かけたまま、まだ帰って来ていないというのだ。マシンがなければバトルどころではない。それでも約束の時間ギリギリのところで文太は帰宅。拓海はハチロクに乗り込み、秋名山へと急ぐ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250525073000 +0000" stop="20250525113000 +0000">
+		<title>銀魂’ #220〜227【無料ビデオ1週間】</title>
+		<desc>屁怒絽一家と銭湯ではち合わせしてしまった銀時たち。一家は地球侵略をするに違いない！と恐れ、何としてでも風呂場から脱出したい彼らはちびっこ風呂に逃げこむが、実は荼吉尼族は熱いお湯が苦手！ 結局一緒の風呂に入ることに。行き場を失った銀時たちは、無事風呂場から脱出できるのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p19/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250525113000 +0000" stop="20250525150000 +0000">
+		<title>頭文字[イニシャル]D First Stage #8～14【無料ビデオ72時間】</title>
+		<desc>バトル当日、秋名山の頂上には大勢のギャラリーが詰めかけ、スタート時刻を待ち焦がれていた。だがいくら待ってもハチロクが姿を現さない。業を煮やして迎えに行った池谷たちは、拓海の口から衝撃の事実を聞かされた。文太がハチロクに乗って出かけたまま、まだ帰って来ていないというのだ。マシンがなければバトルどころではない。それでも約束の時間ギリギリのところで文太は帰宅。拓海はハチロクに乗り込み、秋名山へと急ぐ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250525150000 +0000" stop="20250525190000 +0000">
+		<title>銀魂’ #220〜227【無料ビデオ1週間】</title>
+		<desc>屁怒絽一家と銭湯ではち合わせしてしまった銀時たち。一家は地球侵略をするに違いない！と恐れ、何としてでも風呂場から脱出したい彼らはちびっこ風呂に逃げこむが、実は荼吉尼族は熱いお湯が苦手！ 結局一緒の風呂に入ることに。行き場を失った銀時たちは、無事風呂場から脱出できるのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p19/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250525190000 +0000" stop="20250525200000 +0000">
+		<title>流星のロックマン #41〜45【無料ビデオ1週間】</title>
+		<desc>ルナの怒りをマイナスエネルギーに変換できると確信したキャンサーは、怒りをさらに増幅させるため、ミソラが出演しているテレビドラマを参考にしてある作戦を企てる。一方ハープ･ノートは、目の前に頻繁に現れるキャンサー・バブルにうんざりしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s1_p41/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250525200000 +0000" stop="20250525230000 +0000">
+		<title>頭文字[イニシャル]D First Stage#15～20【無料ビデオ72時間】</title>
+		<desc>スピンから立ち直った拓海の中で何かがキレた。「むかついた、わざとやりやがったな」。縁石に乗り上げ、ガードレールにリアをぶつけながらも疾走する拓海は、5連ヘアピンでEG-6を猛追。溝を使ったインベタ抜きで先頭に立つ。一方、勝負を仕掛けた手前、負けられない慎吾は最後の手段としてダブルクラッシュを画策。ハチロクにEG-6をぶつけようとする。突如、ライン変更して真横から迫るEG-6を、さすがのハチロクもよけきれないと思われたが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250525230000 +0000" stop="20250526033000 +0000">
+		<title>銀魂’ #228〜236【無料ビデオ1週間】</title>
+		<desc>お妙に真剣交際をしている恋人を紹介する新八…。しかし、彼女の正体は大流行恋愛ゲーム「愛チョリス」のキャラクター、百々（もも）さん。今、江戸中で新八のようにゲームと現実を区別できない男子たちが急増中なのだった。お妙から新八を現実世界へ戻してほしいと頼まれた銀時。唯一の手段は彼と同じ愛チョリスの世界へ入り説得することだが、銀時が選ぶことになった彼女は何だか訳アリの強烈キャラで…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p27/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250526033000 +0000" stop="20250526040000 +0000">
+		<title>流星のロックマン #43〜45【無料ビデオ1週間】</title>
+		<desc>宇田海の発明品・電波ウィルス誘引装置が誤作動し、アマケン内に電波ウィルスが大量発生してしまう。スバルはロックマンに変身して戦うがあまりの数の多さに大苦戦。装置に目をつけたキャンサーはそれを使えば地球人を滅ぼせると考え、アマケンに乗り込んできた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s1_p43/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250526040000 +0000" stop="20250526070000 +0000">
+		<title>頭文字[イニシャル]D First Stage#15～20【無料ビデオ72時間】</title>
+		<desc>スピンから立ち直った拓海の中で何かがキレた。「むかついた、わざとやりやがったな」。縁石に乗り上げ、ガードレールにリアをぶつけながらも疾走する拓海は、5連ヘアピンでEG-6を猛追。溝を使ったインベタ抜きで先頭に立つ。一方、勝負を仕掛けた手前、負けられない慎吾は最後の手段としてダブルクラッシュを画策。ハチロクにEG-6をぶつけようとする。突如、ライン変更して真横から迫るEG-6を、さすがのハチロクもよけきれないと思われたが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250526070000 +0000" stop="20250526113000 +0000">
+		<title>銀魂’ #228〜236【無料ビデオ1週間】</title>
+		<desc>お妙に真剣交際をしている恋人を紹介する新八…。しかし、彼女の正体は大流行恋愛ゲーム「愛チョリス」のキャラクター、百々（もも）さん。今、江戸中で新八のようにゲームと現実を区別できない男子たちが急増中なのだった。お妙から新八を現実世界へ戻してほしいと頼まれた銀時。唯一の手段は彼と同じ愛チョリスの世界へ入り説得することだが、銀時が選ぶことになった彼女は何だか訳アリの強烈キャラで…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p27/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250526113000 +0000" stop="20250526143000 +0000">
+		<title>頭文字[イニシャル]D First Stage#15～20【無料ビデオ72時間】</title>
+		<desc>スピンから立ち直った拓海の中で何かがキレた。「むかついた、わざとやりやがったな」。縁石に乗り上げ、ガードレールにリアをぶつけながらも疾走する拓海は、5連ヘアピンでEG-6を猛追。溝を使ったインベタ抜きで先頭に立つ。一方、勝負を仕掛けた手前、負けられない慎吾は最後の手段としてダブルクラッシュを画策。ハチロクにEG-6をぶつけようとする。突如、ライン変更して真横から迫るEG-6を、さすがのハチロクもよけきれないと思われたが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250526143000 +0000" stop="20250526190000 +0000">
+		<title>銀魂’ #228〜236【無料ビデオ1週間】</title>
+		<desc>お妙に真剣交際をしている恋人を紹介する新八…。しかし、彼女の正体は大流行恋愛ゲーム「愛チョリス」のキャラクター、百々（もも）さん。今、江戸中で新八のようにゲームと現実を区別できない男子たちが急増中なのだった。お妙から新八を現実世界へ戻してほしいと頼まれた銀時。唯一の手段は彼と同じ愛チョリスの世界へ入り説得することだが、銀時が選ぶことになった彼女は何だか訳アリの強烈キャラで…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p27/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250526190000 +0000" stop="20250526223000 +0000">
+		<title>銀魂’ #237〜243【無料ビデオ1週間】</title>
+		<desc>松平のはからいで、半ば強制的に慰安旅行でスキー場へ向かうことになった真選組一行。思い切り羽を広げて来いと送り出されたはずが、将軍の初スノーボードの護衛にあたることになってしまう。自分たちの首がかかってるため必死に護衛にあたる真選組だったが、ゲレンデに見覚えのある顔が…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p36/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250526223000 +0000" stop="20250527013000 +0000">
+		<title>頭文字[イニシャル]D First Stage#21～26【無料ビデオ72時間】</title>
+		<desc>「秋名のハチロク」の走りがギャラリーを沸かせた夏も終わり、拓海は学校とバイトのかけもちで忙しい日々を送っていた。そんなある日、拓海のバイト先に真赤な薔薇の花束とメッセージカードが届けられる。送り主は高橋涼介、そしてメッセージの内容は「9月15日 午後10時 秋名山頂上」。それは紛れもなく挑戦状だった。走り屋のスーパースターとして名高い涼介が拓海をターゲットに入れ、真正面からダウンヒル・バトルを挑んできたのだ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s1_p21/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527013000 +0000" stop="20250527050000 +0000">
+		<title>銀魂’ #237〜243【無料ビデオ1週間】</title>
+		<desc>松平のはからいで、半ば強制的に慰安旅行でスキー場へ向かうことになった真選組一行。思い切り羽を広げて来いと送り出されたはずが、将軍の初スノーボードの護衛にあたることになってしまう。自分たちの首がかかってるため必死に護衛にあたる真選組だったが、ゲレンデに見覚えのある顔が…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p36/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527050000 +0000" stop="20250527080000 +0000">
+		<title>頭文字[イニシャル]D First Stage#21～26【無料ビデオ72時間】</title>
+		<desc>「秋名のハチロク」の走りがギャラリーを沸かせた夏も終わり、拓海は学校とバイトのかけもちで忙しい日々を送っていた。そんなある日、拓海のバイト先に真赤な薔薇の花束とメッセージカードが届けられる。送り主は高橋涼介、そしてメッセージの内容は「9月15日 午後10時 秋名山頂上」。それは紛れもなく挑戦状だった。走り屋のスーパースターとして名高い涼介が拓海をターゲットに入れ、真正面からダウンヒル・バトルを挑んできたのだ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s1_p21/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527080000 +0000" stop="20250527113000 +0000">
+		<title>銀魂’ #237〜243【無料ビデオ1週間】</title>
+		<desc>松平のはからいで、半ば強制的に慰安旅行でスキー場へ向かうことになった真選組一行。思い切り羽を広げて来いと送り出されたはずが、将軍の初スノーボードの護衛にあたることになってしまう。自分たちの首がかかってるため必死に護衛にあたる真選組だったが、ゲレンデに見覚えのある顔が…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p36/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527113000 +0000" stop="20250527143000 +0000">
+		<title>頭文字[イニシャル]D First Stage#21～26【無料ビデオ72時間】</title>
+		<desc>「秋名のハチロク」の走りがギャラリーを沸かせた夏も終わり、拓海は学校とバイトのかけもちで忙しい日々を送っていた。そんなある日、拓海のバイト先に真赤な薔薇の花束とメッセージカードが届けられる。送り主は高橋涼介、そしてメッセージの内容は「9月15日 午後10時 秋名山頂上」。それは紛れもなく挑戦状だった。走り屋のスーパースターとして名高い涼介が拓海をターゲットに入れ、真正面からダウンヒル・バトルを挑んできたのだ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s1_p21/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527143000 +0000" stop="20250527151000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527151000 +0000" stop="20250527155000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527155000 +0000" stop="20250527163000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527163000 +0000" stop="20250527171000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527171000 +0000" stop="20250527175000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527175000 +0000" stop="20250527183000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527183000 +0000" stop="20250527191000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527191000 +0000" stop="20250527195000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527195000 +0000" stop="20250527203000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527203000 +0000" stop="20250527211000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527211000 +0000" stop="20250527215000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527215000 +0000" stop="20250527223000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527223000 +0000" stop="20250527231000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527231000 +0000" stop="20250527235000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250527235000 +0000" stop="20250528003000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528003000 +0000" stop="20250528011000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528011000 +0000" stop="20250528015000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528015000 +0000" stop="20250528023000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528023000 +0000" stop="20250528031000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528031000 +0000" stop="20250528035000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528035000 +0000" stop="20250528043000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528043000 +0000" stop="20250528051000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528051000 +0000" stop="20250528055000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528055000 +0000" stop="20250528063000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528063000 +0000" stop="20250528071000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528071000 +0000" stop="20250528075000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528075000 +0000" stop="20250528083000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528083000 +0000" stop="20250528091000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528091000 +0000" stop="20250528095000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528095000 +0000" stop="20250528103000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528103000 +0000" stop="20250528111000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528111000 +0000" stop="20250528115000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528115000 +0000" stop="20250528123000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528123000 +0000" stop="20250528131000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528131000 +0000" stop="20250528135000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528135000 +0000" stop="20250528143000 +0000">
+		<title>【ギャグ日GO最新話配信中】ギャグマンガ日和 聖徳太子&amp;小野妹子セレクション</title>
+		<desc>「煬帝怒る 国書編」
+聖徳太子と小野妹子は、赤＆青のジャージ姿で隋国へ旅立った。歴史的に有名な聖徳太子の国書はこうして作られた!　「同情するなら墨汁をくれ～!」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-71_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250528143000 +0000" stop="20250530040000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/00s-anime-1/logo.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250530040000 +0000" stop="20250530083000 +0000">
+		<title>銀魂’ #244〜252【無料ビデオ1週間】</title>
+		<desc>幕臣の中でもエリートばかり輩出している名門佐々木家から、佐々木鉄之助という男を迎えることになった真選組。本来は警察のエリートばかりが集まる「見廻組」に行くのが筋だが、実は手が付けられない問題児で、いろいろとたらい回しにされ真選組へ送られて来たのだ。近藤の提案により土方の小姓になった鉄之助（自称TETSU）。全てにおいてチャラいTETSUにイラつく土方は理性を抑えるのに必死だが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p43/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250530083000 +0000" stop="20250530130000 +0000">
+		<title>銀魂’ #244〜252【無料ビデオ1週間】</title>
+		<desc>幕臣の中でもエリートばかり輩出している名門佐々木家から、佐々木鉄之助という男を迎えることになった真選組。本来は警察のエリートばかりが集まる「見廻組」に行くのが筋だが、実は手が付けられない問題児で、いろいろとたらい回しにされ真選組へ送られて来たのだ。近藤の提案により土方の小姓になった鉄之助（自称TETSU）。全てにおいてチャラいTETSUにイラつく土方は理性を抑えるのに必死だが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p43/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250530130000 +0000" stop="20250530173000 +0000">
+		<title>銀魂’ #244〜252【無料ビデオ1週間】</title>
+		<desc>幕臣の中でもエリートばかり輩出している名門佐々木家から、佐々木鉄之助という男を迎えることになった真選組。本来は警察のエリートばかりが集まる「見廻組」に行くのが筋だが、実は手が付けられない問題児で、いろいろとたらい回しにされ真選組へ送られて来たのだ。近藤の提案により土方の小姓になった鉄之助（自称TETSU）。全てにおいてチャラいTETSUにイラつく土方は理性を抑えるのに必死だが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s5_p43/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250530173000 +0000" stop="20250530181500 +0000">
+		<title>流星のロックマン #46〜49【無料ビデオ1週間】</title>
+		<desc>手作りの料理でロックマンのハートを射止めると決意したルナはあかねから料理の手ほどきを受けることに。味見役にかり出されたスバルは散々な目に遭う。一方オヒュカスは生活を支えるため、アルバイトに精を出す毎日を送っていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s1_p46/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250530181500 +0000" stop="20250530190000 +0000">
+		<title>流星のロックマン トライブ #1〜4【無料ビデオ1週間】</title>
+		<desc>博物館で電波ウイルス発生事件が起きる。それはこれまでに出現したことのない新種のウイルスだった。真相をさぐるため博物館にやって来たスバルとウォーロックは、展示物のひとつ｢ベルセルク｣から巨大なオーラが発せられていることに気づく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250530190000 +0000" stop="20250530203000 +0000">
+		<title>流星のロックマン トライブ #5〜12【無料ビデオ1週間】</title>
+		<desc>オーパーツを探しにヒマナラ山脈にやって来たスバル。山で寒さに凍えるスバルを村の少女ラーナが助けてくれた。スバルを警戒する村の村長。その村では雪男が村の遺跡を破壊する事件が頻発していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s2_p5/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250530203000 +0000" stop="20250530233000 +0000">
+		<title>頭文字[イニシャル]D Second Stage#1～6【無料ビデオ72時間】</title>
+		<desc>高橋涼介と藤原拓海の決戦も終わり、静けさを取り戻した群馬に新たなバトルの予兆が近づいてきた。日光を拠点とし、ランエボだけで構成された走り屋集団「エンペラー」が群馬エリア制圧に名乗りを上げたのだ。偶然、秋名の峠でエンペラーのリーダー(須藤京一)とNo.2(岩城清次)と出くわした樹は、「秋名にはハチロクがいる」と自慢する。だが京一はその言葉を一笑に伏し、「今の時代ではハチロクではダメだ」と歯牙にも掛けようとしなかった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250530233000 +0000" stop="20250531030000 +0000">
+		<title>銀魂’延長戦 #253〜259【無料ビデオ1週間】</title>
+		<desc>半年ぶりの出番とともに万事屋に戻ってきた銀時。しかし、彼を出迎えるのは、新八と神楽、そして見知らぬ金髪ストレートヘアーの男性、坂田金時。うっかり他人の家に間違ってお邪魔してしまったと思い、その場を後にする銀時…が、そこは紛れも無く自分の家。新八と神楽は、銀時のことを覚えていない様子。一体、銀時不在の間で何が起こったのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s6_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250531030000 +0000" stop="20250531060000 +0000">
+		<title>頭文字[イニシャル]D Second Stage#1～6【無料ビデオ72時間】</title>
+		<desc>高橋涼介と藤原拓海の決戦も終わり、静けさを取り戻した群馬に新たなバトルの予兆が近づいてきた。日光を拠点とし、ランエボだけで構成された走り屋集団「エンペラー」が群馬エリア制圧に名乗りを上げたのだ。偶然、秋名の峠でエンペラーのリーダー(須藤京一)とNo.2(岩城清次)と出くわした樹は、「秋名にはハチロクがいる」と自慢する。だが京一はその言葉を一笑に伏し、「今の時代ではハチロクではダメだ」と歯牙にも掛けようとしなかった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250531060000 +0000" stop="20250531073000 +0000">
+		<title>流星のロックマン トライブ #5〜12【無料ビデオ1週間】</title>
+		<desc>オーパーツを探しにヒマナラ山脈にやって来たスバル。山で寒さに凍えるスバルを村の少女ラーナが助けてくれた。スバルを警戒する村の村長。その村では雪男が村の遺跡を破壊する事件が頻発していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s2_p5/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250531073000 +0000" stop="20250531110000 +0000">
+		<title>銀魂’延長戦 #253〜259【無料ビデオ1週間】</title>
+		<desc>半年ぶりの出番とともに万事屋に戻ってきた銀時。しかし、彼を出迎えるのは、新八と神楽、そして見知らぬ金髪ストレートヘアーの男性、坂田金時。うっかり他人の家に間違ってお邪魔してしまったと思い、その場を後にする銀時…が、そこは紛れも無く自分の家。新八と神楽は、銀時のことを覚えていない様子。一体、銀時不在の間で何が起こったのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s6_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250531110000 +0000" stop="20250531140000 +0000">
+		<title>頭文字[イニシャル]D Second Stage#1～6【無料ビデオ72時間】</title>
+		<desc>高橋涼介と藤原拓海の決戦も終わり、静けさを取り戻した群馬に新たなバトルの予兆が近づいてきた。日光を拠点とし、ランエボだけで構成された走り屋集団「エンペラー」が群馬エリア制圧に名乗りを上げたのだ。偶然、秋名の峠でエンペラーのリーダー(須藤京一)とNo.2(岩城清次)と出くわした樹は、「秋名にはハチロクがいる」と自慢する。だが京一はその言葉を一笑に伏し、「今の時代ではハチロクではダメだ」と歯牙にも掛けようとしなかった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250531140000 +0000" stop="20250531173000 +0000">
+		<title>銀魂’延長戦 #253〜259【無料ビデオ1週間】</title>
+		<desc>半年ぶりの出番とともに万事屋に戻ってきた銀時。しかし、彼を出迎えるのは、新八と神楽、そして見知らぬ金髪ストレートヘアーの男性、坂田金時。うっかり他人の家に間違ってお邪魔してしまったと思い、その場を後にする銀時…が、そこは紛れも無く自分の家。新八と神楽は、銀時のことを覚えていない様子。一体、銀時不在の間で何が起こったのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s6_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250531173000 +0000" stop="20250531190000 +0000">
+		<title>流星のロックマン トライブ #5〜12【無料ビデオ1週間】</title>
+		<desc>オーパーツを探しにヒマナラ山脈にやって来たスバル。山で寒さに凍えるスバルを村の少女ラーナが助けてくれた。スバルを警戒する村の村長。その村では雪男が村の遺跡を破壊する事件が頻発していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s2_p5/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250531190000 +0000" stop="20250531203000 +0000">
+		<title>流星のロックマン トライブ #13〜20【無料ビデオ1週間】</title>
+		<desc>キザマロの誘いで山奥にある忍者の里へやって来たスバル達。そこでは忍者の末裔を自称するジャッキー半蔵が忍者体験入門コースを用意してスバル達を迎えてくれた。早速忍者修行に励むスバル達だったが･･･</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s2_p13/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250531203000 +0000" stop="20250601000000 +0000">
+		<title>頭文字[イニシャル]D Second Stage#7～13【無料ビデオ72時間】</title>
+		<desc>「秋名のハチロクが負けた」との噂は瞬く間に走り屋仲間に伝わり、エンペラーの群馬エリア制圧は目前に迫る。残るは「赤城の白い彗星」高橋涼介だけだ。このバトルに京一は並々ならぬ決意で臨んでいた。1年前、涼介に完膚なきまでに敗北した京一は、自らの最速理論を実証すべく、涼介を倒すことを目的に走り込みを続けていたのだ。「お前の理論の正しさを実証したければ俺に勝ってみろ」。涼介の言葉を返上するため、京一はスタートラインにつく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s2_p7/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250601000000 +0000" stop="20250601030000 +0000">
+		<title>銀魂’延長戦 #260〜265【無料ビデオ1週間】</title>
+		<desc>朧との死闘の際、身体の自由を奪われた銀時。定定によって、負傷した六転舞蔵を背負った新八たちも敵の攻撃により窮地に追い込まれるが、間一髪、真選組・見廻り組が助太刀に入る。いよいよ、銀時と朧との闘いは、最終局面へ…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s6_p8/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250601030000 +0000" stop="20250601063000 +0000">
+		<title>頭文字[イニシャル]D Second Stage#7～13【無料ビデオ72時間】</title>
+		<desc>「秋名のハチロクが負けた」との噂は瞬く間に走り屋仲間に伝わり、エンペラーの群馬エリア制圧は目前に迫る。残るは「赤城の白い彗星」高橋涼介だけだ。このバトルに京一は並々ならぬ決意で臨んでいた。1年前、涼介に完膚なきまでに敗北した京一は、自らの最速理論を実証すべく、涼介を倒すことを目的に走り込みを続けていたのだ。「お前の理論の正しさを実証したければ俺に勝ってみろ」。涼介の言葉を返上するため、京一はスタートラインにつく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s2_p7/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250601063000 +0000" stop="20250601080000 +0000">
+		<title>流星のロックマン トライブ #13〜20【無料ビデオ1週間】</title>
+		<desc>キザマロの誘いで山奥にある忍者の里へやって来たスバル達。そこでは忍者の末裔を自称するジャッキー半蔵が忍者体験入門コースを用意してスバル達を迎えてくれた。早速忍者修行に励むスバル達だったが･･･</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s2_p13/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250601080000 +0000" stop="20250601110000 +0000">
+		<title>銀魂’延長戦 #260〜265【無料ビデオ1週間】</title>
+		<desc>朧との死闘の際、身体の自由を奪われた銀時。定定によって、負傷した六転舞蔵を背負った新八たちも敵の攻撃により窮地に追い込まれるが、間一髪、真選組・見廻り組が助太刀に入る。いよいよ、銀時と朧との闘いは、最終局面へ…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s6_p8/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250601110000 +0000" stop="20250601143000 +0000">
+		<title>頭文字[イニシャル]D Second Stage#7～13【無料ビデオ72時間】</title>
+		<desc>「秋名のハチロクが負けた」との噂は瞬く間に走り屋仲間に伝わり、エンペラーの群馬エリア制圧は目前に迫る。残るは「赤城の白い彗星」高橋涼介だけだ。このバトルに京一は並々ならぬ決意で臨んでいた。1年前、涼介に完膚なきまでに敗北した京一は、自らの最速理論を実証すべく、涼介を倒すことを目的に走り込みを続けていたのだ。「お前の理論の正しさを実証したければ俺に勝ってみろ」。涼介の言葉を返上するため、京一はスタートラインにつく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-49_s2_p7/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250601143000 +0000" stop="20250601173000 +0000">
+		<title>銀魂’延長戦 #260〜265【無料ビデオ1週間】</title>
+		<desc>朧との死闘の際、身体の自由を奪われた銀時。定定によって、負傷した六転舞蔵を背負った新八たちも敵の攻撃により窮地に追い込まれるが、間一髪、真選組・見廻り組が助太刀に入る。いよいよ、銀時と朧との闘いは、最終局面へ…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s6_p8/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250601173000 +0000" stop="20250601190000 +0000">
+		<title>流星のロックマン トライブ #13〜20【無料ビデオ1週間】</title>
+		<desc>キザマロの誘いで山奥にある忍者の里へやって来たスバル達。そこでは忍者の末裔を自称するジャッキー半蔵が忍者体験入門コースを用意してスバル達を迎えてくれた。早速忍者修行に励むスバル達だったが･･･</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-68_s2_p13/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250522150000 +0000" stop="20250522163000 +0000">
 		<title>ナオキマンの都市伝説ワイドショー#6 ：事件・報道の裏側【ヒトコワ90分SP】</title>
@@ -16219,7 +16979,7 @@ AMEMIYA「今回レベル高いな」誰もまだ見たことのない新たな�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-153_s0_p429/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250530030000 +0000" stop="20250530041500 +0000">
-		<title>ABEMAヒルズ　そのニュース、ゆっくり話そう</title>
+		<title>＃アベヒル 小泉大臣 古古古米試食／日本米を輸出せよ！商社の想い</title>
 		<desc>「そのニュース、ゆっくり話そう」
 大量の情報が通り過ぎていく毎日。ちょっと立ち止まって、そのニュースをゆっくり話したい。番組MCの柴田阿弥、徳永有美が気になる話題を個性豊かな識者らと語り合います。好奇心の赴くままに。そのニュースは、社会を、政治を、経済を、世界を、そして、あなたの生活を、どう変えるのか…？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-52_s0_p1960/thumb001.png" />
@@ -25653,9 +26413,12 @@ EX風林火山vs KONAMI 麻雀格闘倶楽部vsセガサミーフェニックス
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-33_s0_p10/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250603222900 +0000" stop="20250603234300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>Mリーグベストコレクション</title>
+		<desc>ほんの一握りのトッププロだけが出場できる、麻雀プロリーグ戦「M.LEAGUE(Mリーグ)」。
+数々の名対局を見せるトッププロ達の対局を厳選。
+「スカッとする一発ツモ」「想像もしない和了ルート」「ビタ止め」など、
+チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250603234300 +0000" stop="20250604015200 +0000">
 		<title>RTDリーグ 2017 WHITE DIVISION 1回戦・2回戦</title>
@@ -25677,10 +26440,24 @@ EX風林火山vs KONAMI 麻雀格闘倶楽部vsセガサミーフェニックス
 		<desc>プロ連盟の頂点を決める1年間のリーグ戦。A1リーグは15人、A2リーグは16人で行われ、A1リーグ上位3選手が鳳凰位決定戦に進出となる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p14/thumb001.png" />
 	</programme>
-	<programme channel="mahjong" start="20250604145700 +0000" stop="20250605004900 +0000">
+	<programme channel="mahjong" start="20250604145700 +0000" stop="20250604180400 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+	</programme>
+	<programme channel="mahjong" start="20250604180400 +0000" stop="20250605000700 +0000">
+		<title>RTD Girl's Fight2 ファイナル</title>
+		<desc>2017年春、全国の麻雀ファン待望の新しい女流タイトル戦として始まった『RTDガールズファイト』がいよいよ第二回大会を迎えることになりました。 今後の活躍が期待される女流プロ16名を集め、予選4卓、各卓2名が準決勝に進出!
+準決勝A卓、B卓の上位2名が決勝に進出する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-33_s0_p11/thumb001.png" />
+	</programme>
+	<programme channel="mahjong" start="20250605000700 +0000" stop="20250605004900 +0000">
+		<title>Mリーグベストコレクション</title>
+		<desc>ほんの一握りのトッププロだけが出場できる、麻雀プロリーグ戦「M.LEAGUE(Mリーグ)」。
+数々の名対局を見せるトッププロ達の対局を厳選。
+「スカッとする一発ツモ」「想像もしない和了ルート」「ビタ止め」など、
+チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250605004900 +0000" stop="20250605032000 +0000">
 		<title>RTDリーグ 2017 BLACK DIVISION 3回戦・4回戦</title>
@@ -25759,14 +26536,6 @@ EX風林火山vs KONAMI 麻雀格闘倶楽部vsセガサミーフェニックス
 
 予選WHITE DIVISION第11回戦は、瀬戸熊直樹・小林剛・鈴木たろう・内川幸太朗の対戦。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-20_s1_p23/thumb001.png" />
-	</programme>
-	<programme channel="mahjong" start="20250606135000 +0000" stop="20250606145700 +0000">
-		<title>Mリーグベストコレクション</title>
-		<desc>ほんの一握りのトッププロだけが出場できる、麻雀プロリーグ戦「M.LEAGUE(Mリーグ)」。
-数々の名対局を見せるトッププロ達の対局を厳選。
-「スカッとする一発ツモ」「想像もしない和了ルート」「ビタ止め」など、
-チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250522140000 +0000" stop="20250523031000 +0000">
 		<title>【再】第82期 名人戦 七番勝負 第3局 藤井聡太名人 対 豊島将之九段</title>
@@ -30089,8 +30858,10 @@ HIPHOP界隈で今注目のトピックスについて深堀り！</desc>
 “音楽・ファッション・トレンド”など、
 HIPHOPカルチャーにまつわる、あらゆる情報をお届けする。
 毎回ラッパーやDJなど人気アーティストをゲストに迎え、
-HIPHOP界隈で今注目のトピックスについて深堀り！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-6_s0_p8/thumb001.png" />
+HIPHOP界隈で今注目のトピックスについて深堀り！
+　
+今回はGUESTに、sheidA、D3adStock、AIRIE、DJ CHARIが登場！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-201_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20250531130000 +0000" stop="20250531210000 +0000">
 		<title>【再放送】フリースタイルティーチャー：#137~#153</title>
