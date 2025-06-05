@@ -92,6 +92,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -2161,7 +2165,27 @@ SNSにすっかりハマったさとこは、他の配信者を煽って怒ら�
 今日も楽しい一日が始まります！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p55/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20250609110000 +0000" stop="20250612070000 +0000">
+	<programme channel="abema-anime" start="20250609110000 +0000" stop="20250611150000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	</programme>
+	<programme channel="abema-anime" start="20250611150000 +0000" stop="20250611153000 +0000">
+		<title>完璧聖女 #11【無料独占・見放題最速】</title>
+		<desc>この世界には、魔物から
+国の守護を担う『聖女』が存在している。
+
+ジルトニア王国で聖女を代々輩出する家系に生まれたフィリアは、
+厳しい教育により「歴代最高」と評される程の実力を身につけ、日々お務めに励んでいた。
+しかし、あまりの隙の無さに「完璧すぎて可愛げがない」と周囲には疎まれ、婚約者の第二王子ユリウスからは婚約破棄されてしまう――。
+
+さらにはお金と資源を対価に聖女不在で苦しむ隣国パルナコルタ王国に売られて、故郷から旅立つことに。
+
+悲惨な待遇を覚悟して隣国へと向かうフィリアだったが、
+そこで待っていたのは予想外の大歓迎で……!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p80/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20250611153000 +0000" stop="20250612070000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
@@ -3823,27 +3847,27 @@ SNSにすっかりハマったさとこは、他の配信者を煽って怒ら�
 		<desc>不慮の事故で異世界に転生し、剣になってしまった“彼”。奴隷として虐げられ、魔獣に襲われる黒猫族のフラン。強さを与えたい者と強さを求める者、その2人が邂逅する――</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/11-46_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime-3" start="20250607150000 +0000" stop="20250607210000 +0000">
+	<programme channel="isekai-anime-3" start="20250607150000 +0000" stop="20250607200000 +0000">
 		<title>ギルます #1〜12【無料ビデオ1週間】</title>
 		<desc>アリナは大都市イフールにあるギルドの受付嬢。カウンターで笑顔を振りまき、のんびり事務作業をこなして、定時になったら即帰宅。ああ、素晴らしい、安心・安全・安定の受付嬢ライフ！　……なんてものは、夢のまた夢。現実には厄介な冒険者たちへの受付対応に忙殺され、溜まった書類を片付け終わる頃には、定時はすっかり過ぎている。……もう限界！　連日の残業地獄でアリナが我慢の限界に達したとき、隠し持った一面が顔を出す――</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-278_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime-3" start="20250607210000 +0000" stop="20250608030000 +0000">
+	<programme channel="isekai-anime-3" start="20250607200000 +0000" stop="20250608020000 +0000">
 		<title>異世界居酒屋～古都アイテーリアの居酒屋のぶ～ #1〜24【無料ビデオ1週間】</title>
 		<desc>古都アイテ―リアで衛兵として働くハンスが、同僚のニコラウスに連れて行かれたのは、居酒屋「のぶ」という名の不思議な酒場だった。異国情緒あふれる店内、寡黙な料理人ノブ・タイショー（信之）、かわいい給仕のシノブちゃん。一体何が出てくるのだろうと、期待を膨らませるハンスの前に出されたのは、透き通る黄金の酒「トリアエズナマ」、そして見たこともない温かな料理「おでん」だった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-67_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime-3" start="20250608030000 +0000" stop="20250608090000 +0000">
+	<programme channel="isekai-anime-3" start="20250608020000 +0000" stop="20250608080000 +0000">
 		<title>転生したら剣でした #1〜12【無料ビデオ1週間】</title>
 		<desc>不慮の事故で異世界に転生し、剣になってしまった“彼”。奴隷として虐げられ、魔獣に襲われる黒猫族のフラン。強さを与えたい者と強さを求める者、その2人が邂逅する――</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/11-46_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime-3" start="20250608090000 +0000" stop="20250608150000 +0000">
+	<programme channel="isekai-anime-3" start="20250608080000 +0000" stop="20250608140000 +0000">
 		<title>異世界居酒屋～古都アイテーリアの居酒屋のぶ～ #1〜24【無料ビデオ1週間】</title>
 		<desc>古都アイテ―リアで衛兵として働くハンスが、同僚のニコラウスに連れて行かれたのは、居酒屋「のぶ」という名の不思議な酒場だった。異国情緒あふれる店内、寡黙な料理人ノブ・タイショー（信之）、かわいい給仕のシノブちゃん。一体何が出てくるのだろうと、期待を膨らませるハンスの前に出されたのは、透き通る黄金の酒「トリアエズナマ」、そして見たこともない温かな料理「おでん」だった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-67_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime-3" start="20250608150000 +0000" stop="20250608210000 +0000">
+	<programme channel="isekai-anime-3" start="20250608140000 +0000" stop="20250608190000 +0000">
 		<title>マジック・メイカー ～異世界魔法の作り方～ #1〜12【無料ビデオ2週間】</title>
 		<desc>片田舎の貴族の下に生まれたマリーとその弟のシオン。マリーはシオンを溺愛し、ひとりごっこ遊びに興じる姿やふいに見せる大人びた表情といった、マリーしか知らないシオンの姿もたくさんあるほどいつもシオンのことを気にかけていた。そんなシオンは3歳のある夜、家族との会話の中で大きな失望感を味わってしまう。その日を最後に彼の口から「まほう」という単語が出ることはなく、3年の月日が経過していた。ある日、とある現象を目にしたマリーに手を引かれ、シオンは森を抜けた先にある湖に向かうのだった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-277_s1_p1/thumb001.png" />
@@ -5088,9 +5112,12 @@ ReoNaさんの新作リリース前日に恒例でお届けしている「ABEMA�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-1_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250605125700 +0000" stop="20250605130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
+		<title>ダイキン空気予報 6/5</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p66/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250605130000 +0000" stop="20250605143000 +0000">
 		<title>声優と夜あそび 木【小野賢章×花江夏樹】#7</title>
@@ -7262,9 +7289,12 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p9/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20250605121100 +0000" stop="20250605121400 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 6/5</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p66/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20250605121400 +0000" stop="20250605141700 +0000">
 		<title>映画ドラえもん のび太と緑の巨人伝</title>
@@ -11626,9 +11656,12 @@ CIAから聞いた宇宙人に関する極秘情報
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1303_s4_p1001/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250605115700 +0000" stop="20250605120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 6/5</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p66/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250605120000 +0000" stop="20250605130000 +0000">
 		<title>＃３：こんなクソ野郎もういらない。他者の意見で膨らむ不安　さよプロviaスペイン</title>
@@ -11681,9 +11714,12 @@ ADHDを抱える『だいご』はこの先の自分への不安を解消する�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2030_s1_p1003/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250605135700 +0000" stop="20250605140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 6/5</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p66/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250605140000 +0000" stop="20250605143000 +0000">
 		<title>#2：渡部にバラエティの極意を学ぶ！食レポ〜ビリビリまで体を張って挑戦！</title>
@@ -12316,7 +12352,7 @@ YZERRが語る…「少年院のもう一人の14歳」
 「エッチなお店にいった話」
 
 ※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p172/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250607140000 +0000" stop="20250607145700 +0000">
 		<title>チャンスの時間#314〜ノブが地に落ちる…！第4回私が一番カワイイオーディション</title>
@@ -14385,9 +14421,12 @@ HIPHOPの未来について語るAK-69と般若の熱い対談にも注目！</d
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2034_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250605115700 +0000" stop="20250605120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 6/5</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p66/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250605120000 +0000" stop="20250605133000 +0000">
 		<title>秘密のママ園#4:“レス”原因徹底解明&amp;元レディース総長ママの少年院流子育て密着</title>
@@ -15183,6 +15222,124 @@ HIPHOPの未来について語るAK-69と般若の熱い対談にも注目！</d
 		<title>ワイルド・ストーム(吹替)【無料1週間】</title>
 		<desc>その日、アメリカ西海岸には史上最大規模、カテゴリー５の巨大ハリケーンが迫っていた。住民たちが避難する中、財務省の紙幣処理施設を武装集団が襲撃する。それは大災害の混乱に乗じて、６億ドルにも及ぶ現金を強奪しようという前代未聞の犯罪計画だった。施設のセキュリティを担当するケーシー(マギー・グレイス)は、最強の災害用特殊車両“ドミネーター”を操る気象学者のウィル(トビー・ケベル)とともに、悪党どもの計画を阻止すべく、猛烈な嵐と銃弾の中、決死の行動に打って出る。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/143-53_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250531044500 +0000" stop="20250531063000 +0000">
+		<title>RIZIN WORLD SERIES in KOREA 冒頭2試合無料生放送</title>
+		<desc>RIZINワールドシーズ第２弾！そして、初の韓国開催！
+「RIZIN WORLD SERIES in KOREA」
+
+韓国・仁川のパラダイスシティにて開催される大会の
+冒頭2試合をABEMAで無料生放送！
+ーーーーーーーーーー
+「RIZIN WORLD SERIES in KOREA」は
+ABEMA PPVで全試合を完全生放送。
+
+※ABEMA PPV限定で狩野英孝さんの副音声実況を
+　同時生放送が決定！（第７試合より開始）
+
+キ・ウォンビン vs. ホベルト・サトシ・ソウザ
+キム・スーチョル vs. 佐藤将光
+大原樹理 vs. ジョニー・ケース
+ジ・ヒョクミン vs. 武田光司
+ヤン・ジヨン vs. 金太郎
+ソン・ヨンジェ vs. 中原由貴
+シン・ユリ vs. ケイト・ロータス
+キム・シウォン vs. 宇佐美正パトリック
+ジョ・サンへ vs. 宇佐美秀メイソン
+クォン・ヨンチョル vs. 三浦孝太
+カン・ボムジュン vs. 井上聖矢
+ーーーーーーーーーー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s30044_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250531063000 +0000" stop="20250604112500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250604112500 +0000" stop="20250604144500 +0000">
+		<title>競輪ルーキーシリーズ 玉野 F2 初日</title>
+		<desc>日本競輪選手養成所を卒業した新人選手たちによって争われる「競輪ルーキーシリーズ2025」第5戦！
+127期生・128期生は史上最多の26名がゴールデンキャップを獲得するなど前評判が非常に高いだけにデビュー戦から目が離せない熱戦の連続となるだろう！
+8月に開催される「ルーキーシリーズプラス」の出場をかけた最後の戦いを見逃すな！
+
+玉野 F2（ルーキーシリーズ）はSPECIAL3ch、前橋 F2（KEIRIN ADVANCE）は競輪chでお楽しみください！
+豪華キャストとKEIRIN ADVANCEを楽しみましょう！
+
+全レース「WINTICKET」で投票可能！
+全競輪場のレースやオートレースのライブ映像をどの端末からでも無料で楽しめます。
+今なら登録するだけで、1,000円分のポイントをもれなくプレゼント中です！
+
+▼ウィンチケット競輪
+https://www.winticket.jp/keirin/
+▼玉野競輪
+https://www.winticket.jp/keirin/tamano/
+▼玉野出走表
+https://www.winticket.jp/keirin/tamano/racecard/
+▼玉野オッズ
+https://www.winticket.jp/keirin/tamano/odds/
+▼玉野 F2 初日
+https://www.winticket.jp/keirin/tamano/racecard/2025060461/?index=1</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-4_s1_p22218/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250604144500 +0000" stop="20250605112500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250605112500 +0000" stop="20250605144500 +0000">
+		<title>競輪ルーキーシリーズ 玉野 F2 第2日</title>
+		<desc>日本競輪選手養成所を卒業した新人選手たちによって争われる「競輪ルーキーシリーズ2025」第5戦！
+127期生・128期生は史上最多の26名がゴールデンキャップを獲得するなど前評判が非常に高いだけにデビュー戦から目が離せない熱戦の連続となるだろう！
+8月に開催される「ルーキーシリーズプラス」の出場をかけた最後の戦いを見逃すな！
+
+玉野 F2（ルーキーシリーズ）はSPECIAL3ch、前橋 F2（KEIRIN ADVANCE）は競輪chでお楽しみください！
+豪華キャストとKEIRIN ADVANCEを楽しみましょう！
+
+全レース「WINTICKET」で投票可能！
+全競輪場のレースやオートレースのライブ映像をどの端末からでも無料で楽しめます。
+今なら登録するだけで、1,000円分のポイントをもれなくプレゼント中です！
+
+▼ウィンチケット競輪
+https://www.winticket.jp/keirin/
+▼玉野競輪
+https://www.winticket.jp/keirin/tamano/
+▼玉野出走表
+https://www.winticket.jp/keirin/tamano/racecard/
+▼玉野オッズ
+https://www.winticket.jp/keirin/tamano/odds/
+▼玉野 F2 第2日
+https://www.winticket.jp/keirin/tamano/racecard/2025060461/?index=2</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-4_s1_p22219/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250605144500 +0000" stop="20250606112500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250606112500 +0000" stop="20250606144500 +0000">
+		<title>競輪ルーキーシリーズ 玉野 F2 最終日</title>
+		<desc>日本競輪選手養成所を卒業した新人選手たちによって争われる「競輪ルーキーシリーズ2025」第5戦！
+127期生・128期生は史上最多の26名がゴールデンキャップを獲得するなど前評判が非常に高いだけにデビュー戦から目が離せない熱戦の連続となるだろう！
+8月に開催される「ルーキーシリーズプラス」の出場をかけた最後の戦いを見逃すな！
+
+玉野 F2（ルーキーシリーズ）はSPECIAL3ch、前橋 F2（KEIRIN ADVANCE）は競輪chでお楽しみください！
+豪華キャストとKEIRIN ADVANCEを楽しみましょう！
+
+全レース「WINTICKET」で投票可能！
+全競輪場のレースやオートレースのライブ映像をどの端末からでも無料で楽しめます。
+今なら登録するだけで、1,000円分のポイントをもれなくプレゼント中です！
+
+▼ウィンチケット競輪
+https://www.winticket.jp/keirin/
+▼玉野競輪
+https://www.winticket.jp/keirin/tamano/
+▼玉野出走表
+https://www.winticket.jp/keirin/tamano/racecard/
+▼玉野オッズ
+https://www.winticket.jp/keirin/tamano/odds/
+▼玉野 F2 最終日
+https://www.winticket.jp/keirin/tamano/racecard/2025060461/?index=3</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-4_s1_p22220/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250528150000 +0000" stop="20250528170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
@@ -21629,9 +21786,12 @@ NewJeans、ENHYPEN、(G)I-DLE、TWS、STAYC、NCT WISH、イ・チェヨン、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-14_s3_p5/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20250605115700 +0000" stop="20250605120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 6/5</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p66/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20250605120000 +0000" stop="20250605132000 +0000">
 		<title>恋するアプリ Love Alarm チャ!チャ!チャ! #6</title>
@@ -25860,9 +26020,12 @@ episode2 「百発百中占い師」
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250605145700 +0000" stop="20250605150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 6/5</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p66/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20250605150000 +0000" stop="20250605180200 +0000">
 		<title>第10回女流モンド杯#7#8</title>
@@ -27275,7 +27438,101 @@ ABEMA SUPER GT アンバサダーを務めた朝日奈央がナレーション�
 茨城県大洗町 磯場ポイント</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s10_p7/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250605220000 +0000" stop="20250608040000 +0000">
+	<programme channel="world-sports" start="20250605220000 +0000" stop="20250606001500 +0000">
+		<title>【再】スーパーフォーミュラ2023 Rd.3 鈴鹿サーキット</title>
+		<desc>アジア最高峰のフォーミュラレースシリーズ「SUPER FORMULA」2023年シーズンの決勝を全戦生中継!
+22名のドライバーで争われる最高峰の迫力あるレースをお楽しみください!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-1_s10_p1003/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250606001500 +0000" stop="20250606023500 +0000">
+		<title>【再】スーパーフォーミュラ2023 Rd.4 オートポリス</title>
+		<desc>アジア最高峰のフォーミュラレースシリーズ「SUPER FORMULA」2023年シーズンの決勝を全戦生中継!
+22名のドライバーで争われる最高峰の迫力あるレースをお楽しみください!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-1_s10_p1004/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250606023500 +0000" stop="20250606050500 +0000">
+		<title>【再】スーパーフォーミュラ2024 Rd.4 富士スピードウェイ</title>
+		<desc>「SUPER FORMULA」2024年シーズンの決勝を全戦アベマで無料配信!
+最高時速300Km!
+全マシン同一車両で争われるワンメイクレース!
+ドライバーのテクニックやチーム戦略が勝敗のカギ!
+今季初参戦のレーサーに注目。
+F2ランキング4位の岩佐歩夢。
+そして日本人女性初かつ史上最年少となるJuju。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-2_s40_p5/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250606050500 +0000" stop="20250606071000 +0000">
+		<title>【再】スーパーフォーミュラ2024 Rd.5 モビリティリゾートもてぎ</title>
+		<desc>「SUPER FORMULA」2024年シーズンの決勝を全戦アベマで無料配信!
+最高時速300Km!
+全マシン同一車両で争われるワンメイクレース!
+ドライバーのテクニックやチーム戦略が勝敗のカギ!
+今季初参戦のレーサーに注目。
+F2ランキング4位の岩佐歩夢。
+そして日本人女性初かつ史上最年少となるJuju。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-2_s50_p5/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250606071000 +0000" stop="20250606091500 +0000">
+		<title>【再】Rd.4 ラリー・イスラス・カナリアス SS7 |WRC世界ラリー選手権</title>
+		<desc>WRC 2025 Rd.4 ラリー・イスラス・カナリアスを4月26日(土)〜27日(日)でABEMAで無料生中継!
+
+&lt;生配信予定ステージ&gt;
+4/26(土) 16:00頃〜(日本時間) SS7 開始予定
+4/27(日) 21:00頃〜(日本時間) パワーステージ(SS18)開始予定
+
+番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え!
+注目チームは日本メーカーのTOYOTA GAZOO Racing !
+さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる!
+最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目!
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-90_s40_p100/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250606091500 +0000" stop="20250606114500 +0000">
+		<title>【再】Rd.4 ラリー・イスラス・カナリアス パワーステージ|WRC世界ラリー</title>
+		<desc>WRC 2025 Rd.4 ラリー・イスラス・カナリアスを4月26日(土)〜27日(日)でABEMAで無料生中継!
+
+&lt;生配信予定ステージ&gt;
+4/26(土) 16:00頃〜(日本時間) SS7 開始予定
+4/27(日) 21:00頃〜(日本時間) パワーステージ(SS18)開始予定
+
+番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え!
+注目チームは日本メーカーのTOYOTA GAZOO Racing !
+さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる!
+最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目!
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-90_s40_p101/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250606114500 +0000" stop="20250606150000 +0000">
+		<title>【再】Pennzoil 400|NASCAR</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+ーーーーー
+
+NASCAR 2025 Shriners Children's 500を3月11日18時よりABEMAで無料放送! 舞台となるのは、フェニックス・レースウェイ。 番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします! ▼NASCARとは▼ 全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km! 約40台の激しいバトルや接触が非常に迫力のあるレースです!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s30_p3/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250606150000 +0000" stop="20250606223500 +0000">
+		<title>S.LEAGUE 24-25 ショートボード&amp;ロングボード第1戦 DAY5 前半</title>
+		<desc>ショートボードとロングボード同時開催のSリーグ開幕戦。
+2024年8月21日(水) ~ 8月25日(日) 予備日:26日
+茨城県大洗町 磯場ポイント</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s10_p9/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250606223500 +0000" stop="20250608040000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
