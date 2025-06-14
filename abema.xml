@@ -92,6 +92,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -19587,6 +19591,44 @@ CHAMPIONSHIPでは頂点を目指し、上位6チームが“一発勝負”の�
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10007_p90/thumb001.png" />
 	</programme>
+	<programme channel="special-plus-2" start="20250614033000 +0000" stop="20250614070000 +0000">
+		<title>RIZIN LANDMARK11 in SAPPORO 冒頭6試合無料生放送</title>
+		<desc>6月14日(土) 真駒内セキスイハイムアイスアリーナにて開催される、
+『RIZIN LANDMARK 11 in SAPPORO』
+冒頭6試合をABEMAで無料生中継！
+
+ーーーーーーーーーー
+『RIZIN LANDMARK 11 in SAPPORO』
+
+▼放送日時
+6月14日(土)
+12時30分〜試合開始
+ABEMA PPVで全試合を生中継！
+
+▼大会概要と対戦カード
+
+ヴガール・ケラモフ vs. 木村柊也
+堀江圭功 vs. 西川大和
+イルホム・ノジモフvs.新居すぐる
+山本空良vs.鈴木博昭
+ビクター・コレスニック vs. SASUKE
+アレクサンダー・ソルダトキン vs. プリンス・アウンアラー
+後藤丈治 vs. 鹿志村仁之介
+シナ・カリミアンvs.荒東"怪獣キラー"英貴
+ソルト vs. 万智
+中島太一 vs. CORO
+マゲラム・ガサンザデ vs. 安藤達也
+上野空大 vs. ファーパヤップ・GRABS
+遠藤来生vs.ザーシ・バァディン
+としぞう vs. 鵜澤悠也
+上野奏貴 vs. 山川賢誠
+OPENING FIGHT 成田佑希 vs. 能登崇
+OPENING FIGHT 鈴木嵐士 vs. 早坂優瑠
+OPENING FIGHT 小林大希 vs. 森永ユキト
+OPENING FIGHT 西島恭平 vs. 林修斗
+ーーーーーーーーーー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s30046_p3/thumb001.png" />
+	</programme>
 	<programme channel="abema-news" start="20250606150000 +0000" stop="20250606170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
 		<desc>地上波の放送を見逃してしまった場合でも、手元のスマートフォンやタブレットなどで気軽に「報道ステーション」をご覧いただけます。 
@@ -30507,16 +30549,6 @@ EX風林火山vs渋谷ABEMASvsセガサミーフェニックスvsTEAM RAIDEN / �
 		<title>第10期 叡王戦 五番勝負 第5局 伊藤匠叡王 対 斎藤慎太郎八段</title>
 		<desc>叡王戦は全棋士の段位別予選と本戦を勝ち抜いた2名が決勝五番勝負を行い、先に3勝した棋士が「叡王」の称号を獲得します(第4期以降は本戦優勝者が叡王への挑戦権を獲得)。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-89_s10000_p15/thumb001.png" />
-	</programme>
-	<programme channel="shogi-live" start="20250614160000 +0000" stop="20250618135000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi-live/logo.png" />
-	</programme>
-	<programme channel="shogi-live" start="20250618135000 +0000" stop="20250618160000 +0000">
-		<title>【延長】ヒューリック杯第96期棋聖戦五番勝負第2局藤井聡太棋聖 対 杉本和陽六段</title>
-		<desc>棋聖戦は、全棋士と女流棋士2名で行う。一次予選・二次予選をトーナメントで行い、その勝ち上がり者とシード棋士の16名で決勝トーナメントを行う。その優勝者と棋聖が、例年6月から8月にかけて五番勝負を行う。(第81期よりシステム変更)</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-13_s10001_p206/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250606150000 +0000" stop="20250606223500 +0000">
 		<title>S.LEAGUE 24-25 ショートボード&amp;ロングボード第1戦 DAY5 前半</title>
