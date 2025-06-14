@@ -140,6 +140,10 @@
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
 	</channel>
+	<channel id="shogi-live">
+		<display-name>将棋 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi-live/logo.png" />
+	</channel>
 	<channel id="world-sports">
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
@@ -23846,12 +23850,12 @@ CHAMPIONSHIPでは頂点を目指し、上位6チームが“一発勝負”の�
 		<desc>哲宗が床に伏せている間、ムングンは帳簿を無くしたことをジャグンに打ち明ける。哲宗が帳簿を持っているようだと聞いたジャグンは、ソヨンに哲宗の一挙一動を報告するように伝える。一方、爆発事件を調査中の義禁府。ビョンインは今回の爆発に国内で作られた煙硝が使われていたことを知る。ジャグンの右腕である兵曹判書が管理しているだけに、父親を疑うビョンインだが...</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-366_s1_p13/thumb001.png" />
 	</programme>
-	<programme channel="asia-drama-2" start="20250615135500 +0000" stop="20250615163000 +0000">
+	<programme channel="asia-drama-2" start="20250615135500 +0000" stop="20250615163500 +0000">
 		<title>キマイラ 第29〜最終話</title>
 		<desc>ウンスの話が信じがたい捜査チームの面々。しかしユジンは供述内容が正確だという。署に戻り取り調べの映像を見せられたジェファン(パク・ヘス)は、現実を受け入れられない。コ班長はそんなジェファンにしばらく休むよう勧める。取り調べを終え、自らの希望で施設に入ったウンス。ジェファンはウンスに会いに行くが、面会を拒否されてしまう。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-29_s1_p29/thumb001.png" />
 	</programme>
-	<programme channel="asia-drama-2" start="20250615163000 +0000" stop="20250615191500 +0000">
+	<programme channel="asia-drama-2" start="20250615163500 +0000" stop="20250615192500 +0000">
 		<title>秘密の森〜深い闇の向こうに〜 第1〜2話</title>
 		<desc>脳の手術により人間的な感情を失った検事、ファン・シモク。彼が向かった家で殺人事件が起きた。被害者は検察のスポンサーのパク・ムソンで、容疑者にテレビを修理しに来た業者のカン・ジンソプが浮上した。“誰かがドアを開けたから、中に入ったら人が死んでいた”という彼の証言は、どういうことなのか。公判を担当したヨン検事が決定的な証拠を出し、容疑者は刑務所へ入ることになるのだが、殺人犯に仕立てられた悔しさのあまり...</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-38_s1_p1/thumb001.png" />
@@ -25767,13 +25771,33 @@ ABEMAで国内独占放送 !│ENHYPENを輩出した、大好評・大人気の
 		<desc>PRE-4 ミッションの後半戦!大ヒットドラマ「トッケビ」のOSTなど名曲を披露!個性溢れるボーカル実力者たちの歌声が一つになり、鳥肌の立つ感動のステージが誕生!熾烈な争いの中、トップティアに選ばれるのは一体誰なのか!?さらに、続く2ラウンドのミッションの内容も明らかに。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-32_s1_p2/thumb001.png" />
 	</programme>
-	<programme channel="k-world" start="20250614081000 +0000" stop="20250614115700 +0000">
-		<title>家を出たら、贅沢 ~犬幼稚園~ #1-1～3-2</title>
+	<programme channel="k-world" start="20250614081000 +0000" stop="20250614103000 +0000">
+		<title>家を出たら、贅沢 ~犬幼稚園~ #1-1～2-2</title>
 		<desc>グランドオープン!
 「犬幼稚園」大公開!
 ワンちゃんたちに贅沢をさせてあげる
 準備の様子をお届け!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/367-13_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20250614103000 +0000" stop="20250614105500 +0000">
+		<title>I-LAND2 : N/a 20分で追いつける特別ダイジェスト【特別映像】</title>
+		<desc>ENHYPENが誕生したMnetの大規模プロジェクト『I-LAND』の最新シリーズである【I-LAND2:N/a】の#1~6を20分でわかりやすくお届け!
+
+ABEMAで国内独占放送 !│ENHYPENを輩出した、大好評・大人気のオーディション番組「I-LAND」の最新シリーズが開幕。
+世界的人気を誇るガールズグループ・BLACKPINKのプロデューサーであるTEDDYが手掛ける、全世界が注目する2024年最大のグローバルガールズグループオーディション番組。
+視聴者と「アイランド」を繋ぐストーリーテラーには、ソン・ガンが就任し、BLACKPINK・ロゼがシグナルソングを歌う。
+日本人6名出演!『PRODUCE 101 JAPAN THE GIRLS』(日プ)・『Girls Planet 999 : 少女祭典』(ガルプラ)・『R U Next?』(アユネク)出身者も出演。
+ハイレベルな24名の参加者が勢揃いし、夢を掴むために繰り広げていく熾烈な戦いの幕開け。
+デビューメンバーになるのは誰か?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-33_s1_p10100/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20250614105500 +0000" stop="20250614115700 +0000">
+		<title>BOYS PLANET ＃0 Star is born</title>
+		<desc>みんなを驚かせた練習生が登場？！少年たちをいち早く確認できるプレビューエピソードを公開！
+
+Kep1erが誕生し、日本だけでなく世界中で大きな反響を集めた『Girls Planet 999 : 少女祭典』に続く、2023年大注目のグローバルボーイズグループデビュープロジェクトがついに始動。韓国、日本、中国等の多国籍からなる少年たちが様々なミッションやステージを繰り広げ、世界で活躍するボーイズグループとしてデビューを目指す。参加者には、現役アイドルや『PRODUCE 101 JAPAN』『I-LAND』『LOUD』『青春スター』等のオーディション番組出身者も多数選出され、ビジュアルと実力、様々な魅力を兼ね揃えた未来のスターたちが大集結。韓国とグローバルファンたちにより直接選ばれ、輝くスターとなるのは一体誰か。
+ENHYPENが誕生し話題となった『I-LAND』や、IZ*ONEやJO1ら数多くの人気グループを輩出した『PRODUCE』シリーズといった人気オーディション番組を手掛ける韓国を代表するエンターテインメント企業CJ ENMによる、新たなオーディションプロジェクト。※ボイプラはABEMA国内独占配信</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/458-24_s1_p1000/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20250614115700 +0000" stop="20250614120000 +0000">
 		<title>No programme</title>
@@ -30478,6 +30502,21 @@ EX風林火山vs渋谷ABEMASvsセガサミーフェニックスvsTEAM RAIDEN / �
  
 ※段位は収録当時のものになります</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-9_s0_p5/thumb001.png" />
+	</programme>
+	<programme channel="shogi-live" start="20250614003000 +0000" stop="20250614160000 +0000">
+		<title>第10期 叡王戦 五番勝負 第5局 伊藤匠叡王 対 斎藤慎太郎八段</title>
+		<desc>叡王戦は全棋士の段位別予選と本戦を勝ち抜いた2名が決勝五番勝負を行い、先に3勝した棋士が「叡王」の称号を獲得します(第4期以降は本戦優勝者が叡王への挑戦権を獲得)。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-89_s10000_p15/thumb001.png" />
+	</programme>
+	<programme channel="shogi-live" start="20250614160000 +0000" stop="20250618135000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi-live/logo.png" />
+	</programme>
+	<programme channel="shogi-live" start="20250618135000 +0000" stop="20250618160000 +0000">
+		<title>【延長】ヒューリック杯第96期棋聖戦五番勝負第2局藤井聡太棋聖 対 杉本和陽六段</title>
+		<desc>棋聖戦は、全棋士と女流棋士2名で行う。一次予選・二次予選をトーナメントで行い、その勝ち上がり者とシード棋士の16名で決勝トーナメントを行う。その優勝者と棋聖が、例年6月から8月にかけて五番勝負を行う。(第81期よりシステム変更)</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-13_s10001_p206/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250606150000 +0000" stop="20250606223500 +0000">
 		<title>S.LEAGUE 24-25 ショートボード&amp;ロングボード第1戦 DAY5 前半</title>
