@@ -92,6 +92,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -3644,15 +3648,30 @@ W杯優勝を夢見る同級生の御影玲王が、その才能を見つけだ�
 		<desc>-</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p8/thumb001.png" />
 	</programme>
-	<programme channel="special-plus-7" start="20250620150000 +0000" stop="20250621080000 +0000">
-		<title>中華一番！ #1〜36【無料ビデオ1週間】</title>
+	<programme channel="special-plus-7" start="20250620150000 +0000" stop="20250621060000 +0000">
+		<title>中華一番！ #1〜31【無料ビデオ1週間】</title>
 		<desc>名料理長パイの死後、娘のカリンと息子のマオは協力して菜館『菊下楼』を守ってきた。そこへ、パイに逆怨みを抱くかつての弟子、ショウアンが新料理長の任命書を持って現われる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-94_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus-7" start="20250621080000 +0000" stop="20250622010000 +0000">
-		<title>中華一番！ #1〜36【無料ビデオ1週間】</title>
-		<desc>名料理長パイの死後、娘のカリンと息子のマオは協力して菜館『菊下楼』を守ってきた。そこへ、パイに逆怨みを抱くかつての弟子、ショウアンが新料理長の任命書を持って現われる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-94_s1_p1/thumb001.png" />
+	<programme channel="special-plus-7" start="20250621060000 +0000" stop="20250621120000 +0000">
+		<title>Re:Monster #1〜12【無料ビデオ1週間】</title>
+		<desc>ある⽇、伴杭彼⽅はナイフで刺されて殺されてしまう。気がつくと、異世界に住まうゴブリンの⾚ん坊に転⽣し、ゴブ朗と名付けられた。ゴブ朗は、⼀緒に⽣まれた⾚ん坊の中でも体格の良いゴブ吉と⼀緒に狩りを開始。分担しながら獲物を仕留めていく。そんな中、ゴブ朗の脳内にはとあるメッセージが流れ……。ゴブ美も仲間に加え、三⼈は次々と敵を撃破。そして得た獲物を喰べることで、ゴブ朗は次々とスキルを獲得していく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/189-63_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20250621120000 +0000" stop="20250621130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20250621130000 +0000" stop="20250621190000 +0000">
+		<title>Re:Monster #1〜12【無料ビデオ1週間】</title>
+		<desc>ある⽇、伴杭彼⽅はナイフで刺されて殺されてしまう。気がつくと、異世界に住まうゴブリンの⾚ん坊に転⽣し、ゴブ朗と名付けられた。ゴブ朗は、⼀緒に⽣まれた⾚ん坊の中でも体格の良いゴブ吉と⼀緒に狩りを開始。分担しながら獲物を仕留めていく。そんな中、ゴブ朗の脳内にはとあるメッセージが流れ……。ゴブ美も仲間に加え、三⼈は次々と敵を撃破。そして得た獲物を喰べることで、ゴブ朗は次々とスキルを獲得していく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/189-63_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20250621190000 +0000" stop="20250622010000 +0000">
+		<title>中華一番！ #20〜31【無料ビデオ1週間】</title>
+		<desc>マオたちは、鶏料理専門店に泊めてもらうことになった。しかし、そこの娘ティアは鶏が嫌いだという。ある日、クロウがひとつがいの真っ黒いひよこを仕入れてきたが、それが不幸の始まりだった…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-94_s1_p20/thumb001.png" />
 	</programme>
 	<programme channel="special-plus-7" start="20250622010000 +0000" stop="20250622070000 +0000">
 		<title>スライム倒して300年 #1〜12【無料ビデオ1週間】</title>
@@ -17077,6 +17096,88 @@ CHAMPIONSHIPでは頂点を目指し、上位6チームが“一発勝負”の�
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!赤いブランド・RAWは火曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s10006_p91/thumb001.png" />
 	</programme>
+	<programme channel="special-plus-2" start="20250614033000 +0000" stop="20250614070000 +0000">
+		<title>RIZIN LANDMARK11 in SAPPORO 冒頭6試合無料生放送</title>
+		<desc>6月14日(土) 真駒内セキスイハイムアイスアリーナにて開催される、
+『RIZIN LANDMARK 11 in SAPPORO』
+冒頭6試合をABEMAで無料生中継！
+
+ーーーーーーーーーー
+『RIZIN LANDMARK 11 in SAPPORO』
+
+▼放送日時
+6月14日(土)
+12時30分〜試合開始
+ABEMA PPVで全試合を生中継！
+
+▼大会概要と対戦カード
+
+ヴガール・ケラモフ vs. 木村柊也
+堀江圭功 vs. 西川大和
+イルホム・ノジモフvs.新居すぐる
+山本空良vs.鈴木博昭
+ビクター・コレスニック vs. SASUKE
+アレクサンダー・ソルダトキン vs. プリンス・アウンアラー
+後藤丈治 vs. 鹿志村仁之介
+シナ・カリミアンvs.荒東"怪獣キラー"英貴
+ソルト vs. 万智
+中島太一 vs. CORO
+マゲラム・ガサンザデ vs. 安藤達也
+上野空大 vs. ファーパヤップ・GRABS
+遠藤来生vs.ザーシ・バァディン
+としぞう vs. 鵜澤悠也
+上野奏貴 vs. 山川賢誠
+OPENING FIGHT 成田佑希 vs. 能登崇
+OPENING FIGHT 鈴木嵐士 vs. 早坂優瑠
+OPENING FIGHT 小林大希 vs. 森永ユキト
+OPENING FIGHT 西島恭平 vs. 林修斗
+ーーーーーーーーーー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s30046_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250614070000 +0000" stop="20250617054500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250617054500 +0000" stop="20250617120000 +0000">
+		<title>ウェディングウォーズ #1~7【今夜9時~SPchで最終回放送】</title>
+		<desc>▼みどころ
+「私との結婚、嫌になった？」
+結婚を誓い合った8組のカップルたちの過酷な婚前合宿サバイバル、開幕！
+
+貯金ゼロ、浮気、無職、セックスレス……
+
+夢の結婚資金、1000万円獲得のためバトルに挑んだはずが、過酷な生活の中でそれぞれの"本性"が暴かれていく・・・！
+
+▼概要
+結婚するのが怖くなる!?
+結婚を誓い合った8組のカップルたちによる
+過酷な婚前合宿サバイバル、開幕！
+
+貯金ゼロ、浮気、性の不一致…
+結婚資金1000万円獲得のため挑んだバトルのはずが、
+浮き彫りになっていく互いの問題と、暴かれる”本性”...!?
+
+目を背けていた現実に直面した時、
+それでも、愛を誓えますか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2030_s1_p1001/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250617120000 +0000" stop="20250621042000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20250621042000 +0000" stop="20250621130000 +0000">
+		<title>ナオキマンの都市伝説ワイドショー #1~9.5【今夜10時~SPchで最終回】</title>
+		<desc>【あの元芸能人とテレビ局の騒動による都市伝説視点で見たら…】
+スピン報道で芸能人が生贄に？
+芸能界と政界は裏で繋がっている？
+ある巨大派閥の権力者が根こそぎ狙われている？
+日本にも存在する性的ビジネスの闇
+2032年地球に隕石が衝突？
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s1_p1/thumb001.png" />
+	</programme>
 	<programme channel="abema-news" start="20250609150000 +0000" stop="20250609170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
 		<desc>地上波の放送を見逃してしまった場合でも、手元のスマートフォンやタブレットなどで気軽に「報道ステーション」をご覧いただけます。 
@@ -17852,7 +17953,7 @@ CHAMPIONSHIPでは頂点を目指し、上位6チームが“一発勝負”の�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1452/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250617120000 +0000" stop="20250617130000 +0000">
-		<title>#アベプラ①淳,赤澤岳人,田中紀子,パックン,ハヤカワ五味</title>
+		<title>#アベプラ①田村淳×竹田恒泰×経団連！選択的夫婦別姓を考える</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はシンガーソングライターTOMOOの｢Super Ball｣です。（MC）EXIT、カンニング竹山、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）安部敏樹、岩田温、乙武洋匡、カマたく、ケンドーコバヤシ、後藤寛勝、小原ブラス、佐々木俊尚、シモダテツヤ、竹中平蔵、田端信太郎、男色ディーノ、辻伸弘、てぃ先生、tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、パックン、速水健朗、堀潤、南和行、茂木健一郎、山田俊浩、ヤマトパンクス、ヨッピー、呂布カルマ、あおちゃんぺ、池澤あやか、市原えつこ、岩澤直美、薄井シンシア、大槻奈那、河崎環、菅野志桜里、紗倉まな、柴田阿弥、シャララジマ、鈴木涼美、たかまつなな、陳暁夏代、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、室井佑月、RaMu、山田邦子（気象予報士）穂川果音（進行）平石直之、仁科健吾、田中萌（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6082/thumb001.png" />
 	</programme>
@@ -18216,23 +18317,15 @@ CHAMPIONSHIPでは頂点を目指し、上位6チームが“一発勝負”の�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-153_s0_p719/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250621103000 +0000" stop="20250621110000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー/「女ヤクザ」の懺悔録</title>
+		<desc>西村まこ、57歳。当局から認定を受けた初めての「女ヤクザ」とされる。脱会後、瀕死のけがを負ったことなどから、更生支援活動に目覚める。活動の拠点である岐阜・柳ヶ瀬のマンションには、多くの元受刑者や元薬物中毒者らが暮らし、社会復帰を目指している。しかし、警察が出動する騒動も日常茶飯事で、その都度、西村が住民らの更生に力を尽くしてきた。西村には、ヤクザの母親を見限って10年近く絶縁状態になった2人の息子がいる。「会って謝りたい」再会を願って、活動に励む日々を送っている。
+※年齢等は2024年11月2日地上波初放送時</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p663/thumb001.png" />
 	</programme>
-	<programme channel="abema-news" start="20250621110000 +0000" stop="20250621113000 +0000">
-		<title>NO MAKE　-あの人を、話したくなる‐</title>
-		<desc>“あの人の素顔は…”
-俳優・タレント・アーティスト・モデルの素顔に密着。
-表舞台に立つ人の、知られざる過去とそれを受け止めた“イマ“に迫ります。
-見れば、きっと…「あの人を、話したくなる」</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-152_s0_p23/thumb001.png" />
-	</programme>
-	<programme channel="abema-news" start="20250621113000 +0000" stop="20250621120000 +0000">
-		<title>ABEMA NEWS　最新ニュース＆注目会見を速報</title>
-		<desc>緊急ニュースは最速でジャストイン！注目会見は生中継でお届けします</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-153_s0_p720/thumb001.png" />
+	<programme channel="abema-news" start="20250621110000 +0000" stop="20250621120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
 	</programme>
 	<programme channel="abema-news" start="20250621120000 +0000" stop="20250621130000 +0000">
 		<title>#アベプラ【傑作選】／ABEMA NEWS</title>
@@ -18275,9 +18368,9 @@ CHAMPIONSHIPでは頂点を目指し、上位6チームが“一発勝負”の�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-153_s0_p728/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250622020000 +0000" stop="20250622023000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー/「女ヤクザ」の懺悔録</title>
+		<desc>西村まこ、57歳。当局から認定を受けた初めての「女ヤクザ」とされる。脱会後、瀕死のけがを負ったことなどから、更生支援活動に目覚める。活動の拠点である岐阜・柳ヶ瀬のマンションには、多くの元受刑者や元薬物中毒者らが暮らし、社会復帰を目指している。しかし、警察が出動する騒動も日常茶飯事で、その都度、西村が住民らの更生に力を尽くしてきた。西村には、ヤクザの母親を見限って10年近く絶縁状態になった2人の息子がいる。「会って謝りたい」再会を願って、活動に励む日々を送っている。
+※年齢等は2024年11月2日地上波初放送時</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p664/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250622023000 +0000" stop="20250622030000 +0000">
@@ -18291,18 +18384,10 @@ CHAMPIONSHIPでは頂点を目指し、上位6チームが“一発勝負”の�
 独自取材と目線で、世間をざわつかせている話題沸騰のニュースの核心「的」に切りこみます。また、時にはあえて「的」を外した独自取材でお伝えすることで、世の中で言われている「的(マト)=正義」に疑問を投げかけます。鋭いツッコミに定評のある千原ジュニアが、一癖も二癖もあるゲストらと1週間のニュースをしゃべり倒します。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-75_s0_p997/thumb001.png" />
 	</programme>
-	<programme channel="abema-news" start="20250622050000 +0000" stop="20250622053000 +0000">
-		<title>NO MAKE　-あの人を、話したくなる‐　【見逃し配信】</title>
-		<desc>“あの人の素顔は…”
-俳優・タレント・アーティスト・モデルの素顔に密着。
-表舞台に立つ人の、知られざる過去とそれを受け止めた“イマ“に迫ります。
-見れば、きっと…「あの人を、話したくなる」</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-152_s0_p24/thumb001.png" />
-	</programme>
-	<programme channel="abema-news" start="20250622053000 +0000" stop="20250622060000 +0000">
-		<title>ABEMA NEWS　最新ニュース＆注目会見を速報</title>
-		<desc>緊急ニュースは最速でジャストイン！注目会見は生中継でお届けします</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-153_s0_p730/thumb001.png" />
+	<programme channel="abema-news" start="20250622050000 +0000" stop="20250622060000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
 	</programme>
 	<programme channel="abema-news" start="20250622060000 +0000" stop="20250622070000 +0000">
 		<title>ABEMA NEWS　最新ニュース＆エンタメ情報</title>
@@ -18326,8 +18411,8 @@ CHAMPIONSHIPでは頂点を目指し、上位6チームが“一発勝負”の�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-75_s0_p998/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250622110000 +0000" stop="20250622120000 +0000">
-		<title>都議会議員選挙 開票速報</title>
-		<desc>未定</desc>
+		<title>【LIVE】都議選2025速報SP 議席の行方</title>
+		<desc>今回の都議選は参院選が重なる12年に1度のタイミングで行われます。都議選の勢い・結果が参院選に反映されるとされ、参院選の“前哨戦”とも言われます。議席にどんな変化があるのか、結果を生放送で速報します。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-21_s0_p379/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250622120000 +0000" stop="20250622130000 +0000">
@@ -24487,23 +24572,37 @@ ABEMAで国内独占放送 !│ENHYPENを輩出した、大好評・大人気の
 そして先生たちの1日の締め、教務会議までをお届け!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/367-13_s1_p4/thumb001.png" />
 	</programme>
-	<programme channel="k-world" start="20250617124700 +0000" stop="20250617190000 +0000">
+	<programme channel="k-world" start="20250617124700 +0000" stop="20250617125000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
 	</programme>
-	<programme channel="k-world" start="20250617190000 +0000" stop="20250617202500 +0000">
+	<programme channel="k-world" start="20250617125000 +0000" stop="20250617163000 +0000">
+		<title>【日韓同時配信】WORLD OF STREET WOMAN FIGHTER #4</title>
+		<desc>【5/27(火)よりABEMAにて独占・無料配信】韓国でメガヒットを記録した「Mnet」のダンスサバイバル番組『STREET WOMAN FIGHTER(SWF)』の第3シーズン!
+韓国、ニュージーランド、アメリカ、日本、オーストラリアなどの世界各国からダンス実力者たちが集い、国別対抗戦でワールドクラスの"ダンスクルー"を決めるダンスサバイバル番組!
+TWICEモモの姉のHANAや、BTSやKing &amp; Princeなど人気アーティストの振付を担当するRIEHATAの参加に注目!
+MCにはZEROBASEONE ソン・ハンビン、審査員にはJ.Y. Parkらが就任。
+6つのチームが熾烈なダンスバトルを繰り広げ、それぞれ魅力を輝かせる姿に心震わされること間違いなし!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-69_s20000_p4/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20250617163000 +0000" stop="20250617191500 +0000">
+		<title>善意の競争 #3〜7</title>
+		<desc>ジェイは、成績や順位ばかりを気にする父親に厳しく育てられてきた。そんな父が院長を務める病院に、ジェイはスルギを連れていく。スルギは、転校初日から気にかけてくれているジェイに「なぜ親切にするの?」と尋ねる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-88_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20250617191500 +0000" stop="20250617203500 +0000">
 		<title>花よりおじいさん シーズンI (フランス・台湾編) #11【イ・ソジン出演】</title>
 		<desc>台北のランドマーク、101ビルに到着したおじいさんたち。まずは台湾の代表料理である点心を存分に楽しむ。しかし出会いがあれば別れがあるもの。おじいさんたちはサニーと別れ、雰囲気は次第に静寂の中へ。ソジンは静寂を打破するため、新北投で温泉に入り、淡水で夕焼けを観賞する計画を立てる。ソジンはガイドとして無事に復帰できるのだろうか?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-5_s1_p11/thumb001.png" />
 	</programme>
-	<programme channel="k-world" start="20250617202500 +0000" stop="20250617215000 +0000">
+	<programme channel="k-world" start="20250617203500 +0000" stop="20250617215500 +0000">
 		<title>スーパーマンが帰ってきた #544(韓国2024年10月13日放送)</title>
 		<desc>【トロットクイーン スーパーマムが現れた!】(韓国2024年10月13日放送)
 トロット歌手のチョン・ミエが登場!4人の子供を育てる“スーパーマム”として番組に合流!大病を患うも、血のにじむ努力の末、再びステージに上がったスーパーマムのリアルな育児の様子に密着!一方、ジュンボム親子の元に芸人のオ・ナミ夫妻がやって来た!ジェイソンパパに妊活の相談!ジュンボムはサッカーに挑戦!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-8_s1_p544/thumb001.png" />
 	</programme>
-	<programme channel="k-world" start="20250617215000 +0000" stop="20250617234000 +0000">
+	<programme channel="k-world" start="20250617215500 +0000" stop="20250617234000 +0000">
 		<title>三食ごはん 漁村編3 #1【イ・ソジン,SHINHWAエリック出演】</title>
 		<desc>農夫イ・ソジンが韓国の端の小さな島、得糧島(トゥクリャンド)で漁夫になる!船舶免許まで取得しキャプテンとなったソジニーの船は、新しいファミリーとともに三食ハウスへ無事到着することができるのか?几帳面な料理長エリックの時間はかかるがおいしい料理たち。そして、意欲も質問もパワーも爆発させる末っ子ユン・ギュンサン。豊かな海を抱く宝物のような島で再び始まった、魅力たっぷりのオーガニックライフ!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-11_s3_p1/thumb001.png" />
@@ -24587,6 +24686,11 @@ ABEMAで国内独占放送 !│ENHYPENを輩出した、大好評・大人気の
 		<title>三食ごはん 漁村編3 #6【イ・ソジン,SHINHWAエリック出演】</title>
 		<desc>退屈する暇もなく次々と釣れるスズキで、ギュンサンのバケツはいっぱいに。漁師三兄弟の豪華なスズキパーティーを大公開。いつの間にか大きく育った白菜畑からの素晴らしい景色には、思わず感嘆の声が。野外で食べるラーメンは絶対においしい!更にエシェフは、もう長時間待たせないぞとばかりに、31分でカニのしょうゆ漬け作りに挑戦。ソジニーはギュンサンの猫たちと共寝を?ソジンとクンの切ない密談ストーリーも...</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-11_s3_p6/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20250618163000 +0000" stop="20250618190000 +0000">
+		<title>善意の競争 #8〜11</title>
+		<desc>ジェイはスルギの個人情報を知った経緯について話したあと、スルギと学園祭を楽しむ。学園祭の真っ最中に、イェリは携帯電話の充電器を探すようクラスメートに頼む。イェリが充電したいのは自分の携帯電話ではなく...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-88_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250609145000 +0000" stop="20250609163000 +0000">
 		<title>特命係長 只野仁(2005) 第8~9話【無料2日間】</title>
@@ -28863,7 +28967,7 @@ KADOKAWAサクラナイツvs渋谷ABEMASvsTEAM RAIDEN / 雷電vsU-NEXT Pirates</
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-183_s180_p303/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250614100000 +0000" stop="20250614170000 +0000">
-		<title>ABEMAトーナメント2025 予選Aリーグ 第二試合 チーム伊藤VSチーム豊島</title>
+		<title>ABEMAトーナメント2025 予選Aリーグ 第二試合 チーム伊藤vsチーム豊島</title>
 		<desc>『ABEMAトーナメント2025』は、「ABEMA」オリジナル対局企画の第8弾です。将棋界唯一のドラフト会議を経て決定した7チーム、そしてエントリートーナメントを勝ち抜いた棋士チームの計8チームによる団体戦で争います。『ABEMAトーナメント2025』 では、引き続き最多賞、最高勝率賞、最多対局賞、予選最高成績賞、敢闘賞の5つの個人賞がおくられます。
  
 また、今回のドラフト会議ではリーダーとして伊藤匠叡王が初参戦。総勢24名の棋士たちによる、超早指しのスピード感ある対局、団体戦だからこそ生まれる棋士同士の絆を武器に、約4カ月にわたり本トーナメントを戦い抜きます。
@@ -28996,7 +29100,7 @@ KADOKAWAサクラナイツvs渋谷ABEMASvsTEAM RAIDEN / 雷電vsU-NEXT Pirates</
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-22_s10000_p31/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250621100000 +0000" stop="20250621170000 +0000">
-		<title>ABEMAトーナメント2025 予選Bリーグ第一試合 チーム藤井VSチーム天彦</title>
+		<title>ABEMAトーナメント2025 予選Bリーグ第一試合 チーム藤井vsチーム天彦</title>
 		<desc>『ABEMAトーナメント2025』は、「ABEMA」オリジナル対局企画の第8弾です。将棋界唯一のドラフト会議を経て決定した7チーム、そしてエントリートーナメントを勝ち抜いた棋士チームの計8チームによる団体戦で争います。『ABEMAトーナメント2025』 では、引き続き最多賞、最高勝率賞、最多対局賞、予選最高成績賞、敢闘賞の5つの個人賞がおくられます。
  
 また、今回のドラフト会議ではリーダーとして伊藤匠叡王が初参戦。総勢24名の棋士たちによる、超早指しのスピード感ある対局、団体戦だからこそ生まれる棋士同士の絆を武器に、約4カ月にわたり本トーナメントを戦い抜きます。
