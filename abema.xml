@@ -152,6 +152,10 @@
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
 	</channel>
+	<channel id="world-sports-1">
+		<display-name>SPORTS LIVE1 チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -16183,7 +16187,7 @@ Abema Towers 「真夜中放送局」 係</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-153_s0_p751/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250625030000 +0000" stop="20250625041500 +0000">
-		<title>ABEMAヒルズ　そのニュース、ゆっくり話そう</title>
+		<title>＃アベヒル　フジ株主総会/元官僚芸人が斬るキャリア官僚不人気</title>
 		<desc>「そのニュース、ゆっくり話そう」
 大量の情報が通り過ぎていく毎日。ちょっと立ち止まって、そのニュースをゆっくり話したい。番組MCの柴田阿弥、徳永有美が気になる話題を個性豊かな識者らと語り合います。好奇心の赴くままに。そのニュースは、社会を、政治を、経済を、世界を、そして、あなたの生活を、どう変えるのか…？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-52_s0_p1978/thumb001.png" />
@@ -28007,6 +28011,53 @@ https://abema.tv/video/title/16-92
 		<title>S.LEAGUE 24-25 ロングボード第2戦 DAY2</title>
 		<desc>ロングボードのSリーグ第二戦。 2024年9月15日(日) ~ 9月16日(月) 予備日:17日 神奈川県茅ヶ崎市 茅ヶ崎パーク(ヘッドランドビーチ)にて行われた大会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s20_p3/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250625040000 +0000" stop="20250625090000 +0000">
+		<title>JAPAN PLAYERS CHAMPIONSHIP byサトウ食品 直前特番</title>
+		<desc>明日から始まる大会の練習ラウンドで出場注目選手に密着特別番組!
+
+ジャパンゴルフツアー選手会が主催する『JAPAN PLAYERS CHAMPIONSHIP byサトウ食品』をABEMAで生中継!第5回大会を迎える本大会は今年も西那須野カントリー倶楽部(栃木県)を舞台に熱戦が繰り広げられる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10002_p7/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250625090000 +0000" stop="20250626000000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250626000000 +0000" stop="20250626103000 +0000">
+		<title>JAPAN PLAYERS CHAMPIONSHIP by サトウ食品　1日目</title>
+		<desc>ジャパンゴルフツアー選手会が主催する『JAPAN PLAYERS CHAMPIONSHIP byサトウ食品』をABEMAで生中継!第5回大会を迎える本大会は今年も西那須野カントリー倶楽部(栃木県)を舞台に熱戦が繰り広げられる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10002_p9/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250626103000 +0000" stop="20250627000000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250627000000 +0000" stop="20250627103000 +0000">
+		<title>JAPAN PLAYERS CHAMPIONSHIP by サトウ食品　2日目</title>
+		<desc>ジャパンゴルフツアー選手会が主催する『JAPAN PLAYERS CHAMPIONSHIP byサトウ食品』をABEMAで生中継!第5回大会を迎える本大会は今年も西那須野カントリー倶楽部(栃木県)を舞台に熱戦が繰り広げられる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10002_p10/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250627103000 +0000" stop="20250627230000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250627230000 +0000" stop="20250628080000 +0000">
+		<title>JAPAN PLAYERS CHAMPIONSHIP by サトウ食品　3日目</title>
+		<desc>ジャパンゴルフツアー選手会が主催する『JAPAN PLAYERS CHAMPIONSHIP byサトウ食品』をABEMAで生中継!第5回大会を迎える本大会は今年も西那須野カントリー倶楽部(栃木県)を舞台に熱戦が繰り広げられる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10002_p11/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250628080000 +0000" stop="20250628230000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250628230000 +0000" stop="20250629080000 +0000">
+		<title>JAPAN PLAYERS CHAMPIONSHIP by サトウ食品　最終日</title>
+		<desc>ジャパンゴルフツアー選手会が主催する『JAPAN PLAYERS CHAMPIONSHIP byサトウ食品』をABEMAで生中継!第5回大会を迎える本大会は今年も西那須野カントリー倶楽部(栃木県)を舞台に熱戦が繰り広げられる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10002_p12/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250617150000 +0000" stop="20250617180000 +0000">
 		<title>K-1 WGP ~よこはまつり~ 2021.9.20 濃縮版</title>
