@@ -140,6 +140,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -13348,10 +13352,18 @@ AK-69の高価な私物をISSEIはゲットできるのか！？
 異なる立場の“ママ”として本音を語り合う！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2029_s10000_p8/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250629130000 +0000" stop="20250629140000 +0000">
+	<programme channel="abema-special" start="20250629130000 +0000" stop="20250629133000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20250629133000 +0000" stop="20250629140000 +0000">
+		<title>スマイル 晴れのちバタバタ</title>
+		<desc>バタバタしても、笑って迎えたい「大切な日」がある。
+進級式、遠足、家族旅行——。誰にだって、「この日だけは元気に笑って過ごしてほしい」と願う“ハレの日”。
+そんな“大切な日”を笑顔で迎えるため日頃の免疫ケアの大切さを芸能人パパが伝えていく。子どもたちと芸能人パパのほっこりする、ちょっとバタバタな観察バラエティ。
+【提供】キリンホールディングス株式会社</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p123/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250629140000 +0000" stop="20250629152000 +0000">
 		<title>千鳥MC チャンスの時間 #319</title>
@@ -27123,6 +27135,23 @@ EX風林火山vsKONAMI 麻雀格闘倶楽部vs渋谷ABEMASvsセガサミーフ�
 技術を極め、運を掴むのはいったい誰か。
 リーチ麻雀発祥の地で繰り広げられる熱い戦いを、目撃せよ。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/724-1_s10000_p1/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250618030000 +0000" stop="20250618145000 +0000">
+		<title>第50期最高位戦A1リーグ 第7節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p16/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250618145000 +0000" stop="20250625030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250625030000 +0000" stop="20250625145000 +0000">
+		<title>第50期最高位戦A1リーグ 第7節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p17/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250617131100 +0000" stop="20250617220400 +0000">
 		<title>【再】第72期 王座戦 五番勝負 第1局 藤井聡太王座 対 永瀬拓矢九段</title>
