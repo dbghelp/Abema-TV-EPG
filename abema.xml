@@ -144,6 +144,10 @@
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
 	</channel>
+	<channel id="shogi-live">
+		<display-name>将棋 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi-live/logo.png" />
+	</channel>
 	<channel id="world-sports">
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
@@ -27533,6 +27537,14 @@ EX風林火山vs渋谷ABEMASvsセガサミーフェニックスvsU-NEXT Pirates<
  
 ※段位は収録当時のものになります</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-9_s0_p8/thumb001.png" />
+	</programme>
+	<programme channel="shogi-live" start="20250704233000 +0000" stop="20250705103000 +0000">
+		<title>伊藤園お~いお茶杯第66期王位戦七番勝負第1局1日目藤井聡太王位対永瀬拓矢九段</title>
+		<desc>王位戦は、全棋士と女流棋士2名で行います。予選をトーナメントで行い、その勝ち上がり者とシード棋士4人により紅白2ブロックに分けてリーグ戦を行います。
+リーグ戦の優勝者はリーグ戦勝敗を優先とし、同星で並んだ場合、
+(1)4勝1敗で並んだ場合、該当者が2名・3名に関わらずプレーオフを行います《3名の場合は、前期成績(前期リーグ勝星&gt;前期予選勝星)でシード者を決め、1回戦は残留決定戦を兼ねる》。
+(2)3勝2敗で並んだ場合、3名では該当する直接対決&gt;前期成績(前期リーグ勝星&gt;前期予選勝星)、4名では該当する直接対決、5名では前期成績(前期リーグ勝星&gt;前期予選勝星)で優勝者・残留者を決めます。紅白の優勝者で挑戦者決定戦を行います。王位とその挑戦者決定戦の勝者が、例年7月から9月にかけて七番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-11_s10000_p18/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250627132000 +0000" stop="20250627232000 +0000">
 		<title>S.LEAGUE 24-25 ショートボード&amp;ロングボード第1戦 DAY3</title>
