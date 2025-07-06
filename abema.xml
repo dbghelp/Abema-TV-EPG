@@ -156,6 +156,10 @@
 		<display-name>MOTOR SPORTチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
 	</channel>
+	<channel id="boxing">
+		<display-name>ボクシングチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
+	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -29275,6 +29279,25 @@ https://abema.tv/video/title/634-3
 ▼NASCARはこちら
 https://abema.tv/video/title/16-92</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s20000_p136/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20250706053000 +0000" stop="20250706130000 +0000">
+		<title>BENKEI FIGHT vol.6</title>
+		<desc>亀田大毅プレゼンツ、話題の大阪興行「BENKEI FIGHT vol.6」の様子をABEMA無料生中継！
+波乱必至の激闘を見逃すな！
+
+▼予定カード
+第七試合：井上恵吾 vs 山辺蓮（エキシビションマッチ）
+第六試合：亀田 正毅 vs 橋本 拓也（スーパーライト級８回戦）
+第五試合：ラーメン高橋 vs 徳永 竜己（西日本新人王 スーパーフェザー級準決勝４回戦）
+第四試合：佐々木る玖 vs 大島光容（エキシビションマッチ）
+第三試合：中山 京介 vs 木津西 恵斗（ライト級４回戦）
+第二試合：浜崎 隆広 vs 伊集院 嵐（ライト級６回戦）
+第一試合：江浦 樹 vs 嶋田 来生輝（ライトフライ級４回戦）
+
+▼キャスト
+実況：市川 勝也
+解説：田中 恒成</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/720-1_s10002_p1/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250628150000 +0000" stop="20250628185500 +0000">
 		<title>K-1 WORLD GP 2019.8.24 4時間濃縮編集版</title>
