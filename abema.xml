@@ -140,6 +140,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -850,9 +854,9 @@
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-61_s1_p12/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250714160000 +0000" stop="20250714163000 +0000">
-		<title>鬼人幻燈抄 #14【WEB最速】</title>
-		<desc>時は天保十年（1839年）、冬。甚夜がまだ、甚太だったころーー。戻川になんらかの怪異が棲みついたという話を受けて「いつきひめ」の白夜は、甚太を鬼切役に就かせ、葛野を護るためにも怪異の正体を探ってくるようにと命じる。甚太が葛野を離れる間、白夜の護衛役は清正が務めることになり、白夜と甚太の心にはさざ波が立つ。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/169-144_s1_p14/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250714163000 +0000" stop="20250714170000 +0000">
 		<title>アン・シャーリー #15【最新話】</title>
@@ -14923,7 +14927,7 @@ ABEMA完全オリジナルの招待制ポーカートーナメントが開幕。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-153_s0_p950/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250716030000 +0000" stop="20250716041500 +0000">
-		<title>ABEMAヒルズ　そのニュース、ゆっくり話そう</title>
+		<title>＃アベヒル 参院選 外国人政策/プロボクサー×MANGA</title>
 		<desc>「そのニュース、ゆっくり話そう」
 大量の情報が通り過ぎていく毎日。ちょっと立ち止まって、そのニュースをゆっくり話したい。番組MCの柴田阿弥、徳永有美が気になる話題を個性豊かな識者らと語り合います。好奇心の赴くままに。そのニュースは、社会を、政治を、経済を、世界を、そして、あなたの生活を、どう変えるのか…？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-52_s0_p1993/thumb001.png" />
@@ -15349,8 +15353,8 @@ ABEMA完全オリジナルの招待制ポーカートーナメントが開幕。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-21_s0_p380/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250720140000 +0000" stop="20250720170000 +0000">
-		<title>参院選 深夜の開票速報</title>
-		<desc>未定</desc>
+		<title>【LIVE】参院選2025開票速報 議席の行方は？</title>
+		<desc>参議院議員選挙の開票速報を生放送。深夜に情勢が判明する接戦選挙区の結果も余すところなくお伝えします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-21_s0_p381/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250720170000 +0000" stop="20250720183000 +0000">
@@ -25752,6 +25756,34 @@ EX風林火山vsKADOKAWAサクラナイツvs渋谷ABEMASvsTEAM RAIDEN / 雷電</
 		<desc>プロ連盟の頂点を決める1年間のリーグ戦。A1リーグは15人、A2リーグは16人で行われ、A1リーグ上位3選手が鳳凰位決定戦に進出となる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p20/thumb001.png" />
 	</programme>
+	<programme channel="mahjong-live" start="20250709030000 +0000" stop="20250709145000 +0000">
+		<title>第50期最高位戦A1リーグ 第7節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p19/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250709145000 +0000" stop="20250716030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250716030000 +0000" stop="20250716145000 +0000">
+		<title>第50期最高位戦A1リーグ 第8節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p20/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250716145000 +0000" stop="20250723030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250723030000 +0000" stop="20250723145000 +0000">
+		<title>第50期最高位戦A1リーグ 第8節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p21/thumb001.png" />
+	</programme>
 	<programme channel="shogi" start="20250708110500 +0000" stop="20250708201600 +0000">
 		<title>【再】第83期 順位戦 B級1組 13回戦 羽生善治九段 対 大橋貴洸七段</title>
 		<desc>順位戦はフリークラスを除いた棋士をA級からC級2組の5つの組に分けてリーグ戦を行います。A級同率首位の棋士が複数出た場合は同率の棋士全員によるプレーオフとなります。名人とA級優勝者が、例年4月から7月にかけて七番勝負を行います。名人戦とは、将棋界で最も格式と歴史のある「名人」のタイトル称号を懸けて行われる七番勝負。名人戦の予選は順位戦と呼ばれ、A級順位戦の優勝者が挑戦者となります。</desc>
@@ -32851,7 +32883,7 @@ https://www.winticket.jp/keirin/keiokaku/racecard/2025071427/?index=3</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-3_s1_p2301/thumb001.png" />
 	</programme>
 	<programme channel="keirin-auto" start="20250716113000 +0000" stop="20250716154500 +0000">
-		<title>No TitleWINTICKET ミッドナイト競輪 川崎 F2 初日</title>
+		<title>WINTICKET ミッドナイト競輪 川崎 F2 初日</title>
 		<desc>いつでもどこでも楽しめる夜のエンターテイメント
 「ミッドナイト競輪」
 
