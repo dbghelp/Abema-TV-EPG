@@ -136,6 +136,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -189,9 +193,9 @@
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/189-83_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250715170000 +0000" stop="20250715173000 +0000">
-		<title>ハイガクラ #2【無料ビデオ1週間】</title>
-		<desc>任務により沖縄の小島に流れ着いた一葉と滇紅。二人は彼らを見つけた島の少年・流に迎えられ、流が姉と二人暮らしをしている家に滞在することになる。流の姉は世界中を旅する写真家で、そのときも流は一人で留守番をしていた。しかし、その夜、出先から帰宅した姉は一葉たちを家から追い出そうとし、「自分に弟はいない」と衝撃の事実を口にする。一体、流は何者なのか――島に嵐が迫るなか、流が姿を消し……。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/117-40_s1_p2/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250715173000 +0000" stop="20250715180000 +0000">
 		<title>Turkey! #2【最新話】</title>
@@ -503,9 +507,9 @@
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-266_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250718173000 +0000" stop="20250718173500 +0000">
-		<title>人妻の唇は缶チューハイの味がして【オンエア版】 #3【最新話】</title>
-		<desc>大学時代の先輩で憧れのマドンナ・神崎美紀と男友達2人で、リモート飲み会を開催したツヨシ。缶チューハイで酔っぱらった美紀は、既婚でありながら画面越しで無防備な姿をさらし、ツヨシたちは目が離せなくなってしまう…</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/643-12_s1_p3/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250718173500 +0000" stop="20250718174500 +0000">
 		<title>ヤンキーハムスター #15〜18【無料ビデオ1週間】</title>
@@ -2862,7 +2866,18 @@ Wapperくんは、なかまとともにかいけつできるのか⁉</desc>
 オカルティックバトル＆青春物語、開幕！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p117/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime-2" start="20250728020000 +0000" stop="20250728113000 +0000">
+	<programme channel="abema-anime-2" start="20250728020000 +0000" stop="20250728100000 +0000">
+		<title>ダンダダン #1〜16</title>
+		<desc>霊媒師の家系に生まれた女子高生・モモ＜綾瀬桃＞と、同級生でオカルトマニアのオカルン＜高倉健＞。
+モモがクラスのいじめっ子からオカルンを助けたことをきっかけに話すようになった2人だったが、「幽霊は信じているが宇宙人否定派」のモモと、「宇宙人は信じているが幽霊否定派」のオカルンで口論に。
+互いに否定する宇宙人と幽霊を信じさせるため、モモはUFOスポットの病院廃墟へ、オカルンは心霊スポットのトンネルへ。
+そこで2人は、理解を超越した圧倒的怪奇に出会う。
+窮地の中で秘めた力を覚醒させるモモと、呪いの力を手にしたオカルンが、迫りくる怪奇に挑む！
+運命の恋も始まる！？
+オカルティックバトル＆青春物語、開幕！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p117/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20250728100000 +0000" stop="20250728113000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png" />
@@ -5653,9 +5668,9 @@ TVアニメ「おそ松さん」10周年突入！
 	</programme>
 	<programme channel="anime-live" start="20250728130000 +0000" stop="20250728143000 +0000">
 		<title>声優と夜あそび 月【安元洋貴×小林千晃】#13</title>
-		<desc>【月曜日は安元洋貴×小林千晃】
-月曜〜日曜まで人気声優が豪華なゲストや作品と共にお届けするディープな"夜あそび"。
-この番組はABEMAプレミアムなら何回でも見逃し視聴が可能！無料ダイジェストも毎日配信中。</desc>
+		<desc>【月曜日は安元洋貴×小林千晃】 月曜〜日曜まで人気声優が豪華なゲストや作品と共にお届けするディープな"夜あそび"。 この番組はABEMAプレミアムなら何回でも見逃し視聴が可能！無料ダイジェストも毎日配信中。
+
+【提供】ネスレ日本株式会社</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-795_s10012_p13/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250728143000 +0000" stop="20250729130000 +0000">
@@ -25130,6 +25145,34 @@ EX風林火山vsKADOKAWAサクラナイツvs渋谷ABEMASvsU-NEXT Pirates</desc>
 		<desc>プロ連盟の頂点を決める1年間のリーグ戦。A1リーグは15人、A2リーグは16人で行われ、A1リーグ上位3選手が鳳凰位決定戦に進出となる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p22/thumb001.png" />
 	</programme>
+	<programme channel="mahjong-live" start="20250716030000 +0000" stop="20250716145000 +0000">
+		<title>第50期最高位戦A1リーグ 第8節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p20/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250716145000 +0000" stop="20250723030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250723030000 +0000" stop="20250723145000 +0000">
+		<title>第50期最高位戦A1リーグ 第8節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p21/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250723145000 +0000" stop="20250730030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250730030000 +0000" stop="20250730145000 +0000">
+		<title>第50期最高位戦A1リーグ 第8節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p22/thumb001.png" />
+	</programme>
 	<programme channel="shogi" start="20250715103000 +0000" stop="20250715233000 +0000">
 		<title>【再】伊藤園お~いお茶杯第65期王位戦七番勝負第3局 藤井聡太王位対渡辺明九段</title>
 		<desc>王位戦は、全棋士と女流棋士2名で行います。予選をトーナメントで行い、その勝ち上がり者とシード棋士4人により紅白2ブロックに分けてリーグ戦を行います。
@@ -25267,19 +25310,33 @@ EX風林火山vsKADOKAWAサクラナイツvs渋谷ABEMASvsU-NEXT Pirates</desc>
 		<desc>棋王戦は、全棋士と女流名人、アマ名人で行います。予選をトーナメントで行い、その通過者とシード者で本戦トーナメントを行います。なお、本戦はベスト4以上は2敗失格制となり、敗者復活戦があります。挑戦者決定戦は変則2番勝負で、勝者組優勝者は2局のうち1回勝てば挑戦権を得ますが、敗者復活戦優勝者は2連勝が挑戦の条件となります。棋王とその優勝者が、例年2月から3月にかけて五番勝負を行います。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-31_s50_p7/thumb001.png" />
 	</programme>
-	<programme channel="shogi" start="20250724201700 +0000" stop="20250724214500 +0000">
+	<programme channel="shogi" start="20250724201700 +0000" stop="20250724205200 +0000">
+		<title>AbemaTV初級講座 四間飛車編</title>
+		<desc>シリーズでお送りするAbemaTVオリジナルの将棋講座。振り飛車でも特に人気の四間飛車。初形から駒組み完成までの手順を丁寧に解説。大事なポイントがいくつも出てきます。相手の攻めをかわして戦うテクニックは必見です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/288-4_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20250724205200 +0000" stop="20250724222000 +0000">
 		<title>【再】『瀬戸将棋まつり』公開対局2日目 斎藤慎太郎王座 対 菅井竜也七段</title>
 		<desc>瀬戸市制施行90周年記念『瀬戸将棋まつり』!公開対局2日目は斎藤慎太郎王座が登場!対するは菅井竜也七段。両者とも藤井聡太七段に公式戦では勝ち越しているという実績を持つ!藤井聡太七段の地元瀬戸市でどのような戦いを見せるのか!?注目の一戦。
 ※この番組は2019年5月26日に放送された番組です。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/288-19_s1_p2/thumb001.png" />
 	</programme>
-	<programme channel="shogi" start="20250724214500 +0000" stop="20250724233000 +0000">
+	<programme channel="shogi" start="20250724222000 +0000" stop="20250725000500 +0000">
 		<title>【再】『瀬戸将棋まつり』公開対局1日目 木村一基九段 対 藤井聡太七段</title>
 		<desc>瀬戸市制施行90周年記念『瀬戸将棋まつり』!公開対局として藤井聡太七段登場!もちろん瀬戸市は藤井聡太七段の出身地として、地元の大スターの登場である。対するは"千駄ヶ谷の受け師"木村一基九段登場!公式戦では対局経験がないこの2人、このイベントでどのような戦いをみせてくれるのか、大注目の一戦。
 ※この番組は2019年5月25日に放送された番組です。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/288-19_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="shogi" start="20250724233000 +0000" stop="20250725160000 +0000">
+	<programme channel="shogi" start="20250725000500 +0000" stop="20250725003000 +0000">
+		<title>毎週よる7時から ABEMAトーナメント2025</title>
+		<desc>『ABEMAトーナメント2025』は、「ABEMA」オリジナル対局企画の第8弾です。将棋界唯一のドラフト会議を経て決定した7チーム、そしてエントリートーナメントを勝ち抜いた棋士チームの計8チームによる団体戦で争います。『ABEMAトーナメント2025』 では、引き続き最多賞、最高勝率賞、最多対局賞、予選最高成績賞、敢闘賞の5つの個人賞がおくられます。
+ 
+また、今回のドラフト会議ではリーダーとして伊藤匠叡王が初参戦。総勢24名の棋士たちによる、超早指しのスピード感ある対局、団体戦だからこそ生まれる棋士同士の絆を武器に、約4カ月にわたり本トーナメントを戦い抜きます。
+ 
+※段位は収録当時のものになります</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/288-42_s10_p2001/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20250725003000 +0000" stop="20250725160000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -25320,7 +25377,12 @@ EX風林火山vsKADOKAWAサクラナイツvs渋谷ABEMASvsU-NEXT Pirates</desc>
 ※段位は収録当時のものになります</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-9_s0_p10/thumb001.png" />
 	</programme>
-	<programme channel="shogi" start="20250726170000 +0000" stop="20250729233000 +0000">
+	<programme channel="shogi" start="20250726170000 +0000" stop="20250727013700 +0000">
+		<title>【再】第10期 叡王戦 五番勝負 第2局 伊藤匠叡王 対 斎藤慎太郎八段</title>
+		<desc>叡王戦は全棋士の段位別予選と本戦を勝ち抜いた2名が決勝五番勝負を行い、先に3勝した棋士が「叡王」の称号を獲得します(第4期以降は本戦優勝者が叡王への挑戦権を獲得)。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-89_s10_p19/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20250727013700 +0000" stop="20250729233000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -25962,9 +26024,14 @@ J1“初昇格”チーム「FC町田ゼルビア」躍進の裏側に迫る…!
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s60_p2/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250723080000 +0000" stop="20250723083000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+		<title>【再】ABEMAスポーツタイム#96</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p96/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250723083000 +0000" stop="20250723143000 +0000">
 		<title>マイナビオールスターゲーム2025　第1戦</title>
@@ -26050,9 +26117,14 @@ https://abema.tv/video/title/16-92
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-3_s30_p1/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250724080000 +0000" stop="20250724083000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+		<title>【再】ABEMAスポーツタイム#96</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p96/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250724083000 +0000" stop="20250724143000 +0000">
 		<title>マイナビオールスターゲーム2025　第2戦</title>
@@ -26142,9 +26214,14 @@ J1“初昇格”チーム「FC町田ゼルビア」躍進の裏側に迫る…!
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2012_s1_p10/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250725074000 +0000" stop="20250725081000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+		<title>【再】ABEMAスポーツタイム#96</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p96/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250725081000 +0000" stop="20250725104000 +0000">
 		<title>【再】スーパーフォーミュラ2025 Rd.5 オートポリス</title>
@@ -27522,7 +27599,365 @@ MOE vs 森川 侑凜
 小松 貴哉 vs 啓斗</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-135_s30_p5/thumb001.png" />
 	</programme>
-	<programme channel="fighting-sports" start="20250722195000 +0000" stop="20250725080000 +0000">
+	<programme channel="fighting-sports" start="20250722195000 +0000" stop="20250722205000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250722205000 +0000" stop="20250722234500 +0000">
+		<title>殴り合い上等! 安保瑠輝也 ベストバウト</title>
+		<desc>第4代K-1 WORLD GPスーパー・ライト級王者 安保瑠輝也
+幼少時代に“安保兄弟”として注目を集め、2016年11月にK-1デビュー
+あのゲーオ・ウィラサクレックに勝利し王座を戴冠した安保瑠輝也の試合を厳選してお届け!!
+
+2017年2月25日 K-1 WORLD GP 2017 JAPAN
+vs水町浩
+
+2017年7月16日 Krush.77
+vsドン・ザーチー 
+
+2017年11月5日 Krush.82
+vs 恭士郎
+
+2018年9月24日 K-1 WORLD GP 2018 JAPAN 
+vs  林 健太
+
+2018年12月8日  K-1 WORLD GP 2018 JAPAN
+vs 山崎 秀晃
+
+2019年3月10日 K-1 WORLD GP 2019 JAPAN ~K'FESTA.2~
+vs 佐々木 大蔵
+
+2019年6月30日 K-1 WORLD GP 2019 JAPAN 
+vs ゲーオ・ウィラサクレック 
+
+2019年12月28日 K-1冬のビッグマッチ 第2弾 名古屋 
+vs ゲーオ・ウィラサクレック
+
+2020年3月22日  K-1 WORLD GP 2020 JAPAN ~K'FESTA.3~
+vs 不可思</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-116_s10_p19/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250722234500 +0000" stop="20250723035500 +0000">
+		<title>NOAH DEMOLITION STAGE 2022.10.16</title>
+		<desc>2000年8月5日にプロレス界の“方舟”となるべく旗揚げしたプロレス団体「NOAH」。
+2022年10月16日に放送された「ABEMA presents DEMOLITION STAGE 2022 in FUKUOKA」の模様を公開!
+
+メインベント タッグマッチダブルバウトルール
+拳王&amp;船木誠勝vs桜庭和志&amp;鈴木秀樹
+
+セミファイナル  6人タッグマッチ
+PRO-WRESTLING LOVE FOREVER .EX FUKUOKA FINAL~TRANS MAGIC~
+武藤敬司&amp;小島聡&amp;ニンジャ・マックvs丸藤正道&amp;ジャック・モリス&amp;HAYATA
+
+第6試合 イリミネーションマッチ
+小峠篤司&amp;吉岡世起&amp;YO-HEY&amp;アレハンドロvs近藤修司&amp;タダスケ&amp;大原はじめ&amp;Hi69
+
+第5試合 6人タッグマッチ
+清宮海斗&amp;稲葉大樹&amp;稲村愛輝vs藤田和之&amp;杉浦貴&amp;田中将斗
+
+第4試合 シングルマッチ
+中嶋勝彦vsクリス・リッジウェイ
+
+第3試合 6人タッグマッチ
+小川良成&amp;矢野安崇&amp;藤村加偉vsNOSAWA論外&amp;Eita&amp;スペル・クレイジー
+
+第2試合 タッグマッチ
+マサ北宮&amp;谷口周平vsモハメド ヨネ&amp;齋藤彰俊
+
+第1試合 シングルマッチ
+征矢学vs小澤大嗣</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-11_s200_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250723035500 +0000" stop="20250723053500 +0000">
+		<title>【再】WWE SMACKDOWN×ABEMA#49</title>
+		<desc>毎週金曜夜(現地)に行われる「SMACKDOWN」をお届け!世界最高エンタメ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s13_p45/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250723053500 +0000" stop="20250723080000 +0000">
+		<title>【再】WWE RAW×ABEMA#38</title>
+		<desc>毎週月曜夜(現地)に行われる「RAW」をお届け!世界最高エンタメ
+ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s13_p34/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250723080000 +0000" stop="20250723105500 +0000">
+		<title>K-1 WGP 2019.8.24 大阪大会 3時間濃縮編集版</title>
+		<desc>2019年8月24日(土)にエディオンアリーナ大阪で開催されたK-1 WORLD GP 2019 JAPAN 8.24 大阪大会をAbemaTVにて配信!
+第3試合/松岡 力 vs 近藤 魁成
+第4試合/篠原 悠人 vs 川﨑 真一朗
+第7試合/愛鷹 亮 vs シナ・カリミアン
+第8試合/城戸 康裕 vs アントニオ・ゴメス
+第9試合/大泉 翔 vs 木村“フィリップ”ミノル
+第10試合/野杁 正明 vs サミ・ラミリ
+第11試合/林 健太 vs デニス・デミルカプ
+第12試合/皇治 vs 大岩 龍矢</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-108_s10_p51/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250723105500 +0000" stop="20250723152500 +0000">
+		<title>Krush.136 2022.4.30</title>
+		<desc>超攻撃型打撃格闘技「Krush」2022年4月30日 後楽園ホールで行われた「Krush.136」の模様をお届け!
+対戦カード
+
+メインイベント(第10試合)/【株式会社 東亜工業所 Presents】Krushライト級タイトルマッチ/3分3R・延長1R 瓦田 脩二 vs 大沢 文也
+
+セミファイナル(第9試合)/Krushライト級/3分3R・延長1R 西京 佑馬 vs 増井 侑輝
+
+第8試合/Krushフェザー級/3分3R・延長1R 國枝 悠太 vs 岡嶋 形徒
+
+第7試合/Krushフェザー級/3分3R・延長1R 森坂 陸 vs 竹内 将生
+
+第6試合/Krushスーパー・ライト級/3分3R・延長1R ヴィトー・トファネリ vs 稲垣 柊
+
+第5試合/Krushスーパー・ウェルター級/3分3R・延長1R 藤村 大輔 vs 森田 奈男樹
+
+第4試合/Krushバンタム級/3分3R・延長1R 峯 大樹 vs 大村 修輝
+
+第3試合/Krushライト級/3分3R・延長1R 東本 央貴 vs 竜樹
+
+第2試合/Krushフライ級/3分3R・延長1R 萩原 秀斗 vs 大夢
+
+第1試合/-58.5kg契約/3分3R・延長1R 水津 空良 vs 犬童 凛
+
+プレリミナリーファイト第2試合/Krushライト級/3分3R 河北 光生 vs 大関 敬真
+
+プレリミナリーファイト第1試合/Krushライト級/3分3R 原田 優介 vs 三宅 祐弥</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-135_s40_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250723152500 +0000" stop="20250723155500 +0000">
+		<title>芦澤竜誠と行く ぶらり喧嘩旅 アメリカ編#3</title>
+		<desc>とにかくなんでも噛み付く男・芦澤竜誠が世界を巡る旅に出た!
+旅のお供は、芦澤に文句が言える唯一の天敵・マッコイ斎藤!
+
+ゆく先々で起こるハプニングや喧嘩、そして、ちょっと泣ける感動話まで。
+今、最高にスリリングな旅がはじまる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-124_s10_p13/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250723155500 +0000" stop="20250723162500 +0000">
+		<title>芦澤竜誠と行く ぶらり喧嘩旅 アメリカ編#4</title>
+		<desc>とにかくなんでも噛み付く男・芦澤竜誠が世界を巡る旅に出た!
+旅のお供は、芦澤に文句が言える唯一の天敵・マッコイ斎藤!
+
+ゆく先々で起こるハプニングや喧嘩、そして、ちょっと泣ける感動話まで。
+今、最高にスリリングな旅がはじまる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-124_s10_p14/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250723162500 +0000" stop="20250723192000 +0000">
+		<title>壊しの女王・KANA 破壊しまくり!ベストバウト</title>
+		<desc>"クラッシャー・クイーン"KANA
+K-1史上初の女子王者の称号を得た、K-1女子を背負って立つ最強・KANAの豪快で凄まじいその破壊力を見よ!
+
+2020.3.22 K-1 WORLD GP 2020 JAPAN ~K'FESTA.3~
+vs グロリア・ペリトーレ
+
+2019.12.28  “K-1冬のビッグマッチ 第2弾 名古屋”
+~初代女子フライ級王座決定トーナメント
+vs ヨセフィン・ノットソン  
+vs クリスティーナ・モラレス
+
+2018.8.18  Krush.92 ~in NAGOYA~
+女子フライ級タイトルマッチ
+vs リュウ・シーベイ
+
+2018.5.17  Krush.88
+女子フライ級タイトルマッチ
+vs キム・タウンセンド
+
+2017.8.20  Krush.79 ~in NAGOYA~
+vs エミリー・マシュー 
+
+2016.9.30  Krush.69
+-50kg契約 タイトルマッチ
+vs キル・ビー
+
+2016.2.5  Krush.63
+vs ジョン・へジン</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-116_s10_p21/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250723192000 +0000" stop="20250724004500 +0000">
+		<title>NOAH WRESTLING LOVE FOREVER 2022.10.30</title>
+		<desc>2000年8月5日にプロレス界の“方舟”となるべく旗揚げしたプロレス団体「NOAH」。
+2022年10月30日に放送された「ABEMA presents 有明凱旋ーTHE RETURNーPRO-WRESTLING LOVE FOREVER . 3 ~TRIUMPH~」の模様を公開!
+
+メインイベント GHCヘビー級選手権試合
+清宮海斗vs藤田和之
+
+セミファイナル 6人タッグマッチ
+PRO-WRESTLING LOVE FOREVER . 3 ~TRIUMPH~
+武藤敬司&amp;丸藤正道&amp;稲村愛輝vs棚橋弘至&amp;真壁刀義&amp;本間朋晃
+
+第8試合 GHCタッグ選手権試合
+杉浦貴&amp;小島聡vs拳王&amp;中嶋勝彦
+
+第7試合 GHCナショナル選手権試合
+GHCマーシャルアーツルール
+船木誠勝vs桜庭和志
+
+第6試合 GHCジュニアヘビー級選手権試合
+HAYATAvsニンジャ・マック
+
+第5試合 GHCジュニア・ヘビー級タッグ選手権試合
+小峠篤司&amp;吉岡世起vsタダスケ&amp;Hi69
+
+第4試合 タッグマッチ
+鈴木秀樹&amp;イホ・デ・ドクトル・ワグナーJr.vs田中将斗&amp;マサ北宮
+
+第3試合 6人タッグマッチ
+小川良成&amp;クリス・リッジウェイ&amp;矢野安崇vsNOSAWA論外&amp;Eita&amp;スペル・クレイジー
+
+第2試合 タッグマッチ
+稲葉大樹&amp;YO-HEYvsジャック・モリス&amp;ダンテ・レオン
+
+第1試合 6人タッグマッチ
+谷口周平&amp;アレハンドロ&amp;エクストリーム・タイガーvs征矢学&amp;近藤修司&amp;大原はじめ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-11_s210_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250724004500 +0000" stop="20250724024000 +0000">
+		<title>【再】WWE SMACKDOWN×ABEMA#50</title>
+		<desc>毎週金曜夜(現地)に行われる「SMACKDOWN」をお届け!世界最高エンタメ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s13_p46/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250724024000 +0000" stop="20250724050500 +0000">
+		<title>【再】WWE RAW×ABEMA#39</title>
+		<desc>毎週月曜夜(現地)に行われる「RAW」をお届け!世界最高エンタメ
+ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s13_p35/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250724050500 +0000" stop="20250724083000 +0000">
+		<title>K-1 WGP JAPAN ~K-1秋の大阪決戦~ 2020.9.22</title>
+		<desc>2020年9月22日(火・祝)にエディオンアリーナ大阪で開催されたK-1 WORLD GP 2020 JAPAN ~K-1秋の大阪決戦~をAbemaTVにて配信!
+&lt;収録試合&gt;
+プレリミナリーファイト第1試合/-53kg契約/3分3R
+山脇 飛翼 vs 豊田 優輝
+
+プレリミナリーファイト第2試合/K-1ライト級/3分3R
+梨緒弥 vs 永井 卓海
+
+プレリミナリーファイト第3試合/K-1フェザー級/3分3R
+山脇 魁斗 vs 立基
+
+プレリミナリーファイト第4試合/K-1フェザー級/3分3R
+髙橋 直輝 vs 石田 龍大
+
+プレリミナリーファイト第5試合/K-1スーパー・バンタム級/3分3R
+黒田 勇斗 vs 三井 大揮
+
+第1試合/スーパーファイト/K-1スーパー・ライト級/3分3R・延長1R
+近藤 拳成 vs 泰斗
+
+第2試合/スーパーファイト/K-1スーパー・フェザー級/3分3R・延長1R
+TETSU vs 西元 也史
+
+第3試合/スーパーファイト/K-1ライト級/3分3R・延長1R
+瓦田 脩二 vs SEIYA
+
+第4試合/スーパーファイト/K-1ライト級/3分3R・延長1R
+朝久 泰央 vs 弘輝</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-121_s10_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250724083000 +0000" stop="20250724124500 +0000">
+		<title>Krush.137 2022.5.21</title>
+		<desc>超攻撃型打撃格闘技「Krush」2022年5月21日 後楽園ホールで行われた「Krush.137」の模様をお届け!
+対戦カード
+
+メインイベント(第10試合)/Krushフェザー級タイトルマッチ/新美 貴士 vs 玖村 修平
+
+セミファイナル(第9試合)/-75kg契約/神保 克哉 vs 植村 真弥
+
+第8試合/Krushフェザー級/稲垣 澪 vs 寺田 匠
+
+第7試合/Krushフェザー級/佑典 vs 大田 拓真
+
+第6試合/Krushスーパー・バンタム級/吉岡 ビギン vs 永坂 吏羅
+
+第5試合/Krushスーパー・フェザー級/西元 也史 vs 斎藤 祐斗
+
+第4試合/Krushスーパー・バンタム級/倉田 永輝 vs 紫苑
+
+第3試合/Krushバンタム級/板橋 武留 vs 中澤 誠弥
+
+第2試合/Krushスーパー・フェザー級/遠藤 信玄 vs 髙橋 直輝
+
+第1試合/Krushスーパー・ライト級/蓮實 光 vs 大野 祐志郎
+
+プレリミナリーファイト第2試合/Krushスーパー・バンタム級/“狂拳”迅 vs 坂本 寿希
+
+プレリミナリーファイト第1試合/Krushフェザー級/神田 賢吾 vs 寺島 想</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-135_s50_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250724124500 +0000" stop="20250724131500 +0000">
+		<title>芦澤竜誠と行く ぶらり喧嘩旅 皇治と喧嘩旅編</title>
+		<desc>4.1 大阪で行われる「RIZIN.41」芦澤竜誠vs皇治戦に向けて、今回は「芦澤竜誠と行く ぶらり喧嘩旅」皇治と喧嘩旅編</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-124_s10_p16/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250724131500 +0000" stop="20250724155500 +0000">
+		<title>木村ミノル 怒涛の9連続KO集</title>
+		<desc>2019年全試合KO勝利という偉業を成し遂げた木村ミノル
+KOアーティストのヤバすぎるKO劇をAbemaTVで厳選してお届け!
+
+&lt;収録試合&gt;
+2019年3月10日K-1 WORLD GP 2019 JAPAN ~K'FESTA.2~
+vs 和島 大海
+
+2019年5月18日Krush.101
+vs 近藤 魁成
+
+2019年6月30日 K-1 WORLD GP 2019 JAPAN 
+vs クルーズ・ブリッグス
+
+2019年8月24日 K-1 WORLD GP 2019 JAPAN
+vs 大泉 翔
+
+2019年11月24日 “K-1冬のビッグマッチ 第1弾 横浜”
+vs ジョーダン・バルディノッチ
+
+2019年12月28日 “K-1冬のビッグマッチ 第2弾 名古屋”
+vs マーセル・アデイエミ
+
+2020年3月22日(日)K-1 WORLD GP 2020 JAPAN ~K'FESTA.3~
+1回戦 
+vs 海斗
+
+準決勝
+ vs エダー・ロープス
+
+決勝 
+vs 和島 大海</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-116_s10_p11/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250724155500 +0000" stop="20250724204500 +0000">
+		<title>NOAH the BEST 2022.11.23</title>
+		<desc>2000年8月5日にプロレス界の“方舟”となるべく旗揚げしたプロレス団体「NOAH」。
+2022年11月23日に放送された「NOAH the BEST 2022」の模様を公開!
+
+メインイベント GHCナショナル選手権試合
+稲村愛輝 vs イホ・デ・ドクトル・ワグナーJr.
+
+セミファイナル  GHCジュニア・ヘビー級タッグ選手権試合
+小峠篤司&amp;吉岡世起 vs 近藤修司&amp;大原はじめ
+
+第7試合
+拳王&amp;中嶋勝彦&amp;征矢学 vs 清宮海斗&amp;小島聡&amp;マサ北宮
+
+第6試合 
+AMAKUSA&amp;アレハンドロ vs ダンテ・レオン&amp;YO-HEY
+
+第5試合
+丸藤正道&amp;望月成晃&amp;田中将斗 vs 杉浦貴&amp;藤田和之&amp;ティモシー・サッチャー
+
+第4試合
+ジャック・モリス vs 稲葉大樹
+
+第3試合 FINAL PERROS DEL MAL DE JAPON
+NOSAWA論外&amp;Eita&amp;スペル・クレイジー vs 小川良成&amp;矢野安崇&amp;藤村加偉
+
+第2試合
+谷口周平 vs 鈴木秀樹
+
+第1試合
+タダスケ&amp;Hi69 vs モハメド ヨネ&amp;齋藤彰俊</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-11_s220_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250724204500 +0000" stop="20250725080000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
