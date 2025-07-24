@@ -68,6 +68,10 @@
 		<display-name>遊☆戯☆王チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/yugioh/logo.png" />
 	</channel>
+	<channel id="gundam">
+		<display-name>ガンダム特集</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</channel>
 	<channel id="80s-anime-1">
 		<display-name>なつかしアニメ80's</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png" />
@@ -1392,8 +1396,11 @@ EPISODE.3
 	</programme>
 	<programme channel="abema-anime" start="20250725170000 +0000" stop="20250725173000 +0000">
 		<title>タコピーの原罪 #5・見逃し放送</title>
-		<desc>ハッピーを広めるため地球に降り立ったハッピー星人のタコピーは人間の女の子しずかと出会う。ピンチを救ってもらったタコピーは、しずかの笑顔を取り戻すため不思議な力を持つハッピー道具で奔走する。しかし、しずかはおうちと学校で何か事情を抱えているようで･･･。これは、ぼくときみの最高にハッピーな物語――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p11/thumb001.png" />
+		<desc>ハッピーを広めるため地球に降り立ったハッピー星人のタコピーは人間の女の子しずかと出会う。
+ピンチを救ってもらったタコピーはしずかの笑顔を取り戻すため不思議な力を持つハッピー道具で奔走する。
+しかし、しずかはおうちと学校で何か事情を抱えているようで…。
+これは、ぼくときみの最高にハッピーな物語――</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-266_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250725173000 +0000" stop="20250725173500 +0000">
 		<title>人妻の唇は缶チューハイの味がして【オンエア版】 #4【最新話】</title>
@@ -1589,8 +1596,11 @@ Dシリーズの歴代キャラクター達が集結した大会も、いよい�
 	</programme>
 	<programme channel="abema-anime" start="20250726113000 +0000" stop="20250726120000 +0000">
 		<title>タコピーの原罪 #5・見逃し放送</title>
-		<desc>ハッピーを広めるため地球に降り立ったハッピー星人のタコピーは人間の女の子しずかと出会う。ピンチを救ってもらったタコピーは、しずかの笑顔を取り戻すため不思議な力を持つハッピー道具で奔走する。しかし、しずかはおうちと学校で何か事情を抱えているようで･･･。これは、ぼくときみの最高にハッピーな物語――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p11/thumb001.png" />
+		<desc>ハッピーを広めるため地球に降り立ったハッピー星人のタコピーは人間の女の子しずかと出会う。
+ピンチを救ってもらったタコピーはしずかの笑顔を取り戻すため不思議な力を持つハッピー道具で奔走する。
+しかし、しずかはおうちと学校で何か事情を抱えているようで…。
+これは、ぼくときみの最高にハッピーな物語――</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-266_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250726120000 +0000" stop="20250726123000 +0000">
 		<title>ネクロノミ子のコズミックホラーショウ #4【最新話】</title>
@@ -2066,10 +2076,32 @@ Wapperくんは、なかまとともにかいけつできるのか⁉</desc>
 		<desc>俺が転生したのは……なんと「自動販売機」！？前代未聞のあったか～い自販機アニメが、波乱の新章へ突入！圧倒的な力を持つ冥府の王を前に、なんとか生き延びた自動販売機「ハッコン」たちは、ハンター協会の会長たちとともに冥府の王を討伐するべく立ち上がった。冥府の王と再び対峙した時、悲劇が起きるーー。元・自販機マニアの知識と、新しい仲間との出会い、新しいフォルムチェンジの力で、ハッコンたちは冥府の王を倒すことができるのか！？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-83_s2_p4/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20250728133000 +0000" stop="20250728143000 +0000">
+	<programme channel="abema-anime" start="20250728133000 +0000" stop="20250728140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	</programme>
+	<programme channel="abema-anime" start="20250728140000 +0000" stop="20250728143000 +0000">
+		<title>盾の勇者の成り上がり Season 4 #3【最新話】</title>
+		<desc>復活間近の四霊「鳳凰」との戦いに備える盾の勇者・岩谷尚文は、
+反目し合う四聖勇者の力を合わせるべく、
+三勇者と対峙し、そして和解へと至った。
+
+しかしラフタリアが、
+誤解から王位を継承する意識ありと認識され…
+クテンロウという国の刺客に命を狙われてしまう。
+
+尚文はクテンロウと話をつけるため、
+唯一連絡船の出ている、亜人の国シルトヴェルトを訪れる。
+盾の勇者を信仰する亜人たちに熱烈に歓迎されるが、
+シルトヴェルトも一枚岩ではなく、尚文一行を歓迎しない者もいた。
+
+そして、クテンロウもまた政情不安を抱え、
+ラフタリアが革命の旗印に祭り上げられていく。
+
+混迷を極める情勢の中、
+尚文は仲間を導く光となるか――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-109_s4_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250728143000 +0000" stop="20250728150000 +0000">
 		<title>クレバテス-魔獣の王と赤子と屍の勇者- #4【最新話】</title>
@@ -5054,8 +5086,11 @@ ABEMAでしか見られない素敵な時間をお届けします！</desc>
 	</programme>
 	<programme channel="anime-live" start="20250725150000 +0000" stop="20250725153000 +0000">
 		<title>タコピーの原罪 #5【最新話】</title>
-		<desc>ハッピーを広めるため地球に降り立ったハッピー星人のタコピーは人間の女の子しずかと出会う。ピンチを救ってもらったタコピーは、しずかの笑顔を取り戻すため不思議な力を持つハッピー道具で奔走する。しかし、しずかはおうちと学校で何か事情を抱えているようで･･･。これは、ぼくときみの最高にハッピーな物語――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p11/thumb001.png" />
+		<desc>ハッピーを広めるため地球に降り立ったハッピー星人のタコピーは人間の女の子しずかと出会う。
+ピンチを救ってもらったタコピーはしずかの笑顔を取り戻すため不思議な力を持つハッピー道具で奔走する。
+しかし、しずかはおうちと学校で何か事情を抱えているようで…。
+これは、ぼくときみの最高にハッピーな物語――</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-266_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250725153000 +0000" stop="20250725160000 +0000">
 		<title>斉藤壮馬 Strange dayS #239</title>
@@ -5066,7 +5101,7 @@ ABEMAでしか見られない素敵な時間をお届けします！</desc>
 皆さんが“気になる”であろう、斉藤さん自身についての質問にもお答えしていきます。
 週末の夜、気になる事をどんどん共有して、
 ちょっとだけ不思議な時間を過ごしませんか?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p70/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/390-7_s1_p239/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250725160000 +0000" stop="20250725163000 +0000">
 		<title>鈴村健一のラジベース #174</title>
@@ -5081,11 +5116,11 @@ ABEMAでしか見られない素敵な時間をお届けします！</desc>
 	</programme>
 	<programme channel="anime-live" start="20250725163000 +0000" stop="20250725170000 +0000">
 		<title>小林千晃のPARTY×PARTY #16</title>
-		<desc>文化放送とABEMAでお届けする、声優・小林千晃さんの1人しゃべり番組「小林千晃のPARTY×PARTY」！
+		<desc>文化放送とABEMAでお届けする、声優・小林千晃さんの1人しゃべり番組「小林千晃のPARTY×PARTY」!
 この番組は、小林千晃がオーガナイザーを務め、リスナーのみなさんと作り上げていくパーティプログラムです。
-party peopleのみなさんも、そうじゃないみなさんも一緒に盛り上がっていきましょう！
-こちらは2025年4月11日（金）に放送の第1回です。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p4/thumb001.png" />
+party peopleのみなさんも、そうじゃないみなさんも一緒に盛り上がっていきましょう!
+こちらは2025年4月11日(金)に放送の第1回です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/390-8_s1_p16/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250725170000 +0000" stop="20250725230000 +0000">
 		<title>神統記（テオゴニア） #1〜12【無料ビデオ1週間】</title>
@@ -5135,8 +5170,11 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 	</programme>
 	<programme channel="anime-live" start="20250726140000 +0000" stop="20250726143000 +0000">
 		<title>タコピーの原罪 #5・見逃し放送</title>
-		<desc>ハッピーを広めるため地球に降り立ったハッピー星人のタコピーは人間の女の子しずかと出会う。ピンチを救ってもらったタコピーは、しずかの笑顔を取り戻すため不思議な力を持つハッピー道具で奔走する。しかし、しずかはおうちと学校で何か事情を抱えているようで･･･。これは、ぼくときみの最高にハッピーな物語――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p11/thumb001.png" />
+		<desc>ハッピーを広めるため地球に降り立ったハッピー星人のタコピーは人間の女の子しずかと出会う。
+ピンチを救ってもらったタコピーはしずかの笑顔を取り戻すため不思議な力を持つハッピー道具で奔走する。
+しかし、しずかはおうちと学校で何か事情を抱えているようで…。
+これは、ぼくときみの最高にハッピーな物語――</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-266_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250726143000 +0000" stop="20250726150000 +0000">
 		<title>青春ブタ野郎はサンタクロースの夢を見ない #4【WEB最速】</title>
@@ -5173,7 +5211,7 @@ TVアニメ「おそ松さん」10周年突入！
 
 10年分の笑いと愛を込めて、
 「おそ松さん」第4期、ここに開幕！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p107/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-33_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250726153000 +0000" stop="20250726160000 +0000">
 		<title>ばっどがーる #4【最新話】</title>
@@ -8146,6 +8184,134 @@ TVアニメ「おそ松さん」10周年突入！
 		<title>遊☆戯☆王デュエルモンスターズGX #165〜180【無料ビデオ1週間】</title>
 		<desc>兄たちの力を借りずプロデュエリストを目指す万丈目。が、彼の手元に届くのは不採用地通知ばかりであった。そんな万丈目の様子を見かねたクロノスは万丈目を連れてあるところに向かうのであった。その場所とはエドのクルーザーであった。そこでクロノスはエドに申し出る「万丈目を弟子にしてくれ」と。エドの弟子になった万丈目だったが、彼が見たプロデュエリスト「エド」の日常は想像を絶するものであった。朝の7時に同時に鳴り出す取材の電話。握手会の長蛇の列など。そして最も驚いたのは天才とうたわれるエドがコーチと血のにじむようなデュエルのトレーニングをしていたことに。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-14_s1_p165/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250717093000 +0000" stop="20250717210000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #1〜25【無料ビデオ72時間】</title>
+		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250717210000 +0000" stop="20250718090000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #1〜25【無料ビデオ72時間】</title>
+		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250718090000 +0000" stop="20250718203000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #1〜25【無料ビデオ72時間】</title>
+		<desc>C.E.73。オーブ代表のカガリは、プラント最高評議会議長デュランダルとの極秘会談のため、アスランとアーモリーワンを訪れる。その時、突如謎のグループが新型MS「ガンダム」を強奪する。MSザクウォーリアに乗り込んだものの窮地に立たされたアスランを助けたのは、シンの搭乗するインパルスガンダムだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250718203000 +0000" stop="20250719080000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #26〜50【無料ビデオ72時間】</title>
+		<desc>ガイアのパイロットだったステラを収容したミネルバ。シンは、彼女が地球連合軍の強化人間であることを知り、激しく動揺する。その頃、ステラを損失扱いするよう指示されたネオは、スティングとアウルからステラに関する記憶を抹消していた。また、ラクスはバルトフェルドと共にプラントに向かうことを決めて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p26/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250719080000 +0000" stop="20250719193000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #26〜50【無料ビデオ72時間】</title>
+		<desc>ガイアのパイロットだったステラを収容したミネルバ。シンは、彼女が地球連合軍の強化人間であることを知り、激しく動揺する。その頃、ステラを損失扱いするよう指示されたネオは、スティングとアウルからステラに関する記憶を抹消していた。また、ラクスはバルトフェルドと共にプラントに向かうことを決めて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p26/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250719193000 +0000" stop="20250720073000 +0000">
+		<title>機動戦士ガンダムSEED DESTINY #26〜50【無料ビデオ72時間】</title>
+		<desc>ガイアのパイロットだったステラを収容したミネルバ。シンは、彼女が地球連合軍の強化人間であることを知り、激しく動揺する。その頃、ステラを損失扱いするよう指示されたネオは、スティングとアウルからステラに関する記憶を抹消していた。また、ラクスはバルトフェルドと共にプラントに向かうことを決めて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-97_s1_p26/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250720073000 +0000" stop="20250720190000 +0000">
+		<title>機動戦士ガンダム 水星の魔女 #0〜24【無料ビデオ1週間】</title>
+		<desc>小惑星に建造されたフロント、フォールクヴァング。
+ヴァナディース機関のラボでは、ガンダム・ルブリスの稼働実験が行われていた。
+
+評議会から課された条件をクリア出来ないままのルブリスに、
+焦燥感を募らせるテストパイロット、エルノラ・サマヤ。
+
+――その日は、彼女の娘が4歳を迎える誕生日だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-158_s1_p100/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250720190000 +0000" stop="20250721070000 +0000">
+		<title>機動戦士ガンダム 水星の魔女 #0〜24【無料ビデオ1週間】</title>
+		<desc>小惑星に建造されたフロント、フォールクヴァング。
+ヴァナディース機関のラボでは、ガンダム・ルブリスの稼働実験が行われていた。
+
+評議会から課された条件をクリア出来ないままのルブリスに、
+焦燥感を募らせるテストパイロット、エルノラ・サマヤ。
+
+――その日は、彼女の娘が4歳を迎える誕生日だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-158_s1_p100/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250721070000 +0000" stop="20250721183000 +0000">
+		<title>機動戦士ガンダム 水星の魔女 #0〜24【無料ビデオ1週間】</title>
+		<desc>小惑星に建造されたフロント、フォールクヴァング。
+ヴァナディース機関のラボでは、ガンダム・ルブリスの稼働実験が行われていた。
+
+評議会から課された条件をクリア出来ないままのルブリスに、
+焦燥感を募らせるテストパイロット、エルノラ・サマヤ。
+
+――その日は、彼女の娘が4歳を迎える誕生日だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-158_s1_p100/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250721183000 +0000" stop="20250724113000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gundam/logo.png" />
+	</programme>
+	<programme channel="gundam" start="20250724113000 +0000" stop="20250725050000 +0000">
+		<title>新機動戦記ガンダムＷ #1〜35【無料ビデオ72時間】</title>
+		<desc>5体のMSが地球へと降下。その1体であるウイングはOZのゼクスに撃墜されてしまう。外務次官の娘リリーナは漂着した操縦者ヒイロを発見するが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250725050000 +0000" stop="20250725110000 +0000">
+		<title>新機動戦記ガンダムＷ #1〜12【無料ビデオ72時間】</title>
+		<desc>5体のMSが地球へと降下。その1体であるウイングはOZのゼクスに撃墜されてしまう。外務次官の娘リリーナは漂着した操縦者ヒイロを発見するが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250725110000 +0000" stop="20250725223000 +0000">
+		<title>新機動戦記ガンダムＷ #13〜35</title>
+		<desc>OZのアレックスとミュラーはノインの教え子だった。連合旧勢力の粛正と称して惨殺をくり広げる彼らにゼクスの怒りが爆発する。その頃、ヒイロの潔さに感化されたトロワは自身の死をかけたショーを企画、サーカスに臨んでいた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p13/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250725223000 +0000" stop="20250726053000 +0000">
+		<title>新機動戦記ガンダムＷ #36〜49</title>
+		<desc>財団のサンクキングダム攻略が開始された。リリーナと平和の理想を守るため、ヒイロたちは戦う。だが、王国の存在自体が戦争を生み出すことを痛感したリリーナは、ついに運命の決断をする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p36/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250726053000 +0000" stop="20250726070000 +0000">
+		<title>新機動戦記ガンダムW Endless Waltz #1〜3</title>
+		<desc>A.C.196年…地球国家軍と革命軍ホワイトファングの戦いが終結して1年。五飛を除き、平和な世界には必要なくなったガンダムを処分しようとするカトルたち。一方、地球ではレディ・アン指導のもと「プリベンター」が組織された。そんな時、リリーナがマリーメイアを元首とするマリーメイア軍に誘拐されてしまい…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-130_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250726070000 +0000" stop="20250726140000 +0000">
+		<title>新機動戦記ガンダムＷ #36〜49</title>
+		<desc>財団のサンクキングダム攻略が開始された。リリーナと平和の理想を守るため、ヒイロたちは戦う。だが、王国の存在自体が戦争を生み出すことを痛感したリリーナは、ついに運命の決断をする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p36/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250726140000 +0000" stop="20250726153000 +0000">
+		<title>新機動戦記ガンダムW Endless Waltz #1〜3</title>
+		<desc>A.C.196年…地球国家軍と革命軍ホワイトファングの戦いが終結して1年。五飛を除き、平和な世界には必要なくなったガンダムを処分しようとするカトルたち。一方、地球ではレディ・アン指導のもと「プリベンター」が組織された。そんな時、リリーナがマリーメイアを元首とするマリーメイア軍に誘拐されてしまい…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-130_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250726153000 +0000" stop="20250726223000 +0000">
+		<title>新機動戦記ガンダムＷ #36〜49</title>
+		<desc>財団のサンクキングダム攻略が開始された。リリーナと平和の理想を守るため、ヒイロたちは戦う。だが、王国の存在自体が戦争を生み出すことを痛感したリリーナは、ついに運命の決断をする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-98_s0_p36/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250726223000 +0000" stop="20250727000000 +0000">
+		<title>新機動戦記ガンダムW Endless Waltz #1〜3</title>
+		<desc>A.C.196年…地球国家軍と革命軍ホワイトファングの戦いが終結して1年。五飛を除き、平和な世界には必要なくなったガンダムを処分しようとするカトルたち。一方、地球ではレディ・アン指導のもと「プリベンター」が組織された。そんな時、リリーナがマリーメイアを元首とするマリーメイア軍に誘拐されてしまい…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-130_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250727000000 +0000" stop="20250727060000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX #1〜12【無料ビデオ1週間】</title>
+		<desc>スペース・コロニーに住む女子高生アマテは、偶然運び屋のニャアンと出会い、非合法なジャンク屋に関わってしまう。正体不明のモビルスーツ 赤いガンダムを捕縛しようとする軍警察の横暴を許せないアマテは、目の前に横たわる最新鋭モビルスーツ ジークアクス に飛び乗る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250727060000 +0000" stop="20250727120000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX #1〜12【無料ビデオ1週間】</title>
+		<desc>スペース・コロニーに住む女子高生アマテは、偶然運び屋のニャアンと出会い、非合法なジャンク屋に関わってしまう。正体不明のモビルスーツ 赤いガンダムを捕縛しようとする軍警察の横暴を許せないアマテは、目の前に横たわる最新鋭モビルスーツ ジークアクス に飛び乗る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="gundam" start="20250727120000 +0000" stop="20250727180000 +0000">
+		<title>機動戦士Gundam GQuuuuuuX #1〜12【無料ビデオ1週間】</title>
+		<desc>スペース・コロニーに住む女子高生アマテは、偶然運び屋のニャアンと出会い、非合法なジャンク屋に関わってしまう。正体不明のモビルスーツ 赤いガンダムを捕縛しようとする軍警察の横暴を許せないアマテは、目の前に横たわる最新鋭モビルスーツ ジークアクス に飛び乗る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-197_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="80s-anime-1" start="20250716120000 +0000" stop="20250716170000 +0000">
 		<title>美味しんぼ #5～14【無料ビデオ1週間】</title>
@@ -11507,7 +11673,20 @@ K-POPデビュー経験者や一般からの参加で、個性豊かな練習生
 		<desc>自宅の不審火騒ぎ以来、律子への恐怖心で極限状態の日和。心配するも自分が原因だとは全く気が付かない詩杏の鈍感さに更に苛立ち、「努力せず何でも手に入れてきた詩杏に私の虚しさわからないでしょ？辛いのは自分だけって思ってた？」とぶちまける。唯一心を許せる存在である日和を無意識に傷つけていた事を思い知る詩杏…そんな中しつこくナンパされ困る律子見かけ、意を決して助け出すが「好きです」と突然告白され大混乱に陥る。一方、律子を疑い始めた蓮見は「東條律子」を調べる中で同姓同名で別人の画像を発見。並んで映る美少年を見て驚愕し、疑いを深める。それを見ていたかのように現れた律子は「ゆっくりお話ししたい」とラブホテルに誘い、「いいよ」と応じる蓮見…交錯する思惑の先にある狂気の真実とは？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-13_s1_p7/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250725184600 +0000" stop="20250725203000 +0000">
+	<programme channel="abema-special" start="20250725184600 +0000" stop="20250725190000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250725190000 +0000" stop="20250725203000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -11586,7 +11765,7 @@ episode2 「百発百中占い師」
 街中で偶然見つけた静岡の森香澄に静岡の嵐・大野智まで！?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-980_s102_p182/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250727120000 +0000" stop="20250727130000 +0000">
+	<programme channel="abema-special" start="20250727120000 +0000" stop="20250727135700 +0000">
 		<title>秘密のママ園#12</title>
 		<desc>本当のところは ぶっちゃけどうなの？
 「いろんな界隈のママたち」の 子育てのリアルや本音を覗き見！
@@ -11599,7 +11778,7 @@ episode2 「百発百中占い師」
 異なる立場の“ママ”として本音を語り合う！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p157/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250727130000 +0000" stop="20250727140000 +0000">
+	<programme channel="abema-special" start="20250727135700 +0000" stop="20250727140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -11619,7 +11798,48 @@ episode2 「百発百中占い師」
 		<desc>弁護士になるため勉強に励むボンヒは、地検長の息子で共に学生の恋人ヒジュンの浮気を目撃。ヤケになったボンヒは彼の目の前で、その場にいた男と立ち去るが、その男は直前にケンカをしたジウクだった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-11_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250728024800 +0000" stop="20250728120000 +0000">
+	<programme channel="abema-special" start="20250728024800 +0000" stop="20250728110000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20250728110000 +0000" stop="20250728112700 +0000">
+		<title>光が死んだ夏 #4</title>
+		<desc>とある集落で
+幼い頃からずっと一緒に育ってきた
+同い年のよしきと光
+
+照りつける太陽
+耳にこびりつくクマゼミの声
+帰り道に食べるアイス
+
+他愛もないことで笑い合う
+いつもと変わらない夏のある日
+
+「……お前、やっぱ光ちゃうやろ」
+
+半年前、山で行方不明になった光は
+一週間後ふらりと帰ってきた
+声も姿も光に見えるモノ
+その中に蠢いていたのは――
+
+「光はもうおらんのや……それやったら」
+
+友人の姿をした〝ナニカ〟と歩みだす、
+”いつもと変わらない”日常
+だが、時を同じくして
+奇怪な事件が集落を襲い始める
+
+未知の〝ナニカ〟へ堕ちていく
+青春ホラー物語の幕が、今、上がる――</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p65/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250728112700 +0000" stop="20250728115700 +0000">
+		<title>桃源暗鬼 #3・見逃し放送</title>
+		<desc>「お前は鬼の血を継いでいる……」　 一部の人間に脈々と受け継がれる「鬼」と「桃太郎」の血。 はるか昔、自らの凶暴性を自覚するが故にひっそりと暮らしていた「鬼」だったが、 そこに「桃太郎」が攻め入った。 それぞれが「桃太郎機関」「鬼機関」を組織し、抗争すること何千年。 突然の“桃太郎”の襲撃で、自分が“鬼”だと知る主人公・一ノ瀬四季。 自らの血に棲む“鬼”と出逢った四季の宿命とは———。 ———新世代ダークヒーロー鬼譚、ここに開幕!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-7_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250728115700 +0000" stop="20250728120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -11682,7 +11902,12 @@ episode2 「百発百中占い師」
 今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p131/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250730130000 +0000" stop="20250730150000 +0000">
+	<programme channel="abema-special" start="20250730130000 +0000" stop="20250730132700 +0000">
+		<title>桃源暗鬼 #3・見逃し放送</title>
+		<desc>「お前は鬼の血を継いでいる……」　 一部の人間に脈々と受け継がれる「鬼」と「桃太郎」の血。 はるか昔、自らの凶暴性を自覚するが故にひっそりと暮らしていた「鬼」だったが、 そこに「桃太郎」が攻め入った。 それぞれが「桃太郎機関」「鬼機関」を組織し、抗争すること何千年。 突然の“桃太郎”の襲撃で、自分が“鬼”だと知る主人公・一ノ瀬四季。 自らの血に棲む“鬼”と出逢った四季の宿命とは———。 ———新世代ダークヒーロー鬼譚、ここに開幕!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-7_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250730132700 +0000" stop="20250730150000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -11728,6 +11953,42 @@ episode2 「百発百中占い師」
 予測不能な出会いと別れ、すれ違い、再会。そして密会。
 "本能"のまま大胆で激しい真夏の恋が、夜を燃え尽くすー</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p132/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250731141000 +0000" stop="20250731144000 +0000">
+		<title>桃源暗鬼 #3・見逃し放送</title>
+		<desc>「お前は鬼の血を継いでいる……」　 一部の人間に脈々と受け継がれる「鬼」と「桃太郎」の血。 はるか昔、自らの凶暴性を自覚するが故にひっそりと暮らしていた「鬼」だったが、 そこに「桃太郎」が攻め入った。 それぞれが「桃太郎機関」「鬼機関」を組織し、抗争すること何千年。 突然の“桃太郎”の襲撃で、自分が“鬼”だと知る主人公・一ノ瀬四季。 自らの血に棲む“鬼”と出逢った四季の宿命とは———。 ———新世代ダークヒーロー鬼譚、ここに開幕!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-7_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250731144000 +0000" stop="20250731151000 +0000">
+		<title>光が死んだ夏 #4</title>
+		<desc>とある集落で
+幼い頃からずっと一緒に育ってきた
+同い年のよしきと光
+
+照りつける太陽
+耳にこびりつくクマゼミの声
+帰り道に食べるアイス
+
+他愛もないことで笑い合う
+いつもと変わらない夏のある日
+
+「……お前、やっぱ光ちゃうやろ」
+
+半年前、山で行方不明になった光は
+一週間後ふらりと帰ってきた
+声も姿も光に見えるモノ
+その中に蠢いていたのは――
+
+「光はもうおらんのや……それやったら」
+
+友人の姿をした〝ナニカ〟と歩みだす、
+”いつもと変わらない”日常
+だが、時を同じくして
+奇怪な事件が集落を襲い始める
+
+未知の〝ナニカ〟へ堕ちていく
+青春ホラー物語の幕が、今、上がる――</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p65/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250716150000 +0000" stop="20250716170000 +0000">
 		<title>チャンスの時間 #309~310</title>
@@ -13171,17 +13432,60 @@ LuckyFesをより楽しむための3つのポイントを紹介！
 		<desc>サラリーマンのじゅんが仕事を終えて帰宅すると、玄関で妻のちえが口から血を流して倒れていた！動転するじゅんだが、「ククク……」と笑うちえの傍らにはケチャップ。ちえは死んだふりをしていたのだ。それからというもの、家に帰ると必ず死んだふりをするようになった。ある時は、ワニに喰われ、ある時は銃で撃たれ、またある時は頭で矢が射抜かれ……次第にエスカレートしてゆく‘死んだふり’。最初は呆れるじゅんだったが、何を聞いても「月が綺麗ですね」と笑うだけのちえにだんだん不安を覚え始める。寂しいだけなのか、何かのSOSのサインなのか――。ちえの謎の行動には、秘密があった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/170-31_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250725030000 +0000" stop="20250725055000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20250725030000 +0000" stop="20250725042000 +0000">
+		<title>しくじり先生 ロト6 #286~287</title>
+		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p323/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250725042000 +0000" stop="20250725053500 +0000">
+		<title>#1 ハーレム＆逆ハーレムで大胆な恋！シャッフルアイランド Season6</title>
+		<desc>▼見どころ
+水着を着た14人の男女が、それぞれ別の島に集まり、初めてのシャッフルタイム。
+「あの子が欲しい！」選ばれた1人が島を移動！ハーレム＆逆ハーレムで燃え上がる！
+爆モテ美女を前に男子４人が列をなして順番に2ショット！？
+さらに、闇夜に現れた黒い影が、衝撃の展開を巻き起こす！
+
+▼概要
+「あのコが欲しい♡」
+一番HOTな美男美女たちが幸せの楽園、南太平洋フィジーに集結！
+ピンクとブルー、2つの島で毎日メンバーを"シャッフル"しながら
+運命の恋を探す７泊８日のラブバカンス。
+予測不能な出会いと別れ、すれ違い、再会。そして密会。
+"本能"のまま大胆で激しい真夏の恋が、夜を燃え尽くすー
+◆オープニングテーマ：WANIMA「曖昧」
+◆エンディングテーマ：礼賛「曖昧なBEACH』</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1887_s60_p1001/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250725053500 +0000" stop="20250725055000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト【最新話はABEMAビデオで配信中】</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250725055000 +0000" stop="20250725080000 +0000">
 		<title>家に帰ると妻が必ず死んだふりをしています。【無料1週間】</title>
 		<desc>サラリーマンのじゅんが仕事を終えて帰宅すると、玄関で妻のちえが口から血を流して倒れていた！動転するじゅんだが、「ククク……」と笑うちえの傍らにはケチャップ。ちえは死んだふりをしていたのだ。それからというもの、家に帰ると必ず死んだふりをするようになった。ある時は、ワニに喰われ、ある時は銃で撃たれ、またある時は頭で矢が射抜かれ……次第にエスカレートしてゆく‘死んだふり’。最初は呆れるじゅんだったが、何を聞いても「月が綺麗ですね」と笑うだけのちえにだんだん不安を覚え始める。寂しいだけなのか、何かのSOSのサインなのか――。ちえの謎の行動には、秘密があった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/170-31_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250725080000 +0000" stop="20250725120000 +0000">
+	<programme channel="special-plus" start="20250725080000 +0000" stop="20250725100000 +0000">
+		<title>ABEMA POKER INVITATIONAL #1~2</title>
+		<desc>ABEMAがお届けする招待制ポーカートーナメントが開幕。岡本詩菜ら、総獲得賞金10億円超えを誇る日本最強の8名がファイナルテーブルに集結。優勝賞金1000万円と最強の称号をかけ、究極のマインドスポーツが今、始まる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2036_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250725100000 +0000" stop="20250725115700 +0000">
+		<title>世界の果てに、東出ひろゆき置いてきたシーズン1 #1~2</title>
+		<desc>とりあえず、ひろゆきをナミビアの砂漠に置き去りにしました。
+アフリカ大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250725115700 +0000" stop="20250725120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -13197,7 +13501,55 @@ KとCの2つのプラネットから少年たちが集まり、デビューを�
 スタークリエイターの皆さんの心を熱くする少年は誰だ?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-70_s40000_p4/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250725153000 +0000" stop="20250726000000 +0000">
+	<programme channel="special-plus" start="20250725153000 +0000" stop="20250725160000 +0000">
+		<title>LuckyFes’25 事前特番スペシャル</title>
+		<desc>8/9(土)〜8/11(月・祝)
+国営ひたち海浜公園で「LuckyFes’25」開催決定！
+音楽と食とアートの祭典をテーマに掲げる
+テーマパーク型の大型フェス LuckyFes 
+LuckyFesをより楽しむための3つのポイントを紹介！
+①ジャンルを超えた超豪華アーティスト集結
+②全国の人気グルメが集結する絶品フェス飯
+③アジア最大のテーマパーク型フェス
+
+今年の夏はLuckyFesで盛り上がろう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/556-5_s1_p500/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250725160000 +0000" stop="20250725170000 +0000">
+		<title>チャンスの時間#321〜ポスト松本人志！大悟のカリスマが止まらない！人生ドラマ化</title>
+		<desc>【大悟役 俳優オーディション】
+芸能界の天下に王手をかける千鳥…
+今後千鳥の人生がドラマ化された時、大悟役にふさわしいのは誰なのか！？
+
+大悟の人生の名エピソードが連発！
+ヒコロヒーが実際に大悟から言われたカッコ良すぎる名台詞に
+スタジオ大歓声…！
+
+さらに大悟に福留光帆がガチ恋愛悩み相談！
+「キュンキュンする、、、」大悟のアドバイスとは？
+
+真剣に審査を進める中
+ロングサイズ伊藤がふざけ出して…
+ノブも激怒「ぶっ壊された」
+
+大荒れの中、大悟役に選ばれるのは誰だ！？
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p321/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250725170000 +0000" stop="20250725190200 +0000">
+		<title>愛のハイエナ season3 #9~10</title>
+		<desc>「山本裕典、ホストになる。」新店舗編 第５弾
+山本と戦力外候補のホスト達は
+Lillion vs LiTA の合同初回売上バトルに備え
+軍神合宿に参加することに―
+落ちこぼれホスト達の心に秘めた想いに触れ、山本裕典とアツい誓いを交わす
+さらに
+元ヤン女子がマジな恋を求める
+新恋愛企画「愛羅武勇と叫びたい」開幕</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s3_p9/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250725190200 +0000" stop="20250726000000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -24464,6 +24816,895 @@ episode2 「百発百中占い師」
 		<desc>龍之介(稲葉友)からの突然のプロポーズで始まった小春(島崎遥香)のハレ婚生活。まどか(浅川梨奈)の離婚、ゆず(柳ゆり菜)の出産、そして、麟之介(佐藤一和)の子育てに追われる中、龍之介が音楽家として成功...。家族の環境が変化する中で、まどかの復讐劇(!)もあった。これまで数々の苦難を持ち前の明るさで乗り越えてきた小春だったが、すべての出来事は小春にとって結婚と家族のあり方を考えさせられるものばかりだった。そして、小春がたどり着いた答えは「離婚」――。2ヶ月後、小春は焼肉店でバイトをしながら東京暮らしを始めていた。新しい人生を歩み始めた小春。北つばめ市では、一夫多妻制度の廃止が決定していた。そんなある日、バイト先の焼肉店にやってきたのは...ゆずとまどかだった!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-17_s1_p9/thumb001.png" />
 	</programme>
+	<programme channel="drama-2" start="20250727190000 +0000" stop="20250727195000 +0000">
+		<title>遺留捜査シーズン6 第4話【無料2日間】</title>
+		<desc>バーのママ・中松里香子(朝海ひかる)が、店内で殺されているのが見つかった。前日の閉店後に何者かに刺されたようだったが、臨場した糸村聡(上川隆也)は被害者が古びた銀のマドラーを握りしめていることに気づく。先端が小さなスプーン状で、その反対側は鉛筆の芯のように尖っている、少々変わった形のマドラーだった。
+まもなく里香子の本名は“川端葉子”で、彼女は22年前、福岡市内で料亭の板前が殺された事件の容疑者として指名手配されていたことが判明。バーのオーナーである梶木邦昭(小林勝也)は6年前に彼女を雇い入れた際、身元は確認しなかったと話すが、彼女の所在に気づいた22年前の事件関係者による復讐なのだろうか...。また、科捜研研究員・村木繁(甲本雅裕)の鑑定の結果、凶器の包丁から被害者以外の血液がわずかに検出され、犯行の際、犯人は自らの手を傷つけた可能性が高いこともわかった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-121_s6_p4/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250727195000 +0000" stop="20250727213000 +0000">
+		<title>日本統一25【無料1週間】</title>
+		<desc>新体制へと陣頭指揮を執る氷室(本宮泰風)。大阪へ本部を移した田村(山口祥行)の元、元侠和会会長・権田の実子・稜一(小柳心)と丈治(北代高士)など若手達も着実に成長していく。そんな折、小料理屋で女将・美南(飛鳥凛)との夜を過ごした川谷(小沢仁志)が、復帰を画策する元侠和会本部長・渡部らが送り込んだヒットマンにより襲撃を受ける!!それを知り、侠和会執行部内で孤立している木島は渡部らを問い詰めるが、次第に渡部らの勧誘に惑わされていく...。
+関東では三田(菅田俊)と若宮(川原英之)が民主党幹事長からの要請により、カジノ法案成立に伴う地上げへと動き出し、沖縄では内部抗争が勃発、四国では組長引退問題...日本全土で極道達が、来るべき抗争へと向けて動き出しているのであった―!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250727213000 +0000" stop="20250727224000 +0000">
+		<title>日本統一 エピソード集IV 二人ノ若</title>
+		<desc>虎(小手山雅)の淹れたコーヒーで午後のひと時を楽しむ氷室(本宮泰風)たち。田村(山口祥行)や長谷川(大山大介)とコーヒーの味の話をしていると丈二(北代高士)は自分が組に入った時のことを思い出していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-22_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250727224000 +0000" stop="20250727230000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250727230000 +0000" stop="20250728002000 +0000">
+		<title>日本統一54【無料1週間】</title>
+		<desc>丸神会中森組組長・中森(大賀太郎)と氷室(本宮泰風)が何者かに銃撃を受け、氷室は事情聴取の為警察に連行されていた。
+氷室不在の間、八王子の株買い占めや、横浜で出回っているフェンタニルの出どころを山崎一門中心に探っている侠和会。そこに虎(小手山 雅)と照(喜矢武 豊)の姿はなかった。
+虎は田村(山口祥行)の言葉に感銘を受け、成果を出そうと照と共に奮闘していた。
+そして二人は加須にあるクラブで大騒ぎし、ある波乱を巻き起こそうとしていた。それは関東七人会を切り崩すための氷室と田村の策略であったが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p54/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728002000 +0000" stop="20250728003000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728003000 +0000" stop="20250728015000 +0000">
+		<title>日本極道戦争 第八章【無料1週間】</title>
+		<desc>阪神連合の張本(桑田 昭彦)の策略により四国向かった相馬組組長・相馬仁(小沢仁志)は、阪神連合会系山崎組組長・山崎健介(芳野史朗)にオトシマエを要求する。逆上した山崎は相馬探しに松山中を奔走していた。田崎組長を暗殺した橋本一家若頭・橋本龍馬(山口祥行)の行方を追っていた相馬たちは妹・由里(彩川ひなの)と行動を共にするが山崎組の組員に取り囲まれる。由里を逃がす為、単身で山崎組組員に向かった相馬だったが・・・。
+そして逃がした由里の前に現れた龍馬の目的は!?四国編ついに完結。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-18_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728015000 +0000" stop="20250728020000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728020000 +0000" stop="20250728030000 +0000">
+		<title>リーガルV～元弁護士・小鳥遊翔子～ case7【～7/31まで無料】</title>
+		<desc>代表・相田栞(東ちづる)が中心となり、会員を相手に婚活詐欺を繰り返す高級婚活相談所「ローズブライダル」。元弁護士・小鳥遊翔子(米倉涼子)率いる「京極法律事務所」は被害者・塩見一郎(矢部太郎)を弁護し、「ローズブライダル」を訴えるも、被告代理人である「Felix &amp; Temma法律事務所」の敏腕弁護士・海崎勇人(向井理)に急所を突かれ、第一審で破れてしまうことに...。だが、翔子はすでに次の手を考えていた。なんと塩見の控訴審と並行し、全国の被害者を集めて集団訴訟を起こすというのだ! しかし、肝心の被害者たちは二の足を踏み、なかなか立ち上がってくれない。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-50_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728030000 +0000" stop="20250728043000 +0000">
+		<title>日本統一54【無料1週間】</title>
+		<desc>丸神会中森組組長・中森(大賀太郎)と氷室(本宮泰風)が何者かに銃撃を受け、氷室は事情聴取の為警察に連行されていた。
+氷室不在の間、八王子の株買い占めや、横浜で出回っているフェンタニルの出どころを山崎一門中心に探っている侠和会。そこに虎(小手山 雅)と照(喜矢武 豊)の姿はなかった。
+虎は田村(山口祥行)の言葉に感銘を受け、成果を出そうと照と共に奮闘していた。
+そして二人は加須にあるクラブで大騒ぎし、ある波乱を巻き起こそうとしていた。それは関東七人会を切り崩すための氷室と田村の策略であったが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p54/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728043000 +0000" stop="20250728055000 +0000">
+		<title>日本極道戦争 第八章【無料1週間】</title>
+		<desc>阪神連合の張本(桑田 昭彦)の策略により四国向かった相馬組組長・相馬仁(小沢仁志)は、阪神連合会系山崎組組長・山崎健介(芳野史朗)にオトシマエを要求する。逆上した山崎は相馬探しに松山中を奔走していた。田崎組長を暗殺した橋本一家若頭・橋本龍馬(山口祥行)の行方を追っていた相馬たちは妹・由里(彩川ひなの)と行動を共にするが山崎組の組員に取り囲まれる。由里を逃がす為、単身で山崎組組員に向かった相馬だったが・・・。
+そして逃がした由里の前に現れた龍馬の目的は!?四国編ついに完結。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-18_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728055000 +0000" stop="20250728060000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728060000 +0000" stop="20250728071000 +0000">
+		<title>日本統一 エピソード集IV 二人ノ若</title>
+		<desc>虎(小手山雅)の淹れたコーヒーで午後のひと時を楽しむ氷室(本宮泰風)たち。田村(山口祥行)や長谷川(大山大介)とコーヒーの味の話をしていると丈二(北代高士)は自分が組に入った時のことを思い出していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-22_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728071000 +0000" stop="20250728073000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728073000 +0000" stop="20250728082500 +0000">
+		<title>リーガルV～元弁護士・小鳥遊翔子～ case7【～7/31まで無料】</title>
+		<desc>代表・相田栞(東ちづる)が中心となり、会員を相手に婚活詐欺を繰り返す高級婚活相談所「ローズブライダル」。元弁護士・小鳥遊翔子(米倉涼子)率いる「京極法律事務所」は被害者・塩見一郎(矢部太郎)を弁護し、「ローズブライダル」を訴えるも、被告代理人である「Felix &amp; Temma法律事務所」の敏腕弁護士・海崎勇人(向井理)に急所を突かれ、第一審で破れてしまうことに...。だが、翔子はすでに次の手を考えていた。なんと塩見の控訴審と並行し、全国の被害者を集めて集団訴訟を起こすというのだ! しかし、肝心の被害者たちは二の足を踏み、なかなか立ち上がってくれない。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-50_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728082500 +0000" stop="20250728084000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728084000 +0000" stop="20250728092500 +0000">
+		<title>奪い愛、夏 第4話</title>
+		<desc>二人で逢っているのが桜（水野美紀）にバレた椿（小池徹平）と杏（松本まりか）。二人は椅子に手錠で拘束され、桜から突然クイズを出題される。「椿が私と結婚してから、二人はキスをした？」椿と杏の答えが揃わなかったら不正解、罰として杏の爪が削られてしまう。緊迫する空気の中、二人が出した答えは……。
+
+翌日、医者の大和との会食に呼ばれた椿と杏。場所は屋形船、大和から身の毛もよだつ手術の話を聞いた椿はその場にいるのが限界になり外へ。そこで椿は桜に屋形船から突き飛ばされ、海に落ちてしまう。近くのホテルでシャワーを浴びようと、桜・椿・杏の三人でホテルへ。「ここで今日は一緒に泊まりましょう」と桜。
+
+椿がシャワーから出てくると、血だらけの包丁を持った桜が立っていた……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1290_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728092500 +0000" stop="20250728103000 +0000">
+		<title>六本木クラス 第1話【無料1週間】</title>
+		<desc>2006年秋――父子家庭で育った高校生の宮部新(竹内涼真)は、愛想はないが真っすぐな性格に育ち、父・宮部信二(光石研)からの教えである「信念を持って生きろ」という言葉を胸に、警察官になることを夢見ながら父と支え合い仲良く暮らしていた。そんなある日、信二が本社へ栄転することに伴って、新は転校することに。その前日、これまで信二が何かと気にかけていた養護施設に支援物資を届けるために一緒に向かった新は、信二が娘のように可愛がる楠木優香(新木優子)を紹介されるが、不愛想な性格ゆえにそっけない態度をとってしまう。
+
+そして迎えた転校初日。クラスに案内された新は、偶然にも優香の隣の席になり、気まずさを感じていると、突然、教室である事件が発生! クラスメイトの桐野雄大(矢本悠馬)が長屋龍河(早乙女太一)に使い走りにされた上、執拗ないじめを受けるのだが、なんと他の生徒だけでなく先生までも見て見ぬふりで...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-111_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728103000 +0000" stop="20250728114000 +0000">
+		<title>日本統一 エピソード集IV 二人ノ若</title>
+		<desc>虎(小手山雅)の淹れたコーヒーで午後のひと時を楽しむ氷室(本宮泰風)たち。田村(山口祥行)や長谷川(大山大介)とコーヒーの味の話をしていると丈二(北代高士)は自分が組に入った時のことを思い出していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-22_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728114000 +0000" stop="20250728120000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728120000 +0000" stop="20250728132000 +0000">
+		<title>日本統一54【無料1週間】</title>
+		<desc>丸神会中森組組長・中森(大賀太郎)と氷室(本宮泰風)が何者かに銃撃を受け、氷室は事情聴取の為警察に連行されていた。
+氷室不在の間、八王子の株買い占めや、横浜で出回っているフェンタニルの出どころを山崎一門中心に探っている侠和会。そこに虎(小手山 雅)と照(喜矢武 豊)の姿はなかった。
+虎は田村(山口祥行)の言葉に感銘を受け、成果を出そうと照と共に奮闘していた。
+そして二人は加須にあるクラブで大騒ぎし、ある波乱を巻き起こそうとしていた。それは関東七人会を切り崩すための氷室と田村の策略であったが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p54/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728132000 +0000" stop="20250728133000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728133000 +0000" stop="20250728145000 +0000">
+		<title>日本極道戦争 第八章【無料1週間】</title>
+		<desc>阪神連合の張本(桑田 昭彦)の策略により四国向かった相馬組組長・相馬仁(小沢仁志)は、阪神連合会系山崎組組長・山崎健介(芳野史朗)にオトシマエを要求する。逆上した山崎は相馬探しに松山中を奔走していた。田崎組長を暗殺した橋本一家若頭・橋本龍馬(山口祥行)の行方を追っていた相馬たちは妹・由里(彩川ひなの)と行動を共にするが山崎組の組員に取り囲まれる。由里を逃がす為、単身で山崎組組員に向かった相馬だったが・・・。
+そして逃がした由里の前に現れた龍馬の目的は!?四国編ついに完結。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-18_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728145000 +0000" stop="20250728150000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728150000 +0000" stop="20250728160000 +0000">
+		<title>リーガルV～元弁護士・小鳥遊翔子～ case7【～7/31まで無料】</title>
+		<desc>代表・相田栞(東ちづる)が中心となり、会員を相手に婚活詐欺を繰り返す高級婚活相談所「ローズブライダル」。元弁護士・小鳥遊翔子(米倉涼子)率いる「京極法律事務所」は被害者・塩見一郎(矢部太郎)を弁護し、「ローズブライダル」を訴えるも、被告代理人である「Felix &amp; Temma法律事務所」の敏腕弁護士・海崎勇人(向井理)に急所を突かれ、第一審で破れてしまうことに...。だが、翔子はすでに次の手を考えていた。なんと塩見の控訴審と並行し、全国の被害者を集めて集団訴訟を起こすというのだ! しかし、肝心の被害者たちは二の足を踏み、なかなか立ち上がってくれない。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-50_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728160000 +0000" stop="20250728165000 +0000">
+		<title>遺留捜査シーズン6 第4話【無料2日間】</title>
+		<desc>バーのママ・中松里香子(朝海ひかる)が、店内で殺されているのが見つかった。前日の閉店後に何者かに刺されたようだったが、臨場した糸村聡(上川隆也)は被害者が古びた銀のマドラーを握りしめていることに気づく。先端が小さなスプーン状で、その反対側は鉛筆の芯のように尖っている、少々変わった形のマドラーだった。
+まもなく里香子の本名は“川端葉子”で、彼女は22年前、福岡市内で料亭の板前が殺された事件の容疑者として指名手配されていたことが判明。バーのオーナーである梶木邦昭(小林勝也)は6年前に彼女を雇い入れた際、身元は確認しなかったと話すが、彼女の所在に気づいた22年前の事件関係者による復讐なのだろうか...。また、科捜研研究員・村木繁(甲本雅裕)の鑑定の結果、凶器の包丁から被害者以外の血液がわずかに検出され、犯行の際、犯人は自らの手を傷つけた可能性が高いこともわかった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-121_s6_p4/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728165000 +0000" stop="20250728170000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728170000 +0000" stop="20250728183500 +0000">
+		<title>日本統一25【無料1週間】</title>
+		<desc>新体制へと陣頭指揮を執る氷室(本宮泰風)。大阪へ本部を移した田村(山口祥行)の元、元侠和会会長・権田の実子・稜一(小柳心)と丈治(北代高士)など若手達も着実に成長していく。そんな折、小料理屋で女将・美南(飛鳥凛)との夜を過ごした川谷(小沢仁志)が、復帰を画策する元侠和会本部長・渡部らが送り込んだヒットマンにより襲撃を受ける!!それを知り、侠和会執行部内で孤立している木島は渡部らを問い詰めるが、次第に渡部らの勧誘に惑わされていく...。
+関東では三田(菅田俊)と若宮(川原英之)が民主党幹事長からの要請により、カジノ法案成立に伴う地上げへと動き出し、沖縄では内部抗争が勃発、四国では組長引退問題...日本全土で極道達が、来るべき抗争へと向けて動き出しているのであった―!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728183500 +0000" stop="20250728185000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728185000 +0000" stop="20250728190000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728190000 +0000" stop="20250728195000 +0000">
+		<title>遺留捜査シーズン6 第5話【無料2日間】</title>
+		<desc>雨宮宏(永井大)がランニング中、男性の撲殺死体を発見した。臨場した糸村聡(上川隆也)は、被害者のカバンから1枚の紙を見つける。そこには、雑誌を切り抜いた文字で「“京都名所マラソン”を中止しろ。中止しなければ多くの人間が死ぬことになる」と記されていた。1週間後に開催される京都名所マラソンは “京都のトランプ”と揶揄される“ホテル王”倉持俊(冨家規政)が主催する一大イベントで、実は雨宮も参加予定だった。糸村はまた、被害者のポケットから巾着袋を発見。中には直径15センチほどの輪状にした紐が入っており、興味を抱いた糸村はその輪っかがいったい何なのか、捜査をはじめる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-121_s6_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728195000 +0000" stop="20250728213000 +0000">
+		<title>日本統一26【無料1週間】</title>
+		<desc>産廃施設設備における不正を暴くことに成功した氷室(本宮泰風)と田村(山口祥行)。沖縄での内部抗争で命を落とした侠和会の真栄田の仇を取るべく、琉球会理事長・上原(宮本大誠)は氷室と田村に相談、田村たちと一緒に犯人の比嘉を探し始めた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p26/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728213000 +0000" stop="20250728224000 +0000">
+		<title>日本統一 エピソード集V リモート会議</title>
+		<desc>氷室(本宮泰風)はパソコンを使ったリモート会議で山崎一門のメンバーの近況を聞いていた。川上(中澤達也)が横浜の事務所を大掃除していた時、氷室の幼少期の写真を見つける。田村(山口祥行)は氷室と藤代組の関係についてメンバーに話すように促す。そこで語られる氷室の過去とは!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-22_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728224000 +0000" stop="20250728230000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250728230000 +0000" stop="20250729002000 +0000">
+		<title>日本統一55【無料1週間】</title>
+		<desc>若松一家の襲撃から田村(山口祥行)を守るため負傷し、一人囮となり逮捕されてしまった虎(小手山雅)。
+その一件から、以前より侠和会を目の敵にしていた特捜班・松宮警部は激怒し、ますます侠和会を敵視。検挙しようと躍起になっていた。
+山崎一門は依然、フェンタニルの売人探しを続けるが、潜んだままの中森(大賀太郎)に向けてより大きい餌をぶら下げようと、三田(菅田俊)の別荘で侠和会と丸神会が落ち合うことに。
+一方、記者である由利子(宮﨑 優)は、氷室(本宮泰風)から受けたアドバイスを元に新たな情報を掴んでいた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p55/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729002000 +0000" stop="20250729003000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729003000 +0000" stop="20250729015000 +0000">
+		<title>日本極道戦争 第九章【無料1週間】</title>
+		<desc>四国での騒動をきっかけに相馬組と阪神連合との抗争が始まった。次々と組員や幹部たちが命を落とす中、相馬(小沢仁志)も命を狙われる立場となった。一方、身を隠し相馬のタマを狙う張本(桑田昭彦)と村雨(赤井英和)。激化していく抗争に大阪府警は厳戒態勢を取り、相馬、張本逮捕に向け、それぞれの事務所へと乗り込んだ。
+神征会最大の内部抗争に決着をつけるべく相馬が動き出すー。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-18_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729015000 +0000" stop="20250729020000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729020000 +0000" stop="20250729030000 +0000">
+		<title>リーガルV～元弁護士・小鳥遊翔子～ case8【～7/31まで無料】</title>
+		<desc>元弁護士・小鳥遊翔子(米倉涼子)が率いる「京極法律事務所」は集団訴訟で勝訴したのを機に、相談者が次々と詰めかけて大繁盛。そんな中、翔子はかつて弁護していた受刑者・守屋至(寛一郎)と1年ぶりに面会する。実は、公園でNPO法人「貧困を救う会」の幹部職員・市瀬徹(夙川アトム)を殺害した至は1年前、自らも罪を認め、懲役9年の実刑判決を受けていた。しかし弁護していた当時から、至の証言にどうも不自然さを感じていた翔子は、この事件の奥には“隠された何か”があると直感。それを探ろうとしていたのだ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-50_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729030000 +0000" stop="20250729043000 +0000">
+		<title>日本統一55【無料1週間】</title>
+		<desc>若松一家の襲撃から田村(山口祥行)を守るため負傷し、一人囮となり逮捕されてしまった虎(小手山雅)。
+その一件から、以前より侠和会を目の敵にしていた特捜班・松宮警部は激怒し、ますます侠和会を敵視。検挙しようと躍起になっていた。
+山崎一門は依然、フェンタニルの売人探しを続けるが、潜んだままの中森(大賀太郎)に向けてより大きい餌をぶら下げようと、三田(菅田俊)の別荘で侠和会と丸神会が落ち合うことに。
+一方、記者である由利子(宮﨑 優)は、氷室(本宮泰風)から受けたアドバイスを元に新たな情報を掴んでいた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p55/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729043000 +0000" stop="20250729055000 +0000">
+		<title>日本極道戦争 第九章【無料1週間】</title>
+		<desc>四国での騒動をきっかけに相馬組と阪神連合との抗争が始まった。次々と組員や幹部たちが命を落とす中、相馬(小沢仁志)も命を狙われる立場となった。一方、身を隠し相馬のタマを狙う張本(桑田昭彦)と村雨(赤井英和)。激化していく抗争に大阪府警は厳戒態勢を取り、相馬、張本逮捕に向け、それぞれの事務所へと乗り込んだ。
+神征会最大の内部抗争に決着をつけるべく相馬が動き出すー。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-18_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729055000 +0000" stop="20250729060000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729060000 +0000" stop="20250729071000 +0000">
+		<title>日本統一 エピソード集V リモート会議</title>
+		<desc>氷室(本宮泰風)はパソコンを使ったリモート会議で山崎一門のメンバーの近況を聞いていた。川上(中澤達也)が横浜の事務所を大掃除していた時、氷室の幼少期の写真を見つける。田村(山口祥行)は氷室と藤代組の関係についてメンバーに話すように促す。そこで語られる氷室の過去とは!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-22_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729071000 +0000" stop="20250729073000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729073000 +0000" stop="20250729082500 +0000">
+		<title>リーガルV～元弁護士・小鳥遊翔子～ case8【～7/31まで無料】</title>
+		<desc>元弁護士・小鳥遊翔子(米倉涼子)が率いる「京極法律事務所」は集団訴訟で勝訴したのを機に、相談者が次々と詰めかけて大繁盛。そんな中、翔子はかつて弁護していた受刑者・守屋至(寛一郎)と1年ぶりに面会する。実は、公園でNPO法人「貧困を救う会」の幹部職員・市瀬徹(夙川アトム)を殺害した至は1年前、自らも罪を認め、懲役9年の実刑判決を受けていた。しかし弁護していた当時から、至の証言にどうも不自然さを感じていた翔子は、この事件の奥には“隠された何か”があると直感。それを探ろうとしていたのだ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-50_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729082500 +0000" stop="20250729084500 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729084500 +0000" stop="20250729093000 +0000">
+		<title>奪い愛、夏 第5話</title>
+		<desc>1億円を返済し桜（水野美紀）との結婚を解消した椿（小池徹平）。そのことを伝えると、杏は熱を出し倒れてしまう。杏を部屋まで送ると、そこは白いパズルが。さらに奥には扉があり、そこを抜けると桜の部屋と繋がっていた。事態を飲み込めない椿は、桜を問い正す。そこには驚くべき秘密があった……。
+
+杏を連れ桜の元から逃げた椿は、同僚の姜（テジュ）に退職届と離婚届を託す。姜から千葉にある親戚の空き家の鍵を渡され、しばらく見を隠したほうがいいと助言を受ける。
+
+田舎の家に移り住んだ椿と杏は、生活費を節約するために畑を耕し、二人の生活に気持ちを新たにする。だが、桜の執拗な追跡はとどまることを知らず……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1290_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729093000 +0000" stop="20250729103000 +0000">
+		<title>六本木クラス 第2話【無料1週間】</title>
+		<desc>長屋龍河(早乙女太一)への殺人未遂で服役することになった宮部新(竹内涼真)のもとへ、楠木優香(新木優子)が面会にやってくる。新は服役中に長屋茂(香川照之)の自叙伝を読み始め、自分も飲食店を始めたくなったと伝える。優香から「復讐ってこと?」と思いがけず聞かれた新は、その言葉にはたと気づかされ、心が満たされるような感覚を覚える。そして「復讐」という人生の目標を見つけることに――。
+
+月日が経ち出所した新は、手紙で優香がアルバイトをしていると言っていた六本木を訪れる。ちょうどその日は夏祭りのイベントが開催されており、賑わう人に圧倒される中、新は優香と偶然の再会をはたす。2人はお互いの近況を語り合い、間もなく大学を卒業する優香は、長屋ホールディングスに就職することを伝える。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-111_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729103000 +0000" stop="20250729114000 +0000">
+		<title>日本統一 エピソード集V リモート会議</title>
+		<desc>氷室(本宮泰風)はパソコンを使ったリモート会議で山崎一門のメンバーの近況を聞いていた。川上(中澤達也)が横浜の事務所を大掃除していた時、氷室の幼少期の写真を見つける。田村(山口祥行)は氷室と藤代組の関係についてメンバーに話すように促す。そこで語られる氷室の過去とは!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-22_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729114000 +0000" stop="20250729120000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729120000 +0000" stop="20250729132000 +0000">
+		<title>日本統一55【無料1週間】</title>
+		<desc>若松一家の襲撃から田村(山口祥行)を守るため負傷し、一人囮となり逮捕されてしまった虎(小手山雅)。
+その一件から、以前より侠和会を目の敵にしていた特捜班・松宮警部は激怒し、ますます侠和会を敵視。検挙しようと躍起になっていた。
+山崎一門は依然、フェンタニルの売人探しを続けるが、潜んだままの中森(大賀太郎)に向けてより大きい餌をぶら下げようと、三田(菅田俊)の別荘で侠和会と丸神会が落ち合うことに。
+一方、記者である由利子(宮﨑 優)は、氷室(本宮泰風)から受けたアドバイスを元に新たな情報を掴んでいた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p55/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729132000 +0000" stop="20250729133000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729133000 +0000" stop="20250729145000 +0000">
+		<title>日本極道戦争 第九章【無料1週間】</title>
+		<desc>四国での騒動をきっかけに相馬組と阪神連合との抗争が始まった。次々と組員や幹部たちが命を落とす中、相馬(小沢仁志)も命を狙われる立場となった。一方、身を隠し相馬のタマを狙う張本(桑田昭彦)と村雨(赤井英和)。激化していく抗争に大阪府警は厳戒態勢を取り、相馬、張本逮捕に向け、それぞれの事務所へと乗り込んだ。
+神征会最大の内部抗争に決着をつけるべく相馬が動き出すー。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-18_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729145000 +0000" stop="20250729150000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729150000 +0000" stop="20250729160000 +0000">
+		<title>リーガルV～元弁護士・小鳥遊翔子～ case8【～7/31まで無料】</title>
+		<desc>元弁護士・小鳥遊翔子(米倉涼子)が率いる「京極法律事務所」は集団訴訟で勝訴したのを機に、相談者が次々と詰めかけて大繁盛。そんな中、翔子はかつて弁護していた受刑者・守屋至(寛一郎)と1年ぶりに面会する。実は、公園でNPO法人「貧困を救う会」の幹部職員・市瀬徹(夙川アトム)を殺害した至は1年前、自らも罪を認め、懲役9年の実刑判決を受けていた。しかし弁護していた当時から、至の証言にどうも不自然さを感じていた翔子は、この事件の奥には“隠された何か”があると直感。それを探ろうとしていたのだ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-50_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729160000 +0000" stop="20250729165000 +0000">
+		<title>遺留捜査シーズン6 第5話【無料2日間】</title>
+		<desc>雨宮宏(永井大)がランニング中、男性の撲殺死体を発見した。臨場した糸村聡(上川隆也)は、被害者のカバンから1枚の紙を見つける。そこには、雑誌を切り抜いた文字で「“京都名所マラソン”を中止しろ。中止しなければ多くの人間が死ぬことになる」と記されていた。1週間後に開催される京都名所マラソンは “京都のトランプ”と揶揄される“ホテル王”倉持俊(冨家規政)が主催する一大イベントで、実は雨宮も参加予定だった。糸村はまた、被害者のポケットから巾着袋を発見。中には直径15センチほどの輪状にした紐が入っており、興味を抱いた糸村はその輪っかがいったい何なのか、捜査をはじめる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-121_s6_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729165000 +0000" stop="20250729170000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729170000 +0000" stop="20250729184000 +0000">
+		<title>日本統一26【無料1週間】</title>
+		<desc>産廃施設設備における不正を暴くことに成功した氷室(本宮泰風)と田村(山口祥行)。沖縄での内部抗争で命を落とした侠和会の真栄田の仇を取るべく、琉球会理事長・上原(宮本大誠)は氷室と田村に相談、田村たちと一緒に犯人の比嘉を探し始めた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p26/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729184000 +0000" stop="20250729190000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729190000 +0000" stop="20250729195000 +0000">
+		<title>遺留捜査シーズン6 第6話【無料2日間】</title>
+		<desc>ジャズサックス界のトッププレイヤー・新庄リュウ(葛山信吾)がステージで演奏中、突如、苦悶し絶命する事件が起きた。死因は毒物による中毒死と判明するが、どこに毒が仕込まれていたのかすぐには特定できず、鑑定の結果待ちの状況だった。そんな中、糸村聡(上川隆也)は遺体のポケットから、小さなケースに入った人差し指大の薄い板を4枚見つける。それはサックスを吹くときにマウスピースにつける“リード”のようだったが、『2/10』『2/11』『2/15』『5/3』という謎の数字がそれぞれ記入されていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-121_s6_p6/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729195000 +0000" stop="20250729212000 +0000">
+		<title>日本統一27【無料1週間】</title>
+		<desc>渋谷を殺され、相次ぐ会議欠席者に川谷(小沢仁志)を始め、氷室(本宮泰風)と田村(山口祥行)は怒りと困惑を隠せず、侠和会本部では緊張が続いていた。神戸では渡部(奈良坂篤)が中心となり、侠尽会が反侠和会派として馬場(桑田昭彦)を会長とした新団体が動き始めようとしていた。しかし、馬場は渋谷が殺されたことを知らず、侠和会元会長・工藤を名誉総裁に迎える話も進展しないことに正式な旗揚げを先送りした。田村は裏切り者を片っ端から始末しようとするが、氷室がそれを止め、一触即発になるのだが・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729212000 +0000" stop="20250729224000 +0000">
+		<title>山崎一門~日本統一外伝~</title>
+		<desc>菊村失踪と同時期、龍征会の組事務所の引っ越しが行われていた。新しい組事務所の大家さんから静かに使用するようにきつく言われている氷室(本宮泰風)は田村(山口祥行)以下、組員たちに忠告するが、川上(中澤達也)や中島(舘昌美)たちは忠告を無視してさっそく暴れ出してしまい、氷室の怒りをかってしまう。
+一方、山村(川﨑健太)が懇意にしている国本夫妻の家に振り込め詐欺の電話が入り、その犯人を捕まえようと国本夫妻の家に張り込む長谷川(大山大介)、石沢(本田広登)。現れた受け子の男を捕まえて組事務所に連行するのだが、それが悪夢の夜の始まりだった!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-2_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729224000 +0000" stop="20250729230000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250729230000 +0000" stop="20250730002500 +0000">
+		<title>日本統一56【無料1週間】</title>
+		<desc>ある日突然、特捜班による侠和会への一斉捜索が始まった。田村(山口祥行)は迫田組の岩尾(根岸大介)のチンコロだと決めつけるが、氷室(本宮泰風)はそれを否定。
+調べていた川谷(小沢仁志)によると、侠和会への追い込みは、特捜班の松宮警部(本郷弦)からのタレコミだという。不審に思った氷室らは松宮の情報源を探ろうとするが―。
+その頃、テル(喜矢武豊)と桜木(菅原卓磨)は取り仕切る賭場で横柄な態度を取る刑事・谷崎(山本修夢)に手を焼いていた。
+そして同じ賭場の客・浜田(内倉憲二)は氷室と田村にビジネスの話を持ち掛ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p56/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730002500 +0000" stop="20250730014500 +0000">
+		<title>日本極道戦争 第十章【無料1週間】</title>
+		<desc>阪神連合との抗争は終結し、勝利した相馬組だったが、今回の抗争で岡山の黒田組が九州の豊秀組との抗争へと発展。組長の黒田孝蔵(清水昭博)は相馬仁(小沢仁志)に助けを求めた。一方、抗争の余波は神征会本体にも影響を及ぼし、大阪府警から特定指定暴力団に特定された。それを予期していた三代目である矢島剛一(螢雪次朗)は自身の保身の為、神征会解散を宣言した。
+解散の衝撃が治まらないまま相馬は岡山へ、生き残った張本(桑田 昭彦)は元神征会のメンバーを束ねる為に動き出した。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-18_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730014500 +0000" stop="20250730030000 +0000">
+		<title>リーガルV～元弁護士・小鳥遊翔子～ Last case【～7/31まで無料】</title>
+		<desc>小鳥遊翔子(米倉涼子)がかつて弁護した受刑者・守屋至(寛一郎)は、NPO法人「貧困を救う会」の代表・大峰聡(速水もこみち)に脅され、殺人の罪に手を染めていた――。ようやくあぶり出されたその真実を法廷で明らかにするため、翔子は度肝を抜く手段を思いつく。なんと、翔子自身が原告となり、大峰と“ある濃密な裏関係”が疑われる「Felix &amp; Temma法律事務所」の代表弁護士・天馬壮一郎(小日向文世)を提訴。至を弁護していた1年前に弁護士資格を剥奪されたことに関して、弁護士会会長でもある天馬に、たった1円の損害賠償を求める民事訴訟を起こしたのだ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-50_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730030000 +0000" stop="20250730043000 +0000">
+		<title>日本統一56【無料1週間】</title>
+		<desc>ある日突然、特捜班による侠和会への一斉捜索が始まった。田村(山口祥行)は迫田組の岩尾(根岸大介)のチンコロだと決めつけるが、氷室(本宮泰風)はそれを否定。
+調べていた川谷(小沢仁志)によると、侠和会への追い込みは、特捜班の松宮警部(本郷弦)からのタレコミだという。不審に思った氷室らは松宮の情報源を探ろうとするが―。
+その頃、テル(喜矢武豊)と桜木(菅原卓磨)は取り仕切る賭場で横柄な態度を取る刑事・谷崎(山本修夢)に手を焼いていた。
+そして同じ賭場の客・浜田(内倉憲二)は氷室と田村にビジネスの話を持ち掛ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p56/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730043000 +0000" stop="20250730055000 +0000">
+		<title>日本極道戦争 第十章【無料1週間】</title>
+		<desc>阪神連合との抗争は終結し、勝利した相馬組だったが、今回の抗争で岡山の黒田組が九州の豊秀組との抗争へと発展。組長の黒田孝蔵(清水昭博)は相馬仁(小沢仁志)に助けを求めた。一方、抗争の余波は神征会本体にも影響を及ぼし、大阪府警から特定指定暴力団に特定された。それを予期していた三代目である矢島剛一(螢雪次朗)は自身の保身の為、神征会解散を宣言した。
+解散の衝撃が治まらないまま相馬は岡山へ、生き残った張本(桑田 昭彦)は元神征会のメンバーを束ねる為に動き出した。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-18_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730055000 +0000" stop="20250730060000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730060000 +0000" stop="20250730072000 +0000">
+		<title>山崎一門~日本統一外伝~</title>
+		<desc>菊村失踪と同時期、龍征会の組事務所の引っ越しが行われていた。新しい組事務所の大家さんから静かに使用するようにきつく言われている氷室(本宮泰風)は田村(山口祥行)以下、組員たちに忠告するが、川上(中澤達也)や中島(舘昌美)たちは忠告を無視してさっそく暴れ出してしまい、氷室の怒りをかってしまう。
+一方、山村(川﨑健太)が懇意にしている国本夫妻の家に振り込め詐欺の電話が入り、その犯人を捕まえようと国本夫妻の家に張り込む長谷川(大山大介)、石沢(本田広登)。現れた受け子の男を捕まえて組事務所に連行するのだが、それが悪夢の夜の始まりだった!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-2_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730072000 +0000" stop="20250730083500 +0000">
+		<title>リーガルV～元弁護士・小鳥遊翔子～ Last case【～7/31まで無料】</title>
+		<desc>小鳥遊翔子(米倉涼子)がかつて弁護した受刑者・守屋至(寛一郎)は、NPO法人「貧困を救う会」の代表・大峰聡(速水もこみち)に脅され、殺人の罪に手を染めていた――。ようやくあぶり出されたその真実を法廷で明らかにするため、翔子は度肝を抜く手段を思いつく。なんと、翔子自身が原告となり、大峰と“ある濃密な裏関係”が疑われる「Felix &amp; Temma法律事務所」の代表弁護士・天馬壮一郎(小日向文世)を提訴。至を弁護していた1年前に弁護士資格を剥奪されたことに関して、弁護士会会長でもある天馬に、たった1円の損害賠償を求める民事訴訟を起こしたのだ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-50_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730083500 +0000" stop="20250730084500 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730084500 +0000" stop="20250730093000 +0000">
+		<title>奪い愛、夏 第6話</title>
+		<desc>椿（小池徹平）の子を妊娠した杏（松本まりか）。椿は二人とも俺が幸せにすると意気込み、杏は自分が子供を産んでいいのかと悩む。だが翌日、二人の畑がめちゃくちゃに荒らされていた。椿は桜（水野美紀）からの追っ手を警戒し、杏を鍵付きの部屋の中に閉じ込める。椿の瞳には、すでに狂気が宿っていた……。
+
+監禁され過呼吸になった杏は窓ガラスを破り外に出る。そこに土筆（小手伸也）と井川（田中みな実）が現れ、杏を拉致しようと拘束する。異変に気づいた椿は、鍬を持って抵抗する。
+
+杏の奪還に失敗した土筆と井川を責める桜。窮地に陥った土筆が取った行動は、あまりにも卑劣なものだった……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1290_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730093000 +0000" stop="20250730102000 +0000">
+		<title>六本木クラス 第3話【無料1週間】</title>
+		<desc>居酒屋「二代目みやべ」が未成年に酒を提供していると何者かに通報され、宮部新(竹内涼真)は、警察で取り調べを受けることに。内山亮太(中尾明慶)は、麻宮葵(平手友梨奈)や長屋龍二(鈴鹿央士)たちに騙されたと警察官に訴えるが、新は、亮太が葵たちが未成年だと気づいて接客していたことを見抜き、潔く自分たちの責任を認め2カ月の営業停止処分を受け入れる。そんな中、なんと長屋龍河(早乙女太一)が龍二の保護者として警察にやってくる...!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-111_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730102000 +0000" stop="20250730103000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730103000 +0000" stop="20250730115000 +0000">
+		<title>山崎一門~日本統一外伝~</title>
+		<desc>菊村失踪と同時期、龍征会の組事務所の引っ越しが行われていた。新しい組事務所の大家さんから静かに使用するようにきつく言われている氷室(本宮泰風)は田村(山口祥行)以下、組員たちに忠告するが、川上(中澤達也)や中島(舘昌美)たちは忠告を無視してさっそく暴れ出してしまい、氷室の怒りをかってしまう。
+一方、山村(川﨑健太)が懇意にしている国本夫妻の家に振り込め詐欺の電話が入り、その犯人を捕まえようと国本夫妻の家に張り込む長谷川(大山大介)、石沢(本田広登)。現れた受け子の男を捕まえて組事務所に連行するのだが、それが悪夢の夜の始まりだった!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-2_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730115000 +0000" stop="20250730120000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730120000 +0000" stop="20250730132000 +0000">
+		<title>日本統一56【無料1週間】</title>
+		<desc>ある日突然、特捜班による侠和会への一斉捜索が始まった。田村(山口祥行)は迫田組の岩尾(根岸大介)のチンコロだと決めつけるが、氷室(本宮泰風)はそれを否定。
+調べていた川谷(小沢仁志)によると、侠和会への追い込みは、特捜班の松宮警部(本郷弦)からのタレコミだという。不審に思った氷室らは松宮の情報源を探ろうとするが―。
+その頃、テル(喜矢武豊)と桜木(菅原卓磨)は取り仕切る賭場で横柄な態度を取る刑事・谷崎(山本修夢)に手を焼いていた。
+そして同じ賭場の客・浜田(内倉憲二)は氷室と田村にビジネスの話を持ち掛ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p56/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730132000 +0000" stop="20250730133000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730133000 +0000" stop="20250730145000 +0000">
+		<title>日本極道戦争 第十章【無料1週間】</title>
+		<desc>阪神連合との抗争は終結し、勝利した相馬組だったが、今回の抗争で岡山の黒田組が九州の豊秀組との抗争へと発展。組長の黒田孝蔵(清水昭博)は相馬仁(小沢仁志)に助けを求めた。一方、抗争の余波は神征会本体にも影響を及ぼし、大阪府警から特定指定暴力団に特定された。それを予期していた三代目である矢島剛一(螢雪次朗)は自身の保身の為、神征会解散を宣言した。
+解散の衝撃が治まらないまま相馬は岡山へ、生き残った張本(桑田 昭彦)は元神征会のメンバーを束ねる為に動き出した。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-18_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730145000 +0000" stop="20250730160500 +0000">
+		<title>リーガルV～元弁護士・小鳥遊翔子～ Last case【～7/31まで無料】</title>
+		<desc>小鳥遊翔子(米倉涼子)がかつて弁護した受刑者・守屋至(寛一郎)は、NPO法人「貧困を救う会」の代表・大峰聡(速水もこみち)に脅され、殺人の罪に手を染めていた――。ようやくあぶり出されたその真実を法廷で明らかにするため、翔子は度肝を抜く手段を思いつく。なんと、翔子自身が原告となり、大峰と“ある濃密な裏関係”が疑われる「Felix &amp; Temma法律事務所」の代表弁護士・天馬壮一郎(小日向文世)を提訴。至を弁護していた1年前に弁護士資格を剥奪されたことに関して、弁護士会会長でもある天馬に、たった1円の損害賠償を求める民事訴訟を起こしたのだ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-50_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730160500 +0000" stop="20250730170000 +0000">
+		<title>遺留捜査シーズン6 第6話【無料2日間】</title>
+		<desc>ジャズサックス界のトッププレイヤー・新庄リュウ(葛山信吾)がステージで演奏中、突如、苦悶し絶命する事件が起きた。死因は毒物による中毒死と判明するが、どこに毒が仕込まれていたのかすぐには特定できず、鑑定の結果待ちの状況だった。そんな中、糸村聡(上川隆也)は遺体のポケットから、小さなケースに入った人差し指大の薄い板を4枚見つける。それはサックスを吹くときにマウスピースにつける“リード”のようだったが、『2/10』『2/11』『2/15』『5/3』という謎の数字がそれぞれ記入されていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-121_s6_p6/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730170000 +0000" stop="20250730183000 +0000">
+		<title>日本統一27【無料1週間】</title>
+		<desc>渋谷を殺され、相次ぐ会議欠席者に川谷(小沢仁志)を始め、氷室(本宮泰風)と田村(山口祥行)は怒りと困惑を隠せず、侠和会本部では緊張が続いていた。神戸では渡部(奈良坂篤)が中心となり、侠尽会が反侠和会派として馬場(桑田昭彦)を会長とした新団体が動き始めようとしていた。しかし、馬場は渋谷が殺されたことを知らず、侠和会元会長・工藤を名誉総裁に迎える話も進展しないことに正式な旗揚げを先送りした。田村は裏切り者を片っ端から始末しようとするが、氷室がそれを止め、一触即発になるのだが・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730183000 +0000" stop="20250730185000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730185000 +0000" stop="20250730190000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730190000 +0000" stop="20250730195000 +0000">
+		<title>遺留捜査シーズン6 第7話【無料2日間】</title>
+		<desc>一月前に閉店した飲食店で、暴力団幹部・金子仁(本宮泰風)の刺殺体が見つかった。元店長の久保田英二(増田修一朗)が備品整理のため店を訪れたところ、遺体を発見したという。臨場した糸村聡(上川隆也)は、現場で2つに割れたクルミ大の石を発見。何の変哲もなく、しかも2つに割れた石を暴力団幹部がなぜ持ち歩いていたのか、疑問を抱く。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-121_s6_p7/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730195000 +0000" stop="20250730211500 +0000">
+		<title>日本統一28【無料1週間】</title>
+		<desc>侠和会執行部。渋谷を殺害し、工藤会長を擁立せよとする侠尽会が発端の名古屋の抗争劇は一段落し、その功績を評価し丈治(北代高士)・稜一(小柳心)が直参に昇格、川谷(小沢仁志)との親子の盃の儀が執り行われた。そして氷室(本宮泰風)、田村(山口祥行)は、殺された渋谷の仇討ちとして、木島と馬場の処分を思案していた。報復を恐れた侠尽会は、まだ侠和会、そして丸神会が手をつけていない北陸に助けを求め、喜多越組組長・喜多(藤原喜明)を引き込み、侠和会に対抗する策を試みる。そのことから、侠和会は手付かずであった北陸にいよいよ本格的に侵攻を始める―!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p28/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730211500 +0000" stop="20250730224500 +0000">
+		<title>山崎一門2~日本統一外伝~</title>
+		<desc>龍征会事務所の管理人が、息子がトラブルに巻き込まれたと助けを求めてくる。しかしそれはただの振り込め詐欺であり、安堵する山崎一門であったが、「詐欺集団のことが許せない!」と怒り狂った管理人はこの詐欺集団を一掃するよう山崎一門に発破をかける。
+神戸での一件で氷室(本宮泰風)と田村(山口祥行)は療養中であったため、会長の川谷(小沢仁志)に相談するが、「お前らの力で解決しろ!」と叱咤激励され、山崎一門は氷室と田村不在の中、この詐欺集団の壊滅に乗り出すことに!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-2_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730224500 +0000" stop="20250730230000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250730230000 +0000" stop="20250731001500 +0000">
+		<title>日本統一57【無料1週間】</title>
+		<desc>浜田が死亡し、悠成会の問題は一件落着かと思われたが、横浜で中森組の半グレが襲われる事件が起きてしまう。松宮(本郷弦)はまたしても侠和会の仕業だと決め込み、調査。一方で、捕まっていた川上(中澤達也)と竜次(岸田タツヤ)が釈放時に何者かにより襲撃されてしまう。一連の襲撃事件で、侠和会を陥れようとしているのではないかと、岩尾(根岸大介)を疑う中島(舘昌美)だったが、氷室(本宮泰風)は何者かが侠和会と丸神会が対立するように裏で糸を引いているのではないかと考えていた。この直後から七人会関係者への襲撃事件が続発し、またしても何者かによる松宮への密告により、事件化してしまう。
+佐原(金馬貴之)は松宮警部の情報源を不審に思い、後をつける。氷室と山崎一門も、松宮の情報源を調べることに。一方で岩尾と話すため横浜に向かった田村(山口祥行)は、ある人物を見かける―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p57/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731001500 +0000" stop="20250731013500 +0000">
+		<title>日本極道戦争 第十一章【無料1週間】</title>
+		<desc>大阪抗争から一週間後。
+相馬仁(小沢仁志)は神征会解散で分裂した組織を立て直す為に阪神連合の張本(桑田昭彦)と相馬組の永井(仁科克基)を使って、大阪の組織を駆けまわっていた。一方、吉永組組長の塚田(阿部亮平)も木田財閥の令嬢・美樹(桝田幸希)が持っていた元・神征会の会長・矢島(螢雪次朗)の殺人教唆の証拠を基に九州の豊秀組を巻き込み、関西統一へ動き始めていた。相馬は豊秀組と決着を着けるべく、福岡へ向かうのだが、豊秀組の組員とトラブルになっていた麗香(川上奈々美)を助けたことで新たなるトラブルへと巻き込まれていく―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-18_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731013500 +0000" stop="20250731030000 +0000">
+		<title>麻雀破壊神 むこうぶち傀 第1話【無料1週間】</title>
+		<desc>御無礼!!天獅子悦也原作による人気コミック「高レート裏麻雀列伝 むこうぶち(竹書房刊)」の待望の映像化、新シリーズ第1弾!
+アフリカで呪術師から魔術を教わったのだと言う男・与田(川本淳市)は直観力の優れた男で、傀(金子昇)とも互角に闘うことが出来る雀士だった。その腕を見込んだ商事会社の社長・松井(下元史朗)からヤクザの花会への誘いを受ける。マンション麻雀だが高レート、勝てば大金が入る。利益を稼ぎ出そうとする与田とヤクザとの付き合いで参加しなければといけない松井との利害関係が一致して、花会へ向かうが、そこには傀が参加していた。与田は傀との決着をつけようとするのだが・・・。"</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-7_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731030000 +0000" stop="20250731043000 +0000">
+		<title>日本統一57【無料1週間】</title>
+		<desc>浜田が死亡し、悠成会の問題は一件落着かと思われたが、横浜で中森組の半グレが襲われる事件が起きてしまう。松宮(本郷弦)はまたしても侠和会の仕業だと決め込み、調査。一方で、捕まっていた川上(中澤達也)と竜次(岸田タツヤ)が釈放時に何者かにより襲撃されてしまう。一連の襲撃事件で、侠和会を陥れようとしているのではないかと、岩尾(根岸大介)を疑う中島(舘昌美)だったが、氷室(本宮泰風)は何者かが侠和会と丸神会が対立するように裏で糸を引いているのではないかと考えていた。この直後から七人会関係者への襲撃事件が続発し、またしても何者かによる松宮への密告により、事件化してしまう。
+佐原(金馬貴之)は松宮警部の情報源を不審に思い、後をつける。氷室と山崎一門も、松宮の情報源を調べることに。一方で岩尾と話すため横浜に向かった田村(山口祥行)は、ある人物を見かける―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p57/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731043000 +0000" stop="20250731055000 +0000">
+		<title>日本極道戦争 第十一章【無料1週間】</title>
+		<desc>大阪抗争から一週間後。
+相馬仁(小沢仁志)は神征会解散で分裂した組織を立て直す為に阪神連合の張本(桑田昭彦)と相馬組の永井(仁科克基)を使って、大阪の組織を駆けまわっていた。一方、吉永組組長の塚田(阿部亮平)も木田財閥の令嬢・美樹(桝田幸希)が持っていた元・神征会の会長・矢島(螢雪次朗)の殺人教唆の証拠を基に九州の豊秀組を巻き込み、関西統一へ動き始めていた。相馬は豊秀組と決着を着けるべく、福岡へ向かうのだが、豊秀組の組員とトラブルになっていた麗香(川上奈々美)を助けたことで新たなるトラブルへと巻き込まれていく―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-18_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731055000 +0000" stop="20250731060000 +0000">
+		<title>しあわせな結婚 #1ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中!
+
+【脚本・大石静】×【主演・阿部サダヲ】×【ヒロイン・松たか子】
+
+妻が抱える“大きな秘密”を知ったとき...それでも“彼女を愛し続けることができるのか?”
+――夫婦の愛を問う《マリッジ・サスペンス》
+
+阿部サダヲが演じるのは、センセーショナルな事件の裁判で次々と無罪を勝ち取ってきたレジェンド弁護士・原田幸太郎。テレビ番組にも出演し、お茶の間からも絶大な支持を得ている。1人でいることが好きで、また仕事に支障が出ることを嫌い、独身生活を謳歌していた彼がある日、鈴木ネルラ(松たか子)と運命の出会いを果たし...50年間、頑なに貫いてきた“独身主義”をあっさり捨ててまさかの電撃結婚!
+しかしその後、明らかになったのは、愛する妻が抱える“大きな秘密”だった――。
+はたして、彼は秘密を知っても、妻を愛し続けることができるのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2077_s2283_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731060000 +0000" stop="20250731073000 +0000">
+		<title>山崎一門2~日本統一外伝~</title>
+		<desc>龍征会事務所の管理人が、息子がトラブルに巻き込まれたと助けを求めてくる。しかしそれはただの振り込め詐欺であり、安堵する山崎一門であったが、「詐欺集団のことが許せない!」と怒り狂った管理人はこの詐欺集団を一掃するよう山崎一門に発破をかける。
+神戸での一件で氷室(本宮泰風)と田村(山口祥行)は療養中であったため、会長の川谷(小沢仁志)に相談するが、「お前らの力で解決しろ!」と叱咤激励され、山崎一門は氷室と田村不在の中、この詐欺集団の壊滅に乗り出すことに!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-2_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731073000 +0000" stop="20250731085500 +0000">
+		<title>麻雀破壊神 むこうぶち傀 第1話【無料1週間】</title>
+		<desc>御無礼!!天獅子悦也原作による人気コミック「高レート裏麻雀列伝 むこうぶち(竹書房刊)」の待望の映像化、新シリーズ第1弾!
+アフリカで呪術師から魔術を教わったのだと言う男・与田(川本淳市)は直観力の優れた男で、傀(金子昇)とも互角に闘うことが出来る雀士だった。その腕を見込んだ商事会社の社長・松井(下元史朗)からヤクザの花会への誘いを受ける。マンション麻雀だが高レート、勝てば大金が入る。利益を稼ぎ出そうとする与田とヤクザとの付き合いで参加しなければといけない松井との利害関係が一致して、花会へ向かうが、そこには傀が参加していた。与田は傀との決着をつけようとするのだが・・・。"</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-7_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731085500 +0000" stop="20250731094000 +0000">
+		<title>奪い愛、夏 第7話</title>
+		<desc>桜（水野美紀）の脳に腫瘍があり、余命いくばくもないことを知った椿（小池徹平）と杏（松本まりか）。杏は椿よりも桜のことが好きだったことに気づく。
+
+杏は、目を覚ました桜に自分の気持ちを伝える。「壊れるほどに愛してくれて、ありがとうございます」。桜と杏は気持ちが通じ合うが椿は納得ができず、こみあがる怒りを二人にぶつける。
+
+傷心の椿の前に井川（田中みな実）が現れ、「杏さんの大切なものを奪えば、椿さんの気持ちに気づくかも」と、桜の殺害を提案する。椿は井川と共謀し、桜が入院する病室に忍び込む。
+
+杏は以前屋形船で会った医者の大和に、桜の病気を直して欲しいと懇願、だが紹介された凄腕の脳外科医に、手術の成功率は1％だと告げられる。手術に踏み切るか、残り1ヶ月を大切に生きるか、杏は桜にその未来を委ねる。桜が出した回答は……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1290_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731094000 +0000" stop="20250731103000 +0000">
+		<title>六本木クラス 第4話【無料1週間】</title>
+		<desc>宮部新(竹内涼真)は麻宮葵(平手友梨奈)から「二代目みやべ」で働きたいという申し出を受けるが、ひと足先に働きたいと言ってきた長屋龍二(鈴鹿央士)を雇うことが決まっていたため、これ以上雇う余裕はないと断る。それでも食い下がる葵は、次々と「二代目みやべ」に必要な改善点を上げていき、社長=新の隣には戦略を立てる自分のような人物が必要だとアピール。そして、最後に葵がなぜ「二代目みやべ」で働きたいのか理由を聞いた新は、葵をマネージャーとして迎え入れることに決める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-111_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731103000 +0000" stop="20250731120000 +0000">
+		<title>山崎一門2~日本統一外伝~</title>
+		<desc>龍征会事務所の管理人が、息子がトラブルに巻き込まれたと助けを求めてくる。しかしそれはただの振り込め詐欺であり、安堵する山崎一門であったが、「詐欺集団のことが許せない!」と怒り狂った管理人はこの詐欺集団を一掃するよう山崎一門に発破をかける。
+神戸での一件で氷室(本宮泰風)と田村(山口祥行)は療養中であったため、会長の川谷(小沢仁志)に相談するが、「お前らの力で解決しろ!」と叱咤激励され、山崎一門は氷室と田村不在の中、この詐欺集団の壊滅に乗り出すことに!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-2_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731120000 +0000" stop="20250731131500 +0000">
+		<title>日本統一57【無料1週間】</title>
+		<desc>浜田が死亡し、悠成会の問題は一件落着かと思われたが、横浜で中森組の半グレが襲われる事件が起きてしまう。松宮(本郷弦)はまたしても侠和会の仕業だと決め込み、調査。一方で、捕まっていた川上(中澤達也)と竜次(岸田タツヤ)が釈放時に何者かにより襲撃されてしまう。一連の襲撃事件で、侠和会を陥れようとしているのではないかと、岩尾(根岸大介)を疑う中島(舘昌美)だったが、氷室(本宮泰風)は何者かが侠和会と丸神会が対立するように裏で糸を引いているのではないかと考えていた。この直後から七人会関係者への襲撃事件が続発し、またしても何者かによる松宮への密告により、事件化してしまう。
+佐原(金馬貴之)は松宮警部の情報源を不審に思い、後をつける。氷室と山崎一門も、松宮の情報源を調べることに。一方で岩尾と話すため横浜に向かった田村(山口祥行)は、ある人物を見かける―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-1_s1_p57/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731131500 +0000" stop="20250731133000 +0000">
+		<title>奪い愛、真夏 #１ダイジェスト</title>
+		<desc>最新話はABEMAビデオで配信中！
+
+『奪い愛』シリーズ最新作！
+主演・松本まりか、そして安田顕がこの夏…《灼熱の奪い愛》に翻弄される！
+2017年にテレビ朝日系・金曜ナイトドラマ枠で放送された『奪い愛、冬』を皮切りに、さまざまな登場人物たちが愛を奪い合う《激しくも切ないドロキュン恋愛ドラマ》を展開し、日本中に衝撃を与えた『奪い愛』シリーズ。
+そんな伝説のシリーズがこの夏、8年ぶりに金曜ナイトドラマ枠に帰ってくる…！
+
+《真夏をさらに熱くする…奪い合う運命の愛》
+胸を揺さぶる《新時代の奪い愛》をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-2117_s2341_p5001/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731133000 +0000" stop="20250731145000 +0000">
+		<title>日本極道戦争 第十一章【無料1週間】</title>
+		<desc>大阪抗争から一週間後。
+相馬仁(小沢仁志)は神征会解散で分裂した組織を立て直す為に阪神連合の張本(桑田昭彦)と相馬組の永井(仁科克基)を使って、大阪の組織を駆けまわっていた。一方、吉永組組長の塚田(阿部亮平)も木田財閥の令嬢・美樹(桝田幸希)が持っていた元・神征会の会長・矢島(螢雪次朗)の殺人教唆の証拠を基に九州の豊秀組を巻き込み、関西統一へ動き始めていた。相馬は豊秀組と決着を着けるべく、福岡へ向かうのだが、豊秀組の組員とトラブルになっていた麗香(川上奈々美)を助けたことで新たなるトラブルへと巻き込まれていく―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-18_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="drama-2" start="20250731145000 +0000" stop="20250731161500 +0000">
+		<title>麻雀破壊神 むこうぶち傀 第1話【無料1週間】</title>
+		<desc>御無礼!!天獅子悦也原作による人気コミック「高レート裏麻雀列伝 むこうぶち(竹書房刊)」の待望の映像化、新シリーズ第1弾!
+アフリカで呪術師から魔術を教わったのだと言う男・与田(川本淳市)は直観力の優れた男で、傀(金子昇)とも互角に闘うことが出来る雀士だった。その腕を見込んだ商事会社の社長・松井(下元史朗)からヤクザの花会への誘いを受ける。マンション麻雀だが高レート、勝てば大金が入る。利益を稼ぎ出そうとする与田とヤクザとの付き合いで参加しなければといけない松井との利害関係が一致して、花会へ向かうが、そこには傀が参加していた。与田は傀との決着をつけようとするのだが・・・。"</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/542-7_s1_p1/thumb001.png" />
+	</programme>
 	<programme channel="mahjong" start="20250716150000 +0000" stop="20250716180000 +0000">
 		<title>第20回女流モンド杯 #5,6</title>
 		<desc>人気実力ともに兼ね備えた女流プロ12名が出場するリーグ戦です。予選は各自が6戦を打ち、総合点の上位2名は決勝卓に進み、下位2名がチャレンジマッチ行になります。残る8名で各自1回の準決勝を行い、総合点の上位2名が決勝進出で下位2名はチャレンジマッチ行となります。決勝は予選の点数をリセットし2回戦を行い優勝者を決定します。優勝者には『王座決定戦』の出場権が与えられます。
@@ -26422,10 +27663,17 @@ ABEMAでは競泳予選を独占無料生中継&amp;競泳決勝を放送
 アーティスティッククスイミング・飛込・ハイダイビングも注目映像で楽しめる!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-452_s10000_p4/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20250728170000 +0000" stop="20250729020000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	<programme channel="world-sports" start="20250728170000 +0000" stop="20250728234500 +0000">
+		<title>S.LEAGUE 24-25 ロングボード第2戦 DAY2</title>
+		<desc>ロングボードのSリーグ第二戦。 2024年9月15日(日) ~ 9月16日(月) 予備日:17日 神奈川県茅ヶ崎市 茅ヶ崎パーク(ヘッドランドビーチ)にて行われた大会</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-31_s20_p3/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250728234500 +0000" stop="20250729020000 +0000">
+		<title>4v4 JAPAN CUP 2024 RESPECT YOU, au 1</title>
+		<desc>サッカー界をさらに盛り上げるべく、本田圭佑が育成年代の小学生の子ども向けに考案した新しい4人制サッカーの大会「4v4」
+今年は全国大会の準決勝・3位決定戦・決勝戦&amp;レジェンドマッチをABEMAで生中継!
+指導者は不在。子どもたちが自ら考えてプレーし勝利へと突き進む、そのクライマックスを見逃すな!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s20_p5/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250729020000 +0000" stop="20250729043000 +0000">
 		<title>世界水泳シンガポール2025 競泳3日目 予選</title>
@@ -27992,20 +29240,224 @@ NOSAWA論外&amp;Eita&amp;スペル・クレイジー vs 小川良成&amp;矢野
 タダスケ&amp;Hi69 vs モハメド ヨネ&amp;齋藤彰俊</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-11_s220_p5/thumb001.png" />
 	</programme>
-	<programme channel="fighting-sports" start="20250724204500 +0000" stop="20250725080000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
+	<programme channel="fighting-sports" start="20250724204500 +0000" stop="20250724222000 +0000">
+		<title>【再】WWE SMACKDOWN×ABEMA#51</title>
+		<desc>毎週金曜夜(現地)に行われる「SMACKDOWN」をお届け!世界最高エンタメ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s13_p47/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250724222000 +0000" stop="20250725004000 +0000">
+		<title>【再】WWE RAW×ABEMA#40</title>
+		<desc>毎週月曜夜(現地)に行われる「RAW」をお届け!世界最高エンタメ
+ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s13_p36/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250725004000 +0000" stop="20250725070000 +0000">
+		<title>K-1 WGP ~K-1九州初上陸~ 2020.12.3</title>
+		<desc>2020年11月3日(火・祝)に福岡国際センターで開催されたK-1 WORLD GP 2020 JAPAN 11.3 福岡大会をABEMAにて配信!
+
+第10試合/【ECO信頼サービス株式会社 Presents】 K-1 WORLD GPクルーザー級タイトルマッチ
+シナ・カリミアン vs K-Jee
+
+第9試合/K-1女子フライ級
+KANA vs 壽美
+
+第8試合/K-1ウェルター級
+野杁 正明 vs ヴィトー・トファネリ
+
+第7試合/K-1スーパー・フェザー級
+朝久 裕貴 vs 大岩 龍矢
+
+第6試合/K-1クルーザー級
+RUI vs ANIMAL☆KOJI
+
+第5試合/K-1スーパー・フェザー級
+山本 真弘 vs SATORU成合
+
+第4試合/K-1女子アトム級
+山田 真子 vs 優
+
+第3試合/K-1ライト級
+水町 浩 vs 竜樹
+
+第2試合/K-1スーパー・ウェルター級
+小鉄 vs 絢太
+
+第1試合/K-1スーパー・バンタム級
+晃貴 vs 壬生狼 一輝
+
+プレリミナリーファイト第4試合/K-1スーパー・バンタム級
+野田 蒼 vs 紫苑
+
+プレリミナリーファイト第3試合/-59kg契約
+寺田 匠 vs 貞松 宏隆
+
+プレリミナリーファイト第2試合/K-1スーパー・フェザー級
+勇治 vs 志樹
+
+プレリミナリーファイト第1試合/-53kg契約
+大石 和希 vs 西林 翔平</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-122_s10_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250725070000 +0000" stop="20250725073000 +0000">
+		<title>「芦澤竜誠と行く ぶらり喧嘩旅」京都編 #1</title>
+		<desc>とにかくなんでも噛み付く男・芦澤竜誠が日本全国を巡る旅に出た!
+旅のお供は、芦澤に文句が言える唯一の天敵・マッコイ斎藤!
+
+ゆく先々で起こるハプニングや喧嘩、そして、ちょっと泣ける感動話まで。
+今、最高にスリリングな旅がはじまる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-124_s10_p17/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250725073000 +0000" stop="20250725080000 +0000">
+		<title>「芦澤竜誠と行く ぶらり喧嘩旅」京都編 #2</title>
+		<desc>とにかくなんでも噛み付く男・芦澤竜誠が日本全国を巡る旅に出た!
+旅のお供は、芦澤に文句が言える唯一の天敵・マッコイ斎藤!
+
+ゆく先々で起こるハプニングや喧嘩、そして、ちょっと泣ける感動話まで。
+今、最高にスリリングな旅がはじまる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-124_s10_p18/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250725080000 +0000" stop="20250725140000 +0000">
 		<title>RISE190</title>
 		<desc>2025年7月25日に後楽園ホールで開催される「RISE190」をABEMAで無料生中継！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/464-20_s10016_p1/thumb001.png" />
 	</programme>
-	<programme channel="fighting-sports" start="20250725140000 +0000" stop="20250726081500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
+	<programme channel="fighting-sports" start="20250725140000 +0000" stop="20250725181500 +0000">
+		<title>Krush.138 2022.6.17</title>
+		<desc>超攻撃型打撃格闘技「Krush」2022年6月17日 後楽園ホールで行われた「Krush.138」の模様をお届け!
+
+対戦カード
+
+メインイベント(第10試合)/Krushスーパー・ライト級タイトルマッチ/佐々木 大蔵 vs 寺島 輝
+
+セミファイナル(第9試合)/Krushスーパー・フェザー級/横山 朋哉 vs 石田 勝希
+
+第8試合/Krushスーパー・フェザー級/野田 哲司 vs 松本 涼雅
+
+第7試合/Krushフェザー級/兼田 将暉 vs 林 勇汰
+
+第6試合/Krushスーパー・フェザー級/目黒 翔大 vs 松山 勇汰
+
+第5試合/-75kg契約/ブハリ亜輝留 vs EITO
+
+第4試合/-75kg契約/パク・ヨハン vs 鈴木 健太郎
+
+第3試合/Krushスーパー・ライト級/齋藤 紘也 vs 塚本 拓真
+
+第2試合/Krushライト級/伊藤 健人 vs 南雲 大輝
+
+第1試合/Krushライト級/明戸 仁志 vs 弘輝
+
+プレリミナリーファイト第2試合/坂本 優輝 vs 龍
+
+プレリミナリーファイト第1試合/YASSY vs 石郷 慶人</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-135_s60_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250725181500 +0000" stop="20250725211500 +0000">
+		<title>ヤバい名勝負連発!小澤海斗ガチギレベストバウト</title>
+		<desc>“K-1年間最大のビッグマッチ”「K'FESTA.3」に出場する人気ファイター・小澤海斗。
+第2代Krushフェザー級王者であり、K-1のリングで武尊に挑戦状を叩きつけて
+激しい舌戦を展開するも惜敗。
+再び世界王者のベルトを目指す小澤海斗の生き様を見よ!
+
+(収録試合)
+2019.3.10  K'FESTA.2     
+    VS 覇家斗
+
+2016.6.24 K-1 WGP     
+    VS 武尊
+
+2016.11.3 K-1 WGP 初代フェザー級王座決定T・決勝戦
+    VS 武尊
+
+2018.9.24  K-1 WGP 2018      
+    VS  芦澤竜誠
+
+2015.5.4 Krush.54       
+    VS  翔也
+
+2015.8.14 Krush.56     
+    VS 林京平
+
+2016.8.20 Krush.68        
+    VS 大岩龍矢
+
+2016.11.3 K-1 WGP 2016初代フェザー級王座決定T・1回戦      
+    VS ジョシュ・トナー
+
+2018.2.12 Krush.85      
+    VS  里見 柚己
+
+2019.6.30  K-1 WGP 2019       
+    VS 鷹大</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-116_s10_p12/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250725211500 +0000" stop="20250726011500 +0000">
+		<title>NOAH STAR NAVIGATION 2022.12.19</title>
+		<desc>2000年8月5日にプロレス界の“方舟”となるべく旗揚げしたプロレス団体「NOAH」。
+2022年12月19日に放送された「STAR NAVIGATION 2022」の模様を公開!
+
+第9試合 シングルマッチ
+小島聡 vs 丸藤正道
+
+第8試合 タッグマッチ
+ダンテ・レオン&amp;アレハンドロ vs AMAKUSA&amp;ニンジャ・マック
+
+第七試合 6人タッグマッチ
+清宮海斗&amp;田中将斗&amp;小峠篤司 vs 拳王&amp;征矢学&amp;近藤修司
+
+第六試合 シングルマッチ
+中嶋勝彦 vs ジャック・モリス
+
+第五試合 6人タッグマッチ
+杉浦貴&amp;藤田和之&amp;鈴木秀樹 vs マサ北宮&amp;稲葉大樹&amp;稲村愛輝
+
+第四試合 シングルマッチ
+吉岡世起 vs YO-HEY
+
+第三試合 タッグマッチ
+小川良成&amp;矢野安崇 vs タダスケ&amp;Hi69
+
+第二試合 シングルマッチ
+Eita vs 大原はじめ
+
+第一試合 タッグマッチ
+モハメド ヨネ&amp;齋藤彰俊 vs 谷口周平&amp;小澤大嗣</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-11_s230_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250726011500 +0000" stop="20250726025500 +0000">
+		<title>【再】WWE SMACKDOWN×ABEMA#52</title>
+		<desc>毎週金曜夜(現地)に行われる「SMACKDOWN」をお届け!世界最高エンタメ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s13_p48/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250726025500 +0000" stop="20250726052000 +0000">
+		<title>【再】WWE RAW×ABEMA#41</title>
+		<desc>毎週月曜夜(現地)に行われる「RAW」をお届け!世界最高エンタメ
+ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s13_p37/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250726052000 +0000" stop="20250726081500 +0000">
+		<title>K-1 K'FESTA.4 Day.1 3.21_前半</title>
+		<desc>2021年3月21日(日)に東京ガーデンシアターで開催されたK'FESTA.4 Day1をABEMAにて配信!
+
+&lt;収録試合&gt;
+プレリミナリーファイト第1試合/北村 夏輝 vs 赤田功輝
+
+プレリミナリーファイト第2試合/峯 大樹 vs 高橋享祐
+
+プレリミナリーファイト第3試合/池田幸司 vs 倉田永輝
+
+プレリミナリーファイト第4試合/水津空良 vs 松山勇汰
+
+第1試合/神保克哉  vs ジュリオ・セザール・モリ
+
+第2試合/東本央貴  vs 瓦田脩二
+
+第3試合/軍司泰斗 vs 森坂 陸
+
+第4試合 菅原美優 vs NOZOMI
+
+第5試合/RUI vs 谷川聖哉</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-128_s20_p10/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250726081500 +0000" stop="20250726120000 +0000">
 		<title>Krush.178</title>
@@ -28050,7 +29502,137 @@ NOSAWA論外&amp;Eita&amp;スペル・クレイジー vs 小川良成&amp;矢野
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10006_p95/thumb001.png" />
 	</programme>
-	<programme channel="fighting-sports" start="20250726150000 +0000" stop="20250729120000 +0000">
+	<programme channel="fighting-sports" start="20250726150000 +0000" stop="20250726185500 +0000">
+		<title>Krush.139 2022.7.30</title>
+		<desc>超攻撃型打撃格闘技「Krush」2022年7月30日 後楽園ホールで行われた「Krush.139」の模様をお届け!
+
+
+メインイベント Krushバンタム級タイトルマッチ
+池田幸司 vs 野田蒼
+
+セミファイナル Krushスーパー・バンタム級
+永坂吏羅 vs 内田晶
+
+第8試合 Krushスーパー・ライト級
+平山迅 vs 川﨑真一朗
+
+第7試合 -64.5kg契約
+三宅祐弥 vs 昇也
+
+第6試合 Krushフェザー級
+亀本勇翔 vs 森坂陸
+
+第5試合 Krushフェザー級
+竹内将生 vs 久保一馬
+
+第4試合 Krushフェザー級
+水津空良 vs 石田龍大
+
+第3試合 -61.5kg契約
+安川侑己 vs 斎藤祐斗
+
+第2試合 Krushクルーザー級
+中平卓見 vs 星龍之介
+
+第1試合 Krushウェルター級
+FUMIYA vs 佑悟
+
+プレリミナリーファイト第2試合 Krushフェザー級
+小松貴哉 vs 田中聡
+
+プレリミナリーファイト第1試合 Krushスーパー・フェザー級
+聖也 vs 山本陸</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-135_s70_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250726185500 +0000" stop="20250726192500 +0000">
+		<title>「芦澤竜誠と行く ぶらり喧嘩旅」山形編 #1</title>
+		<desc>とにかくなんでも噛み付く男・芦澤竜誠が日本全国を巡る旅に出た!
+旅のお供は、芦澤に文句が言える唯一の天敵・マッコイ斎藤!
+
+ゆく先々で起こるハプニングや喧嘩、そして、ちょっと泣ける感動話まで。
+今、最高にスリリングな旅がはじまる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-124_s10_p19/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250726192500 +0000" stop="20250726222000 +0000">
+		<title>K-1絶対王者・武居由樹 鉄の拳でフルボッコ集</title>
+		<desc>K-1絶対王者・武居由樹。
+かつては“悪ガキ少年”、今はK-1スーパー・バンタム級王者の最新試合や豪快フルボッコKO試合を厳選!
+魔裟斗も絶賛するその才能を見よ!
+
+(収録試合)
+2020.3.22  K'FESTA.3
+   VS  デンサヤーム・アユタヤファイトジム
+
+2019.6.30   K-1WGP  スーパー・バンタム級世界最強決定トーナメント
+   VS  アレックス・リーバス   
+   VS  玖村 修平   
+   VS  玖村 将史
+
+2014.11.9  Krush.47(※デビュー戦)
+   VS  たすく
+
+2016.6.12  Krush.66    
+  VS   上羽 優希
+
+2016.12.18  Krush.71
+   VS  隆聖
+
+2017.4.22  K-1 WGP 2017  第2代スーパー・バンタム級王座決定トーナメント 
+  VS  アントニオ・オルデン   
+  VS  石田 圭祐  
+  VS  久保賢司
+
+2017.11.23  K-1  WGP 2017   
+  VS  ビクトー・サラビア
+
+2018.9.24   K-1  WGP 2018
+  VS  アクラム・ハミディ
+
+2019.3.10   K-1  WGP 2019 ~K'FESTA.2~   
+  VS  サンドロ・マーティン
+
+2019.12.28  K-1WGP
+ VS  スリヤンレック・オーボートー.ガムピー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-116_s10_p13/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250726222000 +0000" stop="20250727031500 +0000">
+		<title>NOAH GREAT VOYAGE in OSAKA 2023.2.12</title>
+		<desc>2000年8月5日にプロレス界の“方舟”となるべく旗揚げしたプロレス団体「NOAH」。
+2023年2月12日に放送された「GREAT VOYAGE 2023 in OSAKA」の模様を公開!
+
+
+第10試合 GHCヘビー級選手権
+清宮海斗 vs ジャック・モリス
+
+第9試合 GHC Jr.タッグ選手権
+小川良成&amp;Eita vs 宮脇純太&amp;アレハンドロ
+
+第8試合 GHCタッグ選手権
+杉浦貴&amp;小島聡 vs マサ北宮&amp;稲葉大樹
+
+第7試合 シングルマッチ
+ドラリスティコ vs 小峠篤司
+
+第6試合 タッグマッチ
+拳王&amp;征矢学 vs ジェイク・リー&amp;アンソニー・グリーン
+
+第5試合 タッグマッチ
+エル・デスペラード&amp;NOSAWA論外 vs YO-HEY&amp;矢野安崇
+
+第4試合 8人タッグマッチ
+丸藤正道&amp;イホ・デ・ドクトル・ワグナーJr.&amp;AMAKUSA&amp;ニンジャ・マック vs 船木誠勝&amp;中嶋勝彦&amp;近藤修司&amp;Hi69
+
+第3試合 6人タッグマッチ
+藤田和之&amp;鈴木秀樹&amp;ティモシー・サッチャー vs 田中将斗&amp;望月成晃&amp;稲村愛輝
+
+第2試合 タッグマッチ
+クリス・リッジウェイ&amp;ダガ vs タダスケ&amp;大原はじめ
+
+第1試合 タッグマッチ
+モハメド ヨネ&amp;齋藤彰俊 vs 岡田欣也&amp;小澤大嗣</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-14_s30_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250727031500 +0000" stop="20250729120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -28299,10 +29881,60 @@ ABEMAなら実質最安値！
 		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5500_p39/thumb001.png" />
 	</programme>
-	<programme channel="rizin" start="20250724140500 +0000" stop="20250726061500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/rizin/logo.png" />
+	<programme channel="rizin" start="20250724140500 +0000" stop="20250724150000 +0000">
+		<title>RIZIN CONFESSIONS #185</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5000_p131/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250724150000 +0000" stop="20250724214500 +0000">
+		<title>朝倉未来 RIZIN全試合一挙【7/27超RIZIN.4】</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5000_p1/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250724214500 +0000" stop="20250724230000 +0000">
+		<title>RIZIN CONFESSIONS #185</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5000_p131/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250724230000 +0000" stop="20250725052200 +0000">
+		<title>朝倉未来 RIZIN全試合一挙【7/27超RIZIN.4】</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5000_p1/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250725052200 +0000" stop="20250725060000 +0000">
+		<title>RIZIN CONFESSIONS #185</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5000_p131/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250725060000 +0000" stop="20250725141900 +0000">
+		<title>RIZIN男祭り【7/27超RIZIN.4】</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5500_p45/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250725141900 +0000" stop="20250725150000 +0000">
+		<title>RIZIN CONFESSIONS #185</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5000_p131/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250725150000 +0000" stop="20250725200000 +0000">
+		<title>RIZIN男祭り 狩野英孝の特別実況!EIKO!祭り</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5500_p51/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250725200000 +0000" stop="20250725224500 +0000">
+		<title>EIKO 裏実況チャンネル in KOREA</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5500_p50/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250725224500 +0000" stop="20250726033500 +0000">
+		<title>RIZIN男祭り 狩野英孝の特別実況!EIKO!祭り</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5500_p51/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250726033500 +0000" stop="20250726061500 +0000">
+		<title>EIKO 裏実況チャンネル in KOREA</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5500_p50/thumb001.png" />
 	</programme>
 	<programme channel="rizin" start="20250726061500 +0000" stop="20250726080000 +0000">
 		<title>超RIZIN.4 真夏の喧嘩祭り 前日公開計量</title>
@@ -28334,7 +29966,37 @@ ABEMAなら実質最安値！
 ========</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s30050_p1/thumb001.png" />
 	</programme>
-	<programme channel="rizin" start="20250726080000 +0000" stop="20250727020000 +0000">
+	<programme channel="rizin" start="20250726080000 +0000" stop="20250726104000 +0000">
+		<title>EIKO 裏実況チャンネル in KOREA</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5500_p50/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250726104000 +0000" stop="20250726153000 +0000">
+		<title>RIZIN男祭り 狩野英孝の特別実況!EIKO!祭り</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5500_p51/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250726153000 +0000" stop="20250726160000 +0000">
+		<title>RIZIN１０周年「格闘技が大好きだ。」〜We are RIZIN〜</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5000_p129/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250726160000 +0000" stop="20250726175000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/rizin/logo.png" />
+	</programme>
+	<programme channel="rizin" start="20250726175000 +0000" stop="20250726190000 +0000">
+		<title>超RIZIN.4出場選手特集 | 朝倉未来/クレベル・コイケ</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5000_p124/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250726190000 +0000" stop="20250727000000 +0000">
+		<title>RIZIN男祭り 狩野英孝の特別実況!EIKO!祭り</title>
+		<desc>2025年7月27日にさいたまスーパーアリーナで開催される「超RIZIN.4 真夏の喧嘩祭り」に出場する選手の過去試合を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s5500_p51/thumb001.png" />
+	</programme>
+	<programme channel="rizin" start="20250727000000 +0000" stop="20250727020000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/rizin/logo.png" />
@@ -29097,6 +30759,104 @@ HIPHOP界隈で今注目のトピックスについて深堀り！</desc>
 		<title>【再放送】フリースタイルティーチャー：#116~#122</title>
 		<desc>女性芸能人No.1ラッパー決定トーナメント!準決勝!!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-96_s14_p8/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250729210000 +0000" stop="20250730000000 +0000">
+		<title>【THE LYRICS】Bonbero / EASTA / valknee</title>
+		<desc>「THE LYRICS」は、
+歌詞(LYRIC)に込められた意味や想いをアーティストご本人が語ります。
+作詞時のエピソードや、あのパンチラインの誕生秘話etc、、、
+楽曲そしてアーティストをさらに知ることができる番組を目指します。
+本エピソードでは、Candee が" Ghetto Project”の歌詞(LYRIC)について語ります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-67_s3_p3642/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250730000000 +0000" stop="20250730030000 +0000">
+		<title>【再放送】フリースタイルダンジョン：2nd 2-1~2nd 3-2</title>
+		<desc>Rec2@新木場ageha
+2015年THE罵倒第4戦優勝のRYOTA、
+同年戦極スパーリング二部優勝のはなびが登場!
+
+■チャレンジャー
+RYOTA
+はなび
+
+■ゲストライブ
+LUNA with SHOWGUN「Money Roll Feat.RYUZO」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/92-24r-srzkf-wz_s0_p34/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250730030000 +0000" stop="20250730040000 +0000">
+		<title>Zeebra’s LUNCHTIME BREAKS：MILES WORD</title>
+		<desc>Zeebraが局長を務めるHIP HOP専門ラジオ局『WREP』にて放送中の『Zeebra's LUNCHTIME BREAKS』
+渋谷UDAGAWA BASEスタジオにて平日お昼12時から毎日公開生放送！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-164_s0_p684/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250730040000 +0000" stop="20250730100000 +0000">
+		<title>【THE LYRICS】BES / ACE COOL / Jinmenusagi</title>
+		<desc>「THE LYRICS」は、
+歌詞(LYRIC)に込められた意味や想いをアーティストご本人が語ります。
+作詞時のエピソードや、あのパンチラインの誕生秘話etc、、、
+楽曲そしてアーティストをさらに知ることができる番組を目指します。
+本エピソードでは、BES が"The Process”の歌詞(LYRIC)について語ります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-67_s3_p3735/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250730100000 +0000" stop="20250730140000 +0000">
+		<title>my name is【一挙放送】</title>
+		<desc>ラッパー・シンガー・DJ・カメラマン・ダンサー・グラフィティアーティストなど、いつの時代にも不可欠な時代の先駆者たち。『my name is』は、そんな様々なジャンルで輝きを放ち、”今を生きるアーティスト"に密着するリアルドキュメント。誰もが持つ”名前”に人生を掲げ、唯一無二として表現し続ける彼らの生き様とは・・・?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-97_s10_p11/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250730140000 +0000" stop="20250730143000 +0000">
+		<title>【再放送】フリースタイル日本統一 #90 MCバトルロワイヤル</title>
+		<desc>凄腕ラッパー6人が総当たりで争う「MCバトルロワイヤル」開幕！
+日本一になるラッパーは誰だ！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-6_s0_p15/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250730143000 +0000" stop="20250730210000 +0000">
+		<title>【再放送】フリースタイルティーチャー：#123~#136</title>
+		<desc>第2回 ラッパー芸人 ニューカマートーナメント みながわ(ネイビーズアフロ) vs 尾形貴弘(パンサー)!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-96_s15_p8/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250730210000 +0000" stop="20250731000000 +0000">
+		<title>【THE LYRICS 】田我流 / CHICO CARLITO</title>
+		<desc>「THE LYRICS」は、
+歌詞(LYRIC)に込められた意味や想いをアーティストご本人が語ります。
+作詞時のエピソードや、あのパンチラインの誕生秘話etc、、、
+楽曲そしてアーティストをさらに知ることができる番組を目指します。
+本エピソードでは、田我流が”ゆれる”の歌詞(LYRIC)について語ります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-67_s27_p1/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250731000000 +0000" stop="20250731030000 +0000">
+		<title>【再放送】フリースタイルダンジョン：2nd 3-1~2nd 4-1</title>
+		<desc>Rec3-1
+T-PABLOWが復活、Rec3!
+龍道が1人目のチャレンジャーで登場!
+いきなり快進撃!
+
+■チャレンジャー
+龍道
+
+■ゲストライブ
+AKLO「McLAREN」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/92-24r-srzkf-wz_s0_p38/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250731030000 +0000" stop="20250731040000 +0000">
+		<title>Zeebra’s LUNCHTIME BREAKS：hy4_4yh</title>
+		<desc>Zeebraが局長を務めるHIP HOP専門ラジオ局『WREP』にて放送中の『Zeebra's LUNCHTIME BREAKS』
+渋谷UDAGAWA BASEスタジオにて平日お昼12時から毎日公開生放送！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-164_s0_p685/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250731040000 +0000" stop="20250731100000 +0000">
+		<title>【THE LYRICS】ralph &amp;more..</title>
+		<desc>「THE LYRICS」は、
+歌詞(LYRIC)に込められた意味や想いをアーティストご本人が語ります。
+作詞時のエピソードや、あのパンチラインの誕生秘話etc、、、
+楽曲そしてアーティストをさらに知ることができる番組を目指します。
+本エピソードでは、ralph が”Selfish”の歌詞(LYRIC)について語ります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-67_s21_p1/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20250731100000 +0000" stop="20250731160000 +0000">
+		<title>【一挙】千葉雄喜の勇気貸します。#1~14</title>
+		<desc>アーティスト千葉雄喜がABEMAで始める新番組。『千葉雄喜の勇気、貸します。』悩み多き現代社会に千葉くん自ら全国を駆け巡り少しの「勇気」を届ける番組。
+行き先はガチのルーレット。毎回予測不能の展開と結末は必見。本当の勇気とは何か？千葉くんを見て聞いて感じてほしい。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-195_s10_p13/thumb001.png" />
 	</programme>
 	<programme channel="commercial" start="20250716150000 +0000" stop="20250716160000 +0000">
 		<title>CM</title>
