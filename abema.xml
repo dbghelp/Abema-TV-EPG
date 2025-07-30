@@ -140,6 +140,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -12833,7 +12837,7 @@ LuckyFesをより楽しむための3つのポイントを紹介！
 	<programme channel="abema-special" start="20250801123000 +0000" stop="20250801130000 +0000">
 		<title>For JAPAN シーズン3 #17</title>
 		<desc>ー日本の政治シーンに『経営力』はあるのか⁉ー　日本の未来を憂う無数のトーク番組。しかし出演しているコメンテーターに実績はあるのか？110兆円を動かす「政治家」に経営経験はあるのか？経営経験もない人間が毎年途方もない金額を動かし、30年以上成長できない日本。本物の実績のある経営者が日本課題に挑む！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p187/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-273_s3_p17/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250801130000 +0000" stop="20250801130300 +0000">
 		<title>No programme</title>
@@ -16498,7 +16502,7 @@ ABEMA完全オリジナルの招待制ポーカートーナメントが開幕。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p82/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250730030000 +0000" stop="20250730041500 +0000">
-		<title>ABEMAヒルズ　そのニュース、ゆっくり話そう</title>
+		<title>＃アベヒル　太平洋側中心に津波警報　直ちに避難を</title>
 		<desc>「そのニュース、ゆっくり話そう」
 大量の情報が通り過ぎていく毎日。ちょっと立ち止まって、そのニュースをゆっくり話したい。番組MCの柴田阿弥、徳永有美が気になる話題を個性豊かな識者らと語り合います。好奇心の赴くままに。そのニュースは、社会を、政治を、経済を、世界を、そして、あなたの生活を、どう変えるのか…？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-52_s0_p2003/thumb001.png" />
@@ -16771,11 +16775,8 @@ ABEMA完全オリジナルの招待制ポーカートーナメントが開幕。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p675/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250802110000 +0000" stop="20250802113000 +0000">
-		<title>NO MAKE　-あの人を、話したくなる‐</title>
-		<desc>“あの人の素顔は…”
-俳優・タレント・アーティスト・モデルの素顔に密着。
-表舞台に立つ人の、知られざる過去とそれを受け止めた“イマ“に迫ります。
-見れば、きっと…「あの人を、話したくなる」</desc>
+		<title>NO MAKE 演歌歌手･さくらまや認知症の祖母を毎日介護</title>
+		<desc>10歳でデビューした天才演歌歌手のさくらまやさん。21歳の時に購入した9LDKの一軒家で現在、認知症・パーキンソン病の祖母を介護する生活を送っています。そんな祖母との日課はパチンコ、演歌少女の現在の素顔に迫ります。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-152_s0_p35/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250802113000 +0000" stop="20250802120000 +0000">
@@ -16841,11 +16842,8 @@ ABEMA完全オリジナルの招待制ポーカートーナメントが開幕。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-75_s0_p1016/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250803050000 +0000" stop="20250803053000 +0000">
-		<title>NO MAKE　-あの人を、話したくなる‐　【見逃し配信】</title>
-		<desc>“あの人の素顔は…”
-俳優・タレント・アーティスト・モデルの素顔に密着。
-表舞台に立つ人の、知られざる過去とそれを受け止めた“イマ“に迫ります。
-見れば、きっと…「あの人を、話したくなる」</desc>
+		<title>NO MAKE 演歌歌手･さくらまや認知症の祖母を毎日介護</title>
+		<desc>10歳でデビューした天才演歌歌手のさくらまやさん。21歳の時に購入した9LDKの一軒家で現在、認知症・パーキンソン病の祖母を介護する生活を送っています。そんな祖母との日課はパチンコ、演歌少女の現在の素顔に迫ります。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-152_s0_p36/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250803053000 +0000" stop="20250803060000 +0000">
@@ -29113,6 +29111,34 @@ TEAM RAIDEN / 雷電vs赤坂ドリブンズvsEX風林火山vs渋谷ABEMAS</desc>
 		<desc>プロ連盟の頂点を決める1年間のリーグ戦。A1リーグは15人、A2リーグは16人で行われ、A1リーグ上位3選手が鳳凰位決定戦に進出となる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p23/thumb001.png" />
 	</programme>
+	<programme channel="mahjong-live" start="20250723030000 +0000" stop="20250723145000 +0000">
+		<title>第50期最高位戦A1リーグ 第8節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p21/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250723145000 +0000" stop="20250730030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250730030000 +0000" stop="20250730145000 +0000">
+		<title>第50期最高位戦A1リーグ 第8節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p22/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250730145000 +0000" stop="20250806030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250806030000 +0000" stop="20250806145000 +0000">
+		<title>第50期最高位戦A1リーグ 第8節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p23/thumb001.png" />
+	</programme>
 	<programme channel="shogi" start="20250722072100 +0000" stop="20250722163200 +0000">
 		<title>【再】第83期 順位戦 B級1組 13回戦 羽生善治九段 対 大橋貴洸七段</title>
 		<desc>順位戦はフリークラスを除いた棋士をA級からC級2組の5つの組に分けてリーグ戦を行います。A級同率首位の棋士が複数出た場合は同率の棋士全員によるプレーオフとなります。名人とA級優勝者が、例年4月から7月にかけて七番勝負を行います。名人戦とは、将棋界で最も格式と歴史のある「名人」のタイトル称号を懸けて行われる七番勝負。名人戦の予選は順位戦と呼ばれ、A級順位戦の優勝者が挑戦者となります。</desc>
@@ -30022,11 +30048,11 @@ F2ランキング4位の岩佐歩夢。
 	<programme channel="world-sports" start="20250730020000 +0000" stop="20250730043000 +0000">
 		<title>世界水泳シンガポール2025 競泳4日目 予選</title>
 		<desc>【本日のレース】
-女子50m背泳ぎ
+女子50m背泳ぎ（高橋美紀出場）	
 男子100m自由形
-男子200m個人メドレー
-女子200mバタフライ
-混合4×100mメドレーリレー
+男子200m個人メドレー（松下知之・牧野航介出場）	
+女子200mバタフライ（藤本穏出場）
+混合4×100mメドレーリレー（日本チーム出場）
 
 水泳日本代表の”新時代”を担う選手たちがシンガポールに集結
 水中の熱い戦いをABEMAで楽しもう!
