@@ -156,6 +156,10 @@
 		<display-name>MOTOR SPORTチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
 	</channel>
+	<channel id="world-sports-1">
+		<display-name>SPORTS LIVE1 チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -32237,6 +32241,38 @@ MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる
 全マシン同一車両で争われるワンメイクレース!
 ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-3_s10000_p16/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250726210000 +0000" stop="20250727100000 +0000">
+		<title>S.LEAGUE 25-26 ロングボード DAY2</title>
+		<desc>新しく生まれ変わったS.LEAGUEのトップカテゴリ S.ONEの第二戦DAY1。
+ロングボード男子24名、ロングボード女子12名の日本のトッププロサーファーが茨城に集結！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-32_s10001_p7/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250727100000 +0000" stop="20250803020000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250803020000 +0000" stop="20250803043000 +0000">
+		<title>世界水泳シンガポール2025 競泳8日目 予選</title>
+		<desc>水泳日本代表の”新時代”を担う選手たちがシンガポールに集結
+水中の熱い戦いをABEMAで楽しもう!
+ABEMAでは競泳予選を独占無料生中継&amp;競泳決勝を放送
+アーティスティッククスイミング・飛込・ハイダイビングも注目映像で楽しめる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-452_s10000_p15/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250803043000 +0000" stop="20250810104000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250810104000 +0000" stop="20250810133000 +0000">
+		<title>FIBAアジアカップ2025 日本vsグアム【ライブイベントで無料LIVE中】</title>
+		<desc>TVでご視聴の方は、ジャンル⇒スポーツ をチェック！
+バスケ男子日本代表がアジアNo.1を懸けて争う「FIBAアジアカップ2025」
+目指すは、54年ぶりのアジア制覇。
+大注目の熱戦をアベマ・テレビ朝日系列で無料生中継！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-438_s10002_p6/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250726150000 +0000" stop="20250726185500 +0000">
 		<title>Krush.139 2022.7.30</title>
