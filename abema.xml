@@ -144,6 +144,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -5061,9 +5065,9 @@ https://fes.fate-go.jp/
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/12-25_s2_p11/thumb001.png" />
 	</programme>
 	<programme channel="dailylife-anime" start="20250809110000 +0000" stop="20250809170000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/dailylife-anime/logo.png" />
+		<title>ぼっち・ざ・ろっく！ #1～12【無料ビデオ1週間】</title>
+		<desc>極度の人見知りで陰キャな少女、後藤ひとり。バンド活動に憧れギターを始めるも友達が出来ず一人で練習する毎日。ある日“結束バンド”というバンドでドラムをやっている伊地知虹夏に声をかけられ１日だけサポートギターをすることに……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-175_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="dailylife-anime" start="20250809170000 +0000" stop="20250809203000 +0000">
 		<title>デキる猫は今日も憂鬱 #1〜7【無料ビデオ1週間】</title>
@@ -5075,10 +5079,15 @@ https://fes.fate-go.jp/
 		<desc>日々仕事に追われてお疲れ気味の会社員・福澤幸来は、猫を飼っている。数年前拾ったその猫はいまや見上げるほど大きく成長し、生活力皆無な幸来に代わって家事のすべてをこなしてくれる空前絶後の“デキる猫”となった。今日もまた残業を終えた幸来は“デキる猫”こと諭吉の待つ家へと帰るのだが……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/194-35_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="dailylife-anime" start="20250810030000 +0000" stop="20250810150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/dailylife-anime/logo.png" />
+	<programme channel="dailylife-anime" start="20250810030000 +0000" stop="20250810090000 +0000">
+		<title>ぼっち・ざ・ろっく！ #1～12【無料ビデオ1週間】</title>
+		<desc>極度の人見知りで陰キャな少女、後藤ひとり。バンド活動に憧れギターを始めるも友達が出来ず一人で練習する毎日。ある日“結束バンド”というバンドでドラムをやっている伊地知虹夏に声をかけられ１日だけサポートギターをすることに……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-175_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="dailylife-anime" start="20250810090000 +0000" stop="20250810150000 +0000">
+		<title>ぼっち・ざ・ろっく！ #1～12【無料ビデオ1週間】</title>
+		<desc>極度の人見知りで陰キャな少女、後藤ひとり。バンド活動に憧れギターを始めるも友達が出来ず一人で練習する毎日。ある日“結束バンド”というバンドでドラムをやっている伊地知虹夏に声をかけられ１日だけサポートギターをすることに……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-175_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="dailylife-anime" start="20250810150000 +0000" stop="20250810210000 +0000">
 		<title>ゆるキャン△ #1〜12【無料ビデオ1週間】</title>
@@ -15934,24 +15943,24 @@ ABEMA完全オリジナルの招待制ポーカートーナメントが開幕。
 		<desc>※ABEMA NEWSでは権利上の都合等により地上波での放送を一部除いた内容でお送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p202/thumb001.png" />
 	</programme>
-	<programme channel="abema-news" start="20250810140000 +0000" stop="20250810162500 +0000">
+	<programme channel="abema-news" start="20250810140000 +0000" stop="20250810170000 +0000">
 		<title>ABEMA NEWS　お休み前に最新ニュース</title>
 		<desc>速報や緊急ニュース、発生現場のライブ映像、注目の会見のノーカット、気になる話題を深掘りする「記者解説」など、新しい情報を空き時間にスマホでチェック!キャスターにはテレビ朝日アナウンサーのほか現役大学生らも登場。明るいスタジオからフレッシュにお伝えしています!移動中に、お昼休みに、おやすみ前に...1日のニュースは「ABEMA NEWS」でチェック!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p203/thumb001.png" />
 	</programme>
-	<programme channel="abema-news" start="20250810162500 +0000" stop="20250810170000 +0000">
+	<programme channel="abema-news" start="20250810170000 +0000" stop="20250810173000 +0000">
 		<title>熱闘！Mリーグ</title>
 		<desc>熱闘Mリーグでは今年も試合のダイジェスト、各選手の魅力に迫る密着企画などを
 たっぷりお届けします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-74_s0_p333/thumb001.png" />
 	</programme>
-	<programme channel="abema-news" start="20250810170000 +0000" stop="20250810190000 +0000">
+	<programme channel="abema-news" start="20250810173000 +0000" stop="20250810193000 +0000">
 		<title>ABEMA的ニュースショー NEWSの核心「的」に独自目線</title>
 		<desc>日曜のお昼の「社会派」ニュースショー。
 独自取材と目線で、世間をざわつかせている話題沸騰のニュースの核心「的」に切りこみます。また、時にはあえて「的」を外した独自取材でお伝えすることで、世の中で言われている「的(マト)=正義」に疑問を投げかけます。鋭いツッコミに定評のある千原ジュニアが、一癖も二癖もあるゲストらと1週間のニュースをしゃべり倒します。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-75_s0_p1021/thumb001.png" />
 	</programme>
-	<programme channel="abema-news" start="20250810190000 +0000" stop="20250810220000 +0000">
+	<programme channel="abema-news" start="20250810193000 +0000" stop="20250810220000 +0000">
 		<title>ABEMA NEWS　お出かけ前に最新ニュースをチェック</title>
 		<desc>毎正時に10分間の最新ニュースをお届け。ホットな芸能情報満載のエンタメニュースやネットで話題の最新トレンド情報も。キャスターには現役大学生らも登場します。早く起きた朝に、通勤・通学前に、手軽にチェック！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p204/thumb001.png" />
@@ -28153,6 +28162,34 @@ KONAMI 麻雀格闘倶楽部vsEX風林火山vs渋谷ABEMASvsKADOKAWAサクラナ
 		<title>第42期鳳凰戦A1リーグ第9節B卓【ABEMAセレクト】</title>
 		<desc>プロ連盟の頂点を決める1年間のリーグ戦。A1リーグは15人、A2リーグは16人で行われ、A1リーグ上位3選手が鳳凰位決定戦に進出となる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p26/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250730030000 +0000" stop="20250730145000 +0000">
+		<title>第50期最高位戦A1リーグ 第8節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p22/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250730145000 +0000" stop="20250806030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250806030000 +0000" stop="20250806145000 +0000">
+		<title>第50期最高位戦A1リーグ 第8節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p23/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250806145000 +0000" stop="20250813030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250813030000 +0000" stop="20250813145000 +0000">
+		<title>第50期最高位戦A1リーグ 第9節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p24/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250729103000 +0000" stop="20250729193000 +0000">
 		<title>【再】第10期 叡王戦 五番勝負 第3局 伊藤匠叡王 対 斎藤慎太郎八段</title>
