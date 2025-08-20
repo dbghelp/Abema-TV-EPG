@@ -156,6 +156,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -163,6 +167,10 @@
 	<channel id="world-sports">
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	</channel>
+	<channel id="world-sports-1">
+		<display-name>SPORTS LIVE1 チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
 	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
@@ -28817,6 +28825,34 @@ U-NEXT Pirates vsセガサミーフェニックスvsEX風林火山vsKADOKAWAサ�
 		<desc>プロ連盟の頂点を決める1年間のリーグ戦。A1リーグは15人、A2リーグは16人で行われ、A1リーグ上位3選手が鳳凰位決定戦に進出となる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p28/thumb001.png" />
 	</programme>
+	<programme channel="mahjong-live" start="20250813030000 +0000" stop="20250813145000 +0000">
+		<title>第50期最高位戦A1リーグ 第9節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p24/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250813145000 +0000" stop="20250820030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250820030000 +0000" stop="20250820145000 +0000">
+		<title>第50期最高位戦A1リーグ 第10節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p25/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250820145000 +0000" stop="20250827030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250827030000 +0000" stop="20250827145000 +0000">
+		<title>第50期最高位戦A1リーグ 第10節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p26/thumb001.png" />
+	</programme>
 	<programme channel="shogi" start="20250812123600 +0000" stop="20250812212900 +0000">
 		<title>【再】第72期 王座戦 五番勝負 第1局 藤井聡太王座 対 永瀬拓矢九段</title>
 		<desc>王座戦は全棋士と女流棋士4名で行われます。一次予選、二次予選のトーナメント戦を行い、二次予選を勝ち抜いた棋士とシード棋士の16名によって、挑戦者決定トーナメントを行い、挑戦者を決めます。例年9月から10月にかけて王座と挑戦者が五番勝負を行います。</desc>
@@ -29833,6 +29869,73 @@ https://abema.tv/video/title/16-92
 		<desc>2022年度に新設された、バスケットボールU18世代最高峰のリーグ戦!選出基準を満たしたU18世代のトップチーム(男女各8チーム)が、リーグ戦日本一というU18世代の新たなタイトルをかけて、数ヶ月にわたるリーグ戦をABEMAで厳選12試合無料生中継!
 ハイライトは全試合無料生配信!バスケットボールの未来を背負う若き才能の活躍を見逃すな!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-95_s10000_p2/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250823070000 +0000" stop="20250824033000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	</programme>
+	<programme channel="world-sports" start="20250824033000 +0000" stop="20250824130000 +0000">
+		<title>【再放送】ドジャース戦1週間の振り返り｜MLB2025</title>
+		<desc>大谷翔平・山本由伸・佐々木朗希所属のドジャース戦 1週間の注目試合をピックアップして再放送！見逃したスーパープレーやシーンもお楽しみいただけます。
+毎週日曜13時からはドジャース戦の1週間を振り返り、翌週からのMLB中継を楽しもう！
+アベマビデオでは試合のフルマッチ映像やハイライト映像など、時間を気にせずいつでも余すことなくお楽しみいただけます。 ※放送日程、内容、放送形態は予告なく変更になる可能性がございますのでご了承ください。 最新の情報は、ABEMA MLB公式Xをご確認ください。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/239-209_s20000_p22/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20250824130000 +0000" stop="20250824134000 +0000">
+		<title>ABEMAスポーツタイム#101</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p101/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250820010000 +0000" stop="20250820100000 +0000">
+		<title>S.LEAGUE 25-26 ショートボード第二戦 DAY1</title>
+		<desc>新しく生まれ変わったS.LEAGUEのトップカテゴリ S.ONEの第二戦DAY1。
+ショートボード男子36名、ショートボード女子18名の日本トッププロサーファーが静波ウェーブプールに集結!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-32_s10002_p1/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250820100000 +0000" stop="20250820210000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250820210000 +0000" stop="20250821100000 +0000">
+		<title>S.LEAGUE 25-26 ショートボード第二戦 DAY2</title>
+		<desc>新しく生まれ変わったS.LEAGUEのトップカテゴリ S.ONEの第二戦DAY2。
+ショートボード男子36名、ショートボード女子18名の日本トッププロサーファーが静波ウェーブプールに集結!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-32_s10002_p2/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250821100000 +0000" stop="20250821210000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250821210000 +0000" stop="20250822100000 +0000">
+		<title>S.LEAGUE 25-26 ショートボード第二戦 DAY3</title>
+		<desc>新しく生まれ変わったS.LEAGUEのトップカテゴリ S.ONEの第二戦DAY3。
+ショートボード男子36名、ショートボード女子18名の日本トッププロサーファーが静波ウェーブプールに集結!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-32_s10002_p3/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250822100000 +0000" stop="20250824004000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250824004000 +0000" stop="20250824025000 +0000">
+		<title>桜花学園 vs 慶誠 | U18日清食品トップリーグ</title>
+		<desc>2022年度に新設された、バスケットボールU18世代最高峰のリーグ戦!選出基準を満たしたU18世代のトップチーム(男女各8チーム)が、リーグ戦日本一というU18世代の新たなタイトルをかけて、数ヶ月にわたるリーグ戦をABEMAで厳選12試合無料生中継!
+ハイライトは全試合無料生配信!バスケットボールの未来を背負う若き才能の活躍を見逃すな!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-95_s10000_p3/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250824025000 +0000" stop="20250824070000 +0000">
+		<title>福岡第一 vs 八王子学園八王子 | U18日清食品トップリーグ</title>
+		<desc>2022年度に新設された、バスケットボールU18世代最高峰のリーグ戦!選出基準を満たしたU18世代のトップチーム(男女各8チーム)が、リーグ戦日本一というU18世代の新たなタイトルをかけて、数ヶ月にわたるリーグ戦をABEMAで厳選12試合無料生中継!
+ハイライトは全試合無料生配信!バスケットボールの未来を背負う若き才能の活躍を見逃すな!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-95_s10000_p4/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20250812150000 +0000" stop="20250813013000 +0000">
 		<title>K-1 WGP 福岡大会 2022.8.11</title>
