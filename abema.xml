@@ -136,6 +136,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -11299,8 +11303,13 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250910120000 +0000" stop="20250910130000 +0000">
-		<title>すーぱーのびしろたいむ by 今日、好きになりました。</title>
-		<desc>放課後がやってきた！さあ、出かけよう！
+		<title>口下手トリオがアポ無しロケ！&amp;あおい号泣…おうががイケメン行動に！すぱのび#20</title>
+		<desc>▼見どころ
+・口下手トリオがラジオに挑戦！アポ無しロケで大苦戦…
+・探検隊後編！過酷ロケでのおうがのイケメン行動にスタジオ絶賛！
+
+▼すぱのびとは？
+放課後がやってきた！さあ、出かけよう！
 高校生たちが新しい人たちと、普段とは違った環境で、やったことないことに挑戦するバラエティ番組。
 高校生たちは、自らの”のびしろ”を求めチャレンジする中で、大人になる第一歩を踏み出します。
 今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
@@ -14206,7 +14215,7 @@ AMEMIYAの絶叫がこだまする「チクショーーーー!!」
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p487/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250910030000 +0000" stop="20250910041500 +0000">
-		<title>ABEMAヒルズ　そのニュース、ゆっくり話そう</title>
+		<title>#アベヒル 新型iPhone現地解説/“総裁選トレード”株価</title>
 		<desc>「そのニュース、ゆっくり話そう」
 大量の情報が通り過ぎていく毎日。ちょっと立ち止まって、そのニュースをゆっくり話したい。番組MCの柴田阿弥、徳永有美が気になる話題を個性豊かな識者らと語り合います。好奇心の赴くままに。そのニュースは、社会を、政治を、経済を、世界を、そして、あなたの生活を、どう変えるのか…？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-52_s0_p2033/thumb001.png" />
@@ -25461,6 +25470,44 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 		<title>第42期鳳凰戦A1リーグ第11節A卓【ABEMAセレクト】</title>
 		<desc>プロ連盟の頂点を決める1年間のリーグ戦。A1リーグは15人、A2リーグは16人で行われ、A1リーグ上位3選手が鳳凰位決定戦に進出となる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p31/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250903030000 +0000" stop="20250903145000 +0000">
+		<title>第50期最高位戦A1リーグ 第10節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p27/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250903145000 +0000" stop="20250908105000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250908105000 +0000" stop="20250908130000 +0000">
+		<title>第24期雀王戦A1リーグ第9節B卓【延長枠】</title>
+		<desc>1年かけて戦われる日本プロ麻雀協会の最高峰タイトル。A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出、現雀王・仲林圭とタイトルの座を争う</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/69-71_s10001_p29/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250908130000 +0000" stop="20250910030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250910030000 +0000" stop="20250910145000 +0000">
+		<title>第50期最高位戦A1リーグ 第10節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p28/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250910145000 +0000" stop="20250917030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250917030000 +0000" stop="20250917145000 +0000">
+		<title>第50期最高位戦A1リーグ 第11節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p29/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250902141300 +0000" stop="20250902232400 +0000">
 		<title>【再】第96期ヒューリック杯棋聖戦五番勝負第2局 藤井聡太棋聖 対 杉本和陽六段</title>
