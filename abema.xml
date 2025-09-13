@@ -88,6 +88,10 @@
 		<display-name>なつかしアニメ90's</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/90s-anime-1/logo.png" />
 	</channel>
+	<channel id="00s-anime-1">
+		<display-name>なつかしアニメ00's</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/00s-anime-1/logo.png" />
+	</channel>
 	<channel id="abema-special">
 		<display-name>ABEMA SPECIALチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -2340,10 +2344,15 @@ Turkeyを取ると、なぜかそのあと必ず、難攻不落のスプリッ�
 		<desc>亡くなった祖母の遺品整理のために夏休みを利用して、鳥白島にやってきた主人公の鷹原羽依里。祖母の思い出の品の片付けを手伝いながら、初めて触れる「島の生活」に戸惑いつつも、順応していく。海を見つめる少女と出会った。不思議な蝶を探す少女と出会った。思い出と海賊船を探す少女と出会った。静かな灯台で暮らす少女と出会った。島で新しい仲間が出来た――この夏休みが終わらなければいいのにと、そう思った。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-199_s1_p24/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20250916203000 +0000" stop="20250917070000 +0000">
+	<programme channel="abema-anime" start="20250916203000 +0000" stop="20250917013000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	</programme>
+	<programme channel="abema-anime" start="20250917013000 +0000" stop="20250917070000 +0000">
+		<title>気絶勇者と暗殺姫 #1〜11</title>
+		<desc>勇者トトは、実力はあるが極度の人見知りのためパーティーが組めず、はじまりの町でくすぶっていた。そんな中、3人の美女――シエル、アネモネ、ゴアから突然パーティーへと誘われる！念願の旅立ちにやる気に満ちるトトだが、彼女たちはその勇者を“殺る気”でいっぱいだった！？女性耐性が無さすぎてちょっとドキドキしただけで気絶してしまう極度の人見知り勇者と、それぞれの目的の為に勇者の命を狙う3人のハーレムデスラブコメディ！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/149-31_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250917070000 +0000" stop="20250917120000 +0000">
 		<title>桃源暗鬼 #1〜10</title>
@@ -12123,17 +12132,80 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<desc>政さんが野菜をもって父ちゃんの会社にやってきた。竹とんぼの作り方を教えてもらう約束をしてたんだけど…</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-3_s1_p98/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250905150000 +0000" stop="20250905154500 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+	<programme channel="00s-anime-1" start="20250913030000 +0000" stop="20250913150000 +0000">
+		<title>おジャ魔女どれみ #1〜25【無料ビデオ1週間】</title>
+		<desc>春風どれみは魔女にあこがれる小学校の３年生の元気な女の子。でも好きな人に告白もできない自称「世界一不幸な美少女」。マジョリカを魔女と見破ったことがきっかけで、魔女見習いとして修行をすることになったどれみ。さっそく魔法を試してみますが、トラブルを巻き起こしてしまします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250913150000 +0000" stop="20250914030000 +0000">
+		<title>おジャ魔女どれみ #1〜25【無料ビデオ1週間】</title>
+		<desc>春風どれみは魔女にあこがれる小学校の３年生の元気な女の子。でも好きな人に告白もできない自称「世界一不幸な美少女」。マジョリカを魔女と見破ったことがきっかけで、魔女見習いとして修行をすることになったどれみ。さっそく魔法を試してみますが、トラブルを巻き起こしてしまします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250914030000 +0000" stop="20250914153000 +0000">
+		<title>おジャ魔女どれみ #26〜51【無料ビデオ1週間】</title>
+		<desc>飯田かなえの家はステーキハウスだが､家族の入院､火傷に泥棒と最近は災難続き｡ステーキ目当てでかなえの家を手伝いはじめるどれみは､店にある招き猫から怪しい気配を感じた｡調べてみると､どうやら持ち主を不幸にする呪いの招き猫らしい｡それこそ､魔女界から盗まれ人間界にバラまかれた､持ち主の望みと逆の結果をもたらす不幸のカード・バッドカードを宿したバッドアイテムだった…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s0_p26/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250914153000 +0000" stop="20250915040000 +0000">
+		<title>おジャ魔女どれみ #26〜51【無料ビデオ1週間】</title>
+		<desc>飯田かなえの家はステーキハウスだが､家族の入院､火傷に泥棒と最近は災難続き｡ステーキ目当てでかなえの家を手伝いはじめるどれみは､店にある招き猫から怪しい気配を感じた｡調べてみると､どうやら持ち主を不幸にする呪いの招き猫らしい｡それこそ､魔女界から盗まれ人間界にバラまかれた､持ち主の望みと逆の結果をもたらす不幸のカード・バッドカードを宿したバッドアイテムだった…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s0_p26/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250915040000 +0000" stop="20250915153000 +0000">
+		<title>おジャ魔女どれみ♯ #1〜24【無料ビデオ1週間】</title>
+		<desc>マジョリカに忘れ物を届けるため、魔女界に向かったおジャ魔女たち。しかし女王様の庭園に迷い込んでしまい、そこで一輪のバラの中から赤ちゃんが誕生するのを発見するのでした。赤ちゃんの誕生を一番最初に見た者が一年間面倒を見るという魔女界の掟により、オジャ魔女たちの新しい生活が始まります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250915153000 +0000" stop="20250916030000 +0000">
+		<title>おジャ魔女どれみ♯ #1〜24【無料ビデオ1週間】</title>
+		<desc>マジョリカに忘れ物を届けるため、魔女界に向かったおジャ魔女たち。しかし女王様の庭園に迷い込んでしまい、そこで一輪のバラの中から赤ちゃんが誕生するのを発見するのでした。赤ちゃんの誕生を一番最初に見た者が一年間面倒を見るという魔女界の掟により、オジャ魔女たちの新しい生活が始まります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250916030000 +0000" stop="20250916150000 +0000">
+		<title>おジャ魔女どれみ♯ #25〜49【無料ビデオ1週間】</title>
+		<desc>ある日、気品漂うステキな少年がＭＡＨＯ堂に現れました。そこに現れるオヤジーデですが、少年は誘拐犯オヤジーデをあっさり撃退してしまいます。「暁」という名の少年はどれみたちの信用を勝ち取り、さわやかにＭＡＨＯ堂を後にするのでした。ところが、暁くんを待ち構えていたのはオヤジーデ！暁くんは新たに派遣されたオヤジーデの助手だったのでした。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s2_p25/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250916150000 +0000" stop="20250917030000 +0000">
+		<title>おジャ魔女どれみ♯ #25〜49【無料ビデオ1週間】</title>
+		<desc>ある日、気品漂うステキな少年がＭＡＨＯ堂に現れました。そこに現れるオヤジーデですが、少年は誘拐犯オヤジーデをあっさり撃退してしまいます。「暁」という名の少年はどれみたちの信用を勝ち取り、さわやかにＭＡＨＯ堂を後にするのでした。ところが、暁くんを待ち構えていたのはオヤジーデ！暁くんは新たに派遣されたオヤジーデの助手だったのでした。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s2_p25/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250917030000 +0000" stop="20250917150000 +0000">
+		<title>も〜っと！おジャ魔女どれみ #1〜25【無料ビデオ1週間】</title>
+		<desc>５年生になって自分だけが違うクラス、おまけにハナちゃんにも会えないことで寂しくなってしまうどれみ。でも女王様から突然呼び出しがかかり、再び魔女見習いにしてもらえたので大喜び。魔女になるには、６人の魔女を納得させるお菓子を作らなくてはならないと告げられる。お菓子作りの経験がないため困ってしまうどれみたちだが、そこで女王様が呼び寄せたのは、アメリカでパティシェをしていた魔女見習い・飛鳥ももこだった…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s3_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250917150000 +0000" stop="20250918030000 +0000">
+		<title>も〜っと！おジャ魔女どれみ #1〜25【無料ビデオ1週間】</title>
+		<desc>５年生になって自分だけが違うクラス、おまけにハナちゃんにも会えないことで寂しくなってしまうどれみ。でも女王様から突然呼び出しがかかり、再び魔女見習いにしてもらえたので大喜び。魔女になるには、６人の魔女を納得させるお菓子を作らなくてはならないと告げられる。お菓子作りの経験がないため困ってしまうどれみたちだが、そこで女王様が呼び寄せたのは、アメリカでパティシェをしていた魔女見習い・飛鳥ももこだった…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s3_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250918030000 +0000" stop="20250918150000 +0000">
+		<title>も〜っと！おジャ魔女どれみ #26〜50【無料ビデオ1週間】</title>
+		<desc>あいこの父：幸治が、ついに別れた妻：あつ子とやり直すことを決意！あいこと一緒に大阪まで、あつ子に会いに行くことに。ずっと夢見ていた思いが叶うと、あいこはプレゼントのクッキーをウキウキしながら焼くのだった。次の日、あいこたちが大阪に着くと、待っているはずのあつ子が無い。実はあつ子が介護センターで担当しているお年寄りが倒れ、病院に駆けつけていたのだ。だが娘より仕事をしたあつ子に、幸治は怒り出してしまう…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s3_p26/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250918150000 +0000" stop="20250919030000 +0000">
+		<title>も〜っと！おジャ魔女どれみ #26〜50【無料ビデオ1週間】</title>
+		<desc>あいこの父：幸治が、ついに別れた妻：あつ子とやり直すことを決意！あいこと一緒に大阪まで、あつ子に会いに行くことに。ずっと夢見ていた思いが叶うと、あいこはプレゼントのクッキーをウキウキしながら焼くのだった。次の日、あいこたちが大阪に着くと、待っているはずのあつ子が無い。実はあつ子が介護センターで担当しているお年寄りが倒れ、病院に駆けつけていたのだ。だが娘より仕事をしたあつ子に、幸治は怒り出してしまう…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s3_p26/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250919030000 +0000" stop="20250919150000 +0000">
+		<title>おジャ魔女どれみドッカ〜ン！ #1〜25【無料ビデオ1週間】</title>
+		<desc>小学校最後の年を迎える新学期の朝、ＭＡＨＯ堂が突然形を変え、見知らぬ少女が学校でどれみたちを待ち受けていた。少女の正体は何と、大きくなったハナちゃん。どれみたちと一緒に学校へ行きたくて、自分で自分に魔法をかけて学校へやって来たのだという。しかも魔力を使いすぎて、大切な水晶玉を壊してしまったらしい。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s4_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250919150000 +0000" stop="20250920030000 +0000">
+		<title>おジャ魔女どれみドッカ〜ン！ #1〜25【無料ビデオ1週間】</title>
+		<desc>小学校最後の年を迎える新学期の朝、ＭＡＨＯ堂が突然形を変え、見知らぬ少女が学校でどれみたちを待ち受けていた。少女の正体は何と、大きくなったハナちゃん。どれみたちと一緒に学校へ行きたくて、自分で自分に魔法をかけて学校へやって来たのだという。しかも魔力を使いすぎて、大切な水晶玉を壊してしまったらしい。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s4_p1/thumb001.png" />
+	</programme>
+	<programme channel="00s-anime-1" start="20250920030000 +0000" stop="20250920153000 +0000">
+		<title>おジャ魔女どれみドッカ〜ン！ #26〜51【無料ビデオ1週間】</title>
+		<desc>この夏最後の思い出作りにと、どれみたちは自由参加のキャンプにやって来た。一日目が過ぎ、二日目のメインイベントはスタンプラリー。星スタンプをゲットできたら夏休みの宿題をなくすという西澤先生の提案に、どれみは大張り切りだ。ところが、小竹と二人して急斜面から滑り落ちたうえに、迷子になってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-7btbct-fwwa_s4_p26/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250905154500 +0000" stop="20250905183000 +0000">
 		<title>高嶺のハナさん 第7話~最終話 後半一挙【ABEMA初】</title>
@@ -12305,16 +12377,9 @@ ABEMA恋リアの見どころを語り尽くす２時間SP！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p159/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250906145000 +0000" stop="20250906153500 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250906153500 +0000" stop="20250906164000 +0000">
 		<title>#1 “女は若さ、男は年収”20代vs30代の婚活本音リアリティ</title>
@@ -12506,16 +12571,9 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p160/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250907130300 +0000" stop="20250907135700 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250907135700 +0000" stop="20250907140000 +0000">
 		<title>ダイキン空気予報 9/7</title>
@@ -12573,16 +12631,9 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s4_p10/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250907170000 +0000" stop="20250907180000 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250907180000 +0000" stop="20250907183900 +0000">
 		<title>脳汁じゅ〜す Season2 #11</title>
@@ -12746,16 +12797,9 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/162-85_s0_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250908190500 +0000" stop="20250908200000 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250908200000 +0000" stop="20250908220000 +0000">
 		<title>復讐の未亡人 第1~4話 前半一挙</title>
@@ -13274,16 +13318,9 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250911151500 +0000" stop="20250911160000 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250911160000 +0000" stop="20250911184100 +0000">
 		<title>高嶺のハナさん2 第1話~6話 前半一挙【ABEMA初】</title>
@@ -13314,16 +13351,9 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-70_s1_p95/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250911221500 +0000" stop="20250911230000 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250911230000 +0000" stop="20250912031200 +0000">
 		<title>グッド･パートナー～離婚のお悩み解決します～ 第26〜最終話【韓流アワー】</title>
@@ -13331,16 +13361,9 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-227_s1_p26/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250912031200 +0000" stop="20250912040000 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250912040000 +0000" stop="20250912060000 +0000">
 		<title>夏の恋リア祭2025</title>
@@ -13379,16 +13402,9 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250912091500 +0000" stop="20250912100000 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250912100000 +0000" stop="20250912120000 +0000">
 		<title>『ときめきファンファーレ』#24</title>
@@ -14740,16 +14756,9 @@ NHK大河ドラマ「べらぼう」出演で話題！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s4_p10/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250906190000 +0000" stop="20250906194500 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20250906194500 +0000" stop="20250906200000 +0000">
 		<title>おはようロバーツ #21</title>
@@ -14833,16 +14842,9 @@ NHK大河ドラマ「べらぼう」出演で話題！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p322/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250907050000 +0000" stop="20250907054500 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20250907054500 +0000" stop="20250907060000 +0000">
 		<title>おはようロバーツ #21</title>
@@ -15000,16 +15002,9 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p2/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250908000000 +0000" stop="20250908004500 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20250908004500 +0000" stop="20250908010000 +0000">
 		<title>奪い愛、真夏 #１〜４ダイジェスト【最新話はABEMAで配信中】</title>
@@ -15150,16 +15145,9 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p161/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250908140000 +0000" stop="20250908150000 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20250908150000 +0000" stop="20250908170000 +0000">
 		<title>チャンスの時間 #305~306</title>
@@ -15211,16 +15199,9 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p4/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250909000000 +0000" stop="20250909004500 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20250909004500 +0000" stop="20250909030000 +0000">
 		<title>ジョン・ウィック:チャプター2(吹替)[R15+]</title>
@@ -15389,16 +15370,9 @@ KOCで2年連続チンパンジーネタを披露した隣人・橋本のイラ�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p6/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250909233000 +0000" stop="20250910001500 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20250910001500 +0000" stop="20250910003000 +0000">
 		<title>奪い愛、真夏 #１〜４ダイジェスト【最新話はABEMAで配信中】</title>
@@ -15616,16 +15590,9 @@ KとCの2つのプラネットから少年たちが集まり、デビューを�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s4_p11/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250911161200 +0000" stop="20250911170000 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20250911170000 +0000" stop="20250911190000 +0000">
 		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #7~8</title>
@@ -15662,16 +15629,9 @@ KとCの2つのプラネットから少年たちが集まり、デビューを�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p10/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250912000000 +0000" stop="20250912005500 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20250912005500 +0000" stop="20250912030000 +0000">
 		<title>ただ、君を愛してる【無料1週間】</title>
@@ -15695,16 +15655,9 @@ KとCの2つのプラネットから少年たちが集まり、デビューを�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/158-4_s0_p1/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250912080500 +0000" stop="20250912090000 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20250912090000 +0000" stop="20250912110000 +0000">
 		<title>世界の果てに、ひろゆき置いてきた シーズン1 #5~6</title>
@@ -15743,16 +15696,9 @@ KとCの2つのプラネットから少年たちが集まり、デビューを�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p165/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250912120300 +0000" stop="20250912130000 +0000">
-		<title>＃1:すい臓がんで余命宣告…土屋アンナ母娘＆たんぽぽ川村婚活</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
-「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
-
-すい臓がんで１年半の余命宣告を受けた土屋アンナの母・眞弓さん
-親子の絆でがんに負けじと前向きに生きる母と娘の姿に密着
-さらに
-芸能人の本気婚活「芸能人、婚活はじめました」
-たんぽぽ 川村エミコが４５歳ではじめて婚活に挑戦</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p101/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20250912130000 +0000" stop="20250912132500 +0000">
 		<title>【先行映像】ラブキャッチャージャパン新シーズン開幕！</title>
