@@ -140,6 +140,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -3697,8 +3701,8 @@ W杯優勝を夢見る同級生の御影玲王が、その才能を見つけだ�
 	</programme>
 	<programme channel="isekai-anime" start="20250927213000 +0000" stop="20250928033000 +0000">
 		<title>追放白魔導師 #1〜12【無料ビデオ1週間】</title>
-		<desc>人里離れた山奥で師匠のマーリンと暮らしていたロイドは、過酷な魔法修行の毎日から逃れる為に山を降りイシュタルの街へやって来た。そして自らの能力に無自覚なまま勇者アレンのパーティーに加わり、後方支援の白魔導師として１年の時が過ぎて行った。そんなある日、アレンの危機を救ったロイドは、何故か突然パーティーからの追放を言い渡されてしまった…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-105_s1_p1/thumb001.png" />
+		<desc>「実力不足の白魔導師は要らない」 白魔導師であるロイドはある日突然クビを言い渡され、勇者パーティーを追放されてしまう。 途方に暮れていたロイドだったが、たまたま白魔導師を探していたＳランク冒険者のパーティーと出会い、クエストに同行 することになる。 この時はまだ、勇者パーティーが崩壊し、ロイドが名声を得ていくことを知る者はいなかった――。 これは、自分を普通だと思い込んでいる、規格外の支援魔法の使い手が冒険者になり、無自覚に無双する物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p20/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime" start="20250928033000 +0000" stop="20250928100000 +0000">
 		<title>俺だけレベルアップな件 Season 2 #13〜25【無料ビデオ1週間】</title>
@@ -3714,8 +3718,8 @@ W杯優勝を夢見る同級生の御影玲王が、その才能を見つけだ�
 	</programme>
 	<programme channel="isekai-anime" start="20250928163000 +0000" stop="20250928223000 +0000">
 		<title>追放白魔導師 #1〜12【無料ビデオ1週間】</title>
-		<desc>人里離れた山奥で師匠のマーリンと暮らしていたロイドは、過酷な魔法修行の毎日から逃れる為に山を降りイシュタルの街へやって来た。そして自らの能力に無自覚なまま勇者アレンのパーティーに加わり、後方支援の白魔導師として１年の時が過ぎて行った。そんなある日、アレンの危機を救ったロイドは、何故か突然パーティーからの追放を言い渡されてしまった…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-105_s1_p1/thumb001.png" />
+		<desc>「実力不足の白魔導師は要らない」 白魔導師であるロイドはある日突然クビを言い渡され、勇者パーティーを追放されてしまう。 途方に暮れていたロイドだったが、たまたま白魔導師を探していたＳランク冒険者のパーティーと出会い、クエストに同行 することになる。 この時はまだ、勇者パーティーが崩壊し、ロイドが名声を得ていくことを知る者はいなかった――。 これは、自分を普通だと思い込んでいる、規格外の支援魔法の使い手が冒険者になり、無自覚に無双する物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p20/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime-2" start="20250916130000 +0000" stop="20250916190000 +0000">
 		<title>盾の勇者の成り上がり Season 3 #1〜12【無料ビデオ2週間】</title>
@@ -5509,9 +5513,13 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-795_s10015_p19/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250925143000 +0000" stop="20250925160000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
+		<title>声優と夜あそび 木【小野賢章×花江夏樹】#18・再放送</title>
+		<desc>【木曜日は小野賢章×花江夏樹】
+月曜〜日曜まで人気声優が豪華なゲストや作品と共にお届けするディープな""夜あそび""。
+この番組はABEMAプレミアムなら何回でも見逃し視聴が可能！無料ダイジェストも毎日配信中。
+
+【提供】株式会社東ハト</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-795_s15_p18/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20250925160000 +0000" stop="20250925173000 +0000">
 		<title>さようなら竜生、こんにちは人生 #10〜12【無料ビデオ1週間】</title>
@@ -12985,9 +12993,15 @@ YOSHIKIプロデュースのXYからJAY・KANJI、そして舞台・ドラマで
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p101/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250925104000 +0000" stop="20250925160000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>【日韓同時・国内独占配信】BOYS ll PLANET #11(終)（通訳版）</title>
+		<desc>【ABEMAにて日韓同時・国内独占無料放送】
+2023年に放送され、世界最高レベルで盛り上がった視聴者参加型オーディション番組「BOYS PLANET」が、2025年さらに進化をして「BOYS ll PLANET」としてこの夏、復活します!
+
+今回はKとC、2つの拠点からスタート。
+
+KとCの2つのプラネットから少年たちが集まり、デビューを目指し熾烈なバトルを繰り広げるK-POP WORLD-SCALE DEBUT PROJECT!
+スタークリエイターの皆さんの心を熱くする少年は誰だ?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-70_s40000_p13/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250925160000 +0000" stop="20250925170000 +0000">
 		<title>クロナダル クロちゃんをガチで惚れさせたら100万円「クロLOVE」</title>
@@ -13056,9 +13070,9 @@ YOSHIKIプロデュースのXYからJAY・KANJI、そして舞台・ドラマで
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p325/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250926044500 +0000" stop="20250926050000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>おはようロバーツ #24</title>
+		<desc>大谷翔平、ベッツ、フリーマンをはじめ、多くのスター選手が所属するロサンゼルス・ドジャースを率いて昨シーズンのワールドチャンピオンに導いた名将、デーブ・ロバーツ氏への「ABEMA」独占のインタビュー企画が始動！「ABEMA」が今シーズンを通して、ドジャース監督のロバーツ氏へ疑問質問をぶつけていきます。毎週月朝8時に最新回を配信！また番組では視 聴者からロバーツ氏への質問も随時募集。ABEMA MLB公式Xにて募集した質問をロバーツ氏にぶつけていきます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/239-209_s30_p25/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250926050000 +0000" stop="20250926070000 +0000">
 		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #9~10</title>
@@ -13080,9 +13094,9 @@ YOSHIKIプロデュースのXYからJAY・KANJI、そして舞台・ドラマで
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p26/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250926104500 +0000" stop="20250926110000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>おはようロバーツ #24</title>
+		<desc>大谷翔平、ベッツ、フリーマンをはじめ、多くのスター選手が所属するロサンゼルス・ドジャースを率いて昨シーズンのワールドチャンピオンに導いた名将、デーブ・ロバーツ氏への「ABEMA」独占のインタビュー企画が始動！「ABEMA」が今シーズンを通して、ドジャース監督のロバーツ氏へ疑問質問をぶつけていきます。毎週月朝8時に最新回を配信！また番組では視 聴者からロバーツ氏への質問も随時募集。ABEMA MLB公式Xにて募集した質問をロバーツ氏にぶつけていきます。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/239-209_s30_p25/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250926110000 +0000" stop="20250926113000 +0000">
 		<title>【再】ABEMAスポーツタイム#105</title>
@@ -13918,7 +13932,7 @@ MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p621/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250924030000 +0000" stop="20250924041500 +0000">
-		<title>ABEMAヒルズ　そのニュース、ゆっくり話そう</title>
+		<title>＃アベヒル　トランプ氏が国連批判/90歳も…シニア労働最前線</title>
 		<desc>「そのニュース、ゆっくり話そう」
 大量の情報が通り過ぎていく毎日。ちょっと立ち止まって、そのニュースをゆっくり話したい。番組MCの柴田阿弥、徳永有美が気になる話題を個性豊かな識者らと語り合います。好奇心の赴くままに。そのニュースは、社会を、政治を、経済を、世界を、そして、あなたの生活を、どう変えるのか…？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-52_s0_p2043/thumb001.png" />
@@ -18805,15 +18819,140 @@ MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる
 		<desc>高2の秋、ドクソンは大学に入ることを家族の前で宣言。ソヌ、ジョンファン、ドンリョンともに受験モードに突入する。ジョンファンはドクソンに好意を寄せるが、面と向かって話すと、いつもつい憎まれ口をたたいてしまう。当のドクソンはソヌのことを思うあまり、そんなジョンファンの気持ちに気づかなかった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-39_s3_p7/thumb001.png" />
 	</programme>
-	<programme channel="asia-love-comedy" start="20250924174000 +0000" stop="20250924183500 +0000">
+	<programme channel="asia-love-comedy" start="20250924174000 +0000" stop="20250924184000 +0000">
 		<title>ロマンスが必要3 第13話</title>
 		<desc>ワンに抱きつかれたところを、テユンに見られてしまったジュヨン。ワンとの同居をやめるようテユンに促されるが、なぜか気が乗らない。テユンとつきあいながらも、自分の中でワンの存在が大きくなっていることを実感するジュヨン。そんなある夜、電話でテユンに呼び出されたジュヨンは、自分とテユンのどちらを選ぶのかワンに迫られ...</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-35_s3_p13/thumb001.png" />
 	</programme>
-	<programme channel="asia-love-comedy" start="20250924183500 +0000" stop="20250924223000 +0000">
+	<programme channel="asia-love-comedy" start="20250924184000 +0000" stop="20250924224500 +0000">
 		<title>ピョン･ヒョクの恋 第1〜3話【日替わり一挙】</title>
 		<desc>ガンスグループ会長の次男でトラブルメーカーのピョン・ヒョクは、機内でセクハラ騒ぎを起こす。その謹慎中に滞在していたホテルの一室で、ある騒ぎに出くわしたヒョク。そこには客の私物を盗んだと、ぬれぎぬを着せられているペク・ジュンの姿が。謝罪を求められるが、やってもいないのに謝れないと強気のジュン。結局、ホテルのバイトをクビになったジュンだったが、2人は意気投合。ジュンはヒョクの面倒を見ることに。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-54_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250924224500 +0000" stop="20250925000000 +0000">
+		<title>初対面だけど愛してます 第1〜2話</title>
+		<desc>T&amp;Tモバイルのド・ミニク本部長はやり手で次期代表取締役の最有力候補。ミニクの秘書チョン・ガリは家族を養うため人使いの荒いミニクの下で耐え忍んでいるが、ミニクは常に1年で秘書を替え、ガリも契約満了が迫っていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-21_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250925000000 +0000" stop="20250925095000 +0000">
+		<title>僕らのイケメン青果店 第1〜8話【前編一挙】</title>
+		<desc>親のいないテヤンは祖母と妹のテインと3人で暮らしていた。そんなテヤンの心を癒やすのは、同じ中学に通い、教会の施設で育った少女、ジンシムだった。ジンシムに恋心を抱くテヤンは、ジンシムに“ポケベル”をプレゼントするため、野菜売りを始める。一方、教会で素敵な母親を持つ少女、カオンに出会ったジンシム。2人はひょんなことから親友になり...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-388_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250925095000 +0000" stop="20250925110000 +0000">
+		<title>恋のレベルアップ 第1話【今日のイチオシ！】</title>
+		<desc>ゲーム会社ジョイバスターの社員ヨナは、会社が倒産の危機にあることを社長から告げられショックを受ける。新しい経営陣が来るまでは作業を進めることができず、イベントに出すつもりだったブースを撤去しに釜山へ行く。株主たちから攻撃の的にされていたヨナは、企業再生率100%を誇るコンサルタントのダンテとKTXで偶然隣り合わせになる。ダンテのことを株主だと勘違いしたヨナは逃げようとするが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-154_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250925110000 +0000" stop="20250925142500 +0000">
+		<title>私のIDはカンナム美人 第17〜20話(字幕)【ASTROチャ・ウヌ主演】</title>
+		<desc>ミレはギョンソクに“俺が好きか”と聞かれるが、自分を卑下するミレは本心を伝えられずギョンソクを突き放す。そんな中、ギョンソクに見向きもされないスアは、ミレが見ている前でわざとギョンソクに抱きつく。ミレを追いかけようとするギョンソクをスアは引き止めるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-13_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250925142500 +0000" stop="20250925154000 +0000">
+		<title>運命のように君を愛してる 第10話</title>
+		<desc>生まれてくる子供のために準備を始めるゴンとミヨン。そんな中「離婚合意書」の存在を知り激怒したミヨンの母は、ミヨンを連れて帰ってしまう。外で会う約束をした2人だったが、約束の場所に向かう途中、ゴンは気を失って倒れてしまい...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-1_s0_p10/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250925154000 +0000" stop="20250925172500 +0000">
+		<title>恋のスケッチ〜応答せよ1988〜 第9〜10話</title>
+		<desc>ある日、ジョンファンの家では母ミランが2日ほど家を留守にすることとなり、残された3人の男たちはここぞとばかりに家中を散らかし自由を満喫する。一方、ドクソンの家ではボラを除いた4人が食卓を囲んでいると、テレビのニュースからボラが学生運動に参加している姿が映し出され、一家は大騒ぎとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-39_s3_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250925172500 +0000" stop="20250925182500 +0000">
+		<title>ロマンスが必要3 第14話</title>
+		<desc>“元気でね”と言い残し、家を出ていったワン。はじめは何も感じないジュヨンだったが、次第に自分の心に空いた大きな穴に気付き始める。風邪薬を買いに薬局へ行った帰り道、雨宿りをしていた公園に偶然現れたワン。しかし、そこでも素直になれないジュヨンにワンは、“僕は二度とここへは来ない。今度はあなたから来て”と告げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-35_s3_p14/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250925182500 +0000" stop="20250925225000 +0000">
+		<title>内省的なボス 第1〜3話【日替わり一挙】</title>
+		<desc>広告会社のブレイン広告の秘書が社屋屋上から飛び降り自殺をした。それから3年後、ブレイン広告はオペラの宣伝プロジェクトのコンペに臨んでいたのだが、カン・ウイル代表らが準備した内容はライバル会社のものと同じであることが直前に発覚しピンチを迎えるのだが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-41_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250925225000 +0000" stop="20250926000000 +0000">
+		<title>初対面だけど愛してます 第3〜4話</title>
+		<desc>落下の衝撃で顔の認識に異常が生じたミニクはパニック状態。一方、襲撃犯の疑いをかけられたガリはミニクと警察署に行き事件当日の防犯カメラを確認すると、そこにミニクとの約束をすっぽかしたデジュの姿が映っていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-21_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250926000000 +0000" stop="20250926110000 +0000">
+		<title>ナイショの恋していいですか！？ 第9〜17話(終)【後編一挙】</title>
+		<desc>互いの気持ちを確かめ合ったミンソクとスヨン。話を聞いたドクファンとテソクはスヨンが真実を知らないことを心配するが、ミンソクは何も考えずスヨンに対する自分の気持ちを信じて進むだけと意に介さない。週末に南怡島へ遊びに行く2人。遠出に誘う男には必ず下心があると聞いたスヨン。下着を新調して心の準備をするが、誘われる気配がなく落ち込む。一方、そのころイ本部長の尻尾をつかもうと本部長室に忍び込んだジヌは...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-36_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250926110000 +0000" stop="20250926142500 +0000">
+		<title>ショッピング王ルイ 第14〜最終話【ソ・イングク主演】</title>
+		<desc>ク室長はペク社長から手に入れた10億ウォン入りのカバンを、まんまと騙され置き引きされてしまう。その犯人は、かつてボクシルのカバンを列車の中で盗んだ窃盗常習犯の女だった。ペク社長は、秘密が隠されたルイの宝箱を釜山のチェ会長の家で見つけてこっそり持ち帰る。ルイとボクシルは、ゴールドライン社商品企画部の社員たちと泊まりがけの親睦会に参加。ジュンウォンを嫉妬させるが、夜中にボクシルが何者かに連れ去られてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-27_s1_p14/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250926142500 +0000" stop="20250926154000 +0000">
+		<title>運命のように君を愛してる 第11話</title>
+		<desc>ミヨンに関する記憶を失ったゴン。無理に思い出させるのは良くないと周囲が見守る中、ゴンはミヨンに関する悪意あるネット記事を見つけてしまう。記事について否定しないミヨンに冷たい言葉を浴びせるゴンだったが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-1_s0_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250926154000 +0000" stop="20250926172000 +0000">
+		<title>恋のスケッチ〜応答せよ1988〜 第11〜12話</title>
+		<desc>クリスマスを前に、ドクソンはひそかにソヌから告白されることを期待する。その頃テクは、国の期待を一気に背負い、唯一の韓国代表として上海で行われる世界囲碁選手権に参加していた。そんな中、ドクソンとジョンファンたちはテクの部屋に集まり人気ラジオ番組を聞いていると、ジョンボンの投稿が採用され大喜びする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-39_s3_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250926172000 +0000" stop="20250926182000 +0000">
+		<title>ロマンスが必要3 第15話</title>
+		<desc>テユンと別れてワンのもとへ行くと決心したが、なかなか一歩が踏み出せないジュヨン。ワンが暮らすホテルへ行ってはみたものの、素直に好きと言えず、追い返されてしまう。またもあれこれ頭で考えてしまうジュヨンに、もう一度だけチャンスをあげると伝えたワン。真実から逃げないと心に決めたジュヨンはもう一度、ワンのもとへ向かう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-35_s3_p15/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250926182000 +0000" stop="20250926231000 +0000">
+		<title>じれったいロマンス 第1〜5話【ソンフン主演】【日替わり一挙】</title>
+		<desc>テボクグループの後継者であるチャ・ジヌクは、恵まれた容姿を武器にまともに仕事もせず遊び歩いていた。そんな息子を見かねた父親のチャ・テボク会長は、ジヌクを地方リゾートのベルボーイとして修行に行かせてしまう。一方、栄養士を夢見るイ・ユミもまた、母親ミヒの二度目の結婚式に参加するためテボクリゾートを訪れていた。ひょんなことから出会う2人だったが、お互いの印象は最悪で...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-9_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250926231000 +0000" stop="20250927030000 +0000">
+		<title>主君の太陽 第12〜14話</title>
+		<desc>ゴンシルの家に強引に上がり込むジュンウォン。一方、ソンランはゴンシルにジュンウォンと別れろと詰め寄っていた。ある日、ゴンシルは路上で失踪した子供を必死で捜す母親の姿を目撃。そばに子供の幽霊がいて...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-163_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250927030000 +0000" stop="20250927125500 +0000">
+		<title>ショッピング王ルイ 第1〜8話【ソ・イングク主演】【前編一挙】</title>
+		<desc>超満員の通勤電車でもスマホがあればショッピングができる現代人。話題のジャージを企画した黄金財閥傘下ゴールドライン社では、やり手の本部長チャ・ジュンウォンが今日も采配を振るう。韓国の山奥に住む少年コ・ボクナムはそのジャージを手に入れ、姉ボクシルに得意満面で見せていた。同じ頃、フランスに住む「ショッピング王ルイ」も同じジャージを手に入れていた。世界の極上の品を買い漁るルイは、実は黄金財閥のチェ会長の孫だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-27_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250927125500 +0000" stop="20250927174000 +0000">
+		<title>運命のように君を愛してる 第17〜20話(終)【チャン・ヒョク主演】</title>
+		<desc>再開したセラから3年前の真実を明かされたミヨンは、当時ゴンの態度が急変したことに改めて疑問を持つ。そして韓国を発つ日の朝、ゴンが録音した遺言を聞き心が揺れるミヨン。一方ゴンは社長の職を降りる決心をし、会見を開こうとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-1_s0_p17/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250927174000 +0000" stop="20250927225000 +0000">
+		<title>真心が届く〜僕とスターのオフィス･ラブ!?〜 第1〜4話【日替わり一挙】</title>
+		<desc>元トップ女優だったユンソは、麻薬スキャンダルに巻き込まれて芸能界から干されていた。家でのんびりとビタミン剤をのもうとしていた時、マネージャーのヒョクジュンが現れる。世を悲観して服毒自殺を図っていると勘違いしたヒョクジュンは、ユンソが持っていたビタミン剤を取り上げる。ヒョクジュンのかばんに入っていたドラマの台本を目にするユンソ。それは人気脚本家の作品で、自分のために持ってきてくれたと思い...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-132_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250927225000 +0000" stop="20250927231500 +0000">
+		<title>ステキな片想い 第1話【今日のイチオシ！】</title>
+		<desc>大手エンタメ会社のCEOであるセフン。ある日事務所のトップアイドルであるミンジュが撮影所から脱走してしまい、ひょんなことから代わりを務めることになったイリョンをひと目見たセフンは、これまで感じたことのない感情に襲われるが...?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-8_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250927231500 +0000" stop="20250928030000 +0000">
+		<title>イタズラなKiss〜Playful Kiss 第11〜13話</title>
+		<desc>一夜を過ごしながら何もなかったスンジョとハニ。一方、ハニの前にギョンスの友人ギテが現れ、いきなり「付き合おう」と言う。スンジョに嫉妬させようとギテとデートするハニだが、スンジョは動じない。スンジョが郊外の別荘地でアルバイトを始め、ハニは家族とおしかける。そこでハニはスンジョとキスをする夢を見るが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-1_s0_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250928030000 +0000" stop="20250928125500 +0000">
+		<title>2度目の二十歳 第9〜16話(終)【チェ・ジウ主演】【後編一挙】</title>
+		<desc>学祭のステージで踊るノラを見たウチョルとヒョンソクは、それぞれが遠い過去の出来事を思い出していた。20年前にノラに渡せなかった手紙を見つめるヒョンソク。自分の気持ちに気付いたヒョンソクはノラを意識してしまい目を合わせることもできない。一方ミンスは英語の試験も中間テストも成績が振るわず、サークルからも追い出されてしまう。そして父親と交わした覚書を探すうちに両親が交わした公正証書を見つけてしまうのだが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-19_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250928125500 +0000" stop="20250928151000 +0000">
+		<title>ピノキオ 第1〜2話【イケメンチュセヨ】イ・ジョンソク出演作</title>
+		<desc>全校でビリのダルポが、全校1位のチャンスを相手にクイズ番組に参加する。ダルポは、そのクイズに自分の過去を重ね、つらい過去を思い出す...。次々と答えを当てるダルポに、チャンスは驚き、学校でも皆ざわめくが、イナだけはダルポが勝つと信じていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-165_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250928151000 +0000" stop="20250928173000 +0000">
+		<title>青い海の伝説 第1〜2話【美女チュセヨ】チョン・ジヒョン出演作</title>
+		<desc>1598年8月、江原道。新任県令のタムリョンはヤン氏の旅館を訪れた際、生け捕りにされた美しい人魚と出会う。人魚を哀れんだタムリョンは、ヤン氏の罪を口実に人魚を海に逃がす。それから時は流れて現代のソウル。そこには詐欺師として生きるジュンジェの姿があった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-46_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-love-comedy" start="20250928173000 +0000" stop="20250928222500 +0000">
+		<title>キム課長とソ理事〜Bravo! Your life〜 第1〜4話【日替わり一挙】</title>
+		<desc>群山(グンサン)のナイトクラブを営む暴力団の面倒を見ながらその資金を横領していた経理課長のソンニョン。ある日、ソンニョンは仕えていた暴力団から誤解されてしまい横領が出来なくなってしまう。もっと大きな案件を探し始めたソンニョンは大企業TQグループの経理課長採用広告を見つけて、恥ずかしい経歴とスペックで埋め尽くされた履歴書を提出するが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-143_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="asia-loveromance" start="20250916142500 +0000" stop="20250916154000 +0000">
 		<title>結婚契約 第3話【イ・ソジン主演】</title>
@@ -20481,6 +20620,22 @@ LE SSERAFIM、ジェヒョン(NCT)、ZEROBASEONE、チャンヨル(EXO)、NMIXX�
 		<title>バズハート #5～8(終)</title>
 		<desc>イェジが周りの友達をSNSに載せ始めた理由、そしてソンジェの過去の出来事が明かされる。秘密を抱えているようなスビンにイェジはイライラするが、何を話せばいいのかわからないスビン。そんなスビンのもとにダウンがやってきて...</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-39_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20250924190500 +0000" stop="20250925104000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+	</programme>
+	<programme channel="k-world" start="20250925104000 +0000" stop="20250925160000 +0000">
+		<title>【日韓同時・国内独占配信】BOYS ll PLANET #11(終)（字幕版）</title>
+		<desc>【ABEMAにて日韓同時・国内独占無料放送】
+2023年に放送され、世界最高レベルで盛り上がった視聴者参加型オーディション番組「BOYS PLANET」が、2025年さらに進化をして「BOYS ll PLANET」としてこの夏、復活します!
+
+今回はKとC、2つの拠点からスタート。
+
+KとCの2つのプラネットから少年たちが集まり、デビューを目指し熾烈なバトルを繰り広げるK-POP WORLD-SCALE DEBUT PROJECT!
+スタークリエイターの皆さんの心を熱くする少年は誰だ?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-70_s35000_p13/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250916141500 +0000" stop="20250916151500 +0000">
 		<title>キッズ・ウォー3~ざけんなよ~ 第39~40話</title>
@@ -24335,6 +24490,54 @@ EX風林火山vsKADOKAWAサクラナイツvsKONAMI 麻雀格闘倶楽部vsTEAM R
 		<title>第42期鳳凰戦A1リーグ第11節C卓【ABEMAセレクト】</title>
 		<desc>プロ連盟の頂点を決める1年間のリーグ戦。A1リーグは15人、A2リーグは16人で行われ、A1リーグ上位3選手が鳳凰位決定戦に進出となる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p33/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250917030000 +0000" stop="20250917145000 +0000">
+		<title>第50期最高位戦A1リーグ 第11節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p29/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250917145000 +0000" stop="20250924030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250924030000 +0000" stop="20250924145000 +0000">
+		<title>第50期最高位戦A1リーグ 第11節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p30/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250924145000 +0000" stop="20250925100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250925100000 +0000" stop="20250925170000 +0000">
+		<title>大和証券 Mリーグ 風林火山vsサクラナイツvsABEMASvsBEAST</title>
+		<desc>EX風林火山より2名、KADOKAWAサクラナイツより1名、BEAST Xより2名、新チーム参画により新たに4名、合計7名以上の新Mリーガーが誕生する、目が離せないドラフト会議。次のMリーガーになるのは一体誰だ?!注目のドラフト会議を生中継でお届けします</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p338/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250925170000 +0000" stop="20250926100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250926100000 +0000" stop="20250926170000 +0000">
+		<title>大和証券 Mリーグ JETSvs風林火山vs麻雀格闘倶楽部vsフェニックス</title>
+		<desc>EX風林火山より2名、KADOKAWAサクラナイツより1名、BEAST Xより2名、新チーム参画により新たに4名、合計7名以上の新Mリーガーが誕生する、目が離せないドラフト会議。次のMリーガーになるのは一体誰だ?!注目のドラフト会議を生中継でお届けします</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p339/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250926170000 +0000" stop="20251001030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251001030000 +0000" stop="20251001145000 +0000">
+		<title>第50期最高位戦A1リーグ 第11節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p31/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250916070700 +0000" stop="20250916204500 +0000">
 		<title>【再】伊藤園お〜いお茶杯第66期王位戦七番勝負第2局 藤井聡太王位対永瀬拓矢九段</title>
