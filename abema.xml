@@ -148,6 +148,10 @@
 		<display-name>MOTOR SPORTチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
 	</channel>
+	<channel id="world-sports-1">
+		<display-name>SPORTS LIVE1 チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</channel>
 	<channel id="sumo">
 		<display-name>大相撲チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png" />
@@ -19381,7 +19385,7 @@ LE SSERAFIM、BOYNEXTDOOR、ツウィ(TWICE)、NMIXX、NCT WISH、xikers、KATSE
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p1/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20250928012000 +0000" stop="20250928022500 +0000">
-		<title>ドクターX～外科医・大門未知子～（2013）#1【無料4日間】</title>
+		<title>ドクターX～外科医・大門未知子～（2013）#1【無料2日間】</title>
 		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★北海道・旭川の競馬場。フリーランスの外科医・大門未知子(米倉涼子)が、医師紹介所を営む晶(岸部一徳)と共に一般席で競馬に興じていた頃、馬主席では、高級毛皮に身を包んだマダム(三田佳子)が、年下の美しい男(藤木直人)とシャンパンを飲みながら、優雅にレースを眺めていた。
 
 注目の大一番。未知子が賭けていた馬の進路を、マダムの持ち馬が妨害。その結果、転倒したマダムの馬は骨折、安楽死処分を宣告されてしまう。「一億円の馬を簡単に安楽死などさせられない」と、マダムが嘆く場面に出くわした未知子は、「たとえ手術をしても100%失敗する」との獣医の言葉に闘志をたぎらせ、したこともない馬の手術を「私、失敗しないので」と引き受けるが...!?</desc>
@@ -25004,6 +25008,45 @@ https://abema.tv/video/title/16-92
 豪華な出演者を迎えて、カテゴリー別の見どころや注目ポイントを徹底解剖!
 これを見れば、絶対にあなたもモータースポーツの虜になること間違いなし!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-176_s10_p2/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250925210000 +0000" stop="20250926100000 +0000">
+		<title>S.LEAGUE 25-26 ロングボード第三戦 DAY1</title>
+		<desc>新しく生まれ変わったS.LEAGUEのトップカテゴリ S.ONEの第二戦予備日。
+ショートボード男子36名、ショートボード女子18名の日本トッププロサーファーが静波ウェーブプールに集結!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-32_s10003_p1/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250926100000 +0000" stop="20250926210000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250926210000 +0000" stop="20250927100000 +0000">
+		<title>S.LEAGUE 25-26 ロングボード第三戦 DAY2</title>
+		<desc>新しく生まれ変わったS.LEAGUEのトップカテゴリ S.ONEの第二戦予備日。
+ショートボード男子36名、ショートボード女子18名の日本トッププロサーファーが静波ウェーブプールに集結!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-32_s10003_p2/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250927100000 +0000" stop="20250927210000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250927210000 +0000" stop="20250928100000 +0000">
+		<title>S.LEAGUE 25-26 ロングボード第三戦 DAY3</title>
+		<desc>新しく生まれ変わったS.LEAGUEのトップカテゴリ S.ONEの第二戦予備日。
+ショートボード男子36名、ショートボード女子18名の日本トッププロサーファーが静波ウェーブプールに集結!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-32_s10003_p3/thumb001.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250928100000 +0000" stop="20250928210000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
+	</programme>
+	<programme channel="world-sports-1" start="20250928210000 +0000" stop="20250929100000 +0000">
+		<title>S.LEAGUE 25-26 ロングボード第三戦 予備日</title>
+		<desc>新しく生まれ変わったS.LEAGUEのトップカテゴリ S.ONEの第二戦予備日。
+ショートボード男子36名、ショートボード女子18名の日本トッププロサーファーが静波ウェーブプールに集結!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-32_s10003_p4/thumb001.png" />
 	</programme>
 	<programme channel="sumo" start="20250918064000 +0000" stop="20250918230000 +0000">
 		<title>大相撲LIVE 九月場所（幕内）5日目</title>
