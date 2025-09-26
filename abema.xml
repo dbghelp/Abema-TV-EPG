@@ -136,6 +136,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -1171,7 +1175,8 @@ EPISODE.26
 	</programme>
 	<programme channel="abema-anime" start="20250926120000 +0000" stop="20250926130000 +0000">
 		<title>SHIBUYA ANIME BASE #61</title>
-		<desc>アニメ/ポップカルチャー情報番組のSHIBUYA ANIME BASE（シブアニ）。「ABEMA」の独占情報や、今知りたいアニメ・アニソン・ゲーム・漫画、そして最新鋭かつちょっとマニアックな"1週間のトピックス"をテーマにゲストたちが言いたい放題語りつくします。ほかにも関係者、声優を招いての激レアトークも！？金曜日の夜、アニメ/ポップカルチャーがもっと好きになる1時間を、渋谷よりお届けいたします。</desc>
+		<desc>ゲストは音楽ユニットangela！最新アルバム「Answer」からangelaの“アンサー”を深掘り。
+公開直前！最新アニメ大特集！「劇場版総集編 ガールズバンドクライ」「僕のヒーローアカデミア FINAL SEASON」や、注目秋アニメ3作品も。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-706_s10000_p61/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250926130000 +0000" stop="20250926133000 +0000">
@@ -1427,7 +1432,7 @@ Dシリーズの歴代キャラクター達が集結した大会も、いよい�
 
 ミズガルズ暦2800年、“黒翼の覇王”と人々から恐れられた「ルファス・マファール」は、「七英雄」と呼ばれる勇者たちとの最終決戦による激闘の末、その覇道に終焉を迎える。覇王の封印によって安寧の時代が訪れるかに思われたが･･･、力の均衡が崩れた事で、世界は魔神族の脅威にさらされるのであった。
 それから200年後──、魔神族に対抗すべく人類は新たな勇者の召喚を試みる。しかしそこに現れたのは、長き封印から目覚めた覇王ルファスの姿だった！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p15/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/11-76_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250927140000 +0000" stop="20250927143000 +0000">
 		<title>真･侍伝 YAIBA #24【WEB最速】</title>
@@ -1450,7 +1455,7 @@ Dシリーズの歴代キャラクター達が集結した大会も、いよい�
 対し、自身の力を認めさせるため「怪獣8号」の強大すぎる力と向き合うことになるカフカ。
 しかしその陰では、「怪獣９号」の脅威が迫っていた…。継承される意志と力、新たな識別怪獣
 兵器（ナンバーズ）適合者の誕生、そして防衛隊を襲う史上最大の危機が訪れる――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p55/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-190_s2_p23/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250927150000 +0000" stop="20250927153000 +0000">
 		<title>野生のラスボスが現れた！ #1・見逃し放送</title>
@@ -1458,7 +1463,7 @@ Dシリーズの歴代キャラクター達が集結した大会も、いよい�
 
 ミズガルズ暦2800年、“黒翼の覇王”と人々から恐れられた「ルファス・マファール」は、「七英雄」と呼ばれる勇者たちとの最終決戦による激闘の末、その覇道に終焉を迎える。覇王の封印によって安寧の時代が訪れるかに思われたが･･･、力の均衡が崩れた事で、世界は魔神族の脅威にさらされるのであった。
 それから200年後──、魔神族に対抗すべく人類は新たな勇者の召喚を試みる。しかしそこに現れたのは、長き封印から目覚めた覇王ルファスの姿だった！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p15/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/11-76_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250927153000 +0000" stop="20250927160000 +0000">
 		<title>青春ブタ野郎はサンタクロースの夢を見ない #13・見逃し放送</title>
@@ -1612,9 +1617,14 @@ Dシリーズの歴代キャラクター達が集結した大会も、いよい�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-75_s1_p33/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250928003000 +0000" stop="20250928010000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+		<title>怪獣８号 第２期 #23・見逃し放送</title>
+		<desc>防衛隊長官・四ノ宮功の判断により兵器化を免れるも、身柄を拘束されたままの日比野カフカ。
+異動命令が下った第３部隊の新人たちがそれぞれの任務先へ向かうなか、彼の前に現れたのは、
+第１部隊を率いる防衛隊最強の男・鳴海弦だった。隊員としてのカフカを必要としない鳴海に
+対し、自身の力を認めさせるため「怪獣8号」の強大すぎる力と向き合うことになるカフカ。
+しかしその陰では、「怪獣９号」の脅威が迫っていた…。継承される意志と力、新たな識別怪獣
+兵器（ナンバーズ）適合者の誕生、そして防衛隊を襲う史上最大の危機が訪れる――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-190_s2_p23/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250928010000 +0000" stop="20250928011500 +0000">
 		<title>特装合体ロボ ジョブレイバー #13 【最新話】</title>
@@ -1697,7 +1707,7 @@ Wapperくんは、なかまとともにかいけつできるのか⁉</desc>
 
 ミズガルズ暦2800年、“黒翼の覇王”と人々から恐れられた「ルファス・マファール」は、「七英雄」と呼ばれる勇者たちとの最終決戦による激闘の末、その覇道に終焉を迎える。覇王の封印によって安寧の時代が訪れるかに思われたが･･･、力の均衡が崩れた事で、世界は魔神族の脅威にさらされるのであった。
 それから200年後──、魔神族に対抗すべく人類は新たな勇者の召喚を試みる。しかしそこに現れたのは、長き封印から目覚めた覇王ルファスの姿だった！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p15/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/11-76_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250928133000 +0000" stop="20250928140000 +0000">
 		<title>怪獣８号 第２期 #23・見逃し放送</title>
@@ -1707,7 +1717,7 @@ Wapperくんは、なかまとともにかいけつできるのか⁉</desc>
 対し、自身の力を認めさせるため「怪獣8号」の強大すぎる力と向き合うことになるカフカ。
 しかしその陰では、「怪獣９号」の脅威が迫っていた…。継承される意志と力、新たな識別怪獣
 兵器（ナンバーズ）適合者の誕生、そして防衛隊を襲う史上最大の危機が訪れる――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p55/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-190_s2_p23/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250928140000 +0000" stop="20250928141500 +0000">
 		<title>傷だらけ聖女より報復をこめて #12【最新話】</title>
@@ -1833,10 +1843,15 @@ Wapperくんは、なかまとともにかいけつできるのか⁉</desc>
 		<desc>ゴアによく似た少女の正体は三人に本当は起きてほしいと無意識に願ったゴアが作りだしたものであった。ゴアの存在を思い出したトト、シエル、アネモネは夢まどろみの世界から脱出するため、幼いゴアを連れ、襲いくる影たちを退けながらそれぞれの夢の世界を駆け巡り、大きな扉にたどり着く。一方、現実では人格の消えるタイムリミットである夜明けが近づき、ゴアは最後の仕上げに取り掛かろうとする。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/149-31_s1_p12/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20250928190000 +0000" stop="20250929060000 +0000">
+	<programme channel="abema-anime" start="20250928190000 +0000" stop="20250929003000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	</programme>
+	<programme channel="abema-anime" start="20250929003000 +0000" stop="20250929060000 +0000">
+		<title>盾の勇者の成り上がり Season 4 #1〜11【無料ビデオ2週間】</title>
+		<desc>ラフタリアの暗殺を狙うクテンロウとの交渉に向け、尚文たちは唯一クテンロウへの連絡船が出る亜人の国シルトヴェルトへ旅立つ。だが、シルトヴェルトの民と権力者に熱烈に歓迎され、思わぬ足止めを喰らってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-109_s4_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20250929060000 +0000" stop="20250929120000 +0000">
 		<title>気絶勇者と暗殺姫 #1〜12【無料ビデオ1週間】</title>
@@ -1882,7 +1897,17 @@ Wapperくんは、なかまとともにかいけつできるのか⁉</desc>
 新たな脅威に咲耶たちが立ち向かう！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-39_s3_p38/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20250929183500 +0000" stop="20250930183000 +0000">
+	<programme channel="abema-anime" start="20250929183500 +0000" stop="20250930000000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	</programme>
+	<programme channel="abema-anime" start="20250930000000 +0000" stop="20250930060000 +0000">
+		<title>盾の勇者の成り上がり Season 4 #1〜12【無料ビデオ2週間】</title>
+		<desc>ラフタリアの暗殺を狙うクテンロウとの交渉に向け、尚文たちは唯一クテンロウへの連絡船が出る亜人の国シルトヴェルトへ旅立つ。だが、シルトヴェルトの民と権力者に熱烈に歓迎され、思わぬ足止めを喰らってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-109_s4_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20250930060000 +0000" stop="20250930183000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
@@ -1892,10 +1917,15 @@ Wapperくんは、なかまとともにかいけつできるのか⁉</desc>
 		<desc>突如、謎の男に襲われた一ノ瀬四季。養父の剛志に連れられて逃げる中、出生の秘密を告げられる。実は四季は“鬼”の血を継ぐ存在であり、“桃太郎”の血を継ぐ者たち“桃太郎機関”に狙われているのだと――。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-7_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20251001003000 +0000" stop="20251001120000 +0000">
+	<programme channel="abema-anime" start="20251001003000 +0000" stop="20251001060000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251001060000 +0000" stop="20251001120000 +0000">
+		<title>嘆きの亡霊は引退したい #1〜13【無料ビデオ1週間】</title>
+		<desc>帝都最弱にして、屈指の高レベルハンター、クライ・アンドリヒ。自身がマスターを務めるクラン《始まりの足跡（ファースト・ステップ）》の新規メンバー採用面接の会場に顔を出すクライだが、無責任な発言によって場は大騒動に……。後日、探索者協会から呼び出しを食らうクライは騒動の責任を取るため、比較的楽そうな依頼――とある宝物殿での遭難者救助を引き受ける。だがクライはとことん人任せ。その依頼をティノになすりつけるのだった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-69_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251001120000 +0000" stop="20251001123000 +0000">
 		<title>瑠璃の宝石 #13【最新話】</title>
@@ -2785,6 +2815,60 @@ W杯優勝を夢見る同級生の御影玲王が、その才能を見つけだ�
 		<desc>キラキラしたものが大好きな女子高生・谷川瑠璃は、水晶のペンダントに一目惚れする。「私だって採れるはず！」と早速山に向かったルリは、偶然出会った鉱物学を専攻する大学院生・荒砥凪と一緒に鉱物採集をすることに。自然に圧倒され、すっかり鉱物採集にハマったルリは、ナギと共にガーネットを探しに川原へ向かう。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p1/thumb001.png" />
 	</programme>
+	<programme channel="anime-special-2" start="20250929090000 +0000" stop="20250929143000 +0000">
+		<title>水属性の魔法使い #1〜11【無料ビデオ1週間】</title>
+		<desc>死んだはずの三原涼が告げられたのは、魔法の存在する異世界への転生だった。与えられた「水属性」の魔法と共に快適なスローライフを送ろうとする涼だったが、外は手強いモンスターだらけ。この世界を生き抜くため、魔法の修行に明け暮れる涼だが、、？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-267_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20250929143000 +0000" stop="20251001090000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20251001090000 +0000" stop="20251001150000 +0000">
+		<title>異世界黙示録マイノグーラ #1〜12【無料ビデオ1週間】</title>
+		<desc>伊良拓斗は気が付くと、ファンタジー世界のような森の中にいた。そこで拓斗は自分がプレイしていたゲームのキャラクター、「汚泥のアトゥ」と出会う。
+「――僕たちの国を作ろう。僕と、君だけの王国を」
+まずは引き籠もって、密かに情報収集を行いたい拓斗。しかし、この世界の住人であるダークエルフの一団と出会ってしまい……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/169-148_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20251001150000 +0000" stop="20251001153000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20251001153000 +0000" stop="20251001220000 +0000">
+		<title>異世界黙示録マイノグーラ #1〜13【無料ビデオ1週間】</title>
+		<desc>ファンタジー世界を舞台にした国家運営シミュレーションゲーム、『Eternal Nations』。
+ユーザーランキング一位を獲得した伝説のプレイヤー・伊良拓斗は、入院中に意識を失う。
+気が付くと拓斗は、まるでゲームの中のような世界、イドラギィア大陸に降り立っていた――
+
+そこに現れたのは、『Eternal Nations』で拓斗が最も愛用していたユニット、《汚泥のアトゥ》。
+
+アトゥから「すべてを覚えている」、と告げられた拓斗はある決心をする。
+「――僕たちの国を作ろう。僕と、君だけの王国を」
+アトゥと共に、邪悪国家である《マイノグーラ》を建国することを決めた拓斗。
+
+個性豊かなダークエルフたちを国民とし、この世界ではチートとも言えるゲームシステムを利用しながら、
+英雄・アトゥと共に国家運営を進めていく――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p85/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20251001220000 +0000" stop="20251002043000 +0000">
+		<title>異世界黙示録マイノグーラ #1〜13【無料ビデオ1週間】</title>
+		<desc>ファンタジー世界を舞台にした国家運営シミュレーションゲーム、『Eternal Nations』。
+ユーザーランキング一位を獲得した伝説のプレイヤー・伊良拓斗は、入院中に意識を失う。
+気が付くと拓斗は、まるでゲームの中のような世界、イドラギィア大陸に降り立っていた――
+
+そこに現れたのは、『Eternal Nations』で拓斗が最も愛用していたユニット、《汚泥のアトゥ》。
+
+アトゥから「すべてを覚えている」、と告げられた拓斗はある決心をする。
+「――僕たちの国を作ろう。僕と、君だけの王国を」
+アトゥと共に、邪悪国家である《マイノグーラ》を建国することを決めた拓斗。
+
+個性豊かなダークエルフたちを国民とし、この世界ではチートとも言えるゲームシステムを利用しながら、
+英雄・アトゥと共に国家運営を進めていく――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p85/thumb001.png" />
+	</programme>
 	<programme channel="heroaca" start="20250918140000 +0000" stop="20250918160000 +0000">
 		<title>僕のヒーローアカデミア 第7期 Memories #1〜4【無料ビデオ1週間】</title>
 		<desc>“無個性”の少年・緑谷出久が果たした、オールマイトとの運命的な出会い。“個性”ワン・フォー・オールの継承、それは巨悪オール・フォー・ワンと、そして死柄木弔と対峙することを意味していた。決戦を前に出久の胸に去来するものとは―。</desc>
@@ -3026,6 +3110,122 @@ W杯優勝を夢見る同級生の御影玲王が、その才能を見つけだ�
 		<desc>総人口の約8割が何らかの超常能力“個性”を持ち、政府認可の下、その“個性”によって社会を守る“ヒーロー”という存在が確立された世界。平凡な大学生、灰廻航一はかつて諦めたヒーローへの憧れを捨てきれず、「親切マン」を名乗ったヒーローまがいの人助けを密かな楽しみとしていた。
 ある日、コーイチはゴロツキに絡まれ危機一髪のピンチに陥る。その時、コーイチの前に現れたのはヒーローでも警察でもなく…？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-253_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250928190000 +0000" stop="20250929003000 +0000">
+		<title>ヴィジランテ ヒロアカ #1〜13【無料ビデオ1週間】</title>
+		<desc>総人口の約8割が何らかの超常能力“個性”を持ち、政府認可の下、その“個性”によって社会を守る“ヒーロー”という存在が確立された世界。平凡な大学生、灰廻航一はかつて諦めたヒーローへの憧れを捨てきれず、「親切マン」を名乗ったヒーローまがいの人助けを密かな楽しみとしていた。
+ある日、コーイチはゴロツキに絡まれ危機一髪のピンチに陥る。その時、コーイチの前に現れたのはヒーローでも警察でもなく…？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-253_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929003000 +0000" stop="20250929023000 +0000">
+		<title>僕のヒーローアカデミア 第7期 Memories #1〜4【無料10/6まで】</title>
+		<desc>“無個性”の少年・緑谷出久が果たした、オールマイトとの運命的な出会い。“個性”ワン・フォー・オールの継承、それは巨悪オール・フォー・ワンと、そして死柄木弔と対峙することを意味していた。決戦を前に出久の胸に去来するものとは―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s7_p11/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929023000 +0000" stop="20250929043000 +0000">
+		<title>僕のヒーローアカデミア 第7期 Memories #1〜4【無料10/6まで】</title>
+		<desc>“無個性”の少年・緑谷出久が果たした、オールマイトとの運命的な出会い。“個性”ワン・フォー・オールの継承、それは巨悪オール・フォー・ワンと、そして死柄木弔と対峙することを意味していた。決戦を前に出久の胸に去来するものとは―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s7_p11/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929043000 +0000" stop="20250929063000 +0000">
+		<title>僕のヒーローアカデミア 第7期 Memories #1〜4【無料10/6まで】</title>
+		<desc>“無個性”の少年・緑谷出久が果たした、オールマイトとの運命的な出会い。“個性”ワン・フォー・オールの継承、それは巨悪オール・フォー・ワンと、そして死柄木弔と対峙することを意味していた。決戦を前に出久の胸に去来するものとは―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s7_p11/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929063000 +0000" stop="20250929130000 +0000">
+		<title>僕のヒーローアカデミア 第1期 #1〜13【無料ビデオ10/6まで】</title>
+		<desc>総人口の約8割が何らかの超常能力”個性”を持ち、その”個性”によって社会を守る”ヒーロー”」という存在が確立された世界。緑谷出久はヒーローになることを夢見て、多くのヒーローを輩出する名門・雄英高校ヒーロー科入学を目指していた。しかし、彼は何の”個性”を持たない”無個性”。現実の厳しさ、不平等さを痛感する日々を過ごしていた。そんなある日、出久は強盗をして逃亡中だった敵（ヴィラン）に襲われてしまう。そこに現れたのは、人気・実力共にNo.1のヒーローだった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929130000 +0000" stop="20250929140000 +0000">
+		<title>僕のヒーローアカデミア OVA #1〜2【無料ビデオ10/6まで】</title>
+		<desc>敵＜ヴィラン＞連合によるUSJ襲撃から僅か数日…。雄英高校ヒーロー科１年A組の生徒達は救助訓練を行うため再びUSJを訪れていた。生徒たちそれぞれが自分の“個性”と知恵を駆使して訓練に臨む中、突如潜んでいた、筋骨隆々な敵＜ヴィラン＞の残党が出現！すさまじいパワーを持つ敵＜ヴィラン＞に対し、デクたち１年A組の生徒たちは、力を合わせて立ち向かう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s2_p1000/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929140000 +0000" stop="20250929150000 +0000">
+		<title>僕のヒーローアカデミア OVA #3〜4【無料ビデオ10/6まで】</title>
+		<desc>プロヒーロー仮免試験を目前に控える雄英高校ヒーロー科1年A組は、授業で2チームに分かれての災害救助訓練に臨むことに。地下の大型ショッピングモールで火災が発生し、取り残された要救助者に見立てた人形を保護するというものだ。デクたちAチームの10人は手分けして要救助者を探し始めるが、施設の崩落事故が発生し、地下に閉じ込められてしまう！更なる崩落の危険もあり、電気も通らず、酸素も薄くなり、さらに飯田が負傷し、一刻の猶予もない…。デクたちは力と“個性”を合わせ、離れ離れになったメンバーとの合流と地下からの脱出を目指す。そんな中、爆豪は訓練を続行すると言い出し…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s4_p1000/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929150000 +0000" stop="20250929160000 +0000">
+		<title>僕のヒーローアカデミア OVA #5、#7【無料ビデオ10/6まで】</title>
+		<desc>野球好きなプロヒーローたちが設立した草野球リーグ「HLB＜ヒーローリーグベースボール＞」。そこで優勝を争う2チーム、ギャングオルカ率いるオルカーズと、シシド率いるライオネルズによる最終決戦の日がいよいよやって来た。ギャングオルカとシシドは覇権を勝ち取るため、他事務所のプロヒーローやインターン中の雄英高校生徒たちを助っ人に呼び寄せる。“個性”全開、HLBならではのルールで繰り広げられる試合の行方は…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s5_p1000/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929160000 +0000" stop="20250929163000 +0000">
+		<title>僕のヒーローアカデミア OVA #6【無料ビデオ10/6まで】</title>
+		<desc>冬休み。街中の至る場所への落書き事件が連続発生し、デク、爆豪、轟がインターン中のエンデヴァー事務所に応援要請が入る。犯人は、美術家を自称するミスター・スマイリーという男で、彼の“個性”により、警察も逮捕できず手を焼いていたのだ。「そんな軽犯罪は警察で処理しろ！」と一蹴するエンデヴァーだったが、自宅の塀に落書きされたことで態度を一変、検挙に乗り出すが、ミスター・スマイリーは想像以上に手強い相手だった―！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s5_p1001/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929163000 +0000" stop="20250929173000 +0000">
+		<title>僕のヒーローアカデミア OVA #1〜2【無料ビデオ10/6まで】</title>
+		<desc>敵＜ヴィラン＞連合によるUSJ襲撃から僅か数日…。雄英高校ヒーロー科１年A組の生徒達は救助訓練を行うため再びUSJを訪れていた。生徒たちそれぞれが自分の“個性”と知恵を駆使して訓練に臨む中、突如潜んでいた、筋骨隆々な敵＜ヴィラン＞の残党が出現！すさまじいパワーを持つ敵＜ヴィラン＞に対し、デクたち１年A組の生徒たちは、力を合わせて立ち向かう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s2_p1000/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929173000 +0000" stop="20250929183000 +0000">
+		<title>僕のヒーローアカデミア OVA #3〜4【無料ビデオ10/6まで】</title>
+		<desc>プロヒーロー仮免試験を目前に控える雄英高校ヒーロー科1年A組は、授業で2チームに分かれての災害救助訓練に臨むことに。地下の大型ショッピングモールで火災が発生し、取り残された要救助者に見立てた人形を保護するというものだ。デクたちAチームの10人は手分けして要救助者を探し始めるが、施設の崩落事故が発生し、地下に閉じ込められてしまう！更なる崩落の危険もあり、電気も通らず、酸素も薄くなり、さらに飯田が負傷し、一刻の猶予もない…。デクたちは力と“個性”を合わせ、離れ離れになったメンバーとの合流と地下からの脱出を目指す。そんな中、爆豪は訓練を続行すると言い出し…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s4_p1000/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929183000 +0000" stop="20250929193000 +0000">
+		<title>僕のヒーローアカデミア OVA #5、#7【無料ビデオ10/6まで】</title>
+		<desc>野球好きなプロヒーローたちが設立した草野球リーグ「HLB＜ヒーローリーグベースボール＞」。そこで優勝を争う2チーム、ギャングオルカ率いるオルカーズと、シシド率いるライオネルズによる最終決戦の日がいよいよやって来た。ギャングオルカとシシドは覇権を勝ち取るため、他事務所のプロヒーローやインターン中の雄英高校生徒たちを助っ人に呼び寄せる。“個性”全開、HLBならではのルールで繰り広げられる試合の行方は…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s5_p1000/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929193000 +0000" stop="20250929200000 +0000">
+		<title>僕のヒーローアカデミア OVA #6【無料ビデオ10/6まで】</title>
+		<desc>冬休み。街中の至る場所への落書き事件が連続発生し、デク、爆豪、轟がインターン中のエンデヴァー事務所に応援要請が入る。犯人は、美術家を自称するミスター・スマイリーという男で、彼の“個性”により、警察も逮捕できず手を焼いていたのだ。「そんな軽犯罪は警察で処理しろ！」と一蹴するエンデヴァーだったが、自宅の塀に落書きされたことで態度を一変、検挙に乗り出すが、ミスター・スマイリーは想像以上に手強い相手だった―！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s5_p1001/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929200000 +0000" stop="20250929220000 +0000">
+		<title>僕のヒーローアカデミア 第7期 Memories #1〜4【無料10/6まで】</title>
+		<desc>“無個性”の少年・緑谷出久が果たした、オールマイトとの運命的な出会い。“個性”ワン・フォー・オールの継承、それは巨悪オール・フォー・ワンと、そして死柄木弔と対峙することを意味していた。決戦を前に出久の胸に去来するものとは―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s7_p11/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250929220000 +0000" stop="20250930043000 +0000">
+		<title>僕のヒーローアカデミア 第1期 #1〜13【無料ビデオ10/6まで】</title>
+		<desc>総人口の約8割が何らかの超常能力”個性”を持ち、その”個性”によって社会を守る”ヒーロー”」という存在が確立された世界。緑谷出久はヒーローになることを夢見て、多くのヒーローを輩出する名門・雄英高校ヒーロー科入学を目指していた。しかし、彼は何の”個性”を持たない”無個性”。現実の厳しさ、不平等さを痛感する日々を過ごしていた。そんなある日、出久は強盗をして逃亡中だった敵（ヴィラン）に襲われてしまう。そこに現れたのは、人気・実力共にNo.1のヒーローだった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250930043000 +0000" stop="20250930110000 +0000">
+		<title>僕のヒーローアカデミア 第1期 #1〜13【無料ビデオ10/6まで】</title>
+		<desc>総人口の約8割が何らかの超常能力”個性”を持ち、その”個性”によって社会を守る”ヒーロー”」という存在が確立された世界。緑谷出久はヒーローになることを夢見て、多くのヒーローを輩出する名門・雄英高校ヒーロー科入学を目指していた。しかし、彼は何の”個性”を持たない”無個性”。現実の厳しさ、不平等さを痛感する日々を過ごしていた。そんなある日、出久は強盗をして逃亡中だった敵（ヴィラン）に襲われてしまう。そこに現れたのは、人気・実力共にNo.1のヒーローだった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250930110000 +0000" stop="20250930233000 +0000">
+		<title>僕のヒーローアカデミア 第2期 #14〜38【無料ビデオ10/6まで】</title>
+		<desc>雄英高校の敵＜ヴィラン＞連合襲撃事件から2日後。相澤から「雄英高校体育祭」の開催が告げられ、ヒーロー科1-A生徒たちの意気は上がる。その中でもお茶子は目の色が変わり…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s2_p14/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20250930233000 +0000" stop="20251001120000 +0000">
+		<title>僕のヒーローアカデミア 第3期 #39〜63【無料ビデオ10/6まで】</title>
+		<desc>雄英高校は夏休みに突入！家で自主トレーニングに励んでいた出久は、峰田と上鳴に、学校のプールで林間合宿に向けた体力強化訓練をしようと誘われる。その訓練は、2人が女子たちの水着を見るために仕組まれたものだった―！しかし、そうとも知らない出久が他のＡ組メンバーに声をかけ、峰田と上鳴の悪巧みはあっさり崩れ去る。訓練に励む中、出久たちは、怒涛のように過ぎ去った１学期を思い返すのだった。その頃、敵＜ヴィラン＞連合のアジトでは、死柄木が次の「ゲーム」を始めようとしていた―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s3_p39/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20251001120000 +0000" stop="20251002003000 +0000">
+		<title>僕のヒーローアカデミア 第4期 #64〜88【無料ビデオ10/6まで】</title>
+		<desc>プロヒーローの仮免を取得し、次なるステージに向けて今日も授業に励む雄英高校ヒーロー科1年A組。そんなデクたちが住む寮に、取材で特田種男という新聞記者がやってきた。1-A生徒の寮生活を取材する、というのは表向きな理由で、実は特田は、オールマイトがオール・フォー・ワンを倒した直後の「次は、君だ」という言葉に着目し、彼の後継者が雄英高校にいるのでは？という疑念から特ダネを狙って来たのだった。生徒たちに次々とカメラを向ける特田は、オールマイトと話すデクの姿から、デクが後継者なのでは…と考え―！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s4_p64/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20251002003000 +0000" stop="20251002123000 +0000">
+		<title>僕のヒーローアカデミア 第5期 #89〜113【無料ビデオ10/6まで】</title>
+		<desc>No.1ヒーローのエンデヴァーとNo.2のホークスがタッグを組み、脳無・ハイエンドと繰り広げた激戦を熱く語る雄英高校ヒーロー科１年Ａ組の面々。そこに相澤がやってきてＨＲが始まろうとしたその瞬間、教室内に警報が鳴り響く！雄英高校敷地内に敵＜ヴィラン＞が侵入したとの知らせとともに出動要請が出され、グラウンドβに急行すると、そこには黒い煙が立ちのぼっていた。状況把握に努める偵察班からビルの爆発で火災が発生したとの報が入り、消火班＆救助班が出動する。それぞれが“個性”を駆使して事件を解決へと導いている中、姿を現した敵＜ヴィラン＞とは――!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s5_p89/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20251002123000 +0000" stop="20251003003000 +0000">
+		<title>僕のヒーローアカデミア 第6期 #114〜138【無料ビデオ10/6まで】</title>
+		<desc>ホークスの内偵により、死柄木率いる敵&lt;ヴィラン&gt;勢力“超常解放戦線線”の決起の情報を得たプロヒーローと警察は、敵&lt;ヴィラン&gt;一斉確保のために集結、最大規模の作戦に臨む。そこには、デクたち雄英高校ヒーロー科の生徒たちの姿もあった。そしていよいよヒーローたちが“超常解放戦線”のアジトである群訝山荘と、ドクターこと殻木球大のいる蛇腔病院に突入！エンデヴァーたちは早速ドクターを補足するが、そこに大量の脳無が出現！一気に戦いへとなだれ込んでいく。いよいよ、ヒーローと敵&lt;ヴィラン&gt;の全面戦争へ―！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s6_p114/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20251003003000 +0000" stop="20251003110000 +0000">
+		<title>僕のヒーローアカデミア 第7期 #139〜159【無料ビデオ10/6まで】</title>
+		<desc>デクが雄英に戻り、オール・フォー・ワン(AFO)、死柄木弔たちとの決戦に向けて決意を新たにする雄英1年A組とヒーローたち。そんな中、アメリカの誇るNo.1ヒーロー、スターアンドストライプが、自身が“師(マスター)”と呼ぶオールマイトの声を受けて、アメリカ政府に制止される間もなく相棒の空軍パイロットたちと共に独断で日本に向かう。そこに立ちふさがったのは、なんと死柄木弔＝AFO。狙いは、スターの“個性”を奪うこと。その“個性”新秩序(ニューオーダー)で、スターは死柄木に立ち向かう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s7_p139/thumb001.png" />
+	</programme>
+	<programme channel="heroaca" start="20251003110000 +0000" stop="20251003213000 +0000">
+		<title>僕のヒーローアカデミア 第7期 #139〜159【無料ビデオ10/6まで】</title>
+		<desc>デクが雄英に戻り、オール・フォー・ワン(AFO)、死柄木弔たちとの決戦に向けて決意を新たにする雄英1年A組とヒーローたち。そんな中、アメリカの誇るNo.1ヒーロー、スターアンドストライプが、自身が“師(マスター)”と呼ぶオールマイトの声を受けて、アメリカ政府に制止される間もなく相棒の空軍パイロットたちと共に独断で日本に向かう。そこに立ちふさがったのは、なんと死柄木弔＝AFO。狙いは、スターの“個性”を奪うこと。その“個性”新秩序(ニューオーダー)で、スターは死柄木に立ち向かう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s7_p139/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime" start="20250918110000 +0000" stop="20250918170000 +0000">
 		<title>新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。 #1〜12</title>
@@ -5506,6 +5706,76 @@ TVアニメ「おそ松さん」10周年突入！
 		<title>ポケットモンスター アドバンスジェネレーション #39〜54【無料1週間】</title>
 		<desc>キンセツシティへ向かう途中、サトシ達はある街にたどり着いた。一行は“ささやきポケモン”ゴニョニョを連れたアキナと出会い、これから開催されるからくり屋敷大会へ一緒に参加することに。大会は、からくり大王の作った仕掛けを切り抜けて行くもので、優勝者はポロック一年分がもらえるという！！一行は優勝を目指しゴールへと向かうが、迷路や丸太渡り・落とし穴といった様々な仕掛けや、あのマイクをもったプリンが行く手を阻む！！はたして大会の優勝者は誰になるのか！？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p39/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20250929020000 +0000" stop="20250929100000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #39〜54【無料1週間】</title>
+		<desc>キンセツシティへ向かう途中、サトシ達はある街にたどり着いた。一行は“ささやきポケモン”ゴニョニョを連れたアキナと出会い、これから開催されるからくり屋敷大会へ一緒に参加することに。大会は、からくり大王の作った仕掛けを切り抜けて行くもので、優勝者はポロック一年分がもらえるという！！一行は優勝を目指しゴールへと向かうが、迷路や丸太渡り・落とし穴といった様々な仕掛けや、あのマイクをもったプリンが行く手を阻む！！はたして大会の優勝者は誰になるのか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p39/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20250929100000 +0000" stop="20250929180000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #39〜54【無料1週間】</title>
+		<desc>キンセツシティへ向かう途中、サトシ達はある街にたどり着いた。一行は“ささやきポケモン”ゴニョニョを連れたアキナと出会い、これから開催されるからくり屋敷大会へ一緒に参加することに。大会は、からくり大王の作った仕掛けを切り抜けて行くもので、優勝者はポロック一年分がもらえるという！！一行は優勝を目指しゴールへと向かうが、迷路や丸太渡り・落とし穴といった様々な仕掛けや、あのマイクをもったプリンが行く手を阻む！！はたして大会の優勝者は誰になるのか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p39/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20250929180000 +0000" stop="20250930020000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #55〜70【無料1週間】</title>
+		<desc>ようやく、目的地のフエンタウンに到着したサトシ達は、さっそく、フエンジムを訪れた。しかし、ジムリーダーのアスナと共にバトルフィールドへ向うと、フィールドは穴だらけでボロボロ、審判もいないと言う酷い状況になっていた。アスナに話を聞いてみると、３日前まではアスナの祖父のムラ爺がフエンジムを仕切っていたのだが、突然アスナにジムを任せ、旅に出てしまったため、残されたアスナはジムリーダーとして自分のポケモンを強くする事だけに夢中になっていたのだと言う。その頃、旅に出たはずのムラ爺は、アスナの事が心配でフエンタウンに戻って来ていた。ほんの数日で旅から戻って来てしまい、みんなに合わす顔がないムラ爺は、変装して影からアスナを見守る事になるのだが・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p55/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20250930020000 +0000" stop="20250930100000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #55〜70【無料1週間】</title>
+		<desc>ようやく、目的地のフエンタウンに到着したサトシ達は、さっそく、フエンジムを訪れた。しかし、ジムリーダーのアスナと共にバトルフィールドへ向うと、フィールドは穴だらけでボロボロ、審判もいないと言う酷い状況になっていた。アスナに話を聞いてみると、３日前まではアスナの祖父のムラ爺がフエンジムを仕切っていたのだが、突然アスナにジムを任せ、旅に出てしまったため、残されたアスナはジムリーダーとして自分のポケモンを強くする事だけに夢中になっていたのだと言う。その頃、旅に出たはずのムラ爺は、アスナの事が心配でフエンタウンに戻って来ていた。ほんの数日で旅から戻って来てしまい、みんなに合わす顔がないムラ爺は、変装して影からアスナを見守る事になるのだが・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p55/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20250930100000 +0000" stop="20250930180000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #55〜70【無料1週間】</title>
+		<desc>ようやく、目的地のフエンタウンに到着したサトシ達は、さっそく、フエンジムを訪れた。しかし、ジムリーダーのアスナと共にバトルフィールドへ向うと、フィールドは穴だらけでボロボロ、審判もいないと言う酷い状況になっていた。アスナに話を聞いてみると、３日前まではアスナの祖父のムラ爺がフエンジムを仕切っていたのだが、突然アスナにジムを任せ、旅に出てしまったため、残されたアスナはジムリーダーとして自分のポケモンを強くする事だけに夢中になっていたのだと言う。その頃、旅に出たはずのムラ爺は、アスナの事が心配でフエンタウンに戻って来ていた。ほんの数日で旅から戻って来てしまい、みんなに合わす顔がないムラ爺は、変装して影からアスナを見守る事になるのだが・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p55/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20250930180000 +0000" stop="20251001020000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #71〜86【無料1週間】</title>
+		<desc>トウカジムで五つ目のバッジをゲットしたサトシ一行は、次の目的地ヒワマキシティを目指す前に、オダマキ研究所に寄ることにしたところ、ばったりオダマキ博士に遭遇。聞けばこれからオーキド博士を迎えに行くという。サトシはオダマキに同行し、ハルカ、マサトは先に研究所で待つはずだったが、偶然にもオーキド博士と合流。オーキド博士にこの地方では珍しいトレーナー用のポケモンを見せてもらったハルカ達だったが、不意をつかれたスキにロケット団たちに奪われてしまう！？飛び去ったポポッコロボットを追って、オーキド博士達はロケット団の後を追うのだが・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p71/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20251001020000 +0000" stop="20251001100000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #71〜86【無料1週間】</title>
+		<desc>トウカジムで五つ目のバッジをゲットしたサトシ一行は、次の目的地ヒワマキシティを目指す前に、オダマキ研究所に寄ることにしたところ、ばったりオダマキ博士に遭遇。聞けばこれからオーキド博士を迎えに行くという。サトシはオダマキに同行し、ハルカ、マサトは先に研究所で待つはずだったが、偶然にもオーキド博士と合流。オーキド博士にこの地方では珍しいトレーナー用のポケモンを見せてもらったハルカ達だったが、不意をつかれたスキにロケット団たちに奪われてしまう！？飛び去ったポポッコロボットを追って、オーキド博士達はロケット団の後を追うのだが・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p71/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20251001100000 +0000" stop="20251001180000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #71〜86【無料1週間】</title>
+		<desc>トウカジムで五つ目のバッジをゲットしたサトシ一行は、次の目的地ヒワマキシティを目指す前に、オダマキ研究所に寄ることにしたところ、ばったりオダマキ博士に遭遇。聞けばこれからオーキド博士を迎えに行くという。サトシはオダマキに同行し、ハルカ、マサトは先に研究所で待つはずだったが、偶然にもオーキド博士と合流。オーキド博士にこの地方では珍しいトレーナー用のポケモンを見せてもらったハルカ達だったが、不意をつかれたスキにロケット団たちに奪われてしまう！？飛び去ったポポッコロボットを追って、オーキド博士達はロケット団の後を追うのだが・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p71/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20251001180000 +0000" stop="20251002020000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #87〜102【無料1週間】</title>
+		<desc>ホウエンリーグ出場を目指すサトシたちは次の目的地ミナモシティへの道中、四方を山に囲まれたバレータウンにたどり着いた。旅の疲れを癒そうとポケモンセンターに立ち寄るが、何やら様子のおかしいジョーイさんに門前払いされてしまう。仕方なく野宿することになったサトシ達は、怪しげな二人組に襲われる！彼ら、ポケモン不思議クラブのケンとメリーはこの町の近くに落ちた隕石と“宇宙からきたポケモン”なるものを探しているらしいのだが・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p87/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20251002020000 +0000" stop="20251002100000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #87〜102【無料1週間】</title>
+		<desc>ホウエンリーグ出場を目指すサトシたちは次の目的地ミナモシティへの道中、四方を山に囲まれたバレータウンにたどり着いた。旅の疲れを癒そうとポケモンセンターに立ち寄るが、何やら様子のおかしいジョーイさんに門前払いされてしまう。仕方なく野宿することになったサトシ達は、怪しげな二人組に襲われる！彼ら、ポケモン不思議クラブのケンとメリーはこの町の近くに落ちた隕石と“宇宙からきたポケモン”なるものを探しているらしいのだが・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p87/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20251002100000 +0000" stop="20251002180000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #87〜102【無料1週間】</title>
+		<desc>ホウエンリーグ出場を目指すサトシたちは次の目的地ミナモシティへの道中、四方を山に囲まれたバレータウンにたどり着いた。旅の疲れを癒そうとポケモンセンターに立ち寄るが、何やら様子のおかしいジョーイさんに門前払いされてしまう。仕方なく野宿することになったサトシ達は、怪しげな二人組に襲われる！彼ら、ポケモン不思議クラブのケンとメリーはこの町の近くに落ちた隕石と“宇宙からきたポケモン”なるものを探しているらしいのだが・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p87/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20251002180000 +0000" stop="20251003020000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #103〜118【無料1週間】</title>
+		<desc>最後のジムバッジゲットを目指すサトシたち一行は、ポケモンコンテストが開かれるイザベ島のプリカシティに到着した。４つ目のリボンに挑戦するハルカとフシギダネは、調子も上々で、一次審査を楽々クリア。一方、会場には全身緑色の衣装に身を包んだ挑戦者ハーリーが、“あくタイプ”のノクタスと共に勝ち進んでいた。何故か自分にいじわるなハーリーに戸惑うハルカ！果たしてハルカはこの強敵に勝ってリボンをゲットできるのか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p103/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20251003020000 +0000" stop="20251003100000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #103〜118【無料1週間】</title>
+		<desc>最後のジムバッジゲットを目指すサトシたち一行は、ポケモンコンテストが開かれるイザベ島のプリカシティに到着した。４つ目のリボンに挑戦するハルカとフシギダネは、調子も上々で、一次審査を楽々クリア。一方、会場には全身緑色の衣装に身を包んだ挑戦者ハーリーが、“あくタイプ”のノクタスと共に勝ち進んでいた。何故か自分にいじわるなハーリーに戸惑うハルカ！果たしてハルカはこの強敵に勝ってリボンをゲットできるのか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p103/thumb001.png" />
+	</programme>
+	<programme channel="pokemon-1" start="20251003100000 +0000" stop="20251003180000 +0000">
+		<title>ポケットモンスター アドバンスジェネレーション #103〜118【無料1週間】</title>
+		<desc>最後のジムバッジゲットを目指すサトシたち一行は、ポケモンコンテストが開かれるイザベ島のプリカシティに到着した。４つ目のリボンに挑戦するハルカとフシギダネは、調子も上々で、一次審査を楽々クリア。一方、会場には全身緑色の衣装に身を包んだ挑戦者ハーリーが、“あくタイプ”のノクタスと共に勝ち進んでいた。何故か自分にいじわるなハーリーに戸惑うハルカ！果たしてハルカはこの強敵に勝ってリボンをゲットできるのか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-25_s1_p103/thumb001.png" />
 	</programme>
 	<programme channel="pokemon-2" start="20250918100000 +0000" stop="20250918180000 +0000">
 		<title>ポケットモンスター ベストウイッシュ #124〜139【無料ビデオ1週間】</title>
@@ -9689,8 +9959,12 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20250926140000 +0000" stop="20250926143000 +0000">
-		<title>#52：【後編】パチンコ・パチスロ知識王</title>
-		<desc>知識王に輝くのはどの番組なのか！？
+		<title>#52：【後編】パチンコ・パチスロ知識王！優勝はどのチームに！？</title>
+		<desc>第３回パチンコ・パチスロ知識王！後半戦
+くずパチ・スクープTV・パーラーカチ盛りの3番組が番組のプライドを賭けクイズで激突！
+
+決勝戦パチンコPK対決での奇跡の連続に全員大興奮！
+果たして優勝はどこのチームなのか！？
 
 
 
@@ -9760,10 +10034,24 @@ I Don't Like Mondays.『With you』
 最後に手にするのは…愛？それともお金？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s2_p10/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250926190000 +0000" stop="20250926220000 +0000">
+	<programme channel="abema-special" start="20250926190000 +0000" stop="20250926210000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20250926210000 +0000" stop="20250926220000 +0000">
+		<title>＃4:島田珠代 9年間離れていた娘との絆＆SNSで話題の夫婦に密着</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
+
+“芸人”の前に普通の人間－
+島田珠代が波瀾万丈な人生を激白
+夫のがんをきっかけに一人娘と離れて暮らした９年間
+そして思春期を迎えた娘と育んだ「母娘」の絆とは―
+
+さらに
+今、SNSで話題の夫婦「親友婚」「奥さんがでっけぇ」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p104/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250926220000 +0000" stop="20250927022100 +0000">
 		<title>LOVE CATCHER Japan #1~4 前半一挙</title>
@@ -9930,8 +10218,8 @@ I Don't Like Mondays.『With you』
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
-	<programme channel="abema-special" start="20250927130000 +0000" stop="20250927140000 +0000">
-		<title>#5：凶暴化した生物が！？東京地下の噂&amp;謎の催眠術セミナー&amp;香港の悪の巣窟</title>
+	<programme channel="abema-special" start="20250927130000 +0000" stop="20250927134100 +0000">
+		<title>#5：凶暴化した生物が！？東京地下の噂&amp;謎の催眠術セミナー&amp;香港の悪の巣窟 他</title>
 		<desc>芸人たちが、強烈な【実体験】を
 己の話術で【エピソードトーク】に昇華させる…芸人×トークの新境地!!
 
@@ -9940,12 +10228,16 @@ I Don't Like Mondays.『With you』
 友田オレ「香港の悪の巣窟“チョンキンマンション“に潜入」
 お見送り芸人しんいち「催眠術セミナーに潜入」
 ネプチューン 堀内健「巨大化して大暴れ」</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p178/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s1_p5/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250927140000 +0000" stop="20250927150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	<programme channel="abema-special" start="20250927134100 +0000" stop="20250927150000 +0000">
+		<title>ビンカン選手権　～テレビ局コンプライアンス編～</title>
+		<desc>番組名物企画ビンカン選手権がABEMAで復活!!
+今回はテレビ局内に仕掛けられたコンプラNGを見つけ出す。
+挑むのはかつて世間を賑わせ、コンプラにビンカンになっているメンバーたち！
+スタッフルーム、制作会議、ニュース番組内に潜むNGポイントとは？
+さらに、過去の貴重映像を見ながら、今の時代にOKなのか答えるクイズも！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-1339_s1284_p5101/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250927150000 +0000" stop="20250927170000 +0000">
 		<title>生きてるだけで、愛。</title>
@@ -9972,20 +10264,121 @@ I Don't Like Mondays.『With you』
 出そうと、自立させるため無理矢理カフェバーのアルバイトを決めてしまう。はじめは嫌がっていたものの、自分を受け入れてくれる店の人たちへ寧子は次第に心を開くようになる。しかし、些細な事がきっかけで、店を飛び出してしまう。ちょうど同じ頃、津奈木は入稿間際の原稿を巡って上司に反発し、ある行動に出る―。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/170-19_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250927210000 +0000" stop="20250928035700 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	<programme channel="abema-special" start="20250927210000 +0000" stop="20250927220000 +0000">
+		<title>#5 嫌いになるのは好きだから</title>
+		<desc>▼見どころ
+男女がひとつ屋根の下で暮らす共同生活がスタート。
+次第に“見たくなかった一面”が露わになり…！？
+さらに、男1人×ガール＆レディ3人の1泊2日トライアングル旅行へ突入！
+ハーレム状態の旅で、結婚への本音が飛び出す展開に――。
+
+▼概要
+結婚は"憧れ"？ それとも"現実"？
+20代"ガール"と30代"レディ"が
+運命の相手を求め、選択を繰り返す14日間！
+顔・年収・性格…結婚に求める条件は？
+選ぶべきは、ときめく相手か？信じられる相手か？
+
+建前一切なし、自分自身と向き合い結婚と向き合う、
+本音ダダ漏れ婚活リアリティーショー！
+
+◆主題歌
+iri「CUBE」
+◆挿入歌
+Awesome City Club『スロウ・サマー』
+I Don't Like Mondays.『With you』
+
+提供：seven x seven 糸島</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s2_p5/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250927220000 +0000" stop="20250928022000 +0000">
+		<title>LOVE CATCHER Japan #5~8 後半一挙</title>
+		<desc>真実の愛を見つける「ラブキャッチャー」か、
+賞金500万円を狙う「マネーキャッチャー」か、
+究極の選択をした男女10人が、自分の"正体"を隠して恋愛ゲームに参加
+
+次々にヒミツが暴かれ、
+激化していく愛と裏切りの恋愛心理戦！
+
+最後に愛を、あるいは金を、手にするのは誰？
+正体予想も楽しめる恋愛エンターテイメントショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s1_p50/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250928022000 +0000" stop="20250928032700 +0000">
+		<title>#5 嫌いになるのは好きだから</title>
+		<desc>▼見どころ
+男女がひとつ屋根の下で暮らす共同生活がスタート。
+次第に“見たくなかった一面”が露わになり…！？
+さらに、男1人×ガール＆レディ3人の1泊2日トライアングル旅行へ突入！
+ハーレム状態の旅で、結婚への本音が飛び出す展開に――。
+
+▼概要
+結婚は"憧れ"？ それとも"現実"？
+20代"ガール"と30代"レディ"が
+運命の相手を求め、選択を繰り返す14日間！
+顔・年収・性格…結婚に求める条件は？
+選ぶべきは、ときめく相手か？信じられる相手か？
+
+建前一切なし、自分自身と向き合い結婚と向き合う、
+本音ダダ漏れ婚活リアリティーショー！
+
+◆主題歌
+iri「CUBE」
+◆挿入歌
+Awesome City Club『スロウ・サマー』
+I Don't Like Mondays.『With you』
+
+提供：seven x seven 糸島</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s2_p5/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250928032700 +0000" stop="20250928035700 +0000">
+		<title>すっぴんトーク meets SPRiNG #2</title>
+		<desc>２０代から３０代。
+女性が一番、悩み・楽しみ・輝く時期。
+そんな人生が一番動く時期に世の中の女性は何を思い、何を考え、どう生きているのか？
+女性が人生を楽しく生きていくためのLIFE BOOK。
+【協力：SPRiNG】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-324_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250928035700 +0000" stop="20250928040000 +0000">
 		<title>ちいかわ #128・見逃し放送</title>
 		<desc>「試食イベント」に到着！ハチワレとうさぎが新商品を楽しむ中、ちいかわはむちゃうマンを探していて…</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p138/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250928040000 +0000" stop="20250928110000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	<programme channel="abema-special" start="20250928040000 +0000" stop="20250928060000 +0000">
+		<title>今日好き2025 マクタン編 #4~5【土日13時/今日好きアワー】</title>
+		<desc>「りのんちゃんのこと好きって気持ちは、誰にも負けないから。」
+ようやくチャンスがきたしゅんが猛アピール
+果たして、りのんの今の想いは変わった？
+
+「いろいろ難しくて....」
+はるとが号泣。その理由とは？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s710_p4/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250928060000 +0000" stop="20250928110000 +0000">
+		<title>ガールオアレディ シーズン2 #1~5</title>
+		<desc>▼見どころ
+運命の相手を求めて集まった8名の20代"ガール"と30代"レディ"。
+初日は"顔"と"中身"で結婚相手候補の男性を選ぶセレクションを実施！？
+
+▼概要
+結婚は"憧れ"？ それとも"現実"？
+20代"ガール"と30代"レディ"が
+運命の相手を求め、選択を繰り返す14日間！
+顔・年収・性格…結婚に求める条件は？
+選ぶべきは、ときめく相手か？信じられる相手か？
+
+建前一切なし、自分自身と向き合い結婚と向き合う、
+本音ダダ漏れ婚活リアリティーショー！
+
+◆主題歌
+iri「CUBE」
+◆挿入歌
+Awesome City Club『スロウ・サマー』
+I Don't Like Mondays.『With you』
+
+提供：seven x seven 糸島</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250928110000 +0000" stop="20250928120000 +0000">
 		<title>ななにー 地下ABEMA #89 0日婚！リアルな本音が飛び交う波瀾万丈カップル</title>
@@ -10028,7 +10421,41 @@ I Don't Like Mondays.『With you』
 提供：seven x seven 糸島</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s2_p6/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250928125000 +0000" stop="20250928140000 +0000">
+	<programme channel="abema-special" start="20250928125000 +0000" stop="20250928125300 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20250928125300 +0000" stop="20250928135700 +0000">
+		<title>#2 : ラブキャッチャージャパン2</title>
+		<desc>▼みどころ
+「ザコが嫌い」な論破王『ためくに』があざと女子『あやな』にはじめての2人きりの部屋で、まさかの…土下座！？！
+
+2日目のカップルチャレンジは、男性から女性にメイクをする『メイク対決』と、お互いの身体に絵の具で絵を描く『ボディアート対決』
+2人で協力して作業するうちにだんだんと心の距離も近くなる。
+優勝したカップルには特別なデートが用意されていて、まさかのキス・・・？
+
+そして優勝カップルがデートに行っている間、ヴィラでは正体の探り合いが繰り広げられ、恋心と猜疑心が交差する！
+
+相手の本心を見極め、
+最後に手にするのは…愛？それともお金？
+
+
+▼概要
+真実の愛を求める「ラブキャッチャー」
+多額の賞金を狙う「マネーキャッチャー」
+それぞれの正体を隠した男女10名が恋の駆け引き。
+
+「あなたの正体は…？」
+
+信じる勇気と疑心がぶつかり、
+人間の本性があらわになる恋愛リアリティーショー
+
+相手の本心を見極め、
+最後に手にするのは…愛？それともお金？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s2_p20/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250928135700 +0000" stop="20250928140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -10052,20 +10479,126 @@ I Don't Like Mondays.『With you』
 千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p331/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250928150000 +0000" stop="20250928220000 +0000">
+	<programme channel="abema-special" start="20250928150000 +0000" stop="20250928155100 +0000">
+		<title>ABEMAさんに恩返ししたいねん　～競馬で稼いで制作費２５０万円全額返済～</title>
+		<desc>ABEMAさんに制作費を頂けた事で、かまいガチ５周年「伊勢旅行企画」が実現！▼その恩返しとして「制作費２５０万円全額を“競馬”で稼いでABEMAさんに返したい！」▼ということで、旅先の伊勢で様々な運試し対決のすえ番組イチの強運の持ち主を決定！▼今一番“持っている男”に命運を託し大勝負に挑む！▼厳しいバラエティのルールの中、競馬企画をするための奇策“人間競馬”とは？▼果たして制作費をABEMAさんに全額返せるのか！？ゼロになってしまうのか！？
+▼さらに、地上波の伊勢旅行にはまだ続きがあった！おかげ横丁の爆笑珍道中、地上波未公開シーンを特別限定公開！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-331_s435_p5101/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250928155100 +0000" stop="20250928170000 +0000">
+		<title>ビンカン選手権　～テレビ局コンプライアンス編～</title>
+		<desc>番組名物企画ビンカン選手権がABEMAで復活!!
+今回はテレビ局内に仕掛けられたコンプラNGを見つけ出す。
+挑むのはかつて世間を賑わせ、コンプラにビンカンになっているメンバーたち！
+スタッフルーム、制作会議、ニュース番組内に潜むNGポイントとは？
+さらに、過去の貴重映像を見ながら、今の時代にOKなのか答えるクイズも！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/87-1339_s1284_p5101/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250928170000 +0000" stop="20250928180000 +0000">
+		<title>#4：大物政治家と一緒に演説！？＆実在した別班＆霊媒師も拒否する心霊スポット 他</title>
+		<desc>芸人たちが、強烈な【実体験】を
+己の話術で【エピソードトーク】に昇華させる…芸人×トークの新境地!!
+
+平成ノブシコブシ 徳井健太「日本のタバコ農家」
+平成ノブシコブシ 吉村崇「東京の地下の実態調査」
+友田オレ「香港の悪の巣窟“チョンキンマンション“に潜入」
+お見送り芸人しんいち「催眠術セミナーに潜入」
+ネプチューン 堀内健「巨大化して大暴れ」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250928180000 +0000" stop="20250928183000 +0000">
+		<title>#52：【後編】パチンコ・パチスロ知識王！優勝はどのチームに！？</title>
+		<desc>第３回パチンコ・パチスロ知識王！後半戦
+くずパチ・スクープTV・パーラーカチ盛りの3番組が番組のプライドを賭けクイズで激突！
+
+決勝戦パチンコPK対決での奇跡の連続に全員大興奮！
+果たして優勝はどこのチームなのか！？
+
+
+
+
+提供：マルハン北日本カンパニー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p52/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250928183000 +0000" stop="20250928190000 +0000">
+		<title>脳汁じゅ〜す Season2 #12</title>
+		<desc>番組詳細はまだありません「脳汁」、それは主に脳内で分泌され一種の快感をもたらす神経伝達物質の俗称。 
+この番組では、そんな脳汁＝アドレナリンを追い求め、
+様々なことに挑戦していくアドレナリン追及バラエティ番組。 
+
+【提供：SANYO】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-283_s1_p31/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250928190000 +0000" stop="20250928210000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20250928210000 +0000" stop="20250928220000 +0000">
+		<title>#1 : ラブキャッチャージャパン2</title>
+		<desc>▼みどころ
+真実の愛を見つけるための旅に参加した男女10名。
+その中には、金目当てがいる！？
+
+信じる勇気と疑心がぶつかり、
+人間の本性があらわになる恋愛リアリティーショー、開幕！
+
+
+「ほっぺにリップついたかも…」
+シーズン2最初のカップルチャレンジはカップルフォト。
+出会ってすぐの異性とベッドや車でイチャイチャカップル写真を撮影！？
+爆美女からの刺激的すぎる指挟みキスとは・・・！？
+そして、優勝者には特別な権利が与えられ・・・？
+
+相手の本心を見極め、
+最後に手にするのは…愛？それともお金？
+
+
+▼概要
+真実の愛を求める「ラブキャッチャー」
+多額の賞金を狙う「マネーキャッチャー」
+それぞれの正体を隠した男女10名が恋の駆け引き。
+
+「あなたの正体は…？」
+
+信じる勇気と疑心がぶつかり、
+人間の本性があらわになる恋愛リアリティーショー
+
+相手の本心を見極め、
+最後に手にするのは…愛？それともお金？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s2_p10/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250928220000 +0000" stop="20250929030500 +0000">
 		<title>真心が届く〜僕とスターのオフィス･ラブ!?〜 第1〜4話【韓流アワー】</title>
 		<desc>元トップ女優だったユンソは、麻薬スキャンダルに巻き込まれて芸能界から干されていた。家でのんびりとビタミン剤をのもうとしていた時、マネージャーのヒョクジュンが現れる。世を悲観して服毒自殺を図っていると勘違いしたヒョクジュンは、ユンソが持っていたビタミン剤を取り上げる。ヒョクジュンのかばんに入っていたドラマの台本を目にするユンソ。それは人気脚本家の作品で、自分のために持ってきてくれたと思い...</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-132_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20250929030500 +0000" stop="20250929110000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	<programme channel="abema-special" start="20250929030500 +0000" stop="20250929034200 +0000">
+		<title>すっぴんトーク meets SPRiNG #2</title>
+		<desc>２０代から３０代。
+女性が一番、悩み・楽しみ・輝く時期。
+そんな人生が一番動く時期に世の中の女性は何を思い、何を考え、どう生きているのか？
+女性が人生を楽しく生きていくためのLIFE BOOK。
+【協力：SPRiNG】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-324_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250929034200 +0000" stop="20250929054200 +0000">
+		<title>今日好き2025 マクタン編 #1~2【今日好きアワー】</title>
+		<desc>新シーズンの舞台は、フィリピンのマクタン！
+メンバー10人の恋が始まる。
+
+ニュージーランド編から継続で旅に参加したもか。
+気になるのは、ずっとかっこいいと思っていたはると。
+「もかちゃんともうちょっと話したいなと思って。」
+今回こそ成立することはできる？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s710_p1001/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20250929054200 +0000" stop="20250929110000 +0000">
+		<title>透明なわたしたち 全話一挙【今夜8時~新ドラマ放送開始】</title>
+		<desc>週刊誌ライターの中川碧（福原遥）は、夢だった新聞記者になれず、 芸能ゴシップばかりを追いかける日々にやるせない気持ちを抱いていた。
+高校の同級生であり仲の良かった齋藤風花（小野花梨）、喜多野雄太（伊藤健太郎）、高木洋介（倉悠貴）、桜井梨沙（武田玲奈）もまた、それぞれの現状に葛藤を抱いていた。
+そんな中、 ある凶悪事件が世間を揺るがしていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2002_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20250929110000 +0000" stop="20250929115700 +0000">
 		<title>MISS KING / ミス・キング　#1 クソみたいな世界</title>
@@ -10141,7 +10674,23 @@ I Don't Like Mondays.『With you』
 今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p131/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251001130000 +0000" stop="20251001230000 +0000">
+	<programme channel="abema-special" start="20251001130000 +0000" stop="20251001140000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251001140000 +0000" stop="20251001150000 +0000">
+		<title>チャンス学校チェンジ科 #33</title>
+		<desc>世の中は平等じゃない、それでもチャンスはたくさんあったほうがいい！
+一流の女性になりチャンスを掴み人生を変えるための学校。
+それが、このチャンス学校チェンジ科です！！
+この学校には、様々な業界で活躍をしてより高みを目指す女性たちが集います！
+本物の女性としての魅力”を学ぶをコンセプトにした新感覚スクールバラエティ!
+毎回、様々なゲスト講師が、一流の女性になるために必要なユニーク＆ためにな
+授業を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p179/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251001150000 +0000" stop="20251001230000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -10178,10 +10727,15 @@ I Don't Like Mondays.『With you』
 【提供】BOATRACE振興会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-307_s10000_p1027/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251003120000 +0000" stop="20251003130000 +0000">
+	<programme channel="abema-special" start="20251003120000 +0000" stop="20251003123000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251003123000 +0000" stop="20251003130000 +0000">
+		<title>For JAPAN シーズン3 #25</title>
+		<desc>ー日本の政治シーンに『経営力』はあるのか⁉ー　日本の未来を憂う無数のトーク番組。しかし出演しているコメンテーターに実績はあるのか？110兆円を動かす「政治家」に経営経験はあるのか？経営経験もない人間が毎年途方もない金額を動かし、30年以上成長できない日本。本物の実績のある経営者が日本課題に挑む！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p187/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251003130000 +0000" stop="20251003140000 +0000">
 		<title>ダマってられない女たち2 #5</title>
@@ -10194,9 +10748,8 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p194/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251003140000 +0000" stop="20251003143000 +0000">
-		<title>#53：パーラーカチ盛り ABEMA店</title>
-		<desc>ABEMAが業界のラッキートリガーに！パーラーカチ盛りはバラエティ企画を通してパチンコ・スロットの魅力を伝えていきます
-
+		<title>#53：ABEMAパチンコNEWS</title>
+		<desc>日直島田はアンチが多すぎる！？
 
 
 提供：マルハン北日本カンパニー</desc>
@@ -11584,7 +12137,37 @@ MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10007_p104/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20250927150000 +0000" stop="20250927210000 +0000">
+	<programme channel="special-plus" start="20250927150000 +0000" stop="20250927170000 +0000">
+		<title>チャンスの時間 #330~331</title>
+		<desc>【第3回 前澤友作飲み会ネタGP】
+社長界の最高峰・前澤友作にハマるため、
+そして前澤友作の会食に招待されるために、
+飲み会ネタを披露するネタバトル！
+
+どハマりして億万長者と繋がりたい！と
+満を持して5組の芸人たちが挑戦！
+
+ノブ「面白さがみたいんじゃない、覚悟が見たいねん」
+エンジン全開の審査に挑戦者たちが振り回される！
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p330/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250927170000 +0000" stop="20250927201700 +0000">
+		<title>ドーピングトーキング #1~4</title>
+		<desc>粗品の新番組「ドーピングトーキング」
+今旬の芸人からベテラン芸人まで総勢40名超えの芸人たちが、強烈な【実体験】を
+己の話術で【エピソードトーク】に昇華させる…芸人×トークの新境地!!
+
+紅しょうが 稲田美紀「港区ギャラ飲みを仕切る女ボス」
+チャンス大城「殺人事故物件に1週間生活」
+マユリカ 中谷「資産60億円のニート」
+真空ジェシカ ガク「日本に実在した売春島」
+谷拓哉(元パンプキンポテトフライ)「韓国のスーパースター“チェ・ホンマン“の今」
+ケンドーコバヤシ「万病が癒える睾丸マッサージ」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20250927201700 +0000" stop="20250927210000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -11683,11 +12266,12 @@ RIZIN WORLD GP 2025 フライ級トーナメント 2回戦 リザーブマッチ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20250928120000 +0000" stop="20250928133000 +0000">
-		<title>世界の果てに、くるま置いてきた#2</title>
-		<desc>令和ロマン・くるまが次に向かったのは、バングラデシュの首都ダッカ。
-そこで出会ったのは、日本語を話す謎の美女に、軍への入隊を目指す少女。
-バングラデシュのリアルを目の当たりにした くるまは…</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p114/thumb001.png" />
+		<title>世界の果てに、くるま置いてきた#2：なぜ…!?山奥の秘境に東出昌大</title>
+		<desc>山奥の秘境に東出昌大！
+丸刈り姿で息を荒げる…一体なぜ⁉︎
+そして、令和ロマン・くるまが次に向かったのは、バングラデシュの首都ダッカ。
+くるまに巻き起こる事件とは…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s10000_p20/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20250928133000 +0000" stop="20250929123000 +0000">
 		<title>No programme</title>
@@ -12580,7 +13164,7 @@ RIZIN WORLD GP 2025 フライ級トーナメント 2回戦 リザーブマッチ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p669/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250928030000 +0000" stop="20250928050000 +0000">
-		<title>ABEMA的ニュースショー NEWSの核心「的」に独自目線</title>
+		<title>ABEMA的ニュースショー“裏切りの歴史”自民総裁選の怖い話</title>
 		<desc>日曜のお昼の「社会派」ニュースショー。
 独自取材と目線で、世間をざわつかせている話題沸騰のニュースの核心「的」に切りこみます。また、時にはあえて「的」を外した独自取材でお伝えすることで、世の中で言われている「的(マト)=正義」に疑問を投げかけます。鋭いツッコミに定評のある千原ジュニアが、一癖も二癖もあるゲストらと1週間のニュースをしゃべり倒します。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-75_s0_p1040/thumb001.png" />
@@ -12621,7 +13205,7 @@ RIZIN WORLD GP 2025 フライ級トーナメント 2回戦 リザーブマッチ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p674/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250928100000 +0000" stop="20250928120000 +0000">
-		<title>ABEMA的ニュースショー NEWSの核心「的」に独自目線</title>
+		<title>ABEMA的ニュースショー“裏切りの歴史”自民総裁選の怖い話</title>
 		<desc>日曜のお昼の「社会派」ニュースショー。
 独自取材と目線で、世間をざわつかせている話題沸騰のニュースの核心「的」に切りこみます。また、時にはあえて「的」を外した独自取材でお伝えすることで、世の中で言われている「的(マト)=正義」に疑問を投げかけます。鋭いツッコミに定評のある千原ジュニアが、一癖も二癖もあるゲストらと1週間のニュースをしゃべり倒します。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-75_s0_p1041/thumb001.png" />
@@ -12660,7 +13244,7 @@ RIZIN WORLD GP 2025 フライ級トーナメント 2回戦 リザーブマッチ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p678/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20250928170000 +0000" stop="20250928190000 +0000">
-		<title>ABEMA的ニュースショー NEWSの核心「的」に独自目線</title>
+		<title>ABEMA的ニュースショー“裏切りの歴史”自民総裁選の怖い話</title>
 		<desc>日曜のお昼の「社会派」ニュースショー。
 独自取材と目線で、世間をざわつかせている話題沸騰のニュースの核心「的」に切りこみます。また、時にはあえて「的」を外した独自取材でお伝えすることで、世の中で言われている「的(マト)=正義」に疑問を投げかけます。鋭いツッコミに定評のある千原ジュニアが、一癖も二癖もあるゲストらと1週間のニュースをしゃべり倒します。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-75_s0_p1042/thumb001.png" />
@@ -17200,7 +17784,7 @@ RIZIN WORLD GP 2025 フライ級トーナメント 2回戦 リザーブマッチ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-38_s1_p11/thumb001.png" />
 	</programme>
 	<programme channel="asia-loveromance" start="20250926110000 +0000" stop="20250926144000 +0000">
-		<title>グッド・ドクター 第18〜20話【チュウォン主演】</title>
+		<title>グッド・ドクター 第18〜最終話【チュウォン主演】</title>
 		<desc>副院長の息子ジュニョンの手術が始まるが、ドハンは腹部の傷が悪化し倒れてしまう。急遽ユンソが執刀を代わり、ドハンの立ち会いのもと皆の連携プレイで手術は無事成功する。イネの手術を前に感染を心配するシオンはユンソとともに手術を担当する肝胆膵外科のキム科長に立ち会いを申し出る。だが、小児外科を煩わしく思う科長に一蹴される。そんな中、ユンソが見合い相手と電話で話すのを聞いたシオンはなぜか怒り出す。ユンソはシオンの言葉が気になり・・・。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-22_s1_p18/thumb001.png" />
 	</programme>
@@ -19530,6 +20114,572 @@ LE SSERAFIM、BOYNEXTDOOR、ツウィ(TWICE)、NMIXX、NCT WISH、xikers、KATSE
 		<title>ストロベリーショートケイクス[R15+]【無料1週間】</title>
 		<desc>大失恋を乗り越えて新たな恋の訪れを待ちわびるフリーターの里子。そんな彼女のバイト先はデリヘル店“ヘブンスゲイト”の電話番。彼女が密かにあこがれる店のナンバー1、秋代はお金を貯めて5階以上のマンションを購入しようと考えている。一人の男を一途に愛する彼女だったが、決して一緒にはなれないと覚悟を決めていた。一人で生きていくためにマンションを買い、そしてボケそうになったら飛び降り自殺しようと決意していた。一方、イラストレーターの塔子はプライドが高く、男に愛されることが全てと考える事務OLのルームメイト・ちひろの生き方に嫌悪感を抱いてしまう...。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/177-105_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250928190000 +0000" stop="20250928212500 +0000">
+		<title>聖闘士星矢 The Beginning（字幕）【無料1週間】</title>
+		<desc>自らの身体に“小宇宙”という力が宿っていることを知らない若者、星矢。
+地下格闘技でその日暮らしをしながら生き別れた姉を探していた彼は、
+ある日闘いの最中にその“小宇宙”を発したことで謎の集団から狙われることに。
+彼らは強い“小宇宙”の持ち主と、シエナと言う女性の命を狙っていた。
+
+ペガサスの星のもとに生まれた星矢の使命は“知恵”と“戦い”の女神アテナの生まれ変わりであるシエナを守り、世界を救うこと。
+自らの秘めた力に気づいた時、彼はこの世界を救う“聖闘士”となる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-76_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250928212500 +0000" stop="20250928220000 +0000">
+		<title>モテキ 第2話【無料1週間】</title>
+		<desc>元同僚の土井亜紀とのデートで大失態を演じてしまった幸世のもとに、かかってきた電話は中柴いつかからだった。2年前、飲み会で知り合ったいつかとは友人関係が続いていた。そのいつかに誘われ、ドラマのロケ地巡りに出かける幸世。しかしそこで思いがけない展開が...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-1ytnhidgwiw_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250928220000 +0000" stop="20250928230000 +0000">
+		<title>DOCTORS 最強の名医 第7話【無料2日間】</title>
+		<desc>ある日、堂上総合病院に重度の肝硬変を患った10歳の少年・光太郎(澁谷武尊)が入院してくる。これまで大学病院などで治療を受けてきたがどこもお手上げで、このまま症状が進めば肝機能が低下し死に至る可能性はかなり高い。そこで相良(沢村一樹)は生体肝移植手術を提案するが、森山(高嶋政伸)たちから猛反対される。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-56_s0_p7/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250928230000 +0000" stop="20250929002500 +0000">
+		<title>孤独のグルメ 2019大晦日スペシャル~緊急指令!成田~福岡~釜山 弾丸出張編!</title>
+		<desc>12 月 30 日。海外出張を終えた井之頭五郎(松重豊)が成田空港近くの食堂で疲れを癒していると、翌日会うはずの福岡の商談相手・高橋正則から「今日来て欲しい」と連絡があり、急遽福岡へ。一瞬愕然となるが、用意した商品を褒められ、安堵した矢先...思わぬトラブルに巻き込まれ、翌朝釜山へ行く事態に!失意の中歩いていると、生簀がある居酒屋を見つけ店中へ。そこには大将の雰囲気とかけ離れたワインセラーがあり...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-21_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929002500 +0000" stop="20250929010000 +0000">
+		<title>孤独のグルメ S9 第2話</title>
+		<desc>仕事で神奈川県の二宮駅に訪れた五郎(松重豊)は商談までまだ時間があり喫茶店で仕事をすることに。お店のメニューには、自由に組み合わせが選べるオリジナルパフェの文字が!仕事どころではなくなった五郎。悩みに悩み決められない五郎は店員に紙をもらい、ある作戦でパフェを決めることに。しっかりパフェを満喫した五郎は喫茶店を後にし、商談先に向かう。  
+取引相手の南は、奥さんのいないところでは口が達者だが、奥さんが来ると急に黙り込んでしまうのだ。南と商談を終えた五郎は気づけばすっかり空腹に。店を探すことにするが、なかなか店が見当たらず、さっきの喫茶店に戻ることを考える。すると、はるか前方に「金目の煮付」と書かれたのぼりを発見する。心惹かれた五郎はその店にむかうことに!海沿いに建つ『魚料理屋』で五郎は新たな食べ方を開発する...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929010000 +0000" stop="20250929020500 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#2【無料2日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★蛭間外科統括部長(西田敏行)が今年1月に執刀したばかりの患者・二宮欽也(寺田農)に、再発のガンが見つかった!不動産王の二宮は、帝都医科大学付属病院での蛭間ブランドを支える強力なスポンサー。金のかかる主任教授選を間近に控え、手術ミスの可能性がある再発を認めるわけにいかない蛭間は、新たな初期のガンが発現したと二宮に嘘の告知をする。海老名教授(遠藤憲一)をはじめとする、第二外科の取り巻きたちは、身を投げ打って蛭間の工作に全面協力することに...。
+
+しかし、術前検査の結果、外科的アプローチが困難な転移ガンが発見され、蛭間たちはより厳しい状況に立たされてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929020500 +0000" stop="20250929030000 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第33~34話</title>
+		<desc>中西(宇崎慧)は由紀(真瀬樹里)と再婚し、茜(井上真央)とも一緒に暮らしたいと言う。一方、浩(金澤匠)は友恵(島かおり)たちに期待されることに疲れ始めていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p33/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929030000 +0000" stop="20250929042500 +0000">
+		<title>孤独のグルメ 2019大晦日スペシャル~緊急指令!成田~福岡~釜山 弾丸出張編!</title>
+		<desc>12 月 30 日。海外出張を終えた井之頭五郎(松重豊)が成田空港近くの食堂で疲れを癒していると、翌日会うはずの福岡の商談相手・高橋正則から「今日来て欲しい」と連絡があり、急遽福岡へ。一瞬愕然となるが、用意した商品を褒められ、安堵した矢先...思わぬトラブルに巻き込まれ、翌朝釜山へ行く事態に!失意の中歩いていると、生簀がある居酒屋を見つけ店中へ。そこには大将の雰囲気とかけ離れたワインセラーがあり...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-21_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929042500 +0000" stop="20250929050000 +0000">
+		<title>孤独のグルメ S9 第2話</title>
+		<desc>仕事で神奈川県の二宮駅に訪れた五郎(松重豊)は商談までまだ時間があり喫茶店で仕事をすることに。お店のメニューには、自由に組み合わせが選べるオリジナルパフェの文字が!仕事どころではなくなった五郎。悩みに悩み決められない五郎は店員に紙をもらい、ある作戦でパフェを決めることに。しっかりパフェを満喫した五郎は喫茶店を後にし、商談先に向かう。  
+取引相手の南は、奥さんのいないところでは口が達者だが、奥さんが来ると急に黙り込んでしまうのだ。南と商談を終えた五郎は気づけばすっかり空腹に。店を探すことにするが、なかなか店が見当たらず、さっきの喫茶店に戻ることを考える。すると、はるか前方に「金目の煮付」と書かれたのぼりを発見する。心惹かれた五郎はその店にむかうことに!海沿いに建つ『魚料理屋』で五郎は新たな食べ方を開発する...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929050000 +0000" stop="20250929060000 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#2【無料4日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★蛭間外科統括部長(西田敏行)が今年1月に執刀したばかりの患者・二宮欽也(寺田農)に、再発のガンが見つかった!不動産王の二宮は、帝都医科大学付属病院での蛭間ブランドを支える強力なスポンサー。金のかかる主任教授選を間近に控え、手術ミスの可能性がある再発を認めるわけにいかない蛭間は、新たな初期のガンが発現したと二宮に嘘の告知をする。海老名教授(遠藤憲一)をはじめとする、第二外科の取り巻きたちは、身を投げ打って蛭間の工作に全面協力することに...。
+
+しかし、術前検査の結果、外科的アプローチが困難な転移ガンが発見され、蛭間たちはより厳しい状況に立たされてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929060000 +0000" stop="20250929063500 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第33話</title>
+		<desc>中西(宇崎慧)は由紀(真瀬樹里)と再婚し、茜(井上真央)とも一緒に暮らしたいと言う。一方、浩(金澤匠)は友恵(島かおり)たちに期待されることに疲れ始めていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p33/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929063500 +0000" stop="20250929073500 +0000">
+		<title>DOCTORS 最強の名医 第7話【無料2日間】</title>
+		<desc>ある日、堂上総合病院に重度の肝硬変を患った10歳の少年・光太郎(澁谷武尊)が入院してくる。これまで大学病院などで治療を受けてきたがどこもお手上げで、このまま症状が進めば肝機能が低下し死に至る可能性はかなり高い。そこで相良(沢村一樹)は生体肝移植手術を提案するが、森山(高嶋政伸)たちから猛反対される。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-56_s0_p7/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929073500 +0000" stop="20250929084000 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第34~35話</title>
+		<desc>里香(宮崎真汐)は学年でトップの成績を修め、友恵(島かおり)を元気づける。そして、友恵は里香だけに期待を寄せるようになり...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p34/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929084000 +0000" stop="20250929095500 +0000">
+		<title>黒革の手帖 第4話【無料2日間】</title>
+		<desc>銀座のクラブの最高峰である『ルダン』が売りに出されると耳にした原口元子(武井咲)。売り値は3億とも言われるその店舗を是非とも手に入れたいと考える元子は、黒革の手帖を捲りながら次なる一手に思いを巡らせる。
+そんな中、元子は上星ゼミナールの理事長・橋田常雄(高嶋政伸)から一泊二日の温泉旅行に誘われる。安島富夫(江口洋介)と元子の仲を疑う橋田は、『カルネ』に居合わせた安島を牽制するように旅行の話を。元子が返答に窮していると、長谷川庄治(伊東四朗)が来店する。長谷川の来店を知った橋田は大慌て。実は橋田は長谷川から、あまり気乗りしない案件を持ちかけられていたのだ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-83_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929095500 +0000" stop="20250929120000 +0000">
+		<title>聖闘士星矢 The Beginning(吹替)【無料1週間】</title>
+		<desc>自らの身体に“小宇宙”という力が宿っていることを知らない若者、星矢。
+地下格闘技でその日暮らしをしながら生き別れた姉を探していた彼は、
+ある日闘いの最中にその“小宇宙”を発したことで謎の集団から狙われることに。
+彼らは強い“小宇宙”の持ち主と、シエナと言う女性の命を狙っていた。
+
+ペガサスの星のもとに生まれた星矢の使命は“知恵”と“戦い”の女神アテナの生まれ変わりであるシエナを守り、世界を救うこと。
+自らの秘めた力に気づいた時、彼はこの世界を救う“聖闘士”となる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-76_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929120000 +0000" stop="20250929132500 +0000">
+		<title>孤独のグルメ 2019大晦日スペシャル~緊急指令!成田~福岡~釜山 弾丸出張編!</title>
+		<desc>12 月 30 日。海外出張を終えた井之頭五郎(松重豊)が成田空港近くの食堂で疲れを癒していると、翌日会うはずの福岡の商談相手・高橋正則から「今日来て欲しい」と連絡があり、急遽福岡へ。一瞬愕然となるが、用意した商品を褒められ、安堵した矢先...思わぬトラブルに巻き込まれ、翌朝釜山へ行く事態に!失意の中歩いていると、生簀がある居酒屋を見つけ店中へ。そこには大将の雰囲気とかけ離れたワインセラーがあり...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-21_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929132500 +0000" stop="20250929140000 +0000">
+		<title>孤独のグルメ S9 第2話</title>
+		<desc>仕事で神奈川県の二宮駅に訪れた五郎(松重豊)は商談までまだ時間があり喫茶店で仕事をすることに。お店のメニューには、自由に組み合わせが選べるオリジナルパフェの文字が!仕事どころではなくなった五郎。悩みに悩み決められない五郎は店員に紙をもらい、ある作戦でパフェを決めることに。しっかりパフェを満喫した五郎は喫茶店を後にし、商談先に向かう。  
+取引相手の南は、奥さんのいないところでは口が達者だが、奥さんが来ると急に黙り込んでしまうのだ。南と商談を終えた五郎は気づけばすっかり空腹に。店を探すことにするが、なかなか店が見当たらず、さっきの喫茶店に戻ることを考える。すると、はるか前方に「金目の煮付」と書かれたのぼりを発見する。心惹かれた五郎はその店にむかうことに!海沿いに建つ『魚料理屋』で五郎は新たな食べ方を開発する...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929140000 +0000" stop="20250929145500 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#2【無料4日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★蛭間外科統括部長(西田敏行)が今年1月に執刀したばかりの患者・二宮欽也(寺田農)に、再発のガンが見つかった!不動産王の二宮は、帝都医科大学付属病院での蛭間ブランドを支える強力なスポンサー。金のかかる主任教授選を間近に控え、手術ミスの可能性がある再発を認めるわけにいかない蛭間は、新たな初期のガンが発現したと二宮に嘘の告知をする。海老名教授(遠藤憲一)をはじめとする、第二外科の取り巻きたちは、身を投げ打って蛭間の工作に全面協力することに...。
+
+しかし、術前検査の結果、外科的アプローチが困難な転移ガンが発見され、蛭間たちはより厳しい状況に立たされてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929145500 +0000" stop="20250929161000 +0000">
+		<title>モテキ 第2~3話【無料1週間】</title>
+		<desc>趣味の合う女友達の中柴いつかとのことで落ち込んでいた幸世は、バーで男性と一緒にいる小宮山夏樹の姿を偶然見かける。夏樹はかつて幸世が人生で一番好きになった女性だった。幸世は2年前、夏樹と出会った日のことを思い出す...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-1ytnhidgwiw_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929161000 +0000" stop="20250929170500 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第33~34話</title>
+		<desc>中西(宇崎慧)は由紀(真瀬樹里)と再婚し、茜(井上真央)とも一緒に暮らしたいと言う。一方、浩(金澤匠)は友恵(島かおり)たちに期待されることに疲れ始めていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p33/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929170500 +0000" stop="20250929191500 +0000">
+		<title>聖闘士星矢 The Beginning（字幕）【無料1週間】</title>
+		<desc>自らの身体に“小宇宙”という力が宿っていることを知らない若者、星矢。
+地下格闘技でその日暮らしをしながら生き別れた姉を探していた彼は、
+ある日闘いの最中にその“小宇宙”を発したことで謎の集団から狙われることに。
+彼らは強い“小宇宙”の持ち主と、シエナと言う女性の命を狙っていた。
+
+ペガサスの星のもとに生まれた星矢の使命は“知恵”と“戦い”の女神アテナの生まれ変わりであるシエナを守り、世界を救うこと。
+自らの秘めた力に気づいた時、彼はこの世界を救う“聖闘士”となる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-76_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929191500 +0000" stop="20250929212000 +0000">
+		<title>星の子【無料1週間】</title>
+		<desc>大好きなお父さんとお母さんから愛情たっぷりに育てられたちひろだが、その両親は、病弱だった幼少期のちひろを治した“あやしい宗教”を深く信じていた。中学3年になったちひろは、一目惚れした新任のイケメン先生に、夜の公園で奇妙な儀式をする 両親を見られてしまう。そして、彼女の心を大きく揺さぶる事件が起きる――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/170-39_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929212000 +0000" stop="20250929215500 +0000">
+		<title>モテキ 第3話【無料1週間】</title>
+		<desc>趣味の合う女友達の中柴いつかとのことで落ち込んでいた幸世は、バーで男性と一緒にいる小宮山夏樹の姿を偶然見かける。夏樹はかつて幸世が人生で一番好きになった女性だった。幸世は2年前、夏樹と出会った日のことを思い出す...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-1ytnhidgwiw_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929215500 +0000" stop="20250929230000 +0000">
+		<title>DOCTORS 最強の名医 第8話【無料2日間】</title>
+		<desc>ステージ2の胃がんが発覚した相良(沢村一樹)は、その手術を森山(高嶋政伸)に依頼する。森山の腕を信じて自分の命を託す相良だったが、森山は相良を救うべきか否か、葛藤する。「相良さえいなくなれば堂上総合病院は自分のものになる」という気持ちから、揺れ動く森山。そしてついに運命の手術の日を迎え...?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-56_s0_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250929230000 +0000" stop="20250930002500 +0000">
+		<title>「孤独のグルメ」2020大晦日スペシャル～俺の食事に密はない、孤独の花火大作戦</title>
+		<desc>12月29日。輸入雑貨商の井之頭五郎(松重豊)に「大晦日のシークレット打ち上げ花火大会を仕切ってほしい」という無謀な代役依頼が舞い込む。初めは無理だと断るが、押し切られてしまい...。翌日、昼は主催者・森田康介(大倉孝二)と会うために向かった虎ノ門の西洋料理店、夜は花火師・丸山仁志(高橋克実)との打ち合わせで訪れた川崎市の焼肉店、大晦日は秩父で出会った中華料理店へ。五郎の胃袋を満たすメニューとは?そして無事、大役を果たすことができるのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-21_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930002500 +0000" stop="20250930010000 +0000">
+		<title>孤独のグルメ S9 第3話</title>
+		<desc>大きな荷物を抱えた井之頭五郎(松重豊)。たどり着いた先は東麻布にある「パナマ大使館」。五郎は取引相手の大使館職員と商談を終えたものの、ついでにパナマのコーヒーを飲んで感想を聞かせてほしい、と言われるのであった。日本人男性の代表としてのコメントと、圧をかけられながらも、なんとかその場を乗り切り大使館を後にする。広い公園で雨が降る中、五郎は缶コーヒーを片手に、久しく海外に行ってないことを考える。  
+「ガイコク飯」が恋しくなり、気が付けばすっかり空腹になっていた。店を探していると、お宝が発掘できそうな雰囲気漂う「東京タワーwith東麻布商店街」を見つける。商店街には数々の料理屋が並んでいる。そんな中、五郎の目に留まったのは、「ギリシャ料理」。まさに、さっきまで考えていた「ガイコク飯」である。心奪われた五郎は、ギリシャ料理店の中へ足を踏み入れるのであった...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p3/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930010000 +0000" stop="20250930020500 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#3【無料2日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★帝都医大の教授夫人会、通称“白薔薇会”の会長を務める蛭間華子(藤真利子)が、夫の蛭間外科統括教授(西田敏行)に、蟹江外科教授夫人(明星真由美)の再手術を要請する。華子は、海老名教授(遠藤憲一)の執刀で1年前に小腸の手術を受けた蟹江夫人の術後の調子悪さを、内科教授夫人の三村寅子(山本未來)に見破られ、腹に据えかねていたのだ。だが、蟹江夫人の現状を改善するには小腸移植以外に方法がなく、ドナーが見つかるまで手術は不可能だった。
+
+そんな中、蟹江夫人をお見舞いに来た三村夫人が未知子(米倉涼子)の前で倒れてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p3/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930020500 +0000" stop="20250930030000 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第35~36話</title>
+		<desc>中西(宇崎慧)は由紀(真瀬樹里)と入籍し、新潟に戻ることに。茜(井上真央)も一緒に帰ろうと誘われるが、春子(生稲晃子)は茜を引き止める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p35/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930030000 +0000" stop="20250930042500 +0000">
+		<title>「孤独のグルメ」2020大晦日スペシャル～俺の食事に密はない、孤独の花火大作戦</title>
+		<desc>12月29日。輸入雑貨商の井之頭五郎(松重豊)に「大晦日のシークレット打ち上げ花火大会を仕切ってほしい」という無謀な代役依頼が舞い込む。初めは無理だと断るが、押し切られてしまい...。翌日、昼は主催者・森田康介(大倉孝二)と会うために向かった虎ノ門の西洋料理店、夜は花火師・丸山仁志(高橋克実)との打ち合わせで訪れた川崎市の焼肉店、大晦日は秩父で出会った中華料理店へ。五郎の胃袋を満たすメニューとは?そして無事、大役を果たすことができるのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-21_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930042500 +0000" stop="20250930050000 +0000">
+		<title>孤独のグルメ S9 第3話</title>
+		<desc>大きな荷物を抱えた井之頭五郎(松重豊)。たどり着いた先は東麻布にある「パナマ大使館」。五郎は取引相手の大使館職員と商談を終えたものの、ついでにパナマのコーヒーを飲んで感想を聞かせてほしい、と言われるのであった。日本人男性の代表としてのコメントと、圧をかけられながらも、なんとかその場を乗り切り大使館を後にする。広い公園で雨が降る中、五郎は缶コーヒーを片手に、久しく海外に行ってないことを考える。  
+「ガイコク飯」が恋しくなり、気が付けばすっかり空腹になっていた。店を探していると、お宝が発掘できそうな雰囲気漂う「東京タワーwith東麻布商店街」を見つける。商店街には数々の料理屋が並んでいる。そんな中、五郎の目に留まったのは、「ギリシャ料理」。まさに、さっきまで考えていた「ガイコク飯」である。心奪われた五郎は、ギリシャ料理店の中へ足を踏み入れるのであった...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p3/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930050000 +0000" stop="20250930060000 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#3【無料4日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★帝都医大の教授夫人会、通称“白薔薇会”の会長を務める蛭間華子(藤真利子)が、夫の蛭間外科統括教授(西田敏行)に、蟹江外科教授夫人(明星真由美)の再手術を要請する。華子は、海老名教授(遠藤憲一)の執刀で1年前に小腸の手術を受けた蟹江夫人の術後の調子悪さを、内科教授夫人の三村寅子(山本未來)に見破られ、腹に据えかねていたのだ。だが、蟹江夫人の現状を改善するには小腸移植以外に方法がなく、ドナーが見つかるまで手術は不可能だった。
+
+そんな中、蟹江夫人をお見舞いに来た三村夫人が未知子(米倉涼子)の前で倒れてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p3/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930060000 +0000" stop="20250930063500 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第35話</title>
+		<desc>中西(宇崎慧)は由紀(真瀬樹里)と入籍し、新潟に戻ることに。茜(井上真央)も一緒に帰ろうと誘われるが、春子(生稲晃子)は茜を引き止める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p35/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930063500 +0000" stop="20250930074000 +0000">
+		<title>DOCTORS 最強の名医 第8話【無料2日間】</title>
+		<desc>ステージ2の胃がんが発覚した相良(沢村一樹)は、その手術を森山(高嶋政伸)に依頼する。森山の腕を信じて自分の命を託す相良だったが、森山は相良を救うべきか否か、葛藤する。「相良さえいなくなれば堂上総合病院は自分のものになる」という気持ちから、揺れ動く森山。そしてついに運命の手術の日を迎え...?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-56_s0_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930074000 +0000" stop="20250930084000 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第36~37話</title>
+		<desc>茜(井上真央)は田中(丸子礼二)を手伝う康夫(山本達也)に会い、田中宅を訪れる。そんな中、田中は発作を起こし、茜が介抱。帰宅が遅くなった茜は...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p36/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930084000 +0000" stop="20250930095000 +0000">
+		<title>黒革の手帖 第5話【無料2日間】</title>
+		<desc>新しくホステスになった島崎すみ江(内藤理沙)を使い、上星ゼミナール理事長・橋田常雄(高嶋政伸)の裏口入学斡旋者リストを手に入れた原口元子(武井咲)。次は橋田が買おうとしている料亭『梅村』を奪い、それを2億円で転売して、銀座の老舗クラブ『ルダン』を手に入れようと考える。その矢先、『ルダン』を所持している人物が政財界のフィクサー・長谷川庄治(伊東四朗)だとわかり、元子はいよいよ計画を実行に移す決意を...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-83_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930095000 +0000" stop="20250930120000 +0000">
+		<title>夏の終り【無料1週間】</title>
+		<desc>だって、愛してるの。　瀬戸内寂聴原作、ひとりの女とふたりの男の、センセーショナルな愛の物語
+年上の男との包み込むような穏やかな愛の生活―
+年下の男との激しい愛欲―
+どちらも私を満たし、そして心を乱す
+100万部を超えるロング・ベスト・セラーとなっている瀬戸内寂聴の小説『夏の終り』が発売から50周年の節目の年に待望の映画化。監督は　『鬼畜大宴会』で鮮烈なデビューを飾り、近年は『海炭市叙景』で高い評価を得た熊切和嘉。主人公・知子を満島ひかり。妻子ある不遇な作家との長年に及ぶ愛の生活に疲れ果て、年下の男との激しい愛欲にも満たされない、自身の女の業に苦悩する知子という役を見事に演じきった。寛容さとずるさを併せ持つ年上の男・慎吾を演じるのは小林薫。そして知子を求め嫉妬と孤独に苦しむ年下の男を・涼太を演じるのは、今最も注目の俳優綾野剛。静かな色気と心に深い絶望を抱える慎吾と、どんなに虐げられても一途に相手を求める涼太、そしてふたりの間に揺れながら独自の愛を生きようとする知子というキャラクターたちを実力俳優が鮮烈にスクリーンに焼き付ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/143-17_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930120000 +0000" stop="20250930132500 +0000">
+		<title>「孤独のグルメ」2020大晦日スペシャル～俺の食事に密はない、孤独の花火大作戦</title>
+		<desc>12月29日。輸入雑貨商の井之頭五郎(松重豊)に「大晦日のシークレット打ち上げ花火大会を仕切ってほしい」という無謀な代役依頼が舞い込む。初めは無理だと断るが、押し切られてしまい...。翌日、昼は主催者・森田康介(大倉孝二)と会うために向かった虎ノ門の西洋料理店、夜は花火師・丸山仁志(高橋克実)との打ち合わせで訪れた川崎市の焼肉店、大晦日は秩父で出会った中華料理店へ。五郎の胃袋を満たすメニューとは?そして無事、大役を果たすことができるのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-21_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930132500 +0000" stop="20250930140000 +0000">
+		<title>孤独のグルメ S9 第3話</title>
+		<desc>大きな荷物を抱えた井之頭五郎(松重豊)。たどり着いた先は東麻布にある「パナマ大使館」。五郎は取引相手の大使館職員と商談を終えたものの、ついでにパナマのコーヒーを飲んで感想を聞かせてほしい、と言われるのであった。日本人男性の代表としてのコメントと、圧をかけられながらも、なんとかその場を乗り切り大使館を後にする。広い公園で雨が降る中、五郎は缶コーヒーを片手に、久しく海外に行ってないことを考える。  
+「ガイコク飯」が恋しくなり、気が付けばすっかり空腹になっていた。店を探していると、お宝が発掘できそうな雰囲気漂う「東京タワーwith東麻布商店街」を見つける。商店街には数々の料理屋が並んでいる。そんな中、五郎の目に留まったのは、「ギリシャ料理」。まさに、さっきまで考えていた「ガイコク飯」である。心奪われた五郎は、ギリシャ料理店の中へ足を踏み入れるのであった...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p3/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930140000 +0000" stop="20250930145500 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#3【無料4日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★帝都医大の教授夫人会、通称“白薔薇会”の会長を務める蛭間華子(藤真利子)が、夫の蛭間外科統括教授(西田敏行)に、蟹江外科教授夫人(明星真由美)の再手術を要請する。華子は、海老名教授(遠藤憲一)の執刀で1年前に小腸の手術を受けた蟹江夫人の術後の調子悪さを、内科教授夫人の三村寅子(山本未來)に見破られ、腹に据えかねていたのだ。だが、蟹江夫人の現状を改善するには小腸移植以外に方法がなく、ドナーが見つかるまで手術は不可能だった。
+
+そんな中、蟹江夫人をお見舞いに来た三村夫人が未知子(米倉涼子)の前で倒れてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p3/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930145500 +0000" stop="20250930161000 +0000">
+		<title>モテキ 第3~4話【無料1週間】</title>
+		<desc>趣味の合う女友達の中柴いつかとのことで落ち込んでいた幸世は、バーで男性と一緒にいる小宮山夏樹の姿を偶然見かける。夏樹はかつて幸世が人生で一番好きになった女性だった。幸世は2年前、夏樹と出会った日のことを思い出す...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-1ytnhidgwiw_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930161000 +0000" stop="20250930170500 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第35~36話</title>
+		<desc>中西(宇崎慧)は由紀(真瀬樹里)と入籍し、新潟に戻ることに。茜(井上真央)も一緒に帰ろうと誘われるが、春子(生稲晃子)は茜を引き止める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p35/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930170500 +0000" stop="20250930190500 +0000">
+		<title>星の子【無料1週間】</title>
+		<desc>大好きなお父さんとお母さんから愛情たっぷりに育てられたちひろだが、その両親は、病弱だった幼少期のちひろを治した“あやしい宗教”を深く信じていた。中学3年になったちひろは、一目惚れした新任のイケメン先生に、夜の公園で奇妙な儀式をする 両親を見られてしまう。そして、彼女の心を大きく揺さぶる事件が起きる――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/170-39_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930190500 +0000" stop="20250930211500 +0000">
+		<title>ドラゴン・キングダム(字幕)【無料1週間】</title>
+		<desc>ボストンに暮らす青年ジェイソンはカンフースターに憧れる"カンフーおたく"。カンフー映画のDVDを手に入れるため、老人オールド・ホップが営む質屋に通いジェイソンはそこで'金の棒'を見つける。
+ある日、不良からの命令でジェイソンはホップの質屋への強盗の手引きすることになってしまったが、その際ホップが不良に撃たれてしまった。ホップから'金の棒'を本物の持ち主に返すよう頼まれるジェイソンだったが、不良から逃げる途中にビルの屋上から転落してしまったのだ。
+しかし、目を覚ますとそこは古代中国!金の棒を持つジェイソンのもとに集う運命の仲間たち。最強の2人の師匠に鍛えられ巨大な悪に挑む冒険が始まるのだった!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/161-33_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930211500 +0000" stop="20250930215000 +0000">
+		<title>モテキ 第4話【無料1週間】</title>
+		<desc>人生で一番好きだった女性、小宮山夏樹からの電話を受けて幸世はバーへと向かう...。久しぶりに会った夏樹にドキドキしながらも、最近モテ期であることを話す幸世。そんな幸世を夏樹はいつもの口調で冷やかす。そんな夏樹の態度に幸世は思わずイラついてしまい...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-1ytnhidgwiw_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930215000 +0000" stop="20250930230000 +0000">
+		<title>DOCTORS2 最強の名医 第1話【無料2日間】</title>
+		<desc>堂上総合病院に赴任して2年。オペの腕はもちろんだが、緩急を織り交ぜて人の心を動かすことに長けたスーパードクター・相良浩介(沢村一樹)のおかげで、病院は以前とは見違えるほど患者の笑顔に満ち、ナースの佐知(比嘉愛未)をはじめスタッフは活気にあふれていた。
+
+しかし、ある日、院長のたまき(野際陽子)は引退を表明し、甥である外科医・森山卓(高嶋政伸)を新院長に指名する。森山の人格に不信感を抱く内科医・和枝(伊藤蘭)や看護師たちは動揺を隠せない。
+
+さらに、森山の担当患者である直子(山口美也子)の術後の経過が良くないことに不安を感じた直子の娘・美由紀(京野ことみ)が、担当医の交代を要求。だが、森山は当然のごとく怒りその申し出を却下してしまう。
+
+そんな状況の中、相良は“ある計画”を実行しようとするが......。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-57_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20250930230000 +0000" stop="20251001012000 +0000">
+		<title>孤独のグルメ S9 第4〜7話</title>
+		<desc>井之頭五郎(松重豊)は数年ぶりに静岡県河津町を訪れ、かどやのわさび丼を食べていた。昔と変わらない主人のわさび愛に笑みをこぼす五郎。久しぶりに本場のわさび丼を満喫した五郎は、商談のため伊東市宇佐美駅に移動する。商談先の相手は、知り合いの美容師・横山綾香。商談中に回覧板を持ってきた近所のおばちゃんと横山の会話にどこか和まされつつ、商談を終えた五郎は、美容室をあとにする。  
+宇佐美のきれいな空気を味わいながら海を眺める五郎は気づけばすっかり空腹に。海沿いにある宇佐美の旨い魚料理の店を探すことに決めた五郎は歩き出す。しかし、魚料理どころか、のどかすぎて飲食店が一軒も見当たらず、ギラギラと照り続ける太陽に体力を奪われて次第に五郎はバテバテになる。するとそこに現れたのは「焼肉」の看板。精肉店と隣接する「お肉屋さんが営む焼き肉」五郎は喜び勇み店に入り...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001012000 +0000" stop="20251001022500 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#4【無料2日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★銀座の人気クラブ『中園』のママ・四条留美子(釈由美子)が、外科統括部長の蛭間(西田敏行)を訪ねて帝都医大にやってくる。政財界は言うに及ばず、芸能界、スポーツ界、そして医学会にも太いパイプを持つ留美子は、銀座の女帝として蛭間の出世にも一枚噛んでいるらしい。
+
+そんな留美子にすい臓の進行ガンが見つかる。蛭間に所見を聞かれた海老名教授(遠藤憲一)は、手術は難しいと判断。蛭間も化学療法の選択を勧めるが、留美子はそれを拒否。手術をしてくれなければ、蛭間の黒い秘密をすべて世間にバラすと、持参した黒革の手帖を突きつけて...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p4/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001022500 +0000" stop="20251001030000 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第37話</title>
+		<desc>康夫(山本達也)が気になる茜(井上真央)は、中西(宇崎慧)と新潟に帰ろうかと悩む。しかし、健一(小谷幸弘)と浩(金澤匠)が茜を引き止め...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p37/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001030000 +0000" stop="20251001052000 +0000">
+		<title>孤独のグルメ S9 第4〜7話</title>
+		<desc>井之頭五郎(松重豊)は数年ぶりに静岡県河津町を訪れ、かどやのわさび丼を食べていた。昔と変わらない主人のわさび愛に笑みをこぼす五郎。久しぶりに本場のわさび丼を満喫した五郎は、商談のため伊東市宇佐美駅に移動する。商談先の相手は、知り合いの美容師・横山綾香。商談中に回覧板を持ってきた近所のおばちゃんと横山の会話にどこか和まされつつ、商談を終えた五郎は、美容室をあとにする。  
+宇佐美のきれいな空気を味わいながら海を眺める五郎は気づけばすっかり空腹に。海沿いにある宇佐美の旨い魚料理の店を探すことに決めた五郎は歩き出す。しかし、魚料理どころか、のどかすぎて飲食店が一軒も見当たらず、ギラギラと照り続ける太陽に体力を奪われて次第に五郎はバテバテになる。するとそこに現れたのは「焼肉」の看板。精肉店と隣接する「お肉屋さんが営む焼き肉」五郎は喜び勇み店に入り...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001052000 +0000" stop="20251001062500 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#4【無料4日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★銀座の人気クラブ『中園』のママ・四条留美子(釈由美子)が、外科統括部長の蛭間(西田敏行)を訪ねて帝都医大にやってくる。政財界は言うに及ばず、芸能界、スポーツ界、そして医学会にも太いパイプを持つ留美子は、銀座の女帝として蛭間の出世にも一枚噛んでいるらしい。
+
+そんな留美子にすい臓の進行ガンが見つかる。蛭間に所見を聞かれた海老名教授(遠藤憲一)は、手術は難しいと判断。蛭間も化学療法の選択を勧めるが、留美子はそれを拒否。手術をしてくれなければ、蛭間の黒い秘密をすべて世間にバラすと、持参した黒革の手帖を突きつけて...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p4/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001062500 +0000" stop="20251001073500 +0000">
+		<title>DOCTORS2 最強の名医 第1話【無料2日間】</title>
+		<desc>堂上総合病院に赴任して2年。オペの腕はもちろんだが、緩急を織り交ぜて人の心を動かすことに長けたスーパードクター・相良浩介(沢村一樹)のおかげで、病院は以前とは見違えるほど患者の笑顔に満ち、ナースの佐知(比嘉愛未)をはじめスタッフは活気にあふれていた。
+
+しかし、ある日、院長のたまき(野際陽子)は引退を表明し、甥である外科医・森山卓(高嶋政伸)を新院長に指名する。森山の人格に不信感を抱く内科医・和枝(伊藤蘭)や看護師たちは動揺を隠せない。
+
+さらに、森山の担当患者である直子(山口美也子)の術後の経過が良くないことに不安を感じた直子の娘・美由紀(京野ことみ)が、担当医の交代を要求。だが、森山は当然のごとく怒りその申し出を却下してしまう。
+
+そんな状況の中、相良は“ある計画”を実行しようとするが......。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-57_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001073500 +0000" stop="20251001084500 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第38~39話</title>
+		<desc>友恵(島かおり)は、健一(小谷幸弘)がフリースクールを認めない大人たちに自分の考えをはっきりと話しているのを見る。その様子に感心した友恵は...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p38/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001084500 +0000" stop="20251001100000 +0000">
+		<title>黒革の手帖 第6話【無料2日間】</title>
+		<desc>ついに長谷川庄治(伊東四朗)から銀座の最高峰クラブ『ルダン』を買い取る準備を整えた原口元子(武井咲)は、手付金の5千万円を現金で支払い、売買契約書を交わす。
+長谷川との商談を終え自宅に戻った元子のもとに中岡市子(高畑淳子)が現れ、楢林謙治(奥田瑛二)から奪った5千万円を返すよう迫る。「何の話だかさっぱり」ととぼける元子に「あなたが破滅する前にまた来ます」と言い残し、立ち去る市子。黒革の手帖を眺め、「私は破滅などしない」と自分に言い聞かせる元子だったが、そんな自信を打ち砕くかのように驚愕の事実がもたらされる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-83_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001100000 +0000" stop="20251001120000 +0000">
+		<title>ドラゴン・キングダム(吹替)【無料1週間】</title>
+		<desc>ボストンに暮らす青年ジェイソンはカンフースターに憧れる"カンフーおたく"。カンフー映画のDVDを手に入れるため、老人オールド・ホップが営む質屋に通いジェイソンはそこで'金の棒'を見つける。
+ある日、不良からの命令でジェイソンはホップの質屋への強盗の手引きすることになってしまったが、その際ホップが不良に撃たれてしまった。ホップから'金の棒'を本物の持ち主に返すよう頼まれるジェイソンだったが、不良から逃げる途中にビルの屋上から転落してしまったのだ。
+しかし、目を覚ますとそこは古代中国!金の棒を持つジェイソンのもとに集う運命の仲間たち。最強の2人の師匠に鍛えられ巨大な悪に挑む冒険が始まるのだった!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/161-34_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001120000 +0000" stop="20251001141500 +0000">
+		<title>孤独のグルメ S9 第4〜7話</title>
+		<desc>井之頭五郎(松重豊)は数年ぶりに静岡県河津町を訪れ、かどやのわさび丼を食べていた。昔と変わらない主人のわさび愛に笑みをこぼす五郎。久しぶりに本場のわさび丼を満喫した五郎は、商談のため伊東市宇佐美駅に移動する。商談先の相手は、知り合いの美容師・横山綾香。商談中に回覧板を持ってきた近所のおばちゃんと横山の会話にどこか和まされつつ、商談を終えた五郎は、美容室をあとにする。  
+宇佐美のきれいな空気を味わいながら海を眺める五郎は気づけばすっかり空腹に。海沿いにある宇佐美の旨い魚料理の店を探すことに決めた五郎は歩き出す。しかし、魚料理どころか、のどかすぎて飲食店が一軒も見当たらず、ギラギラと照り続ける太陽に体力を奪われて次第に五郎はバテバテになる。するとそこに現れたのは「焼肉」の看板。精肉店と隣接する「お肉屋さんが営む焼き肉」五郎は喜び勇み店に入り...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001141500 +0000" stop="20251001152000 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#4【無料4日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★銀座の人気クラブ『中園』のママ・四条留美子(釈由美子)が、外科統括部長の蛭間(西田敏行)を訪ねて帝都医大にやってくる。政財界は言うに及ばず、芸能界、スポーツ界、そして医学会にも太いパイプを持つ留美子は、銀座の女帝として蛭間の出世にも一枚噛んでいるらしい。
+
+そんな留美子にすい臓の進行ガンが見つかる。蛭間に所見を聞かれた海老名教授(遠藤憲一)は、手術は難しいと判断。蛭間も化学療法の選択を勧めるが、留美子はそれを拒否。手術をしてくれなければ、蛭間の黒い秘密をすべて世間にバラすと、持参した黒革の手帖を突きつけて...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p4/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001152000 +0000" stop="20251001163000 +0000">
+		<title>モテキ 第4~5話【無料1週間】</title>
+		<desc>人生で一番好きだった女性、小宮山夏樹からの電話を受けて幸世はバーへと向かう...。久しぶりに会った夏樹にドキドキしながらも、最近モテ期であることを話す幸世。そんな幸世を夏樹はいつもの口調で冷やかす。そんな夏樹の態度に幸世は思わずイラついてしまい...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-1ytnhidgwiw_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001163000 +0000" stop="20251001170000 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第37話</title>
+		<desc>康夫(山本達也)が気になる茜(井上真央)は、中西(宇崎慧)と新潟に帰ろうかと悩む。しかし、健一(小谷幸弘)と浩(金澤匠)が茜を引き止め...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p37/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001170000 +0000" stop="20251001190500 +0000">
+		<title>ドラゴン・キングダム(字幕)【無料1週間】</title>
+		<desc>ボストンに暮らす青年ジェイソンはカンフースターに憧れる"カンフーおたく"。カンフー映画のDVDを手に入れるため、老人オールド・ホップが営む質屋に通いジェイソンはそこで'金の棒'を見つける。
+ある日、不良からの命令でジェイソンはホップの質屋への強盗の手引きすることになってしまったが、その際ホップが不良に撃たれてしまった。ホップから'金の棒'を本物の持ち主に返すよう頼まれるジェイソンだったが、不良から逃げる途中にビルの屋上から転落してしまったのだ。
+しかし、目を覚ますとそこは古代中国!金の棒を持つジェイソンのもとに集う運命の仲間たち。最強の2人の師匠に鍛えられ巨大な悪に挑む冒険が始まるのだった!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/161-33_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001190500 +0000" stop="20251001211500 +0000">
+		<title>東京上空いらいっしゃいませ【無料1週間】</title>
+		<desc>キャンペーンガールのユウ(牧瀬里穂)は、スポンサーの好色な専務・白雪恭一(笑福亭鶴瓶)の魔手から逃れようと、自動車からとび出した瞬間、後続の車にはねられ、死んでしまう。ユウの魂は東京上空へと舞い上って行ってしまった。広告代理店の担当・雨宮文夫(中井貴一)や白雪たちは、事故を隠してキャンペーンを続けることにする。一方、天国に昇ったユウは、白雪とウリ二つの死神・コオロギ(笑福亭鶴瓶)を騙して地上に舞い戻った。しかも、事故の知らせを聞いて右往左往している文夫のマンションに現れたのだった。もう死んでいることになっているユウは、家にも帰れず学校にも行けない。文夫はそんなユウと同居することになった。その頃、騙されたと知ったコオロギは、ユウをあの世へ連れ戻そうと付きまとう。それでもユウは健気に、新しい自分として一から生きていこうと頑張るのである。文夫はそんなユウがいじらしくなってきた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/550-23_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001211500 +0000" stop="20251001215000 +0000">
+		<title>モテキ 第5話【無料1週間】</title>
+		<desc>小宮山夏樹とついに熱いキスを交わした幸世。そして2人は...。そんな中、幸世は30歳の誕生日を迎え、母からのメールで父が腰を痛めていることを知る。久しぶりに帰った地元で幸世は元ヤンキーの同級生・林田尚子と再会し...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-1ytnhidgwiw_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001215000 +0000" stop="20251001230000 +0000">
+		<title>DOCTORS2 最強の名医 第2話【無料2日間】</title>
+		<desc>ある日、堂上病院で出産予定の妊婦・加奈(大河内奈々子)が腹痛を訴え緊急搬送されて来る。産婦人科の医師・小早川啓一(林泰文)によれば彼女は後腹膜腫瘍を患っており、一刻も早く腫瘍をオペで取り除く必要があった。彼女は現在、妊娠17週。胎児を帝王切開で取り出すには妊娠22週からだが、そこまで腫瘍を放置していたら母胎ともに危険な状態に陥ってしまう。
+
+どうにか母親と子ども両方の命を救う方法はないのだろうか。誰もが沈黙する中、温かく力強い言葉で加奈を励ます森山(高嶋政伸)。彼の意外な言葉に驚く一同。かねてよりたまき(野際陽子)から「人格者になれ」と言われていた森山は、その日の朝、たまたま本屋でガンジーの伝記を見かけ、購入していたのだ。ようやく彼も人格者への道を歩み始めたのか?だが、それを横で聞いていた相良(沢村一樹)は一人、厳しい表情を浮かべていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-57_s2_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251001230000 +0000" stop="20251002012000 +0000">
+		<title>孤独のグルメ S9 第8〜11話</title>
+		<desc>群馬県高崎市にて「焼きまんじゅう」のお店の席に座っている五郎(松重豊)。運ばれてきたのは、タレがたっぷりかかった、アンイリの焼きまんじゅう。さらにアンナシも食べ、小腹を満たした五郎は店を後にし、商談相手の藤山(田中俊介)が待つ事務所に向かう。藤山と一緒にいた事務員・白川(磯野貴理子)に五郎は手土産の洋菓子を渡すと、藤山は白川に耳打ちをし、お願いする...。  
+商談も終わりかけ「焼きまんじゅう」を白川が買って戻り、五郎に藤山が進めるが、既に食べてきたことを五郎が話すと、藤山は白川に「皆で食べて」とすぐに下げられてしまう。さっき食べてきたものの、まだまだ焼きまんじゅうを食べたかった五郎。おかげで一気に空腹になり、店を探すことに。すると、五郎の前に現れたのは「おにぎり処」。この出会いは何かの縁だ、と入店するが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002012000 +0000" stop="20251002022500 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#5【無料2日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★ゴッドハンドとして世界的に知られる外科医の日下部光彦(別所哲也)が、蛭間外科統括部長(西田敏行)の招聘に応じ、凱旋帰国を果たす。蛭間は日下部による公開手術を全国の大学病院にライブ中継しようと計画。天才ドクターとのつながりをアピールすることで、統括部長としての自分の株を上げようという算段だ。
+
+そんな日下部が、「私は失敗しないので」を世界で最初に使ったのは自分だと主張し、未知子(米倉涼子)にフレーズの使用禁止を言い渡す。確かに、日下部の手術は成功率100%を誇っていたが、晶(岸部一徳)の耳には、何かカラクリが存在するとの噂が届いていた...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002022500 +0000" stop="20251002030000 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第38話</title>
+		<desc>友恵(島かおり)は、健一(小谷幸弘)がフリースクールを認めない大人たちに自分の考えをはっきりと話しているのを見る。その様子に感心した友恵は...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p38/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002030000 +0000" stop="20251002052000 +0000">
+		<title>孤独のグルメ S9 第8〜11話</title>
+		<desc>群馬県高崎市にて「焼きまんじゅう」のお店の席に座っている五郎(松重豊)。運ばれてきたのは、タレがたっぷりかかった、アンイリの焼きまんじゅう。さらにアンナシも食べ、小腹を満たした五郎は店を後にし、商談相手の藤山(田中俊介)が待つ事務所に向かう。藤山と一緒にいた事務員・白川(磯野貴理子)に五郎は手土産の洋菓子を渡すと、藤山は白川に耳打ちをし、お願いする...。  
+商談も終わりかけ「焼きまんじゅう」を白川が買って戻り、五郎に藤山が進めるが、既に食べてきたことを五郎が話すと、藤山は白川に「皆で食べて」とすぐに下げられてしまう。さっき食べてきたものの、まだまだ焼きまんじゅうを食べたかった五郎。おかげで一気に空腹になり、店を探すことに。すると、五郎の前に現れたのは「おにぎり処」。この出会いは何かの縁だ、と入店するが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002052000 +0000" stop="20251002062500 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#5【無料4日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★ゴッドハンドとして世界的に知られる外科医の日下部光彦(別所哲也)が、蛭間外科統括部長(西田敏行)の招聘に応じ、凱旋帰国を果たす。蛭間は日下部による公開手術を全国の大学病院にライブ中継しようと計画。天才ドクターとのつながりをアピールすることで、統括部長としての自分の株を上げようという算段だ。
+
+そんな日下部が、「私は失敗しないので」を世界で最初に使ったのは自分だと主張し、未知子(米倉涼子)にフレーズの使用禁止を言い渡す。確かに、日下部の手術は成功率100%を誇っていたが、晶(岸部一徳)の耳には、何かカラクリが存在するとの噂が届いていた...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002062500 +0000" stop="20251002074000 +0000">
+		<title>DOCTORS2 最強の名医 第2話【無料2日間】</title>
+		<desc>ある日、堂上病院で出産予定の妊婦・加奈(大河内奈々子)が腹痛を訴え緊急搬送されて来る。産婦人科の医師・小早川啓一(林泰文)によれば彼女は後腹膜腫瘍を患っており、一刻も早く腫瘍をオペで取り除く必要があった。彼女は現在、妊娠17週。胎児を帝王切開で取り出すには妊娠22週からだが、そこまで腫瘍を放置していたら母胎ともに危険な状態に陥ってしまう。
+
+どうにか母親と子ども両方の命を救う方法はないのだろうか。誰もが沈黙する中、温かく力強い言葉で加奈を励ます森山(高嶋政伸)。彼の意外な言葉に驚く一同。かねてよりたまき(野際陽子)から「人格者になれ」と言われていた森山は、その日の朝、たまたま本屋でガンジーの伝記を見かけ、購入していたのだ。ようやく彼も人格者への道を歩み始めたのか?だが、それを横で聞いていた相良(沢村一樹)は一人、厳しい表情を浮かべていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-57_s2_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002074000 +0000" stop="20251002081500 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第40話</title>
+		<desc>茜(井上真央)が今井家を出て行ってしまうと、家中は静かに。残された一同は、みな寂しそうにしている。それを見かねた里香(宮崎真汐)は...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p40/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002081500 +0000" stop="20251002085000 +0000">
+		<title>キッズ・ウォー2~ざけんなよ~ 第1話</title>
+		<desc>今井大介(川野太郎)と春子(生稲晃子)の間に娘・真理が誕生。大介はリストラされ、春子が大工仕事に復帰。ある日、春子は学校から呼び出しされる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002085000 +0000" stop="20251002100000 +0000">
+		<title>黒革の手帖 第7話【無料2日間】</title>
+		<desc>長谷川庄治(伊東四朗)と約束した期日に契約金の残金を支払えなかったことで、『ルダン』を手に入れることはおろか、『カルネ』までも差し押さえられてしまった原口元子(武井咲)。長谷川は『カルネ』の新しい支配人として村井亨(滝藤賢一)を、そして新しいママとして山田波子(仲里依紗)を送り込み、いつのまにか黒革の手帖も奪われてしまった元子は文字通り、すべてを失ってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-83_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002100000 +0000" stop="20251002120000 +0000">
+		<title>決戦は日曜日【無料1週間】</title>
+		<desc>とある地方都市。谷村勉(30）は、この地に強い地盤を持ち当選を続ける衆議院議員・川島昌平（75）の事務所で私設秘書として働いている。秘書として中堅になり、川島の完璧な“サポートをするだけ”のこの仕事に満足していた。ところがある日、川島が病に倒れてしまう。そんなタイミングで衆議院が解散。次の選挙に川島の地盤を引き継ぎ、選挙に出る人間として白羽の矢が立ったのは、川島の娘・有美（45）。自由奔放、世間知らず。だけど謎の熱意だけはある有美に振り回される秘書たち。でもまあ、父・川島の地盤は盤石。よほどのことがない限り当選は確実・・・だったのだが、政界に蔓延る古くからの慣習に納得ができない有美はある行動を起こす―</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/158-102_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002120000 +0000" stop="20251002142000 +0000">
+		<title>孤独のグルメ S9 第8〜11話</title>
+		<desc>群馬県高崎市にて「焼きまんじゅう」のお店の席に座っている五郎(松重豊)。運ばれてきたのは、タレがたっぷりかかった、アンイリの焼きまんじゅう。さらにアンナシも食べ、小腹を満たした五郎は店を後にし、商談相手の藤山(田中俊介)が待つ事務所に向かう。藤山と一緒にいた事務員・白川(磯野貴理子)に五郎は手土産の洋菓子を渡すと、藤山は白川に耳打ちをし、お願いする...。  
+商談も終わりかけ「焼きまんじゅう」を白川が買って戻り、五郎に藤山が進めるが、既に食べてきたことを五郎が話すと、藤山は白川に「皆で食べて」とすぐに下げられてしまう。さっき食べてきたものの、まだまだ焼きまんじゅうを食べたかった五郎。おかげで一気に空腹になり、店を探すことに。すると、五郎の前に現れたのは「おにぎり処」。この出会いは何かの縁だ、と入店するが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002142000 +0000" stop="20251002152500 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#5【無料4日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★ゴッドハンドとして世界的に知られる外科医の日下部光彦(別所哲也)が、蛭間外科統括部長(西田敏行)の招聘に応じ、凱旋帰国を果たす。蛭間は日下部による公開手術を全国の大学病院にライブ中継しようと計画。天才ドクターとのつながりをアピールすることで、統括部長としての自分の株を上げようという算段だ。
+
+そんな日下部が、「私は失敗しないので」を世界で最初に使ったのは自分だと主張し、未知子(米倉涼子)にフレーズの使用禁止を言い渡す。確かに、日下部の手術は成功率100%を誇っていたが、晶(岸部一徳)の耳には、何かカラクリが存在するとの噂が届いていた...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002152500 +0000" stop="20251002164500 +0000">
+		<title>モテキ 第5~6話【無料1週間】</title>
+		<desc>小宮山夏樹とついに熱いキスを交わした幸世。そして2人は...。そんな中、幸世は30歳の誕生日を迎え、母からのメールで父が腰を痛めていることを知る。久しぶりに帰った地元で幸世は元ヤンキーの同級生・林田尚子と再会し...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-1ytnhidgwiw_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002164500 +0000" stop="20251002185000 +0000">
+		<title>東京上空いらいっしゃいませ【無料1週間】</title>
+		<desc>キャンペーンガールのユウ(牧瀬里穂)は、スポンサーの好色な専務・白雪恭一(笑福亭鶴瓶)の魔手から逃れようと、自動車からとび出した瞬間、後続の車にはねられ、死んでしまう。ユウの魂は東京上空へと舞い上って行ってしまった。広告代理店の担当・雨宮文夫(中井貴一)や白雪たちは、事故を隠してキャンペーンを続けることにする。一方、天国に昇ったユウは、白雪とウリ二つの死神・コオロギ(笑福亭鶴瓶)を騙して地上に舞い戻った。しかも、事故の知らせを聞いて右往左往している文夫のマンションに現れたのだった。もう死んでいることになっているユウは、家にも帰れず学校にも行けない。文夫はそんなユウと同居することになった。その頃、騙されたと知ったコオロギは、ユウをあの世へ連れ戻そうと付きまとう。それでもユウは健気に、新しい自分として一から生きていこうと頑張るのである。文夫はそんなユウがいじらしくなってきた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/550-23_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002185000 +0000" stop="20251002211500 +0000">
+		<title>ジョン・ウィック：パラベラム(字幕)[R15+]</title>
+		<desc>裏社会の聖域:コンチネンタルホテルでの不殺の掟を破った伝説の殺し屋、ジョン・ウィック。全てを奪ったマフィアへの壮絶な復讐の先に待っていたのは、裏社会の秩序を絶対とする組織の粛清だった。1,400万ドルの賞金首となった男に襲いくる、膨大な数の刺客たち。満身創痍となったジョンは、生き残りをかけて、かつて“血の誓印”を交わした女、ソフィアに協力を求めモロッコへ飛ぶ。しかし最強の暗殺集団を従えた組織は、追及の手をコンチネンタルホテルまで伸ばして、ジョンを追い詰める。 果たしてジョンは窮地を脱出し、再び自由を手にすることができるのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-55_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002211500 +0000" stop="20251002215000 +0000">
+		<title>モテキ 第6話【無料1週間】</title>
+		<desc>地元の同級生で元ヤンの林田尚子に「モテない男なりの戦い方」を伝授された幸世。東京に戻り、モテキ復讐編スタート!...と意気込む幸世の元に、以前一夜を共にする寸前までいった友人いつかの誕生日を祝う飲み会が開かれるという連絡が...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-1ytnhidgwiw_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002215000 +0000" stop="20251002230000 +0000">
+		<title>DOCTORS2 最強の名医 第3話【無料2日間】</title>
+		<desc>堂上総合病院に和枝(伊藤蘭)を訪ねて来た彼女の息子・雅也(中川大志)が帰り際、バイクにはねられて病院に搬送される。オペは相良(沢村一樹)が担当したが、ダメージはかなり深刻で、肝臓の60%を切除することになってしまう。最善は尽くしたものの、予断を許さない状況が続くことに相良は厳しい顔を隠せない。
+
+事故を起こしたバイクは飛び出して来たネコを避けようとして転び、雅也に衝突したという。それを聞いてハッとする森山(高嶋政伸)の表情を、相良は見逃さなかった。さらに佐知(比嘉愛未)と共に雅也の“ある秘密”を知ってしまった相良は、たまき(野際陽子)に外科のドクター全員とナースを集めて緊急カンファレンスを開くよう依頼する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-57_s2_p3/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002230000 +0000" stop="20251002233300 +0000">
+		<title>孤独のグルメ S9 第12話</title>
+		<desc>仕事で伊勢佐木長者町にやってきた井之頭五郎(松重豊)。古い街並みを通り、商談相手の伊藤良介が経営するお米屋さんにたどり着く。中に入ると、伊藤の妻の寛子が出て来て、五郎は何故か怒られてしまう。実は、夫の釣り仲間が営業マンのフリをして、夫を釣りに連れ出そうとしに来ていると勘違いされていたのだ。なんとか誤解が解け、商談を始めるがお米屋さんで売っている【おむすび】が気になり商談に集中できない。  
+なんとか商談を終え、お目当ての【にんにくおむすび】を買おうとするが、売り切れてしまっていた。すっかり空腹の五郎は店を探すために歩き出す。すると目の前に「パスタ&amp;ピザ」さらに「ファミリーレストラン」の文字が。一度は迷ったが表のランチメニューに惹かれて中に入る...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p12/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251002233300 +0000" stop="20251003010000 +0000">
+		<title>孤独のグルメ2021大晦日スペシャル〜激走！絶景絶品・年忘れロードムービー</title>
+		<desc>輸入雑貨商の井之頭五郎(松重豊)は仕事納めで京都府伊根町にある舟屋の主人・蓑田康雄(小籔千豊)と年内最後の商談をしていた。商談を終え帰ろうとすると、東京へ届けて欲しい物があると相談され五郎はOKするが...なんとその届け物は車だった。方向も解らぬまま一路東京を目指すが...迷いたどり着いたのは兵庫県丹波篠山。東京までの絶景と絶品を巡る、珍道中が幕をあける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-21_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251003010000 +0000" stop="20251003020500 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#6【無料2日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★講師の近藤忍(藤木直人)と海老名教授(遠藤憲一)が次期主任教授の座をめぐり攻防を繰り広げる中、近藤の父・六助(泉谷しげる)が地元で診察してもらった自分のカルテを手に、大学病院を訪ねてくる。競馬と酒が趣味で自転車店を営む六助は、ステータスを尊ぶ大学病院で出世を目論む近藤にとってアキレス腱のような存在だった。
+
+近藤は、「お前に診てもらいたい」という六助の訴えを、カルテも見ずに飲酒による肝炎だと退けると、六助の相手を未知子(米倉涼子)に任せ、蛭間外科統括部長(西田敏行)に付き従い行ってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p6/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251003020500 +0000" stop="20251003030000 +0000">
+		<title>キッズ・ウォー~ざけんなよ~ 第39~40話</title>
+		<desc>家を飛び出した里香(宮崎真汐)に、春子(生稲晃子)は人を思いやるよう諭す。一方、茜(井上真央)は体調を崩した中西(宇崎慧)を思い、新潟に行くことを決心する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s1_p39/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251003030000 +0000" stop="20251003033300 +0000">
+		<title>孤独のグルメ S9 第12話</title>
+		<desc>仕事で伊勢佐木長者町にやってきた井之頭五郎(松重豊)。古い街並みを通り、商談相手の伊藤良介が経営するお米屋さんにたどり着く。中に入ると、伊藤の妻の寛子が出て来て、五郎は何故か怒られてしまう。実は、夫の釣り仲間が営業マンのフリをして、夫を釣りに連れ出そうとしに来ていると勘違いされていたのだ。なんとか誤解が解け、商談を始めるがお米屋さんで売っている【おむすび】が気になり商談に集中できない。  
+なんとか商談を終え、お目当ての【にんにくおむすび】を買おうとするが、売り切れてしまっていた。すっかり空腹の五郎は店を探すために歩き出す。すると目の前に「パスタ&amp;ピザ」さらに「ファミリーレストラン」の文字が。一度は迷ったが表のランチメニューに惹かれて中に入る...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p12/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251003033300 +0000" stop="20251003050000 +0000">
+		<title>孤独のグルメ2021大晦日スペシャル〜激走！絶景絶品・年忘れロードムービー</title>
+		<desc>輸入雑貨商の井之頭五郎(松重豊)は仕事納めで京都府伊根町にある舟屋の主人・蓑田康雄(小籔千豊)と年内最後の商談をしていた。商談を終え帰ろうとすると、東京へ届けて欲しい物があると相談され五郎はOKするが...なんとその届け物は車だった。方向も解らぬまま一路東京を目指すが...迷いたどり着いたのは兵庫県丹波篠山。東京までの絶景と絶品を巡る、珍道中が幕をあける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-21_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251003050000 +0000" stop="20251003060000 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#6【無料4日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★講師の近藤忍(藤木直人)と海老名教授(遠藤憲一)が次期主任教授の座をめぐり攻防を繰り広げる中、近藤の父・六助(泉谷しげる)が地元で診察してもらった自分のカルテを手に、大学病院を訪ねてくる。競馬と酒が趣味で自転車店を営む六助は、ステータスを尊ぶ大学病院で出世を目論む近藤にとってアキレス腱のような存在だった。
+
+近藤は、「お前に診てもらいたい」という六助の訴えを、カルテも見ずに飲酒による肝炎だと退けると、六助の相手を未知子(米倉涼子)に任せ、蛭間外科統括部長(西田敏行)に付き従い行ってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p6/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251003060000 +0000" stop="20251003063500 +0000">
+		<title>キッズ・ウォー2~ざけんなよ~ 第1話</title>
+		<desc>今井大介(川野太郎)と春子(生稲晃子)の間に娘・真理が誕生。大介はリストラされ、春子が大工仕事に復帰。ある日、春子は学校から呼び出しされる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251003063500 +0000" stop="20251003075000 +0000">
+		<title>DOCTORS2 最強の名医 第3話【無料2日間】</title>
+		<desc>堂上総合病院に和枝(伊藤蘭)を訪ねて来た彼女の息子・雅也(中川大志)が帰り際、バイクにはねられて病院に搬送される。オペは相良(沢村一樹)が担当したが、ダメージはかなり深刻で、肝臓の60%を切除することになってしまう。最善は尽くしたものの、予断を許さない状況が続くことに相良は厳しい顔を隠せない。
+
+事故を起こしたバイクは飛び出して来たネコを避けようとして転び、雅也に衝突したという。それを聞いてハッとする森山(高嶋政伸)の表情を、相良は見逃さなかった。さらに佐知(比嘉愛未)と共に雅也の“ある秘密”を知ってしまった相良は、たまき(野際陽子)に外科のドクター全員とナースを集めて緊急カンファレンスを開くよう依頼する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-57_s2_p3/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251003075000 +0000" stop="20251003082500 +0000">
+		<title>キッズ・ウォー2~ざけんなよ~ 第2話</title>
+		<desc>美沙(堀部知穂)の髪の色を責め続ける山村(正希光)。茜(井上真央)は自分の髪を金色に染め、派手な服装で登校。再び呼びつけられた春子(生稲晃子)は...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/722-2_s2_p2/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251003082500 +0000" stop="20251003093500 +0000">
+		<title>黒革の手帖 第8話【無料2日間】</title>
+		<desc>安島富夫(江口洋介)から渡された封筒を手に、もう一度長谷川庄治(伊東四朗)に会う約束を取り付けた原口元子(武井咲)。何度どん底に突き落とされても諦めず『カルネ』の権利を返すよう迫る元子に、長谷川は「ゆとり世代は何を考えているのかわからんと聞いていたが、君の度胸には感服だ」と、ついに要求を受け入れる。
+観念した長谷川が覚書にサインをしたそのとき、思いがけない事態が起こり...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-83_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251003093500 +0000" stop="20251003120000 +0000">
+		<title>ジョン・ウィック：パラベラム(吹替)[R15+]</title>
+		<desc>裏社会の聖域:コンチネンタルホテルでの不殺の掟を破った伝説の殺し屋、ジョン・ウィック。全てを奪ったマフィアへの壮絶な復讐の先に待っていたのは、裏社会の秩序を絶対とする組織の粛清だった。1,400万ドルの賞金首となった男に襲いくる、膨大な数の刺客たち。満身創痍となったジョンは、生き残りをかけて、かつて“血の誓印”を交わした女、ソフィアに協力を求めモロッコへ飛ぶ。しかし最強の暗殺集団を従えた組織は、追及の手をコンチネンタルホテルまで伸ばして、ジョンを追い詰める。 果たしてジョンは窮地を脱出し、再び自由を手にすることができるのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-56_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251003120000 +0000" stop="20251003124000 +0000">
+		<title>孤独のグルメ S9 第12話</title>
+		<desc>仕事で伊勢佐木長者町にやってきた井之頭五郎(松重豊)。古い街並みを通り、商談相手の伊藤良介が経営するお米屋さんにたどり着く。中に入ると、伊藤の妻の寛子が出て来て、五郎は何故か怒られてしまう。実は、夫の釣り仲間が営業マンのフリをして、夫を釣りに連れ出そうとしに来ていると勘違いされていたのだ。なんとか誤解が解け、商談を始めるがお米屋さんで売っている【おむすび】が気になり商談に集中できない。  
+なんとか商談を終え、お目当ての【にんにくおむすび】を買おうとするが、売り切れてしまっていた。すっかり空腹の五郎は店を探すために歩き出す。すると目の前に「パスタ&amp;ピザ」さらに「ファミリーレストラン」の文字が。一度は迷ったが表のランチメニューに惹かれて中に入る...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-24_s9_p12/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251003124000 +0000" stop="20251003141300 +0000">
+		<title>孤独のグルメ2021大晦日スペシャル〜激走！絶景絶品・年忘れロードムービー</title>
+		<desc>輸入雑貨商の井之頭五郎(松重豊)は仕事納めで京都府伊根町にある舟屋の主人・蓑田康雄(小籔千豊)と年内最後の商談をしていた。商談を終え帰ろうとすると、東京へ届けて欲しい物があると相談され五郎はOKするが...なんとその届け物は車だった。方向も解らぬまま一路東京を目指すが...迷いたどり着いたのは兵庫県丹波篠山。東京までの絶景と絶品を巡る、珍道中が幕をあける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-21_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="drama" start="20251003141300 +0000" stop="20251003152000 +0000">
+		<title>ドクターX～外科医・大門未知子～（2013）#6【無料4日間】</title>
+		<desc>★「ドクターX」最新シリーズ大ヒット記念!シリーズ第2作をAbemaTVで一挙放送!★講師の近藤忍(藤木直人)と海老名教授(遠藤憲一)が次期主任教授の座をめぐり攻防を繰り広げる中、近藤の父・六助(泉谷しげる)が地元で診察してもらった自分のカルテを手に、大学病院を訪ねてくる。競馬と酒が趣味で自転車店を営む六助は、ステータスを尊ぶ大学病院で出世を目論む近藤にとってアキレス腱のような存在だった。
+
+近藤は、「お前に診てもらいたい」という六助の訴えを、カルテも見ずに飲酒による肝炎だと退けると、六助の相手を未知子(米倉涼子)に任せ、蛭間外科統括部長(西田敏行)に付き従い行ってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-6_s0_p6/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20250918145500 +0000" stop="20250918163000 +0000">
 		<title>高レート裏麻雀列伝 むこうぶち 第12話【無料1週間】</title>
@@ -22155,6 +23305,63 @@ EX風林火山vsKADOKAWAサクラナイツvsKONAMI 麻雀格闘倶楽部vsTEAM R
 		<desc>EX風林火山より2名、KADOKAWAサクラナイツより1名、BEAST Xより2名、新チーム参画により新たに4名、合計7名以上の新Mリーガーが誕生する、目が離せないドラフト会議。次のMリーガーになるのは一体誰だ?!注目のドラフト会議を生中継でお届けします</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p345/thumb001.png" />
 	</programme>
+	<programme channel="mahjong-live" start="20250924030000 +0000" stop="20250924145000 +0000">
+		<title>第50期最高位戦A1リーグ 第11節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p30/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250924145000 +0000" stop="20250925100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250925100000 +0000" stop="20250925170000 +0000">
+		<title>大和証券 Mリーグ 風林火山vsサクラナイツvsABEMASvsBEAST</title>
+		<desc>EX風林火山より2名、KADOKAWAサクラナイツより1名、BEAST Xより2名、新チーム参画により新たに4名、合計7名以上の新Mリーガーが誕生する、目が離せないドラフト会議。次のMリーガーになるのは一体誰だ?!注目のドラフト会議を生中継でお届けします</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p338/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250925170000 +0000" stop="20250926100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250926100000 +0000" stop="20250926170000 +0000">
+		<title>大和証券 Mリーグ JETSvs風林火山vs麻雀格闘倶楽部vsフェニックス</title>
+		<desc>EX風林火山より2名、KADOKAWAサクラナイツより1名、BEAST Xより2名、新チーム参画により新たに4名、合計7名以上の新Mリーガーが誕生する、目が離せないドラフト会議。次のMリーガーになるのは一体誰だ?!注目のドラフト会議を生中継でお届けします</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p339/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250926170000 +0000" stop="20251001030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251001030000 +0000" stop="20251001145000 +0000">
+		<title>第50期最高位戦A1リーグ 第11節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p31/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251001145000 +0000" stop="20251002100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251002100000 +0000" stop="20251002170000 +0000">
+		<title>大和証券 Mリーグ 風林火山vs麻雀格闘倶楽部vsフェニックスvsBEAST</title>
+		<desc>EX風林火山より2名、KADOKAWAサクラナイツより1名、BEAST Xより2名、新チーム参画により新たに4名、合計7名以上の新Mリーガーが誕生する、目が離せないドラフト会議。次のMリーガーになるのは一体誰だ?!注目のドラフト会議を生中継でお届けします</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p344/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251002170000 +0000" stop="20251003100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251003100000 +0000" stop="20251003170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvsサクラナイツvs雷電vsBEAST</title>
+		<desc>EX風林火山より2名、KADOKAWAサクラナイツより1名、BEAST Xより2名、新チーム参画により新たに4名、合計7名以上の新Mリーガーが誕生する、目が離せないドラフト会議。次のMリーガーになるのは一体誰だ?!注目のドラフト会議を生中継でお届けします</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p346/thumb001.png" />
+	</programme>
 	<programme channel="shogi" start="20250918140000 +0000" stop="20250918230700 +0000">
 		<title>【再】第38期竜王戦 挑戦者決定三番勝負第一局 佐々木勇気八段 対 石田直裕六段</title>
 		<desc>竜王戦は全棋士と女流棋士4名・奨励会員1名・アマチュア5名で行われます。1組から6組に分けてトーナメント戦を行い、各組の上位者の計11名で挑戦者決定トーナメントを行い、挑戦者を決めます。例年10月から12月にかけて竜王と挑戦者が七番勝負を行います。</desc>
@@ -22341,15 +23548,38 @@ EX風林火山vsKADOKAWAサクラナイツvsKONAMI 麻雀格闘倶楽部vsTEAM R
 		<desc>叡王戦は全棋士の段位別予選と本戦を勝ち抜いた2名が決勝五番勝負を行い、先に3勝した棋士が「叡王」の称号を獲得します(第4期以降は本戦優勝者が叡王への挑戦権を獲得)。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-89_s9_p11/thumb001.png" />
 	</programme>
-	<programme channel="shogi" start="20251001204300 +0000" stop="20251002233000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
+	<programme channel="shogi" start="20251001204300 +0000" stop="20251002053200 +0000">
+		<title>【再】第96期ヒューリック杯棋聖戦五番勝負第1局 藤井聡太棋聖 対 杉本和陽六段</title>
+		<desc>棋聖戦は、全棋士と女流棋士2名で行う。一次予選・二次予選をトーナメントで行い、その勝ち上がり者とシード棋士の16名で決勝トーナメントを行う。その優勝者と棋聖が、例年6月から8月にかけて五番勝負を行う。(第81期よりシステム変更)</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-13_s97_p19/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20251002053200 +0000" stop="20251002191000 +0000">
+		<title>【再】伊藤園お〜いお茶杯第66期王位戦七番勝負第2局 藤井聡太王位対永瀬拓矢九段</title>
+		<desc>王位戦は、全棋士と女流棋士2名で行います。予選をトーナメントで行い、その勝ち上がり者とシード棋士4人により紅白2ブロックに分けてリーグ戦を行います。
+リーグ戦の優勝者はリーグ戦勝敗を優先とし、同星で並んだ場合、
+(1)4勝1敗で並んだ場合、該当者が2名・3名に関わらずプレーオフを行います《3名の場合は、前期成績(前期リーグ勝星&gt;前期予選勝星)でシード者を決め、1回戦は残留決定戦を兼ねる》。
+(2)3勝2敗で並んだ場合、3名では該当する直接対決&gt;前期成績(前期リーグ勝星&gt;前期予選勝星)、4名では該当する直接対決、5名では前期成績(前期リーグ勝星&gt;前期予選勝星)で優勝者・残留者を決めます。紅白の優勝者で挑戦者決定戦を行います。王位とその挑戦者決定戦の勝者が、例年7月から9月にかけて七番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-11_s67_p9/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20251002191000 +0000" stop="20251002194200 +0000">
+		<title>AbemaTV初級講座 四間飛車編</title>
+		<desc>シリーズでお送りするAbemaTVオリジナルの将棋講座。振り飛車でも特に人気の四間飛車。初形から駒組み完成までの手順を丁寧に解説。大事なポイントがいくつも出てきます。相手の攻めをかわして戦うテクニックは必見です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/288-4_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20251002194200 +0000" stop="20251002233000 +0000">
+		<title>【再】第18回朝日杯本戦トーナメント 藤井聡太竜王・名人 対 服部慎一郎六段</title>
+		<desc>朝日杯は全棋士、アマチュア10人、女流棋士3人によるトーナメントです。 1次予選から本戦まで全てがトーナメントで、決勝も1番勝負となります。優勝者が獲得する賞金は750万円。1次予選、2次予選、本戦(16名)のトーナメント制で持ち時間は40分となります。 朝日アマ名人、朝日アマ名人戦全国大会ベスト8進出者、学生名人の計10名。女流棋士は主催者推薦3名を選抜。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-183_s180_p303/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20251002233000 +0000" stop="20251003103000 +0000">
 		<title>第38期 竜王戦 七番勝負 第1局1日目 藤井聡太竜王 対 佐々木勇気八段</title>
 		<desc>竜王戦は全棋士と女流棋士4名・奨励会員1名・アマチュア5名で行われます。1組から6組に分けてトーナメント戦を行い、各組の上位者の計11名で挑戦者決定トーナメントを行い、挑戦者を決めます。例年10月から12月にかけて竜王と挑戦者が七番勝負を行います。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-12_s10000_p42/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20251003103000 +0000" stop="20251003190000 +0000">
+		<title>【再】第50期棋王戦コナミグループ杯五番勝負第3局 藤井聡太棋王対増田康宏八段</title>
+		<desc>棋王戦は、全棋士と女流名人、アマ名人で行います。予選をトーナメントで行い、その通過者とシード者で本戦トーナメントを行います。なお、本戦はベスト4以上は2敗失格制となり、敗者復活戦があります。挑戦者決定戦は変則2番勝負で、勝者組優勝者は2局のうち1回勝てば挑戦権を得ますが、敗者復活戦優勝者は2連勝が挑戦の条件となります。棋王とその優勝者が、例年2月から3月にかけて五番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-31_s50_p11/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250918123000 +0000" stop="20250918153000 +0000">
 		<title>【第3試合】ロコ・ソラーレvsTeam Wrana|25.1.17</title>
@@ -27328,7 +28558,16 @@ C-ZUKA vs KAI
 斉藤雄太 vs 大野祐志郎</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-127_s80_p5/thumb001.png" />
 	</programme>
-	<programme channel="fighting-sports" start="20250929190000 +0000" stop="20250930120000 +0000">
+	<programme channel="fighting-sports" start="20250929190000 +0000" stop="20250929193000 +0000">
+		<title>マッコイ&amp;芦澤デートなの?ラブラブ&amp;ブチギレドライブ! 前編</title>
+		<desc>とにかくなんでも噛み付く男・芦澤竜誠が日本全国を巡る旅に出た!
+旅のお供は、芦澤に文句が言える唯一の天敵・マッコイ斎藤!
+
+ゆく先々で起こるハプニングや喧嘩、そして、ちょっと泣ける感動話まで。
+今、最高にスリリングな旅がはじまる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-124_s10_p33/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20250929193000 +0000" stop="20250930120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
