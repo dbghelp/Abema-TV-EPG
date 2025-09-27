@@ -164,6 +164,10 @@
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
 	</channel>
+	<channel id="fighting-sports2">
+		<display-name>格闘 2チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports2/logo.png" />
+	</channel>
 	<channel id="hiphop">
 		<display-name>HIPHOPチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/hiphop/logo.png" />
@@ -3112,7 +3116,17 @@ W杯優勝を夢見る同級生の御影玲王が、その才能を見つけだ�
 		<desc>お通と神楽が組んだ新ユニット、「HDZ(ハナクソダイヤモンズ)48」の前に現れたのは、宇宙一のアイドル、ビチエがセンターを務める銀河系アイドル特殊部隊「GKB(ギャラクシーキングダムビッチ)48」だった。銀河中のトップアイドルが集まったGKB48の、手段を選ばない 「本物の握手会」 で、男たちは骨抜きにされていく。ファンを奪われ、愕然と立ち尽くすお通。さらにビチエはお通と江戸のトップアイドルの座をかけた勝負をしかけてきて!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-47_s8_p22/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime-2" start="20250930003000 +0000" stop="20251004143000 +0000">
+	<programme channel="abema-anime-2" start="20250930003000 +0000" stop="20251004130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20251004130000 +0000" stop="20251004140000 +0000">
+		<title>「SPY×FAMILY」オペレーション〈アベマ〉Season 3 放送直前特番</title>
+		<desc>-</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p120/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20251004140000 +0000" stop="20251004143000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png" />
@@ -3731,6 +3745,23 @@ W杯優勝を夢見る同級生の御影玲王が、その才能を見つけだ�
 個性豊かなダークエルフたちを国民とし、この世界ではチートとも言えるゲームシステムを利用しながら、
 英雄・アトゥと共に国家運営を進めていく――。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p85/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20251002043000 +0000" stop="20251004030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20251004030000 +0000" stop="20251004090000 +0000">
+		<title>「おそ松さん」第4期 #1〜12【無料ビデオ3日間】</title>
+		<desc>あの“おそ松さん”がまたまたお茶の間に戻って来る。　第一期放送から１０年。今のご時世を鑑みたとき、“おそ松さん”は果たしてよい子のアニメにふさわしいのか？
+徹底検証――　密着！ニートな６つ子２４時！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-33_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20251004090000 +0000" stop="20251004150000 +0000">
+		<title>「おそ松さん」第4期 #1〜12【無料ビデオ3日間】</title>
+		<desc>あの“おそ松さん”がまたまたお茶の間に戻って来る。　第一期放送から１０年。今のご時世を鑑みたとき、“おそ松さん”は果たしてよい子のアニメにふさわしいのか？
+徹底検証――　密着！ニートな６つ子２４時！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-33_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="heroaca" start="20250919060000 +0000" stop="20250919163000 +0000">
 		<title>僕のヒーローアカデミア 第7期 #139〜159【無料1週間】</title>
@@ -10339,15 +10370,10 @@ First StageからThird Stageまでの17バトルをリメイク。
 そんな吾郎に、母・桃子は「勝手やった自分の学費は、自分でかせぎなさい」と厳しい。そこで編入が決まるまで、吾郎はアルバイトを始めるが…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-4actjwisxmc_s3_p1/thumb001.png" />
 	</programme>
-	<programme channel="00s-anime-1" start="20250928190000 +0000" stop="20250929013000 +0000">
-		<title>メジャー 第3シリーズ #14～26【無料ビデオ1週間】</title>
-		<desc>キーンとの賭けに敗れた吾郎。思いは複雑だが、キーンのリードでチームが勝っているので、何もいえない。次のバイパース戦、先発のケサダは、前回の対戦でホームランをあびた敵の4番に、今度は抑える、と燃えていたが、キーンは敬遠を指示し、冷徹に「プライドを捨てろ」といい放つ…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-5dywpejissp_s4_p14/thumb001.png" />
-	</programme>
-	<programme channel="00s-anime-1" start="20250929013000 +0000" stop="20250929080000 +0000">
-		<title>メジャー 第3シリーズ #14～26【無料ビデオ1週間】</title>
-		<desc>キーンとの賭けに敗れた吾郎。思いは複雑だが、キーンのリードでチームが勝っているので、何もいえない。次のバイパース戦、先発のケサダは、前回の対戦でホームランをあびた敵の4番に、今度は抑える、と燃えていたが、キーンは敬遠を指示し、冷徹に「プライドを捨てろ」といい放つ…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-5dywpejissp_s4_p14/thumb001.png" />
+	<programme channel="00s-anime-1" start="20250928190000 +0000" stop="20250929080000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/00s-anime-1/logo.png" />
 	</programme>
 	<programme channel="00s-anime-1" start="20250929080000 +0000" stop="20250929143000 +0000">
 		<title>メジャー 第4シリーズ #1〜13【無料ビデオ1週間】</title>
@@ -30650,6 +30676,54 @@ C-ZUKA vs KAI
 		<title>WWE　SMACKDOWN &amp; ABEMA #105</title>
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10006_p105/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports2" start="20250927040000 +0000" stop="20250927081500 +0000">
+		<title>Breaking Down.17 冒頭5試合無料</title>
+		<desc>最も話題になる格闘イベント「BreakingDown」の第17弾をPPV生中継！ 
+プロアマ問わず、我こそはと集結した喧嘩自慢たちが繰り広げる "1分間最強" を決める新感覚の格闘エンターテインメント。
+本配信では冒頭5試合を無料生中継いたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/527-643_s20005_p1/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports2" start="20250927081500 +0000" stop="20250927130000 +0000">
+		<title>Krush.180</title>
+		<desc>超攻撃型打撃格闘技「Krush」2025年9月27日後楽園ホールで行われる「Krush.180」の模様を生中継！
+
+プレリミナリーファイト/Krushスーパー・バンタム級/3分3R
+近藤壮真 vs 許裕雅
+
+プレリミナリーファイト/Krushバンタム級/3分3R
+小寺雄太 vs 新井真惺
+
+プレリミナリーファイト/Krushフェザー級/3分3R
+小野寺隼 vs 山本竜輝
+
+Krush女子アトム級/3分3R・延長1R
+紗依茄 vs 加藤りこ
+
+Krush女子フライ級/3分3R・延長1R
+ケイト・ウィラサクレック vs Yuka☆
+
+Krushフェザー級/3分3R・延長1R
+啓斗 vs 長野龍生
+
+Krusuスーパー・フェザー級/3分3R・延長1R
+岡嶋形徒 vs 上野奏貴
+
+Krusuスーパー・フェザー級/3分3R・延長1R
+西元也史 vs 小森玲哉
+
+Krushフェザー級/3分3R・延長1R
+松本海翔 vs 水津空良
+
+Krushフェザー級/3分3R・延長1R
+大脇武 vs 関口功誠
+
+Krushライト級/3分3R・延長1R
+篠原悠人 vs 瑠久
+
+Krushライト級/3分3R・延長1R
+大谷翔司 vs 児玉兼慎</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-148_s10011_p1/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20250919130000 +0000" stop="20250919151500 +0000">
 		<title>【見逃し】地獄ノート旅 -PAGE.4~6-</title>
