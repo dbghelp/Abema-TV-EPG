@@ -136,6 +136,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -5056,9 +5060,12 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/189-11_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20251002122700 +0000" stop="20251002123000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
+		<title>ダイキン空気予報 10/2</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p185/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20251002123000 +0000" stop="20251002130000 +0000">
 		<title>声優と夜あそび 繋【金田朋子×そびー×岡本信彦】#34</title>
@@ -5487,6 +5494,66 @@ TVアニメ「おそ松さん」10周年突入！
 		<title>あたしンち #465〜516【無料ビデオ1週間】</title>
 		<desc>台所で上の戸棚を開けて土鍋を探してる母。「あ、やっぱりここだった」と言い母は足をシンクに乗せ戸棚に手を掛け土鍋を取ろうとしていた。居間のソファで新聞を読んでいた父。すると「んきゃ～っ、お父さん、助けて～！」と台所から母の声。「ん？なんなんだー」と慌てて台所に来た父は母の姿を見ておもわず…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p465/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20251002190000 +0000" stop="20251003030000 +0000">
+		<title>あたしンち #517〜568【無料ビデオ1週間】</title>
+		<desc>前に買ったカーナビを使って、富士山へのドライブに再挑戦する父。今後こそ無事に到着できるか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p517/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20251003030000 +0000" stop="20251003110000 +0000">
+		<title>あたしンち #517〜568【無料ビデオ1週間】</title>
+		<desc>前に買ったカーナビを使って、富士山へのドライブに再挑戦する父。今後こそ無事に到着できるか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p517/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20251003110000 +0000" stop="20251003190000 +0000">
+		<title>あたしンち #517〜568【無料ビデオ1週間】</title>
+		<desc>前に買ったカーナビを使って、富士山へのドライブに再挑戦する父。今後こそ無事に到着できるか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p517/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20251003190000 +0000" stop="20251004030000 +0000">
+		<title>新あたしンち #1〜19【無料ビデオ1週間】</title>
+		<desc>「母『強気で！』」何事にも強気で突き進む母に、全くついて行けないみかん。そんなある日、みかんは岩木くんに近づく大チャンスを迎える…！？母の助言が、みかんの背中を押す！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-3_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20251004030000 +0000" stop="20251004110000 +0000">
+		<title>新あたしンち #1〜19【無料ビデオ1週間】</title>
+		<desc>「母『強気で！』」何事にも強気で突き進む母に、全くついて行けないみかん。そんなある日、みかんは岩木くんに近づく大チャンスを迎える…！？母の助言が、みかんの背中を押す！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-3_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20251004110000 +0000" stop="20251004190000 +0000">
+		<title>新あたしンち #1〜19【無料ビデオ1週間】</title>
+		<desc>「母『強気で！』」何事にも強気で突き進む母に、全くついて行けないみかん。そんなある日、みかんは岩木くんに近づく大チャンスを迎える…！？母の助言が、みかんの背中を押す！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-3_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20251004190000 +0000" stop="20251004223000 +0000">
+		<title>新あたしンち #20〜26【無料ビデオ1週間】</title>
+		<desc>「よく食べるたっくん」またまた、たっくんのお世話を頼まれるユズヒコ。普段は食の細いたっくんだが、この日はユズヒコと一緒にホットドッグや魚肉ソーセージを食べまくる！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-3_s0_p20/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20251004223000 +0000" stop="20251005030000 +0000">
+		<title>あたしンち #569〜596【無料ビデオ1週間】</title>
+		<desc>珍しく母とユズだけの二人だけの夕食。ユズはさっさと食べ終わり部屋に戻ってしまう。最近母を頼ることがなくなり、自立しようとしているユズにちょっと寂しくなるのであった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p569/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20251005030000 +0000" stop="20251005063000 +0000">
+		<title>新あたしンち #20〜26【無料ビデオ1週間】</title>
+		<desc>「よく食べるたっくん」またまた、たっくんのお世話を頼まれるユズヒコ。普段は食の細いたっくんだが、この日はユズヒコと一緒にホットドッグや魚肉ソーセージを食べまくる！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-3_s0_p20/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20251005063000 +0000" stop="20251005110000 +0000">
+		<title>あたしンち #569〜596【無料ビデオ1週間】</title>
+		<desc>珍しく母とユズだけの二人だけの夕食。ユズはさっさと食べ終わり部屋に戻ってしまう。最近母を頼ることがなくなり、自立しようとしているユズにちょっと寂しくなるのであった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p569/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20251005110000 +0000" stop="20251005143000 +0000">
+		<title>新あたしンち #20〜26【無料ビデオ1週間】</title>
+		<desc>「よく食べるたっくん」またまた、たっくんのお世話を頼まれるユズヒコ。普段は食の細いたっくんだが、この日はユズヒコと一緒にホットドッグや魚肉ソーセージを食べまくる！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-3_s0_p20/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20251005143000 +0000" stop="20251005190000 +0000">
+		<title>あたしンち #569〜596【無料ビデオ1週間】</title>
+		<desc>珍しく母とユズだけの二人だけの夕食。ユズはさっさと食べ終わり部屋に戻ってしまう。最近母を頼ることがなくなり、自立しようとしているユズにちょっと寂しくなるのであった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p569/thumb001.png" />
 	</programme>
 	<programme channel="pokemon-1" start="20250924100000 +0000" stop="20250924180000 +0000">
 		<title>ポケットモンスター（1997） #241〜256【無料ビデオ1週間】</title>
@@ -6610,9 +6677,12 @@ TVアニメ「おそ松さん」10周年突入！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p7/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20251002111200 +0000" stop="20251002111500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 10/2</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p185/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20251002111500 +0000" stop="20251002130500 +0000">
 		<title>映画ドラえもん のび太と銀河超特急</title>
@@ -9668,9 +9738,12 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251002115700 +0000" stop="20251002120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 10/2</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p185/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251002120000 +0000" stop="20251002130000 +0000">
 		<title>ABEMAさんに恩返ししたいねん　～競馬で稼いで制作費２５０万円全額返済～</title>
@@ -9723,9 +9796,12 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251002145700 +0000" stop="20251002150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 10/2</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p185/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251002150000 +0000" stop="20251002183200 +0000">
 		<title>シロでもクロでもない世界で、パンダは笑う。第7話~最終話【ABEMA初】</title>
@@ -9828,7 +9904,7 @@ I Don't Like Mondays.『With you』
 「納得！驚き！いい話！！」ありの明日からの生活に役立つ！？かもしれない情報バラエティ
 
 #pr</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p135/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-309_s1_p110/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251003123000 +0000" stop="20251003130000 +0000">
 		<title>For JAPAN シーズン3 #25</title>
@@ -9858,7 +9934,7 @@ I Don't Like Mondays.『With you』
 
 
 提供：マルハン北日本カンパニー</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p134/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p53/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251003143000 +0000" stop="20251003150000 +0000">
 		<title>脳汁じゅ〜す Season2 #12</title>
@@ -9957,7 +10033,7 @@ Awesome City Club『スロウ・サマー』
 I Don't Like Mondays.『With you』
 
 提供：seven x seven 糸島</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-31_s2_p18/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s2_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251005124500 +0000" stop="20251005140000 +0000">
 		<title>No programme</title>
@@ -9967,7 +10043,7 @@ I Don't Like Mondays.『With you』
 	<programme channel="abema-special" start="20251005140000 +0000" stop="20251005150000 +0000">
 		<title>千鳥MC チャンスの時間 #332</title>
 		<desc>千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p137/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p332/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251005150000 +0000" stop="20251005220000 +0000">
 		<title>No programme</title>
@@ -9985,29 +10061,13 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20251006110000 +0000" stop="20251006113800 +0000">
-		<title>MISS KING / ミス・キング　#2</title>
-		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
-母と3人、仲睦まじい幼少期を送っていたが、
-ある時彰一は2人を捨てて出ていってしまう。
-母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
-
-一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
-その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
-
-飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
-彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
-飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
-復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
-
-しかし、その前に立ちはだかるのは、
-彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
-そして、強者たちがひしめく、将棋という伝統と実力の世界。
-
-果たして飛鳥は、いくつもの逆境を乗り越え、
-"史上初の女性棋士"への道を切り拓くことができるのか。
-復讐の先に、彼女が手にするものとはー
-
-これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<title>MISS KING / ミス・キング　#2 生きる意味</title>
+		<desc>母を失い、飛鳥（のん）はますます孤独な日々を送っていた。
+そんなある日、飛鳥の勤める職場で窃盗事件が発生。
+その容疑者として疑いをかけられ、飛鳥は警察に拘束されてしまう。
+絶望の中、警察署に現れたのは、飛鳥の異母弟・龍也（森愁斗）だった。
+龍也の口添えによって、飛鳥はある条件のもとで釈放される。
+だがそれは、龍也が仕掛けた、巧妙な罠だった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p22/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251006113800 +0000" stop="20251006120000 +0000">
@@ -11300,9 +11360,12 @@ THE SECOND準優勝者・ザ・パンチのパンチ浜崎、ハイキングウ�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p101/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251002121200 +0000" stop="20251002121500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 10/2</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p185/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251002121500 +0000" stop="20251002132300 +0000">
 		<title>ビンカン選手権　～テレビ局コンプライアンス編～</title>
@@ -18690,9 +18753,12 @@ SEVENTEEN、ITZY、KISS OF LIFE、YENA、AB6IX、CNBLUE、The Wind、Xdinary Her
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/458-6_s1_p12/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251002115700 +0000" stop="20251002120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 10/2</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p185/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251002120000 +0000" stop="20251002151500 +0000">
 		<title>【独占配信】Idol Festa Attack #1～2</title>
@@ -18798,9 +18864,18 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/458-24_s1_p10/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251003140500 +0000" stop="20251003142000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251003142000 +0000" stop="20251003161000 +0000">
 		<title>三食ごはん 漁村編5 #10</title>
@@ -21568,9 +21643,10 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-32_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251004082000 +0000" stop="20251004093000 +0000">
-		<title>緊急取調室(2021) 第1話【無料2日間】</title>
-		<desc>北海道警察へ出張することになった「緊急事案対応取調班(通称・キントリ)」の取調官・真壁有希子(天海祐希)は羽田空港へ。保安検査場で、提示しなければならない持病の薬の処方箋が見つからず、オロオロしている白髪の老女と出会う。とっさに手助けをした有希子は、同じ便に乗るという老女と共に搭乗口へ。別れ際、老女が発した「いい旅を」という言葉に、何とも言えない引っかかりを覚えながらも、自分の座席へと向かう。ところが...出発時刻になっても、飛行機は一向に離陸しない! そんな中、安全確認のため離陸が遅れる旨を告げるCAの機内アナウンスを聞いた有希子は、その声から異変を察知。様子を探るため、CAたちがいるギャレーに駆けつけると、CAのひとりが「ハイジャック」と走り書きしたメモを見せ...!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p1/thumb001.png" />
+		<title>緊急取調室(2019) 第10話【無料2日間】</title>
+		<desc>同窓会で同級生らを毒殺した罪で起訴された被告人・北山未亜(吉川愛)と、医大キャンパスで起こった同級生刺殺事件の被疑者・藤井卓生(坂東龍汰)――。2人が2カ月前、かつて山のキャンプ場を襲った土砂崩れから自分たちを救出してくれた地元中学の元校長・染谷巌(吉田鋼太郎)と会っていたことが判明した。3人の間に一体、何があったのか...。
+真壁有希子(天海祐希)ら「緊急事案対応取調班(通称・キントリ)」は真相を明らかにするため、未亜を徹底的に追及。やがて未亜は重い口を開き、同窓会の飲み物に毒物が混入した理由を話し始める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-114_s3_p10/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251004093000 +0000" stop="20251004103500 +0000">
 		<title>DOCTORS2 最強の名医 第4話【無料2日間】</title>
@@ -21687,10 +21763,9 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-32_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251005081500 +0000" stop="20251005093000 +0000">
-		<title>緊急取調室(2021) 第2話【無料2日間】</title>
-		<desc>「小暮しのぶ」として潜伏すること50年...。突如、国土交通副大臣・宮越肇(大谷亮平)の汚職疑惑の真相を明らかにすると宣言し、宮越が乗った飛行機でハイジャック事件を起こした活動家・大國塔子(桃井かおり)。しかし、塔子が宮越の第一秘書・東修ニ(今井朋彦)のアタッシェケースに忍ばせ、機内に持ち込んだという爆弾を確かめた「緊急事案対応取調班(通称・キントリ)」の取調官・真壁有希子(天海祐希)は、爆弾が偽物だと確信。塔子の身柄を拘束した警視庁が「爆弾は処理中に爆発した」と発表したことに疑念を覚え、本物の爆弾は“汚職の証拠”だったのでは...とにらんでいた。
-このハイジャック事件には間違いなく裏がある――。そう考えた有希子は、自ら塔子を取り調べようと奮起。だが、すでに取り調べは公安が担当することになっていた。しかも、警察の上層部が“爆弾”の隠蔽に一枚噛んでいるとするならば、有希子は間違いなく邪魔な目撃者だ。案の定、刑事部長・北斗偉(池田成志)は有希子に辞表を書かせることを交換条件に渋々、キントリによる取り調べを1時間だけ許可したのだが...。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p2/thumb001.png" />
+		<title>緊急取調室(2021) 第1話【無料2日間】</title>
+		<desc>北海道警察へ出張することになった「緊急事案対応取調班(通称・キントリ)」の取調官・真壁有希子(天海祐希)は羽田空港へ。保安検査場で、提示しなければならない持病の薬の処方箋が見つからず、オロオロしている白髪の老女と出会う。とっさに手助けをした有希子は、同じ便に乗るという老女と共に搭乗口へ。別れ際、老女が発した「いい旅を」という言葉に、何とも言えない引っかかりを覚えながらも、自分の座席へと向かう。ところが...出発時刻になっても、飛行機は一向に離陸しない! そんな中、安全確認のため離陸が遅れる旨を告げるCAの機内アナウンスを聞いた有希子は、その声から異変を察知。様子を探るため、CAたちがいるギャレーに駆けつけると、CAのひとりが「ハイジャック」と走り書きしたメモを見せ...!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p1/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251005093000 +0000" stop="20251005103500 +0000">
 		<title>DOCTORS2 最強の名医 第5話【無料2日間】</title>
@@ -21732,10 +21807,9 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-17_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251005164000 +0000" stop="20251005175500 +0000">
-		<title>緊急取調室(2021) 第2話【無料2日間】</title>
-		<desc>「小暮しのぶ」として潜伏すること50年...。突如、国土交通副大臣・宮越肇(大谷亮平)の汚職疑惑の真相を明らかにすると宣言し、宮越が乗った飛行機でハイジャック事件を起こした活動家・大國塔子(桃井かおり)。しかし、塔子が宮越の第一秘書・東修ニ(今井朋彦)のアタッシェケースに忍ばせ、機内に持ち込んだという爆弾を確かめた「緊急事案対応取調班(通称・キントリ)」の取調官・真壁有希子(天海祐希)は、爆弾が偽物だと確信。塔子の身柄を拘束した警視庁が「爆弾は処理中に爆発した」と発表したことに疑念を覚え、本物の爆弾は“汚職の証拠”だったのでは...とにらんでいた。
-このハイジャック事件には間違いなく裏がある――。そう考えた有希子は、自ら塔子を取り調べようと奮起。だが、すでに取り調べは公安が担当することになっていた。しかも、警察の上層部が“爆弾”の隠蔽に一枚噛んでいるとするならば、有希子は間違いなく邪魔な目撃者だ。案の定、刑事部長・北斗偉(池田成志)は有希子に辞表を書かせることを交換条件に渋々、キントリによる取り調べを1時間だけ許可したのだが...。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p2/thumb001.png" />
+		<title>緊急取調室(2021) 第1話【無料2日間】</title>
+		<desc>北海道警察へ出張することになった「緊急事案対応取調班(通称・キントリ)」の取調官・真壁有希子(天海祐希)は羽田空港へ。保安検査場で、提示しなければならない持病の薬の処方箋が見つからず、オロオロしている白髪の老女と出会う。とっさに手助けをした有希子は、同じ便に乗るという老女と共に搭乗口へ。別れ際、老女が発した「いい旅を」という言葉に、何とも言えない引っかかりを覚えながらも、自分の座席へと向かう。ところが...出発時刻になっても、飛行機は一向に離陸しない! そんな中、安全確認のため離陸が遅れる旨を告げるCAの機内アナウンスを聞いた有希子は、その声から異変を察知。様子を探るため、CAたちがいるギャレーに駆けつけると、CAのひとりが「ハイジャック」と走り書きしたメモを見せ...!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p1/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251005175500 +0000" stop="20251005193000 +0000">
 		<title>日本統一1【無料1週間】</title>
@@ -21795,10 +21869,10 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-32_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251006083000 +0000" stop="20251006093500 +0000">
-		<title>緊急取調室(2021) 第3話【無料2日間】</title>
-		<desc>チケットは30秒で完売...世間が注目するボクシングのバンタム級タイトルマッチが、目前に迫ってきた。「大卒のプリンス」ともてはやされる現チャンピオン・加賀見光一郎(神尾楓珠)に挑戦するのは、元ボクサー・山内潔(阿南健治)に才能を見いだされ、デビュー戦以来4戦連続のKO勝ちを収めた元不良少年・石倉衆ニ(岡山天音)。正反対の2人の試合には、熱い視線が注がれていた。
-ところが、対戦1週間前の会見が開かれた直後、事件が起こる。会見に出席していた週刊誌記者・梅本マサル(松本実)が、川に転落して溺死。亡くなる前に顔面を殴られていたことが判ったばかりか、石倉と一緒に事件現場付近を歩いている姿をとらえた防犯カメラ映像も見つかったのだ!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p3/thumb001.png" />
+		<title>緊急取調室(2021) 第2話【無料2日間】</title>
+		<desc>「小暮しのぶ」として潜伏すること50年...。突如、国土交通副大臣・宮越肇(大谷亮平)の汚職疑惑の真相を明らかにすると宣言し、宮越が乗った飛行機でハイジャック事件を起こした活動家・大國塔子(桃井かおり)。しかし、塔子が宮越の第一秘書・東修ニ(今井朋彦)のアタッシェケースに忍ばせ、機内に持ち込んだという爆弾を確かめた「緊急事案対応取調班(通称・キントリ)」の取調官・真壁有希子(天海祐希)は、爆弾が偽物だと確信。塔子の身柄を拘束した警視庁が「爆弾は処理中に爆発した」と発表したことに疑念を覚え、本物の爆弾は“汚職の証拠”だったのでは...とにらんでいた。
+このハイジャック事件には間違いなく裏がある――。そう考えた有希子は、自ら塔子を取り調べようと奮起。だが、すでに取り調べは公安が担当することになっていた。しかも、警察の上層部が“爆弾”の隠蔽に一枚噛んでいるとするならば、有希子は間違いなく邪魔な目撃者だ。案の定、刑事部長・北斗偉(池田成志)は有希子に辞表を書かせることを交換条件に渋々、キントリによる取り調べを1時間だけ許可したのだが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p2/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251006093500 +0000" stop="20251006103500 +0000">
 		<title>DOCTORS2 最強の名医 第6話【無料2日間】</title>
@@ -21836,10 +21910,10 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-17_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251006163500 +0000" stop="20251006175000 +0000">
-		<title>緊急取調室(2021) 第3話【無料2日間】</title>
-		<desc>チケットは30秒で完売...世間が注目するボクシングのバンタム級タイトルマッチが、目前に迫ってきた。「大卒のプリンス」ともてはやされる現チャンピオン・加賀見光一郎(神尾楓珠)に挑戦するのは、元ボクサー・山内潔(阿南健治)に才能を見いだされ、デビュー戦以来4戦連続のKO勝ちを収めた元不良少年・石倉衆ニ(岡山天音)。正反対の2人の試合には、熱い視線が注がれていた。
-ところが、対戦1週間前の会見が開かれた直後、事件が起こる。会見に出席していた週刊誌記者・梅本マサル(松本実)が、川に転落して溺死。亡くなる前に顔面を殴られていたことが判ったばかりか、石倉と一緒に事件現場付近を歩いている姿をとらえた防犯カメラ映像も見つかったのだ!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p3/thumb001.png" />
+		<title>緊急取調室(2021) 第2話【無料2日間】</title>
+		<desc>「小暮しのぶ」として潜伏すること50年...。突如、国土交通副大臣・宮越肇(大谷亮平)の汚職疑惑の真相を明らかにすると宣言し、宮越が乗った飛行機でハイジャック事件を起こした活動家・大國塔子(桃井かおり)。しかし、塔子が宮越の第一秘書・東修ニ(今井朋彦)のアタッシェケースに忍ばせ、機内に持ち込んだという爆弾を確かめた「緊急事案対応取調班(通称・キントリ)」の取調官・真壁有希子(天海祐希)は、爆弾が偽物だと確信。塔子の身柄を拘束した警視庁が「爆弾は処理中に爆発した」と発表したことに疑念を覚え、本物の爆弾は“汚職の証拠”だったのでは...とにらんでいた。
+このハイジャック事件には間違いなく裏がある――。そう考えた有希子は、自ら塔子を取り調べようと奮起。だが、すでに取り調べは公安が担当することになっていた。しかも、警察の上層部が“爆弾”の隠蔽に一枚噛んでいるとするならば、有希子は間違いなく邪魔な目撃者だ。案の定、刑事部長・北斗偉(池田成志)は有希子に辞表を書かせることを交換条件に渋々、キントリによる取り調べを1時間だけ許可したのだが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p2/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251006175000 +0000" stop="20251006193000 +0000">
 		<title>日本統一2【無料1週間】</title>
@@ -21901,10 +21975,10 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-32_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251007083000 +0000" stop="20251007093500 +0000">
-		<title>緊急取調室(2021) 第4話【無料2日間】</title>
-		<desc>画期的な食品廃棄物リサイクルシステム「SY21」を開発し、注目を浴びている企業「スリー食品」の工場でガス漏れが発生。同社の専務・三上聡(内村遥)を含む2名が死亡した。しかもこの惨事、当初は“事故”だと考えられていたが突如、“事件”として扱われることになる。なんと防犯カメラ映像に、エンジニア・橘頼子(高橋メアリージュン)が自ら開発に関わった「SY21」をわざと故障させ、ガスを発生させる姿が映っていたのだ! しかも、事件当日は頼子が依願退職する日で、朝にはSNSに「もう終わったのね。さよなら」と、自殺を匂わせる意味深な書き込みもしていた――。
-これを受け、真壁有希子(天海祐希)ら「緊急事案対応取調班(通称・キントリ)」は頼子の取り調べを担うことに。しかし、取り調べ以前に大きな問題が...。何を隠そう、頼子はガス漏れ事件で重症者となり、集中治療室に収容されていたのだ! しかも病院に駆けつけた有希子に、頼子の主治医・折原政人(甲本雅裕)は「治療が最優先」と明言。過剰なほど断固たる態度で、事情聴取を許可せず...。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p4/thumb001.png" />
+		<title>緊急取調室(2021) 第3話【無料2日間】</title>
+		<desc>チケットは30秒で完売...世間が注目するボクシングのバンタム級タイトルマッチが、目前に迫ってきた。「大卒のプリンス」ともてはやされる現チャンピオン・加賀見光一郎(神尾楓珠)に挑戦するのは、元ボクサー・山内潔(阿南健治)に才能を見いだされ、デビュー戦以来4戦連続のKO勝ちを収めた元不良少年・石倉衆ニ(岡山天音)。正反対の2人の試合には、熱い視線が注がれていた。
+ところが、対戦1週間前の会見が開かれた直後、事件が起こる。会見に出席していた週刊誌記者・梅本マサル(松本実)が、川に転落して溺死。亡くなる前に顔面を殴られていたことが判ったばかりか、石倉と一緒に事件現場付近を歩いている姿をとらえた防犯カメラ映像も見つかったのだ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p3/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251007093500 +0000" stop="20251007103500 +0000">
 		<title>DOCTORS2 最強の名医 第7話【無料2日間】</title>
@@ -21942,10 +22016,10 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-17_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251007163500 +0000" stop="20251007175000 +0000">
-		<title>緊急取調室(2021) 第4話【無料2日間】</title>
-		<desc>画期的な食品廃棄物リサイクルシステム「SY21」を開発し、注目を浴びている企業「スリー食品」の工場でガス漏れが発生。同社の専務・三上聡(内村遥)を含む2名が死亡した。しかもこの惨事、当初は“事故”だと考えられていたが突如、“事件”として扱われることになる。なんと防犯カメラ映像に、エンジニア・橘頼子(高橋メアリージュン)が自ら開発に関わった「SY21」をわざと故障させ、ガスを発生させる姿が映っていたのだ! しかも、事件当日は頼子が依願退職する日で、朝にはSNSに「もう終わったのね。さよなら」と、自殺を匂わせる意味深な書き込みもしていた――。
-これを受け、真壁有希子(天海祐希)ら「緊急事案対応取調班(通称・キントリ)」は頼子の取り調べを担うことに。しかし、取り調べ以前に大きな問題が...。何を隠そう、頼子はガス漏れ事件で重症者となり、集中治療室に収容されていたのだ! しかも病院に駆けつけた有希子に、頼子の主治医・折原政人(甲本雅裕)は「治療が最優先」と明言。過剰なほど断固たる態度で、事情聴取を許可せず...。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p4/thumb001.png" />
+		<title>緊急取調室(2021) 第3話【無料2日間】</title>
+		<desc>チケットは30秒で完売...世間が注目するボクシングのバンタム級タイトルマッチが、目前に迫ってきた。「大卒のプリンス」ともてはやされる現チャンピオン・加賀見光一郎(神尾楓珠)に挑戦するのは、元ボクサー・山内潔(阿南健治)に才能を見いだされ、デビュー戦以来4戦連続のKO勝ちを収めた元不良少年・石倉衆ニ(岡山天音)。正反対の2人の試合には、熱い視線が注がれていた。
+ところが、対戦1週間前の会見が開かれた直後、事件が起こる。会見に出席していた週刊誌記者・梅本マサル(松本実)が、川に転落して溺死。亡くなる前に顔面を殴られていたことが判ったばかりか、石倉と一緒に事件現場付近を歩いている姿をとらえた防犯カメラ映像も見つかったのだ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p3/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251007175000 +0000" stop="20251007193000 +0000">
 		<title>日本統一3【無料1週間】</title>
@@ -22016,11 +22090,10 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-32_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251008083000 +0000" stop="20251008093500 +0000">
-		<title>緊急取調室(2021) 第5話【無料2日間】</title>
-		<desc>真壁有希子(天海祐希)ら「緊急事案対応取調班(通称・キントリ)」に、前代未聞の取り調べ要請が入った。なんと被疑者は人間ではなく...“ロボット”だというのだ!
-その事件は都内の民家で起きた。この家で一人暮らしをする老人・村松和代(夏樹陽子)が頭蓋骨を骨折して息絶えているのを、様子をうかがいに来た隣家の主婦・土居マサエ(杉田かおる)が発見。そばにあった見守りカメラ搭載のAIコミュニケーションロボット「ハイリー」から、和代の頭部皮膚片が検出されたのだ! もちろん本来は、高い場所に設置していたハイリーが偶然落下した...と考えるのが普通だが、和代の傷は2カ所。そこで「ハイリーが故意に殺した」という説が出てきたのだった。
-あまりにも荒唐無稽な説に呆れながらも、有希子たちは捜査を開始。長野に住んでいる和代の息子・村松彰(小池徹平)に疑いの目を向ける。というのも、彰はマサエに様子を見に行くよう頼んだ張本人で、ハイリーを販売するIT企業の経営者。リモートでハイリーを操り、アリバイを証明するためにマサエを利用した...という可能性も大いに考えられたからだ。しかし、彰は和代のために一軒家を購入し、生活費もすべて援助していた“孝行息子”。仮に彼がリモート殺人を敢行したのだとすれば、動機は一体何だったのか...。そもそも、遠隔操作でハイリーを自由自在に動かすことは可能なのか...!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p5/thumb001.png" />
+		<title>緊急取調室(2021) 第4話【無料2日間】</title>
+		<desc>画期的な食品廃棄物リサイクルシステム「SY21」を開発し、注目を浴びている企業「スリー食品」の工場でガス漏れが発生。同社の専務・三上聡(内村遥)を含む2名が死亡した。しかもこの惨事、当初は“事故”だと考えられていたが突如、“事件”として扱われることになる。なんと防犯カメラ映像に、エンジニア・橘頼子(高橋メアリージュン)が自ら開発に関わった「SY21」をわざと故障させ、ガスを発生させる姿が映っていたのだ! しかも、事件当日は頼子が依願退職する日で、朝にはSNSに「もう終わったのね。さよなら」と、自殺を匂わせる意味深な書き込みもしていた――。
+これを受け、真壁有希子(天海祐希)ら「緊急事案対応取調班(通称・キントリ)」は頼子の取り調べを担うことに。しかし、取り調べ以前に大きな問題が...。何を隠そう、頼子はガス漏れ事件で重症者となり、集中治療室に収容されていたのだ! しかも病院に駆けつけた有希子に、頼子の主治医・折原政人(甲本雅裕)は「治療が最優先」と明言。過剰なほど断固たる態度で、事情聴取を許可せず...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p4/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251008093500 +0000" stop="20251008103500 +0000">
 		<title>DOCTORS2 最強の名医 第8話【無料2日間】</title>
@@ -22063,11 +22136,10 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-17_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251008163500 +0000" stop="20251008175000 +0000">
-		<title>緊急取調室(2021) 第5話【無料2日間】</title>
-		<desc>真壁有希子(天海祐希)ら「緊急事案対応取調班(通称・キントリ)」に、前代未聞の取り調べ要請が入った。なんと被疑者は人間ではなく...“ロボット”だというのだ!
-その事件は都内の民家で起きた。この家で一人暮らしをする老人・村松和代(夏樹陽子)が頭蓋骨を骨折して息絶えているのを、様子をうかがいに来た隣家の主婦・土居マサエ(杉田かおる)が発見。そばにあった見守りカメラ搭載のAIコミュニケーションロボット「ハイリー」から、和代の頭部皮膚片が検出されたのだ! もちろん本来は、高い場所に設置していたハイリーが偶然落下した...と考えるのが普通だが、和代の傷は2カ所。そこで「ハイリーが故意に殺した」という説が出てきたのだった。
-あまりにも荒唐無稽な説に呆れながらも、有希子たちは捜査を開始。長野に住んでいる和代の息子・村松彰(小池徹平)に疑いの目を向ける。というのも、彰はマサエに様子を見に行くよう頼んだ張本人で、ハイリーを販売するIT企業の経営者。リモートでハイリーを操り、アリバイを証明するためにマサエを利用した...という可能性も大いに考えられたからだ。しかし、彰は和代のために一軒家を購入し、生活費もすべて援助していた“孝行息子”。仮に彼がリモート殺人を敢行したのだとすれば、動機は一体何だったのか...。そもそも、遠隔操作でハイリーを自由自在に動かすことは可能なのか...!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p5/thumb001.png" />
+		<title>緊急取調室(2021) 第4話【無料2日間】</title>
+		<desc>画期的な食品廃棄物リサイクルシステム「SY21」を開発し、注目を浴びている企業「スリー食品」の工場でガス漏れが発生。同社の専務・三上聡(内村遥)を含む2名が死亡した。しかもこの惨事、当初は“事故”だと考えられていたが突如、“事件”として扱われることになる。なんと防犯カメラ映像に、エンジニア・橘頼子(高橋メアリージュン)が自ら開発に関わった「SY21」をわざと故障させ、ガスを発生させる姿が映っていたのだ! しかも、事件当日は頼子が依願退職する日で、朝にはSNSに「もう終わったのね。さよなら」と、自殺を匂わせる意味深な書き込みもしていた――。
+これを受け、真壁有希子(天海祐希)ら「緊急事案対応取調班(通称・キントリ)」は頼子の取り調べを担うことに。しかし、取り調べ以前に大きな問題が...。何を隠そう、頼子はガス漏れ事件で重症者となり、集中治療室に収容されていたのだ! しかも病院に駆けつけた有希子に、頼子の主治医・折原政人(甲本雅裕)は「治療が最優先」と明言。過剰なほど断固たる態度で、事情聴取を許可せず...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p4/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251008175000 +0000" stop="20251008193000 +0000">
 		<title>日本統一4【無料1週間】</title>
@@ -22142,9 +22214,11 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-32_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251009082500 +0000" stop="20251009093000 +0000">
-		<title>緊急取調室(2021) 第6話【無料2日間】</title>
-		<desc>誘拐事件の捜査を担当する警視庁特殊犯捜査係の班長・鬼塚貞一(丸山智己)が朝一番、「緊急事案対応取調班(通称・キントリ)」に押しかけて来た。なんでも朝5時すぎに財務省勤務の諸星和彦(駿河太郎)から、自宅で寝ていた6歳の息子・翼(有山実俊)が誘拐された、と110番通報があったという。事件発生時刻は昨夜10時近くなのに、なぜ夜明けまで通報を待ったのか――和彦の行動をいぶかしがる真壁有希子(天海祐希)らキントリ・メンバー。すると、鬼塚は驚きの事実を明かす。犯人はほかでもない、別居中の妻・諸星麻美(瀧内公美)だったというのだ! しかも、いわゆる子どもの取り合いなのかと思いきや、事態はもっと切迫していた。和彦によると、麻美はキッチンから包丁を取り出して暴れた挙げ句に息子を連れ去り、その後は連絡も取れず行方不明...。そこで、鬼塚が携帯に架電したところ、麻美は思いつめた声で「息子を返すくらいなら、一緒に死にます!」と言い放ったのだ。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p6/thumb001.png" />
+		<title>緊急取調室(2021) 第5話【無料2日間】</title>
+		<desc>真壁有希子(天海祐希)ら「緊急事案対応取調班(通称・キントリ)」に、前代未聞の取り調べ要請が入った。なんと被疑者は人間ではなく...“ロボット”だというのだ!
+その事件は都内の民家で起きた。この家で一人暮らしをする老人・村松和代(夏樹陽子)が頭蓋骨を骨折して息絶えているのを、様子をうかがいに来た隣家の主婦・土居マサエ(杉田かおる)が発見。そばにあった見守りカメラ搭載のAIコミュニケーションロボット「ハイリー」から、和代の頭部皮膚片が検出されたのだ! もちろん本来は、高い場所に設置していたハイリーが偶然落下した...と考えるのが普通だが、和代の傷は2カ所。そこで「ハイリーが故意に殺した」という説が出てきたのだった。
+あまりにも荒唐無稽な説に呆れながらも、有希子たちは捜査を開始。長野に住んでいる和代の息子・村松彰(小池徹平)に疑いの目を向ける。というのも、彰はマサエに様子を見に行くよう頼んだ張本人で、ハイリーを販売するIT企業の経営者。リモートでハイリーを操り、アリバイを証明するためにマサエを利用した...という可能性も大いに考えられたからだ。しかし、彰は和代のために一軒家を購入し、生活費もすべて援助していた“孝行息子”。仮に彼がリモート殺人を敢行したのだとすれば、動機は一体何だったのか...。そもそも、遠隔操作でハイリーを自由自在に動かすことは可能なのか...!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-115_s4_p5/thumb001.png" />
 	</programme>
 	<programme channel="drama-2" start="20251009093000 +0000" stop="20251009103500 +0000">
 		<title>DOCTORS2 最強の名医 第9話【無料2日間】</title>
@@ -22700,9 +22774,12 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p343/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20251002170000 +0000" stop="20251002170300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 10/2</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p185/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20251002170300 +0000" stop="20251002212700 +0000">
 		<title>女流プロ麻雀日本シリーズ2024 27回戦〜プレーオフ2回戦</title>
@@ -23070,6 +23147,88 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
 Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p349/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250925100000 +0000" stop="20250925170000 +0000">
+		<title>大和証券 Mリーグ 風林火山vsサクラナイツvsABEMASvsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p338/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250925170000 +0000" stop="20250926100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250926100000 +0000" stop="20250926170000 +0000">
+		<title>大和証券 Mリーグ JETSvs風林火山vs麻雀格闘倶楽部vsフェニックス</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p339/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20250926170000 +0000" stop="20251001030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251001030000 +0000" stop="20251001145000 +0000">
+		<title>第50期最高位戦A1リーグ 第11節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p31/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251001145000 +0000" stop="20251002100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251002100000 +0000" stop="20251002170000 +0000">
+		<title>大和証券 Mリーグ 風林火山vs麻雀格闘倶楽部vsフェニックスvsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p344/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251002170000 +0000" stop="20251003100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251003100000 +0000" stop="20251003170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvsサクラナイツvs雷電vsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p346/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251003170000 +0000" stop="20251008030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251008030000 +0000" stop="20251008145000 +0000">
+		<title>第50期最高位戦A1リーグ 第11節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p32/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251008145000 +0000" stop="20251009100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251009100000 +0000" stop="20251009170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvsサクラナイツvsABEMASvs雷電</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p350/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20250924063600 +0000" stop="20250924201600 +0000">
 		<title>【再】伊藤園お〜いお茶杯第66期王位戦七番勝負第1局 藤井聡太王位対永瀬拓矢九段</title>
@@ -24446,7 +24605,7 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 		<title>2025年 凱旋門賞</title>
 		<desc>競馬世界最高峰の国際G1レース『2025凱旋門賞』を無料生中継！
 悲願の日本馬初勝利に向け、アロヒアリイ・クロワデュノール・ビザンチンドリームが出走予定。
-昨年に引き続き、特別ゲストに福永祐一、川田将雅のレジェンドコンビが出演決定！</desc>
+昨年に引き続き、福永祐一、川田将雅が特別ゲストで生出演！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/350-5_s10000_p1/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251005144500 +0000" stop="20251005201000 +0000">
