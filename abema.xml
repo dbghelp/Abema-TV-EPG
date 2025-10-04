@@ -144,10 +144,6 @@
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
 	</channel>
-	<channel id="shogi-live">
-		<display-name>将棋 LIVE チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi-live/logo.png" />
-	</channel>
 	<channel id="world-sports">
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
@@ -14816,7 +14812,7 @@ M-1ファイナリストのジョックロックが挑戦！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p736/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251005030000 +0000" stop="20251005050000 +0000">
-		<title>ABEMA的ニュース女性初 高市新総裁が誕生 日本の今後は？</title>
+		<title>ABEMA的ニュース女性初 高市新総裁が誕生 自民の今後は？</title>
 		<desc>日曜のお昼の「社会派」ニュースショー。
 独自取材と目線で、世間をざわつかせている話題沸騰のニュースの核心「的」に切りこみます。また、時にはあえて「的」を外した独自取材でお伝えすることで、世の中で言われている「的(マト)=正義」に疑問を投げかけます。鋭いツッコミに定評のある千原ジュニアが、一癖も二癖もあるゲストらと1週間のニュースをしゃべり倒します。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-75_s0_p1043/thumb001.png" />
@@ -14852,7 +14848,7 @@ M-1ファイナリストのジョックロックが挑戦！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p741/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251005100000 +0000" stop="20251005120000 +0000">
-		<title>ABEMA的ニュース女性初 高市新総裁が誕生 日本の今後は？</title>
+		<title>ABEMA的ニュース女性初 高市新総裁が誕生 自民の今後は？</title>
 		<desc>日曜のお昼の「社会派」ニュースショー。
 独自取材と目線で、世間をざわつかせている話題沸騰のニュースの核心「的」に切りこみます。また、時にはあえて「的」を外した独自取材でお伝えすることで、世の中で言われている「的(マト)=正義」に疑問を投げかけます。鋭いツッコミに定評のある千原ジュニアが、一癖も二癖もあるゲストらと1週間のニュースをしゃべり倒します。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-75_s0_p1044/thumb001.png" />
@@ -14885,7 +14881,7 @@ M-1ファイナリストのジョックロックが挑戦！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p745/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251005170000 +0000" stop="20251005190000 +0000">
-		<title>ABEMA的ニュース女性初 高市新総裁が誕生 日本の今後は？</title>
+		<title>ABEMA的ニュース女性初 高市新総裁が誕生 自民の今後は？</title>
 		<desc>日曜のお昼の「社会派」ニュースショー。
 独自取材と目線で、世間をざわつかせている話題沸騰のニュースの核心「的」に切りこみます。また、時にはあえて「的」を外した独自取材でお伝えすることで、世の中で言われている「的(マト)=正義」に疑問を投げかけます。鋭いツッコミに定評のある千原ジュニアが、一癖も二癖もあるゲストらと1週間のニュースをしゃべり倒します。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-75_s0_p1045/thumb001.png" />
@@ -25586,13 +25582,6 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 		<title>【再】第96期ヒューリック杯棋聖戦五番勝負第2局 藤井聡太棋聖 対 杉本和陽六段</title>
 		<desc>棋聖戦は、全棋士と女流棋士2名で行う。一次予選・二次予選をトーナメントで行い、その勝ち上がり者とシード棋士の16名で決勝トーナメントを行う。その優勝者と棋聖が、例年6月から8月にかけて五番勝負を行う。(第81期よりシステム変更)</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-13_s97_p21/thumb001.png" />
-	</programme>
-	<programme channel="shogi-live" start="20251004000000 +0000" stop="20251004120000 +0000">
-		<title>SUNTORY将棋オールスター東西対抗戦2025 東京予選Cブロック</title>
-		<desc>2021年から新設された日本将棋連盟とサントリー食品インターナショナルが主催する将棋の棋戦。
-将棋の棋戦としては珍しい団体戦であり、普段見られない東西の代表という看板を背負った戦い。
-東西所属の棋士それぞれファン投票により選抜された3名、予選を通過した棋士3名、計6名同士を選抜。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-177_s10000_p19/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20250926144000 +0000" stop="20250926184500 +0000">
 		<title>JAPAN PLAYERS CHAMPIONSHIP byサトウ食品 3日目後半</title>
