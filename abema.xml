@@ -20,10 +20,6 @@
 		<display-name>ワンパンマンチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/onepunchman/logo.png" />
 	</channel>
-	<channel id="heroaca">
-		<display-name>僕のヒーローアカデミアチャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/heroaca/logo.png" />
-	</channel>
 	<channel id="isekai-anime">
 		<display-name>異世界・ファンタジーアニメチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime/logo.png" />
@@ -1810,7 +1806,7 @@ S級ヒーロー達が集まり、
 		<desc>県内随一の進学校・藤志高校に通う千歳朔。 勉強、運動、コミュ力すべてがハイレベルで、良くも悪くも注目を集める彼の周りには、誰もが羨む華やかな仲間たちが集っていた。 新たなクラスで迎えた2年生の春。 朔は、ひとりの引きこもり生徒の更生を頼まれることに——。 福井を舞台に紡がれる、 どこまでも青く、どこまでも眩しい、 エモーショナル青春ストーリー！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p22/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20251007130000 +0000" stop="20251007133000 +0000">
+	<programme channel="abema-anime" start="20251007130000 +0000" stop="20251007130500 +0000">
 		<title>陛下わたしを忘れてください #1【最新話】</title>
 		<desc>「あなたに愛されなくても助けたかった」
 
@@ -1828,6 +1824,11 @@ S級ヒーロー達が集まり、
 
 7年後、ハ―デュスはなぜかルーニアを探し出し、子供と一緒に連れ帰ろうとして……</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p45/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251007130500 +0000" stop="20251007133000 +0000">
+		<title>いくだもも！そびー #1〜5</title>
+		<desc>カフェインコからお店の宣伝を手伝って欲しいってお願いされたんだもも！たけしとゆるげんも一緒に考えたんだけど、みんな自由すぎてまとまらないだもも〜</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-683_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251007133000 +0000" stop="20251007140000 +0000">
 		<title>SI-VIS: The Sound of Heroes #1【最新話】</title>
@@ -1910,21 +1911,45 @@ S級ヒーロー達が集まり、
 厳の静かなキャンプライフはどうなってしまうのか……</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p26/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20251007170000 +0000" stop="20251007173000 +0000">
+	<programme channel="abema-anime" start="20251007170000 +0000" stop="20251007170500 +0000">
 		<title>2200年ねこの国ニッポン #1【最新話】</title>
 		<desc>「2200年、人類の少子化が進んだこの国は――猫の国になりました。」これは猫も話し、学び、働くようになった近未来で暮らす、女子高生と飼い猫の物語。女子高生・麦島さんの飼い猫・ソラは、「麦島さん」と飼い主を苗字・さん付けで呼ぶ。理屈っぽいソラだけど、猫らしく気まぐれなところもあって振り回される麦島さん。でも、人より猫な世界で暮らすのは、思ったより幸せです!!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p30/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20251007173000 +0000" stop="20251007174500 +0000">
+	<programme channel="abema-anime" start="20251007170500 +0000" stop="20251007172000 +0000">
 		<title>シルバニアファミリー フレアのワンダーデイズ #1【最新話】</title>
 		<desc>物語の舞台は世界のどこかにある”シルバニア村”。ほがらかでみんなと過ごすのが大すきなショコラウサギの女の子「フレア」と、頭脳明晰でやさしいペルシャネコの女の子「ライラ」、元気いっぱいで忍者に憧れているくるみリスの男の子「ラルフ」の3にんや、赤ちゃんたちが、村の中や森の中、ゆうえんちなどで大活躍します！
 シルバニアファミリーの世界で起こるさまざまな出来事を通して、夢や希望をたいせつにする主人公フレアと個性豊かなシルバニアの仲間たちによる心温まるお話をお届けします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p43/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20251007174500 +0000" stop="20251007180000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	<programme channel="abema-anime" start="20251007172000 +0000" stop="20251007173000 +0000">
+		<title>いくだもも！そびー #1〜2</title>
+		<desc>カフェインコからお店の宣伝を手伝って欲しいってお願いされたんだもも！たけしとゆるげんも一緒に考えたんだけど、みんな自由すぎてまとまらないだもも〜</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-683_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251007173000 +0000" stop="20251007180000 +0000">
+		<title>ひみつのアイプリ リング編 #78【最新話】</title>
+		<desc>ひみつのとびらをひらいたら、
+メイクにネイル、キラキラコーデにオシャレして、ひみつのわたしに大変身！
+それがアイドルプリンセス『アイプリ』！
+さぁ、みんなもひみつの世界にとびこめば、アイプリになれちゃうかも⁉
+
+新学期！　ひまりとみつきは、パラダイス学園中等部の2年生に進級！
+個性あふれる後輩たちも入ってきて、学園生活はますますにぎやかに。
+
+アイプリバースでは、新しいアイプリもぞくぞく登場！
+見たことのない新たなバズリウムチェンジにみんなで挑戦！
+
+そんな中、謎のお姫様『リング・クローバー姫』と執事のシツムゥが
+『アイプリコンテスト』の開催を宣言！
+優勝すると、あこがれの『エターナルアイプリ』になれると聞いた
+ひまりとみつきはやる気満々、気合いも十分！
+だけどリング姫には、とっても大きな『ひみつ』があるみたい……。
+
+おともだちの、そして、ひみつの輪がどんどん広がってゆく
+待望の「リング編」がいよいよスタート！
+みなさん、どうぞお楽しみに！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p112/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251007180000 +0000" stop="20251007183000 +0000">
 		<title>SI-VIS: The Sound of Heroes #1・見逃し放送</title>
@@ -1939,7 +1964,214 @@ S級ヒーロー達が集まり、
 		<desc>勇者トトは、実力はあるが極度の人見知りのためパーティーが組めず、はじまりの町でくすぶっていた。そんな中、3人の美女――シエル、アネモネ、ゴアから突然パーティーへと誘われる！念願の旅立ちにやる気に満ちるトトだが、彼女たちはその勇者を“殺る気”でいっぱいだった！？女性耐性が無さすぎてちょっとドキドキしただけで気絶してしまう極度の人見知り勇者と、それぞれの目的の為に勇者の命を狙う3人のハーレムデスラブコメディ！！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/149-31_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20251008003000 +0000" stop="20251012120000 +0000">
+	<programme channel="abema-anime" start="20251008003000 +0000" stop="20251008063000 +0000">
+		<title>強くてニューサーガ #1〜12【無料ビデオ1週間】</title>
+		<desc>魔族が仕掛けた大規模な戦争「大侵攻」で、激戦の末にカイルは魔王討伐を果たす。
+すべてを失ったカイルは力尽きる間際、赤い光を放つ真紅の宝石を見つける。
+石を手に取ったその時、カイルは光に包まれ……次に目覚めると、なんとそこは既に滅んだはずの故郷だった！
+４年もの時を遡ったカイルは、前世の記憶と経験を武器に2周目の人生に挑むことになる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/248-25_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008063000 +0000" stop="20251008120000 +0000">
+		<title>SAKAMOTO DAYS #12〜22【無料ビデオ1週間】</title>
+		<desc>ウータンから、✕（スラー）が最凶死刑囚たちを脱獄させ、新たな殺し屋殺しを遂行していると聞いた坂本たち。死刑囚との直接対決に備え、まずは敵の情報収集へと乗り出した。一方、ORDERにも、死刑囚たち全員の抹殺命令が下っており、主力メンバーが任務へと動き出していた。そんな中、競うように殺し屋殺しを行う死刑囚たちの魔の手は、買い出し中のシンとルーにも迫っていた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-61_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008120000 +0000" stop="20251008123000 +0000">
+		<title>サイレント・ウィッチ 沈黙の魔女の隠しごと #13【最新話】</title>
+		<desc>人類は詠唱をなくして、魔術を使うことができない。
+ところが、その不可能を可能にしてしまった、ひとりの少女がいた。
+リディル王国における魔術師の頂点・七賢人がひとり〈沈黙の魔女〉モニカ・エヴァレット。
+史上、初めて無詠唱魔術を生み出した若き天才である。
+
+しかし…
+極度の人見知りであがり症の彼女は、使い魔の黒猫と山奥に引きこもり、
+数式の本に囲まれて、ひっそりと魔術の研究に打ち込んでいた。
+
+そんな彼女のもとに、七賢人の同僚である〈結界の魔術師〉ルイス・ミラーが訪ねてくる。
+戸惑う彼女にルイスはひとつの王命を告げた。
+それは――貴族の集う名門校に潜入し、第二王子を護衛する極秘任務だった……。
+
+魔術と数字を偏愛する〈沈黙の魔女〉モニカのひそやかな活躍が始まる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p73/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008123000 +0000" stop="20251008130000 +0000">
+		<title>不滅のあなたへ Season3 #1【最新話】</title>
+		<desc>不滅の存在であるフシ。
+     
+それに対抗するのは人間を襲い滅ぼそうとする敵対勢力、「ノッカー」。
+    
+攻防の末にノッカーとの戦いには勝利したが、フシはまだ人々を守り続ける必要があった。
+自らの体を広げ、樹木のごとく抵抗の根を張り巡らせた。
+     
+数百年後、そこは現代世界。
+かつてないほどの平和な世界。
+     
+新しい友人･･･新しい家･･･
+全てが満ち足りた世界でフシは幸せを謳(おう)歌できると思っていた。
+    
+しかし不穏な影が、再びフシに迫る。
+    
+その影は、人の心の隙間に分け入る宿敵。
+  
+そして、自分を生み出した観察者の真の目的。
+    
+フシに与えられる新たな試練。彼に大いなる選択の時が迫る。
+     
+不死身のフシの物語、「現世編」が幕を開ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p61/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008130000 +0000" stop="20251008133000 +0000">
+		<title>無職の英雄 #3【地上波1週間先行・WEB最速】</title>
+		<desc>それは、女神から授けられる職業とスキルが人生を大きく左右する世界――。
+『剣姫』と『魔導王』の息子として生まれた主人公・アレルはどんな職業を授かるかと期待されるなか、『無職』の烙印を押されてしまう。
+周囲の人々からの失望と同情。しかし、アレルは努力を重ねることで、次々と新たな力を手に入れていく。そして、その力はやがて天賦の才であるスキルをも上回るのだった。
+これはスキルを持たない『無職』がたゆまぬ努力の結果『英雄』と呼ばれ、さらなる力を求めてゆく物語――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p114/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008133000 +0000" stop="20251008135000 +0000">
+		<title>不死身な僕の日常 #2【最新話】</title>
+		<desc>最強すぎる霊力を持つ少年・王令（ワン・リン）は、力を封じて60門高校へ入学。目立たず平穏な日々を望むも、彼のところには次々と騒動が舞い込む。果たして、ヤバすぎる力を持つ彼は、この世界にどんな結末をもたらすのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p40/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008135000 +0000" stop="20251008140000 +0000">
+		<title>いくだもも！そびー #1〜2</title>
+		<desc>カフェインコからお店の宣伝を手伝って欲しいってお願いされたんだもも！たけしとゆるげんも一緒に考えたんだけど、みんな自由すぎてまとまらないだもも〜</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-683_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008140000 +0000" stop="20251008143000 +0000">
+		<title>シンデレラ・シェフ ～萌妻食神～ #2【最新話】</title>
+		<desc>現代でグルメ雑誌の編集者として働く料理一家の娘・葉佳瑶（イエ・ジアヤオ）は、ある日突然、ひょんなことから大昔へとタイムスリップ。
+目を覚ますと、なんと山賊・夏淳于（シア・チュンユー）の“花嫁”になっていた――。
+正体不明の花嫁に警戒する夏淳于。だが、葉佳瑶の突き抜ける明るさとスゴ技から繰り出される絶品料理が、少しずつ彼の心をほどいていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p41/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008143000 +0000" stop="20251008143500 +0000">
+		<title>ガングリオン #1・見逃し放送</title>
+		<desc>2000年代初頭の東京。世界征服を目論む「株式会社ガングリオン」の戦闘員・磯辺。彼の職場は戦場だ。タイツ一枚で「東京スギ花粉作戦」や「富士山爆破作戦」に臨むも、ヒーロー・ホープマンの正義という名の一撃にあっさり惨敗。コンプラ黎明期、上司の無茶にもひたすら耐えて奮闘する…すべてのはたらく人々に捧ぐ、“お仕事”ドラマ。どこか人ごとではない、哀しきサラリーマン戦闘員の物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p55/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008143500 +0000" stop="20251008150000 +0000">
+		<title>いくだもも！そびー #1〜5</title>
+		<desc>カフェインコからお店の宣伝を手伝って欲しいってお願いされたんだもも！たけしとゆるげんも一緒に考えたんだけど、みんな自由すぎてまとまらないだもも〜</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-683_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008150000 +0000" stop="20251008153000 +0000">
+		<title>ふたりソロキャンプ #13・見逃し放送</title>
+		<desc>樹乃倉厳、34歳。
+独りを愛する孤高のキャンパーである厳は
+いつものようにソロキャンプを楽しんでいた。
+
+だが、ひょんなことから超初心者キャンパー、草野雫と遭遇する。
+厳は嫌々ながらも、雫とふたりでソロキャンプをやることに!?
+
+厳の静かなキャンプライフはどうなってしまうのか……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p26/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008153000 +0000" stop="20251008160000 +0000">
+		<title>ひみつのアイプリ リング編 #78・見逃し放送</title>
+		<desc>ひみつのとびらをひらいたら、
+メイクにネイル、キラキラコーデにオシャレして、ひみつのわたしに大変身！
+それがアイドルプリンセス『アイプリ』！
+さぁ、みんなもひみつの世界にとびこめば、アイプリになれちゃうかも⁉
+
+新学期！　ひまりとみつきは、パラダイス学園中等部の2年生に進級！
+個性あふれる後輩たちも入ってきて、学園生活はますますにぎやかに。
+
+アイプリバースでは、新しいアイプリもぞくぞく登場！
+見たことのない新たなバズリウムチェンジにみんなで挑戦！
+
+そんな中、謎のお姫様『リング・クローバー姫』と執事のシツムゥが
+『アイプリコンテスト』の開催を宣言！
+優勝すると、あこがれの『エターナルアイプリ』になれると聞いた
+ひまりとみつきはやる気満々、気合いも十分！
+だけどリング姫には、とっても大きな『ひみつ』があるみたい……。
+
+おともだちの、そして、ひみつの輪がどんどん広がってゆく
+待望の「リング編」がいよいよスタート！
+みなさん、どうぞお楽しみに！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p112/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008160000 +0000" stop="20251008163000 +0000">
+		<title>ある日、お姫様になってしまった件について #4【最新話】</title>
+		<desc>『バッドエンド回避の糸口は冷酷なパパのハートをゲットすること!?』
+魔法の国・オベリア帝国に生まれた皇女アタナシア。
+彼女は自分の未来を夢で見ることができる不思議な力を持っていた。
+生まれたころから父親である皇帝クロードに冷遇され、
+ルビー宮でひとり育てられてきたアタナシアは、
+ある日夢のなかで、18歳の誕生日に自分が父の手で追放されてしまう未来を知る。
+「そんな未来絶対受け入れな——い！！」
+運命を変えるため、アタナシアは小さな体で決意を胸に立ち上がるのだった。
+
+小さなお姫様の運命書き換えファンタジーが今、始まる——！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p44/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008163000 +0000" stop="20251008170000 +0000">
+		<title>龍族Ⅱ -The Mourner’s Eyes- #1【最新話】</title>
+		<desc>待ち受けるのは新たな戦い。
+交錯する運命の先にある真実とは──。
+
+累計発行部数3,000万部を超える江南（ジャン・ナン）原作のファンタジーノベル『龍族』。
+第1期「龍族 -The Blazing Dawn-」では、
+中国屈指のアニメーションスタジオ・HANABARA Animationが手がける
+圧倒的な作画とスケールで視聴者を魅了し、
+中国の動画プラットフォーム・テンセントビデオで累計再生数5.7億回を突破、歴代最高評価を獲得。
+日本でも、2024年4月に放送された吹替版がその圧巻の映像美で大きな話題を呼んだ。
+
+そして今回、日本からも新たに鷺巣詩郎（アニメ『BLEACH』シリーズ）、
+大暮維人（漫画『エア・ギア』）、西位輝実（アニメ『呪術廻戦』シリーズ）、
+田中孝弘（アニメ『SAKAMOTO DAYS』）ら、豪華アーティスト＆クリエイター陣が参戦。
+スケールも熱量もさらに加速し、待望の第2期がついに始動！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p53/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008170000 +0000" stop="20251008170500 +0000">
+		<title>ギルティホール【オンエア版】#1【最新話】</title>
+		<desc>「お好きな教え子をお選びください…」
+残業続きの教師・佐々木の前に現れたのは『ギルティホール』。
+指名パネルに変わった下駄箱を前に、さすがに夢だと思い冗談で一人の教え子を指名すると、
+真夜中の教室に現れた彼女は、悪態をつきながら恥ずかしそうにこちらを見つめてきて…
+「さっさと終わらせるから。我慢するとか無しな。」
+
+教師と教え子、禁断のカンケイ…。
+全てが許される『ギルティホール』へようこそ――</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p57/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008170500 +0000" stop="20251008171000 +0000">
+		<title>ちびゴジラの逆襲 #80【最新話】</title>
+		<desc>ちびゴジラと仲間たちのゆるすぎる毎日を描くアニメ『ちびゴジラの逆襲』
+ショートアニメとは思えない豪華すぎる声優陣と、クセ強すぎるちび怪獣たちが忙しい現代人の毎日にくすっと笑える約3分をお届け！
+果たしてちびゴジラは父ゴジラのような「最強」の大怪獣になれるのか――！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p87/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008171000 +0000" stop="20251008173000 +0000">
+		<title>いくだもも！そびー #1〜4</title>
+		<desc>カフェインコからお店の宣伝を手伝って欲しいってお願いされたんだもも！たけしとゆるげんも一緒に考えたんだけど、みんな自由すぎてまとまらないだもも〜</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-683_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008173000 +0000" stop="20251008180000 +0000">
+		<title>龍族Ⅱ -The Mourner’s Eyes- #1/ 見逃し放送</title>
+		<desc>待ち受けるのは新たな戦い。
+交錯する運命の先にある真実とは──。
+
+累計発行部数3,000万部を超える江南（ジャン・ナン）原作のファンタジーノベル『龍族』。
+第1期「龍族 -The Blazing Dawn-」では、
+中国屈指のアニメーションスタジオ・HANABARA Animationが手がける
+圧倒的な作画とスケールで視聴者を魅了し、
+中国の動画プラットフォーム・テンセントビデオで累計再生数5.7億回を突破、歴代最高評価を獲得。
+日本でも、2024年4月に放送された吹替版がその圧巻の映像美で大きな話題を呼んだ。
+
+そして今回、日本からも新たに鷺巣詩郎（アニメ『BLEACH』シリーズ）、
+大暮維人（漫画『エア・ギア』）、西位輝実（アニメ『呪術廻戦』シリーズ）、
+田中孝弘（アニメ『SAKAMOTO DAYS』）ら、豪華アーティスト＆クリエイター陣が参戦。
+スケールも熱量もさらに加速し、待望の第2期がついに始動！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p53/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008180000 +0000" stop="20251008233000 +0000">
+		<title>SAKAMOTO DAYS #12〜22【無料ビデオ1週間】</title>
+		<desc>ウータンから、✕（スラー）が最凶死刑囚たちを脱獄させ、新たな殺し屋殺しを遂行していると聞いた坂本たち。死刑囚との直接対決に備え、まずは敵の情報収集へと乗り出した。一方、ORDERにも、死刑囚たち全員の抹殺命令が下っており、主力メンバーが任務へと動き出していた。そんな中、競うように殺し屋殺しを行う死刑囚たちの魔の手は、買い出し中のシンとルーにも迫っていた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-61_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251008233000 +0000" stop="20251012120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
@@ -2778,133 +3010,6 @@ S級ヒーロー達が集まり、
 一方、ヒーロー達との戦いの最中怪人協会に連れ去られた
 “人間怪人”ガロウは、そのアジトで目を覚ます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-14_s3_p300/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250928123000 +0000" stop="20250928190000 +0000">
-		<title>ヴィジランテ ヒロアカ #1〜13【無料ビデオ1週間】</title>
-		<desc>総人口の約8割が何らかの超常能力“個性”を持ち、政府認可の下、その“個性”によって社会を守る“ヒーロー”という存在が確立された世界。平凡な大学生、灰廻航一はかつて諦めたヒーローへの憧れを捨てきれず、「親切マン」を名乗ったヒーローまがいの人助けを密かな楽しみとしていた。
-ある日、コーイチはゴロツキに絡まれ危機一髪のピンチに陥る。その時、コーイチの前に現れたのはヒーローでも警察でもなく…？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-253_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250928190000 +0000" stop="20250929003000 +0000">
-		<title>ヴィジランテ ヒロアカ #1〜13【無料ビデオ1週間】</title>
-		<desc>総人口の約8割が何らかの超常能力“個性”を持ち、政府認可の下、その“個性”によって社会を守る“ヒーロー”という存在が確立された世界。平凡な大学生、灰廻航一はかつて諦めたヒーローへの憧れを捨てきれず、「親切マン」を名乗ったヒーローまがいの人助けを密かな楽しみとしていた。
-ある日、コーイチはゴロツキに絡まれ危機一髪のピンチに陥る。その時、コーイチの前に現れたのはヒーローでも警察でもなく…？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-253_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929003000 +0000" stop="20250929023000 +0000">
-		<title>僕のヒーローアカデミア 第7期 Memories #1〜4【無料10/6まで】</title>
-		<desc>“無個性”の少年・緑谷出久が果たした、オールマイトとの運命的な出会い。“個性”ワン・フォー・オールの継承、それは巨悪オール・フォー・ワンと、そして死柄木弔と対峙することを意味していた。決戦を前に出久の胸に去来するものとは―。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s7_p11/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929023000 +0000" stop="20250929043000 +0000">
-		<title>僕のヒーローアカデミア 第7期 Memories #1〜4【無料10/6まで】</title>
-		<desc>“無個性”の少年・緑谷出久が果たした、オールマイトとの運命的な出会い。“個性”ワン・フォー・オールの継承、それは巨悪オール・フォー・ワンと、そして死柄木弔と対峙することを意味していた。決戦を前に出久の胸に去来するものとは―。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s7_p11/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929043000 +0000" stop="20250929063000 +0000">
-		<title>僕のヒーローアカデミア 第7期 Memories #1〜4【無料10/6まで】</title>
-		<desc>“無個性”の少年・緑谷出久が果たした、オールマイトとの運命的な出会い。“個性”ワン・フォー・オールの継承、それは巨悪オール・フォー・ワンと、そして死柄木弔と対峙することを意味していた。決戦を前に出久の胸に去来するものとは―。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s7_p11/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929063000 +0000" stop="20250929130000 +0000">
-		<title>僕のヒーローアカデミア 第1期 #1〜13【無料ビデオ10/6まで】</title>
-		<desc>総人口の約8割が何らかの超常能力”個性”を持ち、その”個性”によって社会を守る”ヒーロー”」という存在が確立された世界。緑谷出久はヒーローになることを夢見て、多くのヒーローを輩出する名門・雄英高校ヒーロー科入学を目指していた。しかし、彼は何の”個性”を持たない”無個性”。現実の厳しさ、不平等さを痛感する日々を過ごしていた。そんなある日、出久は強盗をして逃亡中だった敵（ヴィラン）に襲われてしまう。そこに現れたのは、人気・実力共にNo.1のヒーローだった！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929130000 +0000" stop="20250929140000 +0000">
-		<title>僕のヒーローアカデミア OVA #1〜2【無料ビデオ10/6まで】</title>
-		<desc>敵＜ヴィラン＞連合によるUSJ襲撃から僅か数日…。雄英高校ヒーロー科１年A組の生徒達は救助訓練を行うため再びUSJを訪れていた。生徒たちそれぞれが自分の“個性”と知恵を駆使して訓練に臨む中、突如潜んでいた、筋骨隆々な敵＜ヴィラン＞の残党が出現！すさまじいパワーを持つ敵＜ヴィラン＞に対し、デクたち１年A組の生徒たちは、力を合わせて立ち向かう！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s2_p1000/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929140000 +0000" stop="20250929150000 +0000">
-		<title>僕のヒーローアカデミア OVA #3〜4【無料ビデオ10/6まで】</title>
-		<desc>プロヒーロー仮免試験を目前に控える雄英高校ヒーロー科1年A組は、授業で2チームに分かれての災害救助訓練に臨むことに。地下の大型ショッピングモールで火災が発生し、取り残された要救助者に見立てた人形を保護するというものだ。デクたちAチームの10人は手分けして要救助者を探し始めるが、施設の崩落事故が発生し、地下に閉じ込められてしまう！更なる崩落の危険もあり、電気も通らず、酸素も薄くなり、さらに飯田が負傷し、一刻の猶予もない…。デクたちは力と“個性”を合わせ、離れ離れになったメンバーとの合流と地下からの脱出を目指す。そんな中、爆豪は訓練を続行すると言い出し…!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s4_p1000/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929150000 +0000" stop="20250929160000 +0000">
-		<title>僕のヒーローアカデミア OVA #5、#7【無料ビデオ10/6まで】</title>
-		<desc>野球好きなプロヒーローたちが設立した草野球リーグ「HLB＜ヒーローリーグベースボール＞」。そこで優勝を争う2チーム、ギャングオルカ率いるオルカーズと、シシド率いるライオネルズによる最終決戦の日がいよいよやって来た。ギャングオルカとシシドは覇権を勝ち取るため、他事務所のプロヒーローやインターン中の雄英高校生徒たちを助っ人に呼び寄せる。“個性”全開、HLBならではのルールで繰り広げられる試合の行方は…!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s5_p1000/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929160000 +0000" stop="20250929163000 +0000">
-		<title>僕のヒーローアカデミア OVA #6【無料ビデオ10/6まで】</title>
-		<desc>冬休み。街中の至る場所への落書き事件が連続発生し、デク、爆豪、轟がインターン中のエンデヴァー事務所に応援要請が入る。犯人は、美術家を自称するミスター・スマイリーという男で、彼の“個性”により、警察も逮捕できず手を焼いていたのだ。「そんな軽犯罪は警察で処理しろ！」と一蹴するエンデヴァーだったが、自宅の塀に落書きされたことで態度を一変、検挙に乗り出すが、ミスター・スマイリーは想像以上に手強い相手だった―！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s5_p1001/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929163000 +0000" stop="20250929173000 +0000">
-		<title>僕のヒーローアカデミア OVA #1〜2【無料ビデオ10/6まで】</title>
-		<desc>敵＜ヴィラン＞連合によるUSJ襲撃から僅か数日…。雄英高校ヒーロー科１年A組の生徒達は救助訓練を行うため再びUSJを訪れていた。生徒たちそれぞれが自分の“個性”と知恵を駆使して訓練に臨む中、突如潜んでいた、筋骨隆々な敵＜ヴィラン＞の残党が出現！すさまじいパワーを持つ敵＜ヴィラン＞に対し、デクたち１年A組の生徒たちは、力を合わせて立ち向かう！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s2_p1000/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929173000 +0000" stop="20250929183000 +0000">
-		<title>僕のヒーローアカデミア OVA #3〜4【無料ビデオ10/6まで】</title>
-		<desc>プロヒーロー仮免試験を目前に控える雄英高校ヒーロー科1年A組は、授業で2チームに分かれての災害救助訓練に臨むことに。地下の大型ショッピングモールで火災が発生し、取り残された要救助者に見立てた人形を保護するというものだ。デクたちAチームの10人は手分けして要救助者を探し始めるが、施設の崩落事故が発生し、地下に閉じ込められてしまう！更なる崩落の危険もあり、電気も通らず、酸素も薄くなり、さらに飯田が負傷し、一刻の猶予もない…。デクたちは力と“個性”を合わせ、離れ離れになったメンバーとの合流と地下からの脱出を目指す。そんな中、爆豪は訓練を続行すると言い出し…!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s4_p1000/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929183000 +0000" stop="20250929193000 +0000">
-		<title>僕のヒーローアカデミア OVA #5、#7【無料ビデオ10/6まで】</title>
-		<desc>野球好きなプロヒーローたちが設立した草野球リーグ「HLB＜ヒーローリーグベースボール＞」。そこで優勝を争う2チーム、ギャングオルカ率いるオルカーズと、シシド率いるライオネルズによる最終決戦の日がいよいよやって来た。ギャングオルカとシシドは覇権を勝ち取るため、他事務所のプロヒーローやインターン中の雄英高校生徒たちを助っ人に呼び寄せる。“個性”全開、HLBならではのルールで繰り広げられる試合の行方は…!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s5_p1000/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929193000 +0000" stop="20250929200000 +0000">
-		<title>僕のヒーローアカデミア OVA #6【無料ビデオ10/6まで】</title>
-		<desc>冬休み。街中の至る場所への落書き事件が連続発生し、デク、爆豪、轟がインターン中のエンデヴァー事務所に応援要請が入る。犯人は、美術家を自称するミスター・スマイリーという男で、彼の“個性”により、警察も逮捕できず手を焼いていたのだ。「そんな軽犯罪は警察で処理しろ！」と一蹴するエンデヴァーだったが、自宅の塀に落書きされたことで態度を一変、検挙に乗り出すが、ミスター・スマイリーは想像以上に手強い相手だった―！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s5_p1001/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929200000 +0000" stop="20250929220000 +0000">
-		<title>僕のヒーローアカデミア 第7期 Memories #1〜4【無料10/6まで】</title>
-		<desc>“無個性”の少年・緑谷出久が果たした、オールマイトとの運命的な出会い。“個性”ワン・フォー・オールの継承、それは巨悪オール・フォー・ワンと、そして死柄木弔と対峙することを意味していた。決戦を前に出久の胸に去来するものとは―。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s7_p11/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250929220000 +0000" stop="20250930043000 +0000">
-		<title>僕のヒーローアカデミア 第1期 #1〜13【無料ビデオ10/6まで】</title>
-		<desc>総人口の約8割が何らかの超常能力”個性”を持ち、その”個性”によって社会を守る”ヒーロー”」という存在が確立された世界。緑谷出久はヒーローになることを夢見て、多くのヒーローを輩出する名門・雄英高校ヒーロー科入学を目指していた。しかし、彼は何の”個性”を持たない”無個性”。現実の厳しさ、不平等さを痛感する日々を過ごしていた。そんなある日、出久は強盗をして逃亡中だった敵（ヴィラン）に襲われてしまう。そこに現れたのは、人気・実力共にNo.1のヒーローだった！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250930043000 +0000" stop="20250930110000 +0000">
-		<title>僕のヒーローアカデミア 第1期 #1〜13【無料ビデオ10/6まで】</title>
-		<desc>総人口の約8割が何らかの超常能力”個性”を持ち、その”個性”によって社会を守る”ヒーロー”」という存在が確立された世界。緑谷出久はヒーローになることを夢見て、多くのヒーローを輩出する名門・雄英高校ヒーロー科入学を目指していた。しかし、彼は何の”個性”を持たない”無個性”。現実の厳しさ、不平等さを痛感する日々を過ごしていた。そんなある日、出久は強盗をして逃亡中だった敵（ヴィラン）に襲われてしまう。そこに現れたのは、人気・実力共にNo.1のヒーローだった！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s0_p1/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250930110000 +0000" stop="20250930233000 +0000">
-		<title>僕のヒーローアカデミア 第2期 #14〜38【無料ビデオ10/6まで】</title>
-		<desc>雄英高校の敵＜ヴィラン＞連合襲撃事件から2日後。相澤から「雄英高校体育祭」の開催が告げられ、ヒーロー科1-A生徒たちの意気は上がる。その中でもお茶子は目の色が変わり…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s2_p14/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20250930233000 +0000" stop="20251001120000 +0000">
-		<title>僕のヒーローアカデミア 第3期 #39〜63【無料ビデオ10/6まで】</title>
-		<desc>雄英高校は夏休みに突入！家で自主トレーニングに励んでいた出久は、峰田と上鳴に、学校のプールで林間合宿に向けた体力強化訓練をしようと誘われる。その訓練は、2人が女子たちの水着を見るために仕組まれたものだった―！しかし、そうとも知らない出久が他のＡ組メンバーに声をかけ、峰田と上鳴の悪巧みはあっさり崩れ去る。訓練に励む中、出久たちは、怒涛のように過ぎ去った１学期を思い返すのだった。その頃、敵＜ヴィラン＞連合のアジトでは、死柄木が次の「ゲーム」を始めようとしていた―。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s3_p39/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20251001120000 +0000" stop="20251002003000 +0000">
-		<title>僕のヒーローアカデミア 第4期 #64〜88【無料ビデオ10/6まで】</title>
-		<desc>プロヒーローの仮免を取得し、次なるステージに向けて今日も授業に励む雄英高校ヒーロー科1年A組。そんなデクたちが住む寮に、取材で特田種男という新聞記者がやってきた。1-A生徒の寮生活を取材する、というのは表向きな理由で、実は特田は、オールマイトがオール・フォー・ワンを倒した直後の「次は、君だ」という言葉に着目し、彼の後継者が雄英高校にいるのでは？という疑念から特ダネを狙って来たのだった。生徒たちに次々とカメラを向ける特田は、オールマイトと話すデクの姿から、デクが後継者なのでは…と考え―！？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s4_p64/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20251002003000 +0000" stop="20251002123000 +0000">
-		<title>僕のヒーローアカデミア 第5期 #89〜113【無料ビデオ10/6まで】</title>
-		<desc>No.1ヒーローのエンデヴァーとNo.2のホークスがタッグを組み、脳無・ハイエンドと繰り広げた激戦を熱く語る雄英高校ヒーロー科１年Ａ組の面々。そこに相澤がやってきてＨＲが始まろうとしたその瞬間、教室内に警報が鳴り響く！雄英高校敷地内に敵＜ヴィラン＞が侵入したとの知らせとともに出動要請が出され、グラウンドβに急行すると、そこには黒い煙が立ちのぼっていた。状況把握に努める偵察班からビルの爆発で火災が発生したとの報が入り、消火班＆救助班が出動する。それぞれが“個性”を駆使して事件を解決へと導いている中、姿を現した敵＜ヴィラン＞とは――!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s5_p89/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20251002123000 +0000" stop="20251003003000 +0000">
-		<title>僕のヒーローアカデミア 第6期 #114〜138【無料ビデオ10/6まで】</title>
-		<desc>ホークスの内偵により、死柄木率いる敵&lt;ヴィラン&gt;勢力“超常解放戦線線”の決起の情報を得たプロヒーローと警察は、敵&lt;ヴィラン&gt;一斉確保のために集結、最大規模の作戦に臨む。そこには、デクたち雄英高校ヒーロー科の生徒たちの姿もあった。そしていよいよヒーローたちが“超常解放戦線”のアジトである群訝山荘と、ドクターこと殻木球大のいる蛇腔病院に突入！エンデヴァーたちは早速ドクターを補足するが、そこに大量の脳無が出現！一気に戦いへとなだれ込んでいく。いよいよ、ヒーローと敵&lt;ヴィラン&gt;の全面戦争へ―！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s6_p114/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20251003003000 +0000" stop="20251003110000 +0000">
-		<title>僕のヒーローアカデミア 第7期 #139〜159【無料ビデオ10/6まで】</title>
-		<desc>デクが雄英に戻り、オール・フォー・ワン(AFO)、死柄木弔たちとの決戦に向けて決意を新たにする雄英1年A組とヒーローたち。そんな中、アメリカの誇るNo.1ヒーロー、スターアンドストライプが、自身が“師(マスター)”と呼ぶオールマイトの声を受けて、アメリカ政府に制止される間もなく相棒の空軍パイロットたちと共に独断で日本に向かう。そこに立ちふさがったのは、なんと死柄木弔＝AFO。狙いは、スターの“個性”を奪うこと。その“個性”新秩序(ニューオーダー)で、スターは死柄木に立ち向かう！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s7_p139/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20251003110000 +0000" stop="20251003213000 +0000">
-		<title>僕のヒーローアカデミア 第7期 #139〜159【無料ビデオ10/6まで】</title>
-		<desc>デクが雄英に戻り、オール・フォー・ワン(AFO)、死柄木弔たちとの決戦に向けて決意を新たにする雄英1年A組とヒーローたち。そんな中、アメリカの誇るNo.1ヒーロー、スターアンドストライプが、自身が“師(マスター)”と呼ぶオールマイトの声を受けて、アメリカ政府に制止される間もなく相棒の空軍パイロットたちと共に独断で日本に向かう。そこに立ちふさがったのは、なんと死柄木弔＝AFO。狙いは、スターの“個性”を奪うこと。その“個性”新秩序(ニューオーダー)で、スターは死柄木に立ち向かう！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s7_p139/thumb001.png" />
-	</programme>
-	<programme channel="heroaca" start="20251003213000 +0000" stop="20251004080000 +0000">
-		<title>僕のヒーローアカデミア 第7期 #139〜159【無料ビデオ10/6まで】</title>
-		<desc>デクが雄英に戻り、オール・フォー・ワン(AFO)、死柄木弔たちとの決戦に向けて決意を新たにする雄英1年A組とヒーローたち。そんな中、アメリカの誇るNo.1ヒーロー、スターアンドストライプが、自身が“師(マスター)”と呼ぶオールマイトの声を受けて、アメリカ政府に制止される間もなく相棒の空軍パイロットたちと共に独断で日本に向かう。そこに立ちふさがったのは、なんと死柄木弔＝AFO。狙いは、スターの“個性”を奪うこと。その“個性”新秩序(ニューオーダー)で、スターは死柄木に立ち向かう！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s7_p139/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime" start="20250928100000 +0000" stop="20250928163000 +0000">
 		<title>俺だけレベルアップな件 Season 2 #13〜25【無料ビデオ1週間】</title>
@@ -10420,7 +10525,7 @@ I Don't Like Mondays.『With you』
 高校生たちが新しい人たちと、普段とは違った環境で、やったことないことに挑戦するバラエティ番組。
 高校生たちは、自らの”のびしろ”を求めチャレンジする中で、大人になる第一歩を踏み出します。
 今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p87/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2031_s1_p124/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251008130000 +0000" stop="20251008140000 +0000">
 		<title>No programme</title>
@@ -12180,27 +12285,126 @@ M-1ファイナリストのジョックロックが挑戦！
 アフリカ大陸脱出リアリティショー</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p2/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251006190000 +0000" stop="20251007010000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20251006190000 +0000" stop="20251006210000 +0000">
+		<title>ダマってられない女たち #3~4</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生きざまに触れ、本音で人生を語り合う
+約８年ぶりにメディア密着
+テレビから離れていたモデル・マギーの今に迫る
+年商億超え社長に転身した彼女が語る生きざまとは―
+さらに
+年収１億５千万円！歌舞伎町でもトップ級の売り上げを誇る
+カリスマ女性ホスト天使ニアの実態</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251006210000 +0000" stop="20251006220000 +0000">
+		<title>脳汁じゅ〜す Season2 #11~12</title>
+		<desc>番組詳細はまだありません「脳汁」、それは主に脳内で分泌され一種の快感をもたらす神経伝達物質の俗称。 
+この番組では、そんな脳汁＝アドレナリンを追い求め、
+様々なことに挑戦していくアドレナリン追及バラエティ番組。 
+
+【提供：SANYO】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-283_s1_p30/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251006220000 +0000" stop="20251007000000 +0000">
+		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #13~14</title>
+		<desc>とりあえず、東出昌大・ひろゆきを南米に置き去りにしました。
+南米大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p18/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251007000000 +0000" stop="20251007003700 +0000">
+		<title>MISS KING / ミス・キング　#2 生きる意味</title>
+		<desc>母を失い、飛鳥（のん）はますます孤独な日々を送っていた。
+そんなある日、飛鳥の勤める職場で窃盗事件が発生。
+その容疑者として疑いをかけられ、飛鳥は警察に拘束されてしまう。
+絶望の中、警察署に現れたのは、飛鳥の異母弟・龍也（森愁斗）だった。
+龍也の口添えによって、飛鳥はある条件のもとで釈放される。
+だがそれは、龍也が仕掛けた、巧妙な罠だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p22/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251007003700 +0000" stop="20251007010000 +0000">
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251007010000 +0000" stop="20251007030000 +0000">
 		<title>HK/変態仮面 [PG12]【無料1週間】</title>
 		<desc>ドMの刑事とドSの女王様の間に生まれた、正義感の強い紅優高校拳法部員の色丞狂介(しきじょうきょうすけ)。転校生の姫野愛子に恋をした狂介は、ある日銀行強盗の人質になった愛子を救うために変装して現場に潜入しようとするが、マスクと間違えて女性用パンティを被ってしまう。その瞬間、経験したことのないエクスタシーを感じた狂介の中で、眠っていた両親から引き継いだ血が目覚め、狂介は潜在能力が100%覚醒した”変態仮面”に変身して、超人的な力で悪を倒す。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/91-22_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251007030000 +0000" stop="20251007060000 +0000">
+	<programme channel="special-plus" start="20251007030000 +0000" stop="20251007031500 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20251007031500 +0000" stop="20251007043000 +0000">
+		<title>しくじり先生「VIVANT」公安監修を務めた勝丸円覚先生 #216~217</title>
+		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p245/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251007043000 +0000" stop="20251007060000 +0000">
+		<title>世界の果てに、くるま置いてきた #1：絶叫！最果ての沼地</title>
+		<desc>東出昌大とひろゆきの南米大陸横断旅が完結してから約1年。
+今回新たに置き去りにされるのは、令和ロマン・くるま。
+
+人生初海外のくるまが、挑むのは南アジア縦断の旅
+バングラデシュの孤島からインドを経て、「幸せの国・ブータン」を目指す。
+
+くるまの新たな”舞台”を見つける旅が、今始まる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p101/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251007060000 +0000" stop="20251007080000 +0000">
 		<title>HK/変態仮面 [PG12]【無料1週間】</title>
 		<desc>ドMの刑事とドSの女王様の間に生まれた、正義感の強い紅優高校拳法部員の色丞狂介(しきじょうきょうすけ)。転校生の姫野愛子に恋をした狂介は、ある日銀行強盗の人質になった愛子を救うために変装して現場に潜入しようとするが、マスクと間違えて女性用パンティを被ってしまう。その瞬間、経験したことのないエクスタシーを感じた狂介の中で、眠っていた両親から引き継いだ血が目覚め、狂介は潜在能力が100%覚醒した”変態仮面”に変身して、超人的な力で悪を倒す。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/91-22_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251007080000 +0000" stop="20251007120000 +0000">
+	<programme channel="special-plus" start="20251007080000 +0000" stop="20251007093000 +0000">
+		<title>MISS KING / ミス・キング #1~2</title>
+		<desc>天才棋士・彰一（中村獅童）を父に持つ飛鳥（のん）。
+母・桂子（奥貫薫）と三人で仲睦まじく暮らしていたが、やがて彰一は「勝利」への執着に囚われ、家族を捨てて家を出て行ってしまう。
+それから23年。桂子は病に倒れ、飛鳥は貧困のなかで孤独に生きていた。
+そんな彼女の目に映ったのは、将棋界で華々しく活躍する父・彰一の姿。
+捨てられた過去、叶わなかった日常、募る憎しみ――。
+抑えきれない感情が限界を迎えたとき、飛鳥は衝撃の行動に出る――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251007093000 +0000" stop="20251007094500 +0000">
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251007094500 +0000" stop="20251007100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20251007100000 +0000" stop="20251007115700 +0000">
+		<title>世界の果てに、ひろゆき置いてきた シーズン1 #3~4</title>
+		<desc>ザンビア入りしたひろゆきの前に、東出昌大が登場
+世界三大瀑布の1つ、ヴィクトリア・フォールズで事件は起きた…
+
+アフリカ大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251007115700 +0000" stop="20251007120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -12210,17 +12414,95 @@ M-1ファイナリストのジョックロックが挑戦！
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!赤いブランド・RAWは火曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s10006_p106/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251007150000 +0000" stop="20251008004800 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20251007150000 +0000" stop="20251007170000 +0000">
+		<title>チャンスの時間 #314~315</title>
+		<desc>【第4回 私が一番カワイイオーディション】
+アイドル戦国時代に我こそが一番カワイイと豪語するギャルにグラドルに破天荒美女が集結！
+この機会を逃すまいとアピールする美女たちが、ノブに絡みまくり、ノブがついに完全崩壊…！
+ノブ「こんなんするために頑張ったんじゃないねん！！」
+
+美女の可愛すぎる一言に審査員AMEMIYAを目の前にメロメロで思考停止状態…！
+
+さらに！美女たちが千鳥の漫才を可愛くアレンジ！
+まさかのアレンジにノブ「地に落ちよる」
+
+審査員たちのハートを射止め、No.1の称号を手に入れるのは一体誰だ！
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p314/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251007170000 +0000" stop="20251007190000 +0000">
+		<title>世界の果てに、ひろゆき置いてきた シーズン1 #3~4</title>
+		<desc>ザンビア入りしたひろゆきの前に、東出昌大が登場
+世界三大瀑布の1つ、ヴィクトリア・フォールズで事件は起きた…
+
+アフリカ大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251007190000 +0000" stop="20251007203800 +0000">
+		<title>ダマってられない女たち #5~6</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
+
+バスト129㎝ Ｍカップに生まれた女性の苦悩
+「普通には生活できない…」
+コンプレックスを強みに変えた波乱万丈な人生とは―
+
+さらに
+大腸を切断し女性器を作る
+驚きの性転換手術に挑んだトランスジェンダーモデルの生き様に密着</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251007203800 +0000" stop="20251007210000 +0000">
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251007210000 +0000" stop="20251007220000 +0000">
+		<title>脳汁じゅ〜す Season2 #1〜2</title>
+		<desc>番組詳細はまだありません「脳汁」、それは主に脳内で分泌され一種の快感をもたらす神経伝達物質の俗称。 
+この番組では、そんな脳汁＝アドレナリンを追い求め、
+様々なことに挑戦していくアドレナリン追及バラエティ番組。 
+
+【提供：SANYO】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-283_s1_p20/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251007220000 +0000" stop="20251008000000 +0000">
+		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #15~16</title>
+		<desc>とりあえず、東出昌大・ひろゆきを南米に置き去りにしました。
+南米大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p26/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251008000000 +0000" stop="20251008004800 +0000">
+		<title>MISS KING / ミス・キング　#1 クソみたいな世界</title>
+		<desc>天才棋士・彰一（中村獅童）を父に持つ飛鳥（のん）。
+母・桂子（奥貫薫）と三人で仲睦まじく暮らしていたが、やがて彰一は「勝利」への執着に囚われ、家族を捨てて家を出て行ってしまう。
+それから23年。桂子は病に倒れ、飛鳥は貧困のなかで孤独に生きていた。
+そんな彼女の目に映ったのは、将棋界で華々しく活躍する父・彰一の姿。
+捨てられた過去、叶わなかった日常、募る憎しみ――。
+抑えきれない感情が限界を迎えたとき、飛鳥は衝撃の行動に出る――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251008004800 +0000" stop="20251008030000 +0000">
 		<title>HK/変態仮面 アブノーマル・クライシス【無料1週間】</title>
 		<desc>パンティが消えるニュースが連日メディアを賑わせている中、狂介は相変わらず愛子のパンティを被って悪を倒していた。複雑な想いを抱く愛子はパンティを返してもらうが、徐々に二人の心はすれ違い始める。一方、同級生の真琴正は、気づかぬうちに愛子を傷つける狂介への憎悪を募らせていく。愛子を失い、さらに世界中からパンティが消えるという未曾有の危機を迎えた変態仮面の前に、史上最恐の敵が現れる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/91-23_s2_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251008030000 +0000" stop="20251008054500 +0000">
+	<programme channel="special-plus" start="20251008030000 +0000" stop="20251008040600 +0000">
+		<title>しくじり先生 芸人闇鍋パーティ #218~219</title>
+		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p247/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251008040600 +0000" stop="20251008054500 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -12230,10 +12512,112 @@ M-1ファイナリストのジョックロックが挑戦！
 		<desc>パンティが消えるニュースが連日メディアを賑わせている中、狂介は相変わらず愛子のパンティを被って悪を倒していた。複雑な想いを抱く愛子はパンティを返してもらうが、徐々に二人の心はすれ違い始める。一方、同級生の真琴正は、気づかぬうちに愛子を傷つける狂介への憎悪を募らせていく。愛子を失い、さらに世界中からパンティが消えるという未曾有の危機を迎えた変態仮面の前に、史上最恐の敵が現れる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/91-23_s2_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251008080000 +0000" stop="20251009004700 +0000">
+	<programme channel="special-plus" start="20251008080000 +0000" stop="20251008093000 +0000">
+		<title>MISS KING / ミス・キング #1~2</title>
+		<desc>天才棋士・彰一（中村獅童）を父に持つ飛鳥（のん）。
+母・桂子（奥貫薫）と三人で仲睦まじく暮らしていたが、やがて彰一は「勝利」への執着に囚われ、家族を捨てて家を出て行ってしまう。
+それから23年。桂子は病に倒れ、飛鳥は貧困のなかで孤独に生きていた。
+そんな彼女の目に映ったのは、将棋界で華々しく活躍する父・彰一の姿。
+捨てられた過去、叶わなかった日常、募る憎しみ――。
+抑えきれない感情が限界を迎えたとき、飛鳥は衝撃の行動に出る――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251008093000 +0000" stop="20251008094500 +0000">
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251008094500 +0000" stop="20251008100000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20251008100000 +0000" stop="20251008115700 +0000">
+		<title>世界の果てに、ひろゆき置いてきた シーズン1 #5~6</title>
+		<desc>ひろゆき＆東出昌大のアフリカ放置旅は
+ザンビアの更なる奥地へと続く。
+
+田舎の露店で出会った怪しい商人に
+謎の葉を売り込まれて…
+
+アフリカ大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251008115700 +0000" stop="20251008150000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20251008150000 +0000" stop="20251008170000 +0000">
+		<title>チャンスの時間 #316~317</title>
+		<desc>【ブレイキングヤンチャオーディション シーズン9】
+番組始まって以来の大事件が発生！
+最凶ヤンチャ芸人にノブがぶん殴られる…!!
+ノブ「こいつ一番ヤバいかも」
+
+大悟の即興コントの無茶振りにスタジオがカオスな状況に！
+問題児芸人が大悟噛み付く「お前長くおもんないんだよ」
+暴れ回るたち若手芸人の中で、最もヤンチャなのは一体誰だ!?
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p316/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251008170000 +0000" stop="20251008190000 +0000">
+		<title>世界の果てに、ひろゆき置いてきた シーズン1 #5~6</title>
+		<desc>ひろゆき＆東出昌大のアフリカ放置旅は
+ザンビアの更なる奥地へと続く。
+
+田舎の露店で出会った怪しい商人に
+謎の葉を売り込まれて…
+
+アフリカ大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251008190000 +0000" stop="20251008210000 +0000">
+		<title>ダマってられない女たち #7~8</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
+
+お笑い芸人ゆってぃの妻 石川あんなの出産に完全密着
+二度の流産、そして不妊治療を経て授かった命－
+分娩室で長時間 力を振り絞る姿にスタジオ号泣
+さらに
+元SKE48北野瑠華が東京秘密基地 新人セラピストと禁断デート</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251008210000 +0000" stop="20251008220000 +0000">
+		<title>脳汁じゅ〜す Season2 #3〜4</title>
+		<desc>番組詳細はまだありません「脳汁」、それは主に脳内で分泌され一種の快感をもたらす神経伝達物質の俗称。 
+この番組では、そんな脳汁＝アドレナリンを追い求め、
+様々なことに挑戦していくアドレナリン追及バラエティ番組。 
+
+【提供：SANYO】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-283_s1_p22/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251008220000 +0000" stop="20251009000000 +0000">
+		<title>世界の果てに、東出・ひろゆき置いてきた シーズン2 #17~18</title>
+		<desc>とりあえず、東出昌大・ひろゆきを南米に置き去りにしました。
+南米大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p34/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251009000000 +0000" stop="20251009004700 +0000">
+		<title>MISS KING / ミス・キング　#2 生きる意味</title>
+		<desc>母を失い、飛鳥（のん）はますます孤独な日々を送っていた。
+そんなある日、飛鳥の勤める職場で窃盗事件が発生。
+その容疑者として疑いをかけられ、飛鳥は警察に拘束されてしまう。
+絶望の中、警察署に現れたのは、飛鳥の異母弟・龍也（森愁斗）だった。
+龍也の口添えによって、飛鳥はある条件のもとで釈放される。
+だがそれは、龍也が仕掛けた、巧妙な罠だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p22/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251009004700 +0000" stop="20251009030000 +0000">
 		<title>レジェンド・オブ・ドラゴン 鉄仮面と龍の秘宝(吹替)【無料1週間】</title>
@@ -12242,7 +12626,17 @@ M-1ファイナリストのジョックロックが挑戦！
 一方、ピョートル大帝は鉄の仮面を被らされロンドン塔に捕らえられていた。同じく投獄された老師と出会いなんとか脱獄するが、老師から印を託され、娘に渡すよう告げられる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/587-9_s1_p2/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251009030000 +0000" stop="20251009060000 +0000">
+	<programme channel="special-plus" start="20251009030000 +0000" stop="20251009031500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20251009031500 +0000" stop="20251009041500 +0000">
+		<title>しくじり先生 立ち上がれ!高卒芸人 #220~221</title>
+		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p250/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251009041500 +0000" stop="20251009060000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -12254,7 +12648,97 @@ M-1ファイナリストのジョックロックが挑戦！
 一方、ピョートル大帝は鉄の仮面を被らされロンドン塔に捕らえられていた。同じく投獄された老師と出会いなんとか脱獄するが、老師から印を託され、娘に渡すよう告げられる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/587-9_s1_p2/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251009081500 +0000" stop="20251010010000 +0000">
+	<programme channel="special-plus" start="20251009081500 +0000" stop="20251009094500 +0000">
+		<title>MISS KING / ミス・キング #1~2</title>
+		<desc>天才棋士・彰一（中村獅童）を父に持つ飛鳥（のん）。
+母・桂子（奥貫薫）と三人で仲睦まじく暮らしていたが、やがて彰一は「勝利」への執着に囚われ、家族を捨てて家を出て行ってしまう。
+それから23年。桂子は病に倒れ、飛鳥は貧困のなかで孤独に生きていた。
+そんな彼女の目に映ったのは、将棋界で華々しく活躍する父・彰一の姿。
+捨てられた過去、叶わなかった日常、募る憎しみ――。
+抑えきれない感情が限界を迎えたとき、飛鳥は衝撃の行動に出る――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251009094500 +0000" stop="20251009100000 +0000">
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251009100000 +0000" stop="20251009115700 +0000">
+		<title>世界の果てに、ひろゆき置いてきた シーズン1 #7~8</title>
+		<desc>世界最貧国マラウイでひろゆき＆東出昌大が事故に巻き込まれる。
+旅を続けることは出来るのか…？
+
+アフリカ大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251009115700 +0000" stop="20251009150000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20251009150000 +0000" stop="20251009170000 +0000">
+		<title>チャンスの時間 #318#320</title>
+		<desc>【芸人ギャランティ見直し審査会】
+「芸人のギャラが安すぎる！」
+”ギャラ見直し審査会”でギャラの適正価格を徹底鑑定！
+
+人気芸人・さや香がのギャラが３日拘束でまさかの７５００円！？
+大悟「この金額が未来の数億につながる」
+
+お見送り芸人しんいちは超人気番組の過酷ロケへのギャラの不満をぶっちゃけるも、他の芸人から大クレーム！？
+しんいち「ギャラ安くても芸能人を抱ければいいけど…」
+
+時給187円の強者まで出現!!
+
+芸人が長年耐え忍んだ芸能界のタブー…
+この状況を打破することはできるのか！？
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p318/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251009170000 +0000" stop="20251009190100 +0000">
+		<title>世界の果てに、ひろゆき置いてきた シーズン1 #7~8</title>
+		<desc>世界最貧国マラウイでひろゆき＆東出昌大が事故に巻き込まれる。
+旅を続けることは出来るのか…？
+
+アフリカ大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251009190100 +0000" stop="20251009203400 +0000">
+		<title>ダマってられない女たち #9~10</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
+
+アイドル卒業後、銀座の高級キャバクラ嬢に転身した志田愛佳の今に密着
+活動の場を国民的アイドルから水商売に変えた、その真相とは―
+さらに
+夫は２１歳年下という５３歳女性の「歳の差」夫婦生活に密着！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251009203400 +0000" stop="20251009210000 +0000">
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251009210000 +0000" stop="20251010010000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -13421,9 +13905,12 @@ M-1ファイナリストのジョックロックが挑戦！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p793/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251011103000 +0000" stop="20251011110000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー「戦後80年 レプリカ～被爆遺品の伝言～」</title>
+		<desc>全国の被爆者の平均年齢は今年86歳を超え、初めて10万人を下回った。
+原爆の恐ろしさを直に伝えてきた被爆者による「証言」の機会が減りつつある今、被爆者が残した「遺品」の重要性が高まっている。
+そんな被爆遺品の一部には“レプリカ”が存在した。“本物”と同じように資料館の収蔵庫で大切に保管されているが、館内で日の目を浴びることはない。
+なぜレプリカが作られるようになったのか。製作過程を取材すると、資料に残された被爆者の伝言ともいえるメッセージが見えてきた。
+“レプリカ”という存在から、被爆80年の現状と「伝承のカタチ」に迫る。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p695/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251011110000 +0000" stop="20251011113000 +0000">
@@ -13480,9 +13967,12 @@ M-1ファイナリストのジョックロックが挑戦！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p802/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251012020000 +0000" stop="20251012023000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー「戦後80年 レプリカ～被爆遺品の伝言～」</title>
+		<desc>全国の被爆者の平均年齢は今年86歳を超え、初めて10万人を下回った。
+原爆の恐ろしさを直に伝えてきた被爆者による「証言」の機会が減りつつある今、被爆者が残した「遺品」の重要性が高まっている。
+そんな被爆遺品の一部には“レプリカ”が存在した。“本物”と同じように資料館の収蔵庫で大切に保管されているが、館内で日の目を浴びることはない。
+なぜレプリカが作られるようになったのか。製作過程を取材すると、資料に残された被爆者の伝言ともいえるメッセージが見えてきた。
+“レプリカ”という存在から、被爆80年の現状と「伝承のカタチ」に迫る。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p696/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251012023000 +0000" stop="20251012030000 +0000">
@@ -25986,7 +26476,7 @@ https://abema.tv/video/title/16-92
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
 	</programme>
-	<programme channel="world-sports" start="20251010094000 +0000" stop="20251010140000 +0000">
+	<programme channel="world-sports" start="20251010094000 +0000" stop="20251010133000 +0000">
 		<title>2025-26 大同生命SV.LEAGUE WOMEN 開幕戦 大阪MV×姫路</title>
 		<desc>世界最高峰を目指す日本のバレーボールリーグ「大同生命SVリーグ」の2年目シーズンが開幕!
 昨シーズンは、男子レギュラーシーズンの観客動員数は66万人を超え、前身のVリーグ時代に比べ約175%と増大するほどの人気となった。そんな記念すべき1年目は女子は大阪マーヴェラス、男子はサントリーサンバーズ大阪が優勝し幕を閉じた。
@@ -25998,12 +26488,12 @@ ABMEAでは女子開幕戦「大阪MV×姫路」、男子開幕戦「大阪B×�
 ABEMA de J SPORTSで全試合生中継</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/js_vb00002_s10001_p1/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20251010140000 +0000" stop="20251010192500 +0000">
+	<programme channel="world-sports" start="20251010133000 +0000" stop="20251010185500 +0000">
 		<title>〜全英への道〜ミズノオープン 2日目 後半</title>
 		<desc>第54回「~全英への道~ミズノオープン」は、2025年5月29日(木)から6月1日(日)まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名(有資格者を除く)に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10_p4/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20251010192500 +0000" stop="20251010215000 +0000">
+	<programme channel="world-sports" start="20251010185500 +0000" stop="20251010212000 +0000">
 		<title>4v4 JAPAN CUP U10 2023 presented by au</title>
 		<desc>本田圭佑が発起人となった4対4の新しい「U10のためのサッカー」。
 全国大会決勝戦&amp;スペシャルマッチをABEMAで生中継!
@@ -26011,26 +26501,36 @@ ABEMA de J SPORTSで全試合生中継</desc>
 指導者は不在。子どもたちが自ら考えてプレーし勝利へと突き進む、そのクライマックスを見逃すな!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s10_p5/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20251010215000 +0000" stop="20251011001000 +0000">
+	<programme channel="world-sports" start="20251010212000 +0000" stop="20251010234000 +0000">
 		<title>4v4 JAPAN CUP 2024 RESPECT YOU, au 1</title>
 		<desc>サッカー界をさらに盛り上げるべく、本田圭佑が育成年代の小学生の子ども向けに考案した新しい4人制サッカーの大会「4v4」
 今年は全国大会の準決勝・3位決定戦・決勝戦&amp;レジェンドマッチをABEMAで生中継!
 指導者は不在。子どもたちが自ら考えてプレーし勝利へと突き進む、そのクライマックスを見逃すな!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s20_p5/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20251011001000 +0000" stop="20251011025000 +0000">
+	<programme channel="world-sports" start="20251010234000 +0000" stop="20251011022000 +0000">
 		<title>競泳ジャパンオープン2024 大会1日目</title>
 		<desc>「競泳ジャパンオープン2024」を、11月29日(金)~12月1日(日)の3日間にてABEMAで無料生中継!
 
 パリ五輪・銀メダル 松下知之ら競泳ニッポンが再集結!世界水泳2025へ、選手たちの現在地は!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-444_s10_p1/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20251011025000 +0000" stop="20251011053000 +0000">
+	<programme channel="world-sports" start="20251011022000 +0000" stop="20251011050000 +0000">
 		<title>競泳ジャパンオープン2024 大会2日目</title>
 		<desc>「競泳ジャパンオープン2024」を、11月29日(金)~12月1日(日)の3日間にてABEMAで無料生中継!
 
 パリ五輪・銀メダル 松下知之ら競泳ニッポンが再集結!世界水泳2025へ、選手たちの現在地は!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-444_s10_p2/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251011050000 +0000" stop="20251011053000 +0000">
+		<title>【再】ABEMAスポーツタイム#105</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p105/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251011053000 +0000" stop="20251011090000 +0000">
 		<title>スーパーフォーミュラ2025 Rd.9 富士スピードウェイ</title>
@@ -26048,14 +26548,14 @@ ABEMA de J SPORTSで全試合生中継</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-444_s10_p3/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251011115500 +0000" stop="20251011122500 +0000">
-		<title>【再】ABEMAスポーツタイム#105</title>
+		<title>【再】ABEMAスポーツタイム#38</title>
 		<desc>毎週日曜よる10時から生放送!
 川﨑宗則、槙野智章らがレギュラー出演!!
 スポーツ界を賑わせている話題や最新情報をお届け!
 さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
 「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
 より一層スポーツが楽しくなる番組!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p105/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p38/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251011122500 +0000" stop="20251011150000 +0000">
 		<title>【再】240707 バスケットボール男子日本代表国際強化試合 日本対韓国</title>
@@ -26096,17 +26596,7 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-3_s10001_p21/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20251012090000 +0000" stop="20251012093000 +0000">
-		<title>【再】ABEMAスポーツタイム#38</title>
-		<desc>毎週日曜よる10時から生放送!
-川﨑宗則、槙野智章らがレギュラー出演!!
-スポーツ界を賑わせている話題や最新情報をお届け!
-さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
-「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
-より一層スポーツが楽しくなる番組!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p38/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20251012093000 +0000" stop="20251012102000 +0000">
+	<programme channel="world-sports" start="20251012090000 +0000" stop="20251012095000 +0000">
 		<title>【再】#1：勝者のメンタリティ</title>
 		<desc>2024年、J１で最も注目を浴びたチーム「FC町田ゼルビア」
 彼らは一体なぜ、ここまでの快進撃を遂げたのか？
@@ -26116,6 +26606,16 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 
 J1“初昇格”チーム「FC町田ゼルビア」躍進の裏側に迫る…!!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2012_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251012095000 +0000" stop="20251012102000 +0000">
+		<title>【再】ABEMAスポーツタイム#39</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p39/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251012102000 +0000" stop="20251012130000 +0000">
 		<title>【再】FIBAアジアカップ2025予選 日本 vs グアム</title>
@@ -26227,14 +26727,14 @@ https://abema.tv/video/title/16-92
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s50_p1/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251013095000 +0000" stop="20251013102000 +0000">
-		<title>【再】ABEMAスポーツタイム#39</title>
+		<title>【再】ABEMAスポーツタイム#40</title>
 		<desc>毎週日曜よる10時から生放送!
 川﨑宗則、槙野智章らがレギュラー出演!!
 スポーツ界を賑わせている話題や最新情報をお届け!
 さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
 「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
 より一層スポーツが楽しくなる番組!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p39/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p40/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251013102000 +0000" stop="20251013145000 +0000">
 		<title>【再】バスケットボールJr.ウインターカップ2024-25男女決勝</title>
