@@ -12,10 +12,6 @@
 		<display-name>アニメSPECIALチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png" />
 	</channel>
-	<channel id="anime-special-2">
-		<display-name>アニメSPECIAL2チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png" />
-	</channel>
 	<channel id="spyfamily">
 		<display-name>SPY×FAMILYチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/spyfamily/logo.png" />
@@ -1759,10 +1755,15 @@ S級ヒーロー達が集まり、
 こっちにおいでよバンドリちゃん 君も私もバンドリちゃん！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/283-34_s1_p2/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20251009163500 +0000" stop="20251009170000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	<programme channel="abema-anime" start="20251009163500 +0000" stop="20251009163800 +0000">
+		<title>SHIBUYA♡HACHI #39【最新話】</title>
+		<desc>宝物のように美しい渋谷の夜景を見たハチたち、モヤイ師匠に報告に行くと、師匠がブルーシートでグルグル巻きになってる！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/115-111_s1_p39/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251009163800 +0000" stop="20251009170000 +0000">
+		<title>いくだもも！そびー #1〜4</title>
+		<desc>カフェインコからお店の宣伝を手伝って欲しいってお願いされたんだもも！たけしとゆるげんも一緒に考えたんだけど、みんな自由すぎてまとまらないだもも〜</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-683_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251009170000 +0000" stop="20251009173000 +0000">
 		<title>素材採取家の異世界旅行記 #1・見逃し放送</title>
@@ -2962,48 +2963,6 @@ bilibiliをはじめ中国各プラットフォームで配信されており、
 やがて不気味に、そして静かにバケモノが潮へ語りかける。
 「この槍を抜きな、小僧…」</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/149-3_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="anime-special-2" start="20251001153000 +0000" stop="20251001220000 +0000">
-		<title>異世界黙示録マイノグーラ #1〜13【無料ビデオ1週間】</title>
-		<desc>伊良拓斗は気が付くと、ファンタジー世界のような森の中にいた。そこで拓斗は自分がプレイしていたゲームのキャラクター、「汚泥のアトゥ」と出会う。
-「――僕たちの国を作ろう。僕と、君だけの王国を」
-まずは引き籠もって、密かに情報収集を行いたい拓斗。しかし、この世界の住人であるダークエルフの一団と出会ってしまい……。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/169-148_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="anime-special-2" start="20251001220000 +0000" stop="20251002043000 +0000">
-		<title>異世界黙示録マイノグーラ #1〜13【無料ビデオ1週間】</title>
-		<desc>伊良拓斗は気が付くと、ファンタジー世界のような森の中にいた。そこで拓斗は自分がプレイしていたゲームのキャラクター、「汚泥のアトゥ」と出会う。
-「――僕たちの国を作ろう。僕と、君だけの王国を」
-まずは引き籠もって、密かに情報収集を行いたい拓斗。しかし、この世界の住人であるダークエルフの一団と出会ってしまい……。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/169-148_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="anime-special-2" start="20251002043000 +0000" stop="20251004030000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png" />
-	</programme>
-	<programme channel="anime-special-2" start="20251004030000 +0000" stop="20251004090000 +0000">
-		<title>「おそ松さん」第4期 #1〜12【無料ビデオ3日間】</title>
-		<desc>あの“おそ松さん”がまたまたお茶の間に戻って来る。　第一期放送から１０年。今のご時世を鑑みたとき、“おそ松さん”は果たしてよい子のアニメにふさわしいのか？
-徹底検証――　密着！ニートな６つ子２４時！？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-33_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="anime-special-2" start="20251004090000 +0000" stop="20251004150000 +0000">
-		<title>「おそ松さん」第4期 #1〜12【無料ビデオ3日間】</title>
-		<desc>あの“おそ松さん”がまたまたお茶の間に戻って来る。　第一期放送から１０年。今のご時世を鑑みたとき、“おそ松さん”は果たしてよい子のアニメにふさわしいのか？
-徹底検証――　密着！ニートな６つ子２４時！？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-33_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="anime-special-2" start="20251004150000 +0000" stop="20251004153000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png" />
-	</programme>
-	<programme channel="anime-special-2" start="20251004153000 +0000" stop="20251004220000 +0000">
-		<title>「おそ松さん」第4期 #1〜最終回【無料ビデオ3日間】</title>
-		<desc>あの“おそ松さん”がまたまたお茶の間に戻って来る。　第一期放送から１０年。今のご時世を鑑みたとき、“おそ松さん”は果たしてよい子のアニメにふさわしいのか？
-徹底検証――　密着！ニートな６つ子２４時！？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-33_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="spyfamily" start="20251006230000 +0000" stop="20251007050000 +0000">
 		<title>SPY×FAMILY #1〜12【無料ビデオ1週間】</title>
@@ -10162,7 +10121,7 @@ I Don't Like Mondays.『With you』
 
 さらに
 17歳年下の旦那を持つ49歳女性のラブラブすぎる「歳の差」夫婦生活に密着</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p112/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p106/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251010140000 +0000" stop="20251010143000 +0000">
 		<title>#54：【後編】日直島田アンチ多すぎ問題</title>
@@ -10171,7 +10130,7 @@ I Don't Like Mondays.『With you』
 
 
 提供：マルハン北日本カンパニー</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p191/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p54/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251010143000 +0000" stop="20251010150000 +0000">
 		<title>脳汁じゅ〜す Season2 #13</title>
@@ -10287,7 +10246,7 @@ SNS社会で戦うリアルな生活
 ダメ夫と別れ2児の息子を育てるギャルママ
 
 過酷すぎる人生とは!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p107/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-980_s102_p191/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251012120000 +0000" stop="20251012125500 +0000">
 		<title>ガールオアレディ シーズン2 #8</title>
@@ -10355,7 +10314,7 @@ I Don't Like Mondays.『With you』
 		<desc>近日公開
 
 提供：GRL</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-31_s2_p15/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s740_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251013130000 +0000" stop="20251014120000 +0000">
 		<title>No programme</title>
@@ -14551,7 +14510,7 @@ M-1ファイナリストのジョックロックが挑戦！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p37228/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20251009050000 +0000" stop="20251009060000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>JA全中•山野会長 定例記者会見</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p37229/thumb001.png" />
 	</programme>
@@ -19050,6 +19009,74 @@ M-1ファイナリストのジョックロックが挑戦！
 		<title>明成皇后 第94〜96話</title>
 		<desc>奇襲的に景福宮に侵入した日本軍は、高宗と明成皇后を監禁状態にし、大院君を訪ねては執権するように話す。これは王宮に無断で入った罪を、大院君になすりつけるための作戦であったが、それを感知した大院君ははっきりと断る。一方、日本軍を退けてくれる唯一の勢力であった袁世凱は、日本の戦意に負けて退いてしまう。王宮が日本軍の手に落ち、思うようにいかなければ高宗を殺すという噂に、明成皇后は大院君を訪ねて執権するよう持ちかけるが...。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-268_s1_p94/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20251010193500 +0000" stop="20251010230000 +0000">
+		<title>広開土太王 第1〜3話【今日のイチオシ！】</title>
+		<desc>高句麗の第2王子タムドクは、王宮を離れ将軍として遼東城の防備にあたり、後燕の太子・慕容宝の軍勢を撃退する。後燕の皇帝・慕容垂が大軍を率いて進撃するとの情報に遼東城は全兵力を集結させるが、その情報に疑問に感じたタムドクは...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-137_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20251010230000 +0000" stop="20251011045000 +0000">
+		<title>奇皇后-ふたつの愛 涙の誓い 第4〜8話</title>
+		<desc>スンニャンは気晴らしに乗馬をしたいというタファンの要望を聞き二人で海辺へ。そこでタファンの心に秘めた亡父への思いと決意を知ることに。ワン・ユはスンニャンがタファンを気遣うことが気に入らない。スンニャンは父キ・ジャオから、自分が娘ヤンだと気づいたことを告げられるが...。一方、元ではヨンチョル丞相(じょうしょう)がペガン将軍にタファン暗殺を命じる。高麗(コリョ)の軍を装い、流刑地の島にいる人間を皆殺しにする計画だ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-89_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20251011045000 +0000" stop="20251011060500 +0000">
+		<title>ホン・チョンギ 第31〜最終話</title>
+		<desc>ラムが封印式に到着する。しかし同時に、ラムの体は魔王に乗っ取られてしまう。チョンギたちの描く御容は完成直前だったが、魔王と目を合わせてしまったチョンギは目が見えなくなる。それでもチョンギは筆を手に持つ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-128_s1_p31/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20251011060500 +0000" stop="20251011110000 +0000">
+		<title>シンイ-信義- 第1〜4話【イ・ミンホ主演】</title>
+		<desc>西暦1351年。高麗の恭愍王の一団は元からの帰国途中、刺客に襲われ、王妃が重傷を負う。救えるのは神医のみという侍医の診断を聞き、王の側近は神医がいる天界に通じる天門を見たと話す。近衛隊隊長チェ・ヨンは、天門に入っていくが、そこは2012年のソウルだった。神医を探す中、美容整形外科医のウンスに出会う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-16_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20251011110000 +0000" stop="20251011124000 +0000">
+		<title>100日の郎君様 最終話【ド・ギョンス(EXO-D.O.)主演】</title>
+		<desc>戦争を仕掛けたのが左相だと知った王は、ユルが戦場へ行くことに強く反対する。しかしユルは左相のわなだと知りつつも戦場に向かう。ユルは左相を追い詰めることに成功するが、苦痛を味わわせながら生かすという思惑をよそに左相は命を落とす。ユルと再会したホンシムは、自分のせいでユルが苦しい人生を歩むことになったと別れを告げて去っていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-130_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20251011124000 +0000" stop="20251011150500 +0000">
+		<title>輝くか、狂うか 第1〜2話【チャン・ヒョク主演】</title>
+		<desc>不吉な星のもとに生まれた皇子ワン・ソは幼くして皇宮を追放される。成長後、皇宮に戻ったワン・ソは皇帝が命を狙われているのを知り、刺客を追って開封に向かう。開封では渤海最後の王女シンユルが青海商団を率いて商売をしていた。義兄のせいで郭将軍との結婚を強要された彼女は偶然出会ったワン・ソを婚約者だと偽る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-39_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20251011150500 +0000" stop="20251011185000 +0000">
+		<title>不滅の恋人 第1〜3話【ユン・シユン主演】【今日のイチオシ！】</title>
+		<desc>朝鮮王朝時代。王の息子はまだ幼く、王の母、大妃は後継者争いを恐れていた。王の弟カンは、王座に就く絶好の機会だと宮殿に向かう。一方そのころ、数年前に戦死したはずの王の末弟、フィが人知れず帰還し、彼もまた宮殿に向かっていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-104_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20251011185000 +0000" stop="20251011230000 +0000">
+		<title>イルジメ〔一枝梅〕 第1〜3話【イ・ジュンギ出演】【今日のイチオシ！】</title>
+		<desc>颯爽と宝を盗み、去っていく義賊イルジメ―
+時は13年前に遡る。王の功臣イ・ウォノは息子ギョムと漢陽(ハニャン=今のソウル)へ。そこで、泥棒の濡れ衣を着せられていた少年チャドルを、ギョムの洞察力が救う。一方チャドルの義父・コソ泥セドルは、息子のためにコソ泥をやめようと改心した。そんなセドルにある仕事が舞い込む。チャドルのためお金が必要だったセドルはイ・ウォノの命に関わる仕事だとは知らず引き受ける。しかしこのことによってチャドルは権力者ピョン・シクの家に養子に出され、“シフ”という名前になり、セドルと離れ離れに...!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-10_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20251011230000 +0000" stop="20251012053500 +0000">
+		<title>イ・サン 第15〜19話【イ・ソジン主演】</title>
+		<desc>ハン・ジュノは、陰謀はすべて自分一人で企てたことだという遺書を残して自害する。陰謀の黒幕を突き止める重要な手がかりを失って落胆するサン。だが、そんなサンに英祖は、これでひるむことなく真相を究明せよと言葉をかけ、ファワンは罪が明らかになりしだい処罰すると母親の実家で待機させることにする。
+サンはソンヨンを宮殿の書庫に案内し、ソンヨンの手を取り、古い慣わしに囚われず画員を目指せと励ます。するとちょうどそこへ、サンの正室ヒョイがやってくる。
+ファワンがサンの敵の一人であることを突き止めることに貢献したホン・グギョンは、思惑通りサンの側近に。サンはホン・グギョンに、不正せずにテスを武科に合格させるよう命じる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-391_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20251012053500 +0000" stop="20251012120000 +0000">
+		<title>チャン・オクチョン 第11〜15話【キム・テヒ×ユ・アイン】</title>
+		<desc>イニョンが王妃となる。入宮の行列を見守る人々のなかに、オクチョンの姿があった。オクチョンが生きていると知った大王大妃は急ぎ彼女を王宮に呼び、粛宗と再会させる。固く抱き合う二人。欲しいものを手に入れるというオクチョンの強い決意に、粛宗も周囲に彼女を認めさせようとするが、大妃は次の策を用意していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-12_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20251012120000 +0000" stop="20251012154500 +0000">
+		<title>花郎＜ファラン＞ 第13〜16話(字幕)【パク・ソジュン主演】</title>
+		<desc>アロを避けていたソヌはその理由を彼女に明かす。2人はお互いの気持ちを確かめ合い、幸せに浸る。そんな中、叔明(スンミョン)王女はウィファの元を訪れ、花郎の武芸を鍛えるために誰かが命を落とすまで対戦させるように命じる。さらに只召(チソ)太后からアロの暗殺を命じられた叔明王女は、狩り場にアロを呼び出して矢を放つが...。一方、パク・ヨンシルは王の印が入った腕飾りが仙門(ソンムン)に落ちていたことを知り、花郎の中から彡麦宗(サムメクチョン)をあぶり出す計画を立てて...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-25_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20251012154500 +0000" stop="20251012183500 +0000">
+		<title>大王世宗 第1〜2話【今日のイチオシ！】</title>
+		<desc>国使者との世子(譲寧大君)の婿入りに関する会談を目前に厳戒態勢の王宮のなかで、従事官の首つり死体が発見された。死体を検分すると毒殺と判明。身体に「汝、王材を守れるか」との文字が記されていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-136_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20251012183500 +0000" stop="20251012214000 +0000">
+		<title>ホジュン〜宮廷医官への道〜 第47〜49話</title>
+		<desc>原因不明の重病に倒れたドジの母親オ氏。ドジの妻に頼まれ、看病に向かったホ・ジュンだが、オ氏はホ・ジュンの顔を見た途端、興奮して取り乱し、ひどくののしって部屋から追い出した挙げ句、再び下血して倒れてしまった。気を失った隙にオ氏を診察したホ・ジュンは、オ氏の病は血崩であり、ここ3~4日が峠であると告げる。すぐにでも治療しなければ命も危うい状態だったが、ホ・ジュンに治療されるぐらいなら死んだほうがましとホ・ジュンの治療をかたくなに拒んでおり、心の安静が何より重要な病であるだけに、ホ・ジュンは手出しができなかった。その頃、朝廷では間もなくやって来る明国からの使節に頭を悩ませていた。彼らは朝鮮に難題をつきつけてくることが予測され、彼らの機嫌を損ねることなく交渉を有利に持っていくためには、手厚い接待が効果的と判断。本来ならキーセンに相手をさせるところ、教養のある医女に彼らの伽(とぎ)を務めさせるよう命令が下った―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-92_s1_p47/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251001132000 +0000" stop="20251001152500 +0000">
 		<title>K-POPアイドルスタースポーツ選手権2016 #2</title>
@@ -24037,6 +24064,16 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 大会への参加資格は前年覇者とタイトルホルダー、賞金ランキング上位者の12名という、トップ棋士のみが参加を許されたトーナメント棋戦です。
 今年の覇者は一体誰になるのか?公開対局ならではの緊張感と迫力、持ち時間10分の早差し戦というスピード感で競う「JTプロ公式戦」の全対局を、ぜひ「ABEMA」でお楽しみください。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-22_s10000_p39/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20251012100000 +0000" stop="20251015233000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
+	</programme>
+	<programme channel="shogi" start="20251015233000 +0000" stop="20251016103000 +0000">
+		<title>第38期 竜王戦 七番勝負 第2局1日目 藤井聡太竜王 対 佐々木勇気八段</title>
+		<desc>竜王戦は全棋士と女流棋士4名・奨励会員1名・アマチュア5名で行われます。1組から6組に分けてトーナメント戦を行い、各組の上位者の計11名で挑戦者決定トーナメントを行い、挑戦者を決めます。例年10月から12月にかけて竜王と挑戦者が七番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-12_s10000_p44/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251001111000 +0000" stop="20251001150500 +0000">
 		<title>【再】Viva Mexico 250|NASCAR</title>
