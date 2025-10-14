@@ -52,6 +52,10 @@
 		<display-name>ファミリーアニメ</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
 	</channel>
+	<channel id="gintama">
+		<display-name>銀魂チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/gintama/logo.png" />
+	</channel>
 	<channel id="dragonball">
 		<display-name>ドラゴンボールチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/dragonball/logo.png" />
@@ -4429,12 +4433,8 @@ bilibiliをはじめ中国各プラットフォームで配信されており、
 	</programme>
 	<programme channel="late-night-anime" start="20251014233000 +0000" stop="20251015063000 +0000">
 		<title>ガチアクタ #1〜14</title>
-		<desc>『ガチアクタ』は犯罪者の子孫たちが暮らすスラム街に生まれた孤児の少年・ルドを主人公にしたバトルアクション。
-スラム街で生きる人間たちは、境界線の向こうの人々から“族民”とさげすまれ差別を受けながら生活している。
-そんな世界でルドは、育ての親であるレグトとともに、
-“ゴミ場荒らし”と呼ばれながらも常人離れした身体能力を武器に生計を立てていた。
-だがある日、身に覚えのない罪を着せられ、誰もが恐れる「奈落」へと落とされてしまう。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p28/thumb001.png" />
+		<desc>スラム街で暮らす少年ルドは、いつものように廃棄物集積所に侵入し、まだ使えるゴミを探していた。彼はそこで見つけたぬいぐるみを、密かに思いを寄せている少女チワへとプレゼントしに行く。だが帰り道、ルドは信じられない光景を目にする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/168-76_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="late-night-anime" start="20251015063000 +0000" stop="20251015123000 +0000">
 		<title>フェルマーの料理 #1〜12【無料ビデオ】</title>
@@ -7498,6 +7498,91 @@ Wapperくんは、なかまとともにかいけつできるのか⁉</desc>
 　なんと、そのイヌの正体はドラえもんで、『合体ノリ』という道具を使って、子イヌと自分の体をくっつけたのだという。
 　ドラえもんは、その合体ノリを使って、こんどはのび太と自分の体を、ハトと合体！　空を飛んで、ハイキングに出発したみんなに追いつくが…!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-53_s1_p997/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251014030000 +0000" stop="20251014110000 +0000">
+		<title>銀魂 #1〜16【無料ビデオ1週間】</title>
+		<desc>侍の国―そう呼ばれていたのは今は昔。かつて侍たちが仰ぎ夢をはせた江戸の空には、突如舞い降り台頭した『天人』の船が飛び交い、街には天人たちがふんぞり返って歩く。侍は剣も地位も、そして誇りも失った…。そんな江戸の街で万事屋を営む坂田銀時の元に依頼人・加藤健が現れる。無くした物を取り戻したい。そのためには三千万ほど必要だという。身に続く不幸を語る加藤に、万事屋はやむなく協力することになる。一方そのころ、江戸の片隅では天人カリヤとその一味が、江戸掌握を目論み策謀を交わしていた…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-20xc-mkyminy_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251014110000 +0000" stop="20251014190000 +0000">
+		<title>銀魂 #1〜16【無料ビデオ1週間】</title>
+		<desc>侍の国―そう呼ばれていたのは今は昔。かつて侍たちが仰ぎ夢をはせた江戸の空には、突如舞い降り台頭した『天人』の船が飛び交い、街には天人たちがふんぞり返って歩く。侍は剣も地位も、そして誇りも失った…。そんな江戸の街で万事屋を営む坂田銀時の元に依頼人・加藤健が現れる。無くした物を取り戻したい。そのためには三千万ほど必要だという。身に続く不幸を語る加藤に、万事屋はやむなく協力することになる。一方そのころ、江戸の片隅では天人カリヤとその一味が、江戸掌握を目論み策謀を交わしていた…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-20xc-mkyminy_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251014190000 +0000" stop="20251015030000 +0000">
+		<title>銀魂 #1〜16【無料ビデオ1週間】</title>
+		<desc>侍の国―そう呼ばれていたのは今は昔。かつて侍たちが仰ぎ夢をはせた江戸の空には、突如舞い降り台頭した『天人』の船が飛び交い、街には天人たちがふんぞり返って歩く。侍は剣も地位も、そして誇りも失った…。そんな江戸の街で万事屋を営む坂田銀時の元に依頼人・加藤健が現れる。無くした物を取り戻したい。そのためには三千万ほど必要だという。身に続く不幸を語る加藤に、万事屋はやむなく協力することになる。一方そのころ、江戸の片隅では天人カリヤとその一味が、江戸掌握を目論み策謀を交わしていた…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-20xc-mkyminy_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251015030000 +0000" stop="20251015110000 +0000">
+		<title>銀魂 #17〜32【無料ビデオ1週間】</title>
+		<desc>将軍が姿を見せる祭りを前に、お登勢率いるかぶき町町内会一同は江戸一番の発明家、平賀源外の元に詰めかけていた。昼夜問わず騒音を立て、ガラクタばかりを作り続ける源外に、ついに堪忍袋の緒が切れたのだ。お登勢に動員された万事屋一同は、目には目をとばかりに大音量のカラオケで対抗するが、突如として現れたロボット「三郎」に阻止されてしまう。有無を言わさず源外の工房を河川敷に引っ越しさせた万事屋だったが、三郎をはじめ、源外が作り上げたロボットはみなボロボロに。将軍が列席する祭りにカラクリ芸を披露するために作り上げたという源外だったが…。一方、なにやら危険な雰囲気の男が江戸に姿を現すのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-20xc-mkyminy_s0_p17/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251015110000 +0000" stop="20251015190000 +0000">
+		<title>銀魂 #17〜32【無料ビデオ1週間】</title>
+		<desc>将軍が姿を見せる祭りを前に、お登勢率いるかぶき町町内会一同は江戸一番の発明家、平賀源外の元に詰めかけていた。昼夜問わず騒音を立て、ガラクタばかりを作り続ける源外に、ついに堪忍袋の緒が切れたのだ。お登勢に動員された万事屋一同は、目には目をとばかりに大音量のカラオケで対抗するが、突如として現れたロボット「三郎」に阻止されてしまう。有無を言わさず源外の工房を河川敷に引っ越しさせた万事屋だったが、三郎をはじめ、源外が作り上げたロボットはみなボロボロに。将軍が列席する祭りにカラクリ芸を披露するために作り上げたという源外だったが…。一方、なにやら危険な雰囲気の男が江戸に姿を現すのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-20xc-mkyminy_s0_p17/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251015190000 +0000" stop="20251016030000 +0000">
+		<title>銀魂 #17〜32【無料ビデオ1週間】</title>
+		<desc>将軍が姿を見せる祭りを前に、お登勢率いるかぶき町町内会一同は江戸一番の発明家、平賀源外の元に詰めかけていた。昼夜問わず騒音を立て、ガラクタばかりを作り続ける源外に、ついに堪忍袋の緒が切れたのだ。お登勢に動員された万事屋一同は、目には目をとばかりに大音量のカラオケで対抗するが、突如として現れたロボット「三郎」に阻止されてしまう。有無を言わさず源外の工房を河川敷に引っ越しさせた万事屋だったが、三郎をはじめ、源外が作り上げたロボットはみなボロボロに。将軍が列席する祭りにカラクリ芸を披露するために作り上げたという源外だったが…。一方、なにやら危険な雰囲気の男が江戸に姿を現すのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-20xc-mkyminy_s0_p17/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251016030000 +0000" stop="20251016110000 +0000">
+		<title>銀魂 #33〜49【無料ビデオ1週間】</title>
+		<desc>記憶喪失から戻ってきた銀時は、人生のリスタート記念に溜まりに溜まった家賃もリセットしようとお登勢に掛け合うが、無情にも大破した万事屋を一週間以内に修復しないと追い出す、と宣告されてしまう。仕方なく慣れない大工仕事に精を出すが、素人の銀時たちの手に負えるものでもなく、苛立ち暴走した神楽と銀時によって、万事屋は修理どころか更に破壊が進む有様。そんな彼らのもとに坂本からの小包が届けられた。中には手紙とともに、ちっちゃいオッサンが２人詰められていた。彼らは自らをデリバリー大工と名乗り、万事屋の再建を始めるが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-20xc-mkyminy_s0_p33/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251016110000 +0000" stop="20251016190000 +0000">
+		<title>銀魂 #33〜49【無料ビデオ1週間】</title>
+		<desc>記憶喪失から戻ってきた銀時は、人生のリスタート記念に溜まりに溜まった家賃もリセットしようとお登勢に掛け合うが、無情にも大破した万事屋を一週間以内に修復しないと追い出す、と宣告されてしまう。仕方なく慣れない大工仕事に精を出すが、素人の銀時たちの手に負えるものでもなく、苛立ち暴走した神楽と銀時によって、万事屋は修理どころか更に破壊が進む有様。そんな彼らのもとに坂本からの小包が届けられた。中には手紙とともに、ちっちゃいオッサンが２人詰められていた。彼らは自らをデリバリー大工と名乗り、万事屋の再建を始めるが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-20xc-mkyminy_s0_p33/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251016190000 +0000" stop="20251017030000 +0000">
+		<title>銀魂 #33〜49【無料ビデオ1週間】</title>
+		<desc>記憶喪失から戻ってきた銀時は、人生のリスタート記念に溜まりに溜まった家賃もリセットしようとお登勢に掛け合うが、無情にも大破した万事屋を一週間以内に修復しないと追い出す、と宣告されてしまう。仕方なく慣れない大工仕事に精を出すが、素人の銀時たちの手に負えるものでもなく、苛立ち暴走した神楽と銀時によって、万事屋は修理どころか更に破壊が進む有様。そんな彼らのもとに坂本からの小包が届けられた。中には手紙とともに、ちっちゃいオッサンが２人詰められていた。彼らは自らをデリバリー大工と名乗り、万事屋の再建を始めるが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-20xc-mkyminy_s0_p33/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251017030000 +0000" stop="20251017110000 +0000">
+		<title>銀魂 2年目 #50〜65【無料ビデオ1週間】</title>
+		<desc>どさくさに紛れて、なんとなくなだれこんじゃった感じの銀魂二年目。低視聴率、放送枠移動、苦情殺到…思い返したくもない過去といつ訪れるかわからない打ち切りに頭を抱える万事屋。銀時は二年目を機にテコイレしようと思い立つ。タイトル変更からストーリー刷新まで、あり得なさそうなネタを羅列する新八、神楽。しかし、どれも今一つピンとこない。そんな中、噂を聞きつけた人々が万事屋を訪れ、自分の案を披露し始める…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-21iyycernntt_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251017110000 +0000" stop="20251017190000 +0000">
+		<title>銀魂 2年目 #50〜65【無料ビデオ1週間】</title>
+		<desc>どさくさに紛れて、なんとなくなだれこんじゃった感じの銀魂二年目。低視聴率、放送枠移動、苦情殺到…思い返したくもない過去といつ訪れるかわからない打ち切りに頭を抱える万事屋。銀時は二年目を機にテコイレしようと思い立つ。タイトル変更からストーリー刷新まで、あり得なさそうなネタを羅列する新八、神楽。しかし、どれも今一つピンとこない。そんな中、噂を聞きつけた人々が万事屋を訪れ、自分の案を披露し始める…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-21iyycernntt_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251017190000 +0000" stop="20251018030000 +0000">
+		<title>銀魂 2年目 #50〜65【無料ビデオ1週間】</title>
+		<desc>どさくさに紛れて、なんとなくなだれこんじゃった感じの銀魂二年目。低視聴率、放送枠移動、苦情殺到…思い返したくもない過去といつ訪れるかわからない打ち切りに頭を抱える万事屋。銀時は二年目を機にテコイレしようと思い立つ。タイトル変更からストーリー刷新まで、あり得なさそうなネタを羅列する新八、神楽。しかし、どれも今一つピンとこない。そんな中、噂を聞きつけた人々が万事屋を訪れ、自分の案を披露し始める…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-21iyycernntt_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251018030000 +0000" stop="20251018110000 +0000">
+		<title>銀魂 2年目 #66〜82【無料ビデオ1週間】</title>
+		<desc>寂れた団子屋「魂平糖(こんぺいとう)」で団子を頬張る銀時。向かいに出来た甘味処「餡泥牝堕(あんどろめだ)」に客を取られ、それでもなお団子一筋にのれんを守り抜こうとする主人と意気投合する銀時だが、餡泥牝堕の主人・酔唾(すいーつ)が魂平糖の土地を狙い、退店を迫っていることを知る。なかなか首を縦に振らない魂平糖の主人に、酔唾は勝負を持ちかける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-21iyycernntt_s0_p17/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251018110000 +0000" stop="20251018190000 +0000">
+		<title>銀魂 2年目 #66〜82【無料ビデオ1週間】</title>
+		<desc>寂れた団子屋「魂平糖(こんぺいとう)」で団子を頬張る銀時。向かいに出来た甘味処「餡泥牝堕(あんどろめだ)」に客を取られ、それでもなお団子一筋にのれんを守り抜こうとする主人と意気投合する銀時だが、餡泥牝堕の主人・酔唾(すいーつ)が魂平糖の土地を狙い、退店を迫っていることを知る。なかなか首を縦に振らない魂平糖の主人に、酔唾は勝負を持ちかける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-21iyycernntt_s0_p17/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251018190000 +0000" stop="20251019030000 +0000">
+		<title>銀魂 2年目 #66〜82【無料ビデオ1週間】</title>
+		<desc>寂れた団子屋「魂平糖(こんぺいとう)」で団子を頬張る銀時。向かいに出来た甘味処「餡泥牝堕(あんどろめだ)」に客を取られ、それでもなお団子一筋にのれんを守り抜こうとする主人と意気投合する銀時だが、餡泥牝堕の主人・酔唾(すいーつ)が魂平糖の土地を狙い、退店を迫っていることを知る。なかなか首を縦に振らない魂平糖の主人に、酔唾は勝負を持ちかける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-21iyycernntt_s0_p17/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251019030000 +0000" stop="20251019110000 +0000">
+		<title>銀魂 2年目 #83〜99【無料ビデオ1週間】</title>
+		<desc>スナックすまいるに風邪が大流行し、ほとんどのホステスが病欠してしまう。大事な接客を明日に控えているというのに、店で元気なのはお妙ただ一人という事態に。どうにかしてホステスの人数を集めなければ…。困り果てた店長は銀時たちに「可愛い子を紹介してほしい」と相談するが、神楽以外は乗り気でない様子。しかしその時、九兵衛がお妙への差し入れを持って店にやって来る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-21iyycernntt_s0_p34/thumb001.png" />
+	</programme>
+	<programme channel="gintama" start="20251019110000 +0000" stop="20251019190000 +0000">
+		<title>銀魂 2年目 #83〜99【無料ビデオ1週間】</title>
+		<desc>スナックすまいるに風邪が大流行し、ほとんどのホステスが病欠してしまう。大事な接客を明日に控えているというのに、店で元気なのはお妙ただ一人という事態に。どうにかしてホステスの人数を集めなければ…。困り果てた店長は銀時たちに「可愛い子を紹介してほしい」と相談するが、神楽以外は乗り気でない様子。しかしその時、九兵衛がお妙への差し入れを持って店にやって来る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-21iyycernntt_s0_p34/thumb001.png" />
 	</programme>
 	<programme channel="dragonball" start="20251006110000 +0000" stop="20251006190000 +0000">
 		<title>ドラゴンボール改 #132〜147【無料ビデオ1週間】</title>
@@ -11033,13 +11118,18 @@ I Don't Like Mondays.『With you』
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
-	<programme channel="abema-special" start="20251015120000 +0000" stop="20251015130000 +0000">
+	<programme channel="abema-special" start="20251015120000 +0000" stop="20251015125700 +0000">
 		<title>すーぱーのびしろたいむ by 今日、好きになりました。</title>
 		<desc>放課後がやってきた！さあ、出かけよう！
 高校生たちが新しい人たちと、普段とは違った環境で、やったことないことに挑戦するバラエティ番組。
 高校生たちは、自らの”のびしろ”を求めチャレンジする中で、大人になる第一歩を踏み出します。
 今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2031_s1_p125/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251015125700 +0000" stop="20251015130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20251015130000 +0000" stop="20251015140000 +0000">
 		<title>MISS KING / ミス・キング #1~2ダイジェスト+#3</title>
@@ -14176,7 +14266,7 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p824/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251014030000 +0000" stop="20251014041500 +0000">
-		<title>ABEMAヒルズ　そのニュース、ゆっくり話そう</title>
+		<title>＃アベヒル　株価一時700円超下落/総理は誰に？</title>
 		<desc>「そのニュース、ゆっくり話そう」
 大量の情報が通り過ぎていく毎日。ちょっと立ち止まって、そのニュースをゆっくり話したい。番組MCの柴田阿弥、徳永有美が気になる話題を個性豊かな識者らと語り合います。好奇心の赴くままに。そのニュースは、社会を、政治を、経済を、世界を、そして、あなたの生活を、どう変えるのか…？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-52_s0_p2057/thumb001.png" />
@@ -14522,9 +14612,8 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p861/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251018103000 +0000" stop="20251018110000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー／いまだ来ぬ春～ウクライナ 疲弊する人々～</title>
+		<desc>終わらないロシアのウクライナ侵攻。ジャーナリスト玉本英子は、侵攻直後からウクライナに入り取材を続けた。身近に迫った砲弾。取材した相手のその後の死。ロシアの支配地域から逃れてきた夫婦は、息子や甥を失っていた。夫を失った妻は遺族補償金をもらえず生活が困窮していた。玉本が見たのは、政府に失望する市民と兵士の姿だった。さらに日本が供与した自衛隊車両にも遭遇した。終わりの見えない戦争。ウクライナ兵士の墓標が増え続けている。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p697/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251018110000 +0000" stop="20251018113000 +0000">
@@ -14581,9 +14670,9 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-154_s0_p870/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251019020000 +0000" stop="20251019023000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー「WITH YOUR LIFE 私にしかできない幸せの選択」</title>
+		<desc>27歳で全身の筋肉が動かせなくなる難病ＡＬＳと診断されたクリエイターの武藤将胤さんと、発症を知った上で結婚を決めた妻の木綿子さん。将胤さんはALSが治る未来を目指して様々な挑戦を始めますが病気は徐々に進行。木綿子さんは慣れない介護に追われ、夫婦で何度も衝突。それでも共に支え合い困難を乗り越え、長年の目標だった子供をつくることに挑戦し、木綿子さんは無事に娘を出産。「私にしかできない」人生の幸せを選んだ妻と夫の9年の物語です。
+※2024年10月5日当時</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p698/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251019023000 +0000" stop="20251019030000 +0000">
@@ -24877,18 +24966,10 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p358/thumb001.png" />
 	</programme>
-	<programme channel="mahjong" start="20251017170000 +0000" stop="20251017204100 +0000">
+	<programme channel="mahjong" start="20251017170000 +0000" stop="20251017215300 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
-	</programme>
-	<programme channel="mahjong" start="20251017204100 +0000" stop="20251017215300 +0000">
-		<title>Mリーグベストコレクション</title>
-		<desc>ほんの一握りのトッププロだけが出場できる、麻雀プロリーグ戦「M.LEAGUE(Mリーグ)」。
-数々の名対局を見せるトッププロ達の対局を厳選。
-「スカッとする一発ツモ」「想像もしない和了ルート」「ビタ止め」など、
-チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20251017215300 +0000" stop="20251018001600 +0000">
 		<title>RTDリーグ 2017 BLACK DIVISION 27回戦・28回戦</title>
