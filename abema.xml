@@ -84,6 +84,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -12992,6 +12996,35 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<title>WWE　RAW &amp; ABEMA #108</title>
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!赤いブランド・RAWは火曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s10006_p108/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251012113500 +0000" stop="20251012133500 +0000">
+		<title>『スナックさざなみ』#42</title>
+		<desc>来店したゲストが、ミッドナイトボートレース予想や、オリジナルボードゲーム、カラオケ企画など、
+様々な企画で大盛りあがり!
+
+さらに、ここでしか見れないゲストのディープな1面も!?
+
+ボートレースを知り尽くした講師のレクチャーを参考にして、みんなで予想してみよう!
+ボートレースの基礎からレース直前の最新情報まで全てをお届け!
+
+【提供】BOATRACE振興会</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-228_s1_p1042/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251012133500 +0000" stop="20251014223000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251014223000 +0000" stop="20251015120000 +0000">
+		<title>Dark Idol 全話一挙【21時~SP2chでデビューメンバーSP番組放送】</title>
+		<desc>格闘家・朝倉未来が発起人
+挫折や葛藤を持つ女性のセカンドチャンスを応援する
+「Dark Idol」オーディションがついに開幕！
+
+オーディエンス150人が見守る中、ステージに立つ候補生たち
+まずは第一印象で順位が決まり、そこから上位と下位でのタイマンバトルへ
+６０秒のパフォーマンス一発勝負！負ければ即敗退の厳しい闘いが幕を開ける</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1927_s1_p101/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251007150000 +0000" stop="20251007170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
