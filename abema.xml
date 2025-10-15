@@ -136,6 +136,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -1158,14 +1162,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20251014163000 +0000" stop="20251014170000 +0000">
 		<title>ふたりソロキャンプ #14【最新話】</title>
-		<desc>樹乃倉厳、34歳。
-独りを愛する孤高のキャンパーである厳は
-いつものようにソロキャンプを楽しんでいた。
-
-だが、ひょんなことから超初心者キャンパー、草野雫と遭遇する。
-厳は嫌々ながらも、雫とふたりでソロキャンプをやることに!?
-
-厳の静かなキャンプライフはどうなってしまうのか……</desc>
+		<desc>ソロキャンプを満喫していた厳は、周囲の自然を楽しみながら、自分がどんなキャンプ場を作りたいのかを考えていた。大切なのはキャンプ場のコンセプト。これまで玄人好みのキャンプ場でいいと思っていたが、キャンプ初心者だった雫とのふたりソロキャンプを通して、厳の意識は確実に変化してきていた。そんな中、厳は高校時代に初めてソロキャンプに行った日のことを思い出す。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/189-83_s1_p14/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251014170000 +0000" stop="20251014170500 +0000">
@@ -1340,9 +1337,9 @@
 	</programme>
 	<programme channel="abema-anime" start="20251015170500 +0000" stop="20251015171000 +0000">
 		<title>ちびゴジラの逆襲 #81【最新話】</title>
-		<desc>ちびゴジラと仲間たちのゆるすぎる毎日を描くアニメ『ちびゴジラの逆襲』
-ショートアニメとは思えない豪華すぎる声優陣と、クセ強すぎるちび怪獣たちが忙しい現代人の毎日にくすっと笑える約3分をお届け！
-果たしてちびゴジラは父ゴジラのような「最強」の大怪獣になれるのか――！？</desc>
+		<desc>走りきったぞー！と倒れこんでいるちびゴジラ。
+ちびメカゴジラがどうしたのか聞いてみると
+４年ぶりに開催される「怪獣島マラソン大会」に向けて練習しているようで…</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-168_s1_p81/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251015171000 +0000" stop="20251015173000 +0000">
@@ -10953,29 +10950,12 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20251020110000 +0000" stop="20251020113600 +0000">
-		<title>MISS KING / ミス・キング　#4</title>
-		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
-母と3人、仲睦まじい幼少期を送っていたが、
-ある時彰一は2人を捨てて出ていってしまう。
-母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
-
-一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
-その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
-
-飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
-彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
-飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
-復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
-
-しかし、その前に立ちはだかるのは、
-彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
-そして、強者たちがひしめく、将棋という伝統と実力の世界。
-
-果たして飛鳥は、いくつもの逆境を乗り越え、
-"史上初の女性棋士"への道を切り拓くことができるのか。
-復讐の先に、彼女が手にするものとはー
-
-これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<title>MISS KING / ミス・キング　#4 似ている2人</title>
+		<desc>対局中、突然意識を失い、倒れてしまう飛鳥（のん）。
+朦朧とする中で飛鳥の耳には「将棋をするな」という謎の声が聞こえた。
+飛鳥は将棋に関わるたびに、周りの誰かが不幸になってしまうように感じてしまう。
+そんな飛鳥の様子を見ていた藤堂（藤木直人）は「俺を、これ以上不幸にできるのか？」と投げかけ、飛鳥を見放してしまう。
+藤堂もまた、将棋によって深い悲しみを抱える過去を持っていた――。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p44/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251020113600 +0000" stop="20251020120000 +0000">
@@ -23903,6 +23883,86 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 		<desc>プロ連盟の頂点を決める1年間のリーグ戦。A1リーグは15人、A2リーグは16人で行われ、A1リーグ上位3選手が鳳凰位決定戦に進出となる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p37/thumb001.png" />
 	</programme>
+	<programme channel="mahjong-live" start="20251008030000 +0000" stop="20251008145000 +0000">
+		<title>第50期最高位戦A1リーグ 第11節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p32/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251008145000 +0000" stop="20251009100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251009100000 +0000" stop="20251009170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvsサクラナイツvsABEMASvs雷電</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p350/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251009170000 +0000" stop="20251010100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251010100000 +0000" stop="20251010170000 +0000">
+		<title>大和証券 Mリーグ JETSvs風林火山vsサクラナイツvsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p351/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251010170000 +0000" stop="20251015030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251015030000 +0000" stop="20251015145000 +0000">
+		<title>第50期最高位戦A1リーグ 第12節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p33/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251015145000 +0000" stop="20251016100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251016100000 +0000" stop="20251016170000 +0000">
+		<title>大和証券 Mリーグ JETSvs風林火山vsフェニックスvsPirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p355/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251016170000 +0000" stop="20251017100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251017100000 +0000" stop="20251017170000 +0000">
+		<title>大和証券 Mリーグ 風林火山vsサクラナイツvs雷電vsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p357/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251017170000 +0000" stop="20251022030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251022030000 +0000" stop="20251022145000 +0000">
+		<title>第50期最高位戦A1リーグ 第12節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p34/thumb001.png" />
+	</programme>
 	<programme channel="shogi" start="20251007140000 +0000" stop="20251008033600 +0000">
 		<title>【再】第83期 名人戦 七番勝負 第2局 藤井聡太名人 対 永瀬拓矢九段</title>
 		<desc>順位戦はフリークラスを除いた棋士をA級からC級2組の5つの組に分けてリーグ戦を行います。A級同率首位の棋士が複数出た場合は同率の棋士全員によるプレーオフとなります。名人とA級優勝者が、例年4月から7月にかけて七番勝負を行います。名人戦とは、将棋界で最も格式と歴史のある「名人」のタイトル称号を懸けて行われる七番勝負。名人戦の予選は順位戦と呼ばれ、A級順位戦の優勝者が挑戦者となります。</desc>
@@ -25270,9 +25330,11 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-176_s10_p104/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251019233500 +0000" stop="20251020022000 +0000">
-		<title>【再】FIBAアジアカップ2025予選 日本 vs グアム</title>
-		<desc>2024年、FIBAアジアカップ2025出場を目指す男子日本代表が重要な予選に臨む。昨年のワールドカップで世界に衝撃を与え、パリ五輪出場権を勝ち取った彼らが、再び国際舞台での挑戦を開始。今回の対戦相手はグアム。大舞台へ向けた一戦をABEMA・BS朝日で無料生中継。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-438_s20_p1/thumb001.png" />
+		<title>【再】FIBAアジアカップ2025予選 日本 vs モンゴル</title>
+		<desc>パリの舞台では世界の強豪相手に大接戦を演じ、確かな手応えをつかんだ日本男子バスケットボール代表。河村勇輝が日本人4人目のNBAデビューを果たすなど日本バスケは新たな時代に突入した。
+
+ホーバス・ヘッドコーチは「パリよりもっと強くなれる」と力強く語り、続投が決定。次なる目標はアジアNo.1!代表チームはさらなる高みを目指し世界へと挑む。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-438_s20_p2/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251020022000 +0000" stop="20251020054000 +0000">
 		<title>【再】Straight Talk Wireless 400|NASCAR</title>
@@ -26873,7 +26935,158 @@ vs 不可思</desc>
 メインイベント 江川優生 vs 椿原龍矢</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-128_s20_p11/thumb001.png" />
 	</programme>
-	<programme channel="fighting-sports" start="20251015185000 +0000" stop="20251018120000 +0000">
+	<programme channel="fighting-sports" start="20251015185000 +0000" stop="20251015224000 +0000">
+		<title>Krush.144 2022.12.18</title>
+		<desc>超攻撃型打撃格闘技「Krush」2022年12月18日 後楽園ホールで行われた「Krush.144」の模様をお届け!
+
+メインイベント/Krushスーパー・フェザー級タイトルマッチ
+中島 千博 vs 西元 也史
+
+セミファイナル/Krushスーパー・フェザー級
+山本 直樹 vs 野田 哲司
+
+第7試合/【株式会社クレール不動産 Presents】Krushフェザー級
+森坂 陸 vs 稲垣 澪
+
+第6試合/Krushライト級
+鈴木 翔也 vs 伊藤 健人
+
+第5試合/Krushフェザー級
+林 勇汰 vs 銀次
+
+第4試合/Krush女子フライ級
+真優 vs 麻央
+
+第3試合/Krush女子フライ級
+芳美 vs 櫻井 梨華子
+
+第2試合/Krushフライ級
+西林 翔平 vs 大鹿 統毅
+
+第1試合/Krushフライ級
+大夢 vs 石郷 慶人
+
+プレリミナリーファイト第2試合/Krushフェザー級
+天野 颯大 vs 橋本 雷汰
+
+プレリミナリーファイト第1試合/Krushスーパー・バンタム級
+光佑 vs 早田 吏喜</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-135_s120_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20251015224000 +0000" stop="20251015231000 +0000">
+		<title>「芦澤竜誠と行く ぶらり喧嘩旅」京都編 #2</title>
+		<desc>とにかくなんでも噛み付く男・芦澤竜誠が日本全国を巡る旅に出た!
+旅のお供は、芦澤に文句が言える唯一の天敵・マッコイ斎藤!
+
+ゆく先々で起こるハプニングや喧嘩、そして、ちょっと泣ける感動話まで。
+今、最高にスリリングな旅がはじまる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-124_s10_p18/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20251015231000 +0000" stop="20251016020500 +0000">
+		<title>壊しの女王・KANA 破壊しまくり!ベストバウト</title>
+		<desc>"クラッシャー・クイーン"KANA
+K-1史上初の女子王者の称号を得た、K-1女子を背負って立つ最強・KANAの豪快で凄まじいその破壊力を見よ!
+
+2020.3.22 K-1 WORLD GP 2020 JAPAN ~K'FESTA.3~
+vs グロリア・ペリトーレ
+
+2019.12.28  “K-1冬のビッグマッチ 第2弾 名古屋”
+~初代女子フライ級王座決定トーナメント
+vs ヨセフィン・ノットソン  
+vs クリスティーナ・モラレス
+
+2018.8.18  Krush.92 ~in NAGOYA~
+女子フライ級タイトルマッチ
+vs リュウ・シーベイ
+
+2018.5.17  Krush.88
+女子フライ級タイトルマッチ
+vs キム・タウンセンド
+
+2017.8.20  Krush.79 ~in NAGOYA~
+vs エミリー・マシュー 
+
+2016.9.30  Krush.69
+-50kg契約 タイトルマッチ
+vs キル・ビー
+
+2016.2.5  Krush.63
+vs ジョン・へジン</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-116_s10_p21/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20251016020500 +0000" stop="20251016052000 +0000">
+		<title>NOAH PREMIUM PRELUDE 2020.12.1</title>
+		<desc>2000年8月5日にプロレス界の“方舟”となるべく旗揚げしたプロレス団体「NOAH」。
+2020年12月1日に後楽園ホールで開催された「PREMIUM PRELUDE, 2020」の模様をABEMAで公開!
+
+メインイベント タッグマッチ
+潮崎豪&amp;谷口周平 vs 杉浦貴&amp;鈴木秀樹
+
+セミファイナル 6人タッグマッチ
+清宮海斗&amp;稲村愛輝&amp;稲葉大樹 vs 中嶋勝彦&amp;マサ北宮&amp;征矢学
+
+第5試合 6人タッグマッチ
+小川良成&amp;HAYATA&amp;岡田欣也 vs 丸藤正道&amp;鈴木鼓太郎&amp;サルバヘ・デ・オリエンテ
+
+第4試合 タッグマッチ
+桜庭和志&amp;NOSAWA論外 vs 拳王&amp;仁王
+
+第3試合 タッグマッチ
+原田大輔&amp;小峠篤司 vs タダスケ&amp;覇王
+
+第2試合 シングルマッチ
+モハメド ヨネ vs 宮本裕向
+
+第1試合 6人タッグマッチ
+大原はじめ&amp;YO-HEY&amp;吉岡世起 vs 宮脇純太&amp;藤村加偉&amp;矢野安崇</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-1_s190_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20251016052000 +0000" stop="20251016065500 +0000">
+		<title>【再】WWE SMACKDOWN×ABEMA#51</title>
+		<desc>毎週金曜夜(現地)に行われる「SMACKDOWN」をお届け!世界最高エンタメ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s13_p47/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20251016065500 +0000" stop="20251016092000 +0000">
+		<title>【再】WWE RAW×ABEMA#37</title>
+		<desc>毎週月曜夜(現地)に行われる「RAW」をお届け!世界最高エンタメ
+ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s13_p33/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20251016092000 +0000" stop="20251016133000 +0000">
+		<title>K-1 ~K'FESTA.4~ Day.2 2021.3.28_前半</title>
+		<desc>2021年3月28日(日)に日本武道館で開催されたK'FESTA.4 Day2をABEMAで配信!
+◎収録試合
+
+プレリミナリーファイト第1試合/3分3R/羽鳥 仁 vs 鈴木 孝司
+
+プレリミナリーファイト第2試合/2分3R/ケイト・ウィラサクレック vs 美伶
+
+プレリミナリーファイト第3試合/3分3R/稲垣 柊 vs 清水 卓馬
+
+プレリミナリーファイト第4試合/3分3R/提髪 和希 vs 児玉 兼慎
+
+プレリミナリーファイト第5試合/3分3R/倉崎 昌史 vs 髙橋 直輝
+
+第1試合/【非常識な投資家M Presents】スーパーファイト/3分3R・延長1R/弘輝 vs 龍華
+
+第2試合/スーパーファイト/3分3R・延長1R/海斗 vs 寧仁太・アリ
+
+第3試合/スーパーファイト/3分3R・延長1R/MIO vs 山田 真子
+
+第4試合/スーパーファイト/3分3R・延長1R/高梨knuckle美穂 vs MARI
+
+第5試合/スーパーファイト/3分3R・延長1R/玖村 修平 vs 鷹大
+
+第6試合/スーパーファイト/3分3R・延長1R/MIKE JOE vs EITO
+
+第7試合/スーパーファイト/3分3R・延長1R/小鉄 vs アビラル・ヒマラヤン・チーター
+
+第8試合/スーパーファイト/3分3R・延長1R/島野 浩太朗 vs 三輪 裕樹
+
+第9試合/スーパーファイト/3分3R・延長1R/金子 晃大 vs 鬼山 桃太朗</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-128_s10_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20251016133000 +0000" stop="20251018120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
