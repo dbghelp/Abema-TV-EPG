@@ -8,6 +8,10 @@
 		<display-name>ABEMA アニメチャンネル2</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png" />
 	</channel>
+	<channel id="special-plus-7">
+		<display-name>アニメSPECIALチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png" />
+	</channel>
 	<channel id="isekai-anime">
 		<display-name>異世界・ファンタジーアニメチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime/logo.png" />
@@ -853,7 +857,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20251020153000 +0000" stop="20251020160000 +0000">
 		<title>3年Z組銀八先生 #3【最新話】</title>
-		<desc>3年Z組はものすごく成績が悪かった。そんなZ組を目の敵にするハタ校長は、Z組の担任である坂田銀八にひとつの課題を出す。それは一科目でいいからテストでクラス全員が80点以上をとること。もし達成できなければZ組全員の補習と銀八の給料カットのペナルティを科すという。銀八と3Zの生徒たちは対策会議を開き、カンニングするしかないという結論に至るがーー。</desc>
+		<desc>「ステッカー騒動」という事件が起きていた。「極悪」と書かれたステッカーを強引に売りつけるという恐喝まがいのもので、拒んだ者は暴力を振るわれることもあるという。銀魂高校の生徒の中にも被害者が出る中、銀魂高校一の不良・高杉の停学が明けた。ステッカー騒動と高杉の復学が重なり、生徒たちの不安感は高まるばかり。事態を重くみたハタ校長は担任の銀八に高杉に対して「個人指導」をするよう指示を出す。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-201_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251020160000 +0000" stop="20251020163000 +0000">
@@ -903,21 +907,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20251021130000 +0000" stop="20251021130500 +0000">
 		<title>陛下わたしを忘れてください #3【最新話】</title>
-		<desc>「あなたに愛されなくても助けたかった」
-
-ペルセポネー伯爵家の令嬢・ルーニアは、父に疎まれ、異母兄からも道具扱いされ、孤独な日々を送っていた。
-
-そんな中、神官からクロノア公爵家の当主ハーデュスとの婚約者として選ばれ、呪われた公爵家に嫁ぐことを決める。
-
-“冥王”と恐れられるクロノア公爵家には皇帝が選ぶ花嫁と結ばれないと短命になるという呪いがかかっていた。
-
-しかし、ハーデュスはルーニアを愛するつもりはないと告げる。
-
-私は呪いを解くためだけに存在する…
-
-ルーニアはハーデュスを生かすため、ハーデュスを騙して一夜を共にし、彼の子を身ごもったとも知らず姿を消した―。
-
-7年後、ハ―デュスはなぜかルーニアを探し出し、子供と一緒に連れ帰ろうとして……</desc>
+		<desc>「白い結婚」の要求に逆らったルーニアは屋敷から逃げ出してしまう。
+7年後、自らが産んだ双子ヘリオス、ウラノスとの日々を過ごしていたルーニアの前にハーデュスが姿を現す。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-112_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251021130500 +0000" stop="20251021133000 +0000">
@@ -932,7 +923,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20251021140000 +0000" stop="20251021143000 +0000">
 		<title>3年Z組銀八先生 #3・見逃し放送</title>
-		<desc>3年Z組はものすごく成績が悪かった。そんなZ組を目の敵にするハタ校長は、Z組の担任である坂田銀八にひとつの課題を出す。それは一科目でいいからテストでクラス全員が80点以上をとること。もし達成できなければZ組全員の補習と銀八の給料カットのペナルティを科すという。銀八と3Zの生徒たちは対策会議を開き、カンニングするしかないという結論に至るがーー。</desc>
+		<desc>「ステッカー騒動」という事件が起きていた。「極悪」と書かれたステッカーを強引に売りつけるという恐喝まがいのもので、拒んだ者は暴力を振るわれることもあるという。銀魂高校の生徒の中にも被害者が出る中、銀魂高校一の不良・高杉の停学が明けた。ステッカー騒動と高杉の復学が重なり、生徒たちの不安感は高まるばかり。事態を重くみたハタ校長は担任の銀八に高杉に対して「個人指導」をするよう指示を出す。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-201_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251021143000 +0000" stop="20251021150000 +0000">
@@ -969,7 +960,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20251021170000 +0000" stop="20251021170500 +0000">
 		<title>2200年ねこの国ニッポン #4【最新話】</title>
-		<desc>「2200年、人類の少子化が進んだこの国は――猫の国になりました。」これは猫も話し、学び、働くようになった近未来で暮らす、女子高生と飼い猫の物語。女子高生・麦島さんの飼い猫・ソラは、「麦島さん」と飼い主を苗字・さん付けで呼ぶ。理屈っぽいソラだけど、猫らしく気まぐれなところもあって振り回される麦島さん。でも、人より猫な世界で暮らすのは、思ったより幸せです!!</desc>
+		<desc>「2200年、人類の少子化が進んだこの国は――猫の国になりました。」猫も話し、学び、働くようになった近未来で暮らす、女子高生と飼い猫の物語！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/622-6_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251021170500 +0000" stop="20251021173000 +0000">
@@ -1097,15 +1088,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20251023120000 +0000" stop="20251023123000 +0000">
 		<title>素材採取家の異世界旅行記 #3【最新話】</title>
-		<desc>神城タケルは、ごく普通のサラリーマン。
-だが、ほんの少しの非日常を望んだとき、
-剣と魔法の異世界に転生させられた！
-彼に備わっていたのは身体能力強化にトンデモ魔力――
-そして、価値ある素材を見つけ出せる『探査能力』だった！
-素材採取家として第二の人生をスタートさせるタケル。
-ドラゴンの子に残念エルフ、リザードマンの戦士に美しき古代馬の神、
-騒々しくも愉快な仲間たちに囲まれ、タケルの異世界旅行がはじまる！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p65/thumb001.png" />
+		<desc>ようやくトルミ村に帰ってきたタケルとビー。　依頼された鉱石だけでなく、希少な魔鉱石を採取し益々信用を得たタケルは、商業都市ベルカイムへ行くことを勧められる。　村人たちとの別れを惜しみつつ、ベルカイムを目指すタケルとビー。　その前に、巨大なカニが立ち塞がる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/171-27_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251023123000 +0000" stop="20251023130000 +0000">
 		<title>顔に出ない柏田さんと顔に出る太田君 #3【最新話】</title>
@@ -1124,7 +1108,7 @@
 何が起こったのか混乱するチェンの前に、財産変換システム・通称「リッチェスト」を名乗る謎のキャラクターが現れ、チェンに資金を提供して金持ちになるチャンスを与えると提案する。
 “社畜人生”を抜け出し、金持ちになれると大喜びするチェン。
 しかし、リッチェストが示したルールは極めて特殊で、金持ちになるためには“ある条件”を満たす必要があった――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p49/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-277_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251023135500 +0000" stop="20251023140000 +0000">
 		<title>いくだもも！そびー #7</title>
@@ -1151,13 +1135,12 @@
 比名子の胸には
 「このひとなら私の願いを叶えられるかもしれない」
 という切なる想いが浮かび―。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p31/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-299_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251023150000 +0000" stop="20251023151500 +0000">
-		<title>異世界かるてっと３ #1【最新話】</title>
-		<desc>新たな転校生オットー、ガーフィールが加わった２くみの面々は、ドタバタしながらもいつもの日常を過ごしていた。
-そんな中、アインズはロズワール先生に大事な話があるようで……？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-303_s1_p1/thumb001.png" />
+		<title>異世界かるてっと３ #2【最新話】</title>
+		<desc>異世界転移から学園に戻ってきたアインズ、カズマ、スバル、ターニャ、尚文達。2くみは新たな転校生のオットー、ガーフィールを迎え、再び平和な学園生活に戻る……かと思いきや、何やら不穏な雰囲気が。1くみに現れた謎の転校生たち、あちこちで起きる奇妙な事件、そしていつも通り唐突に発表されるイベントの数々。学園生活の行く末やいかに！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-303_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251023151500 +0000" stop="20251023153000 +0000">
 		<title>ラーバ #7〜12【無料ビデオ1週間】</title>
@@ -1183,7 +1166,7 @@
 彼女の成長物語から目が離せない！
 
 恋愛未経験のサムによる“大人のラブストーリー“が開幕する―――</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p50/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-278_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251023160000 +0000" stop="20251023163000 +0000">
 		<title>永久のユウグレ #4【最新話】</title>
@@ -1204,7 +1187,7 @@
 世界のどこかにいるはずのトワサと再会できると信じて……。
 
 これは新時代を生きる×××と×××が愛を見つける物語。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p18/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/593-13_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251023163000 +0000" stop="20251023163500 +0000">
 		<title>元祖！バンドリちゃん #4【最新話】</title>
@@ -1228,15 +1211,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20251023170000 +0000" stop="20251023173000 +0000">
 		<title>素材採取家の異世界旅行記 #3・見逃し放送</title>
-		<desc>神城タケルは、ごく普通のサラリーマン。
-だが、ほんの少しの非日常を望んだとき、
-剣と魔法の異世界に転生させられた！
-彼に備わっていたのは身体能力強化にトンデモ魔力――
-そして、価値ある素材を見つけ出せる『探査能力』だった！
-素材採取家として第二の人生をスタートさせるタケル。
-ドラゴンの子に残念エルフ、リザードマンの戦士に美しき古代馬の神、
-騒々しくも愉快な仲間たちに囲まれ、タケルの異世界旅行がはじまる！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p65/thumb001.png" />
+		<desc>ようやくトルミ村に帰ってきたタケルとビー。　依頼された鉱石だけでなく、希少な魔鉱石を採取し益々信用を得たタケルは、商業都市ベルカイムへ行くことを勧められる。　村人たちとの別れを惜しみつつ、ベルカイムを目指すタケルとビー。　その前に、巨大なカニが立ち塞がる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/171-27_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251023173000 +0000" stop="20251023180000 +0000">
 		<title>顔に出ない柏田さんと顔に出る太田君 #3・見逃し放送</title>
@@ -1256,7 +1232,7 @@
 比名子の胸には
 「このひとなら私の願いを叶えられるかもしれない」
 という切なる想いが浮かび―。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p31/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-299_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251023183000 +0000" stop="20251024003000 +0000">
 		<title>僕のヒーローアカデミア 第5期 #102〜113【無料ビデオ1週間】</title>
@@ -1294,7 +1270,7 @@
 比名子の胸には
 「このひとなら私の願いを叶えられるかもしれない」
 という切なる想いが浮かび―。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p31/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-299_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251024080000 +0000" stop="20251024083000 +0000">
 		<title>Let’s Play クエストだらけのマイライフ #4・見逃し放送</title>
@@ -1315,7 +1291,7 @@
 彼女の成長物語から目が離せない！
 
 恋愛未経験のサムによる“大人のラブストーリー“が開幕する―――</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p50/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-278_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251024083000 +0000" stop="20251024090000 +0000">
 		<title>永久のユウグレ #4・見逃し放送</title>
@@ -1336,19 +1312,12 @@
 世界のどこかにいるはずのトワサと再会できると信じて……。
 
 これは新時代を生きる×××と×××が愛を見つける物語。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p18/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/593-13_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251024090000 +0000" stop="20251024103000 +0000">
 		<title>素材採取家の異世界旅行記 #1〜3</title>
-		<desc>神城タケルは、ごく普通のサラリーマン。
-だが、ほんの少しの非日常を望んだとき、
-剣と魔法の異世界に転生させられた！
-彼に備わっていたのは身体能力強化にトンデモ魔力――
-そして、価値ある素材を見つけ出せる『探査能力』だった！
-素材採取家として第二の人生をスタートさせるタケル。
-ドラゴンの子に残念エルフ、リザードマンの戦士に美しき古代馬の神、
-騒々しくも愉快な仲間たちに囲まれ、タケルの異世界旅行がはじまる！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p65/thumb001.png" />
+		<desc>謎の青年から様々な能力を与えられたタケルは、異世界の惑星マデウスに転生。　早速『探査能力』を使い、高値で売れる素材を採取する。　その腕を見込まれ、とある山にある“ミスリル鉱石”を採取してほしいと依頼されたタケルだが、そこには恐ろしいモンスターがいるらしく……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/171-27_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251024103000 +0000" stop="20251024120000 +0000">
 		<title>野原ひろし 昼メシの流儀 #1〜3【無料ビデオ1週間】</title>
@@ -1379,7 +1348,7 @@
 彼女の成長物語から目が離せない！
 
 恋愛未経験のサムによる“大人のラブストーリー“が開幕する―――</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p50/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-278_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251024133000 +0000" stop="20251024140000 +0000">
 		<title>キングダム 第6シリーズ #3【最新話】</title>
@@ -1394,7 +1363,7 @@
 さらに、大きな期待を寄せられた新世代・信「飛信隊」、蒙恬（もうてん）「楽華隊（がくかたい）」、王賁（おうほん）「玉鳳隊（ぎょくほうたい）」が独立遊軍としてこれに加わる。
 
 鄴をめぐる熾烈な戦いがいよいよ幕を開ける！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p68/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-2_s6_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251024140000 +0000" stop="20251024143000 +0000">
 		<title>永久のユウグレ #4・見逃し放送</title>
@@ -1415,7 +1384,7 @@
 世界のどこかにいるはずのトワサと再会できると信じて……。
 
 これは新時代を生きる×××と×××が愛を見つける物語。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p18/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/593-13_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251024143000 +0000" stop="20251024150000 +0000">
 		<title>野原ひろし 昼メシの流儀 #4【最新話】</title>
@@ -1496,9 +1465,9 @@
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-111_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251024174500 +0000" stop="20251024181500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+		<title>さわらないで小手指くん+ミニアニメ #3【最新話】</title>
+		<desc>小手指向陽・高校１年生。特技は、気持ちよくさせすぎちゃう超絶マッサージ！！学費を稼ぐため、スポーツ強豪校・星和大付属高校の寮の管理人となった向陽。そこで出会ったのは、曲者揃いの美少女アスリート達だった！医学部特待をGETするため、向陽は彼女達の「心身のケア」に勤しむことに！　過激すぎるのに、尊すぎる……！？　新時代のマッサージラブコメ、ここに悶絶！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/643-15_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251024181500 +0000" stop="20251024182300 +0000">
 		<title>SEALOOK（シールック）#3【最新話】</title>
@@ -1712,15 +1681,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20251026013000 +0000" stop="20251026030000 +0000">
 		<title>素材採取家の異世界旅行記 #1〜3</title>
-		<desc>神城タケルは、ごく普通のサラリーマン。
-だが、ほんの少しの非日常を望んだとき、
-剣と魔法の異世界に転生させられた！
-彼に備わっていたのは身体能力強化にトンデモ魔力――
-そして、価値ある素材を見つけ出せる『探査能力』だった！
-素材採取家として第二の人生をスタートさせるタケル。
-ドラゴンの子に残念エルフ、リザードマンの戦士に美しき古代馬の神、
-騒々しくも愉快な仲間たちに囲まれ、タケルの異世界旅行がはじまる！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p65/thumb001.png" />
+		<desc>謎の青年から様々な能力を与えられたタケルは、異世界の惑星マデウスに転生。　早速『探査能力』を使い、高値で売れる素材を採取する。　その腕を見込まれ、とある山にある“ミスリル鉱石”を採取してほしいと依頼されたタケルだが、そこには恐ろしいモンスターがいるらしく……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/171-27_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251026030000 +0000" stop="20251026053000 +0000">
 		<title>無職の英雄 #1〜5</title>
@@ -2430,6 +2392,23 @@ S級ヒーロー達が集まり、
 		<title>僕だけがいない街 #1〜12【無料ビデオ10/31まで】</title>
 		<desc>売れない漫画家である藤沼悟は、悪いことの起こる直前に時間が巻き戻る現象、「リバイバル」に悩まされていた。その日、「リバイバル」が原因で交通事故にあった悟は、18年前の誘拐事件で殺された少女を思い出す。そして、悟の見舞いに訪れた母佐知子は解決されたはずの事件の真相に気づいてしまい・・・</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-148_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20251022123000 +0000" stop="20251023003000 +0000">
+		<title>薬屋のひとりごと #1〜24【無料ビデオ1週間】</title>
+		<desc>花街で薬屋を営む猫猫は、人さらいにかどわかされて後宮に売られ、下女として働くことになった。ある日、“帝の御子の連続死は「呪い」のせい”という噂を聞く。呪いの正体を推理した猫猫が妃たちが暮らす宮へ行くと、上級妃の二人が言い争う声が聞こえてきた。好奇心と知識欲が旺盛で「薬」「毒」と聞くと気持ちが昂る猫猫は、動き始める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-174_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20251023003000 +0000" stop="20251023123000 +0000">
+		<title>薬屋のひとりごと #25〜48【無料ビデオ1週間】</title>
+		<desc>春の園遊会も無事に終わり、猫猫は玉葉妃の毒見役としての日常へふたたび戻っていた。そんな中、後宮では大衆小説が大流行。あまり上品な娯楽として扱われない小説の流行を不思議に思う猫猫だったが、そこには壬氏の後宮管理人としての狙いがあった。
+そして春の陽気の中、玉葉妃の娘・鈴麗公主の散歩の付き添いへと出かけると、突然小さな珍客が現れて……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-174_s2_p25/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20251023123000 +0000" stop="20251024003000 +0000">
+		<title>薬屋のひとりごと #25〜48【無料ビデオ1週間】</title>
+		<desc>春の園遊会も無事に終わり、猫猫は玉葉妃の毒見役としての日常へふたたび戻っていた。そんな中、後宮では大衆小説が大流行。あまり上品な娯楽として扱われない小説の流行を不思議に思う猫猫だったが、そこには壬氏の後宮管理人としての狙いがあった。
+そして春の陽気の中、玉葉妃の娘・鈴麗公主の散歩の付き添いへと出かけると、突然小さな珍客が現れて……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-174_s2_p25/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime" start="20251014110000 +0000" stop="20251014170000 +0000">
 		<title>スライム倒して300年 そのに #1〜12【無料ビデオ1週間】</title>
@@ -4686,9 +4665,12 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-262_s1_p13/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20251022125700 +0000" stop="20251022130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
+		<title>ダイキン空気予報 10/22</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p205/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20251022130000 +0000" stop="20251022133000 +0000">
 		<title>声優と夜あそび 繋【金田朋子×そびー×関智一】#39</title>
@@ -6673,9 +6655,12 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p6/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20251022113700 +0000" stop="20251022114000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 10/22</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p205/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20251022114000 +0000" stop="20251022134000 +0000">
 		<title>映画ドラえもん のび太の新魔界大冒険～7人の魔法使い～</title>
@@ -7665,7 +7650,7 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 	</programme>
 	<programme channel="gintama" start="20251020153000 +0000" stop="20251020160000 +0000">
 		<title>3年Z組銀八先生 #3【最新話】</title>
-		<desc>3年Z組はものすごく成績が悪かった。そんなZ組を目の敵にするハタ校長は、Z組の担任である坂田銀八にひとつの課題を出す。それは一科目でいいからテストでクラス全員が80点以上をとること。もし達成できなければZ組全員の補習と銀八の給料カットのペナルティを科すという。銀八と3Zの生徒たちは対策会議を開き、カンニングするしかないという結論に至るがーー。</desc>
+		<desc>「ステッカー騒動」という事件が起きていた。「極悪」と書かれたステッカーを強引に売りつけるという恐喝まがいのもので、拒んだ者は暴力を振るわれることもあるという。銀魂高校の生徒の中にも被害者が出る中、銀魂高校一の不良・高杉の停学が明けた。ステッカー騒動と高杉の復学が重なり、生徒たちの不安感は高まるばかり。事態を重くみたハタ校長は担任の銀八に高杉に対して「個人指導」をするよう指示を出す。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-201_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="gintama" start="20251020160000 +0000" stop="20251020190000 +0000">
@@ -11354,9 +11339,12 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251022115700 +0000" stop="20251022120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 10/22</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p205/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251022120000 +0000" stop="20251022130000 +0000">
 		<title>シゴデキ最終日！思いが溢れ涙…&amp;きんごがマッチョ部初参戦！すぱのび#26</title>
@@ -11394,9 +11382,12 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251022135700 +0000" stop="20251022140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 10/22</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p205/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251022140000 +0000" stop="20251022150000 +0000">
 		<title>CHANCE &amp; CHANGE #42</title>
@@ -11597,9 +11588,23 @@ I Don't Like Mondays.『With you』
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s2_p60/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251023082000 +0000" stop="20251023090000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>#0 見どころ&amp;メンバー紹介「MODELS CRUSH」まもなく開幕！</title>
+		<desc>人気ティーン誌「Popteen」と「egg」が禁断のコラボ！
+日本初となる"合同紙雑誌"の全国発売が決定！
+
+かつて平成のギャルブームを牽引し、女子高生のバイブルだった2誌。
+しかしSNS全盛の令和、雑誌が売れない時代に突入ー。
+ともに休刊を経験したライバル誌同士が、再起を図り立ち上がる！
+
+合同雑誌の表紙と誌面のページをかけた
+現役モデルたちによる真剣勝負！
+
+唯一無二じゃないと生き残れない。
+雑誌を背負う「カリスマモデル」になれるのか？
+二つの雑誌は、10代の憧れを取り戻せる？
+
+雑誌の未来をかけた、バトルリアリティショー！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2044_s1_p300/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251023090000 +0000" stop="20251023093000 +0000">
 		<title>【冒頭無料】仙台DAY1 コムドット NO PREPARE</title>
@@ -11665,10 +11670,57 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 世界から優しく愛される『Amazing Kawaii』キッズグループが誕生します☆ミ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2043_s1_p3/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251023113000 +0000" stop="20251023160000 +0000">
+	<programme channel="abema-special" start="20251023113000 +0000" stop="20251023113300 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251023113300 +0000" stop="20251023121100 +0000">
+		<title>#0 見どころ&amp;メンバー紹介「MODELS CRUSH」まもなく開幕！</title>
+		<desc>人気ティーン誌「Popteen」と「egg」が禁断のコラボ！
+日本初となる"合同紙雑誌"の全国発売が決定！
+
+かつて平成のギャルブームを牽引し、女子高生のバイブルだった2誌。
+しかしSNS全盛の令和、雑誌が売れない時代に突入ー。
+ともに休刊を経験したライバル誌同士が、再起を図り立ち上がる！
+
+合同雑誌の表紙と誌面のページをかけた
+現役モデルたちによる真剣勝負！
+
+唯一無二じゃないと生き残れない。
+雑誌を背負う「カリスマモデル」になれるのか？
+二つの雑誌は、10代の憧れを取り戻せる？
+
+雑誌の未来をかけた、バトルリアリティショー！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2044_s1_p300/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251023121100 +0000" stop="20251023121400 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251023121400 +0000" stop="20251023150000 +0000">
+		<title>MISS KING / ミス・キング #1~4</title>
+		<desc>天才棋士・彰一（中村獅童）を父に持つ飛鳥（のん）。
+母・桂子（奥貫薫）と三人で仲睦まじく暮らしていたが、やがて彰一は「勝利」への執着に囚われ、家族を捨てて家を出て行ってしまう。
+それから23年。桂子は病に倒れ、飛鳥は貧困のなかで孤独に生きていた。
+そんな彼女の目に映ったのは、将棋界で華々しく活躍する父・彰一の姿。
+捨てられた過去、叶わなかった日常、募る憎しみ――。
+抑えきれない感情が限界を迎えたとき、飛鳥は衝撃の行動に出る――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251023150000 +0000" stop="20251023160000 +0000">
+		<title>＃7:マダム信子73歳 19歳年下夫との終活＆芸能人が本気で婚活</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
+
+売上年間50億円以上「マダムブリュレ」の生みの親・マダム信子の終活
+30年間苦楽を共にした19歳年下夫との夫婦の絆とは―
+
+さらに
+映画「カメラを止めるな！」俳優のしゅはまはるみ51歳
+壮絶な過去の恋愛を乗り越え、はじめての婚活</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p107/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251023160000 +0000" stop="20251023180000 +0000">
 		<title>復讐の未亡人 第1~4話 前半一挙</title>
@@ -11815,10 +11867,45 @@ DAY2のオープニングの模様を特別に無料生配信！
 ※全編視聴にはPPVチケットの購入が必要です。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/527-696_s20000_p90/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251024093000 +0000" stop="20251024100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	<programme channel="abema-special" start="20251024093000 +0000" stop="20251024094500 +0000">
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251024094500 +0000" stop="20251024100000 +0000">
+		<title>MISS KING / ミス・キング　#1~2 スペシャルダイジェスト</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p201/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251024100000 +0000" stop="20251024120000 +0000">
 		<title>『ときめきファンファーレ』#30</title>
@@ -11841,7 +11928,7 @@ DAY2のオープニングの模様を特別に無料生配信！
 	<programme channel="abema-special" start="20251024123000 +0000" stop="20251024130000 +0000">
 		<title>For JAPAN シーズン3 #28</title>
 		<desc>ー日本の政治シーンに『経営力』はあるのか⁉ー　日本の未来を憂う無数のトーク番組。しかし出演しているコメンテーターに実績はあるのか？110兆円を動かす「政治家」に経営経験はあるのか？経営経験もない人間が毎年途方もない金額を動かし、30年以上成長できない日本。本物の実績のある経営者が日本課題に挑む！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p89/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-273_s3_p28/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251024130000 +0000" stop="20251024135700 +0000">
 		<title>＃8:城田優のパワフル母と５人兄弟の家族愛＆吉木りさの推し活</title>
@@ -11881,9 +11968,17 @@ DAY2のオープニングの模様を特別に無料生配信！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-283_s1_p33/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251024150000 +0000" stop="20251024160000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ナオキマンの都市伝説ワイドショー#1：国家の裏で暗躍する能力者</title>
+		<desc>【国家の裏で暗躍する超能力者を都市伝説視点で見たら…】
+総裁選の裏でも能力者が暗躍している?
+中国最強の超能力者「張宝勝」の神レベルの力とは?
+アメリカ軍が戦争で使う超能力とは?
+
+【超能力者育成！プロジェクトE】
+日本の今後を救う!?一大プロジェクトが始動
+
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s2_p10/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251024160000 +0000" stop="20251024180000 +0000">
 		<title>復讐の未亡人 第5話~最終話 後半一挙</title>
@@ -12002,7 +12097,23 @@ I Don't Like Mondays.『With you』
 抑えきれない感情が限界を迎えたとき、飛鳥は衝撃の行動に出る――。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251025104500 +0000" stop="20251025160000 +0000">
+	<programme channel="abema-special" start="20251025104500 +0000" stop="20251025130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251025130000 +0000" stop="20251025140000 +0000">
+		<title>#8：芸能界に所属！？土浦のキャバクラ&amp;地球平面説&amp;豊田商事事件のマンション 他</title>
+		<desc>芸人たちが、強烈な【実体験】を
+己の話術で【エピソードトーク】に昇華させる…芸人×トークの新境地!!
+
+錦鯉  渡辺隆「茨城県・土浦のキャバクラ」
+ヤーレンズ 出井隼之介「地球平面説の第一人者」
+街裏ぴんく 「豊田商事事件のマンション」
+ザ・マミィ 酒井貴士「週刊誌の記者を逆取材」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p178/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251025140000 +0000" stop="20251025160000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -12012,7 +12123,17 @@ I Don't Like Mondays.『With you』
 		<desc>大学の入学式で、誠人（玉木宏）は幼い容姿で個性的な女の子、静流（宮崎あおい）と出会う。コンプレックスのために、人とうまく付き合えない誠人だったが、彼女とは自然に打ち解けることができた。誠人に恋をした静流は、毎日のように一緒に森へ写真撮影に出掛けていくが、誠人には別に想いを寄せる同級生がいて、静流のことは女の子として見てくれない。静流は、誠人のために大人の女性になろうと決心するのだが…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/158-4_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251025180300 +0000" stop="20251026110000 +0000">
+	<programme channel="abema-special" start="20251025180300 +0000" stop="20251026035700 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251026035700 +0000" stop="20251026040000 +0000">
+		<title>ちいかわ #132・見逃し放送</title>
+		<desc>モモンガ、静かに泣いて何かをアピール！？／モモンガ、でかい声を出してほしい！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p132/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251026040000 +0000" stop="20251026110000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -13768,9 +13889,12 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p101/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251022121500 +0000" stop="20251022121800 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 10/22</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p205/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251022121800 +0000" stop="20251022131500 +0000">
 		<title>ナオキマンの都市伝説ワイドショー#1：国家の裏で暗躍する能力者</title>
@@ -14053,10 +14177,74 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 南米大陸脱出リアリティショー</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p34/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251023190000 +0000" stop="20251024010000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20251023190000 +0000" stop="20251023203000 +0000">
+		<title>ドーピングトーキング #3~4</title>
+		<desc>粗品の新番組「ドーピングトーキング」
+今旬の芸人からベテラン芸人まで総勢40名超えの芸人たちが、強烈な【実体験】を
+己の話術で【エピソードトーク】に昇華させる…芸人×トークの新境地!!
+
+マテンロウ アントニー「ゴシップ誌“実話ナックルズ“の編集部を直撃」
+コロコロチキチキペッパーズ ナダル「芸能界SNS乗っ取りの真相」
+レイザーラモン RG「港区女子の最新の夜事情」
+紅しょうが 熊元プロレス「イケメン双子ホストとワンナイト！？」
+バッテリィズ エース「生き別れた家族を探す」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251023203000 +0000" stop="20251023210000 +0000">
+		<title>脳汁じゅ〜す Season2 #13</title>
+		<desc>番組詳細はまだありません「脳汁」、それは主に脳内で分泌され一種の快感をもたらす神経伝達物質の俗称。 
+この番組では、そんな脳汁＝アドレナリンを追い求め、
+様々なことに挑戦していくアドレナリン追及バラエティ番組。 
+
+【提供：SANYO】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-283_s1_p32/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251023210000 +0000" stop="20251023220000 +0000">
+		<title>パーラーカチ盛り ABEMA店 #54~55</title>
+		<desc>日直島田アンチ問題をきっかけに数々の衝撃事実発覚！
+新たな証言者、レジェンドライターも参戦し波乱の決着が！？
+
+特集
+ジャパニーズ娯楽の魅力を伝えたい「パチンコインバウンド調査」
+専門家を招いてパチンコがなぜ外国人に人気なのかを知る！
+
+
+提供：マルハン北日本カンパニー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p54/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251023220000 +0000" stop="20251024000000 +0000">
+		<title>世界の果てに、くるま置いてきた #4~5</title>
+		<desc>シュドルガッド港をあとにし、
+繊維業が盛んな街、ナラヤンガンジを目指す令和ロマン・くるま。
+道中、大勢の子ども達に囲まれて…くるま軍団、再結成!?
+大所帯で向かった先は、まさかの大豪邸で…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p104/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251024000000 +0000" stop="20251024010000 +0000">
+		<title>MISS KING / ミス・キング #1~2ダイジェスト+#3</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p201/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251024010000 +0000" stop="20251024030000 +0000">
 		<title>劇場版 おいしい給食 Final Battle【無料1週間】</title>
@@ -14087,17 +14275,17 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<desc>1986年、秋。黍名子中学で3年生の担任を持つ甘利田は、受験シーズンに突入するにも関わらず、給食の献立表のみを気にしていた。学年主任の宗方早苗はそんな甘利田に呆れつつ、彼女自身もある悩みを抱えていた。そんなある日、甘利田にとって受験以上に気になる事件が浮上する。給食メニューの改革が決定されたのだ。不穏な空気を察知した甘利田は、給食を守るために立ち上がる!果たして受験は?卒業は?進路は?そして、中学最後のうまそげ対決、勝者はどっちだ!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/273-467_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251025030000 +0000" stop="20251025060000 +0000">
+	<programme channel="special-plus" start="20251025030000 +0000" stop="20251025060600 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
-	<programme channel="special-plus" start="20251025060000 +0000" stop="20251025080000 +0000">
+	<programme channel="special-plus" start="20251025060600 +0000" stop="20251025080500 +0000">
 		<title>劇場版 おいしい給食 卒業【無料1週間】</title>
 		<desc>1986年、秋。黍名子中学で3年生の担任を持つ甘利田は、受験シーズンに突入するにも関わらず、給食の献立表のみを気にしていた。学年主任の宗方早苗はそんな甘利田に呆れつつ、彼女自身もある悩みを抱えていた。そんなある日、甘利田にとって受験以上に気になる事件が浮上する。給食メニューの改革が決定されたのだ。不穏な空気を察知した甘利田は、給食を守るために立ち上がる!果たして受験は?卒業は?進路は?そして、中学最後のうまそげ対決、勝者はどっちだ!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/273-467_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251025080000 +0000" stop="20251025100000 +0000">
+	<programme channel="special-plus" start="20251025080500 +0000" stop="20251025100000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -14133,24 +14321,18 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<desc>1989年、冬。中学教師・甘利田幸男は、北の地に降り立った。隠し持った真の目的はアレを味わう事。だが赴任から一年以上経つもアレが献立に登場する事は無い。相変わらず給食のために学校へ行き、食のライバル粒来ケンと毎日密かにしのぎを削っている。一方、新米教師の比留川愛はそんな甘利田に憧れを抱き、近くにいたいと願っていた。そんな頃、忍川中学が給食完食のモデル校に選定される。忍川町では町長選挙を前にして、政治利用に使われようとしていたのだ!不穏な空気を察知した甘利田は、おいしい給食を守るために立ち上がる!そんな中、アレとの頂上決戦の幕が上がろうとしていた。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/273-931_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251026030000 +0000" stop="20251026035700 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
-	</programme>
-	<programme channel="special-plus" start="20251026035700 +0000" stop="20251026040000 +0000">
-		<title>ちいかわ #132・見逃し放送</title>
-		<desc>モモンガ、静かに泣いて何かをアピール！？／モモンガ、でかい声を出してほしい！？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p132/thumb001.png" />
-	</programme>
-	<programme channel="special-plus" start="20251026040000 +0000" stop="20251026120000 +0000">
+	<programme channel="special-plus" start="20251026030000 +0000" stop="20251026120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20251026120000 +0000" stop="20251026130000 +0000">
-		<title>世界の果てに、くるま置いてきた:生配信</title>
-		<desc>番組詳細はまだありません</desc>
+		<title>世界の果てに、くるま置いてきた：くるま×ひろゆき生出演！南アジア縦断旅、裏側暴露</title>
+		<desc>令和ロマン・くるま×ひろゆきが生出演！
+ここまでの南アジア縦断旅を振り返る緊急生配信SP!!
+
+放送に収まり切らなかった旅の裏側を語るくるま！
+さらに、ひろゆきとは、いつ合流できるのか…!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s10000_p200/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251026130000 +0000" stop="20251027123000 +0000">
@@ -14178,7 +14360,23 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 ハラスメントに対するモヤモヤをアレン様がぶった斬る番組です！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-330_s1_p3/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251028031500 +0000" stop="20251029140000 +0000">
+	<programme channel="special-plus" start="20251028031500 +0000" stop="20251029120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20251029120000 +0000" stop="20251029121000 +0000">
+		<title>Global Startup EXPO 2025 #1</title>
+		<desc>大阪・関西万博の会場内で2日間に渡り開催されたGlobal Startup EXPO(GSE)2025！
+ディープテック領域を中心としたスタートアップの技術やサービスの世界への発信を目的に開催されました。
+
+国内外のトップ投資家、起業家らが来場し、
+基調講演やブース出展、ピッチなどをABEMAアナウンサー・藤田かんなが現地取材！
+
+ディープテック領域の未来はどう発展していくか…？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p148/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251029121000 +0000" stop="20251029140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -16378,7 +16576,7 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p37540/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20251022050000 +0000" stop="20251022060000 +0000">
-		<title>初入閣！　小野田紀美経済安全保障担当大臣　就任会見</title>
+		<title>小野田紀美経安全保大臣が就任会見／小泉進次郎防衛大臣が訓示</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p37541/thumb001.png" />
 	</programme>
@@ -16388,17 +16586,17 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p37542/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20251022070000 +0000" stop="20251022080000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>１６：０２～　片山さつき財務大臣　就任会見</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p37543/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20251022080000 +0000" stop="20251022090000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>１７：０２～　参政党　神谷代表ら定例会見</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p37544/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20251022090000 +0000" stop="20251022100000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>１８：４８～　小泉進次郎防衛大臣　就任会見</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p37545/thumb001.png" />
 	</programme>
@@ -18075,6 +18273,215 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<title>ブラインド 第1〜4話</title>
 		<desc>ある大雨の日、路地を歩く若い女性が突如何者かに襲われ拉致されてしまう。くしくもその日は彼女の誕生日で、両親が帰宅を待っていた。そんな中、ムヨン市の土手でその女性の遺体が発見される。刑事のソンジュンは、無残にも口を切り裂かれた遺体を見て怒りが込み上げるが...。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-52_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251026190000 +0000" stop="20251026210000 +0000">
+		<title>長沙里9.15【韓流ミッドナイトシアター】</title>
+		<desc>北朝鮮からの敗走を続けていた韓国軍は、戦況を打開するためマッカーサー将軍の指揮下で大規模な上陸作戦を計画。「長沙里(チャンサリ)に上陸せよ」と命じられたイ・ミョンジュン大尉(キム・ミョンミン)らが率いるのは、訓練期間わずか2週間、平均年齢17歳の772人の学生兵。僅かな弾薬と最小限の食料だけを支給された彼らはまさに「捨て駒」だった。それでも祖国と愛する者たちを守る為、降り注ぐ銃弾を受けながら部隊は決死の上陸を試みる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/274-97_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251026210000 +0000" stop="20251026230000 +0000">
+		<title>凍える華 第1〜3話【日替わり一挙】</title>
+		<desc>裕福ではないけれど、母ユネと二人で支え合ってきたナヨンは、明るくしっかり者。ある日、母と12歳の誕生日を祝っていたナヨンは、トイレで人違いをされる。その話を聞いたユネは慌てた様子で店を出る。そしてこの夜、ナヨンはある男の子と出会う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-30_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251026230000 +0000" stop="20251027000000 +0000">
+		<title>本物(チンチャ)が現れた！(字幕) 第68話【平日毎朝8時放送】</title>
+		<desc>ホの見舞いに病院へ訪れたボンニムは、帰り際にセジンと遭遇しヨンドゥの母親としてこれまでの出来事について改めて謝罪する。そして、セジンにホの親心を分かってあげてほしいと伝えてその場を去る。一方、テギョンたちは両家の家族を集めた食事会を開くが、そこにジュナが現れ...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-48_s1_p68/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027000000 +0000" stop="20251027011500 +0000">
+		<title>奇皇后-ふたつの愛 涙の誓い 第10話</title>
+		<desc>皇太后が側室候補として選んだ女官オジンが懐妊。オジンを側室にすべきだという皇太后と、猛反対する皇后タナシルリが対立。決断を迫られるタファンだが、それよりも少し前に倒れたヤンのことが気になってしょうがない。一方でタファンはタンギセを呼び出し、高麗(コリョ)で釈放したスンニャンの消息を尋ねる。西の辺境では、昼夜を問わず奇襲を続けるチュルクにワン・ユがワナを仕掛け、仮面姿の敵将パトルと対じする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-89_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027011500 +0000" stop="20251027034500 +0000">
+		<title>あやしいパートナー 第25〜27話【チ･チャンウク主演】</title>
+		<desc>意識が戻ったヒョンスは、記憶喪失になっていた。なんとかヒョンスを逮捕したいユジョンだが、なかなか令状がおりない。1人で食事をしている彼女を見かけたウニョクは、声をかける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-11_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027034500 +0000" stop="20251027040000 +0000">
+		<title>また出会った君 第1話【今日のイチオシ！】</title>
+		<desc>平凡に見える女子高生のウ・ジスには秘密がある。その秘密とは、親友であるハ・ダソムの彼氏を好きなこと。ダソムとダソムの彼氏のチョ・アソンがケンカするたびに2人の仲直りを助け、想いを隠し続けるジス。ところがジスの秘密を知る唯一の人物が同じクラスに転校してくる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-7_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027040000 +0000" stop="20251027055500 +0000">
+		<title>復讐のカルテット 第21〜22話【平日毎日13時放送】</title>
+		<desc>ダリに拒まれてショックを受けたホンシは体調を崩してしまい、その様子を見たハリはホンシがチン・マルボクの娘だとギチャンに告白する。ドゥルレを拉致したストーカーはアジトで結婚を強要。そして自分に情報を提供した女がいると言い、ケファに電話する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-53_s1_p21/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027055500 +0000" stop="20251027071500 +0000">
+		<title>イ・サン 第17話</title>
+		<desc>国王、英祖(ヨンジョ)が行幸先の村で疫病にかかり倒れてしまう。どうやら村の疫病患者たちを見舞った際に感染したらしい。村には薬も満足にないが、高齢で体力のない英祖に都まで長旅をさせるわけにもいかず、一行は村で英祖の回復を待つことになる。
+英祖が倒れたとの報を聞いた王妃は、もし英祖が回復しなかった場合にサンが王位に就いてしまうことを恐れ、サンを生きて宮殿に帰してはならないと重臣チェ・ソクチュに書状を送る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-391_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027071500 +0000" stop="20251027084500 +0000">
+		<title>魔女たちの楽園〜二度なき人生〜 第51〜52話</title>
+		<desc>ワンサムと別れ、プンギとこっそり楽園荘に戻ったウンジは、これからの人生をプンギと歩んでいくことを決意する。一方、ジングの死の真相が明らかになり、ソウルで暮らす意味を失ったバクハは故郷の安眠島に戻ろうとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-96_s1_p51/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027084500 +0000" stop="20251027104500 +0000">
+		<title>1%の奇跡〜運命を変える恋〜 第8〜10話</title>
+		<desc>ある日ダヒョンが家に帰ると、部屋の中が荒らされていた。心配したジェインはしばらく自分の家にいるように勧めるが、初めて一緒に夜を過ごすことになったダヒョンは戸惑う。そんな中、テハは父親ヒョクジュの動きを怪しんでいた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-4_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027104500 +0000" stop="20251027120000 +0000">
+		<title>コネクション 第7〜8話【チソン主演】</title>
+		<desc>ジェギョンは押収品の薬をのんでしまい、慌てて防犯カメラの映像を確かめに行く。すると閲覧記録にはないが、後輩のキム・チャンス警部補も映像を見に来たと聞き、ジェギョンはチャンスが自分の事情を知ってるのではと疑う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-225_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027120000 +0000" stop="20251027142500 +0000">
+		<title>あやしいパートナー 第28〜30話【チ･チャンウク主演】</title>
+		<desc>ヒョンスを連れ出した地検長は、息子の恨みを晴らそうとする。それに気付いたジウクとボンヒは追いかける。その後、ジウクは検事として復職し、ユジョンからヒョンスの事件を引き継ぐ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-11_s1_p28/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027142500 +0000" stop="20251027164000 +0000">
+		<title>被告人 第10〜12話(字幕)【チソン主演】</title>
+		<desc>ソンギュの自白に興奮し騒ぎ立てたジョンウは、再び懲罰房に閉じ込められる。一方、ソンギュがジョンウと同じ刑務所の同房だったことを知ったミノは、釈放後、行方不明になったソンギュに苛立ちを募らせる。ジョンウは懲罰房で所長の電話の着信音を聞き、逮捕された後にハヨンと電話で話した時の記憶がよみがえる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-7_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027164000 +0000" stop="20251027175000 +0000">
+		<title>キマイラ 第5〜6話</title>
+		<desc>またしても発火原因が分からない爆発事件。ハン班長の遺体からはキマイラの絵が施されたライターが発見される。中山警察署には特別捜査本部が設置され、コ・グァンスが班長として配属されるが、強力2班の班員たちは事件が特捜本部に管理されることに反発する。ジェファン(パク・ヘス)はハン班長を救えなかったことを激しく後悔していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-29_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027175000 +0000" stop="20251027200000 +0000">
+		<title>ラブ・アゲイン 2度目のプロポーズ【韓流ミッドナイトシアター】</title>
+		<desc>赤っ恥覚悟で敢行した離婚式を経て、夢見たシングルライフを満喫する事になったヒョヌ。自由を取り戻したのも束の間、6か月ぶりに元妻ソニョンが現れた事で状況が一転する。ソニョンと第二の結婚生活の様な、なじみがありながらも危険な生活が始まっただけでなく、偶然再会した旧友のサンチョルに相談された恋愛相手がソニョンだったのだ。離婚式以来、それぞれの生活を送る事になった男女の三角関係の行く末はいかに―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/274-107_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027200000 +0000" stop="20251027230000 +0000">
+		<title>神の天秤 第1〜3話【日替わり一挙】</title>
+		<desc>検事を目指すジュナは、恋人・ウンジと幸せな日々を過ごしていた。ウンジは、ジュナが生活し易いようにシンリム洞の屋根裏部屋を借りる。司法試験合格発表の日、ジュナは不合格の知らせを受け、一人落胆する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-140_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251027230000 +0000" stop="20251028000000 +0000">
+		<title>本物(チンチャ)が現れた！(字幕) 第69話【平日毎朝8時放送】</title>
+		<desc>ヨンドゥとテギョンの配慮で、ジュナはハヌルと食事をしたり、記念撮影をするなどして親子の時間を楽しむ。そして、別れが惜しいジュナは最後に3時間だけ2人っきりにしてほしいとヨンドゥたちに懇願する。一方、ソンイと会うことを後ろめたく思うスギョムは、ユミョンの前で泣きだし...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-48_s1_p69/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028000000 +0000" stop="20251028011000 +0000">
+		<title>奇皇后-ふたつの愛 涙の誓い 第11話</title>
+		<desc>ヤンはタナシルリの間者(かんじゃ)を選ぶ試験に合格。オジンに流産させる薬を飲ませるよう命じられる。成功すれば、望みどおり宮殿を出て自由に暮らすことが約束されていた。そんななか、タファンはヤンがスンニャンではないかという疑いを強めていた。一方、パン・シヌとチョンバギをチュルクの陣営に潜入させたワン・ユは、ペガンを出し抜いて敵将パトルを捕えるため、さらなる作戦を進める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-89_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028011000 +0000" stop="20251028034000 +0000">
+		<title>2度目の二十歳 第12〜13話【チェ・ジウ主演】</title>
+		<desc>イジンはウチョルとの仲がヒョンソクにばれていたことに気付くとヒョンソクを訪ね、ノラたち夫婦が以前から離婚状態だったと告げる。ヒョンソクはノラの結婚生活が不幸であったことを知って胸を痛め、さりげなく慰めようとする。しかしノラはふとしたことで夫の不倫の現場にヒョンソクがいたことを思い出し、ヒョンソクの優しさが同情からだったと思い込む。落ち込むノラにヒョンソクは意味深な言葉と共に古びた小箱を差し出す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-19_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028034000 +0000" stop="20251028040000 +0000">
+		<title>恋のハイヒール 第1話【今日のイチオシ！】</title>
+		<desc>新入社員のジフは、同じ職場の上司テスに恋をするが、告白をためらってばかり。そんなある日、テスと2人で外回りに行くことになったジフは、ときめきを隠しきれない。だが事は思うように運ばずこじれる一方で、ジフはテスの前で気まずい思いをするが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-8_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028040000 +0000" stop="20251028055500 +0000">
+		<title>復讐のカルテット 第23〜24話【平日毎日13時放送】</title>
+		<desc>ミストからXPが検出されたとハリから聞いたギチャンは、XPに触れると半月形の発疹が出るから、それを手がかりに犯人捜しをすればいいと助言。夜中にファンスンを呼び出したウニャンは酔い潰れたふりをして朝まで引き止め、わざとセギョンに疑念を抱かせる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-53_s1_p23/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028055500 +0000" stop="20251028071500 +0000">
+		<title>イ・サン 第18話</title>
+		<desc>行幸先で疫病にかかり宮殿に戻れない王に代わって宮中を取り仕切るサン。王に宮中を任された以上、すべてに最善の処置をとろうとするサンは、貞純(チョンスン)王妃に逆らい、自分の言葉を王命と受け止めて従えと言い放つ。その態度に怒りを募らせる王妃とファワン。
+王とともに行幸先で足止めを食らっているチェ・ソクチュとチョン・フギョムは、サンに朝廷を牛耳られてはなるまいと、英祖を連れて宮殿に戻るために医官を無理やり説得する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-391_s1_p18/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028071500 +0000" stop="20251028084500 +0000">
+		<title>魔女たちの楽園〜二度なき人生〜 第53〜最終話</title>
+		<desc>釈放されたインスクはその足でヘジュンの元に向かい、献身的にヘジュンを看病するバクハに感謝の思いを伝える。一方、ゴボクによって会長を解任されたワンサムは楽園荘を訪れる。そんな時、バクハの元に病院から連絡が入る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-96_s1_p53/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028084500 +0000" stop="20251028104500 +0000">
+		<title>1%の奇跡〜運命を変える恋〜 第11〜13話</title>
+		<desc>自分をだましていたことを怒るダヒョンの機嫌を取るために、ジェインは慣れないサプライズを計画する。一方、そろそろギュチョルと会ってちゃんと話がしたいと思っていたダヒョンだったが、ギュチョルが創立記念パーティーへダヒョンを招待すると言い出し...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-4_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028104500 +0000" stop="20251028120000 +0000">
+		<title>コネクション 第9〜10話【チソン主演】</title>
+		<desc>ジェギョンが話を聞いた工事現場付近の精米所の店主が数分の間に殺される。ジェギョンはジュンソの事件との関連を確信し、独自に捜査を進める。犯行現場付近に止まっていた車両の運転手ノ・ギュミンの家を訪れるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-225_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028120000 +0000" stop="20251028143500 +0000">
+		<title>2度目の二十歳 第14〜15話【チェ・ジウ主演】</title>
+		<desc>離婚手続きを終えて祖母をしのぶノラ。そんな母親に優しく寄り添う息子のミンス。一方ウチョルは離婚を機に家を出てホテル暮らしを始めるが、いつかノラとよりを戻そうと心に決めていた。しかしウチョン大学のキャンパスに教授の不正を取り沙汰する妙なうわさが流れ始め、ウチョル宛てに身に覚えのない脅迫メールが届く。追い詰められたウチョルは口止め料を払うためにノラに譲るはずだった店を勝手に処分してしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-19_s1_p14/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028143500 +0000" stop="20251028165500 +0000">
+		<title>シークレットガーデン 第1〜2話【ヒョンビン主演】</title>
+		<desc>年間購入額が3億ウォン以上のVVIPにのみ立ち入りが許されるデパートのラウンジに場違いないでたちのライムが現れる。そんなライムを目にしたスルは、身分証明書を確認するよう職員に詰め寄るが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-175_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028165500 +0000" stop="20251028181000 +0000">
+		<title>キマイラ 第7〜8話</title>
+		<desc>ユジンが指揮を執り心理学を利用した手法でジュンヨプの取り調べが始められるが、精神力に長けたジュンヨプからはなかなか決定的な供述を引き出せない。一方、報道記者のヒョギョンは連続爆発事件と過去のキマイラ事件を関連付けた番組を企画。キマイラ事件の容疑者で取り調べ中に自殺したイ・サンウをはじめ、当時の関係者について調べ始める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-29_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028181000 +0000" stop="20251028202000 +0000">
+		<title>スピリットウォーカー【韓流ミッドナイトシアター】</title>
+		<desc>交通事故の現場で目覚めた男は、すべての記憶を失っていた。鏡に映る自分の顔も、名前も、全てがしっくりこない。しばらくすると、男はまた馴染みのない場所で目を覚ます。今度は先ほどとは違う顔で。やがて彼は12時間ごとに違う人間の体に入れ替わっていることに気づく。そして突如として、謎の女が彼に銃口を向ける。一体なぜ?何が起きているのか?そして本当の自分は何者なのか?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/274-106_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028202000 +0000" stop="20251028230000 +0000">
+		<title>逆流 第1〜4話【日替わり一挙】</title>
+		<desc>優秀なインテリアデザイナーのキム・イニョンは業界大手・テヨングループの長男、カン・ドンビンと交際中だ。イニョンを深く愛するドンビンは、両親に紹介するためイニョンを自宅に招くが、イニョンにはある思惑があった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-111_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251028230000 +0000" stop="20251029000000 +0000">
+		<title>本物(チンチャ)が現れた！(字幕) 第70話【平日毎朝8時放送】</title>
+		<desc>テギョンと家族たちは、ハヌルを連れて逃げたジュナを必死に捜す。そんな中、ジュナの居場所に見当がついたセジンはグムシルに報告する。その行動に心を動かされたグムシルは、過去の行いをセジンに謝罪する。一方、ヒはホンジュンの治療の支援を受けるため、スジョンに母親をやめると言い...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-48_s1_p70/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251029000000 +0000" stop="20251029011000 +0000">
+		<title>奇皇后-ふたつの愛 涙の誓い 第12話</title>
+		<desc>タファンはついにヤンがスンニャンだと知る。ずっと知らぬふりをされていたことがショックなタファンは...。オジンはヤンの指示に従い具合の悪いふりをする。それを見て、薬の効果を確信したタナシルリは、今度はオジンの偽装妊娠のウワサを流すようヤンに命じる。一方、西の辺境では、ワン・ユの作戦どおり、チュルクの兵がワン・ユたちへの追撃をやめて陣地に戻る。手薄なはずの敵陣を攻めていたペガンら元の軍だったが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-89_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251029011000 +0000" stop="20251029034000 +0000">
+		<title>グッド･パートナー～離婚のお悩み解決します～ 第21〜24話</title>
+		<desc>離婚が成立したウンギョンは、テジョンの代表から離婚チームの必要性を問われ、遠回しに退職を勧められる。ウンギョンは休暇を取り、ジェヒと旅行することにする。ユリのもとには不倫で慰謝料を請求された相談者がやってくる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-227_s1_p21/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251029034000 +0000" stop="20251029040000 +0000">
+		<title>私のXのような20歳 第1話【今日のイチオシ！】</title>
+		<desc>19歳最後の日、ソウォンは年越しパーティーに向かう途中、ガムを売る怪しい女性にしつこく声をかけられ、言い合いの末に突き放してしまう。その後、パーティーで出逢った彼氏と一年を過ごし大晦日を迎えるが、年を越した瞬間、突然彼氏や友人の記憶から自分の存在が消えてしまい、知らない人だと言われてしまう。
+その瞬間、一年前に言い争った女性の会話を思い出し、自分の時間が20歳で止まってしまったことに気付き...?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-97_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251029040000 +0000" stop="20251029055000 +0000">
+		<title>復讐のカルテット 第25〜26話【平日毎日13時放送】</title>
+		<desc>ファンスンといた女がウニャンに似ていると感じたセギョンはすぐにウニャンを家に呼び、ウニャンは逃げる途中で負ったケガの手当てもできないまま向かう。一方、ドゥルレの罠に気づいたストーカーはアジトから逃亡。その後、発見され病院に運ばれるが結局死亡する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-53_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251029055000 +0000" stop="20251029071000 +0000">
+		<title>イ・サン 第19話</title>
+		<desc>英祖(ヨンジョ)は病床に臥し国政を取り仕切れないため、サンを摂政として王の権限をすべて任せることを決心し、その宣旨を出す。しかし、偶然その事を知った王妃は、宣旨がサンの手に渡る前に握り潰してしまう。しかもファワンの用意した薬を飲んだ英祖の容態が急変。高熱を出し、意識を失ってしまう。サンはすぐに薬の処方を止めようとするが、そこへファワンが現れ、これは薬が効き始め回復へ向かう兆しだからとサンを止める。
+一方、図画署(トファソ)では、仕事が次々と舞い込み、恵嬪(ヘビン)に依頼された屏風の制作が遅れていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-391_s1_p19/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251029071000 +0000" stop="20251029083000 +0000">
+		<title>これが人生！ケ･セラ･セラ 第1話</title>
+		<desc>結婚してまもなく夫を事故で亡くしたイ・ジソン。今は同じく夫の母親である妻を亡くした夫の父親のユ・ミンホと同居している。そんなジソンの母親イ・テヒは知人に娘と舅の関係を怪しまれ、舅の叔母キム・スッキョンにその噂をぶちまける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-187_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251029083000 +0000" stop="20251029104000 +0000">
+		<title>1%の奇跡〜運命を変える恋〜 第14〜最終話</title>
+		<desc>ついに訪れた交際最終日、二人は遠出のデートに出かけるが、そこへギュチョルが入院したという知らせを受け、急いで帰ることになってしまう。別れのあと、本社へ復帰したジェインは仕事に明け暮れるが、ダヒョンは高熱を出して倒れてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-4_s1_p14/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251029104000 +0000" stop="20251029120000 +0000">
+		<title>コネクション 第11〜12話【チソン主演】</title>
+		<desc>暗証番号を押してジュンソの家に入ってきたテジンは、ジェギョンがいるのを見て動揺する。テジンは仕事のためだと言い逃れるが...。その後、ジヨンとテジンの密会現場で会話を盗聴したユンジンは、怪しいお金の存在を知る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-225_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251029120000 +0000" stop="20251029142500 +0000">
+		<title>グッド･パートナー～離婚のお悩み解決します～ 第25〜28話</title>
+		<desc>ウンギョンは理事長から自宅に呼び出され、同行したユリを外で待たせる。家の中で原告である妻が殺される現場を目撃し恐怖に怯えるウンギョンは、理事長から娘もあの世に送ると脅される。一方、警察に通報したユリは...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-227_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="asia-drama" start="20251029142500 +0000" stop="20251029163000 +0000">
+		<title>カンテク〜運命の愛〜 第5〜7話</title>
+		<desc>開化思想を抱いていたとしてもカン・イスを側近として据え置きたかった王は、尽力するが報われず、投獄されているカン・イスに涙ながら謝罪の言葉を残す。そして父イスの斬首刑が執行される現場を目撃したウンボ。ペク・チャヨンから王に殺されたと聞き、王への復讐心を抱く。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-40_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="asia-drama-2" start="20251014130000 +0000" stop="20251014152000 +0000">
 		<title>恋のゴールドメダル 第7〜8話【ナム・ジュヒョク主演】</title>
@@ -21561,9 +21968,12 @@ fromis_9、UNIS、BANG&amp;JUNG&amp;YOO&amp;MOON、ヒョリン、KARD、MCND、
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/553-4_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251022115700 +0000" stop="20251022120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 10/22</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p205/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251022120000 +0000" stop="20251022132500 +0000">
 		<title>スーパーマンが帰ってきた #569</title>
@@ -25482,9 +25892,12 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p37/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20251022145700 +0000" stop="20251022150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 10/22</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p205/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20251022150000 +0000" stop="20251022195800 +0000">
 		<title>RTD Girl's Fight2 予選C卓</title>
