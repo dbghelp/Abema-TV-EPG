@@ -132,6 +132,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -11799,9 +11803,9 @@ DAY2のオープニングの模様を特別に無料生配信！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-252_s3_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251024123000 +0000" stop="20251024130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>For JAPAN シーズン3 #28</title>
+		<desc>ー日本の政治シーンに『経営力』はあるのか⁉ー　日本の未来を憂う無数のトーク番組。しかし出演しているコメンテーターに実績はあるのか？110兆円を動かす「政治家」に経営経験はあるのか？経営経験もない人間が毎年途方もない金額を動かし、30年以上成長できない日本。本物の実績のある経営者が日本課題に挑む！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p89/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251024130000 +0000" stop="20251024140000 +0000">
 		<title>ダマってられない女たち2 #8</title>
@@ -21652,12 +21656,12 @@ LE SSERAFIM、ジェヒョン(NCT)、ZEROBASEONE、チャンヨル(EXO)、NMIXX�
 		<desc>半径10メートル以内に自分のことを好きな人がいると"ラブアラーム"が鳴るーー。好きな気持ちを隠せない世界で男女8人の共同生活が始まった!大人気ウェブ漫画「恋するアプリ」を恋愛リアリティ番組で完全再現。"人を好きな気持ち"に反応するラブアラームには性別、職業、宗教の壁もない。ハートを手に入れるための巧妙な心理戦まで始まる。多くのハートを手にし、優勝するカップルは一体...?見逃せないゲームが今始まる!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-92_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="k-world" start="20251024083500 +0000" stop="20251024115600 +0000">
+	<programme channel="k-world" start="20251024083500 +0000" stop="20251024115700 +0000">
 		<title>R U Next？ #8～9【独占配信】</title>
 		<desc>ENHYPENを輩出し、大きな反響を集めた「I-LAND」に続き、HYBE LABELS傘下のBELIFT LABが手掛ける次世代グローバルガールグループデビューサバイバルプログラム「R U Next?」！デビューを夢見る参加者たちがHYBEのカリキュラムの中でトレーニングを受け、可能性、表現力、ジャンル消化力、専門性、差別性、創造性、スター性など計7つのラウンドコンテストを1つずつ通過し、自分の潜在力とスター性を証明していく。TOMORROW X TOGETHER、ENHYPEN、NewJeans、LE SSERAFIMなど多くの大人気アイドルグループを誕生させたHYBE LABELSから、次世代グローバルガールズグループとしてデビューするのは果たして誰なのか…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/553-4_s1_p8/thumb001.png" />
 	</programme>
-	<programme channel="k-world" start="20251024115600 +0000" stop="20251028125000 +0000">
+	<programme channel="k-world" start="20251024115700 +0000" stop="20251028125000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
@@ -25784,6 +25788,86 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 		<title>第42期鳳凰戦A1リーグ第13節C卓【ABEMAセレクト】</title>
 		<desc>プロ連盟の頂点を決める1年間のリーグ戦。A1リーグは15人、A2リーグは16人で行われ、A1リーグ上位3選手が鳳凰位決定戦に進出となる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p39/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251015030000 +0000" stop="20251015145000 +0000">
+		<title>第50期最高位戦A1リーグ 第12節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p33/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251015145000 +0000" stop="20251016100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251016100000 +0000" stop="20251016170000 +0000">
+		<title>大和証券 Mリーグ JETSvs風林火山vsフェニックスvsPirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p355/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251016170000 +0000" stop="20251017100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251017100000 +0000" stop="20251017170000 +0000">
+		<title>大和証券 Mリーグ 風林火山vsサクラナイツvs雷電vsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p357/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251017170000 +0000" stop="20251022030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251022030000 +0000" stop="20251022145000 +0000">
+		<title>第50期最高位戦A1リーグ 第12節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p34/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251022145000 +0000" stop="20251023100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251023100000 +0000" stop="20251023170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvsサクラナイツvsABEMASvsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p362/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251023170000 +0000" stop="20251024100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251024100000 +0000" stop="20251024170000 +0000">
+		<title>大和証券 Mリーグ JETSvsサクラナイツvs雷電vsPirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p363/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251024170000 +0000" stop="20251029030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251029030000 +0000" stop="20251029145000 +0000">
+		<title>第50期最高位戦A1リーグ 第12節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p35/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20251014102600 +0000" stop="20251014191500 +0000">
 		<title>【再】第96期ヒューリック杯棋聖戦五番勝負第1局 藤井聡太棋聖 対 杉本和陽六段</title>
