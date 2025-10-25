@@ -88,10 +88,6 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
-	<channel id="special-plus-2">
-		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -163,6 +159,10 @@
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
+	</channel>
+	<channel id="fighting-sports2">
+		<display-name>格闘 2チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports2/logo.png" />
 	</channel>
 	<channel id="hiphop">
 		<display-name>HIPHOPチャンネル</display-name>
@@ -7770,9 +7770,12 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p9/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20251025122700 +0000" stop="20251025123000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 10/25</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p208/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20251025123000 +0000" stop="20251025142000 +0000">
 		<title>映画ドラえもん のび太の人魚大海戦</title>
@@ -13318,9 +13321,12 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251025125700 +0000" stop="20251025130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 10/25</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p208/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251025130000 +0000" stop="20251025135200 +0000">
 		<title>#8：芸能界に所属！？土浦のキャバクラ&amp;地球平面説&amp;豊田商事事件のマンション 他</title>
@@ -16562,35 +16568,6 @@ M-1ファイナリストのジョックロックが挑戦！
 		<title>WWE　SMACKDOWN &amp; ABEMA #109</title>
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10007_p109/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20251025090000 +0000" stop="20251025123000 +0000">
-		<title>第一生命 D.LEAGUE 25-26【ROUND.1】BLOCK HYPE</title>
-		<desc>いよいよD.LEAGUE 25-26 SEASON開幕！
-今シーズンより会場をTOYOTA ARENA TOKYOに変え、更にパワーアップした演出、SHOWにご期待ください！
-新たにLDH SCREAM、M＆A SOUKEN QUANTSの2チームが加わり、全16チームでの2日間ブロック対決に進化！JUDGE RULEも獲得数から獲得割合にグレードアップ。
-配信をご覧の皆様の1票が応援するチームの大きな力に！
-【BLOCK HYPE】
-開幕初日の対戦カードは、1st MATCHに昨シーズン史上初完全優勝を果たしたCyberAgent Legitが登場！
-新チームLDH SCREAMの記念すべき初戦相手はavex ROYALBRATS！
-記念すべきリニューアル後初の玉座に座るのはどのチームか！？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-97_s1000_p1/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20251025123000 +0000" stop="20251026080000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20251026080000 +0000" stop="20251026113000 +0000">
-		<title>第一生命 D.LEAGUE 25-26【ROUND.1】BLOCK VIBE</title>
-		<desc>いよいよD.LEAGUE 25-26 SEASON開幕！
-今シーズンより会場をTOYOTA ARENA TOKYOに変え、更にパワーアップした演出、SHOWにご期待ください！
-新たにLDH SCREAM、M＆A SOUKEN QUANTSの2チームが加わり、全16チームでの2日間ブロック対決に進化！JUDGE RULEも獲得数から獲得割合にグレードアップ。
-配信をご覧の皆様の1票が応援するチームの大きな力に！
-【BLOCK BIVE】
-開幕２日目、奇しくも昨シーズン２位のKADOKAWA DREAMSが1st MATCHに登場！
-3rd MATCHには、新チームM&amp;A SOUKEN QUANTSがFULLCAST RAISERZと対決。
-新規加入チームの洗礼を受けるのか、はたまた初戦から勝利を掴み取るのか、animationとKRUMPの戦いにも注目です！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-97_s1000_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251017150000 +0000" stop="20251017170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
@@ -24723,9 +24700,12 @@ ABEMAで国内独占放送 !│ENHYPENを輩出した、大好評・大人気の
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-43_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251025115700 +0000" stop="20251025120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 10/25</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p208/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251025120000 +0000" stop="20251025134500 +0000">
 		<title>BOSS RIIZE #7〜9【独占配信】</title>
@@ -30139,9 +30119,12 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20251025145700 +0000" stop="20251025150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 10/25</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p208/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20251025150000 +0000" stop="20251025192300 +0000">
 		<title>RTD Girl's Fight2 セミファイナル2/2</title>
@@ -35046,6 +35029,44 @@ vs 和島 大海</desc>
 		<title>WWE　SMACKDOWN &amp; ABEMA #109</title>
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10006_p109/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports2" start="20251025115000 +0000" stop="20251025130000 +0000">
+		<title>Krush.181</title>
+		<desc>超攻撃型打撃格闘技「Krush」2025年10月25日後楽園ホールで行われる「Krush.181」の模様を生中継！
+
+第11代Krushウェルター級王座決定トーナメント・準決勝(2)/3分3R・延長1R
+齋藤紘也 vs “DARUMA”健太
+
+第11代Krushウェルター級王座決定トーナメント・準決勝(1)/3分3R・延長1R
+山際和希 vs 大石昌輝
+
+第5代Krushフライ級王座決定トーナメント・準決勝(2)/3分3R・延長1R
+海凪 vs 上遠野寧吾
+
+第5代Krushフライ級王座決定トーナメント・準決勝(1)/3分3R・延長1R
+安尾瑠輝 vs 大久保世璃
+
+Krushバンタム級/3分3R・延長1R
+白幡裕星 vs 大夢
+
+Krushスーパー・フェザー級/3分3R・延長1R
+松山勇汰 vs 斎藤祐斗
+
+Krushスーパー・バンタム級/3分3R・延長1R
+齊藤龍之介 vs 保井広輝
+
+Krushスーパー・バンタム級/3分3R・延長1R
+橋本楓汰 vs 内田竜斗
+
+Krushスーパー・フェザー級/3分3R・延長1R
+山本直樹 vs 松本涼雅
+
+Krushスーパー・フェザー級/3分3R・延長1R
+立基 vs 山本陸
+
+Krushライト級/3分3R・延長1R
+SEIYA vs 龍之介</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-148_s10012_p2/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20251017143000 +0000" stop="20251017210000 +0000">
 		<title>【再放送】フリースタイルティーチャー：#126~#139</title>
