@@ -88,6 +88,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -16558,6 +16562,35 @@ M-1ファイナリストのジョックロックが挑戦！
 		<title>WWE　SMACKDOWN &amp; ABEMA #109</title>
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10007_p109/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251025090000 +0000" stop="20251025123000 +0000">
+		<title>第一生命 D.LEAGUE 25-26【ROUND.1】BLOCK HYPE</title>
+		<desc>いよいよD.LEAGUE 25-26 SEASON開幕！
+今シーズンより会場をTOYOTA ARENA TOKYOに変え、更にパワーアップした演出、SHOWにご期待ください！
+新たにLDH SCREAM、M＆A SOUKEN QUANTSの2チームが加わり、全16チームでの2日間ブロック対決に進化！JUDGE RULEも獲得数から獲得割合にグレードアップ。
+配信をご覧の皆様の1票が応援するチームの大きな力に！
+【BLOCK HYPE】
+開幕初日の対戦カードは、1st MATCHに昨シーズン史上初完全優勝を果たしたCyberAgent Legitが登場！
+新チームLDH SCREAMの記念すべき初戦相手はavex ROYALBRATS！
+記念すべきリニューアル後初の玉座に座るのはどのチームか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-97_s1000_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251025123000 +0000" stop="20251026080000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251026080000 +0000" stop="20251026113000 +0000">
+		<title>第一生命 D.LEAGUE 25-26【ROUND.1】BLOCK VIBE</title>
+		<desc>いよいよD.LEAGUE 25-26 SEASON開幕！
+今シーズンより会場をTOYOTA ARENA TOKYOに変え、更にパワーアップした演出、SHOWにご期待ください！
+新たにLDH SCREAM、M＆A SOUKEN QUANTSの2チームが加わり、全16チームでの2日間ブロック対決に進化！JUDGE RULEも獲得数から獲得割合にグレードアップ。
+配信をご覧の皆様の1票が応援するチームの大きな力に！
+【BLOCK BIVE】
+開幕２日目、奇しくも昨シーズン２位のKADOKAWA DREAMSが1st MATCHに登場！
+3rd MATCHには、新チームM&amp;A SOUKEN QUANTSがFULLCAST RAISERZと対決。
+新規加入チームの洗礼を受けるのか、はたまた初戦から勝利を掴み取るのか、animationとKRUMPの戦いにも注目です！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-97_s1000_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251017150000 +0000" stop="20251017170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
