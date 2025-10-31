@@ -148,6 +148,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -1096,7 +1100,10 @@ A組メンバーは早速遊び始めるが、雄英生それぞれのカード�
 	</programme>
 	<programme channel="abema-anime" start="20251031120000 +0000" stop="20251031130000 +0000">
 		<title>SHIBUYA ANIME BASE #65</title>
-		<desc>アニメ/ポップカルチャー情報番組のSHIBUYA ANIME BASE（シブアニ）。「ABEMA」の独占情報や、今知りたいアニメ・アニソン・ゲーム・漫画、そして最新鋭かつちょっとマニアックな"1週間のトピックス"をテーマにゲストたちが言いたい放題語りつくします。ほかにも関係者、声優を招いての激レアトークも！？金曜日の夜、アニメ/ポップカルチャーがもっと好きになる1時間を、渋谷よりお届けいたします。</desc>
+		<desc>声優・藤寺美徳 ゲスト参戦！
+続・ハライチ岩井勇気の激推し秋アニメ「永久のユウグレ」を紹介！
+タワレコ店員イチオシのアニソンとは...？
+藤寺さん出演中のアニメ「太陽よりも眩しい星」を特集！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-706_s10000_p65/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251031130000 +0000" stop="20251031133000 +0000">
@@ -1319,16 +1326,12 @@ A組メンバーは早速遊び始めるが、雄英生それぞれのカード�
 	<programme channel="abema-anime" start="20251101123000 +0000" stop="20251101125700 +0000">
 		<title>僕のヒーローアカデミア FINAL SEASON #164【最新話】</title>
 		<desc>超常能力“個性”を人間が当たり前の世界。憧れのNo.1ヒーロー・オールマイトと出会った“無個性”の少年・緑谷出久、通称「デク」は、その内に秘めるヒーローの資質を見出され、オールマイトから“個性”ワン・フォー・オール(OFA)を受け継いだ。 デクはヒーロー輩出の名門・雄英高校に入学し、“個性”で社会や人々を救ける“ヒーロー”になることを目指し、ヒーロー科1年A組のクラスメイトたちと共に成長していく。 デクたちの雄英2年目の春。デクをはじめとするヒーローたちと、死柄木弔とオール・フォー・ワンの率いる敵＜ヴィラン＞はいよいよ最終決戦に突入し、日本各地で激しい戦いが繰り広げられる。 轟焦凍とエンデヴァー、そして荼毘＝轟燈矢たち轟家の因縁、お茶子とトガの対峙は決着を見た。そしてついに、“個性”ワン・フォー・オールを全開にしたデクと、自身を乗っ取ろうとしたオール・フォー・ワンの意識を逆に取り込み完全に覚醒した死柄木。若返りで全盛期の力を取り戻したオール・フォー・ワン本体と、“無個性”ながらパワードスーツを纏った“アーマードオールマイト”。彼らの戦いが決着へ――！ 果たして、デクの「僕たちが最高のヒーローになるまでの物語」はフィナーレで成し得るのか、それとも全てが崩壊するのか……!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p47/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s8_p164/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251101125700 +0000" stop="20251101130000 +0000">
 		<title>ちいかわ #134【無料ビデオ1週間】</title>
-		<desc>【なんか小さくてかわいいやつ】通称「ちいかわ」たちが送る
-楽しくて、ちょっぴり切ない物語。
-時には辛いことで泣いちゃうけれど
-「ちいかわ」の周りにはやさしい友達や個性豊かなキャラクターがたくさん！
-イラストレーター・ナガノによる大人気マンガ「ちいかわ」がついにアニメ化！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p110/thumb001.png" />
+		<desc>ちいかわ、困惑！スライスチーズに包まれて…／うさぎ、くりまんじゅうにチータラをおねだりし…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p134/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251101130000 +0000" stop="20251101133000 +0000">
 		<title>結婚指輪物語Ⅱ #17【地上波同時・WEB最速配信】</title>
@@ -6183,7 +6186,7 @@ Wapperくんは、なかまとともにかいけつできるのか⁉</desc>
 		<desc>【日曜日は芹澤優×長縄まりあ】
 月曜〜日曜まで人気声優が豪華なゲストや作品と共にお届けするディープな"夜あそび"。
 この番組はABEMAプレミアムなら何回でも見逃し視聴が可能！無料ダイジェストも毎日配信中。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p125/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-795_s18_p22/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20251102143000 +0000" stop="20251102203000 +0000">
 		<title>ある魔女が死ぬまで #1〜12【無料ビデオ2週間】</title>
@@ -6361,8 +6364,10 @@ Wapperくんは、なかまとともにかいけつできるのか⁉</desc>
 	<programme channel="anime-live" start="20251107130000 +0000" stop="20251107143000 +0000">
 		<title>声優と夜あそび 金【関智一×川島零士】#23</title>
 		<desc>【金曜日は関智一×川島零士】
-月曜〜日曜まで人気声優が豪華なゲストや作品と共にお届けするディープな"夜あそび"。
-この番組はABEMAプレミアムなら何回でも見逃し視聴が可能！無料ダイジェストも毎日配信中。</desc>
+月曜〜日曜まで人気声優が豪華なゲストや作品と共にお届けするディープな""夜あそび""。
+この番組はABEMAプレミアムなら何回でも見逃し視聴が可能！無料ダイジェストも毎日配信中。
+
+【提供】コミックシーモア</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-795_s10016_p23/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20251107143000 +0000" stop="20251107153000 +0000">
@@ -13648,10 +13653,50 @@ _______________
 ザ・マミィ 酒井貴士「週刊誌の記者を逆取材」</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s1_p8/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251101125700 +0000" stop="20251101160000 +0000">
+	<programme channel="abema-special" start="20251101125700 +0000" stop="20251101130000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251101130000 +0000" stop="20251101133700 +0000">
+		<title>#9：脱北した女性に聞く北朝鮮の恋愛・エンタメ事情&amp;沖縄の最恐心霊スポット 他</title>
+		<desc>芸人たちが、強烈な【実体験】を
+己の話術で【エピソードトーク】に昇華させる…芸人×トークの新境地!!
+
+平成ノブシコブシ 吉村崇「北朝鮮の恋愛・エンタメ事情」
+見取り図 リリー「一世風靡した俳優の現在の姿」 
+チャンス大城「沖縄最恐心霊スポットに野宿」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251101133700 +0000" stop="20251101143700 +0000">
+		<title>ナオキマンの都市伝説ワイドショー#2：新総理誕生の裏で、日本崩壊!?</title>
+		<desc>【新総理誕生の裏で、崩壊しつつある政治の裏側を都市伝説的視点で見たら…】
+違和感だらけの総裁選の理由とは!?
+キャスティングボードを握ると〇〇に呼び出される!?
+
+偏向報道疑惑の裏にあるマスメディアの闇
+
+アフリカ・ホームタウンの真相
+移民問題の本質は、〇〇!?
+
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s2_p20/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251101143700 +0000" stop="20251101144000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251101144000 +0000" stop="20251101154000 +0000">
+		<title>#1：金ない、モテない、魅力ない。この＜どん底人生＞からの脱出。</title>
+		<desc>「クソつまんない人生を変えたい」切実な想いを胸に集まった男達を、メンズコーチ・ジョージが磨きあげる強化合宿が開幕！合言葉は「弱さを燃やせ」。しかし、初日からハウスルールを破り波乱の事態に…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2046_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251101154000 +0000" stop="20251101160000 +0000">
+		<title>映画『港のひかり』Behind the Story 「継承」Part1</title>
+		<desc>11月14日(金)全国公開の映画『港のひかり』公開記念特番。初出しメイキング映像、撮影の中で「継承」された思いを監督・キャストの現場コメントでご紹介。『港のひかり』は内容のクオリティやエンタメ度もさることながら、作りの面白さに満ちた映画だ。それは新進気鋭の監督・藤井道人とレジェンドキャメラマン・木村大作の出会いという「時代を超えたセッション」であり、昭和から令和への「継承」ということ、彼らのものづくりの過程は、化学反応や摩擦や苦悩や発見の旅である。さらに、本作の“出発点”、新事務所を立ち上げ、映画の企画から参加した主演・舘ひろしの新しいチャレンジと、舘ひろしとタッグを組んだ藤井監督、制作会社スターサンズの故河村光庸プロデューサーが描いた「夢」という部分も大きい。これらを軸として、作品を大きく花開かせたのが、眞栄田郷敦、笹野高史、市村正親、椎名桔平、斎藤工、ピエール瀧ら豪華役者陣で、彼らの積み重なった想いが、『港のひかり』をエンタメでありながら説得力のある想いの詰まった映画へと昇華させていった。そして、ベテラン俳優陣の中でも「光」となるのが、少年・幸太の存在です。「幸太」と、盛りを過ぎた男「三浦」の友情こそが、この映画を永遠のマスターピースへと導いている。
+様々な思いが詰まった映画『港のひかり』の魅力を初出しのメイキング映像・キャストのコメント映像を交えながら、藤井監督と木村大作の化学反応で起こった奇跡のフィルム映画を紹介する見応えたっぷりの特番。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/767-1_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251101160000 +0000" stop="20251101180000 +0000">
 		<title>生きてるだけで、愛。【無料1週間】</title>
@@ -13664,9 +13709,17 @@ _______________
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/170-19_s0_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251101180000 +0000" stop="20251101190000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>＃9:女性のカリスマ アレン様の生き様＆ＳＮＳで人生激変の美人</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
+
+女性たちから熱狂的な人気を誇るアレン様
+壮絶な人生…そのルーツである生まれ育った高知への里帰りに密着
+葛藤と苦難を乗り越え 女性のカリスマになった生き様とは―
+
+さらに
+ＳＮＳで人生が激変した美人ラーメン店主＆彫り師に密着</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p109/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251101190000 +0000" stop="20251101221600 +0000">
 		<title>MISS KING / ミス・キング #1~5</title>
@@ -13724,9 +13777,19 @@ _______________
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s2_p70/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251102032000 +0000" stop="20251102035700 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>#４：フルパワーでリズムを刻め！支え合いのダンス練習</title>
+		<desc>4次審査2日目。あぃりDXも緊張した面持ちの中、ダンスの振り入れがスタート！
+ダンス経験者がめきめき上達していく中、最年少男子が逃走!?
+初心者メンバーをサポートする仲間たち、チームの絆は深まっていく。
+「昔の自分を見てるみたい」しなこが思わずかつての自分と重ねてしまうキッズとは？
+
+「歌やダンスのスキルは問いません。重視するのは”自分らしさ”の表現力！」
+無限大な可能性を引っ提げた5才から10才までのこどもたちによる、
+世界一元気なキッズグループオーディション！
+プロデューサーを務めるのは、”しなこ”などを手掛けるあぃりDX。
+世代を超えた熱狂の震源地となるあぃりDXが、こどもたちの個性を引き出し、
+世界から優しく愛される『Amazing Kawaii』キッズグループが誕生します☆ミ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2043_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251102035700 +0000" stop="20251102040000 +0000">
 		<title>ちいかわ #133・見逃し放送</title>
@@ -13847,15 +13910,42 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 その裏側を草彅が暴露</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-980_s102_p159/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251102120000 +0000" stop="20251102131500 +0000">
+	<programme channel="abema-special" start="20251102120000 +0000" stop="20251102121500 +0000">
+		<title>【先行公開】4人に1人は復縁経験あり!?前田敦子&amp;ニコル&amp;陣内の赤裸々恋愛観</title>
+		<desc>新シーズン放送を前に、20〜30代男女のリアルな恋愛観を番組にちなんだ独自アンケートで徹底調査！
+復縁した経験は？浮気心を抱いたことは？etc.
+前田敦子、藤田ニコル、陣内智則の見届け人たちも過去の恋愛エピソードを赤裸々告白！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1512_s50_p100/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251102121500 +0000" stop="20251102121800 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
-	<programme channel="abema-special" start="20251102131500 +0000" stop="20251102140000 +0000">
+	<programme channel="abema-special" start="20251102121800 +0000" stop="20251102131500 +0000">
+		<title>Amazing Kids Audition #3~4</title>
+		<desc>4次審査1日目。グループごとに分かれ、チーム名や挨拶を考案&amp;披露。
+1ヶ月後の発表会に向けて歌とダンスの練習を開始！
+練習中、鏡で自分の顔を見つめはじめる男子も…
+「バチってる」MCも驚くハイレベルなエース対決が勃発!?
+
+「歌やダンスのスキルは問いません。重視するのは”自分らしさ”の表現力！」
+無限大な可能性を引っ提げた5才から10才までのこどもたちによる、
+世界一元気なキッズグループオーディション！
+プロデューサーを務めるのは、”しなこ”などを手掛けるあぃりDX。
+世代を超えた熱狂の震源地となるあぃりDXが、こどもたちの個性を引き出し、
+世界から優しく愛される『Amazing Kawaii』キッズグループが誕生します☆ミ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2043_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251102131500 +0000" stop="20251102135700 +0000">
 		<title>しくじり先生 #302【赤井英和】不良少年から浪速のロッキーへの道!!【前編】</title>
 		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p339/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251102135700 +0000" stop="20251102140000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20251102140000 +0000" stop="20251102150000 +0000">
 		<title>チャンスの時間#335～占いであぶり出される衝撃事実＆イジってはいけない裏話！</title>
@@ -13933,20 +14023,199 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 入学したら、ずっと憧れていた吹奏楽部に入ろうと心に決めていたチカ。しかし、吹奏楽部はなんと廃部寸前の危機だった!大好きなフルートを諦めきれず、チカはホルン経験者のハルタを巻き込んで部員集めに走り回る。音楽一家に育った芦澤(恒松祐里)、部員をまとめようと奔走する部長の片桐(前田航基)とその彼女・わかば(二階堂姫瑠)、野球部で肩を痛めた宮本(平岡拓真)、チューバソロコンサート入賞の実力を持つ妙子(上白石萌歌)、登校拒否中のカイユ(清水尋也)などワケありのメンバーたち。それでもなんとか部の復活に漕ぎ着けたチカたちは、かつては将来を嘱望される指揮者だった顧問の草壁(小出恵介)による指導のもと、コンクール出場という一つの目標に向かってひたむきに突き進む。そんな一心なチカの姿を見て、ただの幼なじみだったハルタのチカを想う気持ちに、少しずつ変化が生まれ始める。それに合わせて二人の関係も動き始め......?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/162-135_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251102211500 +0000" stop="20251102230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	<programme channel="abema-special" start="20251102211500 +0000" stop="20251102213000 +0000">
+		<title>MISS KING / ミス・キング　#1~4 スペシャルダイジェスト</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p202/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251102213000 +0000" stop="20251102220000 +0000">
+		<title>#４：フルパワーでリズムを刻め！支え合いのダンス練習</title>
+		<desc>4次審査2日目。あぃりDXも緊張した面持ちの中、ダンスの振り入れがスタート！
+ダンス経験者がめきめき上達していく中、最年少男子が逃走!?
+初心者メンバーをサポートする仲間たち、チームの絆は深まっていく。
+「昔の自分を見てるみたい」しなこが思わずかつての自分と重ねてしまうキッズとは？
+
+「歌やダンスのスキルは問いません。重視するのは”自分らしさ”の表現力！」
+無限大な可能性を引っ提げた5才から10才までのこどもたちによる、
+世界一元気なキッズグループオーディション！
+プロデューサーを務めるのは、”しなこ”などを手掛けるあぃりDX。
+世代を超えた熱狂の震源地となるあぃりDXが、こどもたちの個性を引き出し、
+世界から優しく愛される『Amazing Kawaii』キッズグループが誕生します☆ミ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2043_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251102220000 +0000" stop="20251102230000 +0000">
+		<title>MISS KING / ミス・キング #1~4ダイジェスト+#5</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p202/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251102230000 +0000" stop="20251103023300 +0000">
 		<title>恋はチーズ・イン・ザ・トラップ 第1〜3話【韓流アワー】</title>
 		<desc>ユジョンのいたずらに耐えられず、休学を決意するホン・ソル。しかし、ユジョンのレポートが消え、いきなり首席になったソルは、全額奨学金の誘惑に負けて学校に戻ってくる。そんなソルを待っていたのは、以前とは180度変わった態度のユジョン。 豹変したユジョンの態度に、ソルの不安は大きくなっていくが...。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-68_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251103023300 +0000" stop="20251103110000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	<programme channel="abema-special" start="20251103023300 +0000" stop="20251103030000 +0000">
+		<title>映画『港のひかり』Behind the Story 「継承」Part1~2</title>
+		<desc>11月14日(金)全国公開の映画『港のひかり』公開記念特番。初出しメイキング映像、撮影の中で「継承」された思いを監督・キャストの現場コメントでご紹介。『港のひかり』は内容のクオリティやエンタメ度もさることながら、作りの面白さに満ちた映画だ。それは新進気鋭の監督・藤井道人とレジェンドキャメラマン・木村大作の出会いという「時代を超えたセッション」であり、昭和から令和への「継承」ということ、彼らのものづくりの過程は、化学反応や摩擦や苦悩や発見の旅である。さらに、本作の“出発点”、新事務所を立ち上げ、映画の企画から参加した主演・舘ひろしの新しいチャレンジと、舘ひろしとタッグを組んだ藤井監督、制作会社スターサンズの故河村光庸プロデューサーが描いた「夢」という部分も大きい。これらを軸として、作品を大きく花開かせたのが、眞栄田郷敦、笹野高史、市村正親、椎名桔平、斎藤工、ピエール瀧ら豪華役者陣で、彼らの積み重なった想いが、『港のひかり』をエンタメでありながら説得力のある想いの詰まった映画へと昇華させていった。そして、ベテラン俳優陣の中でも「光」となるのが、少年・幸太の存在です。「幸太」と、盛りを過ぎた男「三浦」の友情こそが、この映画を永遠のマスターピースへと導いている。
+様々な思いが詰まった映画『港のひかり』の魅力を初出しのメイキング映像・キャストのコメント映像を交えながら、藤井監督と木村大作の化学反応で起こった奇跡のフィルム映画を紹介する見応えたっぷりの特番。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/767-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251103030000 +0000" stop="20251103040000 +0000">
+		<title>MISS KING / ミス・キング #1~4ダイジェスト+#5</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p202/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251103040000 +0000" stop="20251103080000 +0000">
+		<title>今日好き2025 チュンチョン編 #1~4【月火13時/今日好きアワー】</title>
+		<desc>▼見どころ
+韓国・チュンチョンの地で始まるメンバー11人の恋。
+継続メンバーとして旅にきた、さらとさわ。
+新しい自分で恋をしたい2人に、運命の恋は見つかる？
+
+そして明かされる追加メンバーの登場。
+恋は一気に大波乱に？！
+
+▼今日好きとは？
+現役高校生たちの"運命の恋と青春の修学旅行"。2泊3日を繰り返す中で巻き起こる、現役高校生たちのリアルで等身大な、本気の"恋"と"青春"を追いかけます。果たしてメンバーは運命の恋を見つけることができるのか？
+
+提供：GRL</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s740_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251103080000 +0000" stop="20251103091500 +0000">
+		<title>#1 ライバル雑誌が禁断の衝突！モデルたちの真剣バトル開幕</title>
+		<desc>Popteenとeggの専属モデルが禁断の集結！
+コラボ雑誌の表紙と誌面を巡り、真剣バトルが開幕！1つめのバトルは、「ランウェイバトル」
+モデルとしての基礎力や魅せ方が問われる初戦で、いきなり号泣続出...さらに、OGモデルの藤田ニコルらも登場。初戦を制すのはどっち？
+
+
+_______________
+■ MODELS CRUSH 番組概要■
+人気ティーン誌「Popteen」と「egg」が禁断のコラボ！
+日本初となる"合同紙雑誌"の全国発売が決定！
+
+かつて平成のギャルブームを牽引し、女子高生のバイブルだった2誌。
+しかしSNS全盛の令和、雑誌が売れない時代に突入ー。
+ともに休刊を経験したライバル誌同士が、再起を図り立ち上がる！
+
+合同雑誌の表紙と誌面のページをかけた
+現役モデルたちによる真剣勝負！
+
+唯一無二じゃないと生き残れない。
+雑誌を背負う「カリスマモデル」になれるのか？
+二つの雑誌は、10代の憧れを取り戻せる？
+
+雑誌の未来をかけた、バトルリアリティショー！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2044_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251103091500 +0000" stop="20251103095500 +0000">
+		<title>#４：フルパワーでリズムを刻め！支え合いのダンス練習</title>
+		<desc>4次審査2日目。あぃりDXも緊張した面持ちの中、ダンスの振り入れがスタート！
+ダンス経験者がめきめき上達していく中、最年少男子が逃走!?
+初心者メンバーをサポートする仲間たち、チームの絆は深まっていく。
+「昔の自分を見てるみたい」しなこが思わずかつての自分と重ねてしまうキッズとは？
+
+「歌やダンスのスキルは問いません。重視するのは”自分らしさ”の表現力！」
+無限大な可能性を引っ提げた5才から10才までのこどもたちによる、
+世界一元気なキッズグループオーディション！
+プロデューサーを務めるのは、”しなこ”などを手掛けるあぃりDX。
+世代を超えた熱狂の震源地となるあぃりDXが、こどもたちの個性を引き出し、
+世界から優しく愛される『Amazing Kawaii』キッズグループが誕生します☆ミ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2043_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251103095500 +0000" stop="20251103101000 +0000">
+		<title>【先行公開】4人に1人は復縁経験あり!?前田敦子&amp;ニコル&amp;陣内の赤裸々恋愛観</title>
+		<desc>新シーズン放送を前に、20〜30代男女のリアルな恋愛観を番組にちなんだ独自アンケートで徹底調査！
+復縁した経験は？浮気心を抱いたことは？etc.
+前田敦子、藤田ニコル、陣内智則の見届け人たちも過去の恋愛エピソードを赤裸々告白！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1512_s50_p100/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251103101000 +0000" stop="20251103110000 +0000">
+		<title>MISS KING / ミス・キング #1~4ダイジェスト+#5</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p202/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251103110000 +0000" stop="20251103115700 +0000">
 		<title>MISS KING / ミス・キング　#6</title>
@@ -13996,7 +14265,61 @@ BBQで女子メンバーから想いを伝えられ、悩みに悩むいおう�
 提供：GRL</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s740_p5/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251103130000 +0000" stop="20251103163000 +0000">
+	<programme channel="abema-special" start="20251103130000 +0000" stop="20251103135900 +0000">
+		<title>筋肉ミッションでおうが大恥！？&amp;きんりの宮城でアポなし旅！すぱのび#27</title>
+		<desc>▼見どころ
+・マッチョ部におうが初参戦！筋肉ミッションでまさかの事態に…！
+・あの街in宮城！人気ドーナツ屋さんで、きんりのがしおんに恋愛アドバイス？
+
+放課後がやってきた！さあ、出かけよう！
+高校生たちが新しい人たちと、普段とは違った環境で、やったことないことに挑戦するバラエティ番組。
+高校生たちは、自らの”のびしろ”を求めチャレンジする中で、大人になる第一歩を踏み出します。
+今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2031_s1_p127/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251103135900 +0000" stop="20251103151300 +0000">
+		<title>#1 ライバル雑誌が禁断の衝突！モデルたちの真剣バトル開幕</title>
+		<desc>Popteenとeggの専属モデルが禁断の集結！
+コラボ雑誌の表紙と誌面を巡り、真剣バトルが開幕！1つめのバトルは、「ランウェイバトル」
+モデルとしての基礎力や魅せ方が問われる初戦で、いきなり号泣続出...さらに、OGモデルの藤田ニコルらも登場。初戦を制すのはどっち？
+
+
+_______________
+■ MODELS CRUSH 番組概要■
+人気ティーン誌「Popteen」と「egg」が禁断のコラボ！
+日本初となる"合同紙雑誌"の全国発売が決定！
+
+かつて平成のギャルブームを牽引し、女子高生のバイブルだった2誌。
+しかしSNS全盛の令和、雑誌が売れない時代に突入ー。
+ともに休刊を経験したライバル誌同士が、再起を図り立ち上がる！
+
+合同雑誌の表紙と誌面のページをかけた
+現役モデルたちによる真剣勝負！
+
+唯一無二じゃないと生き残れない。
+雑誌を背負う「カリスマモデル」になれるのか？
+二つの雑誌は、10代の憧れを取り戻せる？
+
+雑誌の未来をかけた、バトルリアリティショー！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2044_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251103151300 +0000" stop="20251103161500 +0000">
+		<title>#7 : ラブキャッチャージャパン2</title>
+		<desc>▼概要
+真実の愛を求める「ラブキャッチャー」
+多額の賞金を狙う「マネーキャッチャー」
+それぞれの正体を隠した男女10名が恋の駆け引き。
+
+「あなたの正体は…？」
+
+信じる勇気と疑心がぶつかり、
+人間の本性があらわになる恋愛リアリティーショー
+
+相手の本心を見極め、
+最後に手にするのは…愛？それともお金？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s2_p70/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251103161500 +0000" stop="20251103163000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14008,29 +14331,135 @@ BBQで女子メンバーから想いを伝えられ、悩みに悩むいおう�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/162-135_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251103184500 +0000" stop="20251103190000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251103190000 +0000" stop="20251103214100 +0000">
 		<title>高嶺のハナさん2 第1話~6話 前半一挙</title>
 		<desc>あれから一年...。付き合い始めた高嶺華(泉里香)と弱木強(小越勇輝)だったが、恋愛関係は二人でお弁当を食べることくらい。ハナが好きな更田元気(猪塚健太)は2人を見て落ち込む。そんな折、大阪支社から弱木の同期・淀屋橋うめ(中村里帆)が転勤してくる...。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-62_s2_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251103214100 +0000" stop="20251103230000 +0000">
+	<programme channel="abema-special" start="20251103214100 +0000" stop="20251103220000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251103220000 +0000" stop="20251103230000 +0000">
+		<title>#7 : ラブキャッチャージャパン2</title>
+		<desc>▼概要
+真実の愛を求める「ラブキャッチャー」
+多額の賞金を狙う「マネーキャッチャー」
+それぞれの正体を隠した男女10名が恋の駆け引き。
+
+「あなたの正体は…？」
+
+信じる勇気と疑心がぶつかり、
+人間の本性があらわになる恋愛リアリティーショー
+
+相手の本心を見極め、
+最後に手にするのは…愛？それともお金？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s2_p70/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251103230000 +0000" stop="20251104024000 +0000">
 		<title>恋はチーズ・イン・ザ・トラップ 第4〜6話【韓流アワー】</title>
 		<desc>夏休みを前に休む暇もないソル。アルバイトで生活費を稼いだり、就職のためのスペックを積んだり、学期中と同じくらい忙しい時間を過ごすしている。しかも告白までしたユ・ジョンはまたもや曖昧な態度でソルを困惑させ、同じ塾に勤務することになったイノは、事あるごとにソルに口出しをしてきてソルをさらに混乱させる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-68_s1_p4/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251104024000 +0000" stop="20251104110000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	<programme channel="abema-special" start="20251104024000 +0000" stop="20251104030000 +0000">
+		<title>MISS KING / ミス・キング　#1~4 スペシャルダイジェスト</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p202/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251104030000 +0000" stop="20251104094700 +0000">
+		<title>ラブキャッチャージャパン2 #1~7【今夜9時~最終回】</title>
+		<desc>▼みどころ
+真実の愛を見つけるための旅に参加した男女10名。
+その中には、金目当てがいる！？
+
+信じる勇気と疑心がぶつかり、
+人間の本性があらわになる恋愛リアリティーショー、開幕！
+
+
+「ほっぺにリップついたかも…」
+シーズン2最初のカップルチャレンジはカップルフォト。
+出会ってすぐの異性とベッドや車でイチャイチャカップル写真を撮影！？
+爆美女からの刺激的すぎる指挟みキスとは・・・！？
+そして、優勝者には特別な権利が与えられ・・・？
+
+相手の本心を見極め、
+最後に手にするのは…愛？それともお金？
+
+
+▼概要
+真実の愛を求める「ラブキャッチャー」
+多額の賞金を狙う「マネーキャッチャー」
+それぞれの正体を隠した男女10名が恋の駆け引き。
+
+「あなたの正体は…？」
+
+信じる勇気と疑心がぶつかり、
+人間の本性があらわになる恋愛リアリティーショー
+
+相手の本心を見極め、
+最後に手にするのは…愛？それともお金？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s2_p10/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251104094700 +0000" stop="20251104110000 +0000">
+		<title>#1 ライバル雑誌が禁断の衝突！モデルたちの真剣バトル開幕</title>
+		<desc>Popteenとeggの専属モデルが禁断の集結！
+コラボ雑誌の表紙と誌面を巡り、真剣バトルが開幕！1つめのバトルは、「ランウェイバトル」
+モデルとしての基礎力や魅せ方が問われる初戦で、いきなり号泣続出...さらに、OGモデルの藤田ニコルらも登場。初戦を制すのはどっち？
+
+
+_______________
+■ MODELS CRUSH 番組概要■
+人気ティーン誌「Popteen」と「egg」が禁断のコラボ！
+日本初となる"合同紙雑誌"の全国発売が決定！
+
+かつて平成のギャルブームを牽引し、女子高生のバイブルだった2誌。
+しかしSNS全盛の令和、雑誌が売れない時代に突入ー。
+ともに休刊を経験したライバル誌同士が、再起を図り立ち上がる！
+
+合同雑誌の表紙と誌面のページをかけた
+現役モデルたちによる真剣勝負！
+
+唯一無二じゃないと生き残れない。
+雑誌を背負う「カリスマモデル」になれるのか？
+二つの雑誌は、10代の憧れを取り戻せる？
+
+雑誌の未来をかけた、バトルリアリティショー！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2044_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251104110000 +0000" stop="20251104114500 +0000">
 		<title>#2 eggが涙の進撃！センスとスキルで駆逐せよっ</title>
@@ -14055,10 +14484,16 @@ _______________
 雑誌の未来をかけた、バトルリアリティショー！"</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2044_s1_p1002/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251104114500 +0000" stop="20251104120000 +0000">
+	<programme channel="abema-special" start="20251104114500 +0000" stop="20251104114800 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251104114800 +0000" stop="20251104120000 +0000">
+		<title>映画『港のひかり』Behind the Story 「継承」Part1</title>
+		<desc>11月14日(金)全国公開の映画『港のひかり』公開記念特番。初出しメイキング映像、撮影の中で「継承」された思いを監督・キャストの現場コメントでご紹介。『港のひかり』は内容のクオリティやエンタメ度もさることながら、作りの面白さに満ちた映画だ。それは新進気鋭の監督・藤井道人とレジェンドキャメラマン・木村大作の出会いという「時代を超えたセッション」であり、昭和から令和への「継承」ということ、彼らのものづくりの過程は、化学反応や摩擦や苦悩や発見の旅である。さらに、本作の“出発点”、新事務所を立ち上げ、映画の企画から参加した主演・舘ひろしの新しいチャレンジと、舘ひろしとタッグを組んだ藤井監督、制作会社スターサンズの故河村光庸プロデューサーが描いた「夢」という部分も大きい。これらを軸として、作品を大きく花開かせたのが、眞栄田郷敦、笹野高史、市村正親、椎名桔平、斎藤工、ピエール瀧ら豪華役者陣で、彼らの積み重なった想いが、『港のひかり』をエンタメでありながら説得力のある想いの詰まった映画へと昇華させていった。そして、ベテラン俳優陣の中でも「光」となるのが、少年・幸太の存在です。「幸太」と、盛りを過ぎた男「三浦」の友情こそが、この映画を永遠のマスターピースへと導いている。
+様々な思いが詰まった映画『港のひかり』の魅力を初出しのメイキング映像・キャストのコメント映像を交えながら、藤井監督と木村大作の化学反応で起こった奇跡のフィルム映画を紹介する見応えたっぷりの特番。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/767-1_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251104120000 +0000" stop="20251104125900 +0000">
 		<title>#8 : ラブキャッチャージャパン2</title>
@@ -14076,20 +14511,60 @@ _______________
 最後に手にするのは…愛？それともお金？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s2_p1008/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251104125900 +0000" stop="20251104140000 +0000">
+	<programme channel="abema-special" start="20251104125900 +0000" stop="20251104131400 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251104131400 +0000" stop="20251104133000 +0000">
+		<title>MISS KING / ミス・キング　#1~4 スペシャルダイジェスト</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p202/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251104133000 +0000" stop="20251104135700 +0000">
+		<title>映画『港のひかり』Behind the Story 「継承」Part1~2</title>
+		<desc>11月14日(金)全国公開の映画『港のひかり』公開記念特番。初出しメイキング映像、撮影の中で「継承」された思いを監督・キャストの現場コメントでご紹介。『港のひかり』は内容のクオリティやエンタメ度もさることながら、作りの面白さに満ちた映画だ。それは新進気鋭の監督・藤井道人とレジェンドキャメラマン・木村大作の出会いという「時代を超えたセッション」であり、昭和から令和への「継承」ということ、彼らのものづくりの過程は、化学反応や摩擦や苦悩や発見の旅である。さらに、本作の“出発点”、新事務所を立ち上げ、映画の企画から参加した主演・舘ひろしの新しいチャレンジと、舘ひろしとタッグを組んだ藤井監督、制作会社スターサンズの故河村光庸プロデューサーが描いた「夢」という部分も大きい。これらを軸として、作品を大きく花開かせたのが、眞栄田郷敦、笹野高史、市村正親、椎名桔平、斎藤工、ピエール瀧ら豪華役者陣で、彼らの積み重なった想いが、『港のひかり』をエンタメでありながら説得力のある想いの詰まった映画へと昇華させていった。そして、ベテラン俳優陣の中でも「光」となるのが、少年・幸太の存在です。「幸太」と、盛りを過ぎた男「三浦」の友情こそが、この映画を永遠のマスターピースへと導いている。
+様々な思いが詰まった映画『港のひかり』の魅力を初出しのメイキング映像・キャストのコメント映像を交えながら、藤井監督と木村大作の化学反応で起こった奇跡のフィルム映画を紹介する見応えたっぷりの特番。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/767-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251104135700 +0000" stop="20251104140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20251104140000 +0000" stop="20251104150000 +0000">
-		<title>ナオキマンの都市伝説ワイドショー#3：</title>
-		<desc>「ナオキマンの都市伝説ワイドショー」Season2の配信が決定！
-Season2のテーマは「覚醒」。
-前シーズンに引き続き、都市伝説好きの有名人が集結したトーク企画や、
-超能力者を育成する新企画「プロジェクトE」も始動！
-あなたが知らない新たな視点を提供します。
+		<title>ナオキマンの都市伝説ワイドショー#3：報道では語られない事件の裏側</title>
+		<desc>【あの事件の裏側を都市伝説視点で見たら…】
+津山三十人殺しの地で感じた犯人・都井睦雄の姿!?
+小木博明が語る渋谷女性社員殺害事件の裏側!
+「プチエンジェル事件」事件現場の住民が感じた疑念
+
+【超能力者育成！プロジェクトE】
+選抜メンバーによる合宿が開始
+
 ※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p199/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s2_p30/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251104150000 +0000" stop="20251104160000 +0000">
 		<title>No programme</title>
@@ -14102,26 +14577,171 @@ Season2のテーマは「覚醒」。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-62_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251104184100 +0000" stop="20251104190000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>MISS KING / ミス・キング　#1~4 スペシャルダイジェスト</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p202/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251104190000 +0000" stop="20251104214100 +0000">
 		<title>高嶺のハナさん2 第7話~最終話 後半一挙</title>
 		<desc>不動(小柳友)から得た、歯ごたえ、食感をモチーフに企画案を練り直すハナ(泉里香)。更田(猪塚健太)とうめ(中村里帆)は、ハナと不動が付き合っているのではと弱木(小越勇輝)と苺(香音)に伝える。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-62_s2_p7/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251104214100 +0000" stop="20251104230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	<programme channel="abema-special" start="20251104214100 +0000" stop="20251104220000 +0000">
+		<title>【先行公開】4人に1人は復縁経験あり!?前田敦子&amp;ニコル&amp;陣内の赤裸々恋愛観</title>
+		<desc>新シーズン放送を前に、20〜30代男女のリアルな恋愛観を番組にちなんだ独自アンケートで徹底調査！
+復縁した経験は？浮気心を抱いたことは？etc.
+前田敦子、藤田ニコル、陣内智則の見届け人たちも過去の恋愛エピソードを赤裸々告白！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1512_s50_p100/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251104220000 +0000" stop="20251104230000 +0000">
+		<title>MISS KING / ミス・キング #1~4ダイジェスト+#5</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p202/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251104230000 +0000" stop="20251105024400 +0000">
 		<title>恋はチーズ・イン・ザ・トラップ 第7〜9話【韓流アワー】</title>
 		<desc>2学期初日、ソルは突然自分と同じスタイルで現れたミンスに戸惑い、ソルとユ・ジョンが付き合っていることを知ったオ・ヨンゴンは、過去のユ・ジョンの行動を話しながらソルに近づく。一方、アルバイトをしていたイノは、倉庫に放置されたピアノを見つけるが...</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-68_s1_p7/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251105024400 +0000" stop="20251105120000 +0000">
+	<programme channel="abema-special" start="20251105024400 +0000" stop="20251105030000 +0000">
+		<title>MISS KING / ミス・キング　#1~4 スペシャルダイジェスト</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p202/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251105030000 +0000" stop="20251105034500 +0000">
+		<title>#2 eggが涙の進撃！センスとスキルで駆逐せよっ</title>
+		<desc>前回のバトルでPopteenに負け、悔し涙を流したeggが猛撃！
+今回のバトルは「秋冬トレンド スチールバトル」コーデセンスや撮影時のポージング力など、モデルとしての実力が試される！
+_______________
+■ MODELS CRUSH 番組概要■
+人気ティーン誌「Popteen」と「egg」が禁断のコラボ！
+日本初となる""""合同紙雑誌""""の全国発売が決定！
+
+かつて平成のギャルブームを牽引し、女子高生のバイブルだった2誌。
+しかしSNS全盛の令和、雑誌が売れない時代に突入ー。
+ともに休刊を経験したライバル誌同士が、再起を図り立ち上がる！
+
+合同雑誌の表紙と誌面のページをかけた
+現役モデルたちによる真剣勝負！
+
+唯一無二じゃないと生き残れない。
+雑誌を背負う「カリスマモデル」になれるのか？
+二つの雑誌は、10代の憧れを取り戻せる？
+
+雑誌の未来をかけた、バトルリアリティショー！"</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2044_s1_p1002/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251105034500 +0000" stop="20251105040000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251105040000 +0000" stop="20251105072500 +0000">
+		<title>隣の恋は青く見える2 #1~4【日曜よる9時~新シーズンスタート】</title>
+		<desc>悩める8組のカップルが合意のもと一時的に交際関係を解消。
+恋愛フリーの状態で過ごす１週間の"公認浮気"生活。
+前半は北海道で元恋人の元を離れ共同生活、後半は沖縄で8組16人のカップルが大集結。
+共同生活の先に待っているのは"復縁"か"決別"か、はたまた"新しい恋"か。
+これは「2人にとって必要な浮気」です。
+
+恋人関係を解消した恋人たちは夏の北海道で「ニセコ組」「洞爺湖組」に分かれて共同生活。
+元恋人のいない空間で新しい恋が始まる。お互いの生活が知れるのは「共有写真アルバム」のみ。
+嫉妬、新しい恋、やっぱり好き、でも幸せになれない、渦巻く感情の嵐、恋人たちの心は乱れる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1573_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251105072500 +0000" stop="20251105074000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251105074000 +0000" stop="20251105080000 +0000">
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251105080000 +0000" stop="20251105115700 +0000">
+		<title>MISS KING / ミス・キング #1~6</title>
+		<desc>天才棋士・彰一（中村獅童）を父に持つ飛鳥（のん）。
+母・桂子（奥貫薫）と三人で仲睦まじく暮らしていたが、やがて彰一は「勝利」への執着に囚われ、家族を捨てて家を出て行ってしまう。
+それから23年。桂子は病に倒れ、飛鳥は貧困のなかで孤独に生きていた。
+そんな彼女の目に映ったのは、将棋界で華々しく活躍する父・彰一の姿。
+捨てられた過去、叶わなかった日常、募る憎しみ――。
+抑えきれない感情が限界を迎えたとき、飛鳥は衝撃の行動に出る――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251105115700 +0000" stop="20251105120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14134,10 +14754,56 @@ Season2のテーマは「覚醒」。
 今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2031_s1_p128/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251105130000 +0000" stop="20251105160000 +0000">
+	<programme channel="abema-special" start="20251105130000 +0000" stop="20251105134500 +0000">
+		<title>#2 eggが涙の進撃！センスとスキルで駆逐せよっ</title>
+		<desc>前回のバトルでPopteenに負け、悔し涙を流したeggが猛撃！
+今回のバトルは「秋冬トレンド スチールバトル」コーデセンスや撮影時のポージング力など、モデルとしての実力が試される！
+_______________
+■ MODELS CRUSH 番組概要■
+人気ティーン誌「Popteen」と「egg」が禁断のコラボ！
+日本初となる""""合同紙雑誌""""の全国発売が決定！
+
+かつて平成のギャルブームを牽引し、女子高生のバイブルだった2誌。
+しかしSNS全盛の令和、雑誌が売れない時代に突入ー。
+ともに休刊を経験したライバル誌同士が、再起を図り立ち上がる！
+
+合同雑誌の表紙と誌面のページをかけた
+現役モデルたちによる真剣勝負！
+
+唯一無二じゃないと生き残れない。
+雑誌を背負う「カリスマモデル」になれるのか？
+二つの雑誌は、10代の憧れを取り戻せる？
+
+雑誌の未来をかけた、バトルリアリティショー！"</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2044_s1_p1002/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251105134500 +0000" stop="20251105140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251105140000 +0000" stop="20251105150000 +0000">
+		<title>CHANCE &amp; CHANGE #43</title>
+		<desc>日本全国のキャバクラで働くキャスト陣がスタジオに集い
+企画やコーナーを通してその素顔を紐解いていくこれまでにあるようでなかったキャバクラ×バラエティ番組（通称キャバラエティ）
+『CHANCE&amp;CHANGE』
+
+夜の世界で働く女性たちの可能性（CHANCE）を広げ、彼女たちのイメージを変える（CHANGE）番組！
+東京のみならず全国のキャバクラで働く人気キャストに焦点を当てて、日本全体のキャバクラ界を盛り上げます</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-265_s1_p43/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251105150000 +0000" stop="20251105160000 +0000">
+		<title>＃9:女性のカリスマ アレン様の生き様＆ＳＮＳで人生激変の美人</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
+
+女性たちから熱狂的な人気を誇るアレン様
+壮絶な人生…そのルーツである生まれ育った高知への里帰りに密着
+葛藤と苦難を乗り越え 女性のカリスマになった生き様とは―
+
+さらに
+ＳＮＳで人生が激変した美人ラーメン店主＆彫り師に密着</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p109/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251105160000 +0000" stop="20251105184100 +0000">
 		<title>高嶺のハナさん2 第7話~最終話 後半一挙</title>
@@ -14249,10 +14915,15 @@ Season2のテーマは「覚醒」。
 【提供】BOATRACE振興会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-307_s10000_p1032/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251107120000 +0000" stop="20251107130000 +0000">
+	<programme channel="abema-special" start="20251107120000 +0000" stop="20251107123000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251107123000 +0000" stop="20251107130000 +0000">
+		<title>For JAPAN シーズン3 #29</title>
+		<desc>ー日本の政治シーンに『経営力』はあるのか⁉ー　日本の未来を憂う無数のトーク番組。しかし出演しているコメンテーターに実績はあるのか？110兆円を動かす「政治家」に経営経験はあるのか？経営経験もない人間が毎年途方もない金額を動かし、30年以上成長できない日本。本物の実績のある経営者が日本課題に挑む！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p89/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251107130000 +0000" stop="20251107140000 +0000">
 		<title>ダマってられない女たち2 #10</title>
@@ -16501,10 +17172,84 @@ YZERRが見たアメリカの性的搾取
 この旅イチの危機の連続に…くるまはどう立ち向かうのか⁉︎</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s10000_p60/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251102130000 +0000" stop="20251102234800 +0000">
+	<programme channel="special-plus" start="20251102130000 +0000" stop="20251102140000 +0000">
+		<title>ナオキマンの都市伝説ワイドショー#2：新総理誕生の裏で、日本崩壊!?</title>
+		<desc>【新総理誕生の裏で、崩壊しつつある政治の裏側を都市伝説的視点で見たら…】
+違和感だらけの総裁選の理由とは!?
+キャスティングボードを握ると〇〇に呼び出される!?
+
+偏向報道疑惑の裏にあるマスメディアの闇
+
+アフリカ・ホームタウンの真相
+移民問題の本質は、〇〇!?
+
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s2_p20/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251102140000 +0000" stop="20251102150000 +0000">
+		<title>#1：金ない、モテない、魅力ない。この＜どん底人生＞からの脱出。</title>
+		<desc>「クソつまんない人生を変えたい」切実な想いを胸に集まった男達を、メンズコーチ・ジョージが磨きあげる強化合宿が開幕！合言葉は「弱さを燃やせ」。しかし、初日からハウスルールを破り波乱の事態に…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2046_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251102150000 +0000" stop="20251102181600 +0000">
+		<title>MISS KING / ミス・キング #1~5</title>
+		<desc>天才棋士・彰一（中村獅童）を父に持つ飛鳥（のん）。
+母・桂子（奥貫薫）と三人で仲睦まじく暮らしていたが、やがて彰一は「勝利」への執着に囚われ、家族を捨てて家を出て行ってしまう。
+それから23年。桂子は病に倒れ、飛鳥は貧困のなかで孤独に生きていた。
+そんな彼女の目に映ったのは、将棋界で華々しく活躍する父・彰一の姿。
+捨てられた過去、叶わなかった日常、募る憎しみ――。
+抑えきれない感情が限界を迎えたとき、飛鳥は衝撃の行動に出る――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251102181600 +0000" stop="20251102184500 +0000">
+		<title>映画『港のひかり』Behind the Story 「継承」Part1~2</title>
+		<desc>11月14日(金)全国公開の映画『港のひかり』公開記念特番。初出しメイキング映像、撮影の中で「継承」された思いを監督・キャストの現場コメントでご紹介。『港のひかり』は内容のクオリティやエンタメ度もさることながら、作りの面白さに満ちた映画だ。それは新進気鋭の監督・藤井道人とレジェンドキャメラマン・木村大作の出会いという「時代を超えたセッション」であり、昭和から令和への「継承」ということ、彼らのものづくりの過程は、化学反応や摩擦や苦悩や発見の旅である。さらに、本作の“出発点”、新事務所を立ち上げ、映画の企画から参加した主演・舘ひろしの新しいチャレンジと、舘ひろしとタッグを組んだ藤井監督、制作会社スターサンズの故河村光庸プロデューサーが描いた「夢」という部分も大きい。これらを軸として、作品を大きく花開かせたのが、眞栄田郷敦、笹野高史、市村正親、椎名桔平、斎藤工、ピエール瀧ら豪華役者陣で、彼らの積み重なった想いが、『港のひかり』をエンタメでありながら説得力のある想いの詰まった映画へと昇華させていった。そして、ベテラン俳優陣の中でも「光」となるのが、少年・幸太の存在です。「幸太」と、盛りを過ぎた男「三浦」の友情こそが、この映画を永遠のマスターピースへと導いている。
+様々な思いが詰まった映画『港のひかり』の魅力を初出しのメイキング映像・キャストのコメント映像を交えながら、藤井監督と木村大作の化学反応で起こった奇跡のフィルム映画を紹介する見応えたっぷりの特番。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/767-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251102184500 +0000" stop="20251102190000 +0000">
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251102190000 +0000" stop="20251102210000 +0000">
+		<title>ドーピングトーキング #1~2</title>
+		<desc>粗品の新番組「ドーピングトーキング」
+今旬の芸人からベテラン芸人まで総勢40名超えの芸人たちが、強烈な【実体験】を
+己の話術で【エピソードトーク】に昇華させる…芸人×トークの新境地!!
+
+紅しょうが 稲田美紀「港区ギャラ飲みを仕切る女ボス」
+チャンス大城「殺人事故物件に1週間生活」
+マユリカ 中谷「資産60億円のニート」
+真空ジェシカ ガク「日本に実在した売春島」
+谷拓哉(元パンプキンポテトフライ)「韓国のスーパースター“チェ・ホンマン“の今」
+ケンドーコバヤシ「万病が癒える睾丸マッサージ」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251102210000 +0000" stop="20251102213000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20251102213000 +0000" stop="20251102234800 +0000">
+		<title>世界の果てに、くるま置いてきた #1~2</title>
+		<desc>東出昌大とひろゆきの南米大陸横断旅が完結してから約1年。
+今回新たに置き去りにされるのは、令和ロマン・くるま。
+
+人生初海外のくるまが、挑むのは南アジア縦断の旅
+バングラデシュの孤島からインドを経て、「幸せの国・ブータン」を目指す。
+
+くるまの新たな”舞台”を見つける旅が、今始まる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p101/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251102234800 +0000" stop="20251103023000 +0000">
 		<title>アンダーカレント【ABEMA初/無料1週間】</title>
@@ -16544,19 +17289,61 @@ OPENING FIGHT／みいちゃんレンジャージム vs. 伊藤菜の花
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s30055_p3/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251103060000 +0000" stop="20251103063000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>映画『港のひかり』Behind the Story 「継承」Part1~2</title>
+		<desc>11月14日(金)全国公開の映画『港のひかり』公開記念特番。初出しメイキング映像、撮影の中で「継承」された思いを監督・キャストの現場コメントでご紹介。『港のひかり』は内容のクオリティやエンタメ度もさることながら、作りの面白さに満ちた映画だ。それは新進気鋭の監督・藤井道人とレジェンドキャメラマン・木村大作の出会いという「時代を超えたセッション」であり、昭和から令和への「継承」ということ、彼らのものづくりの過程は、化学反応や摩擦や苦悩や発見の旅である。さらに、本作の“出発点”、新事務所を立ち上げ、映画の企画から参加した主演・舘ひろしの新しいチャレンジと、舘ひろしとタッグを組んだ藤井監督、制作会社スターサンズの故河村光庸プロデューサーが描いた「夢」という部分も大きい。これらを軸として、作品を大きく花開かせたのが、眞栄田郷敦、笹野高史、市村正親、椎名桔平、斎藤工、ピエール瀧ら豪華役者陣で、彼らの積み重なった想いが、『港のひかり』をエンタメでありながら説得力のある想いの詰まった映画へと昇華させていった。そして、ベテラン俳優陣の中でも「光」となるのが、少年・幸太の存在です。「幸太」と、盛りを過ぎた男「三浦」の友情こそが、この映画を永遠のマスターピースへと導いている。
+様々な思いが詰まった映画『港のひかり』の魅力を初出しのメイキング映像・キャストのコメント映像を交えながら、藤井監督と木村大作の化学反応で起こった奇跡のフィルム映画を紹介する見応えたっぷりの特番。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/767-1_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251103063000 +0000" stop="20251103091200 +0000">
 		<title>アンダーカレント【ABEMA初/無料1週間】</title>
 		<desc>銭湯の女主人・かなえは、夫・悟が突然失踪し途方に暮れる。なんとか銭湯を再開すると、堀と名乗る謎の男が「働きたい」とやってきて、住み込みで働くことになり、二人の不思議な共同生活が始まる。一方、友人・菅野に紹介された胡散臭い探偵・山崎と悟の行方を探すことになったかなえは、夫の知られざる事実を次々と知ることに。悟、堀、そして、かなえ自身も心の底に沈めていた想いが、徐々に浮かび上がってくる−。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/273-918_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251103091200 +0000" stop="20251103104500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20251103091200 +0000" stop="20251103092700 +0000">
+		<title>MISS KING / ミス・キング　#1~4 スペシャルダイジェスト</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p202/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251103092700 +0000" stop="20251103094200 +0000">
+		<title>映画『港のひかり』Behind the Story 「継承」Part1</title>
+		<desc>11月14日(金)全国公開の映画『港のひかり』公開記念特番。初出しメイキング映像、撮影の中で「継承」された思いを監督・キャストの現場コメントでご紹介。『港のひかり』は内容のクオリティやエンタメ度もさることながら、作りの面白さに満ちた映画だ。それは新進気鋭の監督・藤井道人とレジェンドキャメラマン・木村大作の出会いという「時代を超えたセッション」であり、昭和から令和への「継承」ということ、彼らのものづくりの過程は、化学反応や摩擦や苦悩や発見の旅である。さらに、本作の“出発点”、新事務所を立ち上げ、映画の企画から参加した主演・舘ひろしの新しいチャレンジと、舘ひろしとタッグを組んだ藤井監督、制作会社スターサンズの故河村光庸プロデューサーが描いた「夢」という部分も大きい。これらを軸として、作品を大きく花開かせたのが、眞栄田郷敦、笹野高史、市村正親、椎名桔平、斎藤工、ピエール瀧ら豪華役者陣で、彼らの積み重なった想いが、『港のひかり』をエンタメでありながら説得力のある想いの詰まった映画へと昇華させていった。そして、ベテラン俳優陣の中でも「光」となるのが、少年・幸太の存在です。「幸太」と、盛りを過ぎた男「三浦」の友情こそが、この映画を永遠のマスターピースへと導いている。
+様々な思いが詰まった映画『港のひかり』の魅力を初出しのメイキング映像・キャストのコメント映像を交えながら、藤井監督と木村大作の化学反応で起こった奇跡のフィルム映画を紹介する見応えたっぷりの特番。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/767-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251103094200 +0000" stop="20251103104500 +0000">
+		<title>ナオキマンの都市伝説ワイドショー#2：新総理誕生の裏で、日本崩壊!?</title>
+		<desc>【新総理誕生の裏で、崩壊しつつある政治の裏側を都市伝説的視点で見たら…】
+違和感だらけの総裁選の理由とは!?
+キャスティングボードを握ると〇〇に呼び出される!?
+
+偏向報道疑惑の裏にあるマスメディアの闇
+
+アフリカ・ホームタウンの真相
+移民問題の本質は、〇〇!?
+
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s2_p20/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251103104500 +0000" stop="20251103120000 +0000">
 		<title>MISS KING ウォッチパーティー with BUDDiiS</title>
@@ -16569,7 +17356,25 @@ BUDDiiSの3人でウォッチパーティーを開催！
 「MISS KING / ミス・キング」第6話をBUDDiiSと一緒に盛り上げよう！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s10000_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251103120000 +0000" stop="20251103140000 +0000">
+	<programme channel="special-plus" start="20251103120000 +0000" stop="20251103130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20251103130000 +0000" stop="20251103135700 +0000">
+		<title>ななにー 地下ABEMA #90 14歳で妊娠 相手は同級生…波瀾万丈シンママ</title>
+		<desc>170人のママを救う最強シンママ
+「月300万円稼ぐママもいます」その仕事内容とは？
+
+ドラマのモデルになったシンママ
+敏腕社長に上り詰めた波瀾万丈人生とは？
+
+10代で２人を出産 シンママ
+
+元ポップティーン読モのギャルシンママ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-980_s102_p191/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251103135700 +0000" stop="20251103140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -16583,10 +17388,99 @@ BUDDiiSの3人でウォッチパーティーを開催！
 協調性や欲望など人間の本性を見る”アクション逃走劇”。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-334_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251103144000 +0000" stop="20251104004000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20251103144000 +0000" stop="20251103150000 +0000">
+		<title>映画『港のひかり』Behind the Story 「継承」Part2</title>
+		<desc>11月14日(金)全国公開の映画『港のひかり』公開記念特番。初出しメイキング映像、撮影の中で「継承」された思いを監督・キャストの現場コメントでご紹介。『港のひかり』は内容のクオリティやエンタメ度もさることながら、作りの面白さに満ちた映画だ。それは新進気鋭の監督・藤井道人とレジェンドキャメラマン・木村大作の出会いという「時代を超えたセッション」であり、昭和から令和への「継承」ということ、彼らのものづくりの過程は、化学反応や摩擦や苦悩や発見の旅である。さらに、本作の“出発点”、新事務所を立ち上げ、映画の企画から参加した主演・舘ひろしの新しいチャレンジと、舘ひろしとタッグを組んだ藤井監督、制作会社スターサンズの故河村光庸プロデューサーが描いた「夢」という部分も大きい。これらを軸として、作品を大きく花開かせたのが、眞栄田郷敦、笹野高史、市村正親、椎名桔平、斎藤工、ピエール瀧ら豪華役者陣で、彼らの積み重なった想いが、『港のひかり』をエンタメでありながら説得力のある想いの詰まった映画へと昇華させていった。そして、ベテラン俳優陣の中でも「光」となるのが、少年・幸太の存在です。「幸太」と、盛りを過ぎた男「三浦」の友情こそが、この映画を永遠のマスターピースへと導いている。
+様々な思いが詰まった映画『港のひかり』の魅力を初出しのメイキング映像・キャストのコメント映像を交えながら、藤井監督と木村大作の化学反応で起こった奇跡のフィルム映画を紹介する見応えたっぷりの特番。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/767-1_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251103150000 +0000" stop="20251103170000 +0000">
+		<title>チャンスの時間 #324~325</title>
+		<desc>【芸人ギャランティ見直し審査会】
+ギャラの安さを訴える芸人たち…
+”ギャラ見直し審査会”でギャラの適正価格を徹底審査！
+
+ザ・マミィが公式闇営業の激安ギャラに抗議するも
+審査員ウエストランド井口がブチギレで一触即発！？
+
+千鳥冠番組の過酷ロケを嘆くカカロニ栗谷には
+大悟「負けた奴を指差して笑いたい」
+
+審査員の適正価格に芸人たちは納得をするのか！？
+
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p324/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251103170000 +0000" stop="20251103190000 +0000">
+		<title>ナオキマンの都市伝説ワイドショー season2 #1~2</title>
+		<desc>【国家の裏で暗躍する超能力者を都市伝説視点で見たら…】
+総裁選の裏でも能力者が暗躍している?
+中国最強の超能力者「張宝勝」の神レベルの力とは?
+アメリカ軍が戦争で使う超能力とは?
+
+【超能力者育成！プロジェクトE】
+日本の今後を救う!?一大プロジェクトが始動
+
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s2_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251103190000 +0000" stop="20251103203000 +0000">
+		<title>ドーピングトーキング #3~4</title>
+		<desc>粗品の新番組「ドーピングトーキング」
+今旬の芸人からベテラン芸人まで総勢40名超えの芸人たちが、強烈な【実体験】を
+己の話術で【エピソードトーク】に昇華させる…芸人×トークの新境地!!
+
+マテンロウ アントニー「ゴシップ誌“実話ナックルズ“の編集部を直撃」
+コロコロチキチキペッパーズ ナダル「芸能界SNS乗っ取りの真相」
+レイザーラモン RG「港区女子の最新の夜事情」
+紅しょうが 熊元プロレス「イケメン双子ホストとワンナイト！？」
+バッテリィズ エース「生き別れた家族を探す」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251103203000 +0000" stop="20251103210000 +0000">
+		<title>脳汁じゅ〜す Season2 #14</title>
+		<desc>番組詳細はまだありません「脳汁」、それは主に脳内で分泌され一種の快感をもたらす神経伝達物質の俗称。 
+この番組では、そんな脳汁＝アドレナリンを追い求め、
+様々なことに挑戦していくアドレナリン追及バラエティ番組。 
+
+【提供：SANYO】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-283_s1_p33/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251103210000 +0000" stop="20251103220000 +0000">
+		<title>パーラーカチ盛り ABEMA店 #56~57</title>
+		<desc>さらば青春の光が「違うタイプのクズ2人」と語る
+お見送り芸人しんいちとザ・ギース尾関のパチンコ実戦中に起こる
+あらゆる出来事を２択にして出題！
+
+クズ同士の戦いは思わぬ方向に…！？
+その実戦映像を見てベットするスタジオにも
+まさかの波乱が…！？
+
+
+
+提供：マルハン北日本カンパニー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p56/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251103220000 +0000" stop="20251103233800 +0000">
+		<title>世界の果てに、くるま置いてきた #3~4</title>
+		<desc>バングラデシュの首都ダッカで、一人の少女と出会った令和ロマン くるま。
+彼女が抱くまさかの夢に くるま驚愕…いったいなぜ!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p103/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251103233800 +0000" stop="20251104004000 +0000">
+		<title>ナオキマンの都市伝説ワイドショー#2：新総理誕生の裏で、日本崩壊!?</title>
+		<desc>【新総理誕生の裏で、崩壊しつつある政治の裏側を都市伝説的視点で見たら…】
+違和感だらけの総裁選の理由とは!?
+キャスティングボードを握ると〇〇に呼び出される!?
+
+偏向報道疑惑の裏にあるマスメディアの闇
+
+アフリカ・ホームタウンの真相
+移民問題の本質は、〇〇!?
+
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s2_p20/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251104004000 +0000" stop="20251104024500 +0000">
 		<title>食べる女【無料1週間】</title>
@@ -16594,9 +17488,13 @@ BUDDiiSの3人でウォッチパーティーを開催！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/143-57_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251104024500 +0000" stop="20251104030000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>森香澄モラハラ元彼エピソードを大公開！アレン様覚醒ぶった斬り</title>
+		<desc>今回のトークテーマは「モラハラ」。手が出る！？タレントとマネージャーのモラルとは。
+アレン様がシビアにジャッジする。
+どこまでがモラハラ！？芸能人が、言いたくても言えなかった思いの丈をぶっちゃけ討論！
+
+ハラスメントに対するモヤモヤをアレン様がぶった斬る番組です！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-330_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251104030000 +0000" stop="20251104031500 +0000">
 		<title>芸能界のアルハラ大暴露！アレン様驚愕のギャラ事情もぶっちゃけ</title>
@@ -16608,15 +17506,36 @@ BUDDiiSの3人でウォッチパーティーを開催！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-330_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251104031500 +0000" stop="20251104033000 +0000">
-		<title>さらば青春の光MC 誰カブキ #1</title>
-		<desc>街中を疾走する「カブキ」姿の有名人──。
-あなたは、この“誰カブキ“の正体を見破れるか!?
+		<title>誰だ!? 六本木を疾走するカブキの正体を暴け！</title>
+		<desc>超大物のカブキ正体にさらば、みなみかわも驚愕！
+「こんな番組に出ちゃダメですよ…！」
+
+"誰カブキ"の正体を見破る新番組
 バレずに街中を走りきれば誰カブキが賞金獲得！
-誰かを当てたら視聴者が賞金獲得！？
-笑いとドキドキが止まらない新感覚エンタメ番組！</desc>
+スタジオメンバーが誰かを当てたら視聴者が賞金獲得！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-337_s10000_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251104033000 +0000" stop="20251104060000 +0000">
+	<programme channel="special-plus" start="20251104033000 +0000" stop="20251104043000 +0000">
+		<title>ナオキマンの都市伝説ワイドショー#2：新総理誕生の裏で、日本崩壊!?</title>
+		<desc>【新総理誕生の裏で、崩壊しつつある政治の裏側を都市伝説的視点で見たら…】
+違和感だらけの総裁選の理由とは!?
+キャスティングボードを握ると〇〇に呼び出される!?
+
+偏向報道疑惑の裏にあるマスメディアの闇
+
+アフリカ・ホームタウンの真相
+移民問題の本質は、〇〇!?
+
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s2_p20/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251104043000 +0000" stop="20251104050000 +0000">
+		<title>映画『港のひかり』Behind the Story 「継承」Part1~2</title>
+		<desc>11月14日(金)全国公開の映画『港のひかり』公開記念特番。初出しメイキング映像、撮影の中で「継承」された思いを監督・キャストの現場コメントでご紹介。『港のひかり』は内容のクオリティやエンタメ度もさることながら、作りの面白さに満ちた映画だ。それは新進気鋭の監督・藤井道人とレジェンドキャメラマン・木村大作の出会いという「時代を超えたセッション」であり、昭和から令和への「継承」ということ、彼らのものづくりの過程は、化学反応や摩擦や苦悩や発見の旅である。さらに、本作の“出発点”、新事務所を立ち上げ、映画の企画から参加した主演・舘ひろしの新しいチャレンジと、舘ひろしとタッグを組んだ藤井監督、制作会社スターサンズの故河村光庸プロデューサーが描いた「夢」という部分も大きい。これらを軸として、作品を大きく花開かせたのが、眞栄田郷敦、笹野高史、市村正親、椎名桔平、斎藤工、ピエール瀧ら豪華役者陣で、彼らの積み重なった想いが、『港のひかり』をエンタメでありながら説得力のある想いの詰まった映画へと昇華させていった。そして、ベテラン俳優陣の中でも「光」となるのが、少年・幸太の存在です。「幸太」と、盛りを過ぎた男「三浦」の友情こそが、この映画を永遠のマスターピースへと導いている。
+様々な思いが詰まった映画『港のひかり』の魅力を初出しのメイキング映像・キャストのコメント映像を交えながら、藤井監督と木村大作の化学反応で起こった奇跡のフィルム映画を紹介する見応えたっぷりの特番。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/767-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251104050000 +0000" stop="20251104060000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -16626,7 +17545,32 @@ BUDDiiSの3人でウォッチパーティーを開催！
 		<desc>雑文筆家のトン子こと餅月敦子は、古びた日本家屋の古書店「モチの家」の女主人。料理をこよなく愛する彼女の家には、恋や人生に迷える女たちが夜な夜な集まってくる。トン子を担当する編集者で男を寄せつけないドドこと小麦田圭子、ドドの飲み仲間であるドラマ制作会社の白子多実子、求められると断れない古着屋店員の本津あかり、いけない魅力を振りまくごはんやの女将・鴨舌美冬ら、年齢も職業も価値観もバラバラな彼女たちを、おいしい料理を作って迎え入れるトン子だったが…。女の本音満載の、やさしく、おいしい宴が始まる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/143-57_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251104080500 +0000" stop="20251104120000 +0000">
+	<programme channel="special-plus" start="20251104080500 +0000" stop="20251104100500 +0000">
+		<title>ナオキマンの都市伝説ワイドショー season2 #1~2</title>
+		<desc>【国家の裏で暗躍する超能力者を都市伝説視点で見たら…】
+総裁選の裏でも能力者が暗躍している?
+中国最強の超能力者「張宝勝」の神レベルの力とは?
+アメリカ軍が戦争で使う超能力とは?
+
+【超能力者育成！プロジェクトE】
+日本の今後を救う!?一大プロジェクトが始動
+
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s2_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251104100500 +0000" stop="20251104114200 +0000">
+		<title>世界の果てに、くるま置いてきた #3~4</title>
+		<desc>バングラデシュの首都ダッカで、一人の少女と出会った令和ロマン くるま。
+彼女が抱くまさかの夢に くるま驚愕…いったいなぜ!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p103/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251104114200 +0000" stop="20251104115700 +0000">
+		<title>映画『港のひかり』Behind the Story 「継承」Part2</title>
+		<desc>11月14日(金)全国公開の映画『港のひかり』公開記念特番。初出しメイキング映像、撮影の中で「継承」された思いを監督・キャストの現場コメントでご紹介。『港のひかり』は内容のクオリティやエンタメ度もさることながら、作りの面白さに満ちた映画だ。それは新進気鋭の監督・藤井道人とレジェンドキャメラマン・木村大作の出会いという「時代を超えたセッション」であり、昭和から令和への「継承」ということ、彼らのものづくりの過程は、化学反応や摩擦や苦悩や発見の旅である。さらに、本作の“出発点”、新事務所を立ち上げ、映画の企画から参加した主演・舘ひろしの新しいチャレンジと、舘ひろしとタッグを組んだ藤井監督、制作会社スターサンズの故河村光庸プロデューサーが描いた「夢」という部分も大きい。これらを軸として、作品を大きく花開かせたのが、眞栄田郷敦、笹野高史、市村正親、椎名桔平、斎藤工、ピエール瀧ら豪華役者陣で、彼らの積み重なった想いが、『港のひかり』をエンタメでありながら説得力のある想いの詰まった映画へと昇華させていった。そして、ベテラン俳優陣の中でも「光」となるのが、少年・幸太の存在です。「幸太」と、盛りを過ぎた男「三浦」の友情こそが、この映画を永遠のマスターピースへと導いている。
+様々な思いが詰まった映画『港のひかり』の魅力を初出しのメイキング映像・キャストのコメント映像を交えながら、藤井監督と木村大作の化学反応で起こった奇跡のフィルム映画を紹介する見応えたっぷりの特番。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/767-1_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251104115700 +0000" stop="20251104120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -16636,7 +17580,78 @@ BUDDiiSの3人でウォッチパーティーを開催！
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!赤いブランド・RAWは火曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s10006_p110/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251104150000 +0000" stop="20251105010000 +0000">
+	<programme channel="special-plus" start="20251104150000 +0000" stop="20251104170000 +0000">
+		<title>チャンスの時間 #326~327</title>
+		<desc>【私たちが見た未来】
+「2026年 ノブがアゴの小さな女の子と浮気する…」
+大悟の予言にスタジオ騒然…
+
+今年日本中で「7月5日に大災難が起きる」という予言が話題に！
+今回「自分も予知夢を見た」という予言者芸人たちが集結し
+“Xデー”に何が起こるのかを大発表。
+
+TKO木下の炎上を的中させたみなみかわは、
+「2027年 芸人Sと女芸人Nの不倫熱愛」を予言…
+
+レインボー・ジャンボは相方・池田の心霊映像で不吉な女性関係を予知…
+ノブ「ただの暴露話やん」
+
+
+【第14回 相方の喜怒哀楽引き出しチャレンジ】
+身長187cmの優しい巨人、からし蓮根・伊織。
+伊織から喜怒哀楽をすべて引き出せ！
+
+なかなか出ない“怒”を引き出すため相方・青空が喧嘩を仕掛けるも…
+伊織から「人の骨、折ったことある？」の衝撃発言に千鳥も困惑！
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p326/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251104170000 +0000" stop="20251104184700 +0000">
+		<title>ナオキマンの都市伝説ワイドショー #1~3</title>
+		<desc>【あの元芸能人とテレビ局の騒動による都市伝説視点で見たら…】
+スピン報道で芸能人が生贄に？
+芸能界と政界は裏で繋がっている？
+ある巨大派閥の権力者が根こそぎ狙われている？
+日本にも存在する性的ビジネスの闇
+2032年地球に隕石が衝突？
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251104184700 +0000" stop="20251104190000 +0000">
+		<title>映画『港のひかり』Behind the Story 「継承」Part1</title>
+		<desc>11月14日(金)全国公開の映画『港のひかり』公開記念特番。初出しメイキング映像、撮影の中で「継承」された思いを監督・キャストの現場コメントでご紹介。『港のひかり』は内容のクオリティやエンタメ度もさることながら、作りの面白さに満ちた映画だ。それは新進気鋭の監督・藤井道人とレジェンドキャメラマン・木村大作の出会いという「時代を超えたセッション」であり、昭和から令和への「継承」ということ、彼らのものづくりの過程は、化学反応や摩擦や苦悩や発見の旅である。さらに、本作の“出発点”、新事務所を立ち上げ、映画の企画から参加した主演・舘ひろしの新しいチャレンジと、舘ひろしとタッグを組んだ藤井監督、制作会社スターサンズの故河村光庸プロデューサーが描いた「夢」という部分も大きい。これらを軸として、作品を大きく花開かせたのが、眞栄田郷敦、笹野高史、市村正親、椎名桔平、斎藤工、ピエール瀧ら豪華役者陣で、彼らの積み重なった想いが、『港のひかり』をエンタメでありながら説得力のある想いの詰まった映画へと昇華させていった。そして、ベテラン俳優陣の中でも「光」となるのが、少年・幸太の存在です。「幸太」と、盛りを過ぎた男「三浦」の友情こそが、この映画を永遠のマスターピースへと導いている。
+様々な思いが詰まった映画『港のひかり』の魅力を初出しのメイキング映像・キャストのコメント映像を交えながら、藤井監督と木村大作の化学反応で起こった奇跡のフィルム映画を紹介する見応えたっぷりの特番。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/767-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251104190000 +0000" stop="20251104210000 +0000">
+		<title>ドーピングトーキング #5~7</title>
+		<desc>芸人たちが、強烈な【実体験】を
+己の話術で【エピソードトーク】に昇華させる…芸人×トークの新境地!!
+
+平成ノブシコブシ 徳井健太「日本のタバコ農家」
+平成ノブシコブシ 吉村崇「東京の地下の実態調査」
+友田オレ「香港の悪の巣窟“チョンキンマンション“に潜入」
+お見送り芸人しんいち「催眠術セミナーに潜入」
+ネプチューン 堀内健「巨大化して大暴れ」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251104210000 +0000" stop="20251104220000 +0000">
+		<title>パーラーカチ盛り ABEMA店 #56~57</title>
+		<desc>さらば青春の光が「違うタイプのクズ2人」と語る
+お見送り芸人しんいちとザ・ギース尾関のパチンコ実戦中に起こる
+あらゆる出来事を２択にして出題！
+
+クズ同士の戦いは思わぬ方向に…！？
+その実戦映像を見てベットするスタジオにも
+まさかの波乱が…！？
+
+
+
+提供：マルハン北日本カンパニー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p56/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251104220000 +0000" stop="20251105010000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -16646,20 +17661,102 @@ BUDDiiSの3人でウォッチパーティーを開催！
 		<desc>ドMの刑事とドSの女王様の間に生まれた、正義感の強い紅優高校拳法部員の色丞狂介(しきじょうきょうすけ)。転校生の姫野愛子に恋をした狂介は、ある日銀行強盗の人質になった愛子を救うために変装して現場に潜入しようとするが、マスクと間違えて女性用パンティを被ってしまう。その瞬間、経験したことのないエクスタシーを感じた狂介の中で、眠っていた両親から引き継いだ血が目覚め、狂介は潜在能力が100%覚醒した”変態仮面”に変身して、超人的な力で悪を倒す。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/91-22_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251105030000 +0000" stop="20251105060000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	<programme channel="special-plus" start="20251105030000 +0000" stop="20251105040000 +0000">
+		<title>どこまでハラスメント #1~4</title>
+		<desc>今回のトークテーマは「セクハラ」。危険な芸能界のリアルをぶっちゃけ討論。
+アレン様がハラスメントのモヤモヤをぶった斬る！
+
+どこまでがセクハラ！？曖昧な現代社会を生きる芸能人が、言いたくても言えなかった思いの丈を激白！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-330_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251105040000 +0000" stop="20251105053400 +0000">
+		<title>MISS KING / ミス・キング #1~4ダイジェスト+#5~6</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p202/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251105053400 +0000" stop="20251105060000 +0000">
+		<title>映画『港のひかり』Behind the Story 「継承」Part2</title>
+		<desc>11月14日(金)全国公開の映画『港のひかり』公開記念特番。初出しメイキング映像、撮影の中で「継承」された思いを監督・キャストの現場コメントでご紹介。『港のひかり』は内容のクオリティやエンタメ度もさることながら、作りの面白さに満ちた映画だ。それは新進気鋭の監督・藤井道人とレジェンドキャメラマン・木村大作の出会いという「時代を超えたセッション」であり、昭和から令和への「継承」ということ、彼らのものづくりの過程は、化学反応や摩擦や苦悩や発見の旅である。さらに、本作の“出発点”、新事務所を立ち上げ、映画の企画から参加した主演・舘ひろしの新しいチャレンジと、舘ひろしとタッグを組んだ藤井監督、制作会社スターサンズの故河村光庸プロデューサーが描いた「夢」という部分も大きい。これらを軸として、作品を大きく花開かせたのが、眞栄田郷敦、笹野高史、市村正親、椎名桔平、斎藤工、ピエール瀧ら豪華役者陣で、彼らの積み重なった想いが、『港のひかり』をエンタメでありながら説得力のある想いの詰まった映画へと昇華させていった。そして、ベテラン俳優陣の中でも「光」となるのが、少年・幸太の存在です。「幸太」と、盛りを過ぎた男「三浦」の友情こそが、この映画を永遠のマスターピースへと導いている。
+様々な思いが詰まった映画『港のひかり』の魅力を初出しのメイキング映像・キャストのコメント映像を交えながら、藤井監督と木村大作の化学反応で起こった奇跡のフィルム映画を紹介する見応えたっぷりの特番。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/767-1_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251105060000 +0000" stop="20251105080000 +0000">
 		<title>HK/変態仮面 [PG12]【無料1週間】</title>
 		<desc>ドMの刑事とドSの女王様の間に生まれた、正義感の強い紅優高校拳法部員の色丞狂介(しきじょうきょうすけ)。転校生の姫野愛子に恋をした狂介は、ある日銀行強盗の人質になった愛子を救うために変装して現場に潜入しようとするが、マスクと間違えて女性用パンティを被ってしまう。その瞬間、経験したことのないエクスタシーを感じた狂介の中で、眠っていた両親から引き継いだ血が目覚め、狂介は潜在能力が100%覚醒した”変態仮面”に変身して、超人的な力で悪を倒す。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/91-22_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20251105080000 +0000" stop="20251105190000 +0000">
+	<programme channel="special-plus" start="20251105080000 +0000" stop="20251105130000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20251105130000 +0000" stop="20251105140000 +0000">
+		<title>#1：金ない、モテない、魅力ない。この＜どん底人生＞からの脱出。</title>
+		<desc>「クソつまんない人生を変えたい」切実な想いを胸に集まった男達を、メンズコーチ・ジョージが磨きあげる強化合宿が開幕！合言葉は「弱さを燃やせ」。しかし、初日からハウスルールを破り波乱の事態に…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2046_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251105140000 +0000" stop="20251105150000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20251105150000 +0000" stop="20251105170000 +0000">
+		<title>チャンスの時間 #328~329</title>
+		<desc>【第5回 怪談ブレイクチャレンジ】 
+今年も夏の風物詩、キングオブ怪談ブレイカーが帰ってくる！ 
+体力が心配されるほどダイアン津田大先生のツッコミが例年以上に大暴れ!! 
+加藤史帆「オバケの気持ちまでわかる津田すごい」 
+
+津田には女狐と役所広司の霊が憑いている!?
+大悟にも"腰お化"が憑いてつことが発覚!!
+霊媒師が除霊すると…
+
+【相方嫉妬NTR】
+ツッコミ芸人は自分より上手いツッコミを他の芸人が相方にしたら嫉妬するのか？
+若手筆頭の正統派漫才師コンビひつじねいりが挑戦！
+
+後輩の東京ホテイソンたけるがツッコミを畳み掛け
+威勢のいい松村がタジタジに！ 
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p328/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20251105170000 +0000" stop="20251105190000 +0000">
+		<title>ナオキマンの都市伝説ワイドショー #4~5</title>
+		<desc>【大阪・関西万博と米中対立を都市伝説視点で見たら…】
+万博の跡地を狙う権力の影と水面下で行われるテクノロジー競争
+近い未来、時間や空間の概念が変わる!?
+
+2027年までに米中戦争が起こる!?
+2025年7月5日の終末論は台湾有事のこと!?
+
+日本は中国のサイバー攻撃を受け続けている!?
+戦争はサイバー攻撃による認知戦の時代へ!?
+牛丼チェーン店の異物混入は何者かの仕業!?
+
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251105190000 +0000" stop="20251105211300 +0000">
 		<title>愚行録【無料1週間】</title>
@@ -16763,6 +17860,20 @@ BUDDiiSの3人でウォッチパーティーを開催！
 
 【提供】BOATRACE振興会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-228_s1_p1043/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251102131500 +0000" stop="20251103040000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251103040000 +0000" stop="20251103140000 +0000">
+		<title>東京インディペンデント映画祭</title>
+		<desc>日系ブラジル人の娘ジェシカは、夢を追って地元を離れ東京へ出るも、AI の台頭で仕事を失う。
+そんな彼女の前に、10 年以上絶縁していた父カルロスが現れる。彼もまたアジア人労働者に職を奪われ、最後に東京にいる娘に会いに来たのだった。
+激動する時代の中で弾き落とされた日系ブラジル人親子二人は、 互いに衝突し合いながらも仕事と人生を模索する旅に出るのだ。 
+そこで暮らす様々な人々に触れ合い、自身のアイデンティティに向き合っていく。そして新たな生き方 を見つけるのだ。
+（監督：寺田悠真）</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/660-1_s3_p310/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251023150000 +0000" stop="20251023170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
@@ -17662,12 +18773,12 @@ BUDDiiSの3人でウォッチパーティーを開催！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-155_s0_p36/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251103120000 +0000" stop="20251103130000 +0000">
-		<title>#アベプラ①松陰寺,竹山,蘭丸,安藤美姫,益若,山崎怜奈</title>
+		<title>#アベプラ①益若つばさ,ウスビ・サコ,柴田阿弥,辻伸弘</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6381/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251103130000 +0000" stop="20251103140000 +0000">
-		<title>#アベプラ②松陰寺,竹山,蘭丸,安藤美姫,益若,山崎怜奈</title>
+		<title>#アベプラ②”炎上で稼ぐ”にハマってしまった罠 当事者に聞く</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6386/thumb001.png" />
 	</programme>
@@ -17745,12 +18856,12 @@ BUDDiiSの3人でウォッチパーティーを開催！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1552/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251104120000 +0000" stop="20251104130000 +0000">
-		<title>#アベプラ①田村淳</title>
+		<title>#アベプラ①田村淳,あおちゃんぺ,竹田恒泰,Yuna</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6382/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251104130000 +0000" stop="20251104140000 +0000">
-		<title>#アベプラ②田村淳</title>
+		<title>#アベプラ②やらかした人の社会復帰 再就職は難しい？壁とは</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6387/thumb001.png" />
 	</programme>
@@ -17828,12 +18939,12 @@ BUDDiiSの3人でウォッチパーティーを開催！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1553/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251105120000 +0000" stop="20251105130000 +0000">
-		<title>#アベプラ①ひろゆき</title>
+		<title>#アベプラ①ひろゆき,富永京子,夏野剛,パックン,堀潤</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6383/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251105130000 +0000" stop="20251105140000 +0000">
-		<title>#アベプラ②ひろゆき</title>
+		<title>#アベプラ②フライパンも燃やせる自治体も？ゴミ分別ってナンだ</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6388/thumb001.png" />
 	</programme>
@@ -17911,12 +19022,12 @@ BUDDiiSの3人でウォッチパーティーを開催！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1554/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251106120000 +0000" stop="20251106130000 +0000">
-		<title>#アベプラ①EXIT</title>
+		<title>#アベプラ①EXIT,泉健太,岩田温,tehu,山本昌子</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6384/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251106130000 +0000" stop="20251106140000 +0000">
-		<title>#アベプラ②EXIT</title>
+		<title>#アベプラ②「もう母親なんて辞めたい」思っちゃダメですか？</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6389/thumb001.png" />
 	</programme>
@@ -17994,12 +19105,12 @@ BUDDiiSの3人でウォッチパーティーを開催！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1555/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251107120000 +0000" stop="20251107130000 +0000">
-		<title>#アベプラ①松陰寺,竹山,蘭丸,安藤美姫,益若,山崎怜奈</title>
+		<title>#アベプラ①松陰寺太勇,門ひろこ,武井亜樹,山本康二</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6385/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251107130000 +0000" stop="20251107140000 +0000">
-		<title>#アベプラ②松陰寺,竹山,蘭丸,安藤美姫,益若,山崎怜奈</title>
+		<title>#アベプラ②宗教、前科、家族の秘密…パートナーにいつ伝える？</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6390/thumb001.png" />
 	</programme>
@@ -29433,6 +30544,101 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p375/thumb001.png" />
 	</programme>
+	<programme channel="mahjong-live" start="20251023100000 +0000" stop="20251023170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvsサクラナイツvsABEMASvsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p362/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251023170000 +0000" stop="20251024100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251024100000 +0000" stop="20251024170000 +0000">
+		<title>大和証券 Mリーグ JETSvsサクラナイツvs雷電vsPirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p363/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251024170000 +0000" stop="20251029030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251029030000 +0000" stop="20251029145000 +0000">
+		<title>第50期最高位戦A1リーグ 第12節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p35/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251029145000 +0000" stop="20251030100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251030100000 +0000" stop="20251030170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvs麻雀格闘倶楽部vsABEMASvsフェニックス</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p368/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251030170000 +0000" stop="20251031100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251031100000 +0000" stop="20251031170000 +0000">
+		<title>大和証券 Mリーグ JETSvsサクラナイツvsABEMASvsフェニックス</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p369/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251031170000 +0000" stop="20251105030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251105030000 +0000" stop="20251105145000 +0000">
+		<title>第50期最高位戦A1リーグ 第12節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p36/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251105145000 +0000" stop="20251106100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251106100000 +0000" stop="20251106170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvsABEMASvs雷電vsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p374/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251106170000 +0000" stop="20251107100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251107100000 +0000" stop="20251107170000 +0000">
+		<title>大和証券 Mリーグ 風林火山vs麻雀格闘倶楽部vsBEASTvsPirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p376/thumb001.png" />
+	</programme>
 	<programme channel="shogi" start="20251023100700 +0000" stop="20251023234500 +0000">
 		<title>【再】第83期 名人戦 七番勝負 第1局 藤井聡太名人 対 永瀬拓矢九段</title>
 		<desc>順位戦はフリークラスを除いた棋士をA級からC級2組の5つの組に分けてリーグ戦を行います。A級同率首位の棋士が複数出た場合は同率の棋士全員によるプレーオフとなります。名人とA級優勝者が、例年4月から7月にかけて七番勝負を行います。名人戦とは、将棋界で最も格式と歴史のある「名人」のタイトル称号を懸けて行われる七番勝負。名人戦の予選は順位戦と呼ばれ、A級順位戦の優勝者が挑戦者となります。</desc>
@@ -33236,7 +34442,7 @@ HIPHOP界隈で今注目のトピックスについて深堀り！</desc>
 本エピソードでは、T-STONE が”Let's Get Eat”の歌詞(LYRIC)について語ります。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-67_s30_p1/thumb001.png" />
 	</programme>
-	<programme channel="hiphop" start="20251102000000 +0000" stop="20251102030000 +0000">
+	<programme channel="hiphop" start="20251102000000 +0000" stop="20251102023000 +0000">
 		<title>【再放送】フリースタイルダンジョン：2nd 1-1~2nd 2-1</title>
 		<desc>モンスター2人追加!さらに、晋平太がチャレンジャーに...!?
 KOPERUが再登場!いきなりR-指定!番組初の賞金獲得者に!?
@@ -33248,7 +34454,7 @@ KOPERU
 HIYADAM「I want it all」</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/92-24r-srzkf-wz_s0_p29/thumb001.png" />
 	</programme>
-	<programme channel="hiphop" start="20251102030000 +0000" stop="20251102050000 +0000">
+	<programme channel="hiphop" start="20251102023000 +0000" stop="20251102043000 +0000">
 		<title>【見逃し】HIPHOP MAGAZINE -THE HOPE- #12~13</title>
 		<desc>総合情報バラエティー「HIPHOP MAGAZINE -THE HOPE-」
 “音楽・ファッション・トレンド”など、
@@ -33257,7 +34463,7 @@ HIPHOPカルチャーにまつわる、あらゆる情報をお届けする。
 HIPHOP界隈で今注目のトピックスについて深堀り！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-201_s1_p12/thumb001.png" />
 	</programme>
-	<programme channel="hiphop" start="20251102050000 +0000" stop="20251102130000 +0000">
+	<programme channel="hiphop" start="20251102043000 +0000" stop="20251102130000 +0000">
 		<title>Grand Beatbox Battle 2025 TOKYO【DAY3】</title>
 		<desc>世界最高峰のビートボックス大会 GBB(Grand Beatbox Battle World League)が今年も日本で開催！！
 「Grand Beatbox Battle」とは GBBと略される本大会は、ビートボックス競技の国際大会である。
@@ -36006,6 +37212,44 @@ S7ICKCHICKs「New dance」</desc>
 週末のボートレースはABEMAで！
 【提供】BOATRACE振興会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-307_s10000_p32/thumb001.png" />
+	</programme>
+	<programme channel="boatrace" start="20251107120000 +0000" stop="20251107123000 +0000">
+		<title>ヤングダービー特番VTR</title>
+		<desc>ボートレースチャンネルで放送されたのヤングダービー特番から厳選したVTRロケ企画を放送!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-328_s1_p500/thumb001.png" />
+	</programme>
+	<programme channel="boatrace" start="20251107123000 +0000" stop="20251107130500 +0000">
+		<title>theKeys #1 【浜田亜理沙×植木通彦】</title>
+		<desc>憧れた夢を追った先が、想い描いたものであったのかどうか・・・
+それはその先を選んだ者飲みが知り得ることであり
+その先へ進んだ者のみが、答えを導き出せるのかも知れない
+ひたすらに夢を掴む努力、真っ直ぐに道を切り開く勇気
+その途中には挫折や諦め、さまざまな想いが雑然と芽生え
+その選択への鍵を紐解く</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-314_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="boatrace" start="20251107130500 +0000" stop="20251107131500 +0000">
+		<title>CMスピンオフコンテンツ #1</title>
+		<desc>現役最年長レーサーであり、最年長勝利記録を持つササノ。
+若手レーサーからも尊敬をあつめるササノだが、実は過去に、ボートレーサー生命が危ぶまれるほどの大怪我を負っていた。
+その後、怪我を乗り越え、60年にわたり活躍するササノの走る理由、一番の楽しみとは──?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-312_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="boatrace" start="20251107131500 +0000" stop="20251107133500 +0000">
+		<title>A DAY #1 清水愛海</title>
+		<desc>ボートレーサーの「ある一日」に密着!
+彼らは今何を思い、走っているのか?
+ボートレースにかける青春の苦さと輝きが織りなす感動作【A DAY】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-332_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="boatrace" start="20251107133500 +0000" stop="20251107140000 +0000">
+		<title>このボートレーサーがすごい #2 山口剛</title>
+		<desc>ボートレーサーが同じプロの目線で見つけた「すごいレーサー」を紹介する番組。
+ターンがすごいレーサー・スタートがすごいレーサー・モーター調整がすごいレーサーなど、
+プロならではの独自の着眼点。
+ボートレーサー同士が切磋琢磨し、更なる高みを目指していく。
+ボートレーサーにとっての「心・技・体」とは何か?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-311_s1_p120/thumb001.png" />
 	</programme>
 	<programme channel="keirin-auto" start="20251023232000 +0000" stop="20251024013000 +0000">
 		<title>佐世保 F2 最終日（モーニング）</title>
