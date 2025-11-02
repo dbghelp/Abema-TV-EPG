@@ -160,6 +160,10 @@
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
 	</channel>
+	<channel id="fighting-sports2">
+		<display-name>格闘 2チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports2/logo.png" />
+	</channel>
 	<channel id="hiphop">
 		<display-name>HIPHOPチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/hiphop/logo.png" />
@@ -34946,6 +34950,38 @@ HAYATA vs 原田大輔
 		<title>WWE　SMACKDOWN &amp; ABEMA #110</title>
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10006_p110/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports2" start="20251102060000 +0000" stop="20251102080000 +0000">
+		<title>RIZIN LANDMARK 12 in KOBE 前日公開計量</title>
+		<desc>いよいよ明日、神戸・GLION ARENA KOBEで開催される
+「RIZIN LANDMARK 12 in KOBE」
+出場選手が集結する大会前日計量をABEMAで無料生中継！
+
+ーーーーーーーーーー
+11月3日(月)「RIZIN LANDMARK 12」
+ABEMA PPVで全試合を生中継！ 
+秋元強真 vs. 萩原京平
+女子スーパーアトム級タイトルマッチ／伊澤星花 vs. 大島沙緒里
+ヴガール・ケラモフ vs. 松嶋こよみ
+摩嶋一整 vs. 木村柊也
+ケイト・ロータス vs. イ・ボミ
+宇佐美正パトリック vs. 桜庭大世
+中島太一 vs. 後藤丈治
+貴賢神 vs. MAX吉田
+金太郎 vs. リ・ユンフォン
+雑賀“ヤン坊”達也 vs. ヌルハン・ズマガジー
+鹿志村仁之介 vs. 安井飛馬
+キ・ウォンビン vs. キャプテン☆アフリカ
+トニー・ララミー vs. 山内渉
+KING陸斗 vs. 水野夢斗
+
+OPENING FIGHT／NOEL vs. 海咲イルカ
+OPENING FIGHT／赤平大治 vs. 翔磨
+OPENING FIGHT／宮川日向 vs. MG眞介
+OPENING FIGHT／元氣 vs. 林眞平
+OPENING FIGHT／みいちゃんレンジャージム vs. 伊藤菜の花
+ーーーーーーーーーー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s30054_p1/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20251025150000 +0000" stop="20251025210000 +0000">
 		<title>【再放送】フリースタイルティーチャー：#60~#72</title>
