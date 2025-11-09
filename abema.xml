@@ -168,6 +168,10 @@
 		<display-name>大相撲チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png" />
 	</channel>
+	<channel id="boxing">
+		<display-name>ボクシングチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
+	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -33958,6 +33962,19 @@ ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
 		<title>大相撲LIVE 十一月場所</title>
 		<desc>大相撲十一月場所 幕内 結びの一番まで完全無料生中継! 8日目の中継は無料で見逃し視聴いただけます。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-70_s10006_p8/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20251109090000 +0000" stop="20251109133000 +0000">
+		<title>BENKEI FIGHT vol.7</title>
+		<desc>亀田大毅プレゼンツ、話題の大阪興行「BENKEI FIGHT vol.7」の様子をABEMA無料生中継！
+波乱必至の激闘を見逃すな！
+
+▼予定カード
+第五試合：福重浩輝 vs 山本ライアン ジョシュア（スーパーライト級８回戦）
+第四試合：アタノン・クンラウォン vs 前田稔輝（スーパーフェザー級８回戦）
+第三試合：チャーンナロン・インジャンパー vs 佐々木る玖（スーパーウェルター級8回戦）
+第二試合：中川抹茶 vs チャッパヤック・スリスワ（スーパーフェザー級８回戦）
+第一試合：山辺蓮 vs 船橋真道（スーパーフェザー級８回戦）</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/720-1_s10003_p1/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20251101150000 +0000" stop="20251101180000 +0000">
 		<title>対日本人無敗!! 怪物ジョーダン・ピケオー</title>
