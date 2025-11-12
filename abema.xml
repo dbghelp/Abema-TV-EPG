@@ -148,6 +148,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -10460,38 +10464,9 @@ _______________
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s720_p1001/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251108070000 +0000" stop="20251108110000 +0000">
-		<title>ラブキャッチャージャパン2 #1~4 前半一挙</title>
-		<desc>▼みどころ
-真実の愛を見つけるための旅に参加した男女10名。
-その中には、金目当てがいる！？
-
-信じる勇気と疑心がぶつかり、
-人間の本性があらわになる恋愛リアリティーショー、開幕！
-
-
-「ほっぺにリップついたかも…」
-シーズン2最初のカップルチャレンジはカップルフォト。
-出会ってすぐの異性とベッドや車でイチャイチャカップル写真を撮影！？
-爆美女からの刺激的すぎる指挟みキスとは・・・！？
-そして、優勝者には特別な権利が与えられ・・・？
-
-相手の本心を見極め、
-最後に手にするのは…愛？それともお金？
-
-
-▼概要
-真実の愛を求める「ラブキャッチャー」
-多額の賞金を狙う「マネーキャッチャー」
-それぞれの正体を隠した男女10名が恋の駆け引き。
-
-「あなたの正体は…？」
-
-信じる勇気と疑心がぶつかり、
-人間の本性があらわになる恋愛リアリティーショー
-
-相手の本心を見極め、
-最後に手にするのは…愛？それともお金？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s2_p10/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20251108110000 +0000" stop="20251108114200 +0000">
 		<title>#2 eggが涙の進撃！センスとスキルで駆逐せよっ</title>
@@ -10681,35 +10656,9 @@ _______________
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1512_s50_p100/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251109070000 +0000" stop="20251109110000 +0000">
-		<title>ラブキャッチャージャパン2 #5~8 後半一挙</title>
-		<desc>▼みどころ
-「アイツを疑っちゃった…」
-今夜も1人、脱落者が選ばれる。
-誰が脱落するのか、そしてその正体とは…？
-
-デートでどっちにするのか決めたい」
-男性が希望する相手のデートが開催！
-『サウナデート』『ドライブデート』『海岸デート』など、
-それぞれの場所で意中の相手と2人きりで過ごす時間で、気持ちを確かめることはできるのか？
-
-「こんなにドキドキしたことない」
-ヴィラで2人きりになった『まさお』と『えみり』。
-『うらら』がいないのをいいことに、2Sルームでミッションに挑戦！？
-2人はそのまま顔を近づけて…？
-
-▼概要
-真実の愛を求める「ラブキャッチャー」
-多額の賞金を狙う「マネーキャッチャー」
-それぞれの正体を隠した男女10名が恋の駆け引き。
-
-「あなたの正体は…？」
-
-信じる勇気と疑心がぶつかり、
-人間の本性があらわになる恋愛リアリティーショー
-
-相手の本心を見極め、
-最後に手にするのは…愛？それともお金？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s2_p50/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20251109110000 +0000" stop="20251109120000 +0000">
 		<title>ななにー 地下ABEMA #93 一体何歳!? 年齢不詳の美女</title>
@@ -11430,8 +11379,12 @@ DAY1のオープニングの模様を特別に無料生配信！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20251112120000 +0000" stop="20251112130000 +0000">
-		<title>すーぱーのびしろたいむ by 今日、好きになりました。</title>
-		<desc>放課後がやってきた！さあ、出かけよう！
+		<title>はるとの沼らせ行動にドン引き？&amp;しゅんは松島で恋愛成就祈願！すぱのび#29</title>
+		<desc>▼見どころ
+・すぱのび探検隊後半戦！パワースポットに大興奮！はるとの沼らせ行動にゆまドン引き？
+・松島で恋愛成就祈願！おうがの名言にあおい感激！
+
+放課後がやってきた！さあ、出かけよう！
 高校生たちが新しい人たちと、普段とは違った環境で、やったことないことに挑戦するバラエティ番組。
 高校生たちは、自らの”のびしろ”を求めチャレンジする中で、大人になる第一歩を踏み出します。
 今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
@@ -14828,7 +14781,7 @@ KOCで2年連続チンパンジーネタを披露した隣人・橋本のイラ�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-155_s0_p81/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251112030000 +0000" stop="20251112040000 +0000">
-		<title>わたしとニュース～そのモヤモヤ、話せば世界が晴れるかも。～</title>
+		<title>わたしとニュース 「ばーば」と呼ばず「名前」で？ ＃モヤハレ</title>
 		<desc>ニュースをもっと、身近に。
 日常で感じる「これって何で？」「ちょっと変だな」-そんなモヤモヤが、実はニュースの入り口かもしれません。社会や政治、そして暮らしの中の違和感をわたしたちの視点で語り尽くす新感覚の共感型ニュース番組。～そのモヤモヤ、話せば世界が晴れるかも。～</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-157_s0_p6/thumb001.png" />
@@ -26547,6 +26500,86 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 		<desc>プロ連盟の頂点を決める1年間のリーグ戦。A1リーグは15人、A2リーグは16人で行われ、A1リーグ上位3選手が鳳凰位決定戦に進出となる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/179-77_s10000_p43/thumb001.png" />
 	</programme>
+	<programme channel="mahjong-live" start="20251105030000 +0000" stop="20251105145000 +0000">
+		<title>第50期最高位戦A1リーグ 第12節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p36/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251105145000 +0000" stop="20251106100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251106100000 +0000" stop="20251106170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvsABEMASvs雷電vsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p374/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251106170000 +0000" stop="20251107100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251107100000 +0000" stop="20251107170000 +0000">
+		<title>大和証券 Mリーグ 風林火山vs麻雀格闘倶楽部vsBEASTvsPirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p376/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251107170000 +0000" stop="20251112030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251112030000 +0000" stop="20251112145000 +0000">
+		<title>第50期最高位戦A1リーグ 決定戦PO【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p37/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251112145000 +0000" stop="20251113100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251113100000 +0000" stop="20251113170000 +0000">
+		<title>大和証券 Mリーグ 風林火山vsサクラナイツvs麻雀格闘倶楽部vsPirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p380/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251113170000 +0000" stop="20251114100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251114100000 +0000" stop="20251114170000 +0000">
+		<title>大和証券 Mリーグ サクラナイツvsフェニックスvs雷電vsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p382/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251114170000 +0000" stop="20251119030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251119030000 +0000" stop="20251119145000 +0000">
+		<title>第50期最高位戦A1リーグ 残留PO【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10000_p38/thumb001.png" />
+	</programme>
 	<programme channel="shogi" start="20251104060800 +0000" stop="20251104151900 +0000">
 		<title>【再】第83期 順位戦 B級1組 13回戦 羽生善治九段 対 大橋貴洸七段</title>
 		<desc>順位戦はフリークラスを除いた棋士をA級からC級2組の5つの組に分けてリーグ戦を行います。A級同率首位の棋士が複数出た場合は同率の棋士全員によるプレーオフとなります。名人とA級優勝者が、例年4月から7月にかけて七番勝負を行います。名人戦とは、将棋界で最も格式と歴史のある「名人」のタイトル称号を懸けて行われる七番勝負。名人戦の予選は順位戦と呼ばれ、A級順位戦の優勝者が挑戦者となります。</desc>
@@ -27854,12 +27887,9 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-95_s10000_p12/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251116100000 +0000" stop="20251116130000 +0000">
-		<title>【第2試合】ロコ・ソラーレvsTeam T.Peterson|2024.10.3</title>
-		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
-世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
-ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
-高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p2/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
 	</programme>
 	<programme channel="world-sports" start="20251116130000 +0000" stop="20251116133000 +0000">
 		<title>ABEMAスポーツタイム#112</title>
@@ -27932,83 +27962,10 @@ https://abema.tv/video/title/16-92</desc>
 より一層スポーツが楽しくなる番組!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p79/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20251117101000 +0000" stop="20251117123000 +0000">
-		<title>【第3試合】ロコ・ソラーレvsTeam Homan|2024.10.4</title>
-		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
-世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
-ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
-高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p3/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20251117123000 +0000" stop="20251117163500 +0000">
-		<title>JAPAN PLAYERS CHAMPIONSHIP byサトウ食品 3日目後半</title>
-		<desc>ジャパンゴルフツアー選手会が主催する『JAPAN PLAYERS CHAMPIONSHIP byサトウ食品』をABEMAで生中継!第5回大会を迎える本大会は今年も西那須野カントリー倶楽部(栃木県)を舞台に熱戦が繰り広げられる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s20_p7/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20251117163500 +0000" stop="20251117201500 +0000">
-		<title>JAPAN PLAYERS CHAMPIONSHIP byサトウ食品 最終日前半</title>
-		<desc>ジャパンゴルフツアー選手会が主催する『JAPAN PLAYERS CHAMPIONSHIP byサトウ食品』をABEMAで生中継!第5回大会を迎える本大会は今年も西那須野カントリー倶楽部(栃木県)を舞台に熱戦が繰り広げられる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s20_p8/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20251117201500 +0000" stop="20251117225500 +0000">
-		<title>【再】FIBAアジアカップ2025予選 日本 vs モンゴル</title>
-		<desc>パリの舞台では世界の強豪相手に大接戦を演じ、確かな手応えをつかんだ日本男子バスケットボール代表。河村勇輝が日本人4人目のNBAデビューを果たすなど日本バスケは新たな時代に突入した。
-
-ホーバス・ヘッドコーチは「パリよりもっと強くなれる」と力強く語り、続投が決定。次なる目標はアジアNo.1!代表チームはさらなる高みを目指し世界へと挑む。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-438_s20_p2/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20251117225500 +0000" stop="20251118013000 +0000">
-		<title>【第4試合】ロコ・ソラーレvsTeam Carey|2024.10.4</title>
-		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
-世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
-ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
-高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p4/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20251118013000 +0000" stop="20251118061000 +0000">
-		<title>【再】バスケットボールJr.ウインターカップ2024-25男女決勝</title>
-		<desc>各都道府県の予選を勝ち抜いた男女47チームずつが参加し、さらに協会の推薦で追加の男女5チームずつが加わり、男女全52チームがトーナメントを戦い、日本一を目指す大会になります。
-部活動チームのみ参加の「全中」とは異なり、各地域のクラブチーム、プロバスケットボール「Bリーグ」のチームが運営するユースチームと、中学校の部活動チームが同じルールで戦う大会となっています。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-448_s10_p1/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20251118061000 +0000" stop="20251118084000 +0000">
-		<title>【第5試合】ロコ・ソラーレvsT.Peterson|2024.10.5</title>
-		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
-世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
-ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
-高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p5/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20251118084000 +0000" stop="20251118115000 +0000">
-		<title>【準々決勝】ロコ・ソラーレvsTeam Gim|2024.10.6</title>
-		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
-世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
-ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
-高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p6/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20251118115000 +0000" stop="20251118122000 +0000">
-		<title>【再】ABEMAスポーツタイム#81</title>
-		<desc>毎週日曜よる10時から生放送!
-川﨑宗則、槙野智章らがレギュラー出演!!
-スポーツ界を賑わせている話題や最新情報をお届け!
-さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
-「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
-より一層スポーツが楽しくなる番組!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p81/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20251118122000 +0000" stop="20251118155500 +0000">
-		<title>【準決勝】ロコ・ソラーレvsTeam Einarson|2024.10.6</title>
-		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
-世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
-ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラーレの試合をすべて無料生中継!
-高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p7/thumb001.png" />
-	</programme>
-	<programme channel="world-sports" start="20251118155500 +0000" stop="20251118203500 +0000">
-		<title>JAPAN PLAYERS CHAMPIONSHIP byサトウ食品 最終日後半</title>
-		<desc>ジャパンゴルフツアー選手会が主催する『JAPAN PLAYERS CHAMPIONSHIP byサトウ食品』をABEMAで生中継!第5回大会を迎える本大会は今年も西那須野カントリー倶楽部(栃木県)を舞台に熱戦が繰り広げられる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s20_p9/thumb001.png" />
+	<programme channel="world-sports" start="20251117101000 +0000" stop="20251118203500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
 	</programme>
 	<programme channel="world-sports" start="20251118203500 +0000" stop="20251118230500 +0000">
 		<title>【再】スーパーフォーミュラ2025 Rd.1 鈴鹿サーキット</title>
