@@ -16,10 +16,6 @@
 		<display-name>アニメSPECIALチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png" />
 	</channel>
-	<channel id="anime-special-2">
-		<display-name>アニメSPECIAL2チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png" />
-	</channel>
 	<channel id="yurucamp">
 		<display-name>ゆるキャン△チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/yurucamp/logo.png" />
@@ -3392,23 +3388,6 @@ S級ヒーロー達が集まり、
 		<title>異世界薬局 #1〜12【無料ビデオ2週間】</title>
 		<desc>世界トップクラスの薬学研究者であった薬谷 完治は目を覚ますと、宮廷薬師の名家ド・メディシス家の次男ファルマ・ド・メディシスとして転生していた。転生後の能力【神術（しんじゅつ）】にも目覚め、家庭教師のエレンに力の使い方を教わるが、ファルマの神術は常人のものを遥かに超越したものであった―</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-210_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="anime-special-2" start="20251115100000 +0000" stop="20251115123700 +0000">
-		<title>【DAY1】にじさんじ 5th Anniversary「SYMPHONIA」</title>
-		<desc>にじさんじ5周年を記念し開催されたライブイベント『にじさんじ 5th Anniversary LIVE「SYMPHONIA」』をABEMAで初の全編無料放送！
-2日間にわたって計16名が出演したメモリアルライブを是非お楽しみください！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/605-9_s1_p10/thumb001.png" />
-	</programme>
-	<programme channel="anime-special-2" start="20251115123700 +0000" stop="20251116100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png" />
-	</programme>
-	<programme channel="anime-special-2" start="20251116100000 +0000" stop="20251116125500 +0000">
-		<title>【DAY2】にじさんじ 5th Anniversary「SYMPHONIA」</title>
-		<desc>にじさんじ5周年を記念し開催されたライブイベント『にじさんじ 5th Anniversary LIVE「SYMPHONIA」』をABEMAで初の全編無料放送！
-2日間にわたって計16名が出演したメモリアルライブを是非お楽しみください！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/605-9_s1_p20/thumb001.png" />
 	</programme>
 	<programme channel="yurucamp" start="20251115010000 +0000" stop="20251115070000 +0000">
 		<title>ゆるキャン△ #1〜12【無料ビデオ1週間】</title>
@@ -16880,9 +16859,10 @@ M-1ファイナリストのジョックロックが挑戦！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-155_s0_p183/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251122103000 +0000" stop="20251122110000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー「日記の中の父～餓死の島 80年後の追憶～」</title>
+		<desc>1945年4月、戦地マーシャル諸島で1人の兵士が命を落としました。戦後、戦友によって遺族に届けられた日記には“餓死”の文字が。
+「父はどんな体験をして、最期を迎えたのか」
+4歳で生き別れた宮城県の佐藤勉さん(84)は、戦後80年の今年7月、マーシャル諸島を訪れ、日記を手掛かりに父の足跡を辿りました。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p707/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251122110000 +0000" stop="20251122113000 +0000">
@@ -16939,9 +16919,10 @@ M-1ファイナリストのジョックロックが挑戦！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-155_s0_p192/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251123020000 +0000" stop="20251123023000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー「日記の中の父～餓死の島 80年後の追憶～」</title>
+		<desc>1945年4月、戦地マーシャル諸島で1人の兵士が命を落としました。戦後、戦友によって遺族に届けられた日記には“餓死”の文字が。
+「父はどんな体験をして、最期を迎えたのか」
+4歳で生き別れた宮城県の佐藤勉さん(84)は、戦後80年の今年7月、マーシャル諸島を訪れ、日記を手掛かりに父の足跡を辿りました。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p708/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251123023000 +0000" stop="20251123030000 +0000">
@@ -17979,17 +17960,17 @@ M-1ファイナリストのジョックロックが挑戦！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p38159/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20251117000000 +0000" stop="20251117010000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>日経平均株価　週明けの値動きは</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p38160/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20251117010000 +0000" stop="20251117020000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>日経平均株価　週明けの値動きは</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p38161/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20251117020000 +0000" stop="20251117030000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>木原稔官房長官会見／日経平均株価</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p38162/thumb001.png" />
 	</programme>
@@ -29292,30 +29273,7 @@ UーNEXTパイレーツ
 		<desc>RTDシリーズが復活!麻雀界のこれからを担う新世代選手が大集合。今年プロ試験を合格した元乃木坂46の中田花奈、たけやま3.5の武田雛歩、グラビアアイドルとして活躍している⻑澤茉里奈、篠原冴美を初め、今年から始まった日本プロ麻雀連盟のタイトル戦「桜蕾戦」の初代優勝者であり声優の伊達朱里紗、各団体で活躍している菅原千瑛、中野ありさ、梶梨沙子が参戦。新世代バトルにふさわしいメンバーによるRTD Girls Tournament2021の頂点に輝くのは誰だ?!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-72_s15_p1/thumb001.png" />
 	</programme>
-	<programme channel="mahjong" start="20251122185500 +0000" stop="20251122205500 +0000">
-		<title>Mリーグベストコレクション</title>
-		<desc>ほんの一握りのトッププロだけが出場できる、麻雀プロリーグ戦「M.LEAGUE(Mリーグ)」。
-数々の名対局を見せるトッププロ達の対局を厳選。
-「スカッとする一発ツモ」「想像もしない和了ルート」「ビタ止め」など、
-チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
-	</programme>
-	<programme channel="mahjong" start="20251122205500 +0000" stop="20251123014000 +0000">
-		<title>Mリーグ2019-20 6月22日放送</title>
-		<desc>「Mリーグ2019 朝日新聞ファイナルシリーズ」5日目 
-KADOKAWAサクラナイツvsセガサミーフェニックスvs渋谷ABEMASvsU-NEXT Pirates
-
-2019ファイナルシリーズは、セミファイナルシリーズを勝ち抜いた
-KADOKAWAサクラナイツ
-セガサミーフェニックス
-渋谷ABEMAS
-UーNEXTパイレーツ
-による直接対決!
-
-セミファイナルシリーズのスコアを半分持ち越し4チームによる計12戦を行い、優勝チームが決定します。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-4_s1_p113/thumb001.png" />
-	</programme>
-	<programme channel="mahjong" start="20251123014000 +0000" stop="20251123040000 +0000">
+	<programme channel="mahjong" start="20251122185500 +0000" stop="20251123040000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
@@ -29354,28 +29312,10 @@ UーNEXTパイレーツ
 		<desc>RTDシリーズが復活!麻雀界のこれからを担う新世代選手が大集合。今年プロ試験を合格した元乃木坂46の中田花奈、たけやま3.5の武田雛歩、グラビアアイドルとして活躍している⻑澤茉里奈、篠原冴美を初め、今年から始まった日本プロ麻雀連盟のタイトル戦「桜蕾戦」の初代優勝者であり声優の伊達朱里紗、各団体で活躍している菅原千瑛、中野ありさ、梶梨沙子が参戦。新世代バトルにふさわしいメンバーによるRTD Girls Tournament2021の頂点に輝くのは誰だ?!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-72_s15_p3/thumb001.png" />
 	</programme>
-	<programme channel="mahjong" start="20251123195300 +0000" stop="20251123214300 +0000">
-		<title>Mリーグベストコレクション</title>
-		<desc>ほんの一握りのトッププロだけが出場できる、麻雀プロリーグ戦「M.LEAGUE(Mリーグ)」。
-数々の名対局を見せるトッププロ達の対局を厳選。
-「スカッとする一発ツモ」「想像もしない和了ルート」「ビタ止め」など、
-チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
-	</programme>
-	<programme channel="mahjong" start="20251123214300 +0000" stop="20251124021300 +0000">
-		<title>RTDリーグ 2017 準決勝 3日目 前半</title>
-		<desc>麻雀界のトッププロ達を招待し、長期リーグ戦で真の強者を決めるRTDリーグ!2017シーズンも予選54回戦を終え、8人が準決勝にコマを進めた!決勝に進むため、更なる戦いが幕を開ける!準決勝 3日目※この番組は9/3に放送しました。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-20_s1_p113/thumb001.png" />
-	</programme>
-	<programme channel="mahjong" start="20251124021300 +0000" stop="20251124065900 +0000">
-		<title>RTDリーグ 2017 準決勝 3日目 後半【再放送】</title>
-		<desc>麻雀界のトッププロ達を招待し、長期リーグ戦で真の強者を決めるRTDリーグ!2017シーズンも予選54回戦を終え、8人が準決勝にコマを進めた!決勝に進むため、更なる戦いが幕を開ける!準決勝 3日目※この番組は9/3に放送しました。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-20_s1_p114/thumb001.png" />
-	</programme>
-	<programme channel="mahjong" start="20251124065900 +0000" stop="20251124100000 +0000">
-		<title>RTDリーグ 2017 準決勝 最終日 前半</title>
-		<desc>麻雀界のトッププロ達を招待し、長期リーグ戦で真の強者を決めるRTDリーグ!2017シーズンも予選54回戦を終え、8人が準決勝にコマを進めた!決勝に進むため、更なる戦いが幕を開ける!準決勝 4日目※この番組は9/24に放送しました。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-20_s1_p115/thumb001.png" />
+	<programme channel="mahjong" start="20251123195300 +0000" stop="20251124100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</programme>
 	<programme channel="mahjong" start="20251124100000 +0000" stop="20251124170000 +0000">
 		<title>大和証券 Mリーグ JETSvsドリブンズvs風林火山vs麻雀格闘倶楽部</title>
@@ -30594,9 +30534,14 @@ https://abema.tv/video/title/16-92</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s10_p5/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251119092500 +0000" stop="20251119095500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+		<title>【再】ABEMAスポーツタイム#112</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p112/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251119095500 +0000" stop="20251119132000 +0000">
 		<title>GMOインターネットグループpresents MARCH対抗戦2024</title>
@@ -30715,9 +30660,14 @@ https://abema.tv/video/title/16-92
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-444_s10_p2/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251120093500 +0000" stop="20251120100500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+		<title>【再】ABEMAスポーツタイム#112</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p112/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251120100500 +0000" stop="20251120103000 +0000">
 		<title>【再】ABEMA モータースポーツ完全ガイド！【WRC編】</title>
@@ -30815,9 +30765,14 @@ https://abema.tv/video/title/16-92
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-176_s10_p2/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251121092500 +0000" stop="20251121095500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+		<title>【再】ABEMAスポーツタイム#112</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p112/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20251121095500 +0000" stop="20251121124500 +0000">
 		<title>【再】スーパーフォーミュラ2025 Rd.7 富士スピードウェイ</title>
