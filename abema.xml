@@ -96,6 +96,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -12761,8 +12765,13 @@ _______________
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2044_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251118110000 +0000" stop="20251118114500 +0000">
-		<title>#4：Popteen vs egg MODELS CRUSH</title>
-		<desc>人気ティーン誌「Popteen」と「egg」が禁断のコラボ！
+		<title>#4 合宿編完結 仲間割れ危機発生！すれ違いを乗り切れる？</title>
+		<desc>合宿後編！モデルたちが挑むのは、自分たちで見開き1ページを作成する誌面プロデュースバトル。
+編集部のダメ出しや、先輩モデルの喝を受けて、見事完成！！のはずが…メンバー内で意見がすれ違い、涙の展開に！？
+
+_______________
+■ MODELS CRUSH 番組概要■
+人気ティーン誌「Popteen」と「egg」が禁断のコラボ！
 日本初となる"合同紙雑誌"の全国発売が決定！
 
 かつて平成のギャルブームを牽引し、女子高生のバイブルだった2誌。
@@ -13242,7 +13251,7 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 世界から優しく愛される『Amazing Kawaii』キッズグループが誕生します☆ミ
 
 提供：株式会社ZOZO</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p159/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2043_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251120113000 +0000" stop="20251120122000 +0000">
 		<title>No programme</title>
@@ -13372,7 +13381,7 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 	<programme channel="abema-special" start="20251121123000 +0000" stop="20251121130000 +0000">
 		<title>For JAPAN シーズン3 #31</title>
 		<desc>ー日本の政治シーンに『経営力』はあるのか⁉ー　日本の未来を憂う無数のトーク番組。しかし出演しているコメンテーターに実績はあるのか？110兆円を動かす「政治家」に経営経験はあるのか？経営経験もない人間が毎年途方もない金額を動かし、30年以上成長できない日本。本物の実績のある経営者が日本課題に挑む！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p89/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-273_s3_p31/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251121130000 +0000" stop="20251121140000 +0000">
 		<title>＃12：特別養子縁組で母になった武内由紀子＆ギャル系建設女子</title>
@@ -13389,13 +13398,22 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p112/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251121140000 +0000" stop="20251121143000 +0000">
-		<title>#60：激プレミアさんを連れてきた。</title>
-		<desc>日本が世界に誇る【ジャパニーズ娯楽】
-パチンコ・スロットの楽しさ・魅力を盛山店長とさらば青春の光がバラエティ企画を通して発信する！
+		<title>#60：パチンコ屋さんで勉強してたら司法試験に合格したプレミアさん登場</title>
+		<desc>パチ業界でスゴい実績を持つプレミアさんを招く新企画！
+パチスロをしながら東京大学に現役入学して
+さらに司法試験にも合格！？
+衝撃の勉強方法を持つ男に盛山・さらばが驚嘆！
+
+さらに
+Lパチスロ 革命機ヴァルヴレイヴ2
+新台の全国導入記念企画として
+音楽業界/格闘界/パチスロライター界から
+革命機ヴァルブレイヴをこよなく愛する4名が
+初代の魅力から2になってからの変化まで語り尽くす
 
 
-
-提供：マルハン北日本カンパニー</desc>
+提供：マルハン北日本カンパニー
+提供：株式会社SANKYO</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p99/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251121143000 +0000" stop="20251121150000 +0000">
@@ -13466,12 +13484,7 @@ Love so sweet ＆花男の道明寺の
 迷い続けた関係に答えを見つける恋愛リアリティ番組</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p164/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251123124500 +0000" stop="20251123130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
-	</programme>
-	<programme channel="abema-special" start="20251123130000 +0000" stop="20251123133000 +0000">
+	<programme channel="abema-special" start="20251123124500 +0000" stop="20251123131500 +0000">
 		<title>おしゃれに恋するわたしたち with Lapin #2</title>
 		<desc>石川翔鈴・水戸由菜がドライブデートを楽しむ恋愛ドキュメンタリー。
 お互いを深く知らない男女がおしゃれをして、おしゃれな車で、繰り広げられる恋の行方は・・？
@@ -13484,7 +13497,7 @@ Love so sweet ＆花男の道明寺の
 【提供】スズキ株式会社 （Lapin LC）</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p111/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251123133000 +0000" stop="20251123140000 +0000">
+	<programme channel="abema-special" start="20251123131500 +0000" stop="20251123140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -15493,6 +15506,105 @@ UFOとのコンタクトに挑戦
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!赤いブランド・RAWは火曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s10006_p113/thumb001.png" />
 	</programme>
+	<programme channel="special-plus-2" start="20251116015500 +0000" stop="20251116063500 +0000">
+		<title>MISS KING / ミス・キング #1~7</title>
+		<desc>天才棋士・彰一（中村獅童）を父に持つ飛鳥（のん）。
+母・桂子（奥貫薫）と三人で仲睦まじく暮らしていたが、やがて彰一は「勝利」への執着に囚われ、家族を捨てて家を出て行ってしまう。
+それから23年。桂子は病に倒れ、飛鳥は貧困のなかで孤独に生きていた。
+そんな彼女の目に映ったのは、将棋界で華々しく活躍する父・彰一の姿。
+捨てられた過去、叶わなかった日常、募る憎しみ――。
+抑えきれない感情が限界を迎えたとき、飛鳥は衝撃の行動に出る――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251116063500 +0000" stop="20251116111500 +0000">
+		<title>MISS KING / ミス・キング #1~7</title>
+		<desc>天才棋士・彰一（中村獅童）を父に持つ飛鳥（のん）。
+母・桂子（奥貫薫）と三人で仲睦まじく暮らしていたが、やがて彰一は「勝利」への執着に囚われ、家族を捨てて家を出て行ってしまう。
+それから23年。桂子は病に倒れ、飛鳥は貧困のなかで孤独に生きていた。
+そんな彼女の目に映ったのは、将棋界で華々しく活躍する父・彰一の姿。
+捨てられた過去、叶わなかった日常、募る憎しみ――。
+抑えきれない感情が限界を迎えたとき、飛鳥は衝撃の行動に出る――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251116111500 +0000" stop="20251116131500 +0000">
+		<title>『スナックさざなみ』#44</title>
+		<desc>来店したゲストが、ミッドナイトボートレース予想や、オリジナルボードゲーム、カラオケ企画など、
+様々な企画で大盛りあがり!
+
+さらに、ここでしか見れないゲストのディープな1面も!?
+
+ボートレースを知り尽くした講師のレクチャーを参考にして、みんなで予想してみよう!
+ボートレースの基礎からレース直前の最新情報まで全てをお届け!
+
+【提供】BOATRACE振興会</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-228_s1_p1044/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251116131500 +0000" stop="20251118074500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251118074500 +0000" stop="20251118091500 +0000">
+		<title>『スキャンダルイブ』配信直前プレミアイベント</title>
+		<desc>11/18(火)に開催される『スキャンダルイブ』配信直前プレミアイベントの様子を生中継でお届け！
+
+大手事務所から独立して4年、看板俳優・藤原玖生（浅香航大）を悲願の地上波ドラマ主演にこぎつけた事務所“Rafale”の代表・井岡咲（柴咲コウ）。そんな矢先、井岡の耳に飛び込んできたのは、藤原の「"不倫スキャンダル"が掲載される」という週刊誌からの告知であった。
+記事の執筆者は平田奏（川口春奈）。数多の芸能人のスキャンダルを白日の下に晒してきたあの週刊文潮の記者である。
+記事発売まで、あと72時間。
+スキャンダルの掲載を巡り、事務所と週刊誌の熾烈な争いが火蓋を切る。
+そして、スキャンダルの裏側に隠された新事実は、彼らをより芸能界の深い闇へと引き摺り込んでいく――。
+
+誰かの思惑一つで姿を変える事実、そして次々と明らかになっていく新たな真実。
+芸能スキャンダルの裏側で蠢く思惑は彼女らを一体どこへ導いていくのか。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2042_s10000_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251118091500 +0000" stop="20251118093000 +0000">
+		<title>MISS KING / ミス・キング　#1~7 スペシャルダイジェスト</title>
+		<desc>天才棋士【彰一（中村獅童）】のもとに生まれた【飛鳥（のん）】。
+母と3人、仲睦まじい幼少期を送っていたが、
+ある時彰一は2人を捨てて出ていってしまう。
+母と貧しい生活を送る飛鳥だったが、やがて母も病で他界し、飛鳥は孤独の身となる。
+
+一方、飛鳥を見捨てた彰一は将棋界で成功を収め、脚光を浴びていた。
+その姿に殺意が芽生え、復讐を試みる飛鳥だが、その場で図らずも将棋の才能を発揮する。
+
+飛鳥の才能を見抜いた、元棋士の【藤堂（藤木直人）】は、
+彰一に対して因縁の過去を持っており、共に「将棋で復讐をしよう」と持ちかける。
+飛鳥は、藤堂とその恋人【礼子（倉科カナ）】に支えられながら、
+復讐計画の一つとして、藤堂の指導のもと「史上初の女性棋士」を目指すことにー
+
+しかし、その前に立ちはだかるのは、
+彰一の新たな家族であり、将棋界に絶大な影響力を持つ「結城家」の存在。
+そして、強者たちがひしめく、将棋という伝統と実力の世界。
+
+果たして飛鳥は、いくつもの逆境を乗り越え、
+"史上初の女性棋士"への道を切り拓くことができるのか。
+復讐の先に、彼女が手にするものとはー
+
+これは、憎しみに囚われる一人の女性が、将棋を通じて人生を取り戻していく物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p203/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251118093000 +0000" stop="20251118140000 +0000">
+		<title>第一生命 D.LEAGUE 25-26【ROUND.2】BLOCK VIBE</title>
+		<desc>開幕戦最高得点で悲願の白星を挙げたFULLCAST RAISERZに対戦するのはスター集団SEGA SAMMY LUX！
+勢いを止めたくないRAISERZは熱き炎でトップの座を死守できるのか。
+暫定2位につけるCHANGE RAPTURESは後を追う強敵KADOKAWA DREAMSとの対戦に。
+奇想天外なSHOWを繰り出す2チームは、今宵どんなカードを繰り出すのか要注目です！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-97_s1000_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251118140000 +0000" stop="20251119093000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251119093000 +0000" stop="20251119140000 +0000">
+		<title>第一生命 D.LEAGUE 25-26【ROUND.2】BLOCK HYPE</title>
+		<desc>新星の如く現れ、初代王者avex ROYALBRATSを制した若き精鋭チームLDH SCREAMは、1st MATCHでdip BATTLESとの対戦。
+BATTLESにおいても負けられない一戦。どちらに軍配が上がるのか要注目！
+2年連続開幕戦MVD受賞という快挙を成し遂げたShigekix属するKOSÉ 8ROCKSはList::Xとの対戦。
+そして、昨シーズンからの勢いそのままに好発進のMedical Concierge I’moonは上位キープを死守できるのか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-97_s1000_p4/thumb001.png" />
+	</programme>
 	<programme channel="abema-news" start="20251110150000 +0000" stop="20251110170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
 		<desc>地上波の放送を見逃してしまった場合でも、手元のスマートフォンやタブレットなどで気軽に「報道ステーション」をご覧いただけます。 
@@ -16196,7 +16308,7 @@ UFOとのコンタクトに挑戦
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1562/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251118120000 +0000" stop="20251118130000 +0000">
-		<title>#アベプラ ①岸谷蘭丸,池澤あやか,斎木陽平,松尾潔,南和行</title>
+		<title>#アベプラ ①なぜ私？ロシアに出禁宣告された人／商標トラブル</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6412/thumb001.png" />
 	</programme>
@@ -23439,10 +23551,15 @@ IVE,EVNNE,MADEIN,チョンハ,CIX,ONE PACT,KickFlip,ALL(H)OURS,RESCENE,BLINGONE,
 		<desc>エリックが台所を出て向かった先は無人島?鯛を釣って兄弟に食べさせ、小遣いをもらうことまで夢に見るが...。一方、エリックのいない台所では、ソジニーが初めてのり巻きに挑戦する。台所に座り悲壮感を漂わせてのりを巻く、初心者ソジニーとギュンサン。こののり巻きは次男を笑顔にできるのか?雨でかまどが危機に陥っても続く華やかな料理ショーでは、エリック特製の“練り天スープ”が登場。そして3人の深い話で夜は更ける。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-11_s3_p8/thumb001.png" />
 	</programme>
-	<programme channel="k-world" start="20251119162000 +0000" stop="20251119191000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+	<programme channel="k-world" start="20251119162000 +0000" stop="20251119165500 +0000">
+		<title>マンガな彼氏〜POP OUT BOY!〜 #9〜10(終)</title>
+		<desc>日付と時間が書かれた漫画のシーンを再現することでナムウクが漫画の中に帰れることが分かったソンニョとナムウク。2人はバケットリストを作り、残り少ない日々を楽しく過ごすが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-17_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20251119165500 +0000" stop="20251119191000 +0000">
+		<title>善意の競争 #1〜4</title>
+		<desc>高校生のウ・スルギは地方の児童養護施設で育った。ある日、父親がソウルにいると知り、スルギは引っ越すことに。勉強に励んできたスルギは、ソウルにある名門私立のチェファ女子高に転校する。そこで出会ったのは...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-88_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251119191000 +0000" stop="20251119202500 +0000">
 		<title>花よりおじいさん シーズンⅡ(スペイン編) #7【イ・ソジン出演】</title>
@@ -23519,9 +23636,9 @@ Stray Kids、NCT 127、ENHYPEN、Weeekly、n.SSign、DKB、イ・チェヨン、
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-11_s3_p9/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251120161500 +0000" stop="20251120190500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>善意の競争 #5〜9</title>
+		<desc>スルギはジェイの家に泊まることに。ジェイに心を開き始めていたスルギだったが、ジェイの携帯電話に保存されていた写真を見てショックを受ける。スルギは翌朝、登校してきたジェイを見て教室を出ていってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-88_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251120190500 +0000" stop="20251120202000 +0000">
 		<title>花よりおじいさん シーズンⅡ(スペイン編) #8【イ・ソジン出演】</title>
@@ -23609,9 +23726,9 @@ KとCの2つのプラネットから少年たちが集まり、デビューを�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-11_s3_p10/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251121171000 +0000" stop="20251121190000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>善意の競争 #10〜12</title>
+		<desc>刑事がチェファ女子高にやってくる。学生たちは1人ずつ呼び出され、ボムスの普段の様子などを刑事と校長の前で話す。そんな中、登校したスルギはボムスやボムスの両親と対面することに。ボムスは事件の原因について話し始める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-88_s1_p10/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251121190000 +0000" stop="20251121204000 +0000">
 		<title>花よりおじいさん シーズンIII(ギリシャ編)#1【イ・ソジン,チェ・ジウ出演】</title>
