@@ -136,6 +136,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -148,13 +152,13 @@
 		<display-name>MOTOR SPORTチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
 	</channel>
-	<channel id="world-sports-1">
-		<display-name>SPORTS LIVE1 チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
-	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
+	</channel>
+	<channel id="fighting-sports2">
+		<display-name>格闘 2チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports2/logo.png" />
 	</channel>
 	<channel id="hiphop">
 		<display-name>HIPHOPチャンネル</display-name>
@@ -7672,9 +7676,12 @@ Wapperくんは、なかまとともにかいけつできるのか⁉</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p29/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20251129143700 +0000" stop="20251129144000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 11/29</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p243/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20251129144000 +0000" stop="20251129164000 +0000">
 		<title>映画ドラえもん のび太の海底鬼岩城</title>
@@ -11651,9 +11658,12 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2007_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251129125700 +0000" stop="20251129130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 11/29</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p243/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251129130000 +0000" stop="20251129145000 +0000">
 		<title>スキャンダルイブ #1~2</title>
@@ -11683,17 +11693,18 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-183_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251129180900 +0000" stop="20251129190000 +0000">
-		<title>＃13:井上晴美 26年ぶり人生最後のグラビア＆小学生ホストの今</title>
+		<title>＃12：特別養子縁組で母になった武内由紀子＆ギャル系建設女子</title>
 		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
 「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
 
-元グラビアアイドル 井上晴美51歳
-「カッコいい母の姿を見せたい―」
-26年ぶり人生最後のグラビア撮影に挑戦
+「家族は全員、血は繋がっていない―」
+不妊治療を経て、特別養子縁組で２人の養子を迎えた
+元大阪パフォーマンスドール 武内由紀子
+葛藤を乗り越え深まった家族の絆とは―
 
 さらに
-９年前大炎上した“小学生ホスト”琉ちゃろとその家族の今に密着</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p113/thumb001.png" />
+ギャルすぎると話題の“建築現場”女子に密着</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s2_p112/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251129190000 +0000" stop="20251129205800 +0000">
 		<title>スキャンダルイブ #1~2</title>
@@ -20500,9 +20511,12 @@ KとCの2つのプラネットから少年たちが集まり、デビューを�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-70_s1_p100050/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251129115700 +0000" stop="20251129120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 11/29</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p243/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251129120000 +0000" stop="20251129134500 +0000">
 		<title>ILLIT Debut Showcase 'SUPER REAL ME'</title>
@@ -25838,9 +25852,12 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20251129145700 +0000" stop="20251129150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 11/29</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p243/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20251129150000 +0000" stop="20251129193900 +0000">
 		<title>ALL STAR League 7月11日対局【再放送】</title>
@@ -26233,6 +26250,87 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 「スカッとする一発ツモ」「想像もしない和了ルート」「ビタ止め」など、
 チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251121100000 +0000" stop="20251121170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvsフェニックスvs雷電vsPirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p388/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251121170000 +0000" stop="20251127100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251127100000 +0000" stop="20251127170000 +0000">
+		<title>大和証券 Mリーグ EARTH JETSvsドリブンズvs麻雀格闘倶楽部vs雷電</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p391/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251127170000 +0000" stop="20251128100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251128100000 +0000" stop="20251128170000 +0000">
+		<title>大和証券 Mリーグ JETSvsドリブンズvs風林火山vs麻雀格闘倶楽部</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p393/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251128170000 +0000" stop="20251129125000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251129125000 +0000" stop="20251129150000 +0000">
+		<title>麻雀最強戦2025 ザ・リベンジ【延長枠】</title>
+		<desc>日本で一番麻雀が強い奴は、誰だ!?それを決めるのが麻雀最強戦です。 プロ、アマチュア、それぞれの部門で大会を行いその優勝者が12月のファイナルで集合、真の麻雀日本一が決まります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/68-38_s10001_p15/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251129150000 +0000" stop="20251203030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251203030000 +0000" stop="20251203145000 +0000">
+		<title>第50期最高位決定戦 第1節【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10004_p1/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251203145000 +0000" stop="20251204100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251204100000 +0000" stop="20251204170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvs麻雀格闘倶楽部vsABEMASvsフェニックス</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p398/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251204170000 +0000" stop="20251205100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251205100000 +0000" stop="20251205170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvsサクラナイツvsフェニックスvsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p400/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20251121101600 +0000" stop="20251121192300 +0000">
 		<title>【再】第10期 叡王戦 五番勝負 第5局 伊藤匠叡王 対 斎藤慎太郎八段</title>
@@ -29144,76 +29242,6 @@ https://abema.tv/video/title/634-3
 https://abema.tv/video/title/16-92</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-92_s100_p4/thumb001.png" />
 	</programme>
-	<programme channel="world-sports-1" start="20251121210000 +0000" stop="20251122090000 +0000">
-		<title>S.LEAGUE 25-26 ロングボード第四戦 DAY2</title>
-		<desc>新しく生まれ変わったS.LEAGUEのトップカテゴリ S.ONEの第四戦DAY2。
-ロングボード男子24名、ロングボード女子12名の日本トッププロサーファーがいすみ市太東に集結！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-32_s10004_p2/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20251122090000 +0000" stop="20251129072000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20251129072000 +0000" stop="20251129103000 +0000">
-		<title>【生中継】競泳ジャパンオープン2025 2日目 11.29</title>
-		<desc>競泳ニッポン復活へ！
-世界水泳シンガポールのメダリストをはじめ新たなる競泳ニッポンを牽引する注目選手たちが集結する
-競泳ジャパンオープンを３日間連続ABEMAで無料生中継！
-
-世界水泳シンガポール2025でメダルと獲得した松下知之・渡辺一平・成田実生・村佐達也・梶本一花など
-日本競泳界のエース、ベテラン、そして若き新星が登場。
-競泳ニッポンのトップスイマーたちが集結する国内最高峰の舞台を見逃すな！
-
-＜放送予定＞
-1日目：11/28 16:00~ （解説：入江陵介）
-2日目：11/28 16:20~ （解説：萩野公介）
-3日目：11/28 15:40~ （解説：松田丈志）</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-457_s10000_p2/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20251129103000 +0000" stop="20251130064000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20251130064000 +0000" stop="20251130100000 +0000">
-		<title>【生中継】競泳ジャパンオープン2025 3日目 11.30</title>
-		<desc>競泳ニッポン復活へ！
-世界水泳シンガポールのメダリストをはじめ新たなる競泳ニッポンを牽引する注目選手たちが集結する
-競泳ジャパンオープンを３日間連続ABEMAで無料生中継！
-
-世界水泳シンガポール2025でメダルと獲得した松下知之・渡辺一平・成田実生・村佐達也・梶本一花など
-日本競泳界のエース、ベテラン、そして若き新星が登場。
-競泳ニッポンのトップスイマーたちが集結する国内最高峰の舞台を見逃すな！
-
-＜放送予定＞
-1日目：11/28 16:00~ （解説：入江陵介）
-2日目：11/28 16:20~ （解説：萩野公介）
-3日目：11/28 15:40~ （解説：松田丈志）</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-457_s10000_p3/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20251130100000 +0000" stop="20251204210000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20251204210000 +0000" stop="20251205090000 +0000">
-		<title>S.LEAGUE 25-26 ショートボード第三戦 DAY1</title>
-		<desc>新しく生まれ変わったS.LEAGUEのトップカテゴリ S.ONEの第三戦DAY1。
-ショートボード男子36名、ショートボード女子18名の日本トッププロサーファーが千葉県鴨川市に集結！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-32_s10005_p1/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20251205090000 +0000" stop="20251205210000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20251205210000 +0000" stop="20251206090000 +0000">
-		<title>S.LEAGUE 25-26 ショートボード第三戦 DAY2</title>
-		<desc>新しく生まれ変わったS.LEAGUEのトップカテゴリ S.ONEの第三戦DAY2。
-ショートボード男子36名、ショートボード女子18名の日本トッププロサーファーが千葉県鴨川市に集結！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/145-32_s10005_p2/thumb001.png" />
-	</programme>
 	<programme channel="fighting-sports" start="20251121133000 +0000" stop="20251121162500 +0000">
 		<title>殴り合い上等! 安保瑠輝也 ベストバウト</title>
 		<desc>第4代K-1 WORLD GPスーパー・ライト級王者 安保瑠輝也
@@ -30827,6 +30855,47 @@ vs ジョン・へジン</desc>
 		<title>WWE　SMACKDOWN &amp; ABEMA #114</title>
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10006_p114/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports2" start="20251129115000 +0000" stop="20251129130000 +0000">
+		<title>Krush.182</title>
+		<desc>超攻撃型打撃格闘技「Krush」2025年11月29日後楽園ホールで行われる「Krush.182」の模様を生中継！
+
+Krushライト級タイトルマッチ/3分3R・延長1R
+大岩 龍矢 vs 篠原 悠人
+
+Krushスーパー・バンタム級タイトルマッチ/3分3R・延長1R
+璃明武 vs 村田 健悟
+
+Krushバンタム級/3分3R・延長1R
+長野 翔 vs 菊地 海斗
+
+Krushライト級/3分3R・延長1R
+友尊 vs 堀井 翼
+
+Krushフェザー級/3分3R・延長1R
+健介 vs 川森 悠人
+
+Krushスーパー・バンタム級/3分3R・延長1R
+遥心 vs 一志
+
+Krushスーパー・バンタム級/3分3R・延長1R
+豊田 優輝 vs 光佑
+
+Krushバンタム級/3分3R・延長1R
+心直 vs 大平 龍
+
+Krushフェザー級/3分3R・延長1R
+長野 龍生 vs 龍翔
+
+プレリミナリーファイト/Krush女子アトム級/2分3R
+藤井 杏朱 vs MOMOKA
+
+プレリミナリーファイト/Krushスーパー・フェザー級/3分3R
+安 晟太 vs 瑠唯
+
+プレリミナリーファイト/Krushフェザー級/3分3R
+岩上 行統 vs 北川原 稜磨</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-148_s10013_p2/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20251121140000 +0000" stop="20251121153000 +0000">
 		<title>BADHOP1000万1週間生活 緊急SP：#1~2</title>
