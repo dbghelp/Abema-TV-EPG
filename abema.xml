@@ -136,6 +136,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -2261,7 +2265,7 @@ S級ヒーロー達が集まり、
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
 	</programme>
-	<programme channel="abema-anime" start="20251209180000 +0000" stop="20251209183000 +0000">
+	<programme channel="abema-anime" start="20251209180000 +0000" stop="20251209180500 +0000">
 		<title>#神奈川に住んでるエルフ #1【最新話】</title>
 		<desc>かつて住処の森を焼かれたエルフたちは──
 「神奈川」に住んでいた。
@@ -11555,12 +11559,17 @@ _______________
  最強ギャル男が登場</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p141/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251207120000 +0000" stop="20251207130000 +0000">
+	<programme channel="abema-special" start="20251207120000 +0000" stop="20251207124500 +0000">
 		<title>隣の恋は青く見える -Chapter TOKYO-</title>
 		<desc>復縁か、別れか、新しい恋か。
 悩めるカップルたちが禁断の”浮気”生活を通じて、
 迷い続けた関係に答えを見つける恋愛リアリティ番組</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p101/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251207124500 +0000" stop="20251207130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20251207130000 +0000" stop="20251207133000 +0000">
 		<title>おしゃれに恋するわたしたち with Lapin #3</title>
@@ -13685,7 +13694,7 @@ UFOとのコンタクトに挑戦
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-155_s0_p283/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251203030000 +0000" stop="20251203040000 +0000">
-		<title>わたしとニュース～そのモヤモヤ、話せば世界が晴れるかも。～</title>
+		<title>わたしとニュース 総理の働き方/旧姓使用法制化？ #モヤハレ</title>
 		<desc>ニュースをもっと、身近に。
 日常で感じる「これって何で？」「ちょっと変だな」-そんなモヤモヤが、実はニュースの入り口かもしれません。社会や政治、そして暮らしの中の違和感をわたしたちの視点で語り尽くす新感覚の共感型ニュース番組。～そのモヤモヤ、話せば世界が晴れるかも。～</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-157_s0_p18/thumb001.png" />
@@ -21437,9 +21446,9 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-66_s1_p7/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20251204075500 +0000" stop="20251204084000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png" />
+		<title>第３報 隠蔽されたスキャンダル／スキャンダルイブ</title>
+		<desc>賠償請求・ドラマの降板を免れ歓喜する咲たちをよそに、奏は独自に取材を進めていく。そして、明らかになったのは大手事務所によって隠蔽されていた新たなスキャンダルの存在だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2042_s1_p33/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20251204084000 +0000" stop="20251204093000 +0000">
 		<title>探偵が早すぎる 〜春のトリック返し祭り〜 第4話</title>
@@ -21544,9 +21553,9 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-66_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20251205080400 +0000" stop="20251205084500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png" />
+		<title>第３報 隠蔽されたスキャンダル／スキャンダルイブ</title>
+		<desc>賠償請求・ドラマの降板を免れ歓喜する咲たちをよそに、奏は独自に取材を進めていく。そして、明らかになったのは大手事務所によって隠蔽されていた新たなスキャンダルの存在だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2042_s1_p33/thumb001.png" />
 	</programme>
 	<programme channel="drama" start="20251205084500 +0000" stop="20251205093500 +0000">
 		<title>探偵が早すぎる 〜春のトリック返し祭り〜 第5話</title>
@@ -24995,6 +25004,85 @@ A卓、B卓に分かれまずは各卓上位2名が決勝に進出。その後�
 「スカッとする一発ツモ」「想像もしない和了ルート」「ビタ止め」など、
 チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251127100000 +0000" stop="20251127170000 +0000">
+		<title>大和証券 Mリーグ EARTH JETSvsドリブンズvs麻雀格闘倶楽部vs雷電</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p391/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251127170000 +0000" stop="20251128100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251128100000 +0000" stop="20251128170000 +0000">
+		<title>大和証券 Mリーグ JETSvsドリブンズvs風林火山vs麻雀格闘倶楽部</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p393/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251128170000 +0000" stop="20251129125000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251129125000 +0000" stop="20251129150000 +0000">
+		<title>麻雀最強戦2025 ザ・リベンジ【延長枠】</title>
+		<desc>日本で一番麻雀が強い奴は、誰だ!?それを決めるのが麻雀最強戦です。 プロ、アマチュア、それぞれの部門で大会を行いその優勝者が12月のファイナルで集合、真の麻雀日本一が決まります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/68-38_s10001_p15/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251129150000 +0000" stop="20251203030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251203030000 +0000" stop="20251203145000 +0000">
+		<title>第50期最高位決定戦 第1節【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10004_p1/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251203145000 +0000" stop="20251204100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251204100000 +0000" stop="20251204170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvs麻雀格闘倶楽部vsABEMASvsフェニックス</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p398/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251204170000 +0000" stop="20251205100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251205100000 +0000" stop="20251205170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvsサクラナイツvsフェニックスvsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p400/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251205170000 +0000" stop="20251210030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251210030000 +0000" stop="20251210145000 +0000">
+		<title>第50期最高位決定戦 第2節【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10004_p2/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20251125092700 +0000" stop="20251125190100 +0000">
 		<title>【再】第96期ヒューリック杯棋聖戦五番勝負第3局 藤井聡太棋聖 対 杉本和陽六段</title>
@@ -31631,7 +31719,7 @@ http://winticket.jp/keirin/matsudo/racecard/2025120231?index=2</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-3_s1_p2441/thumb001.png" />
 	</programme>
 	<programme channel="keirin-auto" start="20251203113000 +0000" stop="20251203150000 +0000">
-		<title>WINTICKET ミッドナイト競輪 岸和田 F2 初日</title>
+		<title>WINTICKET ミッドナイト競輪 岸和田 競輪メシはmenu！WT杯 初日</title>
 		<desc>いつでもどこでも楽しめる夜のエンターテイメント
 「ミッドナイト競輪」
 
@@ -31738,7 +31826,7 @@ http://winticket.jp/keirin/matsudo/racecard/2025120231?index=3</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-3_s1_p2442/thumb001.png" />
 	</programme>
 	<programme channel="keirin-auto" start="20251204113000 +0000" stop="20251204150000 +0000">
-		<title>WINTICKET ミッドナイト競輪 岸和田 F2 第2日</title>
+		<title>WINTICKET ミッドナイト競輪 岸和田 競輪メシはmenu！WT杯 第2日</title>
 		<desc>いつでもどこでも楽しめる夜のエンターテイメント
 「ミッドナイト競輪」
 
@@ -31845,7 +31933,7 @@ https://www.winticket.jp/keirin/matsusaka/racecard/2025120547?index=1</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-3_s1_p2443/thumb001.png" />
 	</programme>
 	<programme channel="keirin-auto" start="20251205113000 +0000" stop="20251205150000 +0000">
-		<title>WINTICKET ミッドナイト競輪 岸和田 F2 最終日</title>
+		<title>WINTICKET ミッドナイト競輪 岸和田 競輪メシはmenu！WT杯 最終日</title>
 		<desc>いつでもどこでも楽しめる夜のエンターテイメント
 「ミッドナイト競輪」
 
