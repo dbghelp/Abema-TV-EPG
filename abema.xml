@@ -136,6 +136,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -1377,7 +1381,7 @@
 さらに、大きな期待を寄せられた新世代・信「飛信隊」、蒙恬（もうてん）「楽華隊（がくかたい）」、王賁（おうほん）「玉鳳隊（ぎょくほうたい）」が独立遊軍としてこれに加わる。
 
 鄴をめぐる熾烈な戦いがいよいよ幕を開ける！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p68/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-2_s6_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251205140000 +0000" stop="20251205143000 +0000">
 		<title>ポケットモンスター 新シリーズ #120【最新話】</title>
@@ -1393,7 +1397,7 @@
 ふたりを待ち受ける出会い、そして運命とは―！？
 
 これは、冒険を通じて大事な何かを「見つける」物語。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p36/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-14_s10_p120/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251205143000 +0000" stop="20251205150000 +0000">
 		<title>野原ひろし 昼メシの流儀 #10【最新話】</title>
@@ -1401,12 +1405,12 @@
 父・野原ひろし(35)の束の間の息抜き＝昼メシを、限られたお小遣いと時間の中で
 こだわりにこだわり抜く姿を描く。普段はあまり見ることのできない働く男・野原ひろしの昼ドキの顔！
 はたして、どんな「昼メシ」が登場するのか！？そして、ひろしが大事にする「流儀」とは・・・</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p3/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-132_s1_p10/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251205150000 +0000" stop="20251205153000 +0000">
 		<title>桃源暗鬼 #21【最新話】</title>
 		<desc>「お前は鬼の血を継いでいる……」　 一部の人間に脈々と受け継がれる「鬼」と「桃太郎」の血。 はるか昔、自らの凶暴性を自覚するが故にひっそりと暮らしていた「鬼」だったが、 そこに「桃太郎」が攻め入った。 それぞれが「桃太郎機関」「鬼機関」を組織し、抗争すること何千年。 突然の“桃太郎”の襲撃で、自分が“鬼”だと知る主人公・一ノ瀬四季。 自らの血に棲む“鬼”と出逢った四季の宿命とは———。 ———新世代ダークヒーロー鬼譚、ここに開幕!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p12/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-7_s1_p21/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251205153000 +0000" stop="20251205160000 +0000">
 		<title>最後にひとつだけお願いしてもよろしいでしょうか #10【最新話】</title>
@@ -1424,29 +1428,19 @@
 
 見目麗しき公爵令嬢スカーレットが“拳”を握り、舞い踊る！！
 
-シリーズ累計187万部突破の人気作がTVアニメ化！
+シリーズ累計200万部突破の人気作がTVアニメ化！
 武闘派令嬢のスカッと痛快ファンタジー、ここに開幕！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p52/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-253_s1_p10/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251205160000 +0000" stop="20251205163000 +0000">
 		<title>機械じかけのマリー #9【最新話】</title>
-		<desc>「ついに完成いたしました。機械人形(ロボットメイド)のマリーです」
-
-元天才格闘家の少女・マリーは人間としての身分を隠し、人間嫌いの大財閥の御曹司・アーサーの屋敷に“機械人形(ロボットメイド)”として働くことになったが・・・
-
-──正体がバレれば即処刑！？
-
-“機械人形(ロボットメイド)”として、持ち前の無表情を活かして職務を全うし、
-アーサーの命を狙い襲い来る暗殺者から彼を守るため奮闘する。
-しかし、マリーを溺愛するアーサーに人間だとバレるピンチも訪れ、日々ヒヤヒヤ、ドキドキ！
-
-嘘から始まる主従関係が、やがて思いがけない恋へと発展していく。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p69/thumb001.png" />
+		<desc>今日は秋祭り。体育祭から距離が縮まったアーサーファンクラブの面々と、友達として花火を一緒に見たいと考えていたマリーは、ノアも巻き込みあれこれと作戦を決行するが、ほとんどが裏目に出てしまう。あげく、クラスの皆に花火を見せるため、花瓶を割った犯人の代わりに名乗り出るが、ノアが真犯人を成敗し、屋上へとマリーを連れていく。勇気を出して声をかけたマリーに対し、ファンクラブの面々は、友達にはなれない。だけどライバルにならなってあげる！と返し、仲良くなることに成功するのだった。その夜、マリーが落とした過去の記事を、アーサーが偶然拾ってしまう。そこには、マリーが人間だという動かぬ証拠が載っていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/189-85_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251205163000 +0000" stop="20251205170000 +0000">
 		<title>キミと越えて恋になる #8【最新話】</title>
 		<desc>20XX年、獣人と人間が共存する町に住む高校生・朝霞万理のクラスに、獣人の特例生としてやってきた飛高繋。万理は、初めて接する獣人という存在に戸惑いながらも、クラスメイトとして一緒に過ごすうち、優しくて純粋な繋の魅力に気付き──。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p25/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/750-3_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251205170000 +0000" stop="20251205173000 +0000">
 		<title>ちゃんと吸えない吸血鬼ちゃん #8【最新話】</title>
@@ -1459,7 +1453,7 @@
 実は血を吸うのがめっちゃ下手！？
 
 あなたもきっと、“ママ”になる――新感覚甘やかし餌付けコメディ！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p81/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-304_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251205173000 +0000" stop="20251205174500 +0000">
 		<title>ポーション、わが身を助ける #10【最新話】</title>
@@ -1477,12 +1471,12 @@
 
 いつか日本へ帰ることを望みながら
 女子高生の異世界での奮闘は続いていく―</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p54/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-111_s1_p10/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251205174500 +0000" stop="20251205181500 +0000">
 		<title>さわらないで小手指くん+ミニアニメ #9【最新話】</title>
 		<desc>小手指向陽・高校１年生。特技は、気持ちよくさせすぎちゃう超絶マッサージ！！学費を稼ぐため、スポーツ強豪校・星和大付属高校の寮の管理人となった向陽。そこで出会ったのは、曲者揃いの美少女アスリート達だった！医学部特待をGETするため、向陽は彼女達の「心身のケア」に勤しむことに！　過激すぎるのに、尊すぎる……！？　新時代のマッサージラブコメ、ここに悶絶！！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p72/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/643-15_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251205181500 +0000" stop="20251205182400 +0000">
 		<title>SEALOOK（シールック）#9【最新話】</title>
@@ -1490,12 +1484,12 @@
 没入型3D観察アニメーション『SEALOOK（シールック）』。
 のんびり揺れるアザラシたちの癒し系コメディ。
 忙しい日常に優しい癒しを届けます。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p71/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/204-20_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251205182400 +0000" stop="20251205183000 +0000">
 		<title>ぬいストーリー2 #59【最新話】</title>
 		<desc>自由奔放なぬいぐるみたちとミチコ（ギャル）の不思議な共同生活がますます賑やかに！推し活に精を出すわたあめ、食い意地がすごいいぬぱん、見た目は赤ちゃんなチェリーたちが君についてるぜ！制作は江古田の個人アニメチームPiso Studioが監督、脚本、キャラクターデザイン、声の出演に至るまでほぼ2人で担当！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p27/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-97_s2_p59/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251205183000 +0000" stop="20251205223000 +0000">
 		<title>転生悪女の黒歴史 #1〜8【無料ビデオ1週間】</title>
@@ -1523,12 +1517,12 @@
 ふたりを待ち受ける出会い、そして運命とは―！？
 
 これは、冒険を通じて大事な何かを「見つける」物語。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p36/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-14_s10_p120/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251206013000 +0000" stop="20251206020000 +0000">
 		<title>桃源暗鬼 #21・見逃し放送</title>
 		<desc>「お前は鬼の血を継いでいる……」　 一部の人間に脈々と受け継がれる「鬼」と「桃太郎」の血。 はるか昔、自らの凶暴性を自覚するが故にひっそりと暮らしていた「鬼」だったが、 そこに「桃太郎」が攻め入った。 それぞれが「桃太郎機関」「鬼機関」を組織し、抗争すること何千年。 突然の“桃太郎”の襲撃で、自分が“鬼”だと知る主人公・一ノ瀬四季。 自らの血に棲む“鬼”と出逢った四季の宿命とは———。 ———新世代ダークヒーロー鬼譚、ここに開幕!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p12/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-7_s1_p21/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251206020000 +0000" stop="20251206021500 +0000">
 		<title>ポーション、わが身を助ける #10・見逃し放送</title>
@@ -1546,7 +1540,7 @@
 
 いつか日本へ帰ることを望みながら
 女子高生の異世界での奮闘は続いていく―</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p54/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-111_s1_p10/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251206021500 +0000" stop="20251206023000 +0000">
 		<title>いくだもも！そびー #1〜3</title>
@@ -1569,9 +1563,9 @@
 
 見目麗しき公爵令嬢スカーレットが“拳”を握り、舞い踊る！！
 
-シリーズ累計187万部突破の人気作がTVアニメ化！
+シリーズ累計200万部突破の人気作がTVアニメ化！
 武闘派令嬢のスカッと痛快ファンタジー、ここに開幕！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p52/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-253_s1_p10/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251206030000 +0000" stop="20251206073000 +0000">
 		<title>No programme</title>
@@ -1580,23 +1574,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20251206073000 +0000" stop="20251206123000 +0000">
 		<title>最後にひとつだけお願いしてもよろしいでしょうか #1〜10【無料ビデオ1週間】</title>
-		<desc>舞踏会での婚約破棄。
-それはよくある“悪役令嬢”への断罪シーンとなるはずでした ――
-
-舞踏会の最中、婚約をしていた第二王子・カイルから、
-いきなり理不尽な婚約破棄を告げられた公爵令嬢・スカーレット。
-さらには“新しい婚約者”がいると告げられ、ありもしない罪まで着せられてしまう。
-幼少期から続いていたカイルの数々の嫌がらせにも
-“婚約者”ということで耐え続けてきたが、ついに我慢の限界を迎えてしまい…
-
-「私の最後のお願いです。
-このクソアマをブッ飛ばしてもよろしいですか？」
-
-見目麗しき公爵令嬢スカーレットが“拳”を握り、舞い踊る！！
-
-シリーズ累計187万部突破の人気作がTVアニメ化！
-武闘派令嬢のスカッと痛快ファンタジー、ここに開幕！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p52/thumb001.png" />
+		<desc>見目麗しき公爵令嬢のスカーレットは、婚約者である第二王子カイルから理不尽な婚約破棄を言い渡されてしまう。新たな婚約者も登場し、散々な濡れ衣を着せられ“悪役令嬢”と罵られるスカーレット。しかし彼女は、ただ断罪されるだけの悪役令嬢ではなかった。「私の最後のお願いです。このクソアマをブッ飛ばしてもよろしいですか？」――彼女は“拳”を握り、目の前の腹立たしい悪徳貴族たちに立ち向かう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-253_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20251206123000 +0000" stop="20251206125700 +0000">
 		<title>僕のヒーローアカデミア FINAL SEASON #169【最新話】</title>
@@ -2024,7 +2003,22 @@ S級ヒーロー達が集まり、
 ――極上の物語を召し上がれ！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p63/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20251207190000 +0000" stop="20251209180000 +0000">
+	<programme channel="abema-anime" start="20251207190000 +0000" stop="20251208010000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251208010000 +0000" stop="20251208053000 +0000">
+		<title>機械じかけのマリー #1〜9【無料ビデオ1週間】</title>
+		<desc>大財閥の御曹司であるアーサーは、幼い頃から命を狙われ続けてきたため、極度の人間不信におちいっていた。そんなアーサーの元にやってきたのは、機械人形（ロボットメイド）のマリー。鉄のような無表情で身辺警護をこなす、完全無欠のロボットのように見える彼女だが、実は、執事のロイによって雇われた、人間の女の子だったのだ。天才格闘家として活躍した経験と、生来の無表情さでロボットを演じているマリーだが、そんな事とはつゆ知らず、子供のようにはしゃぐアーサー。そんなアーサーの意外な一面を知ったマリーは、不思議な気持ちを感じ始めていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/189-85_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251208053000 +0000" stop="20251208103000 +0000">
+		<title>野原ひろし 昼メシの流儀 #1〜10</title>
+		<desc>「カレーの流儀」野原ひろし、35歳。双葉商事の営業第二課で働くサラリーマン。営業のプロであり、昼メシのプロでもあるひろしは、限られた時間とお小遣いから最高の昼メシを導き出す。そんな今日の昼メシは、取引先に向かう途中で漂ってきた匂いで決めたみんなが大好きなカレー！ 男らしく食べる“カレーの流儀”とは？／「マグロ丼の流儀」後輩・川口が大型の契約を成立させ、そのお祝いにランチを奢ることになったひろし。先輩としての尊厳を守るため向かったのは、新鮮でかつお財布に優しいワンコインで食べられる海鮮丼のお店。先輩としてみせる“マグロ丼の流儀”とは？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-132_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251208103000 +0000" stop="20251209180000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
@@ -2042,6 +2036,16 @@ S級ヒーロー達が集まり、
 すっかり現代日本に馴染んだ「神奈川県に住んでるエルフ」たちが織りなす、
 地元愛溢れる、現代ファンタジーコメディ！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p85/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251209180500 +0000" stop="20251211130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	</programme>
+	<programme channel="abema-anime" start="20251211130000 +0000" stop="20251211133000 +0000">
+		<title>桃源暗鬼 #21・見逃し放送</title>
+		<desc>「お前は鬼の血を継いでいる……」　 一部の人間に脈々と受け継がれる「鬼」と「桃太郎」の血。 はるか昔、自らの凶暴性を自覚するが故にひっそりと暮らしていた「鬼」だったが、 そこに「桃太郎」が攻め入った。 それぞれが「桃太郎機関」「鬼機関」を組織し、抗争すること何千年。 突然の“桃太郎”の襲撃で、自分が“鬼”だと知る主人公・一ノ瀬四季。 自らの血に棲む“鬼”と出逢った四季の宿命とは———。 ———新世代ダークヒーロー鬼譚、ここに開幕!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-7_s1_p21/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20251126100000 +0000" stop="20251126220000 +0000">
 		<title>ONE OUTS #1〜25【無料ビデオ1週間】</title>
@@ -2314,9 +2318,12 @@ A組メンバーは早速遊び始めるが、雄英生それぞれのカード�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-69_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20251205100000 +0000" stop="20251205160000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png" />
+		<title>チェンソーマン #1〜12【無料ビデオ1週間】</title>
+		<desc>デビルハンターとして暮らす少年デンジ。
+親が遺した借金返済のため、『チェンソーの悪魔』ポチタと共にヤクザから受けた依頼をこなしながら貧乏な生活を送っていた。
+
+ある日、ヤクザに呼び出されたデンジは裏切りに遭い、殺されてしまう。薄れる意識の中、デンジに語り掛けるものが居た。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/536-3_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20251205160000 +0000" stop="20251205220000 +0000">
 		<title>僕のヒーローアカデミア 第1期 #1〜13【無料ビデオ1週間】</title>
@@ -2324,9 +2331,12 @@ A組メンバーは早速遊び始めるが、雄英生それぞれのカード�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s0_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20251205220000 +0000" stop="20251206040000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png" />
+		<title>チェンソーマン #1〜12【無料ビデオ1週間】</title>
+		<desc>デビルハンターとして暮らす少年デンジ。
+親が遺した借金返済のため、『チェンソーの悪魔』ポチタと共にヤクザから受けた依頼をこなしながら貧乏な生活を送っていた。
+
+ある日、ヤクザに呼び出されたデンジは裏切りに遭い、殺されてしまう。薄れる意識の中、デンジに語り掛けるものが居た。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/536-3_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20251206040000 +0000" stop="20251206083000 +0000">
 		<title>僕のヒーローアカデミア FINAL SEASON #160〜168</title>
@@ -2374,6 +2384,16 @@ A組メンバーは早速遊び始めるが、雄英生それぞれのカード�
 		<desc>春の園遊会も無事に終わり、猫猫は玉葉妃の毒見役としての日常へふたたび戻っていた。そんな中、後宮では大衆小説が大流行。あまり上品な娯楽として扱われない小説の流行を不思議に思う猫猫だったが、そこには壬氏の後宮管理人としての狙いがあった。
 そして春の陽気の中、玉葉妃の娘・鈴麗公主の散歩の付き添いへと出かけると、突然小さな珍客が現れて……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-174_s2_p25/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20251208100000 +0000" stop="20251210210000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20251210210000 +0000" stop="20251210213000 +0000">
+		<title>桃源暗鬼 #21・見逃し放送</title>
+		<desc>「お前は鬼の血を継いでいる……」　 一部の人間に脈々と受け継がれる「鬼」と「桃太郎」の血。 はるか昔、自らの凶暴性を自覚するが故にひっそりと暮らしていた「鬼」だったが、 そこに「桃太郎」が攻め入った。 それぞれが「桃太郎機関」「鬼機関」を組織し、抗争すること何千年。 突然の“桃太郎”の襲撃で、自分が“鬼”だと知る主人公・一ノ瀬四季。 自らの血に棲む“鬼”と出逢った四季の宿命とは———。 ———新世代ダークヒーロー鬼譚、ここに開幕!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-7_s1_p21/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-3" start="20251126150000 +0000" stop="20251126200000 +0000">
 		<title>無職の英雄 #1〜10</title>
@@ -2632,18 +2652,20 @@ A組メンバーは早速遊び始めるが、雄英生それぞれのカード�
 		<desc>魔物を喰らうことから「悪食令嬢」と噂され、他の貴族から避けられているマーシャルレイド伯爵家の令嬢・メルフィエラ。婚約者を探すために参加した遊宴会で、彼女は狂化した魔獣に襲われてしまう。この絶体絶命な危機を救ったのは、「狂血公爵」の異名を持つガルブレイス公爵だった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-279_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime-3" start="20251206193000 +0000" stop="20251207063000 +0000">
+	<programme channel="abema-anime-3" start="20251206193000 +0000" stop="20251207020000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png" />
 	</programme>
+	<programme channel="abema-anime-3" start="20251207020000 +0000" stop="20251207063000 +0000">
+		<title>機械じかけのマリー #1〜9【無料ビデオ1週間】</title>
+		<desc>大財閥の御曹司であるアーサーは、幼い頃から命を狙われ続けてきたため、極度の人間不信におちいっていた。そんなアーサーの元にやってきたのは、機械人形（ロボットメイド）のマリー。鉄のような無表情で身辺警護をこなす、完全無欠のロボットのように見える彼女だが、実は、執事のロイによって雇われた、人間の女の子だったのだ。天才格闘家として活躍した経験と、生来の無表情さでロボットを演じているマリーだが、そんな事とはつゆ知らず、子供のようにはしゃぐアーサー。そんなアーサーの意外な一面を知ったマリーは、不思議な気持ちを感じ始めていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/189-85_s1_p1/thumb001.png" />
+	</programme>
 	<programme channel="abema-anime-3" start="20251207063000 +0000" stop="20251207113000 +0000">
 		<title>野原ひろし 昼メシの流儀 #1〜10</title>
-		<desc>国民的キャラクター漫画「クレヨンしんちゃん」の公式スピンオフアニメとして、
-父・野原ひろし(35)の束の間の息抜き＝昼メシを、限られたお小遣いと時間の中で
-こだわりにこだわり抜く姿を描く。普段はあまり見ることのできない働く男・野原ひろしの昼ドキの顔！
-はたして、どんな「昼メシ」が登場するのか！？そして、ひろしが大事にする「流儀」とは・・・</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p3/thumb001.png" />
+		<desc>「カレーの流儀」野原ひろし、35歳。双葉商事の営業第二課で働くサラリーマン。営業のプロであり、昼メシのプロでもあるひろしは、限られた時間とお小遣いから最高の昼メシを導き出す。そんな今日の昼メシは、取引先に向かう途中で漂ってきた匂いで決めたみんなが大好きなカレー！ 男らしく食べる“カレーの流儀”とは？／「マグロ丼の流儀」後輩・川口が大型の契約を成立させ、そのお祝いにランチを奢ることになったひろし。先輩としての尊厳を守るため向かったのは、新鮮でかつお財布に優しいワンコインで食べられる海鮮丼のお店。先輩としてみせる“マグロ丼の流儀”とは？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-132_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-3" start="20251207113000 +0000" stop="20251207160000 +0000">
 		<title>父は英雄、母は精霊、娘の私は転生者。#1〜9【無料ビデオ1週間】</title>
@@ -2662,10 +2684,15 @@ A組メンバーは早速遊び始めるが、雄英生それぞれのカード�
 最強才女の痛快舌戦ファンタジー！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p73/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime-3" start="20251207160000 +0000" stop="20251208060000 +0000">
+	<programme channel="abema-anime-3" start="20251207160000 +0000" stop="20251207193000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png" />
+	</programme>
+	<programme channel="abema-anime-3" start="20251207193000 +0000" stop="20251208060000 +0000">
+		<title>ふたりソロキャンプ #1〜21【無料ビデオ1週間】</title>
+		<desc>樹乃倉厳、34歳。趣味はソロキャンプ。この日も電車とバスを乗り継ぎ、徒歩でキャンプ場に入り、テントを張って、自分で集めた薪で焚き火をしていた。陽が沈み、静かになったキャンプ場。ここから独りだけの時間を楽しもうとしていた厳の前に、突然、見知らぬ女性が現れた。草野雫、20歳。初のソロキャンプだったが、道に迷い到着が遅れたことで、レンタル予定だったテントも借りられない……。そんな雫に、自然の厳しさを知る厳は「帰れ」ときびしく言い放つ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/189-83_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-3" start="20251208060000 +0000" stop="20251208110000 +0000">
 		<title>アルマちゃんは家族になりたい #1〜10【無料ビデオ2週間】</title>
@@ -2686,8 +2713,8 @@ A組メンバーは早速遊び始めるが、雄英生それぞれのカード�
 	</programme>
 	<programme channel="abema-anime-3" start="20251209203000 +0000" stop="20251210063000 +0000">
 		<title>桃源暗鬼 #1〜21</title>
-		<desc>「お前は鬼の血を継いでいる……」　 一部の人間に脈々と受け継がれる「鬼」と「桃太郎」の血。 はるか昔、自らの凶暴性を自覚するが故にひっそりと暮らしていた「鬼」だったが、 そこに「桃太郎」が攻め入った。 それぞれが「桃太郎機関」「鬼機関」を組織し、抗争すること何千年。 突然の“桃太郎”の襲撃で、自分が“鬼”だと知る主人公・一ノ瀬四季。 自らの血に棲む“鬼”と出逢った四季の宿命とは———。 ———新世代ダークヒーロー鬼譚、ここに開幕!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p12/thumb001.png" />
+		<desc>突如、謎の男に襲われた一ノ瀬四季。養父の剛志に連れられて逃げる中、出生の秘密を告げられる。実は四季は“鬼”の血を継ぐ存在であり、“桃太郎”の血を継ぐ者たち“桃太郎機関”に狙われているのだと――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-7_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="special-plus-7" start="20251128110000 +0000" stop="20251128170000 +0000">
 		<title>吸血鬼すぐ死ぬ #1〜12【無料ビデオ1週間】</title>
@@ -5131,9 +5158,12 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-262_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20251204125700 +0000" stop="20251204130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
+		<title>ダイキン空気予報 12/4</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p248/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20251204130000 +0000" stop="20251204143000 +0000">
 		<title>声優と夜あそび 木【小野賢章×花江夏樹】#26大久保瑠美がゲストに登場！</title>
@@ -5217,12 +5247,18 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 皆さんが“気になる”であろう、斉藤さん自身についての質問にもお答えしていきます。
 週末の夜、気になる事をどんどん共有して、
 ちょっとだけ不思議な時間を過ごしませんか?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p70/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/390-7_s1_p258/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20251205160000 +0000" stop="20251205163000 +0000">
 		<title>鈴村健一のラジベース #193</title>
-		<desc>鈴村健一さんの1人しゃべり生放送番組「鈴村健一のラジベース」！その名の通り、鈴村健一がラジオの基本（ベース）に立ち返ってお送りするラジオラジオしたラジオ。つまりRADIO of RADIOを目指す1時間の生放送！ネタコーナーも、真面目コーナーも全部が本気！形だけの着飾りトークや、単なる逆張りトークに疲れたあなた！久々に真っ正面のラジオを体験しませんか？メッセージもつぶやきも、めちゃめちゃ待ってます！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p5/thumb001.png" />
+		<desc>鈴村健一さんの1人しゃべり番組「鈴村健一のラジベース」！
+その名の通り、鈴村健一がラジオの基本（ベース）に立ち返ってお送りするラジオラジオしたラジオ。
+つまりRADIO of RADIOを目指す30分！
+ネタコーナーも、真面目コーナーも全部が本気！
+形だけの着飾りトークや、単なる逆張りトークに疲れたあなた！　
+久々に真っ正面のラジオを体験しませんか？
+メッセージもつぶやきも、めちゃめちゃ待ってます！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-533_s1_p1193/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20251205163000 +0000" stop="20251205170000 +0000">
 		<title>小林千晃のPARTY×PARTY #35</title>
@@ -6202,8 +6238,19 @@ Wapperくんは、なかまとともにかいけつできるのか⁉</desc>
 	</programme>
 	<programme channel="pokemon-2" start="20251206130000 +0000" stop="20251206133000 +0000">
 		<title>ポケットモンスター 新シリーズ #120・見逃し放送</title>
-		<desc>-</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/111-1yyirbkzgnz_s2_p693/thumb001.png" />
+		<desc>ポケットモンスター、縮めてポケモン。
+この星の不思議な不思議な生き物。
+空、海、森、街の中と至る所でその姿を見ることができる。
+
+不思議なペンダントを持つパルデア出身の少女、リコ。
+謎のモンスターボールを持つカントー出身の少年、ロイ。
+
+広大なポケットモンスターの世界を舞台に
+リコとロイの新たな冒険が始まる！
+ふたりを待ち受ける出会い、そして運命とは―！？
+
+これは、冒険を通じて大事な何かを「見つける」物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-14_s10_p120/thumb001.png" />
 	</programme>
 	<programme channel="pokemon-2" start="20251206133000 +0000" stop="20251206180000 +0000">
 		<title>ポケットモンスターXY #48〜57【無料ビデオ1週間】</title>
@@ -7081,9 +7128,12 @@ Wapperくんは、なかまとともにかいけつできるのか⁉</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p5/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20251204133700 +0000" stop="20251204134000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 12/4</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p248/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20251204134000 +0000" stop="20251204154000 +0000">
 		<title>映画ドラえもん のび太の新魔界大冒険～7人の魔法使い～</title>
@@ -10451,9 +10501,12 @@ Amazing Kids Audition | アメイジングキッズオーディション</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2043_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251204113000 +0000" stop="20251204113300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 12/4</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p248/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20251204113300 +0000" stop="20251204123000 +0000">
 		<title>#6 崖っぷちPopteenが大ピンチ！服を売るの、ムズすぎるっ</title>
@@ -12294,9 +12347,12 @@ UFOとのコンタクトに挑戦
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p207/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251204115700 +0000" stop="20251204120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 12/4</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p248/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20251204120000 +0000" stop="20251204153300 +0000">
 		<title>LE SSERAFIM東京ドーム公演</title>
@@ -12729,8 +12785,14 @@ Lパチスロ 革命機ヴァルヴレイヴ2
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20251208120000 +0000" stop="20251208130000 +0000">
-		<title>ゼルつく#203</title>
-		<desc>【番組概要】
+		<title>ゼルつく#203/生放送１時間SP！選手の「今季のグッときたシーン」を発表！</title>
+		<desc>■リーグ最終戦！柏レイソル戦をプレイバック！
+明治安田Ｊ１リーグ最終節。相手は逆転優勝の可能性のある２位柏レイソル。町田は公式戦３連勝中…Ｊ１優勝の命運を握る大事な一戦を、土佐兄弟が現地レポート！最終戦後の選手の談話もお届けします
+
+■選手がえらぶ「今季グッときたシーン」ランキング
+ゼルビア全選手にアンケートを実施し、たくさんの選手にインタビューも撮れました！果たして選手たちがえらんだグッときたシーンとは・・・
+
+【番組概要】
 『#ゼルつく』はサッカーJ1リーグに属するFC町田ゼルビアを盛り上げるために生まれた、視聴者やサポーターと一緒につくる参加型サッカーリアリティーショー番組。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1235_s6_p203/thumb001.png" />
 	</programme>
@@ -13408,7 +13470,7 @@ Lパチスロ 革命機ヴァルヴレイヴ2
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1574/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251204120000 +0000" stop="20251204130000 +0000">
-		<title>#アベプラ ①EXIT,カマたく,小林史明,佐々木俊尚</title>
+		<title>#アベプラ ①中国で相次ぐ公演中止…政治と切り分けるべき？</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6444/thumb001.png" />
 	</programme>
@@ -13568,8 +13630,8 @@ Lパチスロ 革命機ヴァルヴレイヴ2
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p711/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251206110000 +0000" stop="20251206113000 +0000">
-		<title>ABEMAエンタメ モデル･ギャビー母親と24年ぶり再会</title>
-		<desc>「お母さん、どうして私を捨てたの？」ファッション誌の専属モデルとして活躍するギャビー(29)。5歳の時に生き別れたアメリカ人の母親との24年ぶりの再会に密着。アメリカでホームレスになっていた母親が娘に語ったこととは？</desc>
+		<title>NO MAKE プロレス練習生ウルフアロンの挑戦に密着</title>
+		<desc>東京オリンピックの柔道金メダリスト ウルフアロン29歳。2026年1月4日のプロレスデビューを目指し、新日本プロレスの練習生として雑務や下積みを重ねる日々を送っています。頂点を極めた男のゼロからの挑戦、ウルフアロンの素顔に迫ります。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-152_s0_p71/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -13638,8 +13700,8 @@ Lパチスロ 革命機ヴァルヴレイヴ2
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-75_s0_p1070/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251207050000 +0000" stop="20251207053000 +0000">
-		<title>ABEMAエンタメ モデル･ギャビー母親と24年ぶり再会</title>
-		<desc>「お母さん、どうして私を捨てたの？」ファッション誌の専属モデルとして活躍するギャビー(29)。5歳の時に生き別れたアメリカ人の母親との24年ぶりの再会に密着。アメリカでホームレスになっていた母親が娘に語ったこととは？</desc>
+		<title>NO MAKE プロレス練習生ウルフアロンの挑戦に密着</title>
+		<desc>東京オリンピックの柔道金メダリスト ウルフアロン29歳。2026年1月4日のプロレスデビューを目指し、新日本プロレスの練習生として雑務や下積みを重ねる日々を送っています。頂点を極めた男のゼロからの挑戦、ウルフアロンの素顔に迫ります。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-152_s0_p72/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251207053000 +0000" stop="20251207060000 +0000">
@@ -14944,12 +15006,12 @@ Lパチスロ 革命機ヴァルヴレイヴ2
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p38574/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20251204070000 +0000" stop="20251204080000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>出産費用無償化など　木原官房長官午後の会見</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p38575/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20251204080000 +0000" stop="20251204090000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>きょうから開催『青の洞窟ＳＨＩＢＵＹＡ』イルミネーション点灯</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p38576/thumb001.png" />
 	</programme>
@@ -19808,9 +19870,12 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/677-1_s1_p9/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251204115700 +0000" stop="20251204120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 12/4</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p248/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20251204120000 +0000" stop="20251204141000 +0000">
 		<title>ピョンピョン地球娯楽室 #10～11</title>
@@ -23302,11 +23367,6 @@ ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、�
 		<desc>予知夢のような夢を見たモルダーは、まだ発見されていない連続殺人の被害者を探す。だが、その被害者の中に行方不明の妹、サマンサがいる可能性を知る。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/182-1464_s4_p110/thumb001.png" />
 	</programme>
-	<programme channel="drama-3" start="20251207140000 +0000" stop="20251207210000 +0000">
-		<title>X-ファイル Season 4 第10~17話</title>
-		<desc>予知夢のような夢を見たモルダーは、まだ発見されていない連続殺人の被害者を探す。だが、その被害者の中に行方不明の妹、サマンサがいる可能性を知る。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/182-1464_s4_p110/thumb001.png" />
-	</programme>
 	<programme channel="mahjong" start="20251126150000 +0000" stop="20251126194300 +0000">
 		<title>ALL STAR League 7月4日対局【再放送】</title>
 		<desc>私設リーグとして行われていた著名人リーグ「藤田萩原リーグ」がついにオールスターリーグとなって開幕!
@@ -23791,9 +23851,12 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p397/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20251204170000 +0000" stop="20251204170300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 12/4</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p248/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20251204170300 +0000" stop="20251204200700 +0000">
 		<title>第3回名人MONDO杯 #13,14</title>
@@ -24157,6 +24220,98 @@ A卓、B卓に分かれまずは各卓上位2名が決勝に進出。その後�
 優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
 Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p404/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251127100000 +0000" stop="20251127170000 +0000">
+		<title>大和証券 Mリーグ EARTH JETSvsドリブンズvs麻雀格闘倶楽部vs雷電</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p391/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251127170000 +0000" stop="20251128100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251128100000 +0000" stop="20251128170000 +0000">
+		<title>大和証券 Mリーグ JETSvsドリブンズvs風林火山vs麻雀格闘倶楽部</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p393/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251128170000 +0000" stop="20251129125000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251129125000 +0000" stop="20251129150000 +0000">
+		<title>麻雀最強戦2025 ザ・リベンジ【延長枠】</title>
+		<desc>日本で一番麻雀が強い奴は、誰だ!?それを決めるのが麻雀最強戦です。 プロ、アマチュア、それぞれの部門で大会を行いその優勝者が12月のファイナルで集合、真の麻雀日本一が決まります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/68-38_s10001_p15/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251129150000 +0000" stop="20251203030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251203030000 +0000" stop="20251203145000 +0000">
+		<title>第50期最高位決定戦 第1節【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10004_p1/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251203145000 +0000" stop="20251204100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251204100000 +0000" stop="20251204170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvs麻雀格闘倶楽部vsABEMASvsフェニックス</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p398/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251204170000 +0000" stop="20251205100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251205100000 +0000" stop="20251205170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズvsサクラナイツvsフェニックスvsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p400/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251205170000 +0000" stop="20251210030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251210030000 +0000" stop="20251210145000 +0000">
+		<title>第50期最高位決定戦 第2節【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10004_p2/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251210145000 +0000" stop="20251211100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251211100000 +0000" stop="20251211170000 +0000">
+		<title>大和証券 Mリーグ JETSvsサクラナイツvs雷電vsPirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p403/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20251126100000 +0000" stop="20251127001700 +0000">
 		<title>【再】伊藤園お〜いお茶杯第66期王位戦七番勝負第3局 藤井聡太王位対永瀬拓矢九段</title>
@@ -25670,6 +25825,204 @@ https://abema.tv/video/title/16-92
 
 初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s70_p1/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251208093500 +0000" stop="20251208095000 +0000">
+		<title>AMEX PRESENTS プラチナモーメント</title>
+		<desc>日韓ドリームプレーヤーズゲーム2025に
+出場する糸井嘉男が開催地・北海道でプラチナムな旅を満喫！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/684-2_s10_p200/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251208095000 +0000" stop="20251208115500 +0000">
+		<title>【再】スーパーフォーミュラ2025 Rd.3 モビリティリゾートもてぎ</title>
+		<desc>(ABEMAコンテンツに限る)
+ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+ーーー
+
+「SUPER FORMULA」2025年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-3_s30_p1/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251208115500 +0000" stop="20251208121000 +0000">
+		<title>AMEX PRESENTS プラチナモーメント</title>
+		<desc>日韓ドリームプレーヤーズゲーム2025に
+出場する糸井嘉男が開催地・北海道でプラチナムな旅を満喫！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/684-2_s10_p200/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251208121000 +0000" stop="20251208134500 +0000">
+		<title>【再】#8 もてぎ 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2025 はこちら
+https://abema.tv/video/title/16-90
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼NASCARはこちら
+https://abema.tv/video/title/16-92
+
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s80_p1/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251208134500 +0000" stop="20251208140000 +0000">
+		<title>AMEX PRESENTS プラチナモーメント</title>
+		<desc>日韓ドリームプレーヤーズゲーム2025に
+出場する糸井嘉男が開催地・北海道でプラチナムな旅を満喫！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/684-2_s10_p200/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251208140000 +0000" stop="20251208184000 +0000">
+		<title>JAPAN PLAYERS CHAMPIONSHIP byサトウ食品 最終日後半</title>
+		<desc>ジャパンゴルフツアー選手会が主催する『JAPAN PLAYERS CHAMPIONSHIP byサトウ食品』をABEMAで生中継!第5回大会を迎える本大会は今年も西那須野カントリー倶楽部(栃木県)を舞台に熱戦が繰り広げられる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s20_p9/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251208184000 +0000" stop="20251208234500 +0000">
+		<title>〜全英への道〜ミズノオープン 1日目 前半</title>
+		<desc>第54回「~全英への道~ミズノオープン」は、2025年5月29日(木)から6月1日(日)まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名(有資格者を除く)に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251208234500 +0000" stop="20251209042500 +0000">
+		<title>【再】バスケットボールJr.ウインターカップ2024-25男女決勝</title>
+		<desc>各都道府県の予選を勝ち抜いた男女47チームずつが参加し、さらに協会の推薦で追加の男女5チームずつが加わり、男女全52チームがトーナメントを戦い、日本一を目指す大会になります。
+部活動チームのみ参加の「全中」とは異なり、各地域のクラブチーム、プロバスケットボール「Bリーグ」のチームが運営するユースチームと、中学校の部活動チームが同じルールで戦う大会となっています。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-448_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251209042500 +0000" stop="20251209065000 +0000">
+		<title>4v4 JAPAN CUP U10 2023 presented by au</title>
+		<desc>本田圭佑が発起人となった4対4の新しい「U10のためのサッカー」。
+全国大会決勝戦&amp;スペシャルマッチをABEMAで生中継!
+本田自らがルールを考案し、8月から全国各地で予選が行われた本大会。
+指導者は不在。子どもたちが自ら考えてプレーし勝利へと突き進む、そのクライマックスを見逃すな!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s10_p5/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251209065000 +0000" stop="20251209090500 +0000">
+		<title>4v4 JAPAN CUP 2024 RESPECT YOU, au 1</title>
+		<desc>サッカー界をさらに盛り上げるべく、本田圭佑が育成年代の小学生の子ども向けに考案した新しい4人制サッカーの大会「4v4」
+今年は全国大会の準決勝・3位決定戦・決勝戦&amp;レジェンドマッチをABEMAで生中継!
+指導者は不在。子どもたちが自ら考えてプレーし勝利へと突き進む、そのクライマックスを見逃すな!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s20_p5/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251209090500 +0000" stop="20251209092000 +0000">
+		<title>AMEX PRESENTS プラチナモーメント</title>
+		<desc>日韓ドリームプレーヤーズゲーム2025に
+出場する糸井嘉男が開催地・北海道でプラチナムな旅を満喫！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/684-2_s10_p200/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251209092000 +0000" stop="20251209120500 +0000">
+		<title>4v4 JAPAN CUP 2024 RESPECT YOU, au 2</title>
+		<desc>サッカー界をさらに盛り上げるべく、本田圭佑が育成年代の小学生の子ども向けに考案した新しい4人制サッカーの大会「4v4」
+今年は全国大会の準決勝・3位決定戦・決勝戦&amp;レジェンドマッチをABEMAで生中継!
+指導者は不在。子どもたちが自ら考えてプレーし勝利へと突き進む、そのクライマックスを見逃すな!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s20_p6/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251209120500 +0000" stop="20251209122000 +0000">
+		<title>AMEX PRESENTS プラチナモーメント</title>
+		<desc>日韓ドリームプレーヤーズゲーム2025に
+出場する糸井嘉男が開催地・北海道でプラチナムな旅を満喫！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/684-2_s10_p200/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251209122000 +0000" stop="20251209130500 +0000">
+		<title>【再】#1：勝者のメンタリティ</title>
+		<desc>2024年、J１で最も注目を浴びたチーム「FC町田ゼルビア」
+彼らは一体なぜ、ここまでの快進撃を遂げたのか？
+
+監督・黒田剛は何度も怒り、叫ぶ。
+その言葉の真実とは…？
+
+J1“初昇格”チーム「FC町田ゼルビア」躍進の裏側に迫る…!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2012_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251209130500 +0000" stop="20251209132000 +0000">
+		<title>AMEX PRESENTS プラチナモーメント</title>
+		<desc>日韓ドリームプレーヤーズゲーム2025に
+出場する糸井嘉男が開催地・北海道でプラチナムな旅を満喫！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/684-2_s10_p200/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251209132000 +0000" stop="20251209181500 +0000">
+		<title>〜全英への道〜ミズノオープン 1日目 後半</title>
+		<desc>第54回「~全英への道~ミズノオープン」は、2025年5月29日(木)から6月1日(日)まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名(有資格者を除く)に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10_p2/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251209181500 +0000" stop="20251209225500 +0000">
+		<title>〜全英への道〜ミズノオープン 2日目 前半</title>
+		<desc>第54回「~全英への道~ミズノオープン」は、2025年5月29日(木)から6月1日(日)まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名(有資格者を除く)に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10_p3/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251209225500 +0000" stop="20251210094500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	</programme>
+	<programme channel="world-sports" start="20251210094500 +0000" stop="20251210100000 +0000">
+		<title>AMEX PRESENTS プラチナモーメント</title>
+		<desc>日韓ドリームプレーヤーズゲーム2025に
+出場する糸井嘉男が開催地・北海道でプラチナムな旅を満喫！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/684-2_s10_p200/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251210100000 +0000" stop="20251210120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	</programme>
+	<programme channel="world-sports" start="20251210120000 +0000" stop="20251210121500 +0000">
+		<title>AMEX PRESENTS プラチナモーメント</title>
+		<desc>日韓ドリームプレーヤーズゲーム2025に
+出場する糸井嘉男が開催地・北海道でプラチナムな旅を満喫！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/684-2_s10_p200/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251210121500 +0000" stop="20251210135000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	</programme>
+	<programme channel="world-sports" start="20251210135000 +0000" stop="20251210140500 +0000">
+		<title>AMEX PRESENTS プラチナモーメント</title>
+		<desc>日韓ドリームプレーヤーズゲーム2025に
+出場する糸井嘉男が開催地・北海道でプラチナムな旅を満喫！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/684-2_s10_p200/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251210140500 +0000" stop="20251211091500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	</programme>
+	<programme channel="world-sports" start="20251211091500 +0000" stop="20251211093000 +0000">
+		<title>AMEX PRESENTS プラチナモーメント</title>
+		<desc>日韓ドリームプレーヤーズゲーム2025に
+出場する糸井嘉男が開催地・北海道でプラチナムな旅を満喫！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/684-2_s10_p200/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251211093000 +0000" stop="20251211122000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	</programme>
+	<programme channel="world-sports" start="20251211122000 +0000" stop="20251211123500 +0000">
+		<title>AMEX PRESENTS プラチナモーメント</title>
+		<desc>日韓ドリームプレーヤーズゲーム2025に
+出場する糸井嘉男が開催地・北海道でプラチナムな旅を満喫！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/684-2_s10_p200/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20251211123500 +0000" stop="20251211141000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	</programme>
+	<programme channel="world-sports" start="20251211141000 +0000" stop="20251211142500 +0000">
+		<title>AMEX PRESENTS プラチナモーメント</title>
+		<desc>日韓ドリームプレーヤーズゲーム2025に
+出場する糸井嘉男が開催地・北海道でプラチナムな旅を満喫！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/684-2_s10_p200/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20251126133500 +0000" stop="20251126172500 +0000">
 		<title>Krush.144 2022.12.18</title>
