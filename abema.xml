@@ -16,6 +16,10 @@
 		<display-name>アニメSPECIALチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png" />
 	</channel>
+	<channel id="jumpfesta">
+		<display-name>ジャンプフェスタチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/jumpfesta/logo.png" />
+	</channel>
 	<channel id="isekai-anime">
 		<display-name>異世界・ファンタジーアニメチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime/logo.png" />
@@ -135,10 +139,6 @@
 	<channel id="mahjong">
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
-	</channel>
-	<channel id="mahjong-live">
-		<display-name>麻雀 LIVE チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
 	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
@@ -3741,6 +3741,227 @@ A組メンバーは早速遊び始めるが、雄英生それぞれのカード�
 		<title>聖剣使いの禁呪詠唱（ワールドブレイク） #1〜12【無料ビデオ1週間】</title>
 		<desc>「二つの前世の記憶を持つ」灰村諸葉は、入学した亜鐘学園で嵐城サツキ・漆原静乃という二人の少女に出逢う。これが現世と前世を繋ぐ物語の始まりだった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-34_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251205193000 +0000" stop="20251205203000 +0000">
+		<title>劇場版 ワンピース【無料ビデオ1週間】</title>
+		<desc>黄金の大海賊ウーナンが宝を埋めたという黄金の島が舞台。『ワンピース(ひとつなぎの大秘宝)』を目指して今日も航海を続けるルフィ、ゾロ、ナミ、ウソップたち。ケンカ中のところを、ナミのお宝を泥棒にきたコソドロ三人衆と海賊エルドラゴに攻撃されてしまうが、なんとか逃げ延び、エルドラゴに捕らえられていた少年トビオを助け出す。ウーナンに憧れているトビオの話を聞き、ルフィはウーナンがいい奴だったら仲間にしようと言い出し、一同は黄金の島へ向かうことに...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/184-172_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251205203000 +0000" stop="20251206060000 +0000">
+		<title>ドラゴンボールDAIMA #1〜20【無料ビデオ1週間】</title>
+		<desc>謎の世界の巨大な城。モニターを見つめる怪しい魔人の二人組。その名はゴマーとデゲス！　そのモニターには魔人ブウと激闘を繰り広げる悟空たちの姿が、なぜか映し出されていた。二人組はあるインボウの実行のため地球へと向かった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-69_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251206060000 +0000" stop="20251206123000 +0000">
+		<title>地獄先生ぬ～べ～ 1期 #1〜13【無料ビデオ1週間】</title>
+		<desc>不可解な怪奇現象が多発する童守町。子どもたちを守るため、童守小学校に一人の教師が現れた。５年３組担任の鵺野鳴介、通称ぬ～べ～。日本でただ一人の霊能力教師だ。赴任早々、クラスの生徒・広と衝突する鵺野。怒りを抑えられず、別人のようになった広を心配するクラスメイトたちだが、鵺野は背後に潜む妖怪の存在に気付く。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/750-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251206123000 +0000" stop="20251206180000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/jumpfesta/logo.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251206180000 +0000" stop="20251206190000 +0000">
+		<title>ワンピース ねじまき島の冒険【無料ビデオ1週間】</title>
+		<desc>ルフィたちは、愛船「ゴーイングメリー号」を奪われ、伝説のからくり仕掛けの「ねじまき島」に訪れる。島には悪魔の実の能力者たち「トランプ海賊団」が君臨して、島民を苦しめていた...。そこになぞの泥棒兄弟簿ロードとアキースが登場して...、「トランプ5兄弟」の必殺技とルフィたちの熱い戦いに大注目だ。ルフィたちは愛船を取り戻し、強大な敵を見事倒して「ねじまき島」の人々を救うことができるのか?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/184-173_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251206190000 +0000" stop="20251207003000 +0000">
+		<title>SAKAMOTO DAYS #12〜22【無料ビデオ1週間】</title>
+		<desc>ウータンから、✕（スラー）が最凶死刑囚たちを脱獄させ、新たな殺し屋殺しを遂行していると聞いた坂本たち。死刑囚との直接対決に備え、まずは敵の情報収集へと乗り出した。一方、ORDERにも、死刑囚たち全員の抹殺命令が下っており、主力メンバーが任務へと動き出していた。そんな中、競うように殺し屋殺しを行う死刑囚たちの魔の手は、買い出し中のシンとルーにも迫っていた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-61_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251207003000 +0000" stop="20251207050000 +0000">
+		<title>3年Z組銀八先生 #1〜9【無料ビデオ1週間】</title>
+		<desc>3年Z組はものすごく成績が悪かった。そんなZ組を目の敵にするハタ校長は、Z組の担任である坂田銀八にひとつの課題を出す。それは一科目でいいからテストでクラス全員が80点以上をとること。もし達成できなければZ組全員の補習と銀八の給料カットのペナルティを科すという。銀八と3Zの生徒たちは対策会議を開き、カンニングするしかないという結論に至るがーー。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-201_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251207050000 +0000" stop="20251207103000 +0000">
+		<title>SAKAMOTO DAYS #12〜22【無料ビデオ1週間】</title>
+		<desc>ウータンから、✕（スラー）が最凶死刑囚たちを脱獄させ、新たな殺し屋殺しを遂行していると聞いた坂本たち。死刑囚との直接対決に備え、まずは敵の情報収集へと乗り出した。一方、ORDERにも、死刑囚たち全員の抹殺命令が下っており、主力メンバーが任務へと動き出していた。そんな中、競うように殺し屋殺しを行う死刑囚たちの魔の手は、買い出し中のシンとルーにも迫っていた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-61_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251207103000 +0000" stop="20251207150000 +0000">
+		<title>3年Z組銀八先生 #1〜9【無料ビデオ1週間】</title>
+		<desc>3年Z組はものすごく成績が悪かった。そんなZ組を目の敵にするハタ校長は、Z組の担任である坂田銀八にひとつの課題を出す。それは一科目でいいからテストでクラス全員が80点以上をとること。もし達成できなければZ組全員の補習と銀八の給料カットのペナルティを科すという。銀八と3Zの生徒たちは対策会議を開き、カンニングするしかないという結論に至るがーー。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-201_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251207150000 +0000" stop="20251207194500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/jumpfesta/logo.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251207194500 +0000" stop="20251207210000 +0000">
+		<title>ワンピース 珍獣島のチョッパー王国【無料ビデオ1週間】</title>
+		<desc>”王冠島”を目指すルフィ一行。海底火山の噴火で飛ばされたチョッパーを探しに島に足を踏み入れたルフィ達だが、そこは見たこともない”珍獣”たちの楽園だった。島では宝を狙う海賊団・バトラー伯爵一味が、秘宝が隠されているというツノのある動物達を次々と襲っていたのだ!一方、チョッパーは島の動物達に伝説の”動物王”として崇められていた。果たしてルフィ達はチョッパーを見つけ出すことができるのか!そして”動物王”チョッパーと島の少年モバンビーは、バトラー伯爵の魔の手から動物達を守ることができるのか!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/184-174_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251207210000 +0000" stop="20251208033000 +0000">
+		<title>新テニスの王子様 #1〜13【無料ビデオ1週間】</title>
+		<desc>中学テニス全国大会から数か月後…。日本テニス界のトップ選手を育成するU-17（アンダーセブンティーン）日本代表合宿に、全国優勝を成し遂げた青学（せいがく）を始め、氷帝、立海など実力ある中学生選手が集められた。
+しかし、合宿参加早々、彼らはふるいにかけられる。空から落ちてくるボールを拾うことが出来ない者は即刻帰れと言うのだ。余裕でボールを拾う中学生たちの中、拾えない高校生が続出！そして最後の一つ…。
+そのボールを取ったのはアメリカに武者修行に出ていたリョーマだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-16_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251208033000 +0000" stop="20251208070000 +0000">
+		<title>新テニスの王子様 OVA #1〜7【無料ビデオ1週間】</title>
+		<desc>全国大会終了後、Ｕ-１７（アンダーセブンティーン）日本代表合宿への参加が決まるまで、中学生たちは束の間の自由な時間を過ごしていた。祖父・国一と共にルアーフィッシングに出かけた手塚。商店街の福引に燃える忍足侑士＆謙也。カブトムシの世話に夢中の白石は、妹・友香里から衝撃の事実を知らされる。
+一方、リョーマはニューヨークの街の一角にあるテニスコートで、ケンやロイといった友人たちとテニスをする日々を送っていた。テニスコートを占領しようとするジャックたちを、圧倒的な強さで一蹴するリョーマ。しかしケンは自分の力でジャックに勝ちたいと願っていた。必死に練習をするケンに対してリョーマは…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-17_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251208070000 +0000" stop="20251208120000 +0000">
+		<title>新テニスの王子様 OVA vs Genius10 #1〜10【無料ビデオ1週間】</title>
+		<desc>U-17（アンダーセブンティーン）日本代表合宿に参加中の中学生たち。一度は合宿所を去ることとなった「負け組」メンバーも試練を乗り越え帰還し、合宿所は再び活気を取り戻していた。無口なルームメイトたちを相手に赤也が落ち武者話を披露する205号室。合宿に持ち込んだ鉢植えの話題で盛り上がる不二たち201号室。211号室では黄金ペア同士のまくら投げが始まって…。
+その頃、真田は三船コーチの伝言を受けとっていた。この合宿の1軍と呼ばれる最強選手たちが、1か月の海外遠征から戻ってくるというのだ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-18_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251208120000 +0000" stop="20251208150000 +0000">
+		<title>新テニスの王子様 U-17 WORLD CUP #1〜6【無料ビデオ1週間】</title>
+		<desc>U-17W杯（アンダーセブンティーンワールドカップ）開催地、オーストラリアには各国の代表選手達が集結していた。そこには、中学生１５名を含む、平等院率いる日本代表、そしてプロになるため日本から旅立った手塚を擁する強豪ドイツ代表の姿もあった。
+一方、日本代表合宿を追放されたリョーマはリョーガの誘いに応じ、アメリカ代表の選考会へ向かう。そこで、リョーマを軽んじ挑戦してくる他のアメリカ代表選手達。彼らを
+次々と退けたリョーマは、正式にアメリカ代表として迎えられる――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-8_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251208150000 +0000" stop="20251208190000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/jumpfesta/logo.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251208190000 +0000" stop="20251208210000 +0000">
+		<title>ワンピース THE MOVIE デッドエンドの冒険【無料ビデオ1週間】</title>
+		<desc>港町・ハンナバル。そこでは大海賊が競うルールの存在しない世紀の大レース、「デッドエンド」が開催されようとしている。冒険の臭いと賞金に誘われすぐさまレースにエントリーするルフィたち。優勝候補といわれる悪魔の実の能力者・ガスバーデ将軍、病に倒れるビエラ爺さんのために海賊の懸賞金を狙うアナグマ・・・それぞれの思いを胸にいよいよレースがスタート!出港直後から苛酷な状況がルフィたちに次々と襲い掛かるが、ログホースが示す通り順調に船を進めるゴーイング・メリー号。さらに進むとそこには驚愕の事実が待っていた!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/184-175_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251208210000 +0000" stop="20251209003000 +0000">
+		<title>新テニスの王子様 U-17 WORLD CUP #7〜13【無料ビデオ1週間】</title>
+		<desc>仁王と跡部が入れ替わっていた――驚愕するW杯(ワールドカップ)会場。なぜこのような真似を？と訝しがる日本代表メンバーだが、跡部はオーストリア代表の背後にある「天才的頭脳」の存在に気づき、その「頭脳」を相手に戦っていた。速攻での決着を目論むオーストラリア代表をタイブレークへと引きずり込む跡部。彼はタイブレークを続けながら待っていた。敵の必殺技「タキオン」を不二が見極めるのを――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-8_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251209003000 +0000" stop="20251209070000 +0000">
+		<title>新テニスの王子様 U-17 WORLD CUP SEMIFINAL #1〜13</title>
+		<desc>フランスを下し、準決勝へと駒を進めた日本代表。次の相手はかつての仲間、手塚を擁する世界No.1の強豪・ドイツ！
+戦いを前に、アメリカとスイスの試合を視察したリョーマはそこでリョーガがチームから姿を消したことを知らされる。
+一方、手塚の元を跡部が訪れ自主トレーニングの相手を買って出る。
+跡部がドイツの施設に入るのを偶然見かけた切原は、跡部と手塚の姿を目撃、手塚がスパイなのでは？という疑念を持つ……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-8_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251209070000 +0000" stop="20251209190000 +0000">
+		<title>アオのハコ #1〜25【無料ビデオ1週間】</title>
+		<desc>中３の猪股大喜は、バドミントン部。朝練でいつも会う1学年上の女子バスケ部の先輩・鹿野千夏に片思いをしている。
+同級生で新体操部の蝶野雛は、大喜の片思いを応援してくれている。
+はじめて千夏と話をして舞い上がる大喜。しかし、千夏にはある事情があって……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-59_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251209190000 +0000" stop="20251209210000 +0000">
+		<title>ワンピース 呪われた聖剣【無料ビデオ1週間】</title>
+		<desc>アスカ島に到着したルフィたちだが、船番のゾロがいない!サンジたちがアスカ島の奥地に広がる湖へと入っていくと、ゾロが現れ美しい少女マヤが大切に抱えていた三つの宝玉を奪って行く。一方、ルフィたちは、道場師範・サガ、弟子のトウマと対峙していた。サガは、ゾロは自分たちの仲間だと言い放ち、妖気漂う長刀でルフィを翻弄する。アスカ島に伝わる呪われた妖刀・七星剣の伝説とは?ゾロが奪っていった宝玉の力とは?そしてサガとゾロの関係は? 百年に一度訪れるという赤い満月の夜、すべてが分かる!!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/184-176_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251209210000 +0000" stop="20251210083000 +0000">
+		<title>Dr.STONE #1〜24【無料ビデオ1週間】</title>
+		<desc>幼馴染の杠に、長年片想いし続けている高校生の大樹。親友の千空にからかわれつつも、ついに杠への想いを告げようとしたその時、突如、空がまばゆい光で覆われ、世界中の人類が一瞬にして全て〝石化〟してしまう謎の現象が起こる……!!それから約3700年後――。文明が全て消えたストーンワールドで、石化から解放された大樹。かつての親友・千空と再会を果たし、２人はゼロから文明を作り出すことを誓う！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-34_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251210083000 +0000" stop="20251210140000 +0000">
+		<title>Dr.STONE 第2期 #1〜11【無料ビデオ1週間】</title>
+		<desc>人類が謎の現象により石化して数千年――。文明が滅びた石の世界（ストーンワールド）で一人目覚めた千空は、超人的な頭脳と科学の力で、ゼロから文明を作り出していく。そんな中、武力で科学を制圧しようとする獅子王司に対抗する為、千空は科学王国の仲間と共に、情報戦の最強武器〝携帯電話〟を完成させた！新たな科学クラフトも投入し、司帝国との決戦準備を進める千空に、ゲンはある極秘の作戦を持ち掛ける……！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-64_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251210140000 +0000" stop="20251210150000 +0000">
+		<title>Dr.STONE 龍水【無料ビデオ1週間】</title>
+		<desc>司帝国との戦いが終わり、コールドスリープした司を救うべく動き出した千空たち。
+石化現象の謎を突き止める為、ついに科学王国は地球の裏側・新世界を目指す！
+航海に向けて船造りを始めた千空たちは、航海力100億の神腕船長を仲間にしようと、記
+者だった南の情報をもとに、七海財閥の御曹司で、かつて帆船を乗り回していた男“七海龍
+水”を目覚めさせる。
+「はっはー！世界は再び俺の物だ!!」と豪語する龍水は、その圧倒的な強欲さで村に通貨を
+作り、ゴージャスな暮らしを満喫。船長を引き受ける代わりに、資源の王様“石油”が欲し
+いと提案するが…？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-102_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251210150000 +0000" stop="20251210191500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/jumpfesta/logo.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251210191500 +0000" stop="20251210210000 +0000">
+		<title>ワンピース THE MOVIE オマツリ男爵と秘密の島【無料ビデオ1週間】</title>
+		<desc>「偉大なる航路(グランドライン)」を航海中、ルフィ海賊団はオマツリ島の宝の地図を発見!島に着くと突然煌びやかなテーマパークが出現し、肩から花を咲かせたオマツリ男爵が登場して、ルフィに言った。「秘密の宝物をやろう。ただし、地獄の試練を乗り越えられたらな!」この言葉にルフィは飛びついた!地獄の試練--それは金魚すくいに輪投げに射的といったお祭り気分満載の試練ばかり。やがて男爵のクセモノ部下たちにクルーが次々と消されていき・・・その先にある秘密の宝物とは?ルフィはたった一人で挑んでいく!!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/184-177_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251210210000 +0000" stop="20251211073000 +0000">
+		<title>Dr.STONE NEW WORLD 第3期 #1〜22【無料ビデオ1週間】</title>
+		<desc>コールドスリープした司を救う為、人類石化の黒幕に挑む千空たち。航海に必要な神腕船長・龍水を仲間に迎え、気球でお宝探索へと乗り出した。まずは船の燃料となる石油を探しつつ、空からの情報で科学王国周辺の地図を作っていくメンバーたち。そんな中、村人の食糧問題に直面した千空は、大樹たちと共にある事を始める。人類が謎の光により石化して数千年――。遂に、千空たちは人類未踏の新世界へと突き進む!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-167_s30_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251211073000 +0000" stop="20251211190000 +0000">
+		<title>Dr.STONE 第4期 #1〜24【無料ビデオ1週間】</title>
+		<desc>宝島での激戦を終え、科学王国へと帰還した千空たち。手に入れた石化装置で司が復活、科学王国の仲間となった！そして、千空たちは石化の元凶・ホワイマンの発信源である“月”を目指し、「月面着陸計画」を始動。世界中から宇宙船の材料を集める為、ペルセウス号で大海原へと飛び出した。しかし、アメリカを目指す船旅の中で、航路を巡り千空と龍水の意見が対立！どちらを採用するか決めるため、まさかのポーカー対決が始まる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-34_s4_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251211190000 +0000" stop="20251211191500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/jumpfesta/logo.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251211191500 +0000" stop="20251211210000 +0000">
+		<title>ワンピース THE MOVIE カラクリ城のメカ巨兵【無料ビデオ1週間】</title>
+		<desc>大嵐のグランドライン。沈没寸前の海賊船から助け出した黄金総入歯のお婆さんの名はローバ...!??ルフィたちはメカ島にある伝説の宝・金の冠と引き換えを条件にローバを島へ送り届けると、島の領主でローバの息子・ラチェットが現れ、ローバを強引に連れて帰ってしまった...。手掛かりを失ったルフィたちは島唄を頼りにお宝探しを開始!島唄の謎を解くたびに容赦なく襲い掛かる罠の数々。それをくぐり抜け、お宝まであと一歩に迫ったルフィたちだったが、驚天動地のカラクリ兵器が立ちはだかり...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/184-178_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251211210000 +0000" stop="20251212033000 +0000">
+		<title>BLEACH 千年血戦篇 #1〜13</title>
+		<desc>現世で虚が次々と消滅しているのが観測され、尸魂界・技術開発局は騒然となる。その頃空座町では、新任の担当死神・行木竜ノ介と斑目志乃が、到着早々に虚と遭遇。突然の襲撃になす術もない二人の窮地を助けたのは、死神代行・黒崎一護と仲間たちだった。翌々日、意識を取り戻した竜ノ介と交流する一護たちの前に、仮面をつけた一人の男が現れる。一方、尸魂界でも異変が起きていて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-30_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251212033000 +0000" stop="20251212100000 +0000">
+		<title>BLEACH 千年血戦篇 #14〜26</title>
+		<desc>霊王宮から瀞霊廷へ戻ろうとする一護を、今のままではユーハバッハに勝てないと引き留める兵主部。一方、見えざる帝国では星十字騎士団が並び立つ中、ユーハバッハが「後継者」の指名を行う。壇上に現れたのは、この世に生き残った最後の滅却師・雨竜だった。突然の展開を受け騎士団内には緊張が走り、不満を隠し切れないバズビーはハッシュヴァルトにくってかかる。そして雨竜自身も、ユーハバッハに問いを投げるのであった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-30_s2_p14/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251212100000 +0000" stop="20251212170000 +0000">
+		<title>BLEACH 千年血戦篇 #27〜40</title>
+		<desc>第四枝街から真世界城へと向かっていた更木剣八と涅マユリ。その道を塞ぐのは、ペルニダ・パルンカジャスだった。不可解な未知の戦闘力を秘めたペルニダに対し、正攻法でねじ伏せようとする剣八だったが、刃を叩き込んでも決定打とはならずペルニダの能力を真っ向から受けることとなる。その戦いを冷静に分析しつつ、予想外の連続を前にマユリが感じるのは「喜び」だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-30_s3_p34/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251212170000 +0000" stop="20251212204500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/jumpfesta/logo.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251212204500 +0000" stop="20251212223000 +0000">
+		<title>ワンピース エピソード・オブ・アラバスタ 砂漠の王女と海賊たち【無料1週間】</title>
+		<desc>グランドラインを突き進む、ゴーイング・メリー号。そこには、砂漠の国といわれるアラバスタ王国の王女・ビビもいた。アラバスタ王国は悪の秘密結社の暗躍により崩壊の危機に面していたが、ビビは諸悪の根源が国の英雄・クロコダイルだと知ったのだ。一方、アラバスタでは、クロコダイルの奸計により、国王軍と反乱軍との全面戦争が始まろうとしていた。ルフィたちは一刻も早くビビを国王のもとに送り届けようとするが・・・果たしてルフィたちはクロコダイルの陰謀を砕き、砂漠の国の悪夢に終止符を打つことができるのか?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/184-179_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251212223000 +0000" stop="20251213043000 +0000">
+		<title>チェンソーマン #1〜12【無料ビデオ1週間】</title>
+		<desc>デビルハンターとして暮らす少年デンジ。
+親が遺した借金返済のため、『チェンソーの悪魔』ポチタと共にヤクザから受けた依頼をこなしながら貧乏な生活を送っていた。
+
+ある日、ヤクザに呼び出されたデンジは裏切りに遭い、殺されてしまう。薄れる意識の中、デンジに語り掛けるものが居た。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/536-3_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251213043000 +0000" stop="20251213083000 +0000">
+		<title>『チェンソーマン 総集篇』前篇／後篇【無料ビデオ1週間】</title>
+		<desc>デビルハンターとして暮らす少年・デンジ。親が残した借金返済のため、“チェンソーの悪魔”ポチタと共にヤクザから受けた依頼をこなしながら貧乏な生活を送っていた。ある日、デンジはヤクザに呼び出され...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/536-3_s1_p601/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251213083000 +0000" stop="20251213090000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/jumpfesta/logo.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251213090000 +0000" stop="20251213100000 +0000">
+		<title>劇場版 ワンピース【無料ビデオ1週間】</title>
+		<desc>黄金の大海賊ウーナンが宝を埋めたという黄金の島が舞台。『ワンピース(ひとつなぎの大秘宝)』を目指して今日も航海を続けるルフィ、ゾロ、ナミ、ウソップたち。ケンカ中のところを、ナミのお宝を泥棒にきたコソドロ三人衆と海賊エルドラゴに攻撃されてしまうが、なんとか逃げ延び、エルドラゴに捕らえられていた少年トビオを助け出す。ウーナンに憧れているトビオの話を聞き、ルフィはウーナンがいい奴だったら仲間にしようと言い出し、一同は黄金の島へ向かうことに...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/184-172_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20251213100000 +0000" stop="20251213121500 +0000">
+		<title>ONE PIECE FILM RED【無料ビデオ1週間】</title>
+		<desc>世界で最も愛されている歌手、ウタ。素性を隠したまま発信するその歌声は“別次元”と評されていた。そんな彼女が初めて公の前に姿を現すライブが開催される。色めき立つ海賊たち、目を光らせる海軍、そして何も知らずにただ彼女の歌声を楽しみにきたルフィ率いる麦わらの一味、ありとあらゆるウタファンが会場を埋め尽くす中、今まさに全世界待望の歌声が響き渡ろうとしていた。物語は、彼女が“シャンクスの娘”という衝撃の事実から動き出す―。「世界を歌で幸せにしたい」とただ願い、ステージに立つウタ。ウタの過去を知る謎の人物・ゴードン、そして垣間見えるシャンクスの影。音楽の島・エレジアで再会したルフィとウタの出会いは12年前のフーシャ村へと遡る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/184-185_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime" start="20251128113000 +0000" stop="20251128180000 +0000">
 		<title>この世界は不完全すぎる #1〜13【無料ビデオ1週間】</title>
@@ -27362,98 +27583,6 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 「スカッとする一発ツモ」「想像もしない和了ルート」「ビタ止め」など、
 チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251128100000 +0000" stop="20251128170000 +0000">
-		<title>大和証券 Mリーグ JETSvsドリブンズvs風林火山vs麻雀格闘倶楽部</title>
-		<desc>「この熱狂を外へ」
-数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
-優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
-Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p393/thumb001.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251128170000 +0000" stop="20251129125000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251129125000 +0000" stop="20251129150000 +0000">
-		<title>麻雀最強戦2025 ザ・リベンジ【延長枠】</title>
-		<desc>日本で一番麻雀が強い奴は、誰だ!?それを決めるのが麻雀最強戦です。 プロ、アマチュア、それぞれの部門で大会を行いその優勝者が12月のファイナルで集合、真の麻雀日本一が決まります。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/68-38_s10001_p15/thumb001.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251129150000 +0000" stop="20251203030000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251203030000 +0000" stop="20251203145000 +0000">
-		<title>第50期最高位決定戦 第1節【ABEMAセレクト】</title>
-		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
-伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10004_p1/thumb001.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251203145000 +0000" stop="20251204100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251204100000 +0000" stop="20251204170000 +0000">
-		<title>大和証券 Mリーグ ドリブンズvs麻雀格闘倶楽部vsABEMASvsフェニックス</title>
-		<desc>「この熱狂を外へ」
-数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
-優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
-Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p398/thumb001.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251204170000 +0000" stop="20251205100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251205100000 +0000" stop="20251205170000 +0000">
-		<title>大和証券 Mリーグ ドリブンズvsサクラナイツvsフェニックスvsBEAST</title>
-		<desc>「この熱狂を外へ」
-数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
-優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
-Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p400/thumb001.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251205170000 +0000" stop="20251210030000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251210030000 +0000" stop="20251210145000 +0000">
-		<title>第50期最高位決定戦 第2節【ABEMAセレクト】</title>
-		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
-伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10004_p2/thumb001.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251210145000 +0000" stop="20251211100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251211100000 +0000" stop="20251211170000 +0000">
-		<title>大和証券 Mリーグ JETSvsサクラナイツvs雷電vsPirates</title>
-		<desc>「この熱狂を外へ」
-数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
-優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
-Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p403/thumb001.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251211170000 +0000" stop="20251212100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251212100000 +0000" stop="20251212170000 +0000">
-		<title>大和証券 Mリーグ 風林火山vsフェニックスvsBEASTvsPirates</title>
-		<desc>「この熱狂を外へ」
-数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
-優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
-Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p406/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20251128100000 +0000" stop="20251128184900 +0000">
 		<title>【再】第50期棋王戦コナミグループ杯五番勝負第2局 藤井聡太棋王対増田康宏八段</title>
