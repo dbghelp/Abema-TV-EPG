@@ -88,6 +88,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -16247,6 +16251,38 @@ ABEMAのレギュラー番組『波乗りSPLASH CAFE』にも出演中のMATSURI
 		<title>WWE　SMACKDOWN &amp; ABEMA #116</title>
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10007_p116/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251213043000 +0000" stop="20251213130000 +0000">
+		<title>STARZ &amp; RAPSTAR2025 FINAL STAGE</title>
+		<desc>次世代ラッパーを発掘するオーディションプロジェクト「RAPSTAR 2025」。
+
+オーディション参加者は、人気ビートメイカーが制作したビートから1曲を選び、
+自己紹介のリリックを乗せたパフォーマンス動画を投稿。
+
+豪華審査員による厳正な審査のもと、
+ステージを勝ち上がり、見事“ラップスタア“に輝いた優勝者には、
+未来を切り開く活動資金「300万円」を贈呈。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-213_s10000_p2/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251213130000 +0000" stop="20251217093000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251217093000 +0000" stop="20251217140000 +0000">
+		<title>第一生命 D.LEAGUE 25-26【ROUND.3】BLOCK HYPE</title>
+		<desc>第一生命 D.LEAGUE 25-26【ROUND.3】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-97_s1000_p5/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251217140000 +0000" stop="20251218093000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251218093000 +0000" stop="20251218140000 +0000">
+		<title>第一生命 D.LEAGUE 25-26【ROUND.3】BLOCK VIBE</title>
+		<desc>第一生命 D.LEAGUE 25-26【ROUND.3】BLOCK VIBE</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-97_s1000_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251205150000 +0000" stop="20251205170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
