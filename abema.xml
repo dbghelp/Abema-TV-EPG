@@ -144,6 +144,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-live">
+		<display-name>麻雀 LIVE チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -11762,14 +11766,14 @@ _______________
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
-	<programme channel="abema-special" start="20251221120000 +0000" stop="20251221130000 +0000">
+	<programme channel="abema-special" start="20251221120000 +0000" stop="20251221125300 +0000">
 		<title>隣の恋は青く見える -Chapter TOKYO-</title>
 		<desc>復縁か、別れか、新しい恋か。
 悩めるカップルたちが禁断の”浮気”生活を通じて、
 迷い続けた関係に答えを見つける恋愛リアリティ番組</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p103/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251221130000 +0000" stop="20251221133000 +0000">
+	<programme channel="abema-special" start="20251221125300 +0000" stop="20251221132400 +0000">
 		<title>おしゃれに恋するわたしたち with Lapin #4</title>
 		<desc>石川翔鈴・水戸由菜がドライブデートを楽しむ恋愛ドキュメンタリー。
 お互いを深く知らない男女がおしゃれをして、おしゃれな車で、繰り広げられる恋の行方は・・？
@@ -11784,7 +11788,7 @@ _______________
 本音インタビューをラパンのサイトで公開中！「スズキ ラパン」で検索！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p96/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251221133000 +0000" stop="20251221140000 +0000">
+	<programme channel="abema-special" start="20251221132400 +0000" stop="20251221140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -11794,7 +11798,23 @@ _______________
 		<desc>千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p342/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20251221150000 +0000" stop="20251222120000 +0000">
+	<programme channel="abema-special" start="20251221150000 +0000" stop="20251222111500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20251222111500 +0000" stop="20251222115700 +0000">
+		<title>失恋ドーナッツ #1</title>
+		<desc>『失恋ドーナッツ』は、失恋で“ぽっかり空いた心の穴”を
+そっとすくいあげる、恋愛バラエティ。
+ゲストたちが失恋エピソードを自ら主演でショートドラマ化。
+その体験を赤裸々に語り合います。
+「もしあの時、付き合っていたら・・・」
+「もし彼と違った選択をしていたら・・・」
+恋に悩んだ誰もが共感できる、新しい失恋バラエティです。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p169/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20251222115700 +0000" stop="20251222120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14212,7 +14232,7 @@ ABEMAのレギュラー番組『波乗りSPLASH CAFE』にも出演中のMATSURI
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-155_s0_p417/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20251217030000 +0000" stop="20251217040000 +0000">
-		<title>わたしとニュース～そのモヤモヤ、話せば世界が晴れるかも。～</title>
+		<title>わたしとニュース YouTubeで図鑑爆売れ ＃モヤハレ</title>
 		<desc>ニュースをもっと、身近に。
 日常で感じる「これって何で？」「ちょっと変だな」-そんなモヤモヤが、実はニュースの入り口かもしれません。社会や政治、そして暮らしの中の違和感をわたしたちの視点で語り尽くす新感覚の共感型ニュース番組。～そのモヤモヤ、話せば世界が晴れるかも。～</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-157_s0_p26/thumb001.png" />
@@ -26050,6 +26070,86 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
+	<programme channel="mahjong-live" start="20251210030000 +0000" stop="20251210145000 +0000">
+		<title>第50期最高位決定戦 第2節【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10004_p2/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251210145000 +0000" stop="20251211100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251211100000 +0000" stop="20251211170000 +0000">
+		<title>大和証券 Mリーグ JETSvsサクラナイツvs雷電vsPirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p403/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251211170000 +0000" stop="20251212100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251212100000 +0000" stop="20251212170000 +0000">
+		<title>大和証券 Mリーグ 風林火山vsフェニックスvsBEASTvsPirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p406/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251212170000 +0000" stop="20251217030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251217030000 +0000" stop="20251217145000 +0000">
+		<title>第50期最高位決定戦 第3節【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10004_p3/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251217145000 +0000" stop="20251218100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251218100000 +0000" stop="20251218170000 +0000">
+		<title>大和証券 Mリーグ 風林火山vs麻雀格闘倶楽部vs雷電vsBEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p410/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251218170000 +0000" stop="20251219100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251219100000 +0000" stop="20251219170000 +0000">
+		<title>大和証券 Mリーグ JETSvs麻雀格闘倶楽部vsABEMASvsPirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p411/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251219170000 +0000" stop="20251224030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
+	</programme>
+	<programme channel="mahjong-live" start="20251224030000 +0000" stop="20251224145000 +0000">
+		<title>第50期最高位決定戦 第4節【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10004_p4/thumb001.png" />
+	</programme>
 	<programme channel="shogi" start="20251209093900 +0000" stop="20251209180500 +0000">
 		<title>【再】第73期 王座戦 五番勝負 第1局 藤井聡太王座 対 伊藤匠叡王</title>
 		<desc>王座戦は全棋士と女流棋士4名で行われます。一次予選、二次予選のトーナメント戦を行い、二次予選を勝ち抜いた棋士とシード棋士の16名によって、挑戦者決定トーナメントを行い、挑戦者を決めます。例年9月から10月にかけて王座と挑戦者が五番勝負を行います。</desc>
@@ -27646,12 +27746,17 @@ J1“初昇格”チーム「FC町田ゼルビア」躍進の裏側に迫る…!
 出場する糸井嘉男が開催地・北海道でプラチナムな旅を満喫！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/684-2_s10_p200/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20251221130000 +0000" stop="20251221134000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	<programme channel="world-sports" start="20251221130000 +0000" stop="20251221134500 +0000">
+		<title>ABEMAスポーツタイム #117</title>
+		<desc>毎週日曜よる10時から生放送
+川﨑宗則、槙野智章らがレギュラー出演！
+スポーツ界を賑わせている話題や最新情報をお届け！
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介！
+より一層スポーツが楽しくなる番組！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10001_p117/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20251221134000 +0000" stop="20251221185000 +0000">
+	<programme channel="world-sports" start="20251221134500 +0000" stop="20251221185000 +0000">
 		<title>〜全英への道〜ミズノオープン 2日目 後半</title>
 		<desc>第54回「~全英への道~ミズノオープン」は、2025年5月29日(木)から6月1日(日)まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名(有資格者を除く)に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s10_p4/thumb001.png" />
