@@ -96,6 +96,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -148,10 +152,6 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
-	<channel id="mahjong-live">
-		<display-name>麻雀 LIVE チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
-	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -163,6 +163,10 @@
 	<channel id="motor-sport">
 		<display-name>MOTOR SPORTチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
+	</channel>
+	<channel id="boxing">
+		<display-name>ボクシングチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
 	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
@@ -16955,6 +16959,270 @@ UFOとのコンタクトに挑戦
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10009_p118/thumb001.png" />
 	</programme>
+	<programme channel="special-plus-2" start="20251226090000 +0000" stop="20251226143200 +0000">
+		<title>隣の恋は青く見える -Chapter TOKYO- #1~7</title>
+		<desc>2025年夏、東京。集まったのは6組の悩めるカップルたち。
+彼らは一時的に交際関係を解消し、20日間の”恋人公認”浮気生活へ。
+浮気を通じて気づく本当の気持ち。その答えは、復縁か・別れか・新しい恋か。
+愛憎渦巻く共同生活がいま幕を開ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1512_s50_p1001/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251226143200 +0000" stop="20251226200000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251226200000 +0000" stop="20251226220000 +0000">
+		<title>ジョン・ウィック(吹替)[R15+]</title>
+		<desc>裏社会に語り継がれる一騎当千・伝説の殺し屋ジョン・ウィック。
+愛を知り、表の世界へと足を洗い平穏な日々を送っていた彼は、ある日、不運にも彼の愛するもの全てをマフィアに奪われてしまう。
+怒りに震え、心の奥底に封じ込めた"殺し屋の魂"を解き放ち、復讐のために独り立ち上がる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-52_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251226220000 +0000" stop="20251227033000 +0000">
+		<title>透明なわたしたち 全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>週刊誌ライターの中川碧（福原遥）は、夢だった新聞記者になれず、 芸能ゴシップばかりを追いかける日々にやるせない気持ちを抱いていた。
+高校の同級生であり仲の良かった齋藤風花（小野花梨）、喜多野雄太（伊藤健太郎）、高木洋介（倉悠貴）、桜井梨沙（武田玲奈）もまた、それぞれの現状に葛藤を抱いていた。
+そんな中、 ある凶悪事件が世間を揺るがしていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2002_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251227033000 +0000" stop="20251227090000 +0000">
+		<title>透明なわたしたち 全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>週刊誌ライターの中川碧（福原遥）は、夢だった新聞記者になれず、 芸能ゴシップばかりを追いかける日々にやるせない気持ちを抱いていた。
+高校の同級生であり仲の良かった齋藤風花（小野花梨）、喜多野雄太（伊藤健太郎）、高木洋介（倉悠貴）、桜井梨沙（武田玲奈）もまた、それぞれの現状に葛藤を抱いていた。
+そんな中、 ある凶悪事件が世間を揺るがしていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2002_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251227090000 +0000" stop="20251227143000 +0000">
+		<title>透明なわたしたち 全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>週刊誌ライターの中川碧（福原遥）は、夢だった新聞記者になれず、 芸能ゴシップばかりを追いかける日々にやるせない気持ちを抱いていた。
+高校の同級生であり仲の良かった齋藤風花（小野花梨）、喜多野雄太（伊藤健太郎）、高木洋介（倉悠貴）、桜井梨沙（武田玲奈）もまた、それぞれの現状に葛藤を抱いていた。
+そんな中、 ある凶悪事件が世間を揺るがしていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2002_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251227143000 +0000" stop="20251227163000 +0000">
+		<title>ジョン・ウィック(吹替)[R15+]</title>
+		<desc>裏社会に語り継がれる一騎当千・伝説の殺し屋ジョン・ウィック。
+愛を知り、表の世界へと足を洗い平穏な日々を送っていた彼は、ある日、不運にも彼の愛するもの全てをマフィアに奪われてしまう。
+怒りに震え、心の奥底に封じ込めた"殺し屋の魂"を解き放ち、復讐のために独り立ち上がる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-52_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251227163000 +0000" stop="20251227214500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251227214500 +0000" stop="20251228000000 +0000">
+		<title>ジョン・ウィック:チャプター2(吹替)</title>
+		<desc>伝説の殺し屋ジョン・ウィックによる壮絶な復讐劇から5日後―。彼のもとにイタリアン・マフィアのサンティーノが姉殺しの依頼にやってくる。しかし平穏な隠居生活を望むジョンは彼の依頼を一蹴、サンティーノの怒りを買い、思い出の詰まった家をバズーカで破壊されてしまう。愛犬と共に一命をとりとめたジョンはサンティーノへの復讐を開始するが、命の危険を感じたサンティーノに7億円の懸賞金を懸けられ、全世界の殺し屋に命を狙われることになる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-54_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251228000000 +0000" stop="20251228043000 +0000">
+		<title>警視庁麻薬取締課 MOGURA 全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>問題を起こし部署を転々とする元マル暴の警察官・伊弉諾翔吉（般若）が配属されたのは、麻薬取締課。
+そこで上司の草田（吹越満）と同僚の高橋（成海璃子）から命じられたのは、大麻畑の発見とラッパーたちの一斉摘発のための潜入捜査だった。
+ラッパーに扮し、クラブに潜入する伊弉諾。薬物の裏取引を目の当たりにするも、「9門」のリーダー・火薬（Jin Dogg）とOG-T（G-k.i.d）に囲まれてしまう。「お前何者？」火薬に問い詰められる伊奘諾。無事にラッパー集団「9門」に潜り込めるのか。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2004_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251228043000 +0000" stop="20251228090000 +0000">
+		<title>警視庁麻薬取締課 MOGURA 全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>問題を起こし部署を転々とする元マル暴の警察官・伊弉諾翔吉（般若）が配属されたのは、麻薬取締課。
+そこで上司の草田（吹越満）と同僚の高橋（成海璃子）から命じられたのは、大麻畑の発見とラッパーたちの一斉摘発のための潜入捜査だった。
+ラッパーに扮し、クラブに潜入する伊弉諾。薬物の裏取引を目の当たりにするも、「9門」のリーダー・火薬（Jin Dogg）とOG-T（G-k.i.d）に囲まれてしまう。「お前何者？」火薬に問い詰められる伊奘諾。無事にラッパー集団「9門」に潜り込めるのか。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2004_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251228090000 +0000" stop="20251228133000 +0000">
+		<title>警視庁麻薬取締課 MOGURA 全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>問題を起こし部署を転々とする元マル暴の警察官・伊弉諾翔吉（般若）が配属されたのは、麻薬取締課。
+そこで上司の草田（吹越満）と同僚の高橋（成海璃子）から命じられたのは、大麻畑の発見とラッパーたちの一斉摘発のための潜入捜査だった。
+ラッパーに扮し、クラブに潜入する伊弉諾。薬物の裏取引を目の当たりにするも、「9門」のリーダー・火薬（Jin Dogg）とOG-T（G-k.i.d）に囲まれてしまう。「お前何者？」火薬に問い詰められる伊奘諾。無事にラッパー集団「9門」に潜り込めるのか。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2004_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251228133000 +0000" stop="20251228154500 +0000">
+		<title>ジョン・ウィック:チャプター2(吹替)</title>
+		<desc>伝説の殺し屋ジョン・ウィックによる壮絶な復讐劇から5日後―。彼のもとにイタリアン・マフィアのサンティーノが姉殺しの依頼にやってくる。しかし平穏な隠居生活を望むジョンは彼の依頼を一蹴、サンティーノの怒りを買い、思い出の詰まった家をバズーカで破壊されてしまう。愛犬と共に一命をとりとめたジョンはサンティーノへの復讐を開始するが、命の危険を感じたサンティーノに7億円の懸賞金を懸けられ、全世界の殺し屋に命を狙われることになる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-54_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251228154500 +0000" stop="20251228190000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251228190000 +0000" stop="20251228213000 +0000">
+		<title>ジョン・ウィック:パラベラム(吹替)[R15+]</title>
+		<desc>裏社会の聖域:コンチネンタルホテルでの不殺の掟を破った伝説の殺し屋、ジョン・ウィック。全てを奪ったマフィアへの壮絶な復讐の先に待っていたのは、裏社会の秩序を絶対とする組織の粛清だった。1,400万ドルの賞金首となった男に襲いくる、膨大な数の刺客たち。満身創痍となったジョンは、生き残りをかけて、かつて“血の誓印”を交わした女、ソフィアに協力を求めモロッコへ飛ぶ。しかし最強の暗殺集団を従えた組織は、追及の手をコンチネンタルホテルまで伸ばして、ジョンを追い詰める。 果たしてジョンは窮地を脱出し、再び自由を手にすることができるのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-56_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251228213000 +0000" stop="20251229031500 +0000">
+		<title>死ぬほど愛して 全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>エリートサラリーマンの神城真人（成宮寛貴）とその妻の澪（瀧本美織）は、順風満帆な結婚生活を送っていた。
+ところがある日、澪は出張に出掛けたはずの真人から送られてきた写真がネットから拾ったアリバイ写真だと気づいてしまう。
+平穏な日常にもたらされる一抹の疑念。
+さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
+仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251229031500 +0000" stop="20251229090000 +0000">
+		<title>死ぬほど愛して 全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>エリートサラリーマンの神城真人（成宮寛貴）とその妻の澪（瀧本美織）は、順風満帆な結婚生活を送っていた。
+ところがある日、澪は出張に出掛けたはずの真人から送られてきた写真がネットから拾ったアリバイ写真だと気づいてしまう。
+平穏な日常にもたらされる一抹の疑念。
+さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
+仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251229090000 +0000" stop="20251229150000 +0000">
+		<title>死ぬほど愛して 全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>エリートサラリーマンの神城真人（成宮寛貴）とその妻の澪（瀧本美織）は、順風満帆な結婚生活を送っていた。
+ところがある日、澪は出張に出掛けたはずの真人から送られてきた写真がネットから拾ったアリバイ写真だと気づいてしまう。
+平穏な日常にもたらされる一抹の疑念。
+さらに近所では「女性記者殺人事件」が起き、犯人が捕まらないまま連日ニュースを騒がせていた。
+仲睦まじい夫婦の裏で、何かが崩れはじめる……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2024_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251229150000 +0000" stop="20251229173000 +0000">
+		<title>ジョン・ウィック:パラベラム(吹替)[R15+]</title>
+		<desc>裏社会の聖域:コンチネンタルホテルでの不殺の掟を破った伝説の殺し屋、ジョン・ウィック。全てを奪ったマフィアへの壮絶な復讐の先に待っていたのは、裏社会の秩序を絶対とする組織の粛清だった。1,400万ドルの賞金首となった男に襲いくる、膨大な数の刺客たち。満身創痍となったジョンは、生き残りをかけて、かつて“血の誓印”を交わした女、ソフィアに協力を求めモロッコへ飛ぶ。しかし最強の暗殺集団を従えた組織は、追及の手をコンチネンタルホテルまで伸ばして、ジョンを追い詰める。 果たしてジョンは窮地を脱出し、再び自由を手にすることができるのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-56_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251229173000 +0000" stop="20251229184000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251229184000 +0000" stop="20251229215400 +0000">
+		<title>ジョン・ウィック：コンセクエンス(吹替)[R15+]</title>
+		<desc>裏社会の掟を破り、粛清の包囲網から生還した伝説の殺し屋、ジョン・ウィック。地下に身を潜め、全てを牛耳る組織:主席連合から自由になるために立ち上がった。 組織内での権力を得た若き高官グラモンは、聖域としてジョンを守ってきたニューヨークのコンチネンタルホテルを爆破、ジョンの旧友でもあった盲目の達人ケインを強引に引き入れ、ジョン・ウィック狩りに乗り出す。そんな中、日本の友人、シマヅの協力を求めてジョンが大阪のコンチネンタルホテルに現れる・・・。果たしてジョンは、かつて忠誠を誓った世界との決着をつけて、真の自由を手にすることができるのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-86_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251229215400 +0000" stop="20251230032700 +0000">
+		<title>MISS KING / ミス・キング全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>天才棋士・彰一（中村獅童）を父に持つ飛鳥（のん）。
+母・桂子（奥貫薫）と三人で仲睦まじく暮らしていたが、やがて彰一は「勝利」への執着に囚われ、家族を捨てて家を出て行ってしまう。
+それから23年。桂子は病に倒れ、飛鳥は貧困のなかで孤独に生きていた。
+そんな彼女の目に映ったのは、将棋界で華々しく活躍する父・彰一の姿。
+捨てられた過去、叶わなかった日常、募る憎しみ――。
+抑えきれない感情が限界を迎えたとき、飛鳥は衝撃の行動に出る――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251230032700 +0000" stop="20251230090000 +0000">
+		<title>MISS KING / ミス・キング全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>天才棋士・彰一（中村獅童）を父に持つ飛鳥（のん）。
+母・桂子（奥貫薫）と三人で仲睦まじく暮らしていたが、やがて彰一は「勝利」への執着に囚われ、家族を捨てて家を出て行ってしまう。
+それから23年。桂子は病に倒れ、飛鳥は貧困のなかで孤独に生きていた。
+そんな彼女の目に映ったのは、将棋界で華々しく活躍する父・彰一の姿。
+捨てられた過去、叶わなかった日常、募る憎しみ――。
+抑えきれない感情が限界を迎えたとき、飛鳥は衝撃の行動に出る――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251230090000 +0000" stop="20251230144500 +0000">
+		<title>MISS KING / ミス・キング全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>天才棋士・彰一（中村獅童）を父に持つ飛鳥（のん）。
+母・桂子（奥貫薫）と三人で仲睦まじく暮らしていたが、やがて彰一は「勝利」への執着に囚われ、家族を捨てて家を出て行ってしまう。
+それから23年。桂子は病に倒れ、飛鳥は貧困のなかで孤独に生きていた。
+そんな彼女の目に映ったのは、将棋界で華々しく活躍する父・彰一の姿。
+捨てられた過去、叶わなかった日常、募る憎しみ――。
+抑えきれない感情が限界を迎えたとき、飛鳥は衝撃の行動に出る――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2038_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251230144500 +0000" stop="20251230180000 +0000">
+		<title>ジョン・ウィック：コンセクエンス(吹替)[R15+]</title>
+		<desc>裏社会の掟を破り、粛清の包囲網から生還した伝説の殺し屋、ジョン・ウィック。地下に身を潜め、全てを牛耳る組織:主席連合から自由になるために立ち上がった。 組織内での権力を得た若き高官グラモンは、聖域としてジョンを守ってきたニューヨークのコンチネンタルホテルを爆破、ジョンの旧友でもあった盲目の達人ケインを強引に引き入れ、ジョン・ウィック狩りに乗り出す。そんな中、日本の友人、シマヅの協力を求めてジョンが大阪のコンチネンタルホテルに現れる・・・。果たしてジョンは、かつて忠誠を誓った世界との決着をつけて、真の自由を手にすることができるのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-86_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251230180000 +0000" stop="20251230194500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251230194500 +0000" stop="20251230220000 +0000">
+		<title>BLUE FIGHT ~蒼き若者たちのブレイキングダウン~(劇場公開版)</title>
+		<desc>少年院で知り合い、親友になったイクトとリョーマ。朝倉未来のスピーチに感銘を受けた二人は、格闘技イベント・ブレイキングダウン出場という夢を追い始める。しかし、因縁のライバルの登場により、予期せぬ抗争に巻き込まれてゆく。果たして彼らは、新しい人生に踏み出す事ができるのか?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/161-54_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251230220000 +0000" stop="20251231033000 +0000">
+		<title>スキャンダルイブ 全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>芸能事務所社長の井岡咲は、所属俳優・藤原玖生の"不倫スキャンダル”掲載の告知を週刊誌から受けとる。記事の発売までは72時間。芸能事務所VS週刊誌の熾烈な争いが火蓋を切る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2042_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251231033000 +0000" stop="20251231090000 +0000">
+		<title>スキャンダルイブ 全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>芸能事務所社長の井岡咲は、所属俳優・藤原玖生の"不倫スキャンダル”掲載の告知を週刊誌から受けとる。記事の発売までは72時間。芸能事務所VS週刊誌の熾烈な争いが火蓋を切る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2042_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251231090000 +0000" stop="20251231143000 +0000">
+		<title>スキャンダルイブ 全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>芸能事務所社長の井岡咲は、所属俳優・藤原玖生の"不倫スキャンダル”掲載の告知を週刊誌から受けとる。記事の発売までは72時間。芸能事務所VS週刊誌の熾烈な争いが火蓋を切る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2042_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251231143000 +0000" stop="20251231164500 +0000">
+		<title>BLUE FIGHT ~蒼き若者たちのブレイキングダウン~(劇場公開版)</title>
+		<desc>少年院で知り合い、親友になったイクトとリョーマ。朝倉未来のスピーチに感銘を受けた二人は、格闘技イベント・ブレイキングダウン出場という夢を追い始める。しかし、因縁のライバルの登場により、予期せぬ抗争に巻き込まれてゆく。果たして彼らは、新しい人生に踏み出す事ができるのか?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/161-54_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251231164500 +0000" stop="20251231173000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251231173000 +0000" stop="20251231210000 +0000">
+		<title>ドライブ・マイ・カー インターナショナル版</title>
+		<desc>舞台俳優であり演出家の家福(かふく)は、愛する妻の音(おと)と満ち足りた日々を送っていた。しかし、音は秘密を残して突然この世からいなくなってしまう。2年後、広島での演劇祭に愛車で向かった家福は、ある過去を抱える寡黙な専属ドライバーのみさきと出会う。悲しみと“打ち明けられることのなかった秘密”に苛まれてきた家福は、みさきと過ごすなかであることに気づかされていく――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/587-31_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20251231210000 +0000" stop="20260101030000 +0000">
+		<title>インフォーマ -闇を生きる獣たち-全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>週刊タイムズの記者・三島（佐野玲於）は、２年前の特大スクープを超える記事を書くことができていなかった。そんな中、編集長の長澤（MEGUMI）から都内で起きた〈闇バイト殺人事件〉の黒幕を調べるよう命じられ、バンコクへ飛ぶ。そこで待っていたのは…２年前に三島に地獄を味わせた"インフォーマ"・木原（桐谷健太）だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2007_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260101030000 +0000" stop="20260101090000 +0000">
+		<title>インフォーマ -闇を生きる獣たち-全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>週刊タイムズの記者・三島（佐野玲於）は、２年前の特大スクープを超える記事を書くことができていなかった。そんな中、編集長の長澤（MEGUMI）から都内で起きた〈闇バイト殺人事件〉の黒幕を調べるよう命じられ、バンコクへ飛ぶ。そこで待っていたのは…２年前に三島に地獄を味わせた"インフォーマ"・木原（桐谷健太）だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2007_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260101090000 +0000" stop="20260101150000 +0000">
+		<title>インフォーマ -闇を生きる獣たち-全話一挙【~1/1オリジナルドラマ毎日一挙】</title>
+		<desc>週刊タイムズの記者・三島（佐野玲於）は、２年前の特大スクープを超える記事を書くことができていなかった。そんな中、編集長の長澤（MEGUMI）から都内で起きた〈闇バイト殺人事件〉の黒幕を調べるよう命じられ、バンコクへ飛ぶ。そこで待っていたのは…２年前に三島に地獄を味わせた"インフォーマ"・木原（桐谷健太）だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2007_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260101150000 +0000" stop="20260101183000 +0000">
+		<title>ドライブ・マイ・カー インターナショナル版</title>
+		<desc>舞台俳優であり演出家の家福(かふく)は、愛する妻の音(おと)と満ち足りた日々を送っていた。しかし、音は秘密を残して突然この世からいなくなってしまう。2年後、広島での演劇祭に愛車で向かった家福は、ある過去を抱える寡黙な専属ドライバーのみさきと出会う。悲しみと“打ち明けられることのなかった秘密”に苛まれてきた家福は、みさきと過ごすなかであることに気づかされていく――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/587-31_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260101183000 +0000" stop="20260101202000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260101202000 +0000" stop="20260102054000 +0000">
+		<title>世界の果てに、ひろゆき置いてきた【1/2~4 全3シーズン一挙放送】</title>
+		<desc>とりあえず、ひろゆきをナミビアの砂漠に置き去りにしました。
+アフリカ大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260102054000 +0000" stop="20260102150000 +0000">
+		<title>世界の果てに、ひろゆき置いてきた【1/2~4 全3シーズン一挙放送】</title>
+		<desc>とりあえず、ひろゆきをナミビアの砂漠に置き去りにしました。
+アフリカ大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260102150000 +0000" stop="20260102171000 +0000">
+		<title>おいしい給食 Road to イカメシ</title>
+		<desc>1989年、冬。中学教師・甘利田幸男は、北の地に降り立った。隠し持った真の目的はアレを味わう事。だが赴任から一年以上経つもアレが献立に登場する事は無い。相変わらず給食のために学校へ行き、食のライバル粒来ケンと毎日密かにしのぎを削っている。一方、新米教師の比留川愛はそんな甘利田に憧れを抱き、近くにいたいと願っていた。そんな頃、忍川中学が給食完食のモデル校に選定される。忍川町では町長選挙を前にして、政治利用に使われようとしていたのだ!不穏な空気を察知した甘利田は、おいしい給食を守るために立ち上がる!そんな中、アレとの頂上決戦の幕が上がろうとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/273-931_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260102171000 +0000" stop="20260102210000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260102210000 +0000" stop="20260103150000 +0000">
+		<title>世界の果てに、東出・ひろゆき置いてきた【1/2~4 全3シーズン一挙放送】</title>
+		<desc>とりあえず、東出昌大をエクアドルの無人島に置き去りにしました。
+南米大陸脱出リアリティショー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s2_p2/thumb001.png" />
+	</programme>
 	<programme channel="abema-news" start="20251219150000 +0000" stop="20251219170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
 		<desc>地上波の放送を見逃してしまった場合でも、手元のスマートフォンやタブレットなどで気軽に「報道ステーション」をご覧いただけます。 
@@ -30806,62 +31074,6 @@ U-NEXT Pirates vsKONAMI 麻雀格闘倶楽部vs渋谷ABEMASvs KADOKAWAサクラ�
 		<desc>麻雀界を牽引してきたベテランプロ8人が激突。修羅場を凌ぎ、幾多の闘いに勝利してきた技術と感性は至高の名人技。団体の枠を超え、真の鉄人を決める闘いが始まった。伊藤優孝、金子正輝、五十嵐毅、前原雄大、飯田正人、森山茂和、荒正義、新津潔。決勝ラウンドへの椅子はひとつ!!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/68-38_s11_p7/thumb001.png" />
 	</programme>
-	<programme channel="mahjong-live" start="20251219100000 +0000" stop="20251219170000 +0000">
-		<title>大和証券 Mリーグ JETSvs麻雀格闘倶楽部vsABEMASvsPirates</title>
-		<desc>「この熱狂を外へ」
-数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
-優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
-Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p411/thumb001.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251219170000 +0000" stop="20251220115000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251220115000 +0000" stop="20251220140000 +0000">
-		<title>第24期雀王決定戦 4日目【延長枠】</title>
-		<desc>1年かけて戦われる日本プロ麻雀協会の最高峰タイトル。
-その頂点、雀王を決める戦い。長い戦いの末、現雀王 仲林圭への挑戦権を得た橘 哲也・千貫 陽祐・西村 雄一郎・矢島 亨がタイトルの座を争う。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/69-71_s10001_p36/thumb001.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251220140000 +0000" stop="20251224030000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251224030000 +0000" stop="20251224145000 +0000">
-		<title>第50期最高位決定戦 第4節【ABEMAセレクト】</title>
-		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
-伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-7_s10004_p4/thumb001.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251224145000 +0000" stop="20251225100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251225100000 +0000" stop="20251225170000 +0000">
-		<title>大和証券 Mリーグ ドリブンズvs麻雀格闘倶楽部vsフェニックスvs雷電</title>
-		<desc>「この熱狂を外へ」
-数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
-優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
-Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p416/thumb001.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251225170000 +0000" stop="20251226100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-live/logo.png" />
-	</programme>
-	<programme channel="mahjong-live" start="20251226100000 +0000" stop="20251226170000 +0000">
-		<title>大和証券 Mリーグ サクラナイツvsアベマズvsフェニックスvsPirates</title>
-		<desc>「この熱狂を外へ」
-数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
-優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
-Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチームに加わり、新Mリーガー7名、10チーム総勢40名でのシーズンとなる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p417/thumb001.png" />
-	</programme>
 	<programme channel="shogi" start="20251219093800 +0000" stop="20251219174600 +0000">
 		<title>【再】第10期 叡王戦 五番勝負 第3局 伊藤匠叡王 対 斎藤慎太郎八段</title>
 		<desc>叡王戦は全棋士の段位別予選と本戦を勝ち抜いた2名が決勝五番勝負を行い、先に3勝した棋士が「叡王」の称号を獲得します(第4期以降は本戦優勝者が叡王への挑戦権を獲得)。</desc>
@@ -33814,6 +34026,41 @@ https://abema.tv/video/title/16-92
 
 「SUPER FORMULA」2025年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-3_s20_p1/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20251226040000 +0000" stop="20251226070000 +0000">
+		<title>【前日計量・会見】SAIKOU×LUSH vol.4 in JAPAN</title>
+		<desc>12月27日に名古屋で開催されるボクシング × 音楽イベント「SAIKOU×LUSH vol.4 in JAPAN」の前日計量・会見の様子をABEMAで生配信！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s10028_p1/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20251226070000 +0000" stop="20251226185000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
+	</programme>
+	<programme channel="boxing" start="20251226185000 +0000" stop="20251227033000 +0000">
+		<title>3150×LUSHBOMU vol.4【全編・無料再放送】</title>
+		<desc>2025年3月29日に愛知県国際展示場で行われた「3150×LUSHBOMU 2DAYS【DAY1】」を全編無料再放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s230_p5/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20251227033000 +0000" stop="20251227140000 +0000">
+		<title>SAIKOU×LUSH vol.4 in JAPAN</title>
+		<desc>12月27日に名古屋で開催されるボクシング × 音楽イベント「SAIKOU×LUSH vol.4 in JAPAN」の様子をABEMAで生配信！
+
+▼予定カード
+※メインのIBF世界フライ級タイトルマッチは18時30分ゴング、
+　セミメインのOPBFバンタム級タイトルマッチは18時ゴングを予定しています
+
+第１試合　亀山大輝 vs ベクザット・エルゲショフ（50.0kg契約 ６回戦）
+第２試合　目黒聖也  vs イスラム・トロバエフ（54.0kg契約 ６回戦）　
+第３試合　湊義生 vs アディレット・カチキンベコフ（スーパーフライ級 6回戦）
+第４試合　中田勝浩 vs ヴァディム・バウリン（ミドル級 6回戦）
+第５試合　山本ライアンジョシュア vs アスカット・クルタエフ（64.5kg契約 6回戦）
+第６試合　政所椋 vs ヌルジギット・ディウシェバエフ（スーパーフライ級 6回戦）
+第７試合　辻永遠 vs アナルバイ・ムルザバエフ（54.5kg契約 6回戦）
+第8試合　溝越斗夢 vs ジョン・リエル・カシメロ（フェザー級 8回戦）
+第9試合　ケネス・ラバー vs アヤティ・サイリケ（OPBFバンタム級タイトルマッチ 10回戦）
+第10試合　矢吹正道 vs フェリックス・アルバラード（IBF世界フライ級タイトルマッチ 12回戦）</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s10029_p1/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20251219133000 +0000" stop="20251219161000 +0000">
 		<title>木村ミノル 怒涛の9連続KO集</title>
