@@ -16,6 +16,10 @@
 		<display-name>アニメSPECIAL2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png" />
 	</channel>
+	<channel id="oshinoko">
+		<display-name>推しの子チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/oshinoko/logo.png" />
+	</channel>
 	<channel id="ga-20th">
 		<display-name>GA文庫20周年チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/ga-20th/logo.png" />
@@ -1499,7 +1503,7 @@ _x000B_
 大暮維人（漫画『エア・ギア』）、西位輝実（アニメ『呪術廻戦』シリーズ）、
 田中孝弘（アニメ『SAKAMOTO DAYS』）ら、豪華アーティスト＆クリエイター陣が参戦。
 スケールも熱量もさらに加速し、待望の第2期がついに始動！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p53/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-221_s2_p14/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260114170000 +0000" stop="20260114173000 +0000">
 		<title>死亡遊戯で飯を食う。#2【最新話】</title>
@@ -1539,11 +1543,11 @@ _x000B_
 訳あって火消を辞めていたが、突然新庄藩から仕官の誘いが来る。
 新庄藩の火消組は、金も無く、人材もおらず、周囲からさげすまれていた。
 妻・深雪の後押しもあり、源吾は頭取として崩壊した火消組を再建することに。
-一癖も二癖もある仲間を集め、＜ぼろ鳶＞と揶揄されながらも「どんな命も救うのだ」と奮闘する源吾達だったが、
+一癖も二癖もある仲間を集め、&lt;ぼろ鳶&gt;と揶揄されながらも「どんな命も救うのだ」と奮闘する源吾達だったが、
 江戸では「狐火」という謎の連続不審火が続いていた。
 
-迫りくる災いに、諦めの悪い火消達が奔走する、エンタメ活劇が開幕！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p38/thumb001.png" />
+迫りくる災いに、諦めの悪い火消達が奔走する、エンタメ活劇が開幕!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/694-16_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260114183000 +0000" stop="20260114183500 +0000">
 		<title>有栖川煉ってホントは女なんだよね。【オンエア版】#2【最新話】</title>
@@ -1668,11 +1672,11 @@ _x000B_
 訳あって火消を辞めていたが、突然新庄藩から仕官の誘いが来る。
 新庄藩の火消組は、金も無く、人材もおらず、周囲からさげすまれていた。
 妻・深雪の後押しもあり、源吾は頭取として崩壊した火消組を再建することに。
-一癖も二癖もある仲間を集め、＜ぼろ鳶＞と揶揄されながらも「どんな命も救うのだ」と奮闘する源吾達だったが、
+一癖も二癖もある仲間を集め、&lt;ぼろ鳶&gt;と揶揄されながらも「どんな命も救うのだ」と奮闘する源吾達だったが、
 江戸では「狐火」という謎の連続不審火が続いていた。
 
-迫りくる災いに、諦めの悪い火消達が奔走する、エンタメ活劇が開幕！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p38/thumb001.png" />
+迫りくる災いに、諦めの悪い火消達が奔走する、エンタメ活劇が開幕!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/694-16_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260115143000 +0000" stop="20260115150000 +0000">
 		<title>転生したらドラゴンの卵だった～最強以外目指さねぇ～ #1【最新話】</title>
@@ -3108,6 +3112,101 @@ SNSで大反響！
 		<title>涼宮ハルヒの消失【無料ビデオ2週間】</title>
 		<desc>クリスマスが間近に迫ったある冬の日。学校に向かったキョンはいつもの日常と違うことに気づく。後ろの席にいるはずのハルヒがいない……。さらに驚くべき事に、その席に座っていたのは、(『憂鬱』にて)キョンを殺そうとして長門に消滅させられたはずの朝倉だった！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-41-jimnaz-mz_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260113103000 +0000" stop="20260113173000 +0000">
+		<title>【推しの子】#1〜11【無料ビデオ2週間】</title>
+		<desc>産婦人科医・ゴローの前に現れた患者は、推しのアイドル・アイだった。ショックを受けながらも医者として彼女を支えるゴロー。だが出産直前、ゴローは何者かに襲われ…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260113173000 +0000" stop="20260114003000 +0000">
+		<title>【推しの子】#1〜11【無料ビデオ2週間】</title>
+		<desc>産婦人科医・ゴローの前に現れた患者は、推しのアイドル・アイだった。ショックを受けながらも医者として彼女を支えるゴロー。だが出産直前、ゴローは何者かに襲われ…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260114003000 +0000" stop="20260114073000 +0000">
+		<title>【推しの子】#1〜11【無料ビデオ2週間】</title>
+		<desc>産婦人科医・ゴローの前に現れた患者は、推しのアイドル・アイだった。ショックを受けながらも医者として彼女を支えるゴロー。だが出産直前、ゴローは何者かに襲われ…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260114073000 +0000" stop="20260114140000 +0000">
+		<title>【推しの子】第2期 #12〜24【無料ビデオ2週間】</title>
+		<desc>『東京ブレイド』の舞台稽古が始まった。演技すらもアイの死の真相を追う手段として利用するアクア。だが劇団ララライの看板役者・姫川の存在が出演陣を強く刺激して──！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s2_p12/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260114140000 +0000" stop="20260114143000 +0000">
+		<title>『【推しの子】』第3期 ABEMAアニメチャンネルにて最新話配信中</title>
+		<desc>-</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/111-1yyirbkzgnz_s100_p15/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260114143000 +0000" stop="20260114210000 +0000">
+		<title>【推しの子】第2期 #12〜24【無料ビデオ2週間】</title>
+		<desc>『東京ブレイド』の舞台稽古が始まった。演技すらもアイの死の真相を追う手段として利用するアクア。だが劇団ララライの看板役者・姫川の存在が出演陣を強く刺激して──！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s2_p12/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260114210000 +0000" stop="20260115033000 +0000">
+		<title>【推しの子】第2期 #12〜24【無料ビデオ2週間】</title>
+		<desc>『東京ブレイド』の舞台稽古が始まった。演技すらもアイの死の真相を追う手段として利用するアクア。だが劇団ララライの看板役者・姫川の存在が出演陣を強く刺激して──！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s2_p12/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260115033000 +0000" stop="20260115103000 +0000">
+		<title>【推しの子】#1〜11【無料ビデオ2週間】</title>
+		<desc>産婦人科医・ゴローの前に現れた患者は、推しのアイドル・アイだった。ショックを受けながらも医者として彼女を支えるゴロー。だが出産直前、ゴローは何者かに襲われ…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260115103000 +0000" stop="20260115173000 +0000">
+		<title>【推しの子】#1〜11【無料ビデオ2週間】</title>
+		<desc>産婦人科医・ゴローの前に現れた患者は、推しのアイドル・アイだった。ショックを受けながらも医者として彼女を支えるゴロー。だが出産直前、ゴローは何者かに襲われ…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260115173000 +0000" stop="20260116003000 +0000">
+		<title>【推しの子】#1〜11【無料ビデオ2週間】</title>
+		<desc>産婦人科医・ゴローの前に現れた患者は、推しのアイドル・アイだった。ショックを受けながらも医者として彼女を支えるゴロー。だが出産直前、ゴローは何者かに襲われ…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260116003000 +0000" stop="20260116070000 +0000">
+		<title>【推しの子】第2期 #12〜24【無料ビデオ2週間】</title>
+		<desc>『東京ブレイド』の舞台稽古が始まった。演技すらもアイの死の真相を追う手段として利用するアクア。だが劇団ララライの看板役者・姫川の存在が出演陣を強く刺激して──！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s2_p12/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260116070000 +0000" stop="20260116133000 +0000">
+		<title>【推しの子】第2期 #12〜24【無料ビデオ2週間】</title>
+		<desc>『東京ブレイド』の舞台稽古が始まった。演技すらもアイの死の真相を追う手段として利用するアクア。だが劇団ララライの看板役者・姫川の存在が出演陣を強く刺激して──！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s2_p12/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260116133000 +0000" stop="20260116200000 +0000">
+		<title>【推しの子】第2期 #12〜24【無料ビデオ2週間】</title>
+		<desc>『東京ブレイド』の舞台稽古が始まった。演技すらもアイの死の真相を追う手段として利用するアクア。だが劇団ララライの看板役者・姫川の存在が出演陣を強く刺激して──！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s2_p12/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260116200000 +0000" stop="20260117030000 +0000">
+		<title>【推しの子】#1〜11【無料ビデオ2週間】</title>
+		<desc>産婦人科医・ゴローの前に現れた患者は、推しのアイドル・アイだった。ショックを受けながらも医者として彼女を支えるゴロー。だが出産直前、ゴローは何者かに襲われ…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260117030000 +0000" stop="20260117100000 +0000">
+		<title>【推しの子】#1〜11【無料ビデオ2週間】</title>
+		<desc>産婦人科医・ゴローの前に現れた患者は、推しのアイドル・アイだった。ショックを受けながらも医者として彼女を支えるゴロー。だが出産直前、ゴローは何者かに襲われ…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260117100000 +0000" stop="20260117163000 +0000">
+		<title>【推しの子】第2期 #12〜24【無料ビデオ2週間】</title>
+		<desc>『東京ブレイド』の舞台稽古が始まった。演技すらもアイの死の真相を追う手段として利用するアクア。だが劇団ララライの看板役者・姫川の存在が出演陣を強く刺激して──！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s2_p12/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260117163000 +0000" stop="20260117233000 +0000">
+		<title>【推しの子】#1〜11【無料ビデオ2週間】</title>
+		<desc>産婦人科医・ゴローの前に現れた患者は、推しのアイドル・アイだった。ショックを受けながらも医者として彼女を支えるゴロー。だが出産直前、ゴローは何者かに襲われ…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260117233000 +0000" stop="20260118060000 +0000">
+		<title>【推しの子】第2期 #12〜24【無料ビデオ2週間】</title>
+		<desc>『東京ブレイド』の舞台稽古が始まった。演技すらもアイの死の真相を追う手段として利用するアクア。だが劇団ララライの看板役者・姫川の存在が出演陣を強く刺激して──！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s2_p12/thumb001.png" />
+	</programme>
+	<programme channel="oshinoko" start="20260118060000 +0000" stop="20260118123000 +0000">
+		<title>【推しの子】第2期 #12〜24【無料ビデオ2週間】</title>
+		<desc>『東京ブレイド』の舞台稽古が始まった。演技すらもアイの死の真相を追う手段として利用するアクア。だが劇団ララライの看板役者・姫川の存在が出演陣を強く刺激して──！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s2_p12/thumb001.png" />
 	</programme>
 	<programme channel="ga-20th" start="20260105110000 +0000" stop="20260105170000 +0000">
 		<title>闇ヒーラー #1〜12【無料ビデオ1週間】</title>
@@ -5829,9 +5928,12 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-135_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20260113125700 +0000" stop="20260113130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
+		<title>ダイキン空気予報 1/13</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p288/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20260113130000 +0000" stop="20260113143000 +0000">
 		<title>声優と夜あそび 火【下野紘×入野自由】#29</title>
@@ -8376,9 +8478,12 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p20/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260113120700 +0000" stop="20260113121000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 1/13</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p288/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260113121000 +0000" stop="20260113141000 +0000">
 		<title>映画クレヨンしんちゃん　謎メキ！花の天カス学園【無料ビデオ1週間】</title>
@@ -12356,9 +12461,12 @@ Supported by 株式会社KINUJO</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-335_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260113115200 +0000" stop="20260113115500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 1/13</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p288/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260113115500 +0000" stop="20260113125500 +0000">
 		<title>ななにー 地下ABEMA #102 マスクイケメン＆美女 長瀬智也！今田美桜</title>
@@ -12385,9 +12493,12 @@ Supported by 株式会社KINUJO</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s5_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260113135700 +0000" stop="20260113140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 1/13</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p288/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260113140000 +0000" stop="20260113150700 +0000">
 		<title>＃２：加護亜依「14 才の母」壮絶人生＆セクシー女優の恋人探し</title>
@@ -12699,10 +12810,13 @@ Supported by 株式会社KINUJO</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20260116140000 +0000" stop="20260116143000 +0000">
-		<title>#67：ヌキ打ちパチンコテスト！</title>
-		<desc>カチ盛り店員として全問正解できるのか！？
+		<title>#67：DJふぉいと美女が集まるちょっと大人な暴露Barが開店</title>
+		<desc>パチ業界の美女が鬱憤やストレスを吐き出す場所
+スナックジャンボ開店！
+常連客のDJふぉいと来店した女性の話を肴に酒を飲む！
 
-
+さらにMCのパチンコ知識をチェック！
+ヌキ打ちテストを開催！
 
 提供：マルハン北日本カンパニー</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p191/thumb001.png" />
@@ -14267,9 +14381,12 @@ M-1ファイナリストのジョックロックが挑戦！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p503/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260113115700 +0000" stop="20260113120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 1/13</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p288/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260113120000 +0000" stop="20260113150000 +0000">
 		<title>WWE　RAW &amp; ABEMA #120</title>
@@ -15355,7 +15472,7 @@ UFOとのコンタクトに挑戦
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1597/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260113120000 +0000" stop="20260113130000 +0000">
-		<title>#アベプラ ①田村淳,竹中平蔵,パックン,山本昌子</title>
+		<title>#アベプラ ①｢解散｣は国民のためになる？／相続税って必要？</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6532/thumb001.png" />
 	</programme>
@@ -15713,9 +15830,8 @@ UFOとのコンタクトに挑戦
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-155_s0_p736/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260117103000 +0000" stop="20260117110000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー「有名占い師 殺人事件31年目の結末」</title>
+		<desc>2024年10月、ハワイの刑務所で日本人受刑者が殺害された。かつて、日本中を騒がせた事件の犯人、福迫雷太受刑者だ。有名占い師、藤田小女姫とその息子をハワイで銃撃し、現場に火を放ったとして終身刑を言い渡され収監中だった。「自分は実行犯ではない」と主張し続けてきた彼に何があったのか。16年間、手紙でやり取りしてきたディレクターがハワイを取材。殺害の3日前に彼と面会した弁護士から貴重な話を聞くことができた。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p731/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260117110000 +0000" stop="20260117113000 +0000">
@@ -15778,9 +15894,8 @@ UFOとのコンタクトに挑戦
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-155_s0_p745/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260118020000 +0000" stop="20260118023000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー「有名占い師 殺人事件31年目の結末」</title>
+		<desc>2024年10月、ハワイの刑務所で日本人受刑者が殺害された。かつて、日本中を騒がせた事件の犯人、福迫雷太受刑者だ。有名占い師、藤田小女姫とその息子をハワイで銃撃し、現場に火を放ったとして終身刑を言い渡され収監中だった。「自分は実行犯ではない」と主張し続けてきた彼に何があったのか。16年間、手紙でやり取りしてきたディレクターがハワイを取材。殺害の3日前に彼と面会した弁護士から貴重な話を聞くことができた。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p732/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260118023000 +0000" stop="20260118030000 +0000">
@@ -21770,9 +21885,12 @@ aespa、ILLIT、ITZY、THE BOYZ、STAYC、Kep1er、KISS OF LIFE、PURPLE K!SS、
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/553-2_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20260113115700 +0000" stop="20260113120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 1/13</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p288/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20260113120000 +0000" stop="20260113135000 +0000">
 		<title>乗り換え恋愛2 #1〜2</title>
@@ -23212,12 +23330,12 @@ NCT DREAM、ENHYPEN、ILLIT、ATEEZ、チョウミ(SUPER JUNIOR-M)、VIVIZ、Kep
 しかし病院長代理のニコラス丹下(市村正親)はそれを拒絶。梅沢の秘書・竹田邦子(西原亜希)は、東京地検に逮捕され拘置所にいる蛭間重勝(西田敏行)のもとを訪れ、不起訴に持ち込む代わりに、梅沢を病院で匿えるよう取り計らってほしいと打診する。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-68_s1_p3/thumb001.png" />
 	</programme>
-	<programme channel="drama" start="20260118154000 +0000" stop="20260118173000 +0000">
+	<programme channel="drama" start="20260118154000 +0000" stop="20260118172500 +0000">
 		<title>特命係長 只野仁(2007) 第5~6話</title>
 		<desc>電王堂の社員・立花有香(川村ひかる)が、得意先のシルバー電機の御曹司・洋一(若林謙)と婚約した直後に行方をくらませてしまう。黒川会長(梅宮辰夫)はシルバー電機の社長であり旧友でもある島崎(綿引勝彦)のために、只野(高橋克典)に彼女を探し出すことを命じる。さっそく森脇(永井大)と調査を開始した只野は、以前、有香にプロポーズを断られたことのある西山(辰巳智秋)という社員が怪しいとにらむが...。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/50-17rmrd-czaku_s0_p5/thumb001.png" />
 	</programme>
-	<programme channel="drama" start="20260118173000 +0000" stop="20260118193000 +0000">
+	<programme channel="drama" start="20260118172500 +0000" stop="20260118192000 +0000">
 		<title>決戦は日曜日【無料1週間】</title>
 		<desc>とある地方都市。谷村勉(30）は、この地に強い地盤を持ち当選を続ける衆議院議員・川島昌平（75）の事務所で私設秘書として働いている。秘書として中堅になり、川島の完璧な“サポートをするだけ”のこの仕事に満足していた。ところがある日、川島が病に倒れてしまう。そんなタイミングで衆議院が解散。次の選挙に川島の地盤を引き継ぎ、選挙に出る人間として白羽の矢が立ったのは、川島の娘・有美（45）。自由奔放、世間知らず。だけど謎の熱意だけはある有美に振り回される秘書たち。でもまあ、父・川島の地盤は盤石。よほどのことがない限り当選は確実・・・だったのだが、政界に蔓延る古くからの慣習に納得ができない有美はある行動を起こす―</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/158-102_s1_p1/thumb001.png" />
@@ -24885,9 +25003,12 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p426/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260113170000 +0000" stop="20260113170300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 1/13</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p288/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260113170300 +0000" stop="20260113200500 +0000">
 		<title>第13回MONDO杯 #7,8</title>
@@ -29030,7 +29151,7 @@ SIMON JAP「Murder Champ」</desc>
 		<title>RECTRUCK #11</title>
 		<desc>人気ラッパーたちがキャンピングカーで旅をしながら
 コラボ楽曲制作＆ライブセットリストを決める新番組『RECTRUCK』</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-6_s0_p14/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-117_s1_p13/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20260113173500 +0000" stop="20260113210000 +0000">
 		<title>【再放送】フリースタイルティーチャー：#117~#124</title>
