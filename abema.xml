@@ -52,6 +52,10 @@
 		<display-name>アニメ ポケットモンスターチャンネル2</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-2/logo.png" />
 	</channel>
+	<channel id="onepiece">
+		<display-name>ONE PIECEチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/onepiece/logo.png" />
+	</channel>
 	<channel id="family-anime-1">
 		<display-name>ファミリーアニメ</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
@@ -1059,16 +1063,7 @@ _x000B_
 	</programme>
 	<programme channel="abema-anime" start="20260120183500 +0000" stop="20260120184000 +0000">
 		<title>#神奈川に住んでるエルフ #4【最新話】</title>
-		<desc>かつて住処の森を焼かれたエルフたちは──
-「神奈川」に住んでいた。
-
-東京都の真下に位置する神奈川県。
-横浜、横須賀、茅ヶ崎、相模原……様々な場所にエルフたちは別にひっそりするでもなく普通に暮らしている。​
-
-物語の中心となるのは、「横浜のエルフ」と、色々あって彼をほっとけない「川崎の人間」。​
-
-すっかり現代日本に馴染んだ「神奈川県に住んでるエルフ」たちが織りなす、
-地元愛溢れる、現代ファンタジーコメディ！</desc>
+		<desc>森を焼かれたエルフたちと時を同じくして、オークたちも町田へ移住していた。「横浜のエルフ」と犬猿の仲である「町田のオーク」は遭遇するやいなや口論に発展。またもトラブルに巻き込まれた「川崎の人間」は、あまりに常識が通じないエルフたちに対し、オークの「人外」としての常識ぶりになぜか感動してしまう。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-113_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260120184000 +0000" stop="20260120190000 +0000">
@@ -1535,7 +1530,46 @@ SNSで大反響！
 		<desc>いつも元気いっぱいだが周りの目を気にしてしまう鈴木は、隣の席の物静かながら意見をハッキリ言う谷に密かに憧れていた。ある放課後、二人で下校することになり……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/210-16_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20260122223000 +0000" stop="20260123130700 +0000">
+	<programme channel="abema-anime" start="20260122223000 +0000" stop="20260123115300 +0000">
+		<title>葬送のフリーレン #1〜28【無料ビデオ1週間】</title>
+		<desc>魔王を倒し王都へ凱旋した勇者ヒンメル一行。各々が冒険した10年を振り返りながらこれからの人生に想いを馳せる中、エルフのフリーレンは感慨にふけることもなく、また魔法探求へと旅立っていく。50年後、皆との約束のためフリーレンは再び王都へ。その再会をきっかけに、彼女は新たな旅へと向かうことに―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-171_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20260123115300 +0000" stop="20260123120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	</programme>
+	<programme channel="abema-anime" start="20260123120000 +0000" stop="20260123123000 +0000">
+		<title>エリスの聖杯 #3・見逃し放送</title>
+		<desc>誠実だけが取り柄の地味な子爵令嬢、コンスタンス・グレイルは、
+婚約者の浮気相手の策略に嵌められてしまい窮地に立たされていた。
+断罪が行われようとする最中、コニーは助けを求めて周りを見渡すも、
+自身を庇う者はおろか真実を知る者にすら見放されてしまう。
+しかし突然、絶望するコニーの耳元で「助けてあげる」とささやく声が....。
+その声の主は、10年前に処刑された公爵令嬢で、
+稀代の悪女、スカーレット・カスティエルであった。
+出会うはずのない2人。そして、回り始める歯車。
+やがて、貴族社会を取り巻く巨大な陰謀が顔を覗かせる――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/780-1_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20260123123000 +0000" stop="20260123130000 +0000">
+		<title>魔都精兵のスレイブ2 #3・見逃し放送</title>
+		<desc>最高戦力 全組長、集結。
+
+活躍できる場所を求めていた男子高校生・和倉優希は、魔防隊 七番組組長・羽前京香の能力により“奴隷（スレイブ）”としての力を開花させ、京香は故郷の敵である一本角を討ち果たし宿願の復讐を遂げた。
+
+しかしその陰で、魔都では新たな脅威《八雷神》が動き始める。
+優希と京香は、全組長が集結する“組長会議”へと向かうことに。
+
+合同訓練を通じて力を蓄える魔防隊。
+その中で優希もまた、新たな可能性と著しい成長を見せ始める。
+一方で、八雷神の一柱が現世に現れて──。
+
+“飼われる少年”のバトルファンタジー、第2章。ここに開幕！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/189-59_s2_p3/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20260123130000 +0000" stop="20260123130700 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
@@ -1743,9 +1777,9 @@ SNSで大反響！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/536-1_s3_p14/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260124100000 +0000" stop="20260124120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+		<title>呪術廻戦 第3期 死滅回游 前編 #48〜51【無料ビデオ1週間】</title>
+		<desc>渋谷事変を経て魔境と化した東京で、黙々と呪霊を狩る虎杖と脹相。そこに禪院家当主の座を狙い伏黒の暗殺を企てる禪院直哉が襲撃。虎杖は直哉の口から、自らの死刑執行猶予が取り消されたことを知らされる。更に虎杖の死刑執行役として特級術師・乙骨憂太が急襲。虎杖は乙骨の圧倒的な呪力量に追い詰められる——。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/536-1_s4_p48/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260124120000 +0000" stop="20260124123000 +0000">
 		<title>ヘルモード #3・見逃し放送</title>
@@ -2003,21 +2037,7 @@ _x000B_
 	</programme>
 	<programme channel="abema-anime" start="20260125143000 +0000" stop="20260125150000 +0000">
 		<title>勇者刑に処す 懲罰勇者9004隊刑務記録 #3【最新話】</title>
-		<desc>勇者とは、この世で最悪の刑罰である。
-
-大罪を犯した者が「勇者」となり、魔王と戦う刑罰を科されるのだ。
-殺されようとも蘇生され、死ぬことすら許されない。
-
-勇者刑に処された元聖騎士団長のザイロ・フォルバーツは、
-性格破綻者たちで構成された懲罰勇者部隊を率い、戦いの最前線を駆け抜けていた。
-過酷な状況の中、ザイロは最強の生体兵器の一人、
-剣の《女神》テオリッタに出会う。
-
-「敵を殲滅した暁には、この私を褒め讃え……そして頭を撫でなさい」
-
-生き抜くため、自らを陥れた者へ復讐を果たすため――。
-《女神》と契約を交わしたザイロは、
-絶望的な世界で熾烈な闘争と陰謀の渦中に身を投じていく。</desc>
+		<desc>坑道の奥で坑夫たちを発見したザイロは、ボガートを撃退しながら坑道からの脱出を試みる。坑夫たちを鼓舞し、奮い立たせるノルガユ。しかし、ボガートの群れに押し負け、その牙が坑夫長に迫ろうとしていた……！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-308_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260125150000 +0000" stop="20260125153000 +0000">
@@ -4832,7 +4852,7 @@ ABEMAでしか見られない素敵な時間をお届けします！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
 	</programme>
 	<programme channel="anime-live" start="20260123130000 +0000" stop="20260123143000 +0000">
-		<title>声優と夜あそび 金【関智一×川島零士】#30</title>
+		<title>声優と夜あそび 金【岩田光央×川島零士】#30</title>
 		<desc>【金曜日は関智一×川島零士】
 月曜〜日曜まで人気声優が豪華なゲストや作品と共にお届けするディープな"夜あそび"。
 この番組はABEMAプレミアムなら何回でも見逃し視聴が可能！無料ダイジェストも毎日配信中。</desc>
@@ -6282,6 +6302,106 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 		<title>ポケットモンスター サン＆ムーン #115〜130【無料ビデオ1週間】</title>
 		<desc>ククイ博士から重大な発表があると、エーテルパラダイス特設ステージに集められたサトシたち。発表されたのは「アローラ・ポケモンリーグ」の開催だった！盛り上がるアローラの人々。その中継をテレビで見ていたスカル団のボス・グズマがポケモンスクールに乗り込んできた！どうやらククイ博士と因縁があるようで・・・？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-28_s1_p115/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260122010000 +0000" stop="20260122090000 +0000">
+		<title>ワンピース イーストブルー編 #1〜16</title>
+		<desc>海賊に襲われた豪華客船で、樽から一人の少年が飛び出した。海賊王になるために、海に出た“ゴムゴムの実”の能力者、モンキー・D・ルフィだ。ルフィの言葉に揺り動かされたアルビダ海賊団の雑用係・コビーは、勇気を振り絞ってアルビダに反抗するが…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260122090000 +0000" stop="20260122170000 +0000">
+		<title>ワンピース イーストブルー編 #1〜16</title>
+		<desc>海賊に襲われた豪華客船で、樽から一人の少年が飛び出した。海賊王になるために、海に出た“ゴムゴムの実”の能力者、モンキー・D・ルフィだ。ルフィの言葉に揺り動かされたアルビダ海賊団の雑用係・コビーは、勇気を振り絞ってアルビダに反抗するが…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260122170000 +0000" stop="20260123010000 +0000">
+		<title>ワンピース イーストブルー編 #1〜16</title>
+		<desc>海賊に襲われた豪華客船で、樽から一人の少年が飛び出した。海賊王になるために、海に出た“ゴムゴムの実”の能力者、モンキー・D・ルフィだ。ルフィの言葉に揺り動かされたアルビダ海賊団の雑用係・コビーは、勇気を振り絞ってアルビダに反抗するが…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260123010000 +0000" stop="20260123090000 +0000">
+		<title>ワンピース イーストブルー編 #17〜31</title>
+		<desc>ゾロとの連携でウソップの“火薬星”がジャンゴに命中！ルフィの“ゴムゴムの鐘”にクロが倒され、クロの計画を防ぐことに成功した。カヤはルフィ達へ感謝をこめてゴーイング・メリー号を贈り、ウソップ海賊団を解散したウソップも、ルフィたちに加わることに。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260123090000 +0000" stop="20260123170000 +0000">
+		<title>ワンピース イーストブルー編 #17〜31</title>
+		<desc>ゾロとの連携でウソップの“火薬星”がジャンゴに命中！ルフィの“ゴムゴムの鐘”にクロが倒され、クロの計画を防ぐことに成功した。カヤはルフィ達へ感謝をこめてゴーイング・メリー号を贈り、ウソップ海賊団を解散したウソップも、ルフィたちに加わることに。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260123170000 +0000" stop="20260124010000 +0000">
+		<title>ワンピース イーストブルー編 #17〜31</title>
+		<desc>ゾロとの連携でウソップの“火薬星”がジャンゴに命中！ルフィの“ゴムゴムの鐘”にクロが倒され、クロの計画を防ぐことに成功した。カヤはルフィ達へ感謝をこめてゴーイング・メリー号を贈り、ウソップ海賊団を解散したウソップも、ルフィたちに加わることに。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260124010000 +0000" stop="20260124090000 +0000">
+		<title>ワンピース イーストブルー編 #32〜46</title>
+		<desc>ゾロはアーロンの留守中にアーロンパークの一味を全て斬り、ウソップを助けようとココヤシ村へ。一方、アーロンパークに戻ったアーロンは、ゾロが“海賊狩りのゾロ”と知り、ナミを疑う。そしてゾロと入れ違いに捕まえられてきたウソップを刺すように命じる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s1_p33/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260124090000 +0000" stop="20260124170000 +0000">
+		<title>ワンピース イーストブルー編 #32〜46</title>
+		<desc>ゾロはアーロンの留守中にアーロンパークの一味を全て斬り、ウソップを助けようとココヤシ村へ。一方、アーロンパークに戻ったアーロンは、ゾロが“海賊狩りのゾロ”と知り、ナミを疑う。そしてゾロと入れ違いに捕まえられてきたウソップを刺すように命じる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s1_p33/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260124170000 +0000" stop="20260125010000 +0000">
+		<title>ワンピース イーストブルー編 #32〜46</title>
+		<desc>ゾロはアーロンの留守中にアーロンパークの一味を全て斬り、ウソップを助けようとココヤシ村へ。一方、アーロンパークに戻ったアーロンは、ゾロが“海賊狩りのゾロ”と知り、ナミを疑う。そしてゾロと入れ違いに捕まえられてきたウソップを刺すように命じる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s1_p33/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260125010000 +0000" stop="20260125090000 +0000">
+		<title>ワンピース イーストブルー編 #47〜61</title>
+		<desc>自分を逮捕しようとするスモーカーに対し、ルフィは技を失敗、吹っ飛んでしまう。ゾロはたしぎに連れられ眼鏡の償いに海軍で掃除をするが、海兵に正体がバレて飛び出す。その後、武器屋でたしぎと再会。そこでゾロは妖刀“三代鬼徹”を手にするが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s1_p49/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260125090000 +0000" stop="20260125170000 +0000">
+		<title>ワンピース イーストブルー編 #47〜61</title>
+		<desc>自分を逮捕しようとするスモーカーに対し、ルフィは技を失敗、吹っ飛んでしまう。ゾロはたしぎに連れられ眼鏡の償いに海軍で掃除をするが、海兵に正体がバレて飛び出す。その後、武器屋でたしぎと再会。そこでゾロは妖刀“三代鬼徹”を手にするが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s1_p49/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260125170000 +0000" stop="20260126010000 +0000">
+		<title>ワンピース イーストブルー編 #47〜61</title>
+		<desc>自分を逮捕しようとするスモーカーに対し、ルフィは技を失敗、吹っ飛んでしまう。ゾロはたしぎに連れられ眼鏡の償いに海軍で掃除をするが、海兵に正体がバレて飛び出す。その後、武器屋でたしぎと再会。そこでゾロは妖刀“三代鬼徹”を手にするが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s1_p49/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260126010000 +0000" stop="20260126090000 +0000">
+		<title>ワンピース グランドライン突入編 #62〜77</title>
+		<desc>リヴァース・マウンテンを“偉大なる航路（グランドライン）”へ向けて一気に下るメリー号の行く手を、巨大なアイランドクジラのラブーンが塞ぐ！　メリー号はラブーンに丸飲みされるが、胃袋には青空が!?　そしてそこにはクロッカスという人物がいて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s2_p62/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260126090000 +0000" stop="20260126170000 +0000">
+		<title>ワンピース グランドライン突入編 #62〜77</title>
+		<desc>リヴァース・マウンテンを“偉大なる航路（グランドライン）”へ向けて一気に下るメリー号の行く手を、巨大なアイランドクジラのラブーンが塞ぐ！　メリー号はラブーンに丸飲みされるが、胃袋には青空が!?　そしてそこにはクロッカスという人物がいて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s2_p62/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260126170000 +0000" stop="20260127010000 +0000">
+		<title>ワンピース グランドライン突入編 #62〜77</title>
+		<desc>リヴァース・マウンテンを“偉大なる航路（グランドライン）”へ向けて一気に下るメリー号の行く手を、巨大なアイランドクジラのラブーンが塞ぐ！　メリー号はラブーンに丸飲みされるが、胃袋には青空が!?　そしてそこにはクロッカスという人物がいて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s2_p62/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260127010000 +0000" stop="20260127090000 +0000">
+		<title>ワンピース チョッパー登場・冬島編 #78〜92</title>
+		<desc>ブロギーとドリーの助力により、無事リトル・ガーデンを出航し、ビビの故郷アラバスタに向かうメリー号だが、Mr.２・ボン・クレーがMr.３の抹殺指令を受けた頃、突然ナミが高熱を出して倒れる!!　医者を探しに、メリー号は舵を切る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s3_p78/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260127090000 +0000" stop="20260127170000 +0000">
+		<title>ワンピース チョッパー登場・冬島編 #78〜92</title>
+		<desc>ブロギーとドリーの助力により、無事リトル・ガーデンを出航し、ビビの故郷アラバスタに向かうメリー号だが、Mr.２・ボン・クレーがMr.３の抹殺指令を受けた頃、突然ナミが高熱を出して倒れる!!　医者を探しに、メリー号は舵を切る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s3_p78/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260127170000 +0000" stop="20260128010000 +0000">
+		<title>ワンピース チョッパー登場・冬島編 #78〜92</title>
+		<desc>ブロギーとドリーの助力により、無事リトル・ガーデンを出航し、ビビの故郷アラバスタに向かうメリー号だが、Mr.２・ボン・クレーがMr.３の抹殺指令を受けた頃、突然ナミが高熱を出して倒れる!!　医者を探しに、メリー号は舵を切る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s3_p78/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260128010000 +0000" stop="20260128090000 +0000">
+		<title>ワンピース アラバスタ・上陸編 #93〜108</title>
+		<desc>アラバスタの港町・ナノハナに着くなり、ルフィはメシ屋へ行ってしまう。反乱軍の拠点であるユバへ行き、暴動を止めたいビビ。サンジとチョッパーは砂漠を渡るための物資を買いに出るが、香水と熱さとでダウンしたチョッパーは、反乱軍の荷車に乗ってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s4_p93/thumb001.png" />
+	</programme>
+	<programme channel="onepiece" start="20260128090000 +0000" stop="20260128170000 +0000">
+		<title>ワンピース アラバスタ・上陸編 #93〜108</title>
+		<desc>アラバスタの港町・ナノハナに着くなり、ルフィはメシ屋へ行ってしまう。反乱軍の拠点であるユバへ行き、暴動を止めたいビビ。サンジとチョッパーは砂漠を渡るための物資を買いに出るが、香水と熱さとでダウンしたチョッパーは、反乱軍の荷車に乗ってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s4_p93/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260113141000 +0000" stop="20260113160000 +0000">
 		<title>映画ドラえもん のび太の太陽王伝説</title>
@@ -17398,32 +17518,32 @@ NHK大河ドラマ「べらぼう」出演で話題！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p39723/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260121040000 +0000" stop="20260121050000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>日本維新の会　衆議院選挙のマニフェスト発表</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p39724/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260121050000 +0000" stop="20260121060000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>日本維新の会　マニフェスト発表／日本共産党　政策発表</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p39725/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260121060000 +0000" stop="20260121070000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>日本共産党　衆議院選挙の政策発表</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p39726/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260121070000 +0000" stop="20260121080000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>国民民主を離党…円より子氏が新党「中道」から衆議院選に出馬へ</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p39727/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260121080000 +0000" stop="20260121090000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>「健康を取り戻す」れいわ・山本代表　健康上の理由から議員辞職</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p39728/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260121090000 +0000" stop="20260121100000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>れいわ・山本代表会見／自民党　衆議院選挙の政策発表</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p39729/thumb001.png" />
 	</programme>
@@ -22963,6 +23083,536 @@ IVE,&amp;TEAM,NCT WISH,ミンニ((G)I-DLE),GOT7,ONEUS,CIX,n.SSign,KickFlip,BBGIR
 		<desc>別れた翌日、席替えで隣同士になったヨンとイェチャンの間には気まずい空気が流れる。一方イジは、ドンヒに再び振り向いてもらうため、同じクラスのウヒョンに話かけやきもちを焼かせようとしていた。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/353-12_s4_p2/thumb001.png" />
 	</programme>
+	<programme channel="k-world" start="20260123190000 +0000" stop="20260123201000 +0000">
+		<title>目覚ましSuperTV #10(終)</title>
+		<desc>SUPER JUNIORの20周年記念無計画合宿!
+そして「目覚ましSuperTV」の笑いと涙の最終回!
+
+SUPER JUNIORの20歳の誕生日を迎えて
+料理係のリョウク&amp;シウォンは手料理を披露!
+20年の歳月の分だけ20倍楽しかった食事時間!
+
+そして合宿の最後を華やかに飾るハイライトは
+涙と悲鳴(?)が飛び交ったSUPER JUNIOR初!リレー洗手&amp;洗足式!
+20年間の本心がこもった告白を交わすが...
+込み上げる感情に涙を流したメンバーと
+いたずらっ子メンバーによる泣き笑った混乱の現場とは?
+
+“みんな永遠の友人でいてほしい”
+20年、数字では計り知れない大切な時間を共にしたSUPER JUNIOR
+彼らの友情が輝く最後の物語へ♥</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-43_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260123201000 +0000" stop="20260123213000 +0000">
+		<title>スーパーマンが帰ってきた #558</title>
+		<desc>【僕の元にやって来てくれてありがとう】(韓国2025年1月22日放送)
+生後70日を迎えたジェイの姿を大公開!さらに、スホン夫妻は結婚記念日を祝って外出!南大門市場で買い物を楽しんだ後は、思い出の場所へ!愛する妻に感動のサプライズ!お笑いタレントのチョン・ソンホ一家が久しぶりの登場!末っ子のハヌルは1人で走り回れるほど成長!5姉弟の休日の様子をたっぷりお届け!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-8_s1_p558/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260123213000 +0000" stop="20260123233000 +0000">
+		<title>三食ごはん Light #1</title>
+		<desc>搬入品や重量の制限がある中、自分たちで必要な物を準備して2人が向かった場所は、青々としたじゃがいも畑が広がる平昌の三食ハウス。到着してすぐキムチを漬け始めるスンウォンと、あうんの呼吸で手伝うヘジン。料理が順調に進む中、ヘジンのある行動がスンウォンを激怒させてしまう。果たして2人の友情の行方は?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-396_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260123233000 +0000" stop="20260124011000 +0000">
+		<title>HEART SIGNAL #10</title>
+		<desc>一途な男ソ・ジュウォンの切り札カートレーシングカー。レーシングカーを楽しむ超近距離のレーシングデート！ソ・ジュウォンが連れて行きたい女性は…？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/176-12_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260124011000 +0000" stop="20260124025500 +0000">
+		<title>三食ごはん 山村編 #3</title>
+		<desc>昼食はすいとんと野菜の天ぷら。生地作りが得意なウソンがコツを伝授する。それから半月後、再び三食ハウスに集まった3人。雨にぬれないよう庭に天幕を張り、かまどを移動させる。昼食はジョンアの大好きな若大根を使ったビビンククス。そしてお金を前借りして買い出しに行き久しぶりに豚肉とサバを堪能する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-140_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260124025500 +0000" stop="20260124055500 +0000">
+		<title>【日韓同時・国内独占配信】STEAL HEART CLUB #9</title>
+		<desc>セミファイナル【トップラインバトル】が再開。
+前回のラインナップ発表式を経てチーム人員の再調整から始まる。
+各ポジション一位から選択するため、望まない曲に配属される参加者も、、、。
+中間チェックまでの練習が水の泡になりながらも、セミファイナルでは完成度の高いステージを披露する。
+見事勝ち残り、ファイナルに進出することになる参加者は誰だ!?
+そして、番組期間中息つくまもなく練習してきた参加者たちに癒しの時間をプレゼント!【スティールヒーリングクラブ】では普段あまり見られない参加者たちの無邪気な笑顔も!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-76_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260124055500 +0000" stop="20260124060500 +0000">
+		<title>【特別映像】デビューメンバー紹介映像</title>
+		<desc>HYBE × GEFFENによる次世代グローバルガールグループプロジェクト「WORLD SCOUT」。
+2026年にデビュー予定の新グループに参加する3人──EMILY（アメリカ）・SAMARA（ブラジル）・LEXIE（スウェーデン）──を紹介。
+
+デビューを控えたグループの唯一無二の空気感を映し出すイントロダクションムービー。
+そして、世界中が注目した緊張の審査の一瞬をチラ見せ。彼女たちの“はじまり”を見逃すな！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p503/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260124060500 +0000" stop="20260124075000 +0000">
+		<title>GREAT SEOUL INVASION #4</title>
+		<desc>現代を生きるバンドたちが、2000年代、1990年代、1980年代、1970年代の過去のロック音楽を再解釈し、対決する!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-77_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260124075000 +0000" stop="20260124104500 +0000">
+		<title>【日韓同時・国内独占配信】BOYS ll PLANET【C】 #2</title>
+		<desc>前回に引き続き、ランク決定戦開幕!
+「BOYS PLANET」に参加をしていた練習生が2年ぶりに再挑戦!
+他にも才能豊かな参加者たちが続々と登場し、マスター陣も大盛り上がり。
+ランク決定戦の結果は果たして?
+
+そして引き続き、ランク決定戦が続く。
+次は「シグナルソングテスト」へ。
+難易度の高いシグナルソングに苦戦する人が続出の中、スターを守り抜くために必死で努力する参加者たち。
+引き続きノースターの参加者はその場で脱落になってしまうため、必死に練習に取り組む。
+マスターの前で1人ずつ披露するテストの結果はいかに?
+そして生存した参加者はどの参加者か?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-70_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260124104500 +0000" stop="20260124115700 +0000">
+		<title>BOYS Ⅱ PLANET K+C コメンタリー</title>
+		<desc>K+Cのレベルテストの映像を見ながら、チェ・ヨンジュンとジェジェがトークを繰り広げる!
+
+【ABEMAにて独占配信】 
+2023年に放送され、世界最高レベルで盛り上がった視聴者参加型オーディション番組「BOYS PLANET」が、2025年さらに進化をして「BOYS IPLANET」としてこの夏、復活します!
+
+今回はKとC、2つの拠点からスタート。
+
+KとCの2つのプラネットから少年たちが集まり、デビューを目指し熾烈なバトルを繰り広げるK-POP WORLD-SCALE DEBUT PROJECT!
+スタークリエイターの皆さんの心を熱くする少年は誰だ?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-70_s1_p100060/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260124115700 +0000" stop="20260124120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+	</programme>
+	<programme channel="k-world" start="20260124120000 +0000" stop="20260124150000 +0000">
+		<title>ENHYPEN 'MANIFESTO' in JAPAN 横浜アリーナ</title>
+		<desc>2022年11月16日に横浜アリーナで開催された、ENHYPEN初のワールドツアー ENHYPEN WORLD TOUR 'MANIFESTO' in JAPANの横浜公演</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/553-10_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260124150000 +0000" stop="20260124171500 +0000">
+		<title>ピラミッドゲーム #4〜5</title>
+		<desc>「私たちの味方にならない?」
+スジはゲームを無くす目的で、ジャウンと一緒にクラスメイトたちを仲間にしようとする。 その過程で紆余曲折を経ながら、二人は段々仲を深めていく。一方、クラスメイトたちの情報を得ることに限界を感じ、教室の内外で助っ人を探し始めるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-42_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260124171500 +0000" stop="20260124184000 +0000">
+		<title>スーパーマンが帰ってきた #526</title>
+		<desc>【心が伝える幸せ】(韓国2024年5月19日放送)
+日本公演を終えたミンファンパパは子供達と久しぶりの休日を過ごす!自宅の屋上でキャンプを楽しんだ後は、日頃の感謝を込めておばあちゃんにサプライズ!ジェムジェム親子はソウル観光!体を動かし、ジェムジェム姉弟の気分は最高潮!ウヌ親子は子育てセンターへ!プールでの水遊びに夢中なウヌ兄弟のキュートな姿は必見!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-8_s1_p526/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260124184000 +0000" stop="20260124190000 +0000">
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260124190000 +0000" stop="20260124205000 +0000">
+		<title>【日本初・独占配信】知ってる外高 #1</title>
+		<desc>祝★グローバル芸能特殊科高校&lt;知ってる外高&gt;★開校!
+出身、母国語、年齢の異なる様々な魅力を持つ多国籍セレブたちが入学!
+国籍を先にチェック(?)するグローバルな心理戦から、世界各国の登校初日のあるあるトークまで!
+そして、「知ってる外高」ならではの特別な自己紹介方法を電撃公開!
+ジョナダン×アルベルト×ミンニ×サクラ×レオ×ジャスティン×シャネル×ジェニーと一緒に&lt;知ってる外高&gt;へゴーゴーレッツゴー!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/367-11_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260124205000 +0000" stop="20260124221000 +0000">
+		<title>スーパーマンが帰ってきた #559</title>
+		<desc>【ワクワクは多いほうがいい】(韓国2025年2月5日放送)
+ウヌ親子がイチゴ狩りへ!弟のためにイチゴを取ってあげるウヌの頼もしい姿は必見!さらに、大好物である豆腐作りに初挑戦!手作りの豆腐を使った絶品料理に舌鼓!後半は、1歳の誕生日を迎えたシウの誕生日会に密着!ドンミンパパがブリの解体ショーを披露!ジウはバースデーソングをプレゼント!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-8_s1_p559/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260124221000 +0000" stop="20260125001500 +0000">
+		<title>三食ごはん Light #2</title>
+		<desc>韓国の国民的歌手、イム・ヨンウンを迎え2日目の昼食準備に取りかかる。スターにふさわしいメニューを考案したスンウォン。ヨンウンは人生初めての火おこしやにんにくの皮むき、DIYなどで大忙し。コース料理の昼食を堪能したあと、少し休んだ3人は債務返済のためにじゃがいも掘りに汗を流す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-396_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125001500 +0000" stop="20260125002500 +0000">
+		<title>【特別映像】デビューメンバー紹介映像</title>
+		<desc>HYBE × GEFFENによる次世代グローバルガールグループプロジェクト「WORLD SCOUT」。
+2026年にデビュー予定の新グループに参加する3人──EMILY（アメリカ）・SAMARA（ブラジル）・LEXIE（スウェーデン）──を紹介。
+
+デビューを控えたグループの唯一無二の空気感を映し出すイントロダクションムービー。
+そして、世界中が注目した緊張の審査の一瞬をチラ見せ。彼女たちの“はじまり”を見逃すな！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p503/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125002500 +0000" stop="20260125040500 +0000">
+		<title>都市漁夫 #4〜5</title>
+		<desc>5日目の対象魚は、パラオで最も釣るのが難しくて高級だというセブス。その中でもパラオの海に住む宝石と呼ばれる、ルビースナッパーを釣ることが目標だ。深海にいるため、当たりに気付くことさえも難しい。なかなか当たりが来ず焦り始める4人。前回、サメにグルーパーを奪われたチュ・ソンフン。再び魚を狙うサメが現れ、ソンフンはサメと戦うことに。この戦いに勝つのは?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-236_s1_p74/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125040500 +0000" stop="20260125055000 +0000">
+		<title>三食ごはん 山村編 #4</title>
+		<desc>前日、天幕を張って筋肉痛になった3人は、起きるのがつらくて布団の上でゴロゴロしながら過ごす。しかし苦労して張った天幕が...。朝食は、野菜たっぷりのお粥や卵焼き、焼き豆腐など。卵焼きはソダムが、10個の卵を使って釜のふたで作ることに。大きくてきれいなビジュアルにジョンアとセアも大満足。1時間以上煮込んだお粥も、ヘルシーでおいしく出来上がる。食事を終えて後片づけをしていると、そこへゲストのオ・ナラがやって来る。4人で買い物に行き、昼食を作って、仲良く白菜の苗を植える。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-140_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125055000 +0000" stop="20260125090500 +0000">
+		<title>R U Next？ #7～8【日韓同時・独占配信】</title>
+		<desc>ENHYPENを輩出し、大きな反響を集めた「I-LAND」に続き、HYBE LABELS傘下のBELIFT LABが手掛ける次世代グローバルガールグループデビューサバイバルプログラム「R U Next?」！デビューを夢見る参加者たちがHYBEのカリキュラムの中でトレーニングを受け、可能性、表現力、ジャンル消化力、専門性、差別性、創造性、スター性など計7つのラウンドコンテストを1つずつ通過し、自分の潜在力とスター性を証明していく。TOMORROW X TOGETHER、ENHYPEN、NewJeans、LE SSERAFIMなど多くの大人気アイドルグループを誕生させたHYBE LABELSから、次世代グローバルガールズグループとしてデビューするのは果たして誰なのか…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/553-4_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125090500 +0000" stop="20260125092500 +0000">
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125092500 +0000" stop="20260125115700 +0000">
+		<title>【無料独占】アイドルアイ #3～4話 【毎週月・火 23時30分最新話配信中】</title>
+		<desc>交番で保護されたライクを連れ帰ったセナだが、ライクは家を飛び出ていく。セナはライクの周囲に聞き込みを行う中で誰も彼を信じていないことにがく然とした。不良に絡まれて萎縮しているライクを発見したセナは、最後まで諦めず戦うことを決意する。一方、警察は事件当日の夜、ライクが妙な行動をしていたことに気付き...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-52_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125115700 +0000" stop="20260125120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+	</programme>
+	<programme channel="k-world" start="20260125120000 +0000" stop="20260125144000 +0000">
+		<title>BOYS PLANET #6【日韓同時・独占配信】</title>
+		<desc>ついに始まった2回目のミッション、デュアルポジションバトル！一人一人が二つのポジションを担当するこのミッションでは、初めてK, Gグループの境界なしにチームを結成！VOCAL &amp; RAPポジション、VOCAL &amp; DANCEポジション、RAP &amp; DANCEポジションに分かれてステージを披露し、それぞれのポジションで1位を獲得したチームにはベネフィットが与えられる。
+キレのあるラップやアクロバットを披露し絶賛を受けたステージから、セクシーなダンスと表情で観客の悲鳴を呼んだ圧巻のステージまで！SEVENTEEN「Home」やMONSTA X「Love Killa」など多くのヒット曲を披露するデュアルポジションバトルの行方は果たして…!?※ボイプラはABEMA国内独占配信</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/458-24_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125144000 +0000" stop="20260125154500 +0000">
+		<title>ピョンピョン地球娯楽室 #7</title>
+		<desc>平和な海辺。砂場を楽しむメンバーたちの間、混ざっているのはウサギ?!トロンが戻ってきた!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-79_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125154500 +0000" stop="20260125171000 +0000">
+		<title>スーパーマンが帰ってきた #527</title>
+		<desc>【初の誕生日 おめでとう】(韓国2024年5月26日放送)
+1歳を迎えたジョンウの誕生日パーティーの準備にウヌ親子は奮闘!パパはママへ日頃の感謝を込めて歌のサプライズを計画。自宅にトロット歌手を招き、歌の猛特訓!後半は、ワーキングママHoney Jの一日に密着!ラブを保育園へ送り届けた後はダンサーに変身!ダンサー仲間のMonikaとLIP Jをお家に招待!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-8_s1_p527/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125171000 +0000" stop="20260125183500 +0000">
+		<title>スーパーマンが帰ってきた #528</title>
+		<desc>【君のためなら何だってできる】(韓国2024年6月2日放送)
+ジュノパパのフェンシング指導に熱が入るスパルタコーチとしての姿を大公開!さらに、親子3代でファミリーマラソンに初挑戦!無事に完走なるか...?体を動かした後は、絶品鶏肉料理で栄養補給!一方、ジェムジェム親子は初めてのキャンプを楽しむ!パパのお手製キャンプ飯を前にした子供たちの反応はいかに?!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-8_s1_p528/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125183500 +0000" stop="20260125185500 +0000">
+		<title>ILLIT 日本デビューライブ＆オフショット大公開SP</title>
+		<desc>ILLITが待望のJAPAN 1st Single「時よ止まれ」をリリース！
+これを記念してABEMAが特別番組を制作！
+
+番組にはファン必見の見どころが満載！
+▼JAPAN 1st Single「時よ止まれ」の表題曲「時よ止まれ」と、カップリング曲「Topping」のライブ映像をフルサイズで大公開！
+▼日本のファンにもっと愛されるためにメンバーが考案した“日本語あだ名”を大公開!!予想外のネーミングに、WONHEEの表情が一変する瞬間も!? 
+▼ABEMA視聴者のためだけに、新曲「時よ止まれ」のダンスをメンバーが直接レクチャーする特別企画が実現
+▼MOKAとIROHAが、サバイバル番組での自身の経験や当時の想いを語る胸熱トーク
+などなど……
+今この瞬間を、ILLITと一緒に止めて、楽しもう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p502/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125185500 +0000" stop="20260125205000 +0000">
+		<title>【日本初・独占配信】知ってる外高 #2</title>
+		<desc>&lt;知ってる外高&gt;初代学級委員選挙の日! 
+長年の学年代表としての経験を前面に出し、立候補した「ミンニ」VS 曜日学級委員&amp;携帯電話回収係を引き受けた「ジョナダン」の白熱した選挙戦!
+奨学金の寄付から祖父母が運営するリゾートの提供まで! 物質的な支援で勝負に出るミンニに対抗して、ジョナダンは友達一人一人に合わせた公約を提示し、感情に訴える演説を繰り広げる...。
+果たして、&lt;知ってる外高&gt;初代学級委員はだ〜れ?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/367-11_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125205000 +0000" stop="20260125221000 +0000">
+		<title>スーパーマンが帰ってきた #560</title>
+		<desc>【おめでとう いつまでも愛してる】(韓国2025年2月12日放送)
+今回は番組12周年を記念した特別版!女優のソン・ソンミが小学生の愛娘と登場!シングルマザーとして日々子育てに奮闘するスーパーマムが語る番組出演を決めた理由とは?仲良し親子の休日に密着!朝食作りやフォトカード作りを楽しむ!後半は、すっかり成長したジェイの様子を公開!生後100日を迎え、記念写真を撮影!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-8_s1_p560/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260125221000 +0000" stop="20260126000500 +0000">
+		<title>三食ごはん Light #3</title>
+		<desc>3日目の昼食は蓬坪まで足を伸ばして名物のマッククスを堪能する。ヨンウンが帰ったあと、寂しさを紛らわすためにマッコリを飲むスンウォンとヘジン。そこに元気いっぱいのキム・ゴウンが登場。調理補助もDIYもこなすゴウンに喜ぶ先輩たち。そんな中、かまどの使いにくさを解消するためヘジンとゴウンがある物を作る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-396_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126000500 +0000" stop="20260126020000 +0000">
+		<title>見習い社長の営業日誌3 #1</title>
+		<desc>はるばるアメリカまでやって来たチャ・テヒョンとチョ・インソン。今回のスーパーは広いうえに商品も多岐にわたる。しかもシステムは予想外に旧式。バーコードスキャナーすらないレジを前に途方に暮れるチャ社長。早速かかってきた電話に出てみれば言葉が通じず意思疎通すら難しい。ふと見るとレジの前には売り物らしきのり巻きが。店内にはなぜか2つのキッチンがあり不吉な予感に襲われる。そこに心強いバイトが登場するのだが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-379_s3_p1/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126020000 +0000" stop="20260126034000 +0000">
+		<title>車輪のついた家 #11</title>
+		<desc>今回の旅の舞台は韓国で2番目に大きい島、巨済島。女優のハ・ジウォンをお客様として迎え、渓谷と海を同時に楽しめるモンドル海岸を庭にして美しい自然を満喫する。憧れのジウォンと初めて会ったジングは緊張のあまり目を合わせられない状態に。笑顔あふれるジウォンの魅力に注目。後半では船釣りに向かったメンバーたち。経験者のドンイルは、やる気満々で挑むが、まさかの悲劇が...。果たして一番多く魚を釣ったのは誰なのか?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-348_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126034000 +0000" stop="20260126052500 +0000">
+		<title>三食ごはん 山村編 #5</title>
+		<desc>若大根のビビンバの朝食後、アイスコーヒーを飲み近くを仲良く散歩する4人。そして昼食はナラの提案でベトナム料理に挑戦。山村でベトナム料理が食べられるとは思わなかった彼女たちは、その出来に大興奮。約1か月後、再び三食ハウスを訪れた3人は動きやすくするため食器棚とかまどを移動させる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-140_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126052500 +0000" stop="20260126071000 +0000">
+		<title>ミュージックバンク #1236【IVE/ウニョク/n.SSign】</title>
+		<desc>IVEがカムバック!“暴走モルモットダンス”が話題の新曲「ATTITUDE」を披露!また、KickFlipはStray Kidsの「LALALALA」カバー!ここでしか見ることができないスペシャルステージをお見逃しなく!そのほか、ウニョク(SUPER JUNIOR)やALL(H)OURSも登場!
+【MC】ムン・サンミン,ミンジュ(ILLIT)
+【出演】
+IVE,ウニョク(SUPER JUNIOR),n.SSign,CIX,KickFlip,ALL(H)OURS,RESCENE,Kandis,Lubless,FIST BUMP,パク・ジヒョン,カン・ヘヨン,パク・ミンス,KiMMi,キム・ボミン,Macha,ミスキム</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-2_s1_p1236/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126071000 +0000" stop="20260126083000 +0000">
+		<title>スーパーマンが帰ってきた #529</title>
+		<desc>【子育て?そんなのテキトーでいい】(韓国2024年6月9日放送)
+第1世代アイドルを代表する歌手のパダがスーパーマムとして登場!相変わらず超外向型のパダママと娘ルア!まるで親友のように仲良しな2人の休日に密着!さらに、11歳年下の夫を初公開!後半は、お笑いタレントチャン・ドンミンの育児の様子をお届け!1歳10ヶ月で早くもお喋り上手な娘ジウのキュートな姿は必見!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-8_s1_p529/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126083000 +0000" stop="20260126101000 +0000">
+		<title>HEART SIGNAL #2</title>
+		<desc>シグナルハウスの1日目に票を集めたジヘVSメールが来なかったユンギョン。ユンギョンの反撃が始まる!?また、ついに明かされる入居者たちの職業！想像を超えるスペックをカミングアウト！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/176-12_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126101000 +0000" stop="20260126115700 +0000">
+		<title>WORLD OF STREET WOMAN FIGHTER #7</title>
+		<desc>ついにセミファイナル!
+「グローバルアーティストパフォーマンスミッション」の開始!
+世界的ヒット曲を産み出しているSaweetie(スウィーティー)」が登場し、「Shake It Fast」を課題曲にパフォーマンスを評価!
+最も印象的だった 1チームに100点を付与、 2位以下は順位に応じて 100点ずつ差をつけて減点されるというミッション。
+Saweetieが選ぶチームはどこか??
+また、ダンスフィルムミッションも開始!
+音源を5つの区間に分けて各クルーがパフォーマンス!
+ファイトジャッジの評価で選ばれた「ベストクルー」には100点を加算される。
+最終結果はどのような結果になったのか?!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-69_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126115700 +0000" stop="20260126120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+	</programme>
+	<programme channel="k-world" start="20260126120000 +0000" stop="20260126125000 +0000">
+		<title>LA@ITZY #3</title>
+		<desc>着こなしたITZYは、リムジンに乗ってレストランに向かう。次の日には砂漠に行くことにする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-78_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126125000 +0000" stop="20260126130000 +0000">
+		<title>【特別映像】デビューメンバー紹介映像</title>
+		<desc>HYBE × GEFFENによる次世代グローバルガールグループプロジェクト「WORLD SCOUT」。
+2026年にデビュー予定の新グループに参加する3人──EMILY（アメリカ）・SAMARA（ブラジル）・LEXIE（スウェーデン）──を紹介。
+
+デビューを控えたグループの唯一無二の空気感を映し出すイントロダクションムービー。
+そして、世界中が注目した緊張の審査の一瞬をチラ見せ。彼女たちの“はじまり”を見逃すな！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p503/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126130000 +0000" stop="20260126143500 +0000">
+		<title>ミュージックバンク #1227【aespa/ILLIT/ITZY】</title>
+		<desc>aespaが中毒性のあるサビと振り付けが話題の楽曲「Whiplash」を披露!THE BOYZは新曲「TRIGGER (導火線)」を引っ提げてカムバック!力強くキレのあるパフォーマンスは必見!そのほか、ITZYやSTAYCなど人気アーティストが続々登場!お楽しみに!
+【MC】ムン・サンミン、ミンジュ(ILLIT)
+【出演】
+aespa、ILLIT、ITZY、THE BOYZ、STAYC、Kep1er、KISS OF LIFE、PURPLE K!SS、FIFTY FIFTY、tripleS Visionary Vision、ONEPACT、82MAJOR、AMPERS&amp;ONE、DreamNote、Kik5o、DXMON、SAY MY NAME、ユン・ソビン</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-2_s1_p1227/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126143500 +0000" stop="20260126160500 +0000">
+		<title>【独占配信】Idol Festa Attack #2</title>
+		<desc>安東(アンドン)にNCT DREAMが登場!
+ メンバーでリンゴを売り、1+1のおまけつきで、おまけはコンサート!
+コンサートの会場が広く、リンゴがチケットの代わりなので数千個は売る必要が・・・。
+果たしてNCT DREAMは何個売り上げるのか?!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-72_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126160500 +0000" stop="20260126175500 +0000">
+		<title>リアル:タイム:ラブ season4 #4～8(終)</title>
+		<desc>演技キャンプ当日。バスに乗り込んだヨンの横に座ったトクジン。一歩遅かったイェチャンは二人の後ろの席に座る。そしてキャンプ場に着いた一同は演劇の授業を受け、ヨンとトクジンは二人でロミオとジュリエットを演じることになるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/353-12_s4_p4/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126175500 +0000" stop="20260126195000 +0000">
+		<title>【日本初・独占配信】知ってる外高 #3</title>
+		<desc>&lt;知ってる外高&gt;に女心を掴む新星スマート男子が登場!
+中国福建省首席「ZEROBASEONE」ジャン・ハオが正式合流! 知ってる大学入学必須科目「フレンドシップ」のために&lt;知ってる外高&gt;だけのプロムパーティーを開催!
+多国籍グローバルパートナーたちが総出動し、最高の友情を決めるため、熱い頭脳戦+体力戦を繰り広げる!
+ 果たして1位のチームは誰になるのか?
+ウギ((G)I-DLE)×ホ•ユンジン(LE SSERAFIM)×アテナ(FIFTY FIFTY)×ソク•マシュー(ZEROBASEONE)×ジョンバク×パトリシア×ロビン×ラッキー×ダーシャ•タランと一緒にゴーゴーレッツゴーフロムパーティー!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/367-11_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126195000 +0000" stop="20260126211000 +0000">
+		<title>スーパーマンが帰ってきた #561</title>
+		<desc>【僕たち順調に育ってるよ】(韓国2025年2月19日放送)
+体を動かすことが好きなジョンウがジュノパパと体操教室へ!ジョンウは人生初の逆立ちに挑戦!抜群の運動神経にMC陣は感心!ウヌは大好きなキャラクターのカトゥリと再会!照れるウヌの可愛らしい姿は必見!一方、チョン・ソンホ一家は日の出の名所へ!江原道を代表する料理やアクティビティを楽しむ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-8_s1_p561/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126211000 +0000" stop="20260126231000 +0000">
+		<title>三食ごはん Light #4</title>
+		<desc>朝からいも掘りで疲れ果てたゴウンのためにスンウォンが腕を振るう。ゴウンを見送ったあと2人が帰り支度をしていると、謎の社長たちがじゃがいもを引き取りにやって来る。平昌をたってから3週間。2人は飛行機と船を乗り継いで新たなロケ地、楸子島へ。久々の漁村生活に心躍らせていたが予想以上の猛暑が待ち受けていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-396_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260126231000 +0000" stop="20260127010500 +0000">
+		<title>見習い社長の営業日誌3 #2</title>
+		<desc>いよいよ営業初日、店に着くなりテヒョンたちはのり巻き作りの準備を始める。にんじんを炒めたり米を炊いたり、やるべきことは山積みだ。インソンはみんなに朝ごはんを食べさせようとするが、あっという間に開店時間になってしまう。早速やって来たお客さんを朗らかに接客するテヒョン。しかし慣れないレジ打ちでパニックに陥るとカウンターの前には長蛇の列が。のり巻きも飛ぶように売れ、てんてこまいの初日が繰り広げられる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-379_s3_p2/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127010500 +0000" stop="20260127023000 +0000">
+		<title>車輪のついた家 #12(終)</title>
+		<desc>巨済島での夜を迎えたメンバーたちは、ジウォンをもてなすべく巨済島の食材を使って豪華な夕食を作る。波の音と渓谷のせせらぎを聞きながら食べるおいしい夕食にメンバーたちは大満足。2日目には、ジウォンがメンバーたちのために特製の朝食を用意。ジングは初めて生豆のローストに挑戦する。果たしてどんな味に仕上がるのか?美しい景色、おいしい料理と共に心も体も癒やされるヒーリングタイムを満喫する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-348_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127023000 +0000" stop="20260127041500 +0000">
+		<title>三食ごはん 山村編 #6</title>
+		<desc>買い足した食材を冷蔵庫に入れようとするが、既にパンパンで入りきらない。豆をひいたジョンアは、ダッチコーヒー作りに挑戦する。一方、烏骨鶏が卵を産まないのは鶏小屋が寒いからだと考えたセアは、ジョンアと一緒にドア以外の部分をビニールで覆う。そんな中、ソダムは夕食の餃子鍋のために餃子の生地作りに没頭する。更にゲストにはナム・ジュヒョクがやって来る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-140_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127041500 +0000" stop="20260127055000 +0000">
+		<title>ミュージックバンク #1237【IVE/EVNNE/MADEIN】</title>
+		<desc>EVNNEが「HOT MESS」でカムバック!メンバーが作詞に参加した新曲を披露!また、韓国でヘアメイクが社会現象を巻き起こしているチョンハがハウスジャンルのダンス曲「STRESS」で会場を沸かせる!さらに、IVEの自信に満ち溢れるステージもお見逃しなく!そのほか、MADEINやCIXも登場!
+【MC】ムン・サンミン,ミンジュ(ILLIT)
+【出演】
+IVE,EVNNE,MADEIN,チョンハ,CIX,ONE PACT,KickFlip,ALL(H)OURS,RESCENE,BLINGONE,スヒョン(U-KISS),キム・ヨンチョル,チェ・スファン,キム・ボギョン,カン・ヘヨン,KiMMi,Macha,2Z</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-2_s1_p1237/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127055000 +0000" stop="20260127071000 +0000">
+		<title>スーパーマンが帰ってきた #530</title>
+		<desc>【君は僕の輝く金メダル】(韓国2024年6月16日放送)
+元祖韓流プリンセスとして名高いチェ・ジウが番組の新MCに!MC初挑戦の姿は必見!ウヌ親子がウォーキングイベントに参加!さらに、客室乗務員になりきってママの久しぶりの仕事復帰をお祝い!ママをおもてなし!一方、紫帯に昇級したジェユルはテコンドー大会での金メダル獲得を目指し、スピード蹴りの練習に励む!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-8_s1_p530/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127071000 +0000" stop="20260127085000 +0000">
+		<title>HEART SIGNAL #3</title>
+		<desc>シグナルハウスでの初めての外食の日。世界一優しいチャン・チョン。それに嫉妬するセリン!?また、ソンウクのペット、ヒドンを可愛がるセリンに向けたソンウクの視線に変化が…？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/176-12_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127085000 +0000" stop="20260127115700 +0000">
+		<title>WORLD OF STREET WOMAN FIGHTER #8</title>
+		<desc>今回は『ダンスフィルムミッション』が開幕!
+各クルーがパートを分けて1つのダンスフィルムを完成させるミッション。
+また、ジャッジ評価によってベストダンスクルーが選ばれ、ボーナス100点が受け取れる。
+果たしてどのような結果になったのか?
+
+そして、セミファイナルのミッションの結果によって、脱落バトルのスタート。
+負けたクルーは脱落となるこのバトルに、両クルーとも一歩も譲らない白熱したバトルが繰り広げられる。
+果たして勝利を掴んだのはどちらのクルーか?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-69_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127115700 +0000" stop="20260127120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+	</programme>
+	<programme channel="k-world" start="20260127120000 +0000" stop="20260127134500 +0000">
+		<title>乗り換え恋愛2 #5〜6</title>
+		<desc>朝から鳴り続ける目覚ましをめぐり、一騒動あったイヒョンとテイ。ただの小競りあいのように思えたが...。そんな時、またもや番組からの指示でお互いの職業を明かすことになり、出演者たちはあれこれと推測しあう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-237_s2_p5/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127134500 +0000" stop="20260127142500 +0000">
+		<title>CLOSE&amp;OPEN #6</title>
+		<desc>■末っ子争奪戦
+
+CLOSE YOUR EYESの実際の末っ子、2008年生まれのソ・ギョンベ。
+しかし、実はもっと末っ子っぽい実質的末っ子ケンシン。
+「本当の末っ子は誰だ!?」をめぐって繰り広げられる、カオスな大討論会!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/353-18_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127142500 +0000" stop="20260127161000 +0000">
+		<title>【独占配信】Idol Festa Attack #3</title>
+		<desc>原州(ウォンジュ)にZEROBASEONEが登場!
+メンバーのキム・ジウンの出身地ということもあり、出発からノリノリのジウンを始めとするメンバーたち♪
+ZB1はトウモロコシを売るために、3人ずつに分かれて30分の制限時間内にどのチームが一番売れるか勝負を行いながら公演チケットのトウモロコシを売っていく。
+また、プロのバスケットボール選手とトウモロコシ100本を賭けて勝負を行う。
+果たしてZEROBASEONEの販売本数は何本なのか?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-72_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127161000 +0000" stop="20260127182500 +0000">
+		<title>@アカウントを削除しました #1～9</title>
+		<desc>地味な性格と外見で人気者とは程遠い主人公の高校生のミンジェ。今までの学校では友達もほとんどいなく、次に転校する学校ではイメージも変え、積極的に友達を作ろうと頑張る。新しい高校での初日、クラスメイトの反応が今までとは違い、驚くミンジェ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/581-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127182500 +0000" stop="20260127200000 +0000">
+		<title>【日本初・独占配信】知ってる外高 #4(終)</title>
+		<desc>韓国のバラエティで生き残る、海外出身芸能人の大先輩たち!アユミ×ニックン(2PM)×ジュリアン×ファビアンが&lt;知ってる外高&gt;に出撃! バラエティの一から十までを後輩たちに伝授!あらゆる苦労を経験した先輩たちのテレビ界のロングラン秘法大公開! 先輩たちのアドバイスを受けていた時、その時代のバラエティの必須関門「ダンスタイム」まで繰り広げられるが..... 果たして&lt;知ってる外高&gt;の生徒たちは厳しいバラエティの授業を無事に終えることができる
+のか?! 新·旧世代の外国人学生の大熱狂授業が始まる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/367-11_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127200000 +0000" stop="20260127212000 +0000">
+		<title>スーパーマンが帰ってきた #562</title>
+		<desc>【君と一緒に過ごす日々が幸せ】(韓国2025年2月26日放送)
+ウ・へリム親子が登場!生後55日のシアンと過ごす新たな日常を公開!さらに、シウの元におじいちゃんがやって来た!テコンドー香港代表の監督を務めるおじいちゃん。並外れたテコンドーの実力にスタジオメンバーは驚き!一方、ジウ親子はお家の中でニワトリのお世話に挑戦!まるでママのようなジウのお世話っぷりに注目!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-8_s1_p562/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127212000 +0000" stop="20260127231000 +0000">
+		<title>三食ごはん Light #5</title>
+		<desc>楸子島2日目の朝食後に3人目のゲスト、キム・ナムギルがやって来る。親しい弟分の登場に喜ぶスンウォンとヘジン。車で海水浴に出かけた3人は久々に暑さから解放され、楸子島で初めての外食を楽しむ。夕食はナムギルのリクエストに応えてスンウォンが腕を振るう。そして翌朝、ヘジンが仕掛けておいた網を確認しに行くが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-396_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260127231000 +0000" stop="20260128010500 +0000">
+		<title>見習い社長の営業日誌3 #3</title>
+		<desc>どれだけ作っても次から次へと飛ぶように売れていくのり巻き。ギョンホは黙々と作り続けるがのり巻き地獄から抜け出すことができない。一方、飲食コーナーを訪れるお客さんは育った環境も年齢も国籍も多種多様。そんな彼らの話に耳を傾け交流を深めるインソンたち。初対面のお客さん同士も和気あいあい。話に花が咲き、いつしか飲食コーナーは温かい交流の場になっていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-379_s3_p3/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260128010500 +0000" stop="20260128025000 +0000">
+		<title>車輪のついた家2 #1</title>
+		<desc>新しい家を見に来たソン・ドンイルとキム・ヒウォン。シーズン1の時より開放感があり、広くなった家を見て大喜び。そこに今回、一緒に旅をすることになったイム・シワンが登場。早速、ヒウォンの運転で最初の目的地である平昌へ向かう。食材などの買い出しを終えて森の中を進んでいくと、最初の庭に到着。外で過ごすためにシェルターの設置を始める。3人が苦戦していると最初のお客様であるペ・ドゥナが登場。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-375_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260128025000 +0000" stop="20260128041500 +0000">
+		<title>三食ごはん 山村編 #7</title>
+		<desc>ジュヒョクにごちそうを食べさせるためトウモロコシ畑に出る4人。採れたてのトウモロコシやトマトの昼食を済ませ、労働で得たお金を手に買い物へ。丸鶏やつぶ貝などを買い込んで豪華な夕食作りに臨む。メニューは鶏の丸揚げ、つぶ貝そうめん、サラダ、スープなど。電球を飾りつけ屋台風の雰囲気の中、夕食を満喫する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-140_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260128041500 +0000" stop="20260128055500 +0000">
+		<title>ミュージックバンク #1226【ITZY/ILLIT/EVNNE】</title>
+		<desc>今回のミュージックバンクは昌原からお届け!EVNNEがデビュー曲「TROUBLE」を、世界中から集まったK-POPファンと共に大迫力のパフォーマンス!ILLITは新曲を引っ提げてカムバック!キュートな指ハートダンスに注目!そのほか、1位候補ITZYやCRAVITYなど人気アーティストが続々と登場!
+【MC】ムン・サンミン、ミンジュ(ILLIT)
+【出演】
+ITZY、ILLIT、EVNNE、YENA、カンダニエル、AB6IX、CRAVITY、Billlie、クォン・ウンビ、82MAJOR、DXMON、xikers、JD1、PURPLE K!SS、AMPERS&amp;ONE、The Wind、tripleS Visionary Vision、NOWADAYS、SAY MY NAME、BEWAVE</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-2_s1_p1226/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260128055500 +0000" stop="20260128071500 +0000">
+		<title>スーパーマンが帰ってきた #531</title>
+		<desc>【今日も愛が降り注ぐ】(韓国2024年6月23日放送)
+ジュンボム親子がおばあちゃんの誕生日をお祝い!ドラマ「冬のソナタ」のロケ地で、記念旅行を楽しむ!さらに、パパが豪華な手作り料理とサプライズプレゼントを準備!後半は、ジェユルのスピード蹴り特訓の様子をお届け!WOOAHのウヨンとナナが特別講師として登場!果たして、テコンドー大会で金メダル獲得なるか?!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-8_s1_p531/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260128071500 +0000" stop="20260128085500 +0000">
+		<title>HEART SIGNAL #4</title>
+		<desc>ついに初めてのデート！今日も揺れ動く女性陣の心。そして選択の時間。デートの後、彼らの心境に変化はあったのか？果たしてチャン・チョンの心は？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/176-12_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260128085500 +0000" stop="20260128115700 +0000">
+		<title>WORLD OF STREET WOMAN FIGHTER #9(終)</title>
+		<desc>ついにファイナルの舞台へ!
+6つのクルーから勝ち抜いてきた3クルーが最後のバトルの舞台に上がる。
+ファイトジャッジには、J.Y.Park、マイク・ソング、アリヤ・ジャネル、そしてSaweetieも!
+
+最終ミッションは「OSTミッション」とクルーアイデンティティミッション」の2つ。
+審査方法は、事前投票・生放送中リアルタイム投票・ファイナルステージ加算点の3つのスコアで決定する。
+優勝を目指して各クルーが全力で踊る姿に会場の盛り上がりは最高潮に!
+また、J.Y. Parkと3つのクルー全員がワールドフィナーレのステージとして舞台に立つ。
+振付が選ばれたたった1つのクルーのみが、ファイナルでフィナーレステージの主人公として出演する権利を獲得する。
+果たしてフィナーレステージの主人公&amp;優勝を掴んだのはどのクルーか?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-69_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260128115700 +0000" stop="20260128120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+	</programme>
+	<programme channel="k-world" start="20260128120000 +0000" stop="20260128132000 +0000">
+		<title>スーパーマンが帰ってきた #545</title>
+		<desc>【皆さん チョンボクが生まれました】(韓国2024年10月20日放送)
+パク・スホン夫妻がS♯arpの元メンバーで、現在2児を育てるイ・ジヘを自宅に招待!子育ての先輩イ・ジヘが育児や入院期間中に必要なものを伝授!そして、ついに出産当日を迎える!チョンボクとの対面の瞬間をお見逃しなく!チャン・ドンミン親子は実家のある原州市へ!ジウは畑でサツマイモや落花生の収穫に挑戦!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-8_s1_p545/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260128132000 +0000" stop="20260128142500 +0000">
+		<title>K-POPアイドルスタースポーツ選手権2020 #7</title>
+		<desc>女子シルム団体戦と乗馬競技の決勝が始まる。金メダルは一体、誰の手に渡るのか。更にPK戦のベスト8でゴールを決められなかったソンウンは、ベスト4では決めるのか?それとも、そのゴールをスンミン(Golden Child)が止めるのか?SF9対Stray Kidsの対決は、第7ラウンドまで突入する。手に汗握る名勝負から目が離せない。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-185_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="k-world" start="20260128142500 +0000" stop="20260128161500 +0000">
+		<title>【独占配信】Idol Festa Attack #4</title>
+		<desc>広州(コンジュ)にMONSTA Xが登場!
+10周年を迎えたメンバーたちが、栗アンバサダーに就任!
+広州出身のキム・ジェジュンより歓迎を受けて、広州を盛り上げるために出陣!
+しかし、当日は生憎の大雨で記録的な豪雨・・・。
+外に人がいなくて、大ピンチ!
+果たして、栗は何袋売れたのか?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-72_s1_p4/thumb001.png" />
+	</programme>
 	<programme channel="drama" start="20260113141500 +0000" stop="20260113151500 +0000">
 		<title>ドクターX～外科医・大門未知子～（2017）#8【無料2日間】</title>
 		<desc>元大臣秘書官・八雲拓哉(林家正蔵)が記者会見を開き、ある大学病院の補助金不正使用を厚労省が隠ぺいしてきた事実を告発した。なんでも八雲は先日、根治手術が不可能な肝外発育型肝細胞がんであると診断され、死を覚悟。ならば正義を貫いてこの世を去ろう、と立ち上がったという。
@@ -27841,9 +28491,22 @@ FIBAアジアカップ2025 メンバーの生き残りを懸けたアピール�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s10_p5/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260124164500 +0000" stop="20260124203000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+		<title>Rd.1 ラリー・モンテカルロ　SS13｜WRC世界ラリー選手権</title>
+		<desc>WRC世界ラリー選手権 2026 ABEMAモータースポーツで全14戦"無料"生中継決定!
+Rd.1 ラリー・モンテカルロ厳選SSを1月24日(土)〜25日(日)で放送!
+
+&lt;生中継予定ステージ&gt;
+1/24(土) 26:30頃〜(日本時間) SS13 開始予定
+1/25(日) 21:15頃〜(日本時間) パワーステージ 開始予定
+
+番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え!
+注目チームは日本メーカーのTOYOTA GAZOO Racing !
+さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる!
+最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目!
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10001_p5/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260124203000 +0000" stop="20260124234000 +0000">
 		<title>【タイブレーク】ロコ・ソラーレvsTeam Lawes|25.1.18</title>
@@ -30448,6 +31111,110 @@ HIPHOP界隈で今注目のトピックスについて深堀り！</desc>
 		<title>【再放送】フリースタイルティーチャー：#94~#106</title>
 		<desc>ラッパー芸人 ニューカマートーナメントが始動!!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-96_s12_p1/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260126210000 +0000" stop="20260127000000 +0000">
+		<title>【THE LYRICS】Fuji Taito / ralph.....</title>
+		<desc>「THE LYRICS」は、
+歌詞(LYRIC)に込められた意味や想いをアーティストご本人が語ります。
+作詞時のエピソードや、あのパンチラインの誕生秘話etc、、、
+楽曲そしてアーティストをさらに知ることができる番組を目指します。
+本エピソードでは、Fuji Taito が "Crayon”の歌詞(LYRIC)について語ります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-67_s20_p1/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260127000000 +0000" stop="20260127030000 +0000">
+		<title>【再放送】フリースタイルダンジョン：7th 4-1~5-1</title>
+		<desc>今週からバトル再開!レペゼン千葉、ラップ歴15年のSHAMO登場!UMB2019ベスト4の実力者は、モンスターTkda黒ぶち相手にどんな試合を見せるのか!?
+
+■ゲストライブ
+「THE GOD prod.Mitsu the Beats」/ISH-ONE</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-20_s7_p21/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260127030000 +0000" stop="20260127040000 +0000">
+		<title>Zeebra’s LUNCHTIME BREAKS</title>
+		<desc>Zeebraが局長を務めるHIP HOP専門ラジオ局『WREP』にて放送中の『Zeebra's LUNCHTIME BREAKS』
+渋谷UDAGAWA BASEスタジオにて平日お昼12時から毎日公開生放送！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-164_s0_p801/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260127040000 +0000" stop="20260127100000 +0000">
+		<title>【THE LYRICS】BES / ACE COOL / Jinmenusagi</title>
+		<desc>「THE LYRICS」は、
+歌詞(LYRIC)に込められた意味や想いをアーティストご本人が語ります。
+作詞時のエピソードや、あのパンチラインの誕生秘話etc、、、
+楽曲そしてアーティストをさらに知ることができる番組を目指します。
+本エピソードでは、BES が"The Process”の歌詞(LYRIC)について語ります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-67_s3_p3735/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260127100000 +0000" stop="20260127113000 +0000">
+		<title>「ラッパー、井戸を掘る。」カンボジア 般若の記録</title>
+		<desc>昨年の夏に開催された過去最大級のMCバトル『BATTLE SUMMIT II』で優勝したラッパー・般若。
+優勝賞金2000万で、水に困っているカンボジアの地域に井戸を掘ることを決意。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-214_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260127113000 +0000" stop="20260127170500 +0000">
+		<title>【再放送】RECTRUCK #1~12</title>
+		<desc>人気アーティストたちがキャンピングカーでお互いを知る旅に出る、音楽と旅を掛け合わせた番組『RECTRUCK』。
+2人のアーティストが旅をしながらライブのセットリストを決め、コラボ楽曲を制作。旅の道中で決めたセットリストと新曲を引っ提げたミニライブを開催。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-117_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260127170500 +0000" stop="20260127173500 +0000">
+		<title>RECTRUCK #13</title>
+		<desc>人気ラッパーたちがキャンピングカーで旅をしながら
+コラボ楽曲制作＆ライブセットリストを決める新番組『RECTRUCK』</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-6_s0_p14/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260127173500 +0000" stop="20260127210000 +0000">
+		<title>【再放送】フリースタイルティーチャー：#107~#114</title>
+		<desc>YouTuber Rapper 総当たり戦!コムドットあむぎりの初戦の結果は!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-96_s13_p6/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260127210000 +0000" stop="20260128000000 +0000">
+		<title>【THE LYRICS】MaRI / MonyHorse / ゆるふわギャング</title>
+		<desc>「THE LYRICS」は、
+歌詞(LYRIC)に込められた意味や想いをアーティストご本人が語ります。
+作詞時のエピソードや、あのパンチラインの誕生秘話etc、、、
+楽曲そしてアーティストをさらに知ることができる番組を目指します。
+本エピソードでは、MaRI が"Bad B*tch 美学”の歌詞(LYRIC)について語ります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-67_s3_p3701/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260128000000 +0000" stop="20260128030000 +0000">
+		<title>【再放送】フリースタイルダンジョン：7th 5-1~5-5</title>
+		<desc>若干20歳にしてUMB3連覇の実力者T-STONEが登場!対するモンスターがERONE!熱いバイブスでモンスターを撃破できるか!?
+
+■ゲストライブ
+「Check My Style」/MU-TON</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-20_s7_p26/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260128030000 +0000" stop="20260128040000 +0000">
+		<title>Zeebra’s LUNCHTIME BREAKS</title>
+		<desc>Zeebraが局長を務めるHIP HOP専門ラジオ局『WREP』にて放送中の『Zeebra's LUNCHTIME BREAKS』
+渋谷UDAGAWA BASEスタジオにて平日お昼12時から毎日公開生放送！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-164_s0_p802/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260128040000 +0000" stop="20260128100000 +0000">
+		<title>【THE LYRICS】LANA /guca owl / LEX ....</title>
+		<desc>「THE LYRICS」は、
+歌詞(LYRIC)に込められた意味や想いをアーティストご本人が語ります。
+作詞時のエピソードや、あのパンチラインの誕生秘話etc、、、
+楽曲そしてアーティストをさらに知ることができる番組を目指します。
+本エピソードでは、LANAが"PULL UP”の歌詞(LYRIC)について語ります。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-67_s3_p3611/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260128100000 +0000" stop="20260128140000 +0000">
+		<title>【見逃し】地獄ノート旅 -PAGE.1~6-</title>
+		<desc>ラッパーD.Oが服役中に綴った、自由になったら絶対食べたいグルメメモ「地獄ノート」
+リアル獄中記を手がかりにRed Eyeと極上グルメを目指す、リアルでフリーダムな旅番組！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-208_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260128140000 +0000" stop="20260128143000 +0000">
+		<title>RED BULL PRESENTS: WORLD IS A PLAYGROUND</title>
+		<desc>アイザック・Y・タケウが南アフリカの過激モータースポーツ「スピニング」を体験。かつてギャング文化だったスピニングが、今や正式競技に。世界最大イベントRed Bull Shay' iMotoで、アイザックがその世界に飛び込む。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/772-1_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260128143000 +0000" stop="20260128160000 +0000">
+		<title>「ラッパー、井戸を掘る。」カンボジア 般若の記録</title>
+		<desc>昨年の夏に開催された過去最大級のMCバトル『BATTLE SUMMIT II』で優勝したラッパー・般若。
+優勝賞金2000万で、水に困っているカンボジアの地域に井戸を掘ることを決意。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-214_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="commercial" start="20260113150000 +0000" stop="20260113160000 +0000">
 		<title>CM</title>
