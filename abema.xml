@@ -156,6 +156,10 @@
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
 	</channel>
+	<channel id="fighting-sports2">
+		<display-name>格闘 2チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports2/logo.png" />
+	</channel>
 	<channel id="hiphop">
 		<display-name>HIPHOPチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/hiphop/logo.png" />
@@ -3224,7 +3228,7 @@ SNSで大反響！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-171_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20260207060000 +0000" stop="20260207120000 +0000">
-		<title>とんでもスキルで異世界放浪メシ 2 #13〜23【無料ビデオ1週間】</title>
+		<title>とんでもスキルで異世界放浪メシ 2 #13〜24【無料ビデオ1週間】</title>
 		<desc>ムコーダは次の街を目指し、従魔のフェル、スイと共に旅を続けていた。その道中、いつものようにムコーダが作った食事をみんなで堪能していると、突然小さなドラゴンが、ムコーダの顔に張り付いてきて……？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/536-6_s2_p13/thumb001.png" />
 	</programme>
@@ -34116,6 +34120,11 @@ AKIRA Jr.
 破壊力抜群の闘いを
 ぜひ「ABEMA」にて無料でお楽しみください！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-152_s10002_p1/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports2" start="20260201080000 +0000" stop="20260201120000 +0000">
+		<title>RISE's PRIZE 2025</title>
+		<desc>2026年2月1日に開催される「RISE's PRIZE 2025」をABEMAで生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/464-22_s10001_p1/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20260124113000 +0000" stop="20260124153000 +0000">
 		<title>my name is【一挙放送】</title>
