@@ -104,10 +104,6 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
-	<channel id="special-plus-2">
-		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -171,10 +167,6 @@
 	<channel id="motor-sport">
 		<display-name>MOTOR SPORTチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
-	</channel>
-	<channel id="world-sports-1">
-		<display-name>SPORTS LIVE1 チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
 	</channel>
 	<channel id="sumo">
 		<display-name>大相撲チャンネル</display-name>
@@ -3510,6 +3502,23 @@ SNSで大反響！
 		<title>機動戦士ガンダム 閃光のハサウェイ【無料ビデオ1週間】</title>
 		<desc>第二次ネオ・ジオン戦争（シャアの反乱）から12年。U.C.0105――。地球連邦政府の腐敗は地球の汚染を加速させ、強制的に民間人を宇宙へと連行する非人道的な政策「人狩り」も行っていた。そんな連邦政府高官を暗殺するという苛烈な行為で抵抗を開始したのが、反地球連邦政府運動「マフティー」だ。リーダーの名は「マフティー・ナビーユ・エリン」。その正体は、一年戦争も戦った連邦軍大佐ブライト・ノアの息子「ハサウェイ」であった。アムロ・レイとシャア・アズナブルの理念と理想、意志を宿した戦士として道を切り拓こうとするハサウェイだが、連邦軍大佐ケネス・スレッグと謎の美少女ギギ・アンダルシアとの出会いがその運命を大きく変えていく。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-202_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20260321121500 +0000" stop="20260322085000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20260322085000 +0000" stop="20260322093000 +0000">
+		<title>【冒頭無料配信】ポケモン feat. 初音ミク VOLTAGE Live！</title>
+		<desc>初音ミクたちバーチャルシンガーと、
+たくさんのポケモンたちが生き生きと動き回り、
+すべてのポケミク楽曲を披露します。
+ 
+キミの目の前で、夢と冒険と、未来と音楽が交わる！
+ 
+どこまでも、ボルテージ！
+ポケミクライブへ！レッツ ゴー！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/736-2_s100000_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-special-2" start="20260307100000 +0000" stop="20260307230000 +0000">
 		<title>PERSONA - trinity soul - #1〜26【無料ビデオ1週間】</title>
@@ -16554,9 +16563,16 @@ Lillion、SiVAH、club Leo...３店舗合同営業
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20260322110000 +0000" stop="20260322120000 +0000">
-		<title>ななにー 地下ABEMA #111</title>
-		<desc>世間が気になることから、そんなに気にならないことまで、
-“稲垣・草彅・香取”の3人がより深く掘り下げて界隈をざわつかせる！</desc>
+		<title>ななにー 地下ABEMA #111 令和のシンパパ大集合 リアル育児＆本音告白</title>
+		<desc>可愛すぎる娘を持つイケメンシンパパ
+最近の悩みは「三つ編みどうするの？」
+
+高校生でパパになったシンパパとは？
+
+娘のためにスイーツや可愛い服を勉強するシンパパに
+一同大絶賛
+
+ヤンチャ３兄弟を育てるシンパパ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p141/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260322120000 +0000" stop="20260322130000 +0000">
@@ -18537,112 +18553,6 @@ AMEMIYAの絶叫がこだまする「チクショーーーー!!」
 
 【提供】BOATRACE振興会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-228_s1_p1051/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260313093000 +0000" stop="20260313140000 +0000">
-		<title>第一生命 D.LEAGUE 25-26【ROUND.6】CYPHER ROUND</title>
-		<desc>24-25 SEASONではDYM MESSENGERSが4CYPHERで1位を獲得し圧倒的勝利を果たしました。
-通常ROUNDでは見つけきれないDリーガーの個々のスキルやキャラクターを存分に堪能してください。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-97_s1000_p11/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260313140000 +0000" stop="20260313173000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260313173000 +0000" stop="20260313204500 +0000">
-		<title>ワタナベお笑いNo.1決定戦2024</title>
-		<desc>「ワタナベエンターテインメント」の所属芸人による一番面白い芸人を決める「ワタナベお笑いNo.1決定戦2024決勝」開催！
-2024年ワタナベ一面白い芸人がここで決まる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1999_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260313204500 +0000" stop="20260313233500 +0000">
-		<title>ワタナベお笑いNo.1決定戦2025</title>
-		<desc>「ワタナベエンターテインメント」の所属芸人による一番面白い芸人を決める「ワタナベお笑いNo.1決定戦2025決勝」を開催。 2025年ワタナベ一面白い芸人がここで決まる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2035_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260313233500 +0000" stop="20260314000000 +0000">
-		<title>決勝戦組み合わせ抽選会</title>
-		<desc>決勝戦組み合わせ抽選会の模様を配信中！
-今年は準決勝で勝ち上がった計8組が、ファイナリストとして激戦を繰り広げる。決戦戦のファーストラウンドは手に汗握る「1対1のタイマン形式」によるトーナメント制を採用。誰がどこを選び、誰と誰が戦うのかー。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2035_s26_p600/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260314000000 +0000" stop="20260314003000 +0000">
-		<title>決勝進出者の展望をAマッソが占う。</title>
-		<desc>Aマッソむらきゃみ様が決勝進出者8組の展望を水晶・おみくじ・大麻（おおぬさ）を使って占う。
-「優勝は出来ますか？」
-「初戦は勝てますか？」
-「対戦相手を変えることは出来ますか？」
-「どうしたらナメられなくなりますか？」
-「どんなネタが良いですか？」
-不安が募る決勝進出者の運命や如何にー。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2035_s26_p610/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260314003000 +0000" stop="20260314034500 +0000">
-		<title>ワタナベお笑いNo.1決定戦2024</title>
-		<desc>「ワタナベエンターテインメント」の所属芸人による一番面白い芸人を決める「ワタナベお笑いNo.1決定戦2024決勝」開催！
-2024年ワタナベ一面白い芸人がここで決まる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1999_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260314034500 +0000" stop="20260314063500 +0000">
-		<title>ワタナベお笑いNo.1決定戦2025</title>
-		<desc>「ワタナベエンターテインメント」の所属芸人による一番面白い芸人を決める「ワタナベお笑いNo.1決定戦2025決勝」を開催。  2025年ワタナベ一面白い芸人がここで決まる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2035_s1_p1/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260314063500 +0000" stop="20260314070000 +0000">
-		<title>決勝戦組み合わせ抽選会</title>
-		<desc>決勝戦組み合わせ抽選会の模様を配信中！
-今年は準決勝で勝ち上がった計8組が、ファイナリストとして激戦を繰り広げる。決戦戦のファーストラウンドは手に汗握る「1対1のタイマン形式」によるトーナメント制を採用。誰がどこを選び、誰と誰が戦うのかー。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2035_s26_p600/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260314070000 +0000" stop="20260314073000 +0000">
-		<title>決勝進出者の展望をAマッソが占う。</title>
-		<desc>Aマッソむらきゃみ様が決勝進出者8組の展望を水晶・おみくじ・大麻（おおぬさ）を使って占う。
-「優勝は出来ますか？」
-「初戦は勝てますか？」
-「対戦相手を変えることは出来ますか？」
-「どうしたらナメられなくなりますか？」
-「どんなネタが良いですか？」
-不安が募る決勝進出者の運命や如何にー。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2035_s26_p610/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260314073000 +0000" stop="20260314110000 +0000">
-		<title>ワタナベお笑いNo.1決定戦2026</title>
-		<desc>◤3/14(土)17:00から決勝スタート◢
-ワタナベ一面白い芸人を決める「ワタナベお笑いNo.1決定戦2026 決勝」
-ABEMAで無料独占生放送！
-
-「ABEMA」では2016年度から毎年、本大会の模様をお届け。
-今年は準決勝で勝ち上がった四千頭身・チュランペット・フタリシズカ・ぎょねこ・金の国・ファイヤーサンダー・アリオス・豆鉄砲の計8組が、ファイナリストとして激戦を繰り広げる。決戦当日のファーストラウンドは手に汗握る「1対1のタイマン形式」によるトーナメント制が採用され全8組が激突。そして、勝利した4組のみがファイナルラウンドへの切符を手にする。
- 
-抽選によって、決勝のファーストラウンドの組み合わせが決まり
-当日の勝敗は審査員票と視聴者投票によって決まる。
-ワタナベお笑い界の頂点に立ち、賞金100万円を手にするのは一体誰なのかー。
-
-〈ファーストラウンド〉
-第1試合：四千頭身 vs チュランペット 
-第2試合：フタリシズカ vs ぎょねこ 
-第3試合：金の国 vs ファイヤーサンダー 
-第4試合：アリオス vs 豆鉄砲 
-※出場者は変更の可能性がございます。
-
-〈MC〉
-ハライチ
-Aマッソ加納</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2035_s10000_p2/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260314110000 +0000" stop="20260315080000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260315080000 +0000" stop="20260315123000 +0000">
-		<title>第一生命 D.LEAGUE 25-26【ROUND.7】BLOCK HYPE</title>
-		<desc>R4で王者Legitを制し単独トップに躍り出たKOSÉ 8ROCKSが、R5でavex ROYALBRATSとの戦いに敗れ3位に陥落。
-対してCyberAgent Legitは安定の勝利で首位に返り咲いた。
-Medical Concierge I’moonはジリジリと順位を上げ初のCS進出に王手をかける。
-R7ではCS進出ラインを競うBATTLESとaRBの直接対決に。
-CS出場をかけた争いが加速する重要な一戦に！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-97_s1000_p13/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260307140000 +0000" stop="20260307160000 +0000">
 		<title>ABEMA NEWS　お休み前に最新ニュース＆エンタメ</title>
@@ -34876,54 +34786,6 @@ https://abema.tv/video/title/634-3
 
 初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s40_p1/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20260314090000 +0000" stop="20260314133000 +0000">
-		<title>第一生命 D.LEAGUE 25-26【ROUND.7】BLOCK VIBE</title>
-		<desc>R5では、KADOKAWA DREAMSがFULLCAST RAISERZの連勝を阻止し、CSP同点の3チームが乱立する結果に。
-悲願の2勝目でCS進出に望みを繋いだLIFULL ALT-RHYTHMはCYPHER猛者のDYM MESSENGERSとの対戦に。
-CS進出ボーダーラインに位置するCHANGE RAPTURESはSEGA SAMMY LUXとの対戦で、どのチームがCS進出を確実なものにできるのか、要注目です！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-97_s1000_p12/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20260314133000 +0000" stop="20260315084500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20260315084500 +0000" stop="20260315094500 +0000">
-		<title>【告知枠】18:45放送Rd.3 サファリ・ラリー・ケニア</title>
-		<desc>WRC世界ラリー選手権 2026 ABEMAモータースポーツで全14戦"無料"生中継決定!
-Rd.3 サファリ・ラリー・ケニア厳選SSを3月14日(土)〜15日(日)で放送!
-
-&lt;生中継予定ステージ&gt;
-3/14(土) 22:05頃〜(日本時間) SS15 開始予定
-3/15(日) 19:15頃〜(日本時間) パワーステージ 開始予定
-
-番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え!
-注目チームは日本メーカーのTOYOTA GAZOO Racing !
-さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる!
-最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目!
-
-▼WRC 世界ラリー選手権とは▼
-1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10003_p19/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20260315094500 +0000" stop="20260315131500 +0000">
-		<title>Rd.3 サファリ・ラリー・ケニア パワーステージ｜WRC世界ラリー選手権</title>
-		<desc>WRC世界ラリー選手権 2026 ABEMAモータースポーツで全14戦"無料"生中継決定!
-Rd.3 サファリ・ラリー・ケニア厳選SSを3月14日(土)〜15日(日)で放送!
-
-&lt;生中継予定ステージ&gt;
-3/14(土) 22:05頃〜(日本時間) SS15 開始予定
-3/15(日) 19:15頃〜(日本時間) パワーステージ 開始予定
-
-番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え!
-注目チームは日本メーカーのTOYOTA GAZOO Racing !
-さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる!
-最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目!
-
-▼WRC 世界ラリー選手権とは▼
-1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10003_p20/thumb001.png" />
 	</programme>
 	<programme channel="sumo" start="20260307220000 +0000" stop="20260307230000 +0000">
 		<title>大相撲LIVE 三月場所</title>
