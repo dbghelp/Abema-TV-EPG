@@ -72,6 +72,10 @@
 		<display-name>あたしンちチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png" />
 	</channel>
+	<channel id="chiikawa">
+		<display-name>ちいかわチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/chiikawa/logo.png" />
+	</channel>
 	<channel id="doraemon-special">
 		<display-name>映画ドラえもん特集チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/doraemon-special/logo.png" />
@@ -1239,7 +1243,10 @@ SNSで大反響！
 	</programme>
 	<programme channel="abema-anime" start="20260327120000 +0000" stop="20260327130000 +0000">
 		<title>SHIBUYA ANIME BASE #80</title>
-		<desc>アニメ/ポップカルチャー情報番組のSHIBUYA ANIME BASE（シブアニ）。「ABEMA」の独占情報や、今知りたいアニメ・アニソン・ゲーム・漫画、そして最新鋭かつちょっとマニアックな"1週間のトピックス"をテーマにゲストたちが言いたい放題語りつくします。ほかにも関係者、声優を招いての激レアトークも！？金曜日の夜、アニメ/ポップカルチャーがもっと好きになる1時間を、渋谷よりお届けいたします。</desc>
+		<desc>ゲストは i☆Ris 茜屋日海夏さん！
+茜屋さんの"アニメ履歴書"を大解剖。
+4th season 放送直前！TVアニメ「Re:ゼロから始める異世界生活」を特集。
+さらに、注目マンガ「スベる天使」をスタジオの声優たちが生朗読！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-706_s10000_p80/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260327130000 +0000" stop="20260327133000 +0000">
@@ -1304,7 +1311,7 @@ SNSで大反響！
 	<programme channel="abema-anime" start="20260327150000 +0000" stop="20260327153000 +0000">
 		<title>葬送のフリーレン 第2期 #38【最新話】</title>
 		<desc>勇者ヒンメル一行によって魔王が倒された世界。ヒンメルらと共に平和をもたらした千年以上生きるエルフの魔法使い・フリーレンは、寿命を迎えたヒンメルの死を受けての涙とその想いから、“人の心を知る旅”に出る。道中に出会った、かつての仲間ハイターに育てられた魔法使いフェルン、同じく仲間のアイゼンの弟子である戦士シュタルクと共に、魂の眠る地《オレオール》を目指すフリーレン。旅の中で出会う人々との交流、狡猾な魔族や魔物との戦い。時に穏やかに、時にくだらなく、時に激しく、時に胸に迫る…。その全てが、その一瞬一瞬が、3人のかけがえのないものとして積み重ねられていく。この旅の先に待っているものは、果たして――――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p88/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-171_s2_p38/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260327153000 +0000" stop="20260327160000 +0000">
 		<title>幼馴染とはラブコメにならない #12【最新話】</title>
@@ -1402,7 +1409,7 @@ SNSで大反響！
 	<programme channel="abema-anime" start="20260327183000 +0000" stop="20260327190000 +0000">
 		<title>葬送のフリーレン 第2期 #38・見逃し放送</title>
 		<desc>勇者ヒンメル一行によって魔王が倒された世界。ヒンメルらと共に平和をもたらした千年以上生きるエルフの魔法使い・フリーレンは、寿命を迎えたヒンメルの死を受けての涙とその想いから、“人の心を知る旅”に出る。道中に出会った、かつての仲間ハイターに育てられた魔法使いフェルン、同じく仲間のアイゼンの弟子である戦士シュタルクと共に、魂の眠る地《オレオール》を目指すフリーレン。旅の中で出会う人々との交流、狡猾な魔族や魔物との戦い。時に穏やかに、時にくだらなく、時に激しく、時に胸に迫る…。その全てが、その一瞬一瞬が、3人のかけがえのないものとして積み重ねられていく。この旅の先に待っているものは、果たして――――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p88/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-171_s2_p38/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260327190000 +0000" stop="20260328003000 +0000">
 		<title>千歳くんはラムネ瓶のなか #1〜10【無料ビデオ1週間】</title>
@@ -1450,8 +1457,8 @@ SNSで大反響！
 	</programme>
 	<programme channel="abema-anime" start="20260328071500 +0000" stop="20260328121500 +0000">
 		<title>葬送のフリーレン 第2期 #29〜38【無料ビデオ1週間】</title>
-		<desc>勇者ヒンメル一行によって魔王が倒された世界。ヒンメルらと共に平和をもたらした千年以上生きるエルフの魔法使い・フリーレンは、寿命を迎えたヒンメルの死を受けての涙とその想いから、“人の心を知る旅”に出る。道中に出会った、かつての仲間ハイターに育てられた魔法使いフェルン、同じく仲間のアイゼンの弟子である戦士シュタルクと共に、魂の眠る地《オレオール》を目指すフリーレン。旅の中で出会う人々との交流、狡猾な魔族や魔物との戦い。時に穏やかに、時にくだらなく、時に激しく、時に胸に迫る…。その全てが、その一瞬一瞬が、3人のかけがえのないものとして積み重ねられていく。この旅の先に待っているものは、果たして――――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p88/thumb001.png" />
+		<desc>魔法都市オイサーストを後にし、北側諸国の道を行くフリーレン、フェルン、シュタルク。その道中、緩んだ地盤から穴の中へ落ちてしまう。そこは魔法を無効化する力を持った鉱石“封魔鉱”が一面に広がっていた。フリーレンとフェルンが魔法を使うことができず、地上に続く道を探すが、そこに魔物が現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-171_s2_p29/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260328121500 +0000" stop="20260328124500 +0000">
 		<title>ヘルモード #12・見逃し放送</title>
@@ -1489,7 +1496,7 @@ SNSで大反響！
 	<programme channel="abema-anime" start="20260328130000 +0000" stop="20260328133000 +0000">
 		<title>葬送のフリーレン 第2期 #38・見逃し放送</title>
 		<desc>勇者ヒンメル一行によって魔王が倒された世界。ヒンメルらと共に平和をもたらした千年以上生きるエルフの魔法使い・フリーレンは、寿命を迎えたヒンメルの死を受けての涙とその想いから、“人の心を知る旅”に出る。道中に出会った、かつての仲間ハイターに育てられた魔法使いフェルン、同じく仲間のアイゼンの弟子である戦士シュタルクと共に、魂の眠る地《オレオール》を目指すフリーレン。旅の中で出会う人々との交流、狡猾な魔族や魔物との戦い。時に穏やかに、時にくだらなく、時に激しく、時に胸に迫る…。その全てが、その一瞬一瞬が、3人のかけがえのないものとして積み重ねられていく。この旅の先に待っているものは、果たして――――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p88/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-171_s2_p38/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260328133000 +0000" stop="20260328140000 +0000">
 		<title>お気楽領主の楽しい領地防衛 #12【最新話】</title>
@@ -2345,8 +2352,8 @@ TVアニメーション化が決定！</desc>
 	</programme>
 	<programme channel="abema-anime-2" start="20260328020000 +0000" stop="20260328070000 +0000">
 		<title>葬送のフリーレン 第2期 #29〜38【無料ビデオ1週間】</title>
-		<desc>勇者ヒンメル一行によって魔王が倒された世界。ヒンメルらと共に平和をもたらした千年以上生きるエルフの魔法使い・フリーレンは、寿命を迎えたヒンメルの死を受けての涙とその想いから、“人の心を知る旅”に出る。道中に出会った、かつての仲間ハイターに育てられた魔法使いフェルン、同じく仲間のアイゼンの弟子である戦士シュタルクと共に、魂の眠る地《オレオール》を目指すフリーレン。旅の中で出会う人々との交流、狡猾な魔族や魔物との戦い。時に穏やかに、時にくだらなく、時に激しく、時に胸に迫る…。その全てが、その一瞬一瞬が、3人のかけがえのないものとして積み重ねられていく。この旅の先に待っているものは、果たして――――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p88/thumb001.png" />
+		<desc>魔法都市オイサーストを後にし、北側諸国の道を行くフリーレン、フェルン、シュタルク。その道中、緩んだ地盤から穴の中へ落ちてしまう。そこは魔法を無効化する力を持った鉱石“封魔鉱”が一面に広がっていた。フリーレンとフェルンが魔法を使うことができず、地上に続く道を探すが、そこに魔物が現れて…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-171_s2_p29/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20260328070000 +0000" stop="20260328073000 +0000">
 		<title>チェンソーマン【試し見#1 続きはABEMAビデオへ】</title>
@@ -2719,9 +2726,9 @@ TVアニメーション化が決定！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-111_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-3" start="20260328013000 +0000" stop="20260328073000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png" />
+		<title>鎧真伝サムライトルーパー #1〜12【無料ビデオ1週間】</title>
+		<desc>妖邪界の襲撃から35年、ナスティ柳生を中心に発足した「防衛特殊事案対策本部」通称DSTは、防衛力の強化と次世代を担うサムライトルーパーの育成に尽力していた。再び妖邪界が侵攻してくるかもしれないその日に備えて……。そしてついにその日がやってきた。突如妖邪界と人間界を繋ぐ門が現れ、妖邪による人間界への侵攻が始まる。北条武蔵ら現サムライトルーパーたちはこの有事に勇敢に立ち向かう。しかし、懐メロを口ずさむ残忍な妖邪には全く歯が立たず……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-203_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-3" start="20260328073000 +0000" stop="20260328130000 +0000">
 		<title>お気楽領主の楽しい領地防衛 #1〜11 【無料ビデオ1週間】</title>
@@ -6277,9 +6284,12 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-244_s2_p14/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20260326113000 +0000" stop="20260326113300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
+		<title>ダイキン空気予報 3/26</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p360/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20260326113300 +0000" stop="20260326180000 +0000">
 		<title>わたしの幸せな結婚 第二期 #14〜26【無料ビデオ3/31まで】</title>
@@ -7269,6 +7279,69 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 		<title>あたしンち #417〜468【無料ビデオ1週間】</title>
 		<desc>魔法の国ファンタジェリー。この国では人々の暮らしは、魔法使いによって支えられている。国の町外れの山の上に１人の魔法使いマンマ・タチバナが住んでいる。マンマ・タチバナは、魔法使いなのに魔法が苦手、だからお店にはお客が来ません。しかしそんな彼女でもたった一つ人に誇れるところがあります。それは、スイーツの天才だったのです…。そんなマンマのところに、今度お城で大スイーツ大会が開かれるという知らせが届き…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p417/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260326150000 +0000" stop="20260327020000 +0000">
+		<title>ちいかわ #1〜327【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260327020000 +0000" stop="20260327130000 +0000">
+		<title>ちいかわ #1〜327【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260327130000 +0000" stop="20260328000000 +0000">
+		<title>ちいかわ #1〜327【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260328000000 +0000" stop="20260328110000 +0000">
+		<title>ちいかわ #1〜327【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260328110000 +0000" stop="20260328220000 +0000">
+		<title>ちいかわ #1〜327【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260328220000 +0000" stop="20260329090000 +0000">
+		<title>ちいかわ #1〜327【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260329090000 +0000" stop="20260329200000 +0000">
+		<title>ちいかわ #1〜327【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260329200000 +0000" stop="20260330070000 +0000">
+		<title>ちいかわ #1〜327【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260330070000 +0000" stop="20260330180000 +0000">
+		<title>ちいかわ #1〜327【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260330180000 +0000" stop="20260331043000 +0000">
+		<title>ちいかわ #1〜328【無料ビデオ1週間】</title>
+		<desc>【なんか小さくてかわいいやつ】通称「ちいかわ」たちが送る
+楽しくて、ちょっぴり切ない物語。
+時には辛いことで泣いちゃうけれど
+「ちいかわ」の周りにはやさしい友達や個性豊かなキャラクターがたくさん！
+イラストレーター・ナガノによる大人気マンガ「ちいかわ」がついにアニメ化！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p110/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260331043000 +0000" stop="20260331150000 +0000">
+		<title>ちいかわ #1〜328【無料ビデオ1週間】</title>
+		<desc>【なんか小さくてかわいいやつ】通称「ちいかわ」たちが送る
+楽しくて、ちょっぴり切ない物語。
+時には辛いことで泣いちゃうけれど
+「ちいかわ」の周りにはやさしい友達や個性豊かなキャラクターがたくさん！
+イラストレーター・ナガノによる大人気マンガ「ちいかわ」がついにアニメ化！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p110/thumb001.png" />
 	</programme>
 	<programme channel="doraemon-special" start="20260318143500 +0000" stop="20260318162500 +0000">
 		<title>映画ドラえもん のび太と雲の王国【無料ビデオ1週間】</title>
@@ -10166,9 +10239,12 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p6/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260326131500 +0000" stop="20260326131800 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 3/26</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p360/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260326131800 +0000" stop="20260326151500 +0000">
 		<title>映画クレヨンしんちゃん 嵐を呼ぶ！夕陽のカスカベボーイズ【無料ビデオ1週間】</title>
@@ -14266,9 +14342,12 @@ SiVAH勢の絶好調で活気を帯びる３店舗合同営業も後半戦
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p150/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260326115700 +0000" stop="20260326120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 3/26</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p360/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260326120000 +0000" stop="20260326130000 +0000">
 		<title>＃４：降り積もる日々の不満</title>
@@ -14310,9 +14389,12 @@ SiVAH勢の絶好調で活気を帯びる３店舗合同営業も後半戦
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2053_s1_p600/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260326145700 +0000" stop="20260326150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 3/26</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p360/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260326150000 +0000" stop="20260326161000 +0000">
 		<title>はるねね、愛情たっぷりのコロッケ作り！＆きんごはりおとサッカー対決#すぱのび48</title>
@@ -14949,7 +15031,17 @@ B TEAMが挑むのはILLIT「Almond Chocolate」。
 “ファイナルピース”に最も近づくのは一体誰なのか。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p182/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260331121500 +0000" stop="20260331190000 +0000">
+	<programme channel="abema-special" start="20260331121500 +0000" stop="20260331161500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20260331161500 +0000" stop="20260331180000 +0000">
+		<title>名探偵コナン　工藤新一への挑戦状 ～さよならまでの序章（プロローグ）～</title>
+		<desc>数々の難事件を鋭い推理で解決する高校生探偵の工藤新一（小栗　旬）はマスコミの注目の的で、警視庁の目暮警部（西村雅彦）も一目置く存在だ。 そんな新一の学校では、3日間の予定で修学旅行に行くことになっていた。だがその前日、新一の元に“修学旅行中、クラスメートの誰かを誘拐する”という内容の挑戦状が届く。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-15_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260331180000 +0000" stop="20260331190000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14961,7 +15053,17 @@ B TEAMが挑むのはILLIT「Almond Chocolate」。
 一方、脱サラしブックカフェを経営する今村絵里加(岡崎紗絵)は、31歳になる今日まで男性経験ゼロ。店のローンを抱え、引きこもり気味の兄、それを甘やかし続ける母、見て見ぬ振りの父に囲まれた生活の中、恋愛も結婚も自分には縁のないものと諦めている。ところが、店にやってくる同年代の女性客、近藤奈美(深川麻衣)の積極的な婚活姿勢が絵里加を触発。ほんのお試しのつもりでマッチングアプリに登録してみると、意外にも即、気の合う相手が見つかる。恐る恐るながら、イケメンなプロフィール写真にほだされ初デートに向かうと、そこには真和が...!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-28_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260331213500 +0000" stop="20260401120000 +0000">
+	<programme channel="abema-special" start="20260331213500 +0000" stop="20260331230000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20260331230000 +0000" stop="20260401022300 +0000">
+		<title>ペントハウスシーズン2(吹替) 第12〜16話 【韓流アワー】</title>
+		<desc>ロナを傷つけた犯人を捜そうと、マリと一緒に校内を調べるユニ。ウンビョルのロッカーの前にソジンがいるのを発見。ユンチョルはウンビョルを守りたいと願いつつも、ユニとソジンの間で板挟みになってしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-218_s2_p12/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260401022300 +0000" stop="20260401120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -15009,7 +15111,17 @@ B TEAMが挑むのはILLIT「Almond Chocolate」。
 そんな中、いよいよ雄馬が奈美の両親に会う日がやってくる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-28_s1_p4/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260401213700 +0000" stop="20260402120000 +0000">
+	<programme channel="abema-special" start="20260401213700 +0000" stop="20260401230000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20260401230000 +0000" stop="20260402023200 +0000">
+		<title>ペントハウスシーズン2(吹替) 第17〜21話 【韓流アワー】</title>
+		<desc>ローガンとユニはエギョに、ダンテと手を切って自分たちに協力するよう進言。拒絶するエギョに対し、ユニはソクフンに電話をかけてソクフンの声をエギョに聞かせる。子供たちに会いたくないかと問いかけ...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-218_s2_p17/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260402023200 +0000" stop="20260402120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -16346,9 +16458,12 @@ B TEAMが挑むのはILLIT「Almond Chocolate」。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p654/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260326115700 +0000" stop="20260326120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 3/26</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p360/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260326120000 +0000" stop="20260326130000 +0000">
 		<title>【WORLD SCOUT#5前半】8人脱落！三次審査ついに決着</title>
@@ -17615,7 +17730,7 @@ A TEAMは、息の合ったシンクロダンスで魅せるLE SSERAFIM「UNFORG
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1649/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260326120000 +0000" stop="20260326130000 +0000">
-		<title>#アベプラ ①EXIT,安部敏樹,小原ブラス,中川淳一郎</title>
+		<title>#アベプラ ①どうすれば平和作れる？EXIT×反戦デモ参加者</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はchevonの｢ダンス・デカダンス｣です。（MC）EXIT、カンニング竹山、岸谷蘭丸、松陰寺太勇、田村淳、ひろゆき、安藤美姫、柏木由紀、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、池澤あやか、岩澤直美、岩田温、薄井シンシア、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、ケンコバ、後藤寛勝、紗倉まな、佐々木俊尚、柴田阿弥、シャララジマ、鈴木涼美、孫辰洋、たかまつなな、武井亜樹、竹中平蔵、辻伸弘、てぃ先生、Tehu、當間ローズ、中川淳一郎、夏野剛、成田修造、西岡壱誠、ネルソンバビンコイ、能條桃子、長谷川ミラ、はましゃか、ハヤカワ五味、速水健朗、パックン、南和行、三宅香帆、室井佑月、茂木健一郎、山内萌、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山本昌子、Yuna、ヨッピー、呂布カルマ（気象予報士）穂川果音（進行）平石直之、仁科健吾、林美桜（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6684/thumb001.png" />
 	</programme>
@@ -17924,10 +18039,9 @@ A TEAMは、息の合ったシンクロダンスで魅せるLE SSERAFIM「UNFORG
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-159_s0_p506/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260329161000 +0000" stop="20260329164000 +0000">
-		<title>熱闘！Mリーグ #365 Mの原石！</title>
-		<desc>・ボーダー争い天王山！雷電VS ABEMAS 直接対決の結末は？
-・永井VS下石VS滝沢！MVP争いの大一番でまさかの悲劇！？
-・Mの原石！堀慎吾が仕掛け人に初挑戦し、サプライズドッキリを敢行！</desc>
+		<title>熱闘！Mリーグ</title>
+		<desc>熱闘Mリーグでは今年も試合のダイジェスト、各選手の魅力に迫る密着企画などを
+たっぷりお届けします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-74_s0_p366/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260329164000 +0000" stop="20260329170000 +0000">
@@ -19170,32 +19284,32 @@ A TEAMは、息の合ったシンクロダンスで魅せるLE SSERAFIM「UNFORG
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p41257/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260326010000 +0000" stop="20260326020000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>参議院文科委員会</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p41258/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260326020000 +0000" stop="20260326030000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>参議院文科委員会</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p41259/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260326030000 +0000" stop="20260326040000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>参議院文科委員会</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p41260/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260326040000 +0000" stop="20260326050000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>衆議院本会議 　帰朝報告</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p41261/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260326050000 +0000" stop="20260326060000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>衆議院本会議 　帰朝報告</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p41262/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260326060000 +0000" stop="20260326070000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>衆議院本会議 　帰朝報告/JR東海 社長定例会見</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p41263/thumb001.png" />
 	</programme>
@@ -25442,9 +25556,12 @@ NCT DREAM、ENHYPEN、ILLIT、ATEEZ、チョウミ(SUPER JUNIOR-M)、VIVIZ、Kep
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-70_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20260326115700 +0000" stop="20260326120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 3/26</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p360/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20260326120000 +0000" stop="20260326123500 +0000">
 		<title>【Behind】CLOSE YOUR EYES 1ST TOUR #2</title>
@@ -30429,9 +30546,12 @@ Mリーグ2025-26では、新たに「EARTH JETS(アースジェッツ)」がチ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p479/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260326170000 +0000" stop="20260326170300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 3/26</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s6_p360/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260326170300 +0000" stop="20260326200500 +0000">
 		<title>第17回MONDO杯 #11,12</title>
@@ -34522,7 +34642,7 @@ HIP HOP 界の“アニキ”たちと生バンドセッション。
 HIPHOPカルチャーにまつわる、あらゆる情報をお届けする。
 毎回ラッパーやDJなど人気アーティストをゲストに迎え、
 HIPHOP界隈で今注目のトピックスについて深堀り！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-6_s0_p8/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-201_s1_p18/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20260328140000 +0000" stop="20260328144000 +0000">
 		<title>【見逃し】木梨レコード #27 田我流</title>
