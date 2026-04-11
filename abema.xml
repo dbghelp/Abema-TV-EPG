@@ -184,10 +184,6 @@
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
 	</channel>
-	<channel id="fighting-sports2">
-		<display-name>格闘 2チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports2/logo.png" />
-	</channel>
 	<channel id="hiphop">
 		<display-name>HIPHOPチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/hiphop/logo.png" />
@@ -3259,6 +3255,11 @@ TVアニメ『夜桜さんちの大作戦』新章、作戦開始!!!</desc>
 		<title>ダイヤのA actⅡ #32〜52【無料ビデオ1週間】</title>
 		<desc>故障から復帰し二軍の練習試合で先発する降谷。一軍の試合で活躍する沢村を見ながら、野球ノートに書かれた片岡の言葉を噛みしめる。一方、山梨で行われている春季関東大会では薬師、市大三高、稲実ら、青道のライバルチームが激しい戦いを演じていた。着実に力をつけているライバルチームの姿に闘志を燃やす沢村たち──。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/316-1_s30_p32/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-3" start="20260418100000 +0000" stop="20260418160000 +0000">
+		<title>杖と剣のウィストリア #1〜12【無料ビデオ72時間】</title>
+		<desc>魔法学院の生徒でありながら初歩的な魔法すら使えないウィル。皆に落ちこぼれと見下されていた彼は、ある日、自分を蔑む同級生がモンスターに襲われている姿を目撃する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-68_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="special-plus-7" start="20260403060000 +0000" stop="20260403190000 +0000">
 		<title>キャプテン翼 #1〜26【無料ビデオ1週間】</title>
@@ -9753,9 +9754,12 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p33/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260411115200 +0000" stop="20260411115500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 4/11</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p11/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260411115500 +0000" stop="20260411135000 +0000">
 		<title>映画クレヨンしんちゃん オラたちの恐竜日記</title>
@@ -14366,9 +14370,12 @@ R-1王者の今井らいぱち、衝撃のファン対応に
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1303_s5_p1001/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260411125700 +0000" stop="20260411130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 4/11</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p11/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260411130000 +0000" stop="20260411140000 +0000">
 		<title>AQOPシーズン3 #1 下克上！新メンバー躍動上等の玉座争奪戦が開幕 予選A</title>
@@ -17961,9 +17968,9 @@ MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-159_s0_p634/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260411140000 +0000" stop="20260411160000 +0000">
-		<title>ABEMA NEWS　お休み前に最新ニュース＆エンタメ</title>
-		<desc>23時・24時には、大学生キャスターがコンパクトに最新ニュースをお届け。ホットな芸能情報満載のエンタメニュースも。お休み前に、1日のニュースをチェック！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-159_s0_p635/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
 	</programme>
 	<programme channel="abema-news" start="20260411160000 +0000" stop="20260411170000 +0000">
 		<title>#アベプラ 【傑作選】／ABEMA NEWS</title>
@@ -30990,9 +30997,12 @@ KONAMI 麻雀格闘倶楽部vsEX風林火山vsセガサミーフェニックスv
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260411145700 +0000" stop="20260411150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 4/11</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p11/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260411150000 +0000" stop="20260411180200 +0000">
 		<title>第7回名人MONDO杯 #1,2</title>
@@ -35780,76 +35790,6 @@ vs ジョーダン・ピケオー</desc>
 		<desc>4/19・20 レッスルマニア 2026 ABEMA PPV配信記念！
 昨年のレッスルマニアを無料再放送！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-1_s20_p4/thumb001.png" />
-	</programme>
-	<programme channel="fighting-sports2" start="20260411063000 +0000" stop="20260411083000 +0000">
-		<title>RIZIN LANDMARK 13 in FUKUOKA 前日計量</title>
-		<desc>いよいよ明日、マリンメッセ福岡で開催される
-「大和開発 presents RIZIN LANDMARK 13 in FUKUOKA」
-出場選手が集結する大会前日計量をABEMAで無料生中継！
-
-ーーーーーーーーーー
-
-4月12日(日)にマリンメッセ福岡にて開催される、
-『大和開発 presents RIZIN LANDMARK 13 in FUKUOKA』の配信チケットを販売。
-
-
-フェザー級タイトルマッチ／ラジャブアリ・シェイドゥラエフ vs. 久保優太
-バンタム級タイトルマッチ／ダニー・サバテロ vs. 後藤丈治
-堀江圭功 vs. パトリッキー・ピットブル
-萩原京平 vs. アバイジャ・カレオ・メヘウラ
-福田龍彌 vs. アジズベク・テミロフ
-朝久泰央 vs. シンパヤック・ハマジム
-神龍誠 vs. エンカジムーロ・ズールー
-浜崎朱加 vs. ナターシャ・クジュティナ
-摩嶋一整 vs. ジェームズ・ギャラガー
-ヌルハン・ズマガジー vs. 天弥
-本田良介 vs. 火の鳥
-井上聖矢 vs. 宮川日向
-OPENING FIGHT／八尋大輝 vs. 岡本瞬
-OPENING FIGHT／山﨑鼓大 vs. 有松朋晃
-OPENING FIGHT／大木良太 vs. 荒井銀二
-OPENING FIGHT／今村流星 vs. YU-KI
-
-是非、配信でお楽しみください！
-
-ーーーーーーーーーー</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s30062_p1/thumb001.png" />
-	</programme>
-	<programme channel="fighting-sports2" start="20260411083000 +0000" stop="20260412065000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports2/logo.png" />
-	</programme>
-	<programme channel="fighting-sports2" start="20260412065000 +0000" stop="20260412120000 +0000">
-		<title>プロレスリング・ノア on ABEMA 名古屋金城ふ頭アリーナ大会</title>
-		<desc>2000年8月5日にプロレス界の“方舟”となるべく旗揚げしたプロレス団体「NOAH」。
-2026年4月12日に愛知・名古屋金城ふ頭アリーナで開催される「APEX CONQUEST 2026 in NAGOYA」をABEMAで生中継！
-
-＜対戦カード＞
-6人タッグマッチ
-大原はじめ&amp;小田嶋大樹&amp;髙橋碧 vs 征矢学&amp;ブラックめんそーれ&amp;小柳勇斗
-
-タッグマッチ
-Eita&amp;鶴屋浩斗 vsアンヘル・レイエス&amp;RYUSEI
-
-6人タッグマッチ
-小峠篤司&amp;モハメド ヨネ&amp;Hi69 vs ヌル&amp;タダスケ&amp;カイ・フジムラ
-
-6人タッグマッチ
-丸藤正道&amp;拳王AMAKUSA vs遠藤哲哉&amp;HAYATA&amp;稲畑勝巳
-
-タッグマッチ
-清宮海斗&amp;晴斗希 vs マサ北宮&amp;杉浦貴
-
-GHCジュニアヘビー級タッグ選手権試合
-ドラゴン・ベイン&amp;アレハンドロ vs キッド・ライコス1号&amp;キッド・ライコス2号
-
-GHCタッグ選手権試合
-内藤哲也&amp;BUSHI vs OZAWA&amp;政岡純
-
-GHCヘビー級選手権試合
-Yoshiki Inamura vs アルファ・ウルフ</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-20_s10007_p1/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20260403120000 +0000" stop="20260403160000 +0000">
 		<title>【再放送】フリースタイル日本統一：#1~#9</title>
