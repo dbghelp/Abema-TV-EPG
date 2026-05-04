@@ -116,10 +116,6 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
-	<channel id="special-plus-2">
-		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -179,6 +175,10 @@
 	<channel id="world-sports">
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	</channel>
+	<channel id="motor-sport">
+		<display-name>MOTOR SPORTチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
 	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
@@ -11677,7 +11677,7 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 	<programme channel="onepiece" start="20260509130000 +0000" stop="20260509133000 +0000">
 		<title>ワンピース エルバフ編 #1160【最新話】</title>
 		<desc>麦わらの一味は未来島エッグヘッドから脱出し、巨兵海賊団とともに念願の巨人の島・エルバフに辿り着く。新たな巨人との出会い、そして待望の再会――、規格外の新たな冒険が動き出す！〝ひとつなぎの大秘宝〟(ワンピース)を巡る海洋冒険ロマン!!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p56/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s30_p1160/thumb001.png" />
 	</programme>
 	<programme channel="onepiece" start="20260509133000 +0000" stop="20260509170000 +0000">
 		<title>ワンピース 魚人島編 #550〜557</title>
@@ -21660,113 +21660,6 @@ MAD5メンバーが感じる令和ロマン ケムリへの不安…
 急遽、ケムリの異常性を検証する緊急企画を実施!!
 果たして、ケムリは人の心を取り戻せるのか…!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p127/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260502010000 +0000" stop="20260502132000 +0000">
-		<title>WORLD SCOUT: THE FINAL PIECE #1~10</title>
-		<desc>HYBEとGeffen Recordsがタッグを組み、
-2026年グローバルデビューを目指すガールズグループの“最後の1人＝ファイナルピース”を日本から選び出す一大スカウトプロジェクトがついに始動！
-日本全国から集まった応募総数14,000人の中から、選ばれるのはたった1人。
-
-世界基準のオーディションが幕を開ける！
-
-1次審査ではダンスまたはボーカル、自信のある分野で挑戦。
-さらに2次審査では歌とダンスの両方に挑戦。
-3ジャンルから1つを選択し、実力・表現力・スター性を総合的に評価される本格審査へと突入する。
-
-求められるのは“日本一”ではなく、世界で通用する存在かどうか。
-
-3次審査へ進めるのはほんの一握り。
-そして最終審査の舞台はアメリカ・ロサンゼルス。
-世界を感動させる“ファイナルピース”に選ばれるのは一体誰なのか――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p100/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260502132000 +0000" stop="20260503010000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260503010000 +0000" stop="20260503132000 +0000">
-		<title>WORLD SCOUT: THE FINAL PIECE #1~10</title>
-		<desc>HYBEとGeffen Recordsがタッグを組み、
-2026年グローバルデビューを目指すガールズグループの“最後の1人＝ファイナルピース”を日本から選び出す一大スカウトプロジェクトがついに始動！
-日本全国から集まった応募総数14,000人の中から、選ばれるのはたった1人。
-
-世界基準のオーディションが幕を開ける！
-
-1次審査ではダンスまたはボーカル、自信のある分野で挑戦。
-さらに2次審査では歌とダンスの両方に挑戦。
-3ジャンルから1つを選択し、実力・表現力・スター性を総合的に評価される本格審査へと突入する。
-
-求められるのは“日本一”ではなく、世界で通用する存在かどうか。
-
-3次審査へ進めるのはほんの一握り。
-そして最終審査の舞台はアメリカ・ロサンゼルス。
-世界を感動させる“ファイナルピース”に選ばれるのは一体誰なのか――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p100/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260503132000 +0000" stop="20260504010000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260504010000 +0000" stop="20260504132000 +0000">
-		<title>WORLD SCOUT: THE FINAL PIECE #1~10</title>
-		<desc>HYBEとGeffen Recordsがタッグを組み、
-2026年グローバルデビューを目指すガールズグループの“最後の1人＝ファイナルピース”を日本から選び出す一大スカウトプロジェクトがついに始動！
-日本全国から集まった応募総数14,000人の中から、選ばれるのはたった1人。
-
-世界基準のオーディションが幕を開ける！
-
-1次審査ではダンスまたはボーカル、自信のある分野で挑戦。
-さらに2次審査では歌とダンスの両方に挑戦。
-3ジャンルから1つを選択し、実力・表現力・スター性を総合的に評価される本格審査へと突入する。
-
-求められるのは“日本一”ではなく、世界で通用する存在かどうか。
-
-3次審査へ進めるのはほんの一握り。
-そして最終審査の舞台はアメリカ・ロサンゼルス。
-世界を感動させる“ファイナルピース”に選ばれるのは一体誰なのか――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p100/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260504132000 +0000" stop="20260505063000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260505063000 +0000" stop="20260505100000 +0000">
-		<title>MC BATTLE MATSURI at 渋谷HARLEM【一部無料】</title>
-		<desc>※当放送枠では、 ABEMAプレミアムで放送の ”MC BATTLE MATSURI" の一部を無料でお届けします！
-全編のご視聴は"確認する"ボタンページからお楽しみください。
-ABEMAプレミアム会員なら熱いバトルをフル尺で視聴いただけます！
-
-MC BATTLE MATSURI、2026、再燃! 戦うのは... KING OF KINGS vs 口喧嘩祭 vs 罵倒!! 「MC BATTLE MATSURI 2026」ABEMA独占生中継!!
-　
-※配信期間、またその内容は予告なく変更及び終了になる可能性がございます。ご了承ください。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/66-23_s10030_p2/thumb001.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260505100000 +0000" stop="20260506010000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
-	</programme>
-	<programme channel="special-plus-2" start="20260506010000 +0000" stop="20260506143000 +0000">
-		<title>WORLD SCOUT: THE FINAL PIECE #1~11</title>
-		<desc>HYBEとGeffen Recordsがタッグを組み、
-2026年グローバルデビューを目指すガールズグループの“最後の1人＝ファイナルピース”を日本から選び出す一大スカウトプロジェクトがついに始動！
-日本全国から集まった応募総数14,000人の中から、選ばれるのはたった1人。
-
-世界基準のオーディションが幕を開ける！
-
-1次審査ではダンスまたはボーカル、自信のある分野で挑戦。
-さらに2次審査では歌とダンスの両方に挑戦。
-3ジャンルから1つを選択し、実力・表現力・スター性を総合的に評価される本格審査へと突入する。
-
-求められるのは“日本一”ではなく、世界で通用する存在かどうか。
-
-3次審査へ進めるのはほんの一握り。
-そして最終審査の舞台はアメリカ・ロサンゼルス。
-世界を感動させる“ファイナルピース”に選ばれるのは一体誰なのか――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p100/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260426140000 +0000" stop="20260426161000 +0000">
 		<title>ABEMA NEWS　お休み前に最新ニュース</title>
@@ -36856,6 +36749,1142 @@ https://abema.tv/video/title/16-92
 		<title>JAPAN PLAYERS CHAMPIONSHIP byサトウ食品 最終日後半</title>
 		<desc>ジャパンゴルフツアー選手会が主催する『JAPAN PLAYERS CHAMPIONSHIP byサトウ食品』をABEMAで生中継!第5回大会を迎える本大会は今年も西那須野カントリー倶楽部(栃木県)を舞台に熱戦が繰り広げられる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s20_p9/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260426114500 +0000" stop="20260426151500 +0000">
+		<title>Rd.5 ラリー・イスラス・カナリアス パワーステージ｜WRC世界ラリー選手権</title>
+		<desc>WRC世界ラリー選手権 2026 ABEMAモータースポーツで全14戦"無料"生中継決定！
+Rd.5 ラリー・イスラス・カナリアス厳選SSを4月25日(土)〜26日(日)で放送！
+
+&lt;生中継予定ステージ&gt;
+4/25(土) 17:35頃〜(日本時間) SS10 開始予定
+4/26(日) 21:15頃〜(日本時間) パワーステージ 開始予定
+
+番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え!
+注目チームは日本メーカーのTOYOTA GAZOO Racing ！
+さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる！
+最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目!
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10000_p30/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260426151500 +0000" stop="20260427150000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260427150000 +0000" stop="20260427220000 +0000">
+		<title>4月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p81/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260427220000 +0000" stop="20260428000000 +0000">
+		<title>【再】Rd.4 クロアチア・ラリー SS14|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s40_p100/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260428000000 +0000" stop="20260428022500 +0000">
+		<title>Rd.4 クロアチア・ラリー パワーステージ|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s40_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260428022500 +0000" stop="20260428040000 +0000">
+		<title>【再】#1 笑って学べる!超GTぱーてぃ</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260428040000 +0000" stop="20260428044500 +0000">
+		<title>4月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p82/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260428044500 +0000" stop="20260428080000 +0000">
+		<title>【再】Cook Out 400|NASCAR</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+ーーーーー
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします! 
+
+▼NASCARとは▼
+ 全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km! 約40台の激しいバトルや接触が非常に迫力のあるレースです!ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s30_p5/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260428080000 +0000" stop="20260428090000 +0000">
+		<title>【告知枠】18時放送 Jack Link's 500</title>
+		<desc>NASCAR 2026 Jack Link's 500を4月28日18時よりABEMAで無料配信!
+舞台となるのは、タラデガ・スーパースピードウェイ。
+
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします！
+
+▼NASCARとは▼
+全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km！
+約40台の激しいバトルや接触が非常に迫力のあるレースです！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s10003_p5/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260428090000 +0000" stop="20260428140000 +0000">
+		<title>Jack Link's 500|NASCAR</title>
+		<desc>NASCAR 2026 Jack Link's 500を4月28日18時よりABEMAで無料配信!
+舞台となるのは、タラデガ・スーパースピードウェイ。
+
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします！
+
+▼NASCARとは▼
+全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km！
+約40台の激しいバトルや接触が非常に迫力のあるレースです！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s10003_p6/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260428140000 +0000" stop="20260428153500 +0000">
+		<title>【再】#2 富士スピードウェイ 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s20_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260428153500 +0000" stop="20260501150000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260501150000 +0000" stop="20260501220000 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p83/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260501220000 +0000" stop="20260502014000 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.1 モビリティリゾートもてぎ</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260502014000 +0000" stop="20260502040500 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.2 モビリティリゾートもてぎ</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s20_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260502040500 +0000" stop="20260502050000 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p84/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260502050000 +0000" stop="20260502064000 +0000">
+		<title>【再】#3 セパン 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s30_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260502064000 +0000" stop="20260502085500 +0000">
+		<title>【再】Rd.1 ラリー・モンテカルロ SS13|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10_p100/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260502085500 +0000" stop="20260502112500 +0000">
+		<title>【再】Rd.1 ラリー・モンテカルロ パワーステージ|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260502112500 +0000" stop="20260502130500 +0000">
+		<title>【再】#4 富士スピードウェイ 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s40_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260502130500 +0000" stop="20260502144000 +0000">
+		<title>【再】#5 鈴鹿サーキット 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s50_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260502144000 +0000" stop="20260502161500 +0000">
+		<title>【再】#6 スポーツランドSUGO 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s60_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260502161500 +0000" stop="20260502220000 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p85/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260502220000 +0000" stop="20260503001500 +0000">
+		<title>【再】Rd.2 ラリー・スウェーデン パワーステージ|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260503001500 +0000" stop="20260503023000 +0000">
+		<title>【再】Rd.2 ラリー・スウェーデン パワーステージ|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260503023000 +0000" stop="20260503054500 +0000">
+		<title>【再】Cook Out 400|NASCAR</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+ーーーーー
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします! 
+
+▼NASCARとは▼
+ 全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km! 約40台の激しいバトルや接触が非常に迫力のあるレースです!ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s30_p5/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260503054500 +0000" stop="20260503070000 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p86/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260503070000 +0000" stop="20260503083500 +0000">
+		<title>【再】#7 オートポリス 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s70_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260503083500 +0000" stop="20260503121500 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.1 モビリティリゾートもてぎ</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260503121500 +0000" stop="20260503144000 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.2 モビリティリゾートもてぎ</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s20_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260503144000 +0000" stop="20260503161500 +0000">
+		<title>【再】#8 もてぎ 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s80_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260503161500 +0000" stop="20260504150000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260504150000 +0000" stop="20260504220000 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p87/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260504220000 +0000" stop="20260504233500 +0000">
+		<title>【再】#1 笑って学べる!超GTぱーてぃ</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260504233500 +0000" stop="20260505000500 +0000">
+		<title>【トヨタイムズ】 勝田貴元 涙の優勝!過酷なサバイバルラリーに密着</title>
+		<desc>提供元:トヨタイムズスポーツ
+
+34年ぶりに日本人がWRCで優勝した。
+重い扉を開いたのは、TGR-WRT勝田貴元。
+
+ラリードライバーの祖父、父をもつ3代目。
+自らの意志でラリーの世界に飛び込み、21年からトップカテゴリーにフル参戦。
+8度表彰台に上るも、優勝まではあと一歩届かず。
+誰もがいつか来ると信じた瞬間が、最も過酷な舞台で訪れた。
+サファリで生き残って勝ち取った、価値ある初優勝。
+その軌跡に密着した。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s30_p317/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260505000500 +0000" stop="20260505021000 +0000">
+		<title>【再】Rd.3 サファリ・ラリー・ケニア SS15|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s30_p100/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260505021000 +0000" stop="20260505042500 +0000">
+		<title>【再】Rd.3 サファリ・ラリー・ケニア パワーステージ|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s30_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260505042500 +0000" stop="20260505044500 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p88/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260505044500 +0000" stop="20260505080000 +0000">
+		<title>【再】Cook Out 400|NASCAR</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+ーーーーー
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします! 
+
+▼NASCARとは▼
+ 全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km! 約40台の激しいバトルや接触が非常に迫力のあるレースです!ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s30_p5/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260505080000 +0000" stop="20260505090000 +0000">
+		<title>【告知枠】18時放送 Würth 400</title>
+		<desc>NASCAR 2026 Würth 400を5月5日18時よりABEMAで無料配信!
+舞台となるのは、テキサス・モーター・スピードウェイ。
+
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします！
+
+▼NASCARとは▼
+全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km！
+約40台の激しいバトルや接触が非常に迫力のあるレースです！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s10004_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260505090000 +0000" stop="20260505140000 +0000">
+		<title>Würth 400｜NASCAR</title>
+		<desc>NASCAR 2026 Würth 400を5月5日18時よりABEMAで無料配信!
+舞台となるのは、テキサス・モーター・スピードウェイ。
+
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします！
+
+▼NASCARとは▼
+全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km！
+約40台の激しいバトルや接触が非常に迫力のあるレースです！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s10004_p2/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260505140000 +0000" stop="20260505153500 +0000">
+		<title>【再】#2 富士スピードウェイ 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s20_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260505153500 +0000" stop="20260507150000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260507150000 +0000" stop="20260507220000 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p89/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260507220000 +0000" stop="20260508011500 +0000">
+		<title>NASCAR#8入れる</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+ーーーーー
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします! 
+
+▼NASCARとは▼
+ 全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km! 約40台の激しいバトルや接触が非常に迫力のあるレースです!ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s30_p5/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260508011500 +0000" stop="20260508033000 +0000">
+		<title>【再】Rd.1 ラリー・モンテカルロ SS13|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10_p100/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260508033000 +0000" stop="20260508060000 +0000">
+		<title>【再】Rd.1 ラリー・モンテカルロ パワーステージ|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260508060000 +0000" stop="20260508074000 +0000">
+		<title>【再】#3 セパン 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s30_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260508074000 +0000" stop="20260508092000 +0000">
+		<title>【再】#4 富士スピードウェイ 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s40_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260508092000 +0000" stop="20260508094000 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p90/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260508094000 +0000" stop="20260508110000 +0000">
+		<title>【再】#1 笑って学べる!超GTぱーてぃ2026</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260508110000 +0000" stop="20260508120000 +0000">
+		<title>【告知枠】#2 笑って学べる!超GTぱーてぃー</title>
+		<desc>初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料!
+MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組を生放送でお届け!
+各大会の注目シーンをまとめたダイジェストを現役ドライバーと監督を迎え一緒に振り返る。
+初心者にもわかりやすくレーシング用語の解説や暫定順位を表示するオリジナルテロップを添えたレースダイジェストに加え、
+独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、75分のバラエティに富んだ内容を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s10000_p4/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260508120000 +0000" stop="20260508133000 +0000">
+		<title>#2 富士スピードウェイ 笑って学べる!超GTぱーてぃー</title>
+		<desc>初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料!
+MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組を生放送でお届け!
+各大会の注目シーンをまとめたダイジェストを現役ドライバーと監督を迎え一緒に振り返る。
+初心者にもわかりやすくレーシング用語の解説や暫定順位を表示するオリジナルテロップを添えたレースダイジェストに加え、
+独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、75分のバラエティに富んだ内容を放送！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s10000_p5/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260508133000 +0000" stop="20260508140000 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p91/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260508140000 +0000" stop="20260508153500 +0000">
+		<title>【再】#5 鈴鹿サーキット 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s50_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260508153500 +0000" stop="20260508220000 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p92/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260508220000 +0000" stop="20260509014000 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.1 モビリティリゾートもてぎ</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260509014000 +0000" stop="20260509040500 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.2 モビリティリゾートもてぎ</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s20_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260509040500 +0000" stop="20260509044500 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p93/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260509044500 +0000" stop="20260509062000 +0000">
+		<title>【再】#6 スポーツランドSUGO 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s60_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260509062000 +0000" stop="20260509075500 +0000">
+		<title>【再】#7 オートポリス 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s70_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260509075500 +0000" stop="20260509100000 +0000">
+		<title>【再】Rd.3 サファリ・ラリー・ケニア SS15|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s30_p100/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260509100000 +0000" stop="20260509121500 +0000">
+		<title>【再】Rd.3 サファリ・ラリー・ケニア パワーステージ|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s30_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260509121500 +0000" stop="20260509131500 +0000">
+		<title>【告知枠】22:15放送Rd.6 ラリー・ポルトガル SS16</title>
+		<desc>WRC世界ラリー選手権 2026 ABEMAモータースポーツで全14戦"無料"生中継決定！
+Rd.6 ラリー・ポルトガル厳選SSを5月9日(土)〜10日(日)で放送！
+
+&lt;生中継予定ステージ&gt;
+5/09(土) 23:05頃〜(日本時間) SS16 開始予定
+5/10(日) 21:15頃〜(日本時間) パワーステージ 開始予定
+
+番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え!
+注目チームは日本メーカーのTOYOTA GAZOO Racing ！
+さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる！
+最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目!
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10000_p33/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260509131500 +0000" stop="20260509170000 +0000">
+		<title>Rd.6 ラリー・ポルトガル SS16｜WRC世界ラリー選手権</title>
+		<desc>WRC世界ラリー選手権 2026 ABEMAモータースポーツで全14戦"無料"生中継決定！
+Rd.6 ラリー・ポルトガル厳選SSを5月9日(土)〜10日(日)で放送！
+
+&lt;生中継予定ステージ&gt;
+5/09(土) 23:05頃〜(日本時間) SS16 開始予定
+5/10(日) 21:15頃〜(日本時間) パワーステージ 開始予定
+
+番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え!
+注目チームは日本メーカーのTOYOTA GAZOO Racing ！
+さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる！
+最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目!
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10000_p34/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260509170000 +0000" stop="20260509220000 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p94/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260509220000 +0000" stop="20260509233500 +0000">
+		<title>【再】#8 もてぎ 笑って学べる!!超GTぱーてぃー</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s80_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260509233500 +0000" stop="20260510031500 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.1 モビリティリゾートもてぎ</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260510031500 +0000" stop="20260510054000 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.2 モビリティリゾートもてぎ</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s20_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260510054000 +0000" stop="20260510062000 +0000">
+		<title>5月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p95/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260510062000 +0000" stop="20260510082000 +0000">
+		<title>【再】Rd.4 クロアチア・ラリー SS14|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s40_p100/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260510082000 +0000" stop="20260510104500 +0000">
+		<title>Rd.4 クロアチア・ラリー パワーステージ|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s40_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260510104500 +0000" stop="20260510114500 +0000">
+		<title>【告知枠】20:45放送Rd.6 ラリー・ポルトガル</title>
+		<desc>WRC世界ラリー選手権 2026 ABEMAモータースポーツで全14戦"無料"生中継決定！
+Rd.6 ラリー・ポルトガル厳選SSを5月9日(土)〜10日(日)で放送！
+
+&lt;生中継予定ステージ&gt;
+5/09(土) 23:05頃〜(日本時間) SS16 開始予定
+5/10(日) 21:15頃〜(日本時間) パワーステージ 開始予定
+
+番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え!
+注目チームは日本メーカーのTOYOTA GAZOO Racing ！
+さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる！
+最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目!
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10000_p35/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260510114500 +0000" stop="20260510153000 +0000">
+		<title>Rd.6 ラリー・ポルトガル パワーステージ｜WRC世界ラリー選手権</title>
+		<desc>WRC世界ラリー選手権 2026 ABEMAモータースポーツで全14戦"無料"生中継決定！
+Rd.6 ラリー・ポルトガル厳選SSを5月9日(土)〜10日(日)で放送！
+
+&lt;生中継予定ステージ&gt;
+5/09(土) 23:05頃〜(日本時間) SS16 開始予定
+5/10(日) 21:15頃〜(日本時間) パワーステージ 開始予定
+
+番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え!
+注目チームは日本メーカーのTOYOTA GAZOO Racing ！
+さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる！
+最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目!
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10000_p36/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20260426140000 +0000" stop="20260426184500 +0000">
 		<title>NOAH ”GOFORWARD Day1” 2020.6.14</title>
