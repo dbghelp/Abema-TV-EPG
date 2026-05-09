@@ -180,6 +180,10 @@
 		<display-name>MOTOR SPORTチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
 	</channel>
+	<channel id="sumo">
+		<display-name>大相撲チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png" />
+	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -36136,6 +36140,131 @@ https://abema.tv/video/title/634-4
 
 初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s50_p1/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260509220000 +0000" stop="20260509230000 +0000">
+		<title>大相撲LIVE 五月場所</title>
+		<desc>大相撲五月場所 幕内 結びの一番まで完全無料生中継! 初日の中継は無料で見逃し視聴いただけます。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10005_p1/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260509230000 +0000" stop="20260510063000 +0000">
+		<title>大相撲LIVE 五月場所（序ノ口～十両）1日目[初日]｜5.10</title>
+		<desc>大相撲五月場所【1日目】幕内 結びの一番まで完全無料生中継! この時間は「序ノ口」「序二段」「三段目」「幕下」「十両」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p1/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260510063000 +0000" stop="20260510110000 +0000">
+		<title>大相撲LIVE 五月場所（幕内）1日目[初日]｜5.10</title>
+		<desc>大相撲五月場所【1日目】幕内 結びの一番まで完全無料生中継! この時間は「幕内」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p2/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260510110000 +0000" stop="20260510230000 +0000">
+		<title>大相撲LIVE 五月場所</title>
+		<desc>大相撲五月場所 幕内 結びの一番まで完全無料生中継! 初日の中継は無料で見逃し視聴いただけます。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10005_p2/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260510230000 +0000" stop="20260511064000 +0000">
+		<title>大相撲LIVE 五月場所（序ノ口～十両）2日目｜5.11</title>
+		<desc>大相撲五月場所【2日目】幕内 結びの一番まで完全無料生中継! この時間は「序ノ口」「序二段」「三段目」「幕下」「十両」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p3/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260511064000 +0000" stop="20260511110000 +0000">
+		<title>大相撲LIVE 五月場所（幕内）2日目｜5.11</title>
+		<desc>大相撲五月場所【2日目】幕内 結びの一番まで完全無料生中継! この時間は「幕内」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p4/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260511110000 +0000" stop="20260511230000 +0000">
+		<title>大相撲LIVE 五月場所</title>
+		<desc>大相撲五月場所 幕内 結びの一番まで完全無料生中継! 2日目の中継は無料で見逃し視聴いただけます。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10005_p3/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260511230000 +0000" stop="20260512064000 +0000">
+		<title>大相撲LIVE 五月場所（序ノ口～十両）3日目｜5.12</title>
+		<desc>大相撲五月場所【3日目】幕内 結びの一番まで完全無料生中継! この時間は「序ノ口」「序二段」「三段目」「幕下」「十両」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p5/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260512064000 +0000" stop="20260512110000 +0000">
+		<title>大相撲LIVE 五月場所（幕内）3日目｜5.12</title>
+		<desc>大相撲五月場所【3日目】幕内 結びの一番まで完全無料生中継! この時間は「幕内」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p6/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260512110000 +0000" stop="20260512230000 +0000">
+		<title>大相撲LIVE 五月場所</title>
+		<desc>大相撲五月場所 幕内 結びの一番まで完全無料生中継! 3日目の中継は無料で見逃し視聴いただけます。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10005_p4/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260512230000 +0000" stop="20260513064000 +0000">
+		<title>大相撲LIVE 五月場所（序ノ口～十両）4日目｜5.13</title>
+		<desc>大相撲五月場所【4日目】幕内 結びの一番まで完全無料生中継! この時間は「序ノ口」「序二段」「三段目」「幕下」「十両」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p7/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260513064000 +0000" stop="20260513110000 +0000">
+		<title>大相撲LIVE 五月場所（幕内）4日目｜5.13</title>
+		<desc>大相撲五月場所【4日目】幕内 結びの一番まで完全無料生中継! この時間は「幕内」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p8/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260513110000 +0000" stop="20260513230000 +0000">
+		<title>大相撲LIVE 五月場所</title>
+		<desc>大相撲五月場所 幕内 結びの一番まで完全無料生中継! 4日目の中継は無料で見逃し視聴いただけます。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10005_p5/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260513230000 +0000" stop="20260514064000 +0000">
+		<title>大相撲LIVE 五月場所（序ノ口～十両）5日目｜5.14</title>
+		<desc>大相撲五月場所【5日目】幕内 結びの一番まで完全無料生中継! この時間は「序ノ口」「序二段」「三段目」「幕下」「十両」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p9/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260514064000 +0000" stop="20260514110000 +0000">
+		<title>大相撲LIVE 五月場所（幕内）5日目｜5.14</title>
+		<desc>大相撲五月場所【5日目】幕内 結びの一番まで完全無料生中継! この時間は「幕内」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p10/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260514110000 +0000" stop="20260514230000 +0000">
+		<title>大相撲LIVE 五月場所</title>
+		<desc>大相撲五月場所 幕内 結びの一番まで完全無料生中継! 5日目の中継は無料で見逃し視聴いただけます。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10005_p6/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260514230000 +0000" stop="20260515064000 +0000">
+		<title>大相撲LIVE 五月場所（序ノ口～十両）6日目｜5.15</title>
+		<desc>大相撲五月場所【6日目】幕内 結びの一番まで完全無料生中継! この時間は「序ノ口」「序二段」「三段目」「幕下」「十両」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p11/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260515064000 +0000" stop="20260515110000 +0000">
+		<title>大相撲LIVE 五月場所（幕内）6日目｜5.15</title>
+		<desc>大相撲五月場所【6日目】幕内 結びの一番まで完全無料生中継! この時間は「幕内」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p12/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260515110000 +0000" stop="20260515230000 +0000">
+		<title>大相撲LIVE 五月場所</title>
+		<desc>大相撲五月場所 幕内 結びの一番まで完全無料生中継! 6日目の中継は無料で見逃し視聴いただけます。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10005_p7/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260515230000 +0000" stop="20260516064000 +0000">
+		<title>大相撲LIVE 五月場所(序ノ口~十両)7日目|5.16</title>
+		<desc>大相撲五月場所【6日目】幕内 結びの一番まで完全無料生中継! この時間は「序ノ口」「序二段」「三段目」「幕下」「十両」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p13/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260516064000 +0000" stop="20260516110000 +0000">
+		<title>大相撲LIVE 五月場所（幕内）7日目｜5.16</title>
+		<desc>大相撲五月場所【6日目】幕内 結びの一番まで完全無料生中継! この時間は「幕内」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p14/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260516110000 +0000" stop="20260516230000 +0000">
+		<title>大相撲LIVE 五月場所</title>
+		<desc>大相撲五月場所 幕内 結びの一番まで完全無料生中継! 6日目の中継は無料で見逃し視聴いただけます。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10005_p8/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260516230000 +0000" stop="20260517064000 +0000">
+		<title>大相撲LIVE 五月場所(序ノ口~十両)8日目[中日]|5.17</title>
+		<desc>大相撲五月場所【6日目】幕内 結びの一番まで完全無料生中継! この時間は「序ノ口」「序二段」「三段目」「幕下」「十両」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p15/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260517064000 +0000" stop="20260517110000 +0000">
+		<title>大相撲LIVE 五月場所（幕内）8日目[中日]｜5.17</title>
+		<desc>大相撲五月場所【6日目】幕内 結びの一番まで完全無料生中継! この時間は「幕内」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10004_p16/thumb001.png" />
+	</programme>
+	<programme channel="sumo" start="20260517110000 +0000" stop="20260517230000 +0000">
+		<title>大相撲LIVE 五月場所</title>
+		<desc>大相撲五月場所 幕内 結びの一番まで完全無料生中継! 6日目の中継は無料で見逃し視聴いただけます。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10005_p9/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20260502150000 +0000" stop="20260502172000 +0000">
 		<title>【再】WWE RAW×ABEMA#72</title>
