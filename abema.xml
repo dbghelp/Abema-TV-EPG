@@ -184,6 +184,10 @@
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
 	</channel>
+	<channel id="fighting-sports2">
+		<display-name>格闘 2チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports2/logo.png" />
+	</channel>
 	<channel id="hiphop">
 		<display-name>HIPHOPチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/hiphop/logo.png" />
@@ -36686,6 +36690,11 @@ vs 和島 大海</desc>
 		<title>WWE　SMACKDOWN &amp; ABEMA #138</title>
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10008_p138/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports2" start="20260516080000 +0000" stop="20260516140000 +0000">
+		<title>RISE198</title>
+		<desc>2026年5月16日に後楽園ホールで開催される「RISE198」をABEMAで生中継！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/464-22_s10008_p1/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20260508120000 +0000" stop="20260508160000 +0000">
 		<title>【再放送】フリースタイル日本統一：#57~#65</title>
