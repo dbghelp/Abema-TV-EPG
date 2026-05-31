@@ -104,6 +104,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="metrock">
 		<display-name>メトロックチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/metrock/logo.png" />
@@ -171,10 +175,6 @@
 	<channel id="world-sports">
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
-	</channel>
-	<channel id="world-sports-1">
-		<display-name>SPORTS LIVE1 チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
 	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
@@ -15501,9 +15501,16 @@ SAKURAの本音と涙が溢れるエピローグ―。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260607110000 +0000" stop="20260607120000 +0000">
-		<title>ななにー 地下ABEMA #121</title>
-		<desc>世間が気になることから、そんなに気にならないことまで、
-“稲垣・草彅・香取”の3人がより深く掘り下げて界隈をざわつかせる！</desc>
+		<title>ななにー 地下ABEMA #121 令和のお金持ち！セレブママの自宅潜入SP</title>
+		<desc>田園調布の豪華絢爛な一軒家に潜入！ 
+50畳のリビングルームに
+550万円のソファーに500万円のダイニングテーブル
+
+総額２億円超えのアクセサリー
+子どもにはルイ・ヴィトンの100万円のぬいぐるみ
+ロケ中、見栄えが悪いと80万円のワインを買い出し
+
+想像を超えたセレブママの私生活とは？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p181/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260607120000 +0000" stop="20260607121700 +0000">
@@ -17813,6 +17820,20 @@ ABEMAパチンコNEWS
 
 【提供】BOATRACE振興会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-228_s1_p1055/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260531131500 +0000" stop="20260531150000 +0000">
+		<title>第一生命 D.LEAGUE 25-26【CHAMPIONSHIP】延長枠</title>
+		<desc>BLOCK HYPE、BLOCK VIBEそれぞれに勝ち上がってきた6チームが一同に会し、今シーズンの頂点を決める最後の闘い。
+シード枠を獲得したのは、２大会連続完全優勝を目指すCyberAgent Legitと
+昨シーズン最下位からの見事な這い上がりを見せたFULLCAST RAISERZの2チーム。
+初戦から頂上決戦とも言えるKADOKAWA DREAMS vs KOSÉ 8ROCKSの対戦も、
+何度も改革を繰り返し6年目にして初のCS出場を手にしたMedical Concierge I’moonと
+エリートダンサー集団がプライドを賭けD.LEAGUEのルールに沿う闘い方に変化を遂げたDYM MESSENGERSとの対戦も、
+どのチームに軍配が上がるのか誰も予測できない。
+そして、TRIAL MATCHからの勝利で勢いを付けてくる2チームに対し、
+SEMI FINALで初戦となるシード枠の2チームがどこまで熱量MAXで対応できるか。
+全てのMATCHが見逃せない、必ずや歴史に残る25-26 SEASON CHAMPIONSHIPに乞うご期待です！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-97_s1000_p18/thumb001.png" />
 	</programme>
 	<programme channel="metrock" start="20260527030000 +0000" stop="20260527150000 +0000">
 		<title>【メトロック2026】5/28から4日連続放送！</title>
@@ -34109,41 +34130,6 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 		<title>JAPAN PLAYERS CHAMPIONSHIP byサトウ食品 1日目後半</title>
 		<desc>ジャパンゴルフツアー選手会が主催する『JAPAN PLAYERS CHAMPIONSHIP byサトウ食品』をABEMAで生中継!第5回大会を迎える本大会は今年も西那須野カントリー倶楽部(栃木県)を舞台に熱戦が繰り広げられる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/376-38_s20_p3/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20260527223000 +0000" stop="20260528103000 +0000">
-		<title>〜全英への道〜ミズノオープン　1日目</title>
-		<desc>第55回「～全英への道～ミズノオープン」は、2026年5月28日（木）から5月31日（日）まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名（有資格者を除く）に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-103_s10000_p1/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20260528103000 +0000" stop="20260528223000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20260528223000 +0000" stop="20260529103000 +0000">
-		<title>〜全英への道〜ミズノオープン　2日目</title>
-		<desc>第55回「～全英への道～ミズノオープン」は、2026年5月28日（木）から5月31日（日）まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名（有資格者を除く）に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-103_s10000_p2/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20260529103000 +0000" stop="20260529230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20260529230000 +0000" stop="20260530103000 +0000">
-		<title>〜全英への道〜ミズノオープン　3日目</title>
-		<desc>第55回「～全英への道～ミズノオープン」は、2026年5月28日（木）から5月31日（日）まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名（有資格者を除く）に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-103_s10000_p3/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20260530103000 +0000" stop="20260530230000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png" />
-	</programme>
-	<programme channel="world-sports-1" start="20260530230000 +0000" stop="20260531103000 +0000">
-		<title>〜全英への道〜ミズノオープン　最終日</title>
-		<desc>第55回「～全英への道～ミズノオープン」は、2026年5月28日（木）から5月31日（日）まで、岡山県のJFE瀬戸内海ゴルフ倶楽部で開催されます。この大会は、全英オープン出場権をかけた国内男子ゴルフトーナメントで、上位3名（有資格者を除く）に出場資格が与えられます。ABEMAでは、大会期間中の全日程をリアルタイムで無料配信し、世界を目指す選手たちの熱戦をお届けします。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-103_s10000_p4/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20260523150000 +0000" stop="20260523192000 +0000">
 		<title>K-1 WGP ~よこはまつり~ 2021.9.20_後半</title>
