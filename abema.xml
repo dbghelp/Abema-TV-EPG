@@ -156,6 +156,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-2">
+		<display-name>麻雀チャンネル2</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -4552,6 +4556,16 @@ SJ2を上回る白熱の狂宴が間もなく始まる……！</desc>
 豊かすぎる個性を持った住人たちとの愉快な（?）ひとつ屋根の下ライフが幕を開ける！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-196_s1_p1/thumb001.png" />
 	</programme>
+	<programme channel="lovecomedy-anime" start="20260607230000 +0000" stop="20260608110000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/lovecomedy-anime/logo.png" />
+	</programme>
+	<programme channel="lovecomedy-anime" start="20260608110000 +0000" stop="20260608170000 +0000">
+		<title>君に届け #1〜12【無料ビデオ1週間】</title>
+		<desc>黒沼爽子はその見た目から、みんなに「貞子」と呼ばれ恐れられていた。みんなと打ち解けたい爽子にとって、明るく爽やかで常にみんなの中心にいる風早翔太は憧れの人。その憧れの風早から爽子は、終業式の前日に行う肝試しに参加しよう、と誘われたのであった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/143-43_s1_p1/thumb001.png" />
+	</programme>
 	<programme channel="dailylife-anime" start="20260526110000 +0000" stop="20260526170000 +0000">
 		<title>お兄ちゃんはおしまい！ #1〜12【無料ビデオ2週間】</title>
 		<desc>2年も外に出ないで、いかがわしいゲーム三昧の引きこもりでダメニートな緒山まひろ。昼時に目を覚ますと、どうも身体の様子がおかしい…。不思議がりつつもタブレットを手に取ると…、そこには見ず知らずの“可愛い女の子”が画面に映っていた！？突如始まる女の子の生活に、“元”お兄ちゃんであるまひろの運命はどうなる…！？</desc>
@@ -4829,6 +4843,16 @@ SJ2を上回る白熱の狂宴が間もなく始まる……！</desc>
 		<title>未確認で進行形 #1〜12【無料ビデオ1週間】</title>
 		<desc>家事万能、巨乳安産型、その他はごく普通の高校生・夜ノ森小紅。そんな小紅の16歳の誕生日。突然訪ねてきたのは許婚・三峰白夜（影薄い）と、その妹＝小姑・三峰真白（どう見ても幼女）。なぜか始まる同居生活。実姉・夜ノ森紅緒は今日も元気にシスコンで変態だけど、果たして小紅の生活は一変するとかしないとか。うまく言えないので確認してください。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-3wxgpd-fitp_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="dailylife-anime" start="20260607230000 +0000" stop="20260608110000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/dailylife-anime/logo.png" />
+	</programme>
+	<programme channel="dailylife-anime" start="20260608110000 +0000" stop="20260608170000 +0000">
+		<title>私に天使が舞い降りた！ #1〜12【無料ビデオ2週間】</title>
+		<desc>ある春の日、オタクで人見知りな女子大生・みやこが住む星野家に、妹の小学生・ひなたが新しくできたという友達を連れて来ました。その友達、花ちゃんを一目見た瞬間から、みやこはドキドキが止まらなくなってしまったのです！まるで天使のような花ちゃんと何とかして仲良くなりたいみやこは、自分の得意なお菓子作りで気を引こうとするのですが……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-108_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="late-night-anime" start="20260526110000 +0000" stop="20260526170000 +0000">
 		<title>死亡遊戯で飯を食う。#1〜11【無料ビデオ2週間】</title>
@@ -10882,17 +10906,9 @@ SAKURAの本音と涙が溢れるエピローグ―。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2051_s1_p101/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260528150800 +0000" stop="20260528160800 +0000">
-		<title>ナオキマンの都市伝説ワイドショー#4：タイムリープ新解明＆ぶっちゃけ都市伝説飲み</title>
-		<desc>【底知れぬ謎が深まるタイムリープの新事実を都市伝説視点で見たら…】
-タイムリープ最新説を独自で徹底調査!!
-生駒里奈が経験した、不思議なデジャヴ体験
-タイムリープの共通点とは!?
-
-【居酒屋で話したくなる日常の裏側を都市伝説視点で見たら…】
-今、港区界隈よりも最もホットな界隈とは...!?
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p4/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20260528160800 +0000" stop="20260528180000 +0000">
 		<title>●●ちゃん 第1~4話 前半一挙</title>
@@ -11007,17 +11023,9 @@ SAKURAの本音と涙が溢れるエピローグ―。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-352_s10000_p1009/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260529120000 +0000" stop="20260529130000 +0000">
-		<title>ナオキマンの都市伝説ワイドショー#4：タイムリープ新解明＆ぶっちゃけ都市伝説飲み</title>
-		<desc>【底知れぬ謎が深まるタイムリープの新事実を都市伝説視点で見たら…】
-タイムリープ最新説を独自で徹底調査!!
-生駒里奈が経験した、不思議なデジャヴ体験
-タイムリープの共通点とは!?
-
-【居酒屋で話したくなる日常の裏側を都市伝説視点で見たら…】
-今、港区界隈よりも最もホットな界隈とは...!?
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p4/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20260529130000 +0000" stop="20260529135700 +0000">
 		<title>しくじり先生 #331 柿谷曜一朗先生がレジェンド集結の引退試合を迎えるまで</title>
@@ -11058,17 +11066,9 @@ ABEMAパチンコNEWS
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-283_s10000_p40/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260529150000 +0000" stop="20260529160000 +0000">
-		<title>ナオキマンの都市伝説ワイドショー#4：タイムリープ新解明＆ぶっちゃけ都市伝説飲み</title>
-		<desc>【底知れぬ謎が深まるタイムリープの新事実を都市伝説視点で見たら…】
-タイムリープ最新説を独自で徹底調査!!
-生駒里奈が経験した、不思議なデジャヴ体験
-タイムリープの共通点とは!?
-
-【居酒屋で話したくなる日常の裏側を都市伝説視点で見たら…】
-今、港区界隈よりも最もホットな界隈とは...!?
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p4/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20260529160000 +0000" stop="20260529180000 +0000">
 		<title>●●ちゃん 第5~8話 後半一挙</title>
@@ -11510,17 +11510,9 @@ K-POPのファンが一堂に会する、2026年春を代表する大型フェ�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2051_s1_p101/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260531160700 +0000" stop="20260531170700 +0000">
-		<title>ナオキマンの都市伝説ワイドショー#4：タイムリープ新解明＆ぶっちゃけ都市伝説飲み</title>
-		<desc>【底知れぬ謎が深まるタイムリープの新事実を都市伝説視点で見たら…】
-タイムリープ最新説を独自で徹底調査!!
-生駒里奈が経験した、不思議なデジャヴ体験
-タイムリープの共通点とは!?
-
-【居酒屋で話したくなる日常の裏側を都市伝説視点で見たら…】
-今、港区界隈よりも最もホットな界隈とは...!?
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p4/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20260531170700 +0000" stop="20260531180000 +0000">
 		<title>MAD5 #4：芸能界の”JUN”集結で事件発生!? JUNゾンビ世界一決定戦</title>
@@ -12121,9 +12113,9 @@ ABEMAパチンコNEWS
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/743-43_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260603190000 +0000" stop="20260603210000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ハレ婚。第1~4話 前半一挙</title>
+		<desc>東京暮らしで付き合った男性はすべて既婚者...。東京での恋と生活に疲れ切った前園小春(島崎遥香)は、故郷・北つばめ市へと帰郷する。そこで知らされたのは、父・哲郎(渡辺いっけい)が病に倒れ、実家で経営している喫茶店「ルパン」が、多額の借金を抱え閉店に追い込まれていることだった!なんとしても喫茶店を守りたい小春の前に現れたのが伊達龍之介(稲葉友)という謎の男。「ルパン」の常連客という龍之介は、借金の肩代わりを申し出ると「幸せにするよ。結婚しよう」といきなりプロポーズ!しかし、彼にはすでに1人目の妻・ゆず(柳ゆり菜)と2人目の妻・まどか(浅川梨奈)がいた!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-17_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260603210000 +0000" stop="20260603220000 +0000">
 		<title>時計じかけのマリッジ #6：条件完璧でもビビッと来ず。好きになれない結婚進める？</title>
@@ -12204,7 +12196,17 @@ ABEMAパチンコNEWS
 18日後の結婚に向けて、波乱の歯車が大きく動き出す——。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2058_s1_p40/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260604115700 +0000" stop="20260604140000 +0000">
+	<programme channel="abema-special" start="20260604115700 +0000" stop="20260604120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20260604120000 +0000" stop="20260604135700 +0000">
+		<title>【独占配信】乗り換え恋愛4 #9~10</title>
+		<desc>親睦を深めるべくボウリングをすることにしたメンバーたち。しかしチョ・ユシクは突然“デートがあります”というメッセージを受け取る。Xが来ると予想していたユシクだが、そこに現れたのは...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/743-43_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260604135700 +0000" stop="20260604140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -12233,10 +12235,15 @@ R−1グランプリ王者のお見送り芸人しんいちが参戦。
 NGなしで何でも答える⁉︎しんいちの資産情報も喪どころ。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p109/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260604150000 +0000" stop="20260604180000 +0000">
+	<programme channel="abema-special" start="20260604150000 +0000" stop="20260604160000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20260604160000 +0000" stop="20260604180000 +0000">
+		<title>ハレ婚。第1~4話 前半一挙</title>
+		<desc>東京暮らしで付き合った男性はすべて既婚者...。東京での恋と生活に疲れ切った前園小春(島崎遥香)は、故郷・北つばめ市へと帰郷する。そこで知らされたのは、父・哲郎(渡辺いっけい)が病に倒れ、実家で経営している喫茶店「ルパン」が、多額の借金を抱え閉店に追い込まれていることだった!なんとしても喫茶店を守りたい小春の前に現れたのが伊達龍之介(稲葉友)という謎の男。「ルパン」の常連客という龍之介は、借金の肩代わりを申し出ると「幸せにするよ。結婚しよう」といきなりプロポーズ!しかし、彼にはすでに1人目の妻・ゆず(柳ゆり菜)と2人目の妻・まどか(浅川梨奈)がいた!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/552-17_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260604180000 +0000" stop="20260604190000 +0000">
 		<title>時計じかけのマリッジ #6：条件完璧でもビビッと来ず。好きになれない結婚進める？</title>
@@ -12525,7 +12532,7 @@ SAKURAの本音と涙が溢れるエピローグ―。</desc>
 取材班が隠しカメラを手に買春ホテルへ潜入すると、大人びた化粧で年齢を偽っているとみられる10～20人の少女たちがいた。
 わずか7000円ほどで一夜を売る現実。地方の村をさらに追うと、10代前半にしか見えない少女たちの姿もあった。
 なぜ子どもに性のはけ口を求めるのか。ラオスで横行する児童買春のいまを「改めて、取材しました」。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p194/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2060_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260606150000 +0000" stop="20260606160000 +0000">
 		<title>No programme</title>
@@ -12942,17 +12949,9 @@ IQ165のガチ天才・鶴崎修功がクイズ王達を引き連れリベンジ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-181_s10_p1/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260527133000 +0000" stop="20260527143000 +0000">
-		<title>ナオキマンの都市伝説ワイドショー#4：タイムリープ新解明＆ぶっちゃけ都市伝説飲み</title>
-		<desc>【底知れぬ謎が深まるタイムリープの新事実を都市伝説視点で見たら…】
-タイムリープ最新説を独自で徹底調査!!
-生駒里奈が経験した、不思議なデジャヴ体験
-タイムリープの共通点とは!?
-
-【居酒屋で話したくなる日常の裏側を都市伝説視点で見たら…】
-今、港区界隈よりも最もホットな界隈とは...!?
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p4/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20260527143000 +0000" stop="20260527150000 +0000">
 		<title>#2_東出昌大「死ねない理由を集めてた」</title>
@@ -13055,16 +13054,9 @@ IQ165のガチ天才・鶴崎修功がクイズ王達を引き連れリベンジ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p347/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260528041800 +0000" stop="20260528061800 +0000">
-		<title>ナオキマンの都市伝説ワイドショー season3 #3~4</title>
-		<desc>【歌舞伎町の禁断の裏側を都市伝説視点で見たら…】
-新宿の三禁スポット!!
-新宿に存在する裏カジノ…!?
-歌舞伎町内全ての監視カメラがモニタリングできる謎の部屋…!?
-新宿には、ある機関のアジトが存在する…!?
-
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p3/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20260528061800 +0000" stop="20260528083300 +0000">
 		<title>ジョン・ウィック:チャプター2(吹替)[R15+]</title>
@@ -13268,16 +13260,9 @@ HYBE×GEFFEN初の日本人アーティストとして、グループ「SAINT SA
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/170-2_s0_p1/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260529080000 +0000" stop="20260529100000 +0000">
-		<title>ナオキマンの都市伝説ワイドショー season3 #3~4</title>
-		<desc>【歌舞伎町の禁断の裏側を都市伝説視点で見たら…】
-新宿の三禁スポット!!
-新宿に存在する裏カジノ…!?
-歌舞伎町内全ての監視カメラがモニタリングできる謎の部屋…!?
-新宿には、ある機関のアジトが存在する…!?
-
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p3/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20260529100000 +0000" stop="20260529115700 +0000">
 		<title>世界の果てに、くるま置いてきた #3~4</title>
@@ -13466,17 +13451,9 @@ ABEMAパチンコNEWS
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2053_s1_p431/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260530090000 +0000" stop="20260530100000 +0000">
-		<title>ナオキマンの都市伝説ワイドショー#4：タイムリープ新解明＆ぶっちゃけ都市伝説飲み</title>
-		<desc>【底知れぬ謎が深まるタイムリープの新事実を都市伝説視点で見たら…】
-タイムリープ最新説を独自で徹底調査!!
-生駒里奈が経験した、不思議なデジャヴ体験
-タイムリープの共通点とは!?
-
-【居酒屋で話したくなる日常の裏側を都市伝説視点で見たら…】
-今、港区界隈よりも最もホットな界隈とは...!?
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p4/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20260530100000 +0000" stop="20260530120000 +0000">
 		<title>『波乗りSPLASH CAFE 2号店』#9</title>
@@ -13606,17 +13583,9 @@ ABEMAパチンコNEWS
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1998_s3_p8/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260531074500 +0000" stop="20260531084500 +0000">
-		<title>ナオキマンの都市伝説ワイドショー#4：タイムリープ新解明＆ぶっちゃけ都市伝説飲み</title>
-		<desc>【底知れぬ謎が深まるタイムリープの新事実を都市伝説視点で見たら…】
-タイムリープ最新説を独自で徹底調査!!
-生駒里奈が経験した、不思議なデジャヴ体験
-タイムリープの共通点とは!?
-
-【居酒屋で話したくなる日常の裏側を都市伝説視点で見たら…】
-今、港区界隈よりも最もホットな界隈とは...!?
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p4/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20260531084500 +0000" stop="20260531131500 +0000">
 		<title>第一生命 D.LEAGUE 25-26【CHAMPIONSHIP】</title>
@@ -13747,17 +13716,9 @@ HYBE×GEFFEN初の日本人アーティストとして、グループ「SAINT SA
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p105/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260531234500 +0000" stop="20260601004500 +0000">
-		<title>ナオキマンの都市伝説ワイドショー#4：タイムリープ新解明＆ぶっちゃけ都市伝説飲み</title>
-		<desc>【底知れぬ謎が深まるタイムリープの新事実を都市伝説視点で見たら…】
-タイムリープ最新説を独自で徹底調査!!
-生駒里奈が経験した、不思議なデジャヴ体験
-タイムリープの共通点とは!?
-
-【居酒屋で話したくなる日常の裏側を都市伝説視点で見たら…】
-今、港区界隈よりも最もホットな界隈とは...!?
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p4/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20260601004500 +0000" stop="20260601030000 +0000">
 		<title>セーラー服と機関銃-卒業-【ABEMA初】</title>
@@ -13770,17 +13731,9 @@ HYBE×GEFFEN初の日本人アーティストとして、グループ「SAINT SA
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p350/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260601042500 +0000" stop="20260601053000 +0000">
-		<title>ナオキマンの都市伝説ワイドショー#4：タイムリープ新解明＆ぶっちゃけ都市伝説飲み</title>
-		<desc>【底知れぬ謎が深まるタイムリープの新事実を都市伝説視点で見たら…】
-タイムリープ最新説を独自で徹底調査!!
-生駒里奈が経験した、不思議なデジャヴ体験
-タイムリープの共通点とは!?
-
-【居酒屋で話したくなる日常の裏側を都市伝説視点で見たら…】
-今、港区界隈よりも最もホットな界隈とは...!?
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p4/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20260601053000 +0000" stop="20260601060000 +0000">
 		<title>【特別エピソード後編】THE FINAL PIECE―SAKURA</title>
@@ -13817,17 +13770,9 @@ SAKURAの本音と涙が溢れるエピローグ―。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p105/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260601120000 +0000" stop="20260601130000 +0000">
-		<title>ナオキマンの都市伝説ワイドショー#4：タイムリープ新解明＆ぶっちゃけ都市伝説飲み</title>
-		<desc>【底知れぬ謎が深まるタイムリープの新事実を都市伝説視点で見たら…】
-タイムリープ最新説を独自で徹底調査!!
-生駒里奈が経験した、不思議なデジャヴ体験
-タイムリープの共通点とは!?
-
-【居酒屋で話したくなる日常の裏側を都市伝説視点で見たら…】
-今、港区界隈よりも最もホットな界隈とは...!?
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p4/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20260601130000 +0000" stop="20260601135700 +0000">
 		<title>ななにー 地下ABEMA #120 バズりまくりのイケメン＆美女大集合！</title>
@@ -13883,16 +13828,9 @@ HYBE×GEFFEN初の日本人アーティストとして、グループ「SAINT SA
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2039_s1_p473/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260601170000 +0000" stop="20260601190000 +0000">
-		<title>ナオキマンの都市伝説ワイドショー season3 #3~4</title>
-		<desc>【歌舞伎町の禁断の裏側を都市伝説視点で見たら…】
-新宿の三禁スポット!!
-新宿に存在する裏カジノ…!?
-歌舞伎町内全ての監視カメラがモニタリングできる謎の部屋…!?
-新宿には、ある機関のアジトが存在する…!?
-
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p3/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20260601190000 +0000" stop="20260601203000 +0000">
 		<title>MAD5 Season1 #4~5</title>
@@ -13981,17 +13919,9 @@ MAD5メンバーが名前に”ジュン”のつく芸能人を集め、真のJ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/534-20_s1_p4/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260602044000 +0000" stop="20260602054000 +0000">
-		<title>ナオキマンの都市伝説ワイドショー#4：タイムリープ新解明＆ぶっちゃけ都市伝説飲み</title>
-		<desc>【底知れぬ謎が深まるタイムリープの新事実を都市伝説視点で見たら…】
-タイムリープ最新説を独自で徹底調査!!
-生駒里奈が経験した、不思議なデジャヴ体験
-タイムリープの共通点とは!?
-
-【居酒屋で話したくなる日常の裏側を都市伝説視点で見たら…】
-今、港区界隈よりも最もホットな界隈とは...!?
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p4/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20260602054000 +0000" stop="20260602075500 +0000">
 		<title>ファーストラヴ</title>
@@ -13999,16 +13929,9 @@ MAD5メンバーが名前に”ジュン”のつく芸能人を集め、真のJ
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/162-88_s0_p1/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260602075500 +0000" stop="20260602095500 +0000">
-		<title>ナオキマンの都市伝説ワイドショー season3 #3~4</title>
-		<desc>【歌舞伎町の禁断の裏側を都市伝説視点で見たら…】
-新宿の三禁スポット!!
-新宿に存在する裏カジノ…!?
-歌舞伎町内全ての監視カメラがモニタリングできる謎の部屋…!?
-新宿には、ある機関のアジトが存在する…!?
-
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p3/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20260602095500 +0000" stop="20260602115700 +0000">
 		<title>世界の果てに、くるま置いてきた #7~8</title>
@@ -14186,23 +14109,10 @@ MAD5メンバーが感じる令和ロマン ケムリへの不安…
 そしてくるまは、ダージリンの奥地、「チベット難民キャンプ」へ!!!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p309/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20260603120700 +0000" stop="20260603121000 +0000">
+	<programme channel="special-plus" start="20260603120700 +0000" stop="20260603141000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
-	</programme>
-	<programme channel="special-plus" start="20260603121000 +0000" stop="20260603141000 +0000">
-		<title>ナオキマンの都市伝説ワイドショー season3 #4~5</title>
-		<desc>【底知れぬ謎が深まるタイムリープの新事実を都市伝説視点で見たら…】
-タイムリープ最新説を独自で徹底調査!!
-生駒里奈が経験した、不思議なデジャヴ体験
-タイムリープの共通点とは!?
-
-【居酒屋で話したくなる日常の裏側を都市伝説視点で見たら…】
-今、港区界隈よりも最もホットな界隈とは...!?
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p4/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260603141000 +0000" stop="20260603150000 +0000">
 		<title>MAD5 #5：令和ロマン松井ケムリ生誕祭!! 最高のツッコミをプレゼントしよう</title>
@@ -14332,17 +14242,9 @@ MAD5メンバーが感じる令和ロマン ケムリへの不安…
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p356/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260604035600 +0000" stop="20260604061500 +0000">
-		<title>ナオキマンの都市伝説ワイドショー season3 #4~5</title>
-		<desc>【底知れぬ謎が深まるタイムリープの新事実を都市伝説視点で見たら…】
-タイムリープ最新説を独自で徹底調査!!
-生駒里奈が経験した、不思議なデジャヴ体験
-タイムリープの共通点とは!?
-
-【居酒屋で話したくなる日常の裏側を都市伝説視点で見たら…】
-今、港区界隈よりも最もホットな界隈とは...!?
-
-※真実か否か判断するのはアナタです</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p4/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
 	<programme channel="special-plus" start="20260604061500 +0000" stop="20260604080000 +0000">
 		<title>ベイビーわるきゅーれ</title>
@@ -14582,7 +14484,121 @@ ABEMAパチンコNEWS
 さらに、東出にまさかの新展開!!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p312/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20260605100000 +0000" stop="20260606005000 +0000">
+	<programme channel="special-plus" start="20260605100000 +0000" stop="20260605115700 +0000">
+		<title>東出昌大の野営デトックス #1~4</title>
+		<desc>東出昌大のもとへやってきた“都会を生きる芸能人”は
+柔道金メダリストからプロレス界へ飛び込んだウルフアロン。
+そして同じくプロレスラーへの転身を果たしたフワちゃん。
+
+野営地へ向かう三人を待っていたのは、道すらない急斜面。
+アスリートの二人も弱音を漏らす過酷な道中を
+東出は確かな足取りで先導し、三人には連帯感が生まれていく。
+
+ウルフが振り返る金メダル獲得後の葛藤。フワちゃんが明かすプロレス転向の理由。
+
+異質な３人が出会い、山で共に過ごし、焚火の前で語られる本音とは…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/534-20_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260605115700 +0000" stop="20260605123000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20260605123000 +0000" stop="20260605133000 +0000">
+		<title>AQOPシーズン3 #8 全員が当落線上！運命を分ける最後の審判 予選D</title>
+		<desc>予選はいよいよ最終盤。一人の脱落によって、卓上の力関係は完全に崩壊！
+残されたシートはわずか。通過ラインの当落線上で、全員のポイントが複雑にひしめき合う前代未聞のデッドヒートへ突入する。
+
+わずか「1点」の差が命運を分ける極限のシチュエーション。
+これまで築き上げたプランは通用せず、1枚のカード、1つのチップの賭け方に、プレイヤーたちの全神経が注がれる。
+お互いの思惑がミリ単位で交錯し、一瞬でも隙を見せればその場で奈落へ突き落とされる息詰まる終盤戦。
+
+息をのむような均衡を破り、最後に生き残る者は誰だ。
+そして、無情にもボーダーラインの直下で涙をのむのは――。
+
+次の一手ですべてが変わる、運命の瞬間を見届けよ！
+
+現役最強ポーカー女子が「ポーカークイーン」の座を競い合うABEMAオリジナルのポーカートーナメントABEMA Queen Of Poker。過去最大12名が入れ替わりながら合計４試合の予選を展開。Finalまで更なる熾烈を極める。ポーカークイーンの座を懸けて本気のサバイバルバトルが繰り広げられる!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1998_s3_p8/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260605133000 +0000" stop="20260605140000 +0000">
+		<title>#85：東ブクロがガチデート！パチンコで恋は実るのか！？</title>
+		<desc>東ブクロが超本気の恋人探しデート！
+パチンコで恋は実るのか！？
+史上初のパチンコ恋愛ショーが開幕する
+
+沖ヒカルも見守る中
+恋のラッキートリガーに突入…？
+
+ABEMAパチンコNEWS
+全身球まみれの美女ライターをご紹介！
+
+
+提供：マルハン北日本カンパニー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p85/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260605140000 +0000" stop="20260605150000 +0000">
+		<title>ナオキマンの都市伝説ワイドショー#5：人類を超えたAI…「衝撃の未来」とは？</title>
+		<desc>【人類を超えたAIを都市伝説視点で見たら…】
+2027年 失業率50%以上に!?
+人格を持った AI 同士の戦争が始まる!?
+2040年 遂に不老不死を手に入れる!?
+人工知能に監視される社会!
+
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p5/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260605150000 +0000" stop="20260605160000 +0000">
+		<title>MAD5 #4：芸能界の”JUN”集結で事件発生!? JUNゾンビ世界一決定戦</title>
+		<desc>特番時代に配信され、一部のマニアを熱狂させたカルト企画
+「ゾンビになったしずる純を人間に戻そう」がパワーアップしてカムバック!!
+
+MAD5メンバーが名前に”ジュン”のつく芸能人を集め、真のJUNゾンビを決定する…!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2048_s10_p4/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260605160000 +0000" stop="20260605170000 +0000">
+		<title>チャンスの時間 #364〜大悟vs最強クイズ王ふくらP 大悟超有利の真剣クイズ</title>
+		<desc>【千鳥大悟 クイズ王への道 第7回 クイズの時間】
+天下を獲ったと言っても過言ではない千鳥・大悟。
+しかし、唯一足りないもの――それは"知的イメージ"。
+
+クイズ番組出演経験ほぼゼロながら、これまで「大悟クイズ」で数々のクイズ王たちを打破！
+さらにQuizKnock相手にも2勝している大悟が、ついにクイズ天下統一へ！
+
+大悟の前に立ちはだかるのはQuizKnockからの最強の刺客・ふくらP。
+プレイヤー兼クイズ作家として活躍する最強頭脳と、本気の早押しクイズ対決に挑む！
+
+出題されるのは、「叙々苑」「しばり」「たけし」など"大悟超有利"な奇妙すぎるクイズジャンル！
+さらに今回は、大物芸人や大物アーティストたちがクイズ出題者として登場！？
+
+さらに"計算問題"では、まさか大悟がふくらPを打ち負かす場面も！？
+果たして大悟は、最強の刺客を返り討ちにし"天下"を獲ることができるのか！？
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p364/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260605170000 +0000" stop="20260605190000 +0000">
+		<title>ナオキマンの都市伝説ワイドショー #8~9</title>
+		<desc>【ドバイ案件と日本の性的搾取を都市伝説視点で見たら…】
+当事者に聞いたドバイ案件の闇!?
+ヤギとの性行為ウワサは本当!?
+
+三上悠亜にも海外案件のお誘いが!?
+ドバイ案件のオーディション内容は!?
+
+ドバイ案件は口封じの署名をさせられる!?
+ドバイ案件の雇い主は世界中の金持ちたち
+
+富裕層が欲望のまま生きると行く末は破綻!?
+日本案件はハニートラップの危険も!?
+
+大富豪エプスタインはモサドのスパイ!?
+YZERRが見たアメリカの性的搾取
+
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260605190000 +0000" stop="20260606005000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -14648,7 +14664,29 @@ ABEMAパチンコNEWS
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10009_p140/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20260606150000 +0000" stop="20260607120000 +0000">
+	<programme channel="special-plus" start="20260606150000 +0000" stop="20260607004500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20260607004500 +0000" stop="20260607030000 +0000">
+		<title>超高速!参勤交代リターンズ</title>
+		<desc>江戸時代、老中・松平信祝の差し金により幕府から突然参勤交代を命じられた磐城国(現在の福島県いわき市)の湯長谷藩。金も人手も時間も無い中、知恵と工夫でなんとか江戸への参勤を果たすが、故郷へ帰る「交代」までが「参勤交代」。藩主の内藤政醇率いる一行は、湯長谷を目指し江戸を出発する。あとは帰るだけ、と思ったのも束の間、その道中、湯長谷で一揆が起きたことを耳にする。政醇たちに打ち負かされた信祝が、さらに大きな権力と最強の刺客を手に入れ、湯長谷藩を壊滅させようと逆襲を始めたのだった。
+一揆を収めるためには、2日以内に藩に帰らなくてはならず、さらに「交代」には大名行列も必要になる。彼らは行きの倍の速さで走り、宿役人の目を晦ましながら、命からがら湯長谷に辿り着くが、すでに城は乗っ取られ、田畑は踏み荒らされた後だった。城を取り巻くおびただしい数の幕府軍、対する湯長谷藩はたったの7人。ふたたび絶対絶命に陥った湯長谷藩。果たして彼らは城を取り戻し、民を守ることができるのか?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/319-37_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260607030000 +0000" stop="20260607060000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20260607060000 +0000" stop="20260607083000 +0000">
+		<title>超高速!参勤交代リターンズ</title>
+		<desc>江戸時代、老中・松平信祝の差し金により幕府から突然参勤交代を命じられた磐城国(現在の福島県いわき市)の湯長谷藩。金も人手も時間も無い中、知恵と工夫でなんとか江戸への参勤を果たすが、故郷へ帰る「交代」までが「参勤交代」。藩主の内藤政醇率いる一行は、湯長谷を目指し江戸を出発する。あとは帰るだけ、と思ったのも束の間、その道中、湯長谷で一揆が起きたことを耳にする。政醇たちに打ち負かされた信祝が、さらに大きな権力と最強の刺客を手に入れ、湯長谷藩を壊滅させようと逆襲を始めたのだった。
+一揆を収めるためには、2日以内に藩に帰らなくてはならず、さらに「交代」には大名行列も必要になる。彼らは行きの倍の速さで走り、宿役人の目を晦ましながら、命からがら湯長谷に辿り着くが、すでに城は乗っ取られ、田畑は踏み荒らされた後だった。城を取り巻くおびただしい数の幕府軍、対する湯長谷藩はたったの7人。ふたたび絶対絶命に陥った湯長谷藩。果たして彼らは城を取り戻し、民を守ることができるのか?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/319-37_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260607083000 +0000" stop="20260607120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -15384,7 +15422,7 @@ ABEMAパチンコNEWS
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-162_s0_p158/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260603030000 +0000" stop="20260603040000 +0000">
-		<title>わたしとニュース～そのモヤモヤ、話せば世界が晴れるかも。～</title>
+		<title>わたしとニュース 台風で学校は？困惑/ナフサ不安 #モヤハレ</title>
 		<desc>ニュースをもっと、身近に。
 日常で感じる「これって何で？」「ちょっと変だな」-そんなモヤモヤが、実はニュースの入り口かもしれません。社会や政治、そして暮らしの中の違和感をわたしたちの視点で語り尽くす新感覚の共感型ニュース番組。～そのモヤモヤ、話せば世界が晴れるかも。～</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-157_s0_p127/thumb001.png" />
@@ -16959,17 +16997,17 @@ ABEMAパチンコNEWS
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p42912/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260603000000 +0000" stop="20260603010000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>衆議院 決算行政監視委員会</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p42913/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260603010000 +0000" stop="20260603020000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>衆議院 決算行政監視委員会</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p42914/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260603020000 +0000" stop="20260603030000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>衆議院 決算行政監視委員会</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p42915/thumb001.png" />
 	</programme>
@@ -26031,6 +26069,46 @@ A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
 チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
+	<programme channel="mahjong-2" start="20260527030000 +0000" stop="20260527145000 +0000">
+		<title>第51期最高位戦A1リーグ 第5節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p13/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260527145000 +0000" stop="20260529115000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260529115000 +0000" stop="20260529140000 +0000">
+		<title>第25期雀王戦A1リーグ第4節A卓【延長枠】</title>
+		<desc>日本プロ麻雀協会の最高峰タイトル。
+A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
+現雀王・西村 雄一郎とタイトルの座を争う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/69-75_s10001_p10/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260529140000 +0000" stop="20260603030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260603030000 +0000" stop="20260603145000 +0000">
+		<title>第51期最高位戦A1リーグ 第5節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p14/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260603145000 +0000" stop="20260610030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260610030000 +0000" stop="20260610145000 +0000">
+		<title>第51期最高位戦A1リーグ 第6節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p15/thumb001.png" />
+	</programme>
 	<programme channel="shogi" start="20260526143900 +0000" stop="20260527000700 +0000">
 		<title>【再】第73期 王座戦 五番勝負 第1局 藤井聡太王座 対 伊藤匠叡王</title>
 		<desc>王座戦は全棋士と女流棋士4名で行われます。一次予選、二次予選のトーナメント戦を行い、二次予選を勝ち抜いた棋士とシード棋士の16名によって、挑戦者決定トーナメントを行い、挑戦者を決めます。例年9月から10月にかけて王座と挑戦者が五番勝負を行います。</desc>
@@ -26874,9 +26952,14 @@ MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-94_s60_p1/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260603094000 +0000" stop="20260603104000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+		<title>【再】ABEMAスポーツタイム#132</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p132/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260603104000 +0000" stop="20260603143000 +0000">
 		<title>【再】Straight Talk Wireless 500|NASCAR</title>
@@ -26974,9 +27057,14 @@ https://abema.tv/video/title/634-3
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s40_p5/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260604103000 +0000" stop="20260604113000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+		<title>【再】ABEMAスポーツタイム#132</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p132/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260604113000 +0000" stop="20260604144000 +0000">
 		<title>【再】Pennzoil 400|NASCAR</title>
@@ -27092,9 +27180,14 @@ https://abema.tv/video/title/634-3
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/580-7_s10_p5/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260605103500 +0000" stop="20260605113500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+		<title>【再】ABEMAスポーツタイム#132</title>
+		<desc>毎週日曜よる10時から生放送
+川﨑宗則、稲本潤一がレギュラー出演!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p132/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260605113500 +0000" stop="20260605141500 +0000">
 		<title>【再】FIBAアジアカップ2025予選 日本 vs モンゴル</title>
@@ -28829,17 +28922,144 @@ NOSAWA論外&amp;テハノJr.&amp;スペル・クレイジー vs アレハンド
  WWE!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s13_p14/thumb001.png" />
 	</programme>
-	<programme channel="fighting-sports" start="20260603204500 +0000" stop="20260604040000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
+	<programme channel="fighting-sports" start="20260603204500 +0000" stop="20260603234500 +0000">
+		<title>K-1 WGP 2019.8.24 大阪大会 3時間濃縮編集版</title>
+		<desc>2019年8月24日(土)にエディオンアリーナ大阪で開催されたK-1 WORLD GP 2019 JAPAN 8.24 大阪大会をAbemaTVにて配信!
+第3試合/松岡 力 vs 近藤 魁成
+第4試合/篠原 悠人 vs 川﨑 真一朗
+第7試合/愛鷹 亮 vs シナ・カリミアン
+第8試合/城戸 康裕 vs アントニオ・ゴメス
+第9試合/大泉 翔 vs 木村“フィリップ”ミノル
+第10試合/野杁 正明 vs サミ・ラミリ
+第11試合/林 健太 vs デニス・デミルカプ
+第12試合/皇治 vs 大岩 龍矢</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-108_s10_p51/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20260603234500 +0000" stop="20260604033000 +0000">
+		<title>8.27 Krush.152 後楽園ホール 全編</title>
+		<desc>超攻撃型打撃格闘技「Krush」2023年8月27日 後楽園ホールで行われた「Krush.152」の模様をお届け!
+メインイベント(第9試合)/【株式会社GENアセットマネジメント Presents】日本vs韓国・3対3・大将戦/バンタム級/3分3R・延長1R
+壬生狼 一輝 vs パク・ヒョンウ
+セミファイナル(第8試合)/【株式会社GENアセットマネジメント Presents】日本vs韓国・3対3・中堅戦/スーパー・フェザー級/3分3R・延長1R
+松山 勇汰 vs チャン・ウヒョク
+第7試合/ 【株式会社GENアセットマネジメント Presents】日本vs韓国・3対3・先鋒戦/-63kg契約/3分3R・延長1R
+TETSU vs チャン・ドクジュン
+第6試合/スーパー・ライト級/3分3R・延長1R
+近藤 魁成 vs FUMIYA
+第5試合/フェザー級/3分3R・延長1R
+竹内 将生 vs 健介
+第4試合/ライト級/3分3R・延長1R
+昇也 vs 古宮 晴
+第3試合/スーパー・ウェルター級/3分3R・延長1R
+山崎 陽一 vs 小田 尋久
+第2試合/フェザー級/3分3R・延長1R
+久保 一馬 vs 勝輝
+第1試合/スーパー・ライト級/3分3R・延長1R
+齋藤 紘也 vs 坂本 優輝
+第3試合/ライト級/3分3R
+龍之介 vs 吉川 諒
+第2試合/スーパー・フェザー級/3分3R
+聖也 vs 下村 泰平
+第1試合/女子アトム級/2分3R
+Kiho vs 末松 晄</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-143_s90_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20260604033000 +0000" stop="20260604040000 +0000">
+		<title>「芦澤竜誠と行く ぶらり喧嘩旅」#4</title>
+		<desc>とにかくなんでも噛み付く男・芦澤竜誠が日本全国を巡る旅に出た!
+旅のお供は、芦澤に文句が言える唯一の天敵・マッコイ斎藤!
+
+ゆく先々で起こるハプニングや喧嘩、そして、ちょっと泣ける感動話まで。
+今、最高にスリリングな旅がはじまる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-124_s10_p4/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20260604040000 +0000" stop="20260604063000 +0000">
 		<title>RISE WORLD SERIES 2026 TOKYO 前々日会見</title>
 		<desc>2026年6月4日「RISE WORLD SERIES 2026 TOKYO GLORY×RISE LAST FEATHERWEIGHT STANDING TOURNAMENT Final」の前々日会見をABEMA無料生中継！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/464-22_s10009_p1/thumb001.png" />
 	</programme>
-	<programme channel="fighting-sports" start="20260604063000 +0000" stop="20260605040000 +0000">
+	<programme channel="fighting-sports" start="20260604063000 +0000" stop="20260604092500 +0000">
+		<title>殴り合い上等! 安保瑠輝也 ベストバウト</title>
+		<desc>第4代K-1 WORLD GPスーパー・ライト級王者 安保瑠輝也
+幼少時代に“安保兄弟”として注目を集め、2016年11月にK-1デビュー
+あのゲーオ・ウィラサクレックに勝利し王座を戴冠した安保瑠輝也の試合を厳選してお届け!!
+
+2017年2月25日 K-1 WORLD GP 2017 JAPAN
+vs水町浩
+
+2017年7月16日 Krush.77
+vsドン・ザーチー 
+
+2017年11月5日 Krush.82
+vs 恭士郎
+
+2018年9月24日 K-1 WORLD GP 2018 JAPAN 
+vs  林 健太
+
+2018年12月8日  K-1 WORLD GP 2018 JAPAN
+vs 山崎 秀晃
+
+2019年3月10日 K-1 WORLD GP 2019 JAPAN ~K'FESTA.2~
+vs 佐々木 大蔵
+
+2019年6月30日 K-1 WORLD GP 2019 JAPAN 
+vs ゲーオ・ウィラサクレック 
+
+2019年12月28日 K-1冬のビッグマッチ 第2弾 名古屋 
+vs ゲーオ・ウィラサクレック
+
+2020年3月22日  K-1 WORLD GP 2020 JAPAN ~K'FESTA.3~
+vs 不可思</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-116_s10_p19/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20260604092500 +0000" stop="20260604143000 +0000">
+		<title>NOAH Dream on 2022 FINAL 2022.5.21</title>
+		<desc>2000年8月5日にプロレス界の“方舟”となるべく旗揚げしたプロレス団体「NOAH」。
+2022年5月21日に放送された「Dream on 2022 FINAL」の模様を公開!
+
+第10試合 6人タッグマッチ
+潮崎豪&amp;清宮海斗&amp;田中将斗 vs 武藤敬司&amp;丸藤正道&amp;小島聡
+
+第9試合 GHCダッグ選手権試合
+レネ・デュプリ&amp;イホ・デ・ドクトル・ワグナーJr. vs マイケル・エルガン&amp;マサ北宮
+
+第8試合 GHCジュニアヘビー級選手権試合
+HAYATA vs エクストリーム・タイガー
+
+第7試合 GHCジュニア・ヘビー級タッグ選手権試合
+小川良成&amp;クリス・リッジウェイ vs 吉岡世起&amp;進祐哉
+
+第6試合 シングルマッチ
+拳王 vs サイモン・ゴッチ
+
+第5試合 6人タッグマッチ
+船木誠勝&amp;中嶋勝彦&amp;征矢学 vs 杉浦貴&amp;鈴木秀樹&amp;望月成晃
+
+第4試合 8人タッグマッチ
+原田大輔&amp;小峠篤司&amp;YO-HEY&amp;覇王 vs タダスケ&amp;大原はじめ&amp;Hi69&amp;近藤修司
+
+第3試合 シングルマッチ
+モハメド ヨネ vs 谷口周平
+
+第2試合 ダッグマッチ
+稲葉大樹&amp;宮脇純 vs 稲村愛輝&amp;藤村加偉
+
+第1試合 シングルマッチ
+藤田和之 vs 岡田欣也</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-11_s100_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20260604143000 +0000" stop="20260604161500 +0000">
+		<title>【再】WWE SMACKDOWN×ABEMA#39</title>
+		<desc>毎週金曜夜(現地)に行われる「SMACKDOWN」をお届け!世界最高エンタメ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s13_p35/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20260604161500 +0000" stop="20260604184500 +0000">
+		<title>【再】WWE RAW×ABEMA #19</title>
+		<desc>毎週月曜夜(現地)に行われる「RAW」をお届け!世界最高エンタメ
+ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s13_p15/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20260604184500 +0000" stop="20260605040000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -32472,7 +32692,7 @@ https://www.winticket.jp/keirin/kurume/predictions/
 https://www.winticket.jp/keirin/kurume/racecard/2026060483?index=3</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-2_s1_p2631/thumb001.png" />
 	</programme>
-	<programme channel="keirin-auto" start="20260606074000 +0000" stop="20260606113000 +0000">
+	<programme channel="keirin-auto" start="20260606074000 +0000" stop="20260606110000 +0000">
 		<title>弥彦 F1 最終日（ナイター）サンケイスポーツ賞</title>
 		<desc>全レース「WINTICKET」で投票可能!
 全競輪場のレースやオートレースのライブ映像をどの端末からでも無料で楽しめます。
@@ -32493,6 +32713,15 @@ https://www.winticket.jp/keirin/yahiko/predictions/
 ▼弥彦 F1 最終日(ナイター)サンケイスポーツ賞
 https://www.winticket.jp/keirin/yahiko/racecard/2026060421?index=3</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-3_s1_p2626/thumb001.png" />
+	</programme>
+	<programme channel="keirin-auto" start="20260606110000 +0000" stop="20260606113000 +0000">
+		<title>ルーキーシリーズ2026 完全攻略講座2</title>
+		<desc>今年3月に日本競輪選手養成所を卒業した129期・130期の新人選手が初めてプロとして走る「ルーキーシリーズ」をどのように予想したらいいのか?また勝てるルーキー選手はどのような選手なのか?を紹介しつつ、みなさんのルーキーシリーズ予想に役立てていただこう!という番組です。
+2回目の今回は、5月に行われたルーキーシリーズのデータを徹底分析、みなさまの予想に役立つポイントを赤競記者の熊谷洋祐さんと元ガールズケイリン選手の高木真備さんが紹介してきます。
+
+▼ウィンチケット競輪
+https://www.winticket.jp/keirin/</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-3_s1_p22216/thumb001.png" />
 	</programme>
 	<programme channel="keirin-auto" start="20260606113000 +0000" stop="20260606144500 +0000">
 		<title>WINTICKET ミッドナイト競輪 奈良 F2 初日</title>
