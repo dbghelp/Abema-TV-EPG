@@ -88,6 +88,14 @@
 		<display-name>ファミリーアニメ2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-2/logo.png" />
 	</channel>
+	<channel id="family-anime-3">
+		<display-name>ファミリーアニメ3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-3/logo.png" />
+	</channel>
+	<channel id="keroro">
+		<display-name>ケロロ軍曹チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/keroro/logo.png" />
+	</channel>
 	<channel id="80s-anime-1">
 		<display-name>なつかしアニメ80's</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png" />
@@ -175,6 +183,10 @@
 	<channel id="motor-sport">
 		<display-name>MOTOR SPORTチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
+	</channel>
+	<channel id="boxing">
+		<display-name>ボクシングチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
 	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
@@ -11306,6 +11318,210 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<title>ドラゴンボール #119〜127【無料ビデオ1週間】</title>
 		<desc>悟空は襲われていた牛魔王とチチを助け出し、ピッコロ大魔王のもとへと急ぐ。一方、ドラムに押されて天津飯は苦戦していた。一瞬のスキをついて放つ、起死回生の魔封波！　だが、ドラムに邪魔をされて、魔封波は失敗してしまった。とどめを刺されそうになる天津飯。そこに悟空が到着した！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-28_s1_p119/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-3" start="20260613020000 +0000" stop="20260613190000 +0000">
+		<title>新造人間キャシャーン #1〜35【無料ビデオ1週間】</title>
+		<desc>東博士が開発したアンドロイドが自我に目覚め、ブライキング・ボスと名乗り人類に反旗を翻した。ロボットの大軍隊“アンドロ軍団”の猛攻に、苦境に立たされる人類。博士の息子・鉄也は肉体を捨て、強力なパワーを持つ“新造人間”へと生まれ変わる。キャシャーンと名を変えた彼は、ロボット犬のフレンダーと共にアンドロ軍団に戦いを挑む。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-223_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-3" start="20260613190000 +0000" stop="20260614120000 +0000">
+		<title>科学忍者隊ガッチャマン #1〜35【無料ビデオ1週間】</title>
+		<desc>世界各国で謎の巨大メカに貯蔵庫が襲われ、ウランが奪われるという事件が発生。国際科学技術庁（通称ＩＳＯ）の南部博士は、この事件が世界征服を企む悪の組織ギャラクターの仕業であると推測。健、ジョー、ジュン、甚平、竜の五人の少年少女によって密かに結成していた特殊部隊・科学忍者隊を招集した。南部博士から敵の本拠地捜索の指令を受けた忍者隊は、大型戦闘偵察機ゴッドフェニックスに乗り込み出動する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-209_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-3" start="20260614120000 +0000" stop="20260615050000 +0000">
+		<title>科学忍者隊ガッチャマン #36〜70【無料ビデオ1週間】</title>
+		<desc>海で夜釣りの最中、科学調査船を襲撃する鉄獣を目撃した男の子二人とその父親。遭難して海を漂う親子を救出した科学忍者隊であったが、彼らは目撃したことを隠して話そうとしない。その言動から灯台が怪しいと推測した忍者隊は付近を捜索中、サイボーグ山猫に襲われている兄弟を発見。助けて情報を聞き出そうとするが、二人は灯台への抜け道を教える代わりに、忍者隊に入れろとせがんでくる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-209_s1_p36/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-3" start="20260615050000 +0000" stop="20260615220000 +0000">
+		<title>科学忍者隊ガッチャマン #71〜105【無料ビデオ1週間】</title>
+		<desc>ヒマラヤ山中に雪男が現れるという噂を聞いた甚平は、一人で雪男捜索に出掛けてしまう。麓は同じように噂を聞いて押しかけた観光客だらけであったが、その夜、客たちが泊まるテント群を巨大な雪男が襲った。翌朝、雪の上で目を覚ました甚平の前に現れたのは、ギャラクターの兵士たち。自分のことをギャラクターに憧れる悪童だとごまかした甚平は、基地の雑用係として雇われてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-209_s1_p71/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-3" start="20260615220000 +0000" stop="20260616103000 +0000">
+		<title>科学忍者隊ガッチャマンⅡ #1〜26【無料ビデオ1週間】</title>
+		<desc>忍者隊の活躍によって敗れ去った総裁Ｘは、染色体に異常のあった一人の子供を誘拐し急成長させ、新首領ゲルサドラとして就任させた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-209_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-3" start="20260616103000 +0000" stop="20260616230000 +0000">
+		<title>科学忍者隊ガッチャマンⅡ #27〜52【無料ビデオ1週間】</title>
+		<desc>マントルエネルギー採取工場での事故調査中、南部が何者かに撃たれる。現地に急行した忍者隊は危篤状態の南部に代わり、秘書のパンドラから指令を受ける。彼女は脳波探知機シンレーダーで、南部を狙う敵の脳波を探知、忍者隊に出動命令を下す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-209_s2_p27/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-3" start="20260616230000 +0000" stop="20260617103000 +0000">
+		<title>科学忍者隊ガッチャマンF #1〜24【無料ビデオ1週間】</title>
+		<desc>科学忍者隊の働きによりギャラクターは壊滅し、世界には束の間の平和が訪れていた。しかしエゴボスラー伯爵率いる悪の組織エゴボスラー･ファミリーが、世界征服を狙い活動を開始。圧倒的な武力によって、世界を征服していった。エネルギーの切れつつあるジョーを残し、忍者隊はニューゴッドフェニックスで出動するが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-209_s3_p1/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-3" start="20260617103000 +0000" stop="20260617220000 +0000">
+		<title>科学忍者隊ガッチャマンF #25〜48【無料ビデオ1週間】</title>
+		<desc>エゴボスラーの秘密を探るため、かつて友人だったというオンケーン侯爵を訪ねた忍者隊。しかし侯爵は直接会って説得し、ギャラクターを解散させようと画策する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-209_s3_p25/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-3" start="20260617220000 +0000" stop="20260618120000 +0000">
+		<title>タイムボカン #1〜30【無料ビデオ1週間】</title>
+		<desc>タイムマシン「タイムボカン」を発明した木江田博士は、その実験運転で行方不明となってしまった。助手の丹平と博士の孫娘の淳子は、入れ替わりに現れたオウムのペラ助の言葉を頼りに、博士を捜索するべくタイムスリップする。しかし、ペラ助のいた時代に、宇宙最高の宝石ダイナモンドがあることをかぎつけたマージョ一味が、彼らの後を追いかけてきた！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-211_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-3" start="20260618120000 +0000" stop="20260619023000 +0000">
+		<title>タイムボカン #31〜61【無料ビデオ1週間】</title>
+		<desc>タイムトンネルでマージョのクマメカと衝突したドタバッタンは、シンデレラの時代に不時着した。かわいそうなシンデレラに同情した丹平たちは、彼女がお城のパーティーに出られるように芝居をする。シンデレラは城で王子と会うが、王子を狙うマージョはそれを妬み、クマメカで攻撃してきた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-211_s1_p31/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-3" start="20260619023000 +0000" stop="20260619193000 +0000">
+		<title>タイムボカンシリーズ ヤッターマン #1〜36【無料ビデオ1週間】</title>
+		<desc>発明好きの少年ガンちゃんは、巨大犬型メカを完成させてこれを「ヤッターワン」と命名。ガールフレンドのアイちゃんと一緒に「ヤッターマン」と名乗り、世のために正義の味方となることを決意する。
+一方、悪党三人組ドロンボー一味の元に、泥棒の神様を名乗るドクロベエが現れる。大金塊の隠し場所が記されているというドクロストーンの４つのかけらを集めれば、金塊の半分をやると持ちかけられ、ドロンボーは探索を開始。その企みを知ったヤッターマンは、ヤッターワンでドロンボーを追う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-208_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-3" start="20260619193000 +0000" stop="20260620123000 +0000">
+		<title>タイムボカンシリーズ ヤッターマン #37〜72【無料ビデオ1週間】</title>
+		<desc>ドクロベエの指令がないため、この機会にドクロベエの正体を探ってやろうと考えたドロンボー。水の都ケチスに住んでいるドクロックという人物が、ドクロベエではないかと考える。ドロンボーはドクロックの養子にしてもらうために彼の陰謀に手を貸し、ドクロックの恋敵バッチリオの船を沈めてしまった。しかしヤッターマンの活躍によりバッチリオは救出され、ドクロックの陰謀は暴かれた。果たしてドクロックはドクロベエなのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-208_s1_p37/thumb001.png" />
+	</programme>
+	<programme channel="family-anime-3" start="20260620123000 +0000" stop="20260621053000 +0000">
+		<title>タイムボカンシリーズ ヤッターマン #73〜108【無料ビデオ1週間】</title>
+		<desc>裕福な家から盗んだお金を貧困な者に与えている義賊・ゴエモン。ゴエモンが次に狙うのはお城の蔵だ。彼は民衆が貧乏なのに贅沢な暮らしをしている殿様の事が前々から気に食わなかったのだ。ところが、同じく城の蔵にあるドクロストーンを狙っていたドロンボーはゴエモンの企みを役人に密告。そのために彼はお縄になってしまい、哀れ釜ゆでの刑に処されてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-208_s1_p73/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260613030000 +0000" stop="20260613110000 +0000">
+		<title>ケロロ軍曹 #1〜17【無料ビデオ1週間】</title>
+		<desc>「ケロロ 大地に立つ であります」ケロン星から地球侵略にやって来たケロロ。潜入した日向家で冬樹、夏美に見つかり地球侵略は早くも失敗！ケロロの運命はいかに!?
+「我が輩がケロロ軍曹 であります」日向家に正式配属（居候）することになったケロロに、秋から『専用部屋』が与えられる。喜ぶケロロだったが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-31_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260613110000 +0000" stop="20260613190000 +0000">
+		<title>ケロロ軍曹 #1〜17【無料ビデオ1週間】</title>
+		<desc>「ケロロ 大地に立つ であります」ケロン星から地球侵略にやって来たケロロ。潜入した日向家で冬樹、夏美に見つかり地球侵略は早くも失敗！ケロロの運命はいかに!?
+「我が輩がケロロ軍曹 であります」日向家に正式配属（居候）することになったケロロに、秋から『専用部屋』が与えられる。喜ぶケロロだったが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-31_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260613190000 +0000" stop="20260614030000 +0000">
+		<title>ケロロ軍曹 #18〜34【無料ビデオ1週間】</title>
+		<desc>「夏美 爆笑！オトナの海岸物語 であります 前後編」
+ケロロたちは海に行きたがるが、子供と宇宙人だけでは行かせられないと秋に止められる。その時クルルが現れ、発明品を使って夏美を大人にする。一行は早速海に出かけるが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-31_s0_p18/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260614030000 +0000" stop="20260614110000 +0000">
+		<title>ケロロ軍曹 #18〜34【無料ビデオ1週間】</title>
+		<desc>「夏美 爆笑！オトナの海岸物語 であります 前後編」
+ケロロたちは海に行きたがるが、子供と宇宙人だけでは行かせられないと秋に止められる。その時クルルが現れ、発明品を使って夏美を大人にする。一行は早速海に出かけるが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-31_s0_p18/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260614110000 +0000" stop="20260614190000 +0000">
+		<title>ケロロ軍曹 #35〜51【無料ビデオ1週間】</title>
+		<desc>「極秘！ 夏美のお誕生日大作戦 であります」
+夏美の誕生日が近づいている事を知ったケロロ軍曹は小隊の面々と夏美の誕生日パーティーをする事に。夏美をビックリさせるため内緒で準備を始めるケロロ小隊の面々であったが冬樹は何故か乗り気ではなかった。その訳とは…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-31_s0_p35/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260614190000 +0000" stop="20260615030000 +0000">
+		<title>ケロロ軍曹 #35〜51【無料ビデオ1週間】</title>
+		<desc>「極秘！ 夏美のお誕生日大作戦 であります」
+夏美の誕生日が近づいている事を知ったケロロ軍曹は小隊の面々と夏美の誕生日パーティーをする事に。夏美をビックリさせるため内緒で準備を始めるケロロ小隊の面々であったが冬樹は何故か乗り気ではなかった。その訳とは…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-31_s0_p35/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260615030000 +0000" stop="20260615110000 +0000">
+		<title>ケロロ軍曹 2ndシーズン #52〜68【無料ビデオ1週間】</title>
+		<desc>「ケロロ 再び大地に立つ であります」ケロロ小隊の面々が去り、日向家はしばしの休息が訪れていたが、再びアイツが帰ってきた！
+「タママ 黒いタママ であります」日向家を制圧するかに見えたケロロだが、結局いつも通りこき使われるはめになる。だが、タママ二等兵が第二の作戦を進行していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-36_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260615110000 +0000" stop="20260615190000 +0000">
+		<title>ケロロ軍曹 2ndシーズン #52〜68【無料ビデオ1週間】</title>
+		<desc>「ケロロ 再び大地に立つ であります」ケロロ小隊の面々が去り、日向家はしばしの休息が訪れていたが、再びアイツが帰ってきた！
+「タママ 黒いタママ であります」日向家を制圧するかに見えたケロロだが、結局いつも通りこき使われるはめになる。だが、タママ二等兵が第二の作戦を進行していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-36_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260615190000 +0000" stop="20260616030000 +0000">
+		<title>ケロロ軍曹 2ndシーズン #69〜85【無料ビデオ1週間】</title>
+		<desc>「夏美と冬樹 の神隠し であります」車で家に帰ろうとしていた日向家の三人は、道に迷い、ケロロ達が経営する宇宙人専門の健康ランドにたどり着く。
+「ケロロ 恒例！真夏のお笑いバトル であります」ある日、ケロロ宛に手紙が届く。それは以前出場した『水着漫才コンテスト』の案内で…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-36_s0_p18/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260616030000 +0000" stop="20260616110000 +0000">
+		<title>ケロロ軍曹 2ndシーズン #69〜85【無料ビデオ1週間】</title>
+		<desc>「夏美と冬樹 の神隠し であります」車で家に帰ろうとしていた日向家の三人は、道に迷い、ケロロ達が経営する宇宙人専門の健康ランドにたどり着く。
+「ケロロ 恒例！真夏のお笑いバトル であります」ある日、ケロロ宛に手紙が届く。それは以前出場した『水着漫才コンテスト』の案内で…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-36_s0_p18/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260616110000 +0000" stop="20260616193000 +0000">
+		<title>ケロロ軍曹 2ndシーズン #86〜103【無料ビデオ1週間】</title>
+		<desc>「冬樹&amp;夏美 悪魔のすむ日向家 であります」憑依型敵性宇宙人・アクリョーン星人が日向家に取りついてしまった。冬樹たちは家からの脱出を試みるが…。
+「ケロロ なれ！スーパーヒーローに であります」イベンタ星人から全宇宙向けの新番組の制作を頼まれたケロロは、さっそく番組を作り始めるのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-36_s0_p35/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260616193000 +0000" stop="20260617040000 +0000">
+		<title>ケロロ軍曹 2ndシーズン #86〜103【無料ビデオ1週間】</title>
+		<desc>「冬樹&amp;夏美 悪魔のすむ日向家 であります」憑依型敵性宇宙人・アクリョーン星人が日向家に取りついてしまった。冬樹たちは家からの脱出を試みるが…。
+「ケロロ なれ！スーパーヒーローに であります」イベンタ星人から全宇宙向けの新番組の制作を頼まれたケロロは、さっそく番組を作り始めるのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-36_s0_p35/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260617040000 +0000" stop="20260617120000 +0000">
+		<title>ケロロ軍曹 3ndシーズン #104〜120【無料ビデオ1週間】</title>
+		<desc>「ケロロ さらば愛しきケロロ！ であります」家がネバネバしたエイリアンの巣のようになっていて驚いた冬樹たちは、ケロロを真っ先に疑うが…。
+「ケロロ 滅亡へのカウントダウン であります」タンスの角に小指をぶつけて痛がる夏美を見たケロロは、ペコポン侵略にそれを利用しようと自走型タンスを開発する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-37_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260617120000 +0000" stop="20260617200000 +0000">
+		<title>ケロロ軍曹 3ndシーズン #104〜120【無料ビデオ1週間】</title>
+		<desc>「ケロロ さらば愛しきケロロ！ であります」家がネバネバしたエイリアンの巣のようになっていて驚いた冬樹たちは、ケロロを真っ先に疑うが…。
+「ケロロ 滅亡へのカウントダウン であります」タンスの角に小指をぶつけて痛がる夏美を見たケロロは、ペコポン侵略にそれを利用しようと自走型タンスを開発する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-37_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260617200000 +0000" stop="20260618040000 +0000">
+		<title>ケロロ軍曹 3ndシーズン #121〜137【無料ビデオ1週間】</title>
+		<desc>「ドロロ くの一カララ シュシュッと参上！ であります」
+サイボーグとなったバイパーが再び、ドロロの家を訪れるが、ドロロは出かけていなかった。その時突然、カララと友達のチロロがドロロに修行の成果を見せようとやって来るのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-37_s0_p18/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260618040000 +0000" stop="20260618120000 +0000">
+		<title>ケロロ軍曹 3ndシーズン #121〜137【無料ビデオ1週間】</title>
+		<desc>「ドロロ くの一カララ シュシュッと参上！ であります」
+サイボーグとなったバイパーが再び、ドロロの家を訪れるが、ドロロは出かけていなかった。その時突然、カララと友達のチロロがドロロに修行の成果を見せようとやって来るのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-37_s0_p18/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260618120000 +0000" stop="20260618200000 +0000">
+		<title>ケロロ軍曹 3ndシーズン #138〜154【無料ビデオ1週間】</title>
+		<desc>「ケロロ ケロロショー であります」侵略をサボっていたケロロたち。このままではいけないと、自分たちの強烈なキャラクターを使って侵略しようと企む。
+「冬樹＆散世 KGS再び であります」ケロロ小隊のスクープをかぎまわる、吉祥学園新聞部の月神散世。だが取材したメモをケロロに拾われてしまう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-37_s0_p35/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260618200000 +0000" stop="20260619040000 +0000">
+		<title>ケロロ軍曹 3ndシーズン #138〜154【無料ビデオ1週間】</title>
+		<desc>「ケロロ ケロロショー であります」侵略をサボっていたケロロたち。このままではいけないと、自分たちの強烈なキャラクターを使って侵略しようと企む。
+「冬樹＆散世 KGS再び であります」ケロロ小隊のスクープをかぎまわる、吉祥学園新聞部の月神散世。だが取材したメモをケロロに拾われてしまう！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-37_s0_p35/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260619040000 +0000" stop="20260619120000 +0000">
+		<title>ケロロ軍曹 4thシーズン #155〜171【無料ビデオ1週間】</title>
+		<desc>「ケロロ小隊 絶好調！ であります」ケロロは小隊の隊歌を作り、音楽で地球侵略を目論む。そして、学校の放送室をジャックしたケロロは、隊歌を流そうとするが…。
+「ケロロ小隊 大共鳴！ であります」共鳴コンクールの記事を見つけたケロロ。優勝すれば侵略予算アップという特典に目がくらんだケロロは…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-49_s4_p1/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260619120000 +0000" stop="20260619200000 +0000">
+		<title>ケロロ軍曹 4thシーズン #155〜171【無料ビデオ1週間】</title>
+		<desc>「ケロロ小隊 絶好調！ であります」ケロロは小隊の隊歌を作り、音楽で地球侵略を目論む。そして、学校の放送室をジャックしたケロロは、隊歌を流そうとするが…。
+「ケロロ小隊 大共鳴！ であります」共鳴コンクールの記事を見つけたケロロ。優勝すれば侵略予算アップという特典に目がくらんだケロロは…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-49_s4_p1/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260619200000 +0000" stop="20260620040000 +0000">
+		<title>ケロロ軍曹 4thシーズン #172〜188【無料ビデオ1週間】</title>
+		<desc>「アリサ＆冬樹 UMA対ダンガル！ であります」
+今年の夏も土井中海岸にやって来たケロロたちは、そこでアリサたちに出会った。そして、アリサたちからダークレイスの大物がいると聞いた冬樹は、目を輝かせるのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-49_s4_p18/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260620040000 +0000" stop="20260620120000 +0000">
+		<title>ケロロ軍曹 4thシーズン #172〜188【無料ビデオ1週間】</title>
+		<desc>「アリサ＆冬樹 UMA対ダンガル！ であります」
+今年の夏も土井中海岸にやって来たケロロたちは、そこでアリサたちに出会った。そして、アリサたちからダークレイスの大物がいると聞いた冬樹は、目を輝かせるのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-49_s4_p18/thumb001.png" />
+	</programme>
+	<programme channel="keroro" start="20260620120000 +0000" stop="20260620200000 +0000">
+		<title>ケロロ軍曹 4thシーズン #189〜205【無料ビデオ1週間】</title>
+		<desc>「ドロロ 過去からの刺客 であります」
+元上司のジララ大尉が宇宙脱走兵となったのを知ったドロロ。彼は、それ以来様子がおかしくなってしまい…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/13-49_s4_p35/thumb001.png" />
 	</programme>
 	<programme channel="80s-anime-1" start="20260605120000 +0000" stop="20260605160000 +0000">
 		<title>美味しんぼ #9〜16【無料ビデオ1週間】</title>
@@ -34910,6 +35126,44 @@ https://abema.tv/video/title/634-4
 
 初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20260606033000 +0000" stop="20260606130000 +0000">
+		<title>3150FIGHT 10</title>
+		<desc>6月6日に愛知県国際展示場で開催されるボクシング × 音楽イベント「3150FIGHT 10」の様子をABEMAで生配信！
+
+▼予定カード
+※メインのIBF世界フライ級タイトルマッチは18時ゴング、
+　セミメインの124ポンド契約（56.25kg）は17時ゴングを予定しています
+
+第１試合　目黒聖也 vs ヌルジギット・ディウシェバエフ（54.0kg契約 6回戦）
+第２試合　岡朱里  vs アディレット・カチキンベコフ（52.0kg契約 6回戦）　
+第３試合　横山葵海 vs ビンス・パラス（53.0kg契約 8回戦）
+第４試合　ケネス・ラバー vs マイケル・アンジェレッティ（IBF世界バンタム級指名挑戦者決定戦 12回戦）
+第５試合　ウィリバルド・ガルシア vs アンドリュー・モロニー（IBF世界スーパーフライ級タイトルマッチ 12回戦）
+第６試合　ルイス・ネリ vs ジョン・リエル・カシメロ（124ポンド契約（56.25kg） 10回戦）
+第７試合　矢吹正道 vs レネ・カリスト（IBF世界フライ級タイトルマッチ 12回戦）</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s10030_p1/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20260606130000 +0000" stop="20260613051500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
+	</programme>
+	<programme channel="boxing" start="20260613051500 +0000" stop="20260613130000 +0000">
+		<title>BENKEI FIGHT vol.10</title>
+		<desc>亀田大毅プレゼンツ、話題の大阪興行「BENKEI FIGHT vol.10」の様子をABEMAで全試合無料生中継！
+波乱必至の激闘を見逃すな！
+
+▼予定カード
+第八試合：中川抹茶 vs 山名生竜（スーパーフェザー級 8回戦）
+第七試合：花田颯 vs ザウザウ・ナイン（スーパーバンタム級 6回戦）
+第六試合：ジンジン・ミンティー vs 辻永久（スーパーフライ級 6回戦）
+第五試合：中島莉空 vs エスピノサ龍（スーパーフライ級 西日本新人王準々決勝 4回戦）
+第四試合：辻永遠 vs 井上恵吾（エキシビジョンマッチ 2回戦）
+第三試合：ニャンリン・アウン vs 政所椋（バンタム級 6回戦）
+第二試合：阿部泰牙 vs 榎本壮真（51.5kg契約 4回戦）
+第一試合：小松昂弘 vs 木部滉太（スーパーフライ級 4回戦）</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/720-1_s10006_p1/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20260605132500 +0000" stop="20260605150500 +0000">
 		<title>【再】WWE SMACKDOWN×ABEMA#40</title>
