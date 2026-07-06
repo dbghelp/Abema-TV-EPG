@@ -120,6 +120,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -727,7 +731,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20260703143000 +0000" stop="20260703150000 +0000">
 		<title>ダイヤのA actⅡ -Second Season- #13【最新話】</title>
-		<desc>沢村栄純が青道高校野球部のエースナンバーを背負い、2年生の夏が再び始まる。悔しさをバネに一歩ずつ成長を続けてきた沢村。故障と好不調の波ゆえにエースナンバーを沢村に託した降谷。青道のキャプテンとして圧倒的な存在感とチームを支える大黒柱となった御幸。沢村、降谷、御幸らが揃う最後の夏。彼らの雄姿と激闘をその目に。</desc>
+		<desc>西東京大会の決勝は、昨年に続き青道VS稲城実業。リベンジとなる青道ナインは入念に準備を進める。そして肘の痛みを覚えていた川上は、精密検査の結果、右腕に炎症が確認された。しかしその決意に御幸たちは…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/316-1_s40_p13/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260703150000 +0000" stop="20260703153000 +0000">
@@ -1127,7 +1131,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20260705160000 +0000" stop="20260705163000 +0000">
 		<title>左ききのエレン #13【最新話】</title>
-		<desc>累計約2億5000万PVを記録した、心をえぐる＜クリエイター青春群像劇＞待望のアニメ化！いつか“何か”になることを夢見る凡人デザイナー・光一と、圧倒的な才能ゆえに苦悩する天才画家・エレン。人生の岐路で一瞬すれ違った二人は、やがて互いにとってかけがえのない存在となる。未曾有の才能がひしめくクリエイティブの世界で、もがいて、くじけて、それでも挑み続ける者たちを描く、鮮烈な青春グラフィティが幕を開ける。</desc>
+		<desc>さゆりの元を去ったエレンは帰国し、横浜に戻っていた。一方、光一はこの仕事を最後に辞める覚悟を決めていた。スタジオの準備が整い広告撮影が始まろうとする中、カメラマンの佐久間が段取りを無視し勝手に撮影を始めてしまい、現場はパニックに。ディレクターとしてなす術もなく心が折れた光一は、一人スタジオを飛び出す。上空では皆既月食が始まり、光一は横浜のビルの上に“あるもの”を目にして思わず立ち止まる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/143-76_s1_p13/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260705163000 +0000" stop="20260705170000 +0000">
@@ -1298,7 +1302,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20260706143000 +0000" stop="20260706150000 +0000">
 		<title>左ききのエレン #13・見逃し放送</title>
-		<desc>累計約2億5000万PVを記録した、心をえぐる＜クリエイター青春群像劇＞待望のアニメ化！いつか“何か”になることを夢見る凡人デザイナー・光一と、圧倒的な才能ゆえに苦悩する天才画家・エレン。人生の岐路で一瞬すれ違った二人は、やがて互いにとってかけがえのない存在となる。未曾有の才能がひしめくクリエイティブの世界で、もがいて、くじけて、それでも挑み続ける者たちを描く、鮮烈な青春グラフィティが幕を開ける。</desc>
+		<desc>さゆりの元を去ったエレンは帰国し、横浜に戻っていた。一方、光一はこの仕事を最後に辞める覚悟を決めていた。スタジオの準備が整い広告撮影が始まろうとする中、カメラマンの佐久間が段取りを無視し勝手に撮影を始めてしまい、現場はパニックに。ディレクターとしてなす術もなく心が折れた光一は、一人スタジオを飛び出す。上空では皆既月食が始まり、光一は横浜のビルの上に“あるもの”を目にして思わず立ち止まる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/143-76_s1_p13/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260706150000 +0000" stop="20260706153000 +0000">
@@ -2352,12 +2356,9 @@ SNSでバズり散らかしたマンガが、
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/169-152_s1_p101/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260711044500 +0000" stop="20260711123000 +0000">
-		<title>ようこそ実力至上主義の教室へ 4th Season #1〜16【無料2週間】</title>
-		<desc>2年生へと進級した綾小路たちは再びDクラスからのスタートとなった。
-新年度を迎え、学校には全生徒に数値化した能力が見られるOAAというアプリが導入。
-そして2年生になって最初の特別試験は、OAAを参考に1年生と2年生がパートナーを組んで行う
-筆記試験であることが発表される。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-73_s4_p1/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260711123000 +0000" stop="20260711125700 +0000">
 		<title>猫と竜 #3【地上波1週間先行・最速】</title>
@@ -2751,7 +2752,17 @@ SNSでバズり散らかしたマンガが、
 		<desc>34歳・童貞・無職の引きこもりだった男は車に撥ねられ、その一生を終える……はずだった。しかし、男が次に目を覚ましたとき、そこは剣と魔法の異世界であった。少年・ルーデウスとして転生した男は考える、この世界ならば、自分も本気で生きていくことができるかもしれない……と。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/149-11_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20260713055500 +0000" stop="20260713130000 +0000">
+	<programme channel="abema-anime" start="20260713055500 +0000" stop="20260713060000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	</programme>
+	<programme channel="abema-anime" start="20260713060000 +0000" stop="20260713120000 +0000">
+		<title>杖と剣のウィストリア Season2 #13〜24【無料ビデオ72時間】</title>
+		<desc>ダンジョン深層のモンスター、イヴィル・グランドデュークの襲撃を退けた総合演習から2か月、ウィルたちリガーデン魔法学院6年生は“塔”への進学をかけた筆記試験を迎える。しかし、その最終試験でエドワルドが提示したのは衝撃の問いだった……。一方、“魔導の央都”ウルブ・リガーデンでは年越しの祝祭“境界祭テルミナリア”が始まっていた。賑わう人々が見守る中、“至高の五杖マギア・ヴェンデ”が新たな大結界を張り巡らせる。だが、その時…、夜空に不穏な魔法円マジックサークルが出現する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-68_s2_p13/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20260713120000 +0000" stop="20260713130000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
@@ -3301,15 +3312,10 @@ SNSでバズり散らかしたマンガが、
 		<desc>社畜街道をひた走る中年男性・佐々木は仕事に疲れたある夜、奇抜な服装の女性・田山に「ここなら煙草が吸える」と声をかけられる。向かった先はスーパーの裏の喫煙所で――。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/169-152_s1_p101/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime-3" start="20260710131500 +0000" stop="20260710140000 +0000">
+	<programme channel="abema-anime-3" start="20260710131500 +0000" stop="20260710203000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png" />
-	</programme>
-	<programme channel="abema-anime-3" start="20260710140000 +0000" stop="20260710203000 +0000">
-		<title>ダイヤのA actⅡ -Second Season- #1〜13【無料1週間】</title>
-		<desc>「やらかすであろう未来のことよりも――大事なのは今、やらかしかねないこの瞬間！ガンガン打たせていくんで、バックの皆さんよろしくおねがいします！」　全国高等学校野球選手権 西東京代表を決める5回戦、青道VS法兼学園。先発はこの夏よりエースナンバーを背負う沢村栄純。御幸ら3年生がいるチームで戦う最後の夏。プレイボール！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/316-1_s40_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-3" start="20260710203000 +0000" stop="20260711023000 +0000">
 		<title>神の庭付き楠木邸 #1〜12【無料ビデオ2週間】</title>
@@ -3317,12 +3323,9 @@ SNSでバズり散らかしたマンガが、
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-319_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-3" start="20260711023000 +0000" stop="20260711103000 +0000">
-		<title>ようこそ実力至上主義の教室へ 4th Season #1〜16【無料2週間】</title>
-		<desc>2年生へと進級した綾小路たちは再びDクラスからのスタートとなった。
-新年度を迎え、学校には全生徒に数値化した能力が見られるOAAというアプリが導入。
-そして2年生になって最初の特別試験は、OAAを参考に1年生と2年生がパートナーを組んで行う
-筆記試験であることが発表される。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-73_s4_p1/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png" />
 	</programme>
 	<programme channel="abema-anime-3" start="20260711103000 +0000" stop="20260711163000 +0000">
 		<title>アニメ鑑定士仮 #1〜12</title>
@@ -3358,6 +3361,16 @@ SNSでバズり散らかしたマンガが、
 		<title>クレバテス-魔獣の王と赤子と屍の勇者- #1〜12【無料ビデオ2週間】</title>
 		<desc>人属がエドセアの果ての更に果てへと行くことを阻んできた四大魔獣王。エドセアの古い伝説によると、その魔獣王を倒すのはハイデン王から武器を賜った勇者の中の勇者だという。勇者に憧れ、13人の勇者のひとりに選ばれたアリシアは、彼らと共に月の山の主・クレバテスに挑む。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-293_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-3" start="20260712223000 +0000" stop="20260713120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png" />
+	</programme>
+	<programme channel="abema-anime-3" start="20260713120000 +0000" stop="20260713180000 +0000">
+		<title>杖と剣のウィストリア Season2 #13〜24【無料ビデオ72時間】</title>
+		<desc>ダンジョン深層のモンスター、イヴィル・グランドデュークの襲撃を退けた総合演習から2か月、ウィルたちリガーデン魔法学院6年生は“塔”への進学をかけた筆記試験を迎える。しかし、その最終試験でエドワルドが提示したのは衝撃の問いだった……。一方、“魔導の央都”ウルブ・リガーデンでは年越しの祝祭“境界祭テルミナリア”が始まっていた。賑わう人々が見守る中、“至高の五杖マギア・ヴェンデ”が新たな大結界を張り巡らせる。だが、その時…、夜空に不穏な魔法円マジックサークルが出現する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-68_s2_p13/thumb001.png" />
 	</programme>
 	<programme channel="special-plus-7" start="20260701090000 +0000" stop="20260701112000 +0000">
 		<title>劇場版 魔法少女まどか☆マギカ［前編］始まりの物語【無料ビデオ1週間】</title>
@@ -3528,6 +3541,45 @@ SNSでバズり散らかしたマンガが、
 ついに本日、7月9日にリリースを迎えた『ソードアート・オンライン』家庭用ゲーム最新作『Echoes of Aincrad』。
 その発売を記念した特別番組をオンエア！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-35_s1_p19/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20260709133000 +0000" stop="20260713030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20260713030000 +0000" stop="20260713100000 +0000">
+		<title>劇場版「ペルソナ３」 #1〜4【無料ビデオ1週間】</title>
+		<desc>「君は、1日が24時間ではないと言ったら、信じるかい？」
+
+1日と1日の狭間にある隠された時間「影時間」。
+街は動きを止め、人々はオブジェへと姿を変える。
+
+そこにはびこる異形の怪物「シャドウ」。
+それらに対抗できるのは、ペルソナという特殊な力を持つ者だけ。
+
+私立月光館学園に転校してきた主人公・結城 理(ゆうきまこと)は
+ペルソナの力に覚醒し、同じペルソナ使いたちで構成された特別課外活動部へと引き入れられる。
+
+彼らはそれぞれ目的のため、影時間の真相を追ううち、
+想像を絶する運命と対峙する―――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-42_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-7" start="20260713100000 +0000" stop="20260713170000 +0000">
+		<title>劇場版「ペルソナ３」 #1〜4【無料ビデオ1週間】</title>
+		<desc>「君は、1日が24時間ではないと言ったら、信じるかい？」
+
+1日と1日の狭間にある隠された時間「影時間」。
+街は動きを止め、人々はオブジェへと姿を変える。
+
+そこにはびこる異形の怪物「シャドウ」。
+それらに対抗できるのは、ペルソナという特殊な力を持つ者だけ。
+
+私立月光館学園に転校してきた主人公・結城 理(ゆうきまこと)は
+ペルソナの力に覚醒し、同じペルソナ使いたちで構成された特別課外活動部へと引き入れられる。
+
+彼らはそれぞれ目的のため、影時間の真相を追ううち、
+想像を絶する運命と対峙する―――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-42_s0_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-special-2" start="20260628090000 +0000" stop="20260628194500 +0000">
 		<title>結界師 #1〜22【無料ビデオ1週間】</title>
@@ -15118,9 +15170,9 @@ chilldspot「Ladyy」
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s3_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260706190000 +0000" stop="20260706220000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>【日本初・独占】S Line ~見えてはいけない関係~ 第1〜3話</title>
+		<desc>過去に肉体関係を持った相手とつながる「Sライン」という赤い線。生まれつきその線が見える能力を持つヒョヌプは、そのせいで家庭が崩壊、引きこもり生活を送っていた。ある日自身の住むアパートの近くで殺人事件が発生。彼女はこの世界では珍しい「線が1本しかない男」の存在に気づき、やがて事件に巻き込まれていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-161_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260706220000 +0000" stop="20260706230000 +0000">
 		<title>特別番組：シャッフルアイランド7一部先行配信＆男子会・女子会で注目メンバー発表</title>
@@ -17583,6 +17635,42 @@ R-1王者の今井らいぱちが番組に凱旋！
 		<desc>くっきー！（野性爆弾）、ハリウッドザコシショウ、池田一真（しずる）、川北茂澄（真空ジェシカ）、松井ケムリ（令和ロマン）5人のMAD芸人が集結したロケバラエティ!!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p113/thumb001.png" />
 	</programme>
+	<programme channel="special-plus-2" start="20260706030000 +0000" stop="20260706120000 +0000">
+		<title>シャッフルアイランド Season6 全話一挙【明日21時~新シーズンスタート】</title>
+		<desc>▼見どころ
+水着を着た14人の男女が、それぞれ別の島に集まり、初めてのシャッフルタイム。
+「あの子が欲しい！」選ばれた1人が島を移動！ハーレム＆逆ハーレムで燃え上がる！
+爆モテ美女を前に男子４人が列をなして順番に2ショット！？
+さらに、闇夜に現れた黒い影が、衝撃の展開を巻き起こす！
+
+▼概要
+「あのコが欲しい♡」
+一番HOTな美男美女たちが幸せの楽園、南太平洋フィジーに集結！
+ピンクとブルー、2つの島で毎日メンバーを"シャッフル"しながら
+運命の恋を探す７泊８日のラブバカンス。
+予測不能な出会いと別れ、すれ違い、再会。そして密会。
+"本能"のまま大胆で激しい真夏の恋が、夜を燃え尽くすー
+◆オープニングテーマ：WANIMA「曖昧」
+◆エンディングテーマ：礼賛「曖昧なBEACH』</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1887_s60_p1001/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260706120000 +0000" stop="20260707050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260707050000 +0000" stop="20260707140000 +0000">
+		<title>ナオキマンの都市伝説ワイドショー season3 #1~9</title>
+		<desc>【エプスタイン事件を都市伝説視点で見たら…】
+日本にも関係していた!?エプスタインを取り巻く権力者たち
+トランプ大統領 エプスタインファイル公開の理由は？
+エプスタインは最強諜報機関のスパイ!?
+日本にもエプスタインのような権力者の怪しい世界が!?
+
+
+※真実か否か判断するのはアナタです</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2025_s3_p1/thumb001.png" />
+	</programme>
 	<programme channel="abema-news" start="20260628140000 +0000" stop="20260628161000 +0000">
 		<title>ABEMA NEWS　お休み前に最新ニュース</title>
 		<desc>速報や緊急ニュース、発生現場のライブ映像、注目の会見のノーカット、気になる話題を深掘りする「記者解説」など、新しい情報を空き時間にスマホでチェック!キャスターには現役大学生らも登場。フレッシュにお伝えしています!　移動中に、お昼休みに、おやすみ前に...1日のニュースは「ABEMA NEWS」でチェック!</desc>
@@ -19880,7 +19968,7 @@ R-1王者の今井らいぱちが番組に凱旋！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p43706/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260706020000 +0000" stop="20260706030000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>木原官房長官会見　九州大雨などについて</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p43707/thumb001.png" />
 	</programme>
@@ -33007,10 +33095,77 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 より一層スポーツが楽しくなる番組!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p109/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20260713090000 +0000" stop="20260713144500 +0000">
+	<programme channel="world-sports" start="20260713090000 +0000" stop="20260713100000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	</programme>
+	<programme channel="world-sports" start="20260713100000 +0000" stop="20260713121500 +0000">
+		<title>【再】Rd.3 サファリ・ラリー・ケニア パワーステージ|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2025はこちら
+https://abema.tv/video/title/634-3
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s30_p101/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20260713121500 +0000" stop="20260713124500 +0000">
+		<title>【再】ABEMAスポーツタイム#110</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p110/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20260713124500 +0000" stop="20260713131500 +0000">
+		<title>【再】ABEMAスポーツタイム#111</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p111/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20260713131500 +0000" stop="20260713134500 +0000">
+		<title>【再】ABEMAスポーツタイム#112</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p112/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20260713134500 +0000" stop="20260713141500 +0000">
+		<title>【再】ABEMAスポーツタイム#113</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p113/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20260713141500 +0000" stop="20260713144500 +0000">
+		<title>【再】ABEMAスポーツタイム#114</title>
+		<desc>毎週日曜よる10時から生放送!
+川﨑宗則、槙野智章らがレギュラー出演!!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの 
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p114/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260713144500 +0000" stop="20260713174500 +0000">
 		<title>競泳ジャパンオープン2025 3日目</title>
