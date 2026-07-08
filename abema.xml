@@ -172,6 +172,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-2">
+		<display-name>麻雀チャンネル2</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -1177,26 +1181,20 @@
 	</programme>
 	<programme channel="abema-anime" start="20260708165900 +0000" stop="20260708170000 +0000">
 		<title>mofusand animation #27【最新話】</title>
-		<desc>サメスーツを着た茶トラの猫「サメにゃん」
- ちょっぴりどんくさくて、のんびり屋さんだけど、仲良しのお友だちや保護猫のちびにゃんと過ごす日々は、いつも小さなハプニングでいっぱい！
- 公園のぽかぽか陽だまり、海のきらめき、焼き芋の湯気、初雪のドキドキ…毎日のほんのささやかな出来事が、サメにゃんたちをあったかく彩っていく。
- みているだけで思わず「あるある」と笑っちゃう！？ほっこりゆるゆる系猫アニメ。</desc>
+		<desc>お風呂上がりに忍び寄る影――！？
+サメにゃん宅で起きた、ホラー（？）騒動。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-284_s1_p27/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260708170000 +0000" stop="20260708173000 +0000">
 		<title>乙女ゲー世界はモブに厳しい世界です２ #1・見逃し放送</title>
-		<desc>とある剣と魔法の“乙女ゲー”世界に転生した元・社会人リオン。 超女尊男卑のこの世界で、彼に唯一残された武器は、前世で妹に無理矢理やらされていたこのゲームの“知識”。 その知識を駆使した行動で、理不尽な世界を生き抜こうとする。 リオンは、本来なら主人公としてイケメン軍団の中心になるはずだったオリヴィア、彼女を虐げる悪役令嬢となるはずだったアンジェリカと友情を育み、なぜか主人公ポジションに居座るマリエの妨害に遭いながらも子爵にまで上り詰めた。 しかし、リオンがゲームの流れを大きく変えたことで、世界は少しずつ“歪み”を見せ始める。 聖女となったマリエの聖女親衛隊に抜擢されたリオンは、やがてホルファート王国を揺るがす陰謀に巻き込まれていき……。</desc>
+		<desc>「乙女ゲー」世界に転生し、数々の功績から子爵にまで出世したリオン。今度こそ平穏な暮らしを望むが、戦利品を神殿に奪われ、さらには聖女親衛隊にも抜擢されてしまう。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-201_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260708173000 +0000" stop="20260708180000 +0000">
 		<title>花ざかりの君たちへ 第2期 #2【最新話】</title>
-		<desc>中条比紗也による原作は、「花とゆめ」（白泉社）にて1996年から2004年まで連載され、シリーズ累計1700万部を突破。
-憧れの人・佐野泉に会うために、性別を偽って男子校へアメリカから転入した少女・芦屋瑞稀を取り巻く学園ストーリーは、日本をはじめ、アジア各地でもドラマ化され、連載が終了して20年が経つ今もなお根強い人気を誇っている。
-
-第2期では、修学旅行やダンスパーティーなど、原作でも人気のエピソードを通して、瑞稀・佐野・中津の恋愛模様を丁寧に描き出す。
-さらに、佐野の弟・森やプロのカメラマンで梅田の後輩・原秋葉なども登場し、瑞稀の日常はより騒がしくなっていく⁉
-
-個性豊かなメンバーと過ごす、ハラハラドキドキの男子校ライフはまだまだ続く──‼</desc>
+		<desc>こまりと付き合うことにした中津は、幸せを感じる一方で、デート中でも瑞稀のことが頭から離れず悩んでいた。
+幸せそうな中津を見て、自分も頑張ろうと意気込む瑞稀だったが、佐野の高跳びを長く取材している記者の烏丸に佐野の最新情報を先取りされるだけではなく、佐野への気持ちも見抜かれて動揺してしまう。
+自信をつけるために九条に空手の稽古をつけてもらうことにしたが──。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-259_s2_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260708180000 +0000" stop="20260708183000 +0000">
@@ -1332,12 +1330,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20260709153000 +0000" stop="20260709160000 +0000">
 		<title>黒猫と魔女の教室 #13【最新話】</title>
-		<desc>「魔女見習い」スピカ・ヴァルゴは魔法が使えない。
-憧れの魔法学校合格のためには師匠が必要だが、金もコネもない。
-そんな時、人語を駆使し魔法を使う謎の黒猫がスピカの前に現れた!!
-魔術を学びたいスピカと呪いを解きたい黒猫の思惑は完全一致。
-秘密の師弟関係が結ばれた!!!
-呪いを解く鍵は「×××」にキス!?</desc>
+		<desc>冬休み中のスピカのもとへ訪れたクロードは、元教え子アルクとの過去を話す。なぜアルクは邪教徒になったのか、アルクは一体何者か、クロードとアルクの関係が明かされる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/345-6_s1_p13/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260709160000 +0000" stop="20260709163000 +0000">
@@ -1347,11 +1340,7 @@
 	</programme>
 	<programme channel="abema-anime" start="20260709163000 +0000" stop="20260709170000 +0000">
 		<title>レッツゴー怪奇組 #1【最新話】</title>
-		<desc>ある日の夕暮れ、俺は人間を脅かす幽霊や妖怪の元締め組織「怪奇組」の組長メチャ子と出会った。常人の六倍はお化けに弱い俺なのに、なぜか怪奇組復活の手伝いをするハメに……。
-そんな俺の周りで、恐ろしいような恐ろしくないような怪奇が次々と巻き起こる！
-『ハーーーッ‼』
-ギャグギャグホラー、ギャグホラー。
-独特過ぎる怪奇ギャグドラマが今、始まる――！</desc>
+		<desc>学校からの帰り道、俺はセーラー服姿の女子と出会った。その女はあらゆる怪異の母体組織、怪奇組の組長だという。まったく、なんつー悪趣味な組織なんだ！ だが、怪奇組をやめてしまおうと言いだすそいつを励ますうちに、お化け嫌いな俺が組の復活を手伝うはめに……。メチャクチャな組長をメチャ子と名付けた俺は、つぶれかけの怪奇組を立て直すためメチャ子と共に新たな怪奇ネタを考える。だがメチャ子が考える怪奇は……何かおかしいぞ⁉</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/247-23_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260709170000 +0000" stop="20260709173000 +0000">
@@ -1376,9 +1365,10 @@ SNSでバズり散らかしたマンガが、
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p91/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260709173000 +0000" stop="20260709180000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+		<title>スーパーの裏でヤニ吸うふたり #1【WEB最速】</title>
+		<desc>社畜街道をひた走る、くたびれ中年男性の佐々木。彼のひそやかな癒しといえば、日ごろから愛煙する煙草と、行きつけのスーパーで働く女性店員 山田さんのにこやかな接客くらい。
+仕事に疲れたある夜、癒しを求めてスーパーに向かうが、目当ての山田さんはおらず、今どき煙草を吸える場所もなし…。意気消沈した佐々木に「ここなら吸える」と声をかけてきたのは、田山という女性だった――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p55/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260709180000 +0000" stop="20260709183000 +0000">
 		<title>追放された転生重騎士はゲーム知識で無双する #2【WEB最速】</title>
@@ -1395,9 +1385,10 @@ SNSでバズり散らかしたマンガが、
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-28_s1_p14/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260709190000 +0000" stop="20260709193000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+		<title>スーパーの裏でヤニ吸うふたり #1・見逃し放送</title>
+		<desc>社畜街道をひた走る、くたびれ中年男性の佐々木。彼のひそやかな癒しといえば、日ごろから愛煙する煙草と、行きつけのスーパーで働く女性店員 山田さんのにこやかな接客くらい。
+仕事に疲れたある夜、癒しを求めてスーパーに向かうが、目当ての山田さんはおらず、今どき煙草を吸える場所もなし…。意気消沈した佐々木に「ここなら吸える」と声をかけてきたのは、田山という女性だった――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p55/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260709193000 +0000" stop="20260709200000 +0000">
 		<title>ワールド イズ ダンシング #2・見逃し放送</title>
@@ -1568,9 +1559,10 @@ SNSでバズり散らかしたマンガが、
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/11-84_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260710140000 +0000" stop="20260710143000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+		<title>スーパーの裏でヤニ吸うふたり #1・見逃し放送</title>
+		<desc>社畜街道をひた走る、くたびれ中年男性の佐々木。彼のひそやかな癒しといえば、日ごろから愛煙する煙草と、行きつけのスーパーで働く女性店員 山田さんのにこやかな接客くらい。
+仕事に疲れたある夜、癒しを求めてスーパーに向かうが、目当ての山田さんはおらず、今どき煙草を吸える場所もなし…。意気消沈した佐々木に「ここなら吸える」と声をかけてきたのは、田山という女性だった――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p55/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260710143000 +0000" stop="20260710150000 +0000">
 		<title>炎の闘球女 ドッジ弾子 #1【最新話】</title>
@@ -2160,22 +2152,24 @@ SNSでバズり散らかしたマンガが、
 	</programme>
 	<programme channel="abema-anime-2" start="20260702110000 +0000" stop="20260702233000 +0000">
 		<title>ぬらりひょんの孫 #1〜24+総集編【無料ビデオ1週間】</title>
-		<desc>奴良組三代目と目されながら、いまだ跡を継がないぬらりひょんの孫・リクオ。周囲の期待とは裏腹に人間らしく生きたいと願っていた。そんなリクオにクラスメイトから肝だめしの誘いが舞い込む。旧校舎には妖怪が現れると言い出す清継に押される格好で、今夜みんなで肝だめしをすることになったのだ。人間の目に妖怪を触れさせたくないリクオは、配下の妖怪たちに屋敷に留まるように命じるのだが、いざ旧校舎へ行ってみると……。</desc>
+		<desc>浮世絵町一帯を縄張りとする妖怪一家奴良組は組頭の後継問題を抱えていた。三代目頭領に孫のリクオを据えたいぬらりひょん。だが、当のリクオはそれを拒み続けていたために未だ後継者が確定しないでいた。リクオは青田坊をはじめ、配下の者たち全員を屋敷の広間に集めていた。何か妖怪らしい仕事を任せてもらえるのでは？　と胸躍らせる配下の者たちに対してリクオが命じたことは、まったく逆のことだった。
+この頃リクオが通う学校では、クラスメイトの清継が旧校舎には妖怪が現れると言い出したために、今夜肝試しが行われることになっていた。クラスメイトの目に妖怪たちを触れさせたくないリクオは、配下の者たちを屋敷に留めることで妖怪はいないことをクラスメイトに示したかったのだ。しかし、いざ肝試しが始まってみると旧校舎は妖怪だらけ。奴良組の者ではない妖怪たちがひしめいていた。必死に妖怪を隠そうとするリクオ。なんとか凌いできたものの、最後のチェックポイントである調理室に入った時に、リクオたちにせまる妖怪の影が……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/397-31_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20260702233000 +0000" stop="20260703120000 +0000">
 		<title>ぬらりひょんの孫 #1〜24+総集編【無料ビデオ1週間】</title>
-		<desc>奴良組三代目と目されながら、いまだ跡を継がないぬらりひょんの孫・リクオ。周囲の期待とは裏腹に人間らしく生きたいと願っていた。そんなリクオにクラスメイトから肝だめしの誘いが舞い込む。旧校舎には妖怪が現れると言い出す清継に押される格好で、今夜みんなで肝だめしをすることになったのだ。人間の目に妖怪を触れさせたくないリクオは、配下の妖怪たちに屋敷に留まるように命じるのだが、いざ旧校舎へ行ってみると……。</desc>
+		<desc>浮世絵町一帯を縄張りとする妖怪一家奴良組は組頭の後継問題を抱えていた。三代目頭領に孫のリクオを据えたいぬらりひょん。だが、当のリクオはそれを拒み続けていたために未だ後継者が確定しないでいた。リクオは青田坊をはじめ、配下の者たち全員を屋敷の広間に集めていた。何か妖怪らしい仕事を任せてもらえるのでは？　と胸躍らせる配下の者たちに対してリクオが命じたことは、まったく逆のことだった。
+この頃リクオが通う学校では、クラスメイトの清継が旧校舎には妖怪が現れると言い出したために、今夜肝試しが行われることになっていた。クラスメイトの目に妖怪たちを触れさせたくないリクオは、配下の者たちを屋敷に留めることで妖怪はいないことをクラスメイトに示したかったのだ。しかし、いざ肝試しが始まってみると旧校舎は妖怪だらけ。奴良組の者ではない妖怪たちがひしめいていた。必死に妖怪を隠そうとするリクオ。なんとか凌いできたものの、最後のチェックポイントである調理室に入った時に、リクオたちにせまる妖怪の影が……。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/397-31_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20260703120000 +0000" stop="20260704010000 +0000">
 		<title>ぬらりひょんの孫 ～千年魔京～ #1〜24+総集編【無料ビデオ1週間】</title>
-		<desc>幼い時分、父を亡くしたリクオにとって父、そして祖父が務めていた妖怪の総大将は憧れの存在だった。しかし、そんなリクオにクラスメイトの清継は、妖怪とは悪いことばかりをする嫌われる存在なのだと言う。そんな時に事件が…。</desc>
+		<desc>幼い時分、父を亡くしたリクオにとって父、そして祖父が務めていた妖怪の総大将は憧れであり、その３代目を引き継ぎたいと思っていた。しかし妖怪が実は悪いことばかりをする存在だと知ると、人に嫌われる妖怪にはなりたくないと言い出す。奴良組本家２代目死去後、総大将の座を狙うガゴゼはそんなリクオを不甲斐なく思い、いっそのことクラスメイトとともに葬ってしまおうと企む。そしてカナ、清継たちの乗ったバスがガゴゼ組に襲われた。そのことを知ったリクオはクラスメイトたちを助けようと、黒田坊、雪女たちを引き連れ屋敷を出ようとするが、そこに奴良組相談役の木魚達磨が「人間を助けるなど言語道断」と立ちはだかった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/397-31_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20260704010000 +0000" stop="20260704110000 +0000">
 		<title>ぬらりひょんの孫 ～千年魔京～ #1〜20【無料ビデオ1週間】</title>
-		<desc>幼い時分、父を亡くしたリクオにとって父、そして祖父が務めていた妖怪の総大将は憧れの存在だった。しかし、そんなリクオにクラスメイトの清継は、妖怪とは悪いことばかりをする嫌われる存在なのだと言う。そんな時に事件が…。</desc>
+		<desc>幼い時分、父を亡くしたリクオにとって父、そして祖父が務めていた妖怪の総大将は憧れであり、その３代目を引き継ぎたいと思っていた。しかし妖怪が実は悪いことばかりをする存在だと知ると、人に嫌われる妖怪にはなりたくないと言い出す。奴良組本家２代目死去後、総大将の座を狙うガゴゼはそんなリクオを不甲斐なく思い、いっそのことクラスメイトとともに葬ってしまおうと企む。そしてカナ、清継たちの乗ったバスがガゴゼ組に襲われた。そのことを知ったリクオはクラスメイトたちを助けようと、黒田坊、雪女たちを引き連れ屋敷を出ようとするが、そこに奴良組相談役の木魚達磨が「人間を助けるなど言語道断」と立ちはだかった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/397-31_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20260704110000 +0000" stop="20260704113000 +0000">
@@ -2190,7 +2184,8 @@ SNSでバズり散らかしたマンガが、
 	</programme>
 	<programme channel="abema-anime-2" start="20260704120000 +0000" stop="20260704150000 +0000">
 		<title>ぬらりひょんの孫～千年魔京～ #21〜24+総集編【無料ビデオ1週間】</title>
-		<desc>ついに羽衣狐が出産の時を迎えた。京妖怪にとって1000年の宿願、鵺の誕生が今ここに成就した。この世を闇によって支配できる鵺、だが誕生間もない今、しばしの間、守られなければならない存在でもあった。そこに攻撃を仕掛けるリクオ。ゆら、竜二たち陰陽師たちの力も借り羽衣狐と対峙する。</desc>
+		<desc>鬼童丸は奥義"剣戟｛けんげき｝無量"を繰り出し最後の抵抗を試みる。「千年の長さには遠く及ばないが、このひとときは全てを懸けても守る価値がある」。まさにこの時、羽衣狐、京妖怪たちの宿願である鵺の出生が成し遂げられたのだ。全てを闇によって支配する"鵺"。その正体は平安の世に人の世界を表舞台より支配し、魑魅魍魎｛ちみもうりょう｝をも従えた伝説の陰陽師・安倍晴明｛あべのせいめい｝である。
+絶望の空気が支配する弐條の城、だがリクオたちにはまだ時間が残されていた。いかに鵺と言えども、元は人の子。赤児であるうちはまだ討つ手がある。封印へと動き出す残された花開院の陰陽師たち。激闘を繰り広げる奴良組と京妖怪たちのなかで、リクオはついに羽衣狐と激突する。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/397-31_s2_p21/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20260704150000 +0000" stop="20260704153000 +0000">
@@ -5651,7 +5646,7 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 	</programme>
 	<programme channel="anime-live" start="20260708153000 +0000" stop="20260708160000 +0000">
 		<title>乙女ゲー世界はモブに厳しい世界です２ #1【地上波先行・最速】</title>
-		<desc>とある剣と魔法の“乙女ゲー”世界に転生した元・社会人リオン。 超女尊男卑のこの世界で、彼に唯一残された武器は、前世で妹に無理矢理やらされていたこのゲームの“知識”。 その知識を駆使した行動で、理不尽な世界を生き抜こうとする。 リオンは、本来なら主人公としてイケメン軍団の中心になるはずだったオリヴィア、彼女を虐げる悪役令嬢となるはずだったアンジェリカと友情を育み、なぜか主人公ポジションに居座るマリエの妨害に遭いながらも子爵にまで上り詰めた。 しかし、リオンがゲームの流れを大きく変えたことで、世界は少しずつ“歪み”を見せ始める。 聖女となったマリエの聖女親衛隊に抜擢されたリオンは、やがてホルファート王国を揺るがす陰謀に巻き込まれていき……。</desc>
+		<desc>「乙女ゲー」世界に転生し、数々の功績から子爵にまで出世したリオン。今度こそ平穏な暮らしを望むが、戦利品を神殿に奪われ、さらには聖女親衛隊にも抜擢されてしまう。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-201_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20260708160000 +0000" stop="20260708220000 +0000">
@@ -5905,9 +5900,7 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 	</programme>
 	<programme channel="anime-live" start="20260711235000 +0000" stop="20260711235300 +0000">
 		<title>ちびゴジラの逆襲 #112【最新話】</title>
-		<desc>ちびゴジラとクセが強めなちび怪獣たちの想定外の日々はまだまだ止まらない！
-ショートアニメの常識を覆す豪華すぎる声優陣で送る、ノンストップで規格外の約３ 分！
-はたしてちびゴジラは父であるゴジラのような「最強」の大怪獣になれるのか―― !?</desc>
+		<desc>ちびギドラが家から居なくなってしまい失踪事件を疑うちびゴジラたち。すると、ちびヘドラが怪獣島に古くから伝わるわらべうたの歌詞とこの状況がそっくりだと気付く。歌を手掛かりにちびギドラを探すことになったちびゴジラたちだったが…</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-168_s1_p112/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20260711235300 +0000" stop="20260712000000 +0000">
@@ -13271,7 +13264,7 @@ ABEMA史上、最もキケンな「恋のはないちもんめ」が幕を開け
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20260710130000 +0000" stop="20260710140000 +0000">
-		<title>#1：ダマってられない女たち3</title>
+		<title>＃１：フィギュア村主章枝 国際結婚を初告白＆法律上最年少夫婦</title>
 		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
 「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
 
@@ -15949,7 +15942,7 @@ R-1王者の今井らいぱちが番組に凱旋！
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-162_s0_p516/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260708030000 +0000" stop="20260708040000 +0000">
-		<title>わたしとニュース～そのモヤモヤ、話せば世界が晴れるかも。～</title>
+		<title>わたしとニュース 伯方の塩1位/包丁キャンセル界隈 #モヤハレ</title>
 		<desc>ニュースをもっと、身近に。
 日常で感じる「これって何で？」「ちょっと変だな」-そんなモヤモヤが、実はニュースの入り口かもしれません。社会や政治、そして暮らしの中の違和感をわたしたちの視点で語り尽くす新感覚の共感型ニュース番組。～そのモヤモヤ、話せば世界が晴れるかも。～</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-157_s0_p147/thumb001.png" />
@@ -26882,6 +26875,44 @@ A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
 チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
+	<programme channel="mahjong-2" start="20260701030000 +0000" stop="20260701145000 +0000">
+		<title>第51期最高位戦A1リーグ 第7節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p18/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260701145000 +0000" stop="20260704030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260704030000 +0000" stop="20260704145000 +0000">
+		<title>第51期最高位戦A2リーグ 第6節 d卓【ABEMAセレクト】</title>
+		<desc>伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10002_p6/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260704145000 +0000" stop="20260708030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260708030000 +0000" stop="20260708145000 +0000">
+		<title>第51期最高位戦A1リーグ 第7節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p19/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260708145000 +0000" stop="20260715030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260715030000 +0000" stop="20260715145000 +0000">
+		<title>第51期最高位戦A1リーグ 第8節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p20/thumb001.png" />
+	</programme>
 	<programme channel="shogi" start="20260630145200 +0000" stop="20260630192300 +0000">
 		<title>【再】第19回 朝日杯 決勝 藤井竜王名人 対 伊藤匠二冠</title>
 		<desc>朝日杯は全棋士、アマチュア10人、女流棋士3人によるトーナメントです。 1次予選から本戦まで全てがトーナメントで、決勝も1番勝負となります。優勝者が獲得する賞金は750万円。1次予選、2次予選、本戦(16名)のトーナメント制で持ち時間は40分となります。 朝日アマ名人、朝日アマ名人戦全国大会ベスト8進出者、学生名人の計10名。女流棋士は主催者推薦3名を選抜。</desc>
@@ -30007,9 +30038,17 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p109/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260713090000 +0000" stop="20260713100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+		<title>#1 序章 運命の抽選会｜5ビースト トーナメント2026</title>
+		<desc>2022年からYouTubeで熱狂的な⽀持を集めてきた「5ビースト（ファイブビースト）」が、
+2026年、ついにABEMAとタッグを組み、スケールアップして降臨︕
+
+腕に覚えのあるバスケットボーラー「ハンター(挑戦者)」が、迎え撃つ5⼈の選⼿「ビースト(強敵)」に1対1の対戦で挑み、
+賞⾦100万円獲得を⽬指す無差別級バスケットボール企画(2022年〜5ビースト公式YouTubeで配信)をベースに、独⾃のビジョンを持つ監督たちが⾃らスカウトを⾏い、作り上げた理想のチームで今⼤会では最⾼賞⾦300万円を懸けた「5vs5」のガチバトル・トーナメントを開催。
+
+チームを構成する出演者には、現役Bリーガーから、シーンを牽引するバスケ系YouTuber、さらにはSNS総フォロワー数200万⼈超えインフルエンサーまでが参戦。
+
+プロの技術、ストリートの創造性、そしてエンターテインメントの熱量が融合するコートで、⼀体どのチームが頂点に⽴ち、賞⾦を掴み取るのか。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-11_s0_p2/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260713100000 +0000" stop="20260713121500 +0000">
 		<title>【再】Rd.3 サファリ・ラリー・ケニア パワーステージ|WRC世界ラリー選手権</title>
@@ -30274,9 +30313,17 @@ https://abema.tv/video/title/634-3
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p121/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260715090000 +0000" stop="20260715100000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+		<title>#2 次世代を担う新星＆個性が集結｜5ビースト トーナメント2026</title>
+		<desc>2022年からYouTubeで熱狂的な⽀持を集めてきた「5ビースト（ファイブビースト）」が、
+2026年、ついにABEMAとタッグを組み、スケールアップして降臨︕
+
+腕に覚えのあるバスケットボーラー「ハンター(挑戦者)」が、迎え撃つ5⼈の選⼿「ビースト(強敵)」に1対1の対戦で挑み、
+賞⾦100万円獲得を⽬指す無差別級バスケットボール企画(2022年〜5ビースト公式YouTubeで配信)をベースに、独⾃のビジョンを持つ監督たちが⾃らスカウトを⾏い、作り上げた理想のチームで今⼤会では最⾼賞⾦300万円を懸けた「5vs5」のガチバトル・トーナメントを開催。
+
+チームを構成する出演者には、現役Bリーガーから、シーンを牽引するバスケ系YouTuber、さらにはSNS総フォロワー数200万⼈超えインフルエンサーまでが参戦。
+
+プロの技術、ストリートの創造性、そしてエンターテインメントの熱量が融合するコートで、⼀体どのチームが頂点に⽴ち、賞⾦を掴み取るのか。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-11_s0_p3/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260715100000 +0000" stop="20260715103000 +0000">
 		<title>【再】ABEMAスポーツタイム#122</title>
