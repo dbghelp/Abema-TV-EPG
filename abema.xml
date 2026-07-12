@@ -192,10 +192,6 @@
 		<display-name>大相撲チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png" />
 	</channel>
-	<channel id="boxing">
-		<display-name>ボクシングチャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
-	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -15991,9 +15987,15 @@ chilldspot「Ladyy」
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20260719110000 +0000" stop="20260719120000 +0000">
-		<title>ななにー 地下ABEMA #127</title>
-		<desc>世間が気になることから、そんなに気にならないことまで、
-“稲垣・草彅・香取”の3人がより深く掘り下げて界隈をざわつかせる！</desc>
+		<title>ななにー 地下ABEMA #127 こんな所にギャル？ 異業種ギャル大集合</title>
+		<desc>僧侶のギャル？
+漁師のギャル？
+屋根職人のギャル？
+デザイナーギャル？
+梅干し職人ギャル？ 
+東京大学大学院のギャル？ 
+一体誰がどのギャルなのか…
+あなたはわかりますか？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p115/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260719120000 +0000" stop="20260719130000 +0000">
@@ -31017,15 +31019,6 @@ SUPER JUNIORの“言霊の世界”に降り立った1人目の“言霊”の�
 チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
-	<programme channel="shogi" start="20260704100000 +0000" stop="20260704170000 +0000">
-		<title>JEMTCスペシャル 地域トーナメント Bリーグ1位決定戦 北関東vs中国・四国</title>
-		<desc>『JEMTCスペシャルABEMA地域トーナメント2026』は、2018年からスタートした超早指しの『ABEMAトーナメント』と、将棋連盟100周年企画として、“地域を背負う”をコンセプトに2024年より開催された『地域対抗戦』が融合した「ABEMA」オリジナル対局企画の新シリーズです。
-全国を6つの地域ブロック(「関東」「関⻄」は1地域に2チーム)全8チームに分け、1チーム5名、計40名の棋士たちが、自身が背負う地域の威信をかけて熱い対局を繰り広げていきます。なお、各チームのメンバーは5月9日(土)夜7時より放送のドラフト会議で監督により指名されます。
- 
-各地域ブロックの監督は、昨年の『地域対抗戦』に引き続き、屋敷伸之九段(北海道・東北バルペックス)、羽生善治九段(北関東ブリッツァーズ)、杉本昌隆八段(中部トライキングス)、谷川浩司十七世名人(ノース・トラッズ神戸)、畠山鎮八段(サウスゴッツ大阪)、深浦康市九段(九州サザンフェニックス)が、そして今回新たに森内俊之九段(ルシーグ横浜)、糸谷哲郎九段(中国・四国ナヴィセトス)が加わった、計8名が務めます。
-※段位は収録当時のものになります。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/288-43_s10_p17/thumb001.png" />
-	</programme>
 	<programme channel="shogi" start="20260704170000 +0000" stop="20260704213100 +0000">
 		<title>【再】第19回 朝日杯 決勝 藤井竜王名人 対 伊藤匠二冠</title>
 		<desc>朝日杯は全棋士、アマチュア10人、女流棋士3人によるトーナメントです。 1次予選から本戦まで全てがトーナメントで、決勝も1番勝負となります。優勝者が獲得する賞金は750万円。1次予選、2次予選、本戦(16名)のトーナメント制で持ち時間は40分となります。 朝日アマ名人、朝日アマ名人戦全国大会ベスト8進出者、学生名人の計10名。女流棋士は主催者推薦3名を選抜。</desc>
@@ -35270,19 +35263,6 @@ Rd.9 ラリー・エストニア厳選SSを7月18日(土)〜19日(日)で放送�
 		<title>大相撲LIVE 七月場所</title>
 		<desc>大相撲七月場所 幕内 結びの一番まで完全無料生中継! 8日目の中継は無料で見逃し視聴いただけます。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10007_p9/thumb001.png" />
-	</programme>
-	<programme channel="boxing" start="20260712051500 +0000" stop="20260712110000 +0000">
-		<title>BENKEI FIGHT vol.11</title>
-		<desc>亀田大毅プレゼンツ、話題の大阪興行「BENKEI FIGHT vol.11」の様子をABEMAで全試合無料生中継！
-波乱必至の激闘を見逃すな！
-
-▼予定カード
-第五試合：佐々木る玖 vs 住田琉斗（スーパーウェルター級 8回戦）
-第四試合：丸元大五郎 vs 池上いつ己（スーパーフェザー級 8回戦）
-第三試合：伊集院嵐 vs 酒本龍一（59.5kg契約 8回戦）
-第二試合：守屋龍之介 vs 井上恵吾（スパーリング）
-第一試合：ラーメン高橋 vs 五十嵐義貴（60.0kg契約 6回戦）</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/720-1_s10007_p1/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20260704150000 +0000" stop="20260704173500 +0000">
 		<title>【再】WWE SMACKDOWN×ABEMA#72</title>
