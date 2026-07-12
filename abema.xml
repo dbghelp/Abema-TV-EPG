@@ -196,6 +196,10 @@
 		<display-name>大相撲チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png" />
 	</channel>
+	<channel id="boxing">
+		<display-name>ボクシングチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
+	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -35350,6 +35354,19 @@ Rd.9 ラリー・エストニア厳選SSを7月18日(土)〜19日(日)で放送�
 		<title>大相撲LIVE 七月場所</title>
 		<desc>大相撲七月場所 幕内 結びの一番まで完全無料生中継! 8日目の中継は無料で見逃し視聴いただけます。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10007_p9/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20260712051500 +0000" stop="20260712110000 +0000">
+		<title>BENKEI FIGHT vol.11</title>
+		<desc>亀田大毅プレゼンツ、話題の大阪興行「BENKEI FIGHT vol.11」の様子をABEMAで全試合無料生中継！
+波乱必至の激闘を見逃すな！
+
+▼予定カード
+第五試合：佐々木る玖 vs 住田琉斗（スーパーウェルター級 8回戦）
+第四試合：丸元大五郎 vs 池上いつ己（スーパーフェザー級 8回戦）
+第三試合：伊集院嵐 vs 酒本龍一（59.5kg契約 8回戦）
+第二試合：守屋龍之介 vs 井上恵吾（スパーリング）
+第一試合：ラーメン高橋 vs 五十嵐義貴（60.0kg契約 6回戦）</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/720-1_s10007_p1/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20260704150000 +0000" stop="20260704173500 +0000">
 		<title>【再】WWE SMACKDOWN×ABEMA#72</title>
