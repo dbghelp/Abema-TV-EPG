@@ -172,6 +172,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-2">
+		<display-name>麻雀チャンネル2</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -1319,25 +1323,10 @@
 	</programme>
 	<programme channel="abema-anime" start="20260716143000 +0000" stop="20260716150000 +0000">
 		<title>透明な夜に駆ける君と、目に見えない恋をした。#2【最新話】</title>
-		<desc>春の夜、大学寮の同室・鳴海に
-誘われた新歓コンパで、
-空野かけるは
-目の見えない女性・冬月小春と出会う。
-
-よく笑い、夢を語る彼女は、
-自分とは正反対の存在だった。
-講義帰りに白杖を拾ったその日から、
-二人の距離は少しずつ近づいていく。
-
-「打ち上げ花火がしたい」
-
-その言葉に宿る光を、
-彼は初めてまっすぐに見つめた。
-見えない彼女と、心を閉ざした僕。
-
-これは、光を探すふたりが紡いだ、
-淡い恋の物語。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p86/thumb001.png" />
+		<desc>空野は押しに負け、冬月が記念会館にあるピアノの音を確認するための案内役を務めることになる。
+更に学内にある船の見学にも付き添うことに。空野は何にでも前向きな冬月から段々と影響を受けていく。
+なんとなく散歩に出た雨の朝、右手に白杖、左手に傘を持って歩く冬月を見かけ、放っておけず自ら声をかけるのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-39_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260716150000 +0000" stop="20260716153000 +0000">
 		<title>落第賢者 #4【地上波先行・WEB最速】</title>
@@ -1392,13 +1381,13 @@ SNSでバズり散らかしたマンガが、
 放送できなかったらごめんにゃさい！
 なんだか憎めないクズねこたちがおくる、
 ヤニまみれな日常をゆる〜く見守ってください。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p91/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/632-8_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260716173000 +0000" stop="20260716180000 +0000">
 		<title>スーパーの裏でヤニ吸うふたり #2【WEB最速】</title>
 		<desc>社畜街道をひた走る、くたびれ中年男性の佐々木。彼のひそやかな癒しといえば、日ごろから愛煙する煙草と、行きつけのスーパーで働く女性店員 山田さんのにこやかな接客くらい。
 仕事に疲れたある夜、癒しを求めてスーパーに向かうが、目当ての山田さんはおらず、今どき煙草を吸える場所もなし…。意気消沈した佐々木に「ここなら吸える」と声をかけてきたのは、田山という女性だった――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p55/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/169-152_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260716180000 +0000" stop="20260716183000 +0000">
 		<title>追放された転生重騎士はゲーム知識で無双する #3【WEB最速】</title>
@@ -1407,7 +1396,7 @@ SNSでバズり散らかしたマンガが、
 そして、エルマは知っていた。
 ＜重騎士＞こそが、最強のクラスであることを！
 伯爵家を追放されたエルマは、生前の知識をフル活用し、この世界の効率的な攻略を始めるのだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p63/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/210-18_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260716183000 +0000" stop="20260716190000 +0000">
 		<title>おねがいアイプリ #15【最新話】</title>
@@ -1453,25 +1442,10 @@ SNSでバズり散らかしたマンガが、
 	</programme>
 	<programme channel="abema-anime" start="20260716203000 +0000" stop="20260716210000 +0000">
 		<title>透明な夜に駆ける君と、目に見えない恋をした。#2・見逃し放送</title>
-		<desc>春の夜、大学寮の同室・鳴海に
-誘われた新歓コンパで、
-空野かけるは
-目の見えない女性・冬月小春と出会う。
-
-よく笑い、夢を語る彼女は、
-自分とは正反対の存在だった。
-講義帰りに白杖を拾ったその日から、
-二人の距離は少しずつ近づいていく。
-
-「打ち上げ花火がしたい」
-
-その言葉に宿る光を、
-彼は初めてまっすぐに見つめた。
-見えない彼女と、心を閉ざした僕。
-
-これは、光を探すふたりが紡いだ、
-淡い恋の物語。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p86/thumb001.png" />
+		<desc>空野は押しに負け、冬月が記念会館にあるピアノの音を確認するための案内役を務めることになる。
+更に学内にある船の見学にも付き添うことに。空野は何にでも前向きな冬月から段々と影響を受けていく。
+なんとなく散歩に出た雨の朝、右手に白杖、左手に傘を持って歩く冬月を見かけ、放っておけず自ら声をかけるのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-39_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260716210000 +0000" stop="20260716213000 +0000">
 		<title>落第賢者 #4・見逃し放送</title>
@@ -1492,7 +1466,7 @@ SNSでバズり散らかしたマンガが、
 		<title>スーパーの裏でヤニ吸うふたり #2・見逃し放送</title>
 		<desc>社畜街道をひた走る、くたびれ中年男性の佐々木。彼のひそやかな癒しといえば、日ごろから愛煙する煙草と、行きつけのスーパーで働く女性店員 山田さんのにこやかな接客くらい。
 仕事に疲れたある夜、癒しを求めてスーパーに向かうが、目当ての山田さんはおらず、今どき煙草を吸える場所もなし…。意気消沈した佐々木に「ここなら吸える」と声をかけてきたのは、田山という女性だった――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p55/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/169-152_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260716220000 +0000" stop="20260716222500 +0000">
 		<title>ヤニねこ #3・見逃し放送</title>
@@ -1513,7 +1487,7 @@ SNSでバズり散らかしたマンガが、
 放送できなかったらごめんにゃさい！
 なんだか憎めないクズねこたちがおくる、
 ヤニまみれな日常をゆる〜く見守ってください。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p91/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/632-8_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260716222500 +0000" stop="20260716223000 +0000">
 		<title>元祖！バンドリちゃん #41【最新話】</title>
@@ -1572,7 +1546,7 @@ SNSでバズり散らかしたマンガが、
 そして、エルマは知っていた。
 ＜重騎士＞こそが、最強のクラスであることを！
 伯爵家を追放されたエルマは、生前の知識をフル活用し、この世界の効率的な攻略を始めるのだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p63/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/210-18_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260717140000 +0000" stop="20260717143000 +0000">
 		<title>ポケットモンスター 新シリーズ #143【最新話】</title>
@@ -1616,7 +1590,7 @@ SNSでバズり散らかしたマンガが、
 		<desc>隕石の落下から10年。巨大結晶が放出する謎の粒子〈メビウス・ダスト〉の影響で、一部の子どもたちは〈ラムス〉と呼ばれる特殊能力を得ていた。しかし、特殊能力者〈ラムス・キャリア〉は〈メビウス・ダスト〉が届く範囲でしか生きられず、〈しんかつしか〉の町から出ることを禁じられていた。
 〈ラムス・キャリア〉の子どもたちは、町から出られない鬱屈を晴らすかのように、チームごとに〈ラムス〉を駆使して陣地を争奪するゲームに没頭。高校生のアラキも妹のステラや幼馴染みのオルガたちと〈ポリスホッパー〉を結成し、夜な夜なゲームに明け暮れていた。
 そんなある日、&lt;ラムス&gt;研究者のユダ博士が彼らにとある実験への協力を要請する。アラキたちはその実験に協力することを決断するが、それによって彼らの運命は動き出すことになる…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p119/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/198-21_s1_p2/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260717160000 +0000" stop="20260717163000 +0000">
 		<title>鎧真伝サムライトルーパー #14【最新話】</title>
@@ -1656,7 +1630,7 @@ SNSでバズり散らかしたマンガが、
 そして、エルマは知っていた。
 ＜重騎士＞こそが、最強のクラスであることを！
 伯爵家を追放されたエルマは、生前の知識をフル活用し、この世界の効率的な攻略を始めるのだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p63/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/210-18_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260717180000 +0000" stop="20260717182500 +0000">
 		<title>炎の闘球女 ドッジ弾子 #2・見逃し放送</title>
@@ -12885,25 +12859,30 @@ chilldspot「Ladyy」
 #pr</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p135/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260717123000 +0000" stop="20260717130000 +0000">
+	<programme channel="abema-special" start="20260717123000 +0000" stop="20260717125700 +0000">
+		<title>【ダイジェスト】VIBY 159 Road to 武道館 ～北海道編～</title>
+		<desc>BTSやTXTらグローバルスターの発掘と新人開発に携わったKIM MI JEONG（キム・ミジョン）の新レーベル「Rii.MJ（リ・エムジェイ）」。
+第一弾ボーイズグループである「VIBY（バイビー）」が、2026年8月31日(月)に聖地・日本武道館にて DEBUT SHOWCASEを開催！彼らの日本武道館公演までの159日間の成長・挑戦に迫ったカウントダウンドキュメント。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2053_s1_p440/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260717125700 +0000" stop="20260717140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
-	<programme channel="abema-special" start="20260717130000 +0000" stop="20260717140000 +0000">
-		<title>#2：ダマってられない女たち3</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーの３人が
-思わず「ダマってられなくなる」女性たちの生きざまをテーマに
-飾らない言葉で『人生』を語り合う
-「幸せ」には答えもないし、「生き方」にゴールもない―
-今を生きる女性のリアルなドキュメントに触れて
-きっとあなたも「ダマってられない」</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p87/thumb001.png" />
-	</programme>
 	<programme channel="abema-special" start="20260717140000 +0000" stop="20260717143000 +0000">
-		<title>#91：パーラーカチ盛り ABEMA店</title>
-		<desc>日本が世界に誇る【ジャパニーズ娯楽】パチンコ・スロットの楽しさ・魅力を盛山店長とさらば青春の光が
-バラエティ企画を通して発信する！
+		<title>#91：禁煙パチンコ初のルール違反が発覚！</title>
+		<desc>ラッキートリガーを引くまでタバコが吸えない！ 
+おなじみの精神崩壊企画「ニコチンパチンコ」後編
+
+前回誰もラッキートリガーを引くことが出来ず禁煙が続く3人
+一体誰が最初にタバコを吸うことが出来るのか？
+
+そして禁煙パチンコで初めてルール違反者が！？
+
+
+ABEMAパチンコNEWS
+全手中パイの型で大勝ちする超新星をご紹介！
 
 
 
@@ -12913,10 +12892,43 @@ chilldspot「Ladyy」
 提供：マルハン北日本カンパニー</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p99/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260717143000 +0000" stop="20260717211500 +0000">
+	<programme channel="abema-special" start="20260717143000 +0000" stop="20260717150000 +0000">
+		<title>脳汁じゅ〜す Season3 #6</title>
+		<desc>「脳汁」、それは主に脳内で分泌され一種の快感をもたらす神経伝達物質の俗称。 
+この番組では、そんな脳汁＝アドレナリンを追い求め、
+様々なことに挑戦していくアドレナリン追及バラエティ番組。 
+
+【提供：SANYO】</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-283_s1_p49/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260717150000 +0000" stop="20260717160500 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20260717160500 +0000" stop="20260717182000 +0000">
+		<title>架空OL日記 第6~最終話</title>
+		<desc>升野（バカリズム）が仕事を終えて、更衣室に戻ると自分のロッカーの前に二つの紙袋が…片方には靴とバック。これは数日前に派遣の阿部さんが結婚式に出るということで貸したもの。
+もう一つはディオールの紙袋。その中には新品のグロスが！阿部さんがお礼に買ってくれたものに違いないと、升野は意気揚々とグロスを試す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-66_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260717182000 +0000" stop="20260717190000 +0000">
+		<title>CELEB SECRET #4：若くて可愛い今しかできないこと</title>
+		<desc>世界各国でスーパーセレブ生活を送る4人の女子。
+完璧に見える人生には、人には言えない”秘密”があったー。
+
+貴族の集まる舞踏会や、グローバルスターが集まるファッションショーの裏側、
+世界トップレベルに学費の高いセレブスクールなど、限られた人しか入れない禁断の世界に潜入。
+
+誰もが羨むセレブ女子が、実は手に入れられず羨ましいと思っていることは？
+４人のセレブ女子の華やかな日常と、そこに隠された素顔や葛藤に迫るドキュメンタリーシリーズ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2059_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260717190000 +0000" stop="20260717211500 +0000">
+		<title>ハルチカ【~7/19無料！青春・恋愛映画が毎月入荷＆毎週無料】</title>
+		<desc>ちょっぴり頼りないけど気の優しい美男子のハルタ(佐藤勝利)と、真っ直ぐな性格で負けん気の強いチカ(橋本環奈)。小学校3年生の時にハルタが引っ越してしまうまで幼なじみだった二人は、高校入学式の日に運命的な再会を果たす。
+入学したら、ずっと憧れていた吹奏楽部に入ろうと心に決めていたチカ。しかし、吹奏楽部はなんと廃部寸前の危機だった!大好きなフルートを諦めきれず、チカはホルン経験者のハルタを巻き込んで部員集めに走り回る。音楽一家に育った芦澤(恒松祐里)、部員をまとめようと奔走する部長の片桐(前田航基)とその彼女・わかば(二階堂姫瑠)、野球部で肩を痛めた宮本(平岡拓真)、チューバソロコンサート入賞の実力を持つ妙子(上白石萌歌)、登校拒否中のカイユ(清水尋也)などワケありのメンバーたち。それでもなんとか部の復活に漕ぎ着けたチカたちは、かつては将来を嘱望される指揮者だった顧問の草壁(小出恵介)による指導のもと、コンクール出場という一つの目標に向かってひたむきに突き進む。そんな一心なチカの姿を見て、ただの幼なじみだったハルタのチカを想う気持ちに、少しずつ変化が生まれ始める。それに合わせて二人の関係も動き始め......?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/162-135_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260717211500 +0000" stop="20260717221500 +0000">
 		<title>＃１：フィギュア村主章枝 国際結婚を初告白＆法律上最年少夫婦</title>
@@ -12931,10 +12943,45 @@ chilldspot「Ladyy」
 妻16歳と夫18歳の“法律上”最年少で結婚した夫婦に密着</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2016_s3_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260717221500 +0000" stop="20260718043000 +0000">
+	<programme channel="abema-special" start="20260717221500 +0000" stop="20260717230000 +0000">
+		<title>CELEB SECRET #4：若くて可愛い今しかできないこと</title>
+		<desc>世界各国でスーパーセレブ生活を送る4人の女子。
+完璧に見える人生には、人には言えない”秘密”があったー。
+
+貴族の集まる舞踏会や、グローバルスターが集まるファッションショーの裏側、
+世界トップレベルに学費の高いセレブスクールなど、限られた人しか入れない禁断の世界に潜入。
+
+誰もが羨むセレブ女子が、実は手に入れられず羨ましいと思っていることは？
+４人のセレブ女子の華やかな日常と、そこに隠された素顔や葛藤に迫るドキュメンタリーシリーズ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2059_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260717230000 +0000" stop="20260718023500 +0000">
+		<title>シャッフルアイランド Season2 #1~4前半一挙【新シーズンスタート記念】</title>
+		<desc>▼見どころ
+初めてのシャッフルタイムはシルエットだけで移動するメンバーを選択。
+ハーレム＆逆ハーレム状態でいきなり恋は盛り上がる。
+
+▼概要　
+南国リゾート"グアム"を舞台に盛り上がる７泊８日のラブバカンス！
+２つの島に集まった美男美女。
+「あのコが、欲しい！」１日１回、指名されたメンバーが入れ替わる。
+２つの島の間で生まれる出会い、別れ、すれ違い、そして運命の再会。
+南国リゾートで繰り広げられる、この夏最もアツくて大胆なオトナの恋。
+
+◆オープニングテーマ：WANIMA「曖昧」
+◆エンディングテーマ：WANIMA「Focus on me」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1682_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260718023500 +0000" stop="20260718040100 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20260718040100 +0000" stop="20260718043000 +0000">
+		<title>【ダイジェスト】VIBY 159 Road to 武道館 ～北海道編～</title>
+		<desc>BTSやTXTらグローバルスターの発掘と新人開発に携わったKIM MI JEONG（キム・ミジョン）の新レーベル「Rii.MJ（リ・エムジェイ）」。
+第一弾ボーイズグループである「VIBY（バイビー）」が、2026年8月31日(月)に聖地・日本武道館にて DEBUT SHOWCASEを開催！彼らの日本武道館公演までの159日間の成長・挑戦に迫ったカウントダウンドキュメント。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2053_s1_p440/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260718043000 +0000" stop="20260718103500 +0000">
 		<title>NAMICS presents TGC 新潟 2026</title>
@@ -12988,7 +13035,41 @@ chilldspot「Ladyy」
 【提供： 株式会社パラダイスインターナショナル 】</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p185/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260718144500 +0000" stop="20260719110000 +0000">
+	<programme channel="abema-special" start="20260718144500 +0000" stop="20260718160000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20260718160000 +0000" stop="20260718181500 +0000">
+		<title>ハルチカ【~7/19無料！青春・恋愛映画が毎月入荷＆毎週無料】</title>
+		<desc>ちょっぴり頼りないけど気の優しい美男子のハルタ(佐藤勝利)と、真っ直ぐな性格で負けん気の強いチカ(橋本環奈)。小学校3年生の時にハルタが引っ越してしまうまで幼なじみだった二人は、高校入学式の日に運命的な再会を果たす。
+入学したら、ずっと憧れていた吹奏楽部に入ろうと心に決めていたチカ。しかし、吹奏楽部はなんと廃部寸前の危機だった!大好きなフルートを諦めきれず、チカはホルン経験者のハルタを巻き込んで部員集めに走り回る。音楽一家に育った芦澤(恒松祐里)、部員をまとめようと奔走する部長の片桐(前田航基)とその彼女・わかば(二階堂姫瑠)、野球部で肩を痛めた宮本(平岡拓真)、チューバソロコンサート入賞の実力を持つ妙子(上白石萌歌)、登校拒否中のカイユ(清水尋也)などワケありのメンバーたち。それでもなんとか部の復活に漕ぎ着けたチカたちは、かつては将来を嘱望される指揮者だった顧問の草壁(小出恵介)による指導のもと、コンクール出場という一つの目標に向かってひたむきに突き進む。そんな一心なチカの姿を見て、ただの幼なじみだったハルタのチカを想う気持ちに、少しずつ変化が生まれ始める。それに合わせて二人の関係も動き始め......?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/162-135_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260718181500 +0000" stop="20260718230000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20260718230000 +0000" stop="20260719023500 +0000">
+		<title>シャッフルアイランド Season2 #5~8後半一挙【新シーズンスタート記念】</title>
+		<desc>▼見どころ
+男子限定強制シャッフルで島を入れ替わることになった2人。
+それぞれ気になる相手との再会を約束するも…？
+そして、番組史上初、衝撃のシャッフル指令発動！
+
+▼概要　
+南国リゾート""グアム""を舞台に盛り上がる７泊８日のラブバカンス！
+２つの島に集まった美男美女。
+「あのコが、欲しい！」１日１回、指名されたメンバーが入れ替わる。
+２つの島の間で生まれる出会い、別れ、すれ違い、そして運命の再会。
+南国リゾートで繰り広げられる、この夏最もアツくて大胆なオトナの恋。
+
+◆オープニングテーマ：WANIMA「曖昧」
+◆エンディングテーマ：WANIMA「Focus on me」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1682_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260719023500 +0000" stop="20260719110000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -14780,7 +14861,22 @@ OPENING FIGHT／田中仁 vs. 健太朗
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!青いブランド・SMACKDOWNは土曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10009_p146/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20260718150000 +0000" stop="20260719003000 +0000">
+	<programme channel="special-plus" start="20260718150000 +0000" stop="20260718220000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20260718220000 +0000" stop="20260719001000 +0000">
+		<title>世界の果てに、くるま置いてきた #9~10</title>
+		<desc>インドのダージリンで、くるまはひろゆきと合流し、二人旅がスタート。
+前日友情を深めたアモーレの家に訪問しようと電話をかけてみるが…
+
+さらに！初めて相部屋となった、くるまとひろゆきにトラブル発生…!?
+
+そしてくるまは、ダージリンの奥地、「チベット難民キャンプ」へ!!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p309/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260719001000 +0000" stop="20260719003000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -15505,9 +15601,9 @@ VTRでは、若手人気男性アイドルの本田康祐（OWV）、HAYATO（XY
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-97_s0_p1727/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260714120000 +0000" stop="20260714130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
+		<title>#アベプラ ①実名はアリ？AI開発に個人情報提供どこまで？</title>
+		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はKREVAの｢Expert｣です。（MC）EXIT、岸谷蘭丸、午前0時のプリンセス、松陰寺太勇、田村淳、ひろゆき、益若つばさ、山崎怜奈（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、安藤美姫、池澤あやか、岩澤直美、岩田温、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、後藤寛勝、佐々木俊尚、柴田阿弥、鈴木涼美、孫辰洋、たかまつなな、竹中平蔵、武井亜樹、田端信太郎、辻伸弘、てぃ先生、當間ローズ、Tehu、中川淳一郎、長谷川ミラ、夏野剛、成田修造、西岡壱誠、ネルソン・バビンコイ、能條桃子、はましゃか、パックン、速水健朗、堀潤、松尾潔、南和行、室井佑月、茂木健一郎、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山内萌、山本昌子、山本康二、Yuna、ヨッピー、呂布カルマ（進行）平石直之（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p6922/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260714130000 +0000" stop="20260714140000 +0000">
 		<title>#アベプラ ②反出生主義とは？「子ども産むべきではない」なぜ</title>
@@ -15563,7 +15659,7 @@ VTRでは、若手人気男性アイドルの本田康祐（OWV）、HAYATO（XY
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-162_s0_p586/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260715030000 +0000" stop="20260715040000 +0000">
-		<title>わたしとニュース～そのモヤモヤ、話せば世界が晴れるかも。～</title>
+		<title>わたしとニュース 皇室典範/育児＆介護ダブルケア #モヤハレ</title>
 		<desc>ニュースをもっと、身近に。
 日常で感じる「これって何で？」「ちょっと変だな」-そんなモヤモヤが、実はニュースの入り口かもしれません。社会や政治、そして暮らしの中の違和感をわたしたちの視点で語り尽くす新感覚の共感型ニュース番組。～そのモヤモヤ、話せば世界が晴れるかも。～</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-157_s0_p151/thumb001.png" />
@@ -26786,6 +26882,34 @@ i-dle所属のCUBE ENTERTAINMENTから2023年にデビューした５人組ボ�
 チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
+	<programme channel="mahjong-2" start="20260708030000 +0000" stop="20260708145000 +0000">
+		<title>第51期最高位戦A1リーグ 第7節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p19/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260708145000 +0000" stop="20260715030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260715030000 +0000" stop="20260715145000 +0000">
+		<title>第51期最高位戦A1リーグ 第8節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p20/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260715145000 +0000" stop="20260722030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260722030000 +0000" stop="20260722145000 +0000">
+		<title>第51期最高位戦A1リーグ 第8節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p21/thumb001.png" />
+	</programme>
 	<programme channel="shogi" start="20260707063400 +0000" stop="20260707174100 +0000">
 		<title>【再】第11期 叡王戦 五番勝負 第1局 伊藤匠叡王 対 斎藤慎太郎八段</title>
 		<desc>叡王戦は全棋士の段位別予選と本戦を勝ち抜いた2名が決勝五番勝負を行い、先に3勝した棋士が「叡王」の称号を獲得します(第4期以降は本戦優勝者が叡王への挑戦権を獲得)。</desc>
@@ -27690,17 +27814,9 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p109/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260713090000 +0000" stop="20260713100000 +0000">
-		<title>#1 序章 運命の抽選会｜5ビースト トーナメント2026</title>
-		<desc>2022年からYouTubeで熱狂的な⽀持を集めてきた「5ビースト（ファイブビースト）」が、
-2026年、ついにABEMAとタッグを組み、スケールアップして降臨︕
-
-腕に覚えのあるバスケットボーラー「ハンター(挑戦者)」が、迎え撃つ5⼈の選⼿「ビースト(強敵)」に1対1の対戦で挑み、
-賞⾦100万円獲得を⽬指す無差別級バスケットボール企画(2022年〜5ビースト公式YouTubeで配信)をベースに、独⾃のビジョンを持つ監督たちが⾃らスカウトを⾏い、作り上げた理想のチームで今⼤会では最⾼賞⾦300万円を懸けた「5vs5」のガチバトル・トーナメントを開催。
-
-チームを構成する出演者には、現役Bリーガーから、シーンを牽引するバスケ系YouTuber、さらにはSNS総フォロワー数200万⼈超えインフルエンサーまでが参戦。
-
-プロの技術、ストリートの創造性、そしてエンターテインメントの熱量が融合するコートで、⼀体どのチームが頂点に⽴ち、賞⾦を掴み取るのか。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/807-1_s10_p1/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
 	</programme>
 	<programme channel="world-sports" start="20260713100000 +0000" stop="20260713121500 +0000">
 		<title>【再】Rd.3 サファリ・ラリー・ケニア パワーステージ|WRC世界ラリー選手権</title>
@@ -27975,7 +28091,7 @@ https://abema.tv/video/title/634-3
 チームを構成する出演者には、現役Bリーガーから、シーンを牽引するバスケ系YouTuber、さらにはSNS総フォロワー数200万⼈超えインフルエンサーまでが参戦。
 
 プロの技術、ストリートの創造性、そしてエンターテインメントの熱量が融合するコートで、⼀体どのチームが頂点に⽴ち、賞⾦を掴み取るのか。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/807-1_s10_p2/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-11_s0_p3/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260715100000 +0000" stop="20260715103000 +0000">
 		<title>【再】ABEMAスポーツタイム#122</title>
@@ -30762,7 +30878,7 @@ DOTAMA「悪役」</desc>
 		<title>RECTRUCK #37</title>
 		<desc>人気ラッパーたちがキャンピングカーで旅をしながら
 コラボ楽曲制作＆ライブセットリストを決める新番組『RECTRUCK』</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-6_s0_p14/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-117_s1_p39/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20260715083000 +0000" stop="20260715120000 +0000">
 		<title>【再放送】フリースタイルダンジョン：5th 4-1~5-3</title>
