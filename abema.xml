@@ -176,6 +176,10 @@
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
 	</channel>
+	<channel id="motor-sport">
+		<display-name>MOTOR SPORTチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
+	</channel>
 	<channel id="sumo">
 		<display-name>大相撲チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png" />
@@ -2251,20 +2255,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20260721163000 +0000" stop="20260721170000 +0000">
 		<title>本好きの下剋上 領主の養女 #14【最新話】</title>
-		<desc>「本がなければ作ればいい！」
-ひとりの少女の情熱が世界を動かす―――
-
-魔力を持つ貴族が支配する〈エーレンフェスト〉
-書物なき世界で本作りに奮闘するマインだったが、
-その身に秘めた強大な魔力が陰謀を招く。
-
-下町の家族や仲間を守るため、
-彼女は領主の養女・ローゼマインとして生きる道を選ぶ。
-
-大切な家族と別れ、自分の名前さえ捨てて―――
-常識の通じない貴族社会で、本への情熱と家族への想いを胸に、
-ローゼマインの闘いが始まる！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p19/thumb001.png" />
+		<desc>ハッセへ罰を下す時が来た。目を逸らさず、町長と反逆者達への処刑の瞬間を見届けること。それは領主一族としてローゼマインに課せられた使命であった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-74_s4_p14/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260721170000 +0000" stop="20260721173000 +0000">
 		<title>なのはEXGV #3【最新話】</title>
@@ -2335,20 +2327,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20260721193000 +0000" stop="20260721200000 +0000">
 		<title>本好きの下剋上 領主の養女 #14・見逃し放送</title>
-		<desc>「本がなければ作ればいい！」
-ひとりの少女の情熱が世界を動かす―――
-
-魔力を持つ貴族が支配する〈エーレンフェスト〉
-書物なき世界で本作りに奮闘するマインだったが、
-その身に秘めた強大な魔力が陰謀を招く。
-
-下町の家族や仲間を守るため、
-彼女は領主の養女・ローゼマインとして生きる道を選ぶ。
-
-大切な家族と別れ、自分の名前さえ捨てて―――
-常識の通じない貴族社会で、本への情熱と家族への想いを胸に、
-ローゼマインの闘いが始まる！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p19/thumb001.png" />
+		<desc>ハッセへ罰を下す時が来た。目を逸らさず、町長と反逆者達への処刑の瞬間を見届けること。それは領主一族としてローゼマインに課せられた使命であった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/415-74_s4_p14/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260721200000 +0000" stop="20260721203000 +0000">
 		<title>手札が多めのビクトリア #3・見逃し放送</title>
@@ -2422,9 +2402,9 @@
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/115-133_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260722060000 +0000" stop="20260722073000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+		<title>岩元先輩ノ推薦 #1〜3【無料ビデオ1週間】</title>
+		<desc>1910年代…大日本帝国陸軍により設立された学校——陸軍栖鳳中学。そこは軍事利用可能な力を手に入れるべく各地の超常現象を収集・研究する特殊機関だった。栖鳳中学三年生の岩元胡堂は軍の訓令により各地の調査を行う。今回岩元が向かった先は『黒イ雪』の降る村。そこで岩元は地下牢のような石垣で暮らす儚げな少年と出会う。痛みの記憶を消す不思議な超常現象との繋がりは如何に…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/345-8_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260722073000 +0000" stop="20260722090000 +0000">
 		<title>ここ俺アニメ #1〜3</title>
@@ -7407,9 +7387,11 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/115-125_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20260723093000 +0000" stop="20260723120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png" />
+		<title>バンドリ！ ゆめ∞みた #1〜5【無料ビデオ1週間】</title>
+		<desc>突然始まるバンド活動。
+“うたうこと”から逃げたい理由があって――
+それでも、物語は容赦なく動き出す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/283-38_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20260723120000 +0000" stop="20260723125700 +0000">
 		<title>ヤンキーハムスター シーズン3 #41〜50【無料ビデオ1週間】</title>
@@ -15868,35 +15850,32 @@ chilldspot「Ladyy」
 あなたはわかりますか？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-980_s102_p228/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260719120000 +0000" stop="20260719130000 +0000">
-		<title>#6 探しに来たのは恋人？それとも結婚相手？</title>
-		<desc>▼見どころ
-共同生活3日目、男女の関係性は変化し始める。
-想いが届かなかった同士、レオとエツコが惹かれ合い、
-感情の爆発から関係が拗れたキョウヘイとマホが改めて向き合う。
-そして人間関係が交錯する共同生活に疲れたカナコが選んだ男性は…。
-
-▼概要
-“35歳は婚活市場の売れ残り…？”
-女の年齢と結婚のリアル
-20代“Girl”と30代“Lady”が真剣勝負の婚活
-「付き合うと結婚の違いって？」
-「顔・年収・性格…結婚で一番大事な条件は？」
-建前ナシ、本音でぶつかる12日間。
-選び、選ばれ運命の相手と結ばれるのは？
-
-
-◆主題歌
-OKAMOTO'S「That's All I Wish」
-
-◆テーマソング
-Gyubin「You Light Up My Life」
-chilldspot「Ladyy」
-
-提供：株式会社ホットスタッフ</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s3_p6/thumb001.png" />
+	<programme channel="abema-special" start="20260719120000 +0000" stop="20260719130300 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
-	<programme channel="abema-special" start="20260719130000 +0000" stop="20260719140000 +0000">
+	<programme channel="abema-special" start="20260719130300 +0000" stop="20260719134100 +0000">
+		<title>CELEB SECRET #5：本当の友達を見つける</title>
+		<desc>世界各国でスーパーセレブ生活を送る4人の女子。
+完璧に見える人生には、人には言えない”秘密”があったー。
+
+貴族の集まる舞踏会や、グローバルスターが集まるファッションショーの裏側、
+世界トップレベルに学費の高いセレブスクールなど、限られた人しか入れない禁断の世界に潜入。
+
+誰もが羨むセレブ女子が、実は手に入れられず羨ましいと思っていることは？
+４人のセレブ女子の華やかな日常と、そこに隠された素顔や葛藤に迫るドキュメンタリーシリーズ。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2059_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260719134100 +0000" stop="20260719135700 +0000">
+		<title>【一部公開】MAD5 特番①：極寒の河川敷で鍋パーティー!! MAD5決起集会</title>
+		<desc>ついに集結した最狂芸人5名による特別番組「MAD5」。
+そんな初回は極寒の河川敷で決起集会鍋パーティー。
+食材は無事調達できるのか!?
+そもそもこのメンバーで鍋パーティーは成立するのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2048_s1_p1001/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260719135700 +0000" stop="20260719140000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -16080,8 +16059,15 @@ ABEMAパチンコNEWS
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20260720120000 +0000" stop="20260720131000 +0000">
-		<title>今日、好きになりました。</title>
-		<desc>近日公開</desc>
+		<title>夏休み編直前 大考察SP！旅に行くメンバーは誰だ？！</title>
+		<desc>「人狼ゲームを行なってもらう」
+ある日突然、集められた14名の女子メンバーたち。
+
+今日好き男なる人物から告げられた、夏休み編の継続メンバーを探す人狼ゲーム。
+前代未聞の心理戦が始まる…！
+
+一方、男子は井上塾へ！
+悩み多き塾生たちは、次の旅へ向けて成長できるのか？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2056_s810_p1501/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260720131000 +0000" stop="20260720141200 +0000">
@@ -16306,10 +16292,27 @@ ABEMAパチンコNEWS
 男女の恋が大きく動き出す―</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s6_p2/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260721150500 +0000" stop="20260721190000 +0000">
+	<programme channel="abema-special" start="20260721150500 +0000" stop="20260721155000 +0000">
+		<title>#5：夜のサービス店の待機部屋に潜入＆100万円かかる韓国の降霊術 他</title>
+		<desc>MC粗品が、「おもしろすぎる話」と思ったら100万円！
+芸人が「どうしても行きたい場所」「どうしても会いたい人」のもとへ行き、
+その体験を話芸で披露するトークバラエティ
+語られるエピソードトークはすべてこの番組のためだけに用意した初出しトーク！
+
+紺野ぶるま「夜のサービス店の待機部屋に潜入」
+九条ジョー「100万円する韓国の降霊術イタコで死んだ父と会話」
+たくろう きむらバンド「催眠術師のリアルな生活」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s2_p5/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260721155000 +0000" stop="20260721163000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20260721163000 +0000" stop="20260721190000 +0000">
+		<title>私と夫と夫の彼氏 第1~5話【ABEMA初】</title>
+		<desc>高校教師の仲道美咲(堀田茜)には、インテリアデザイナーでハンサムな誰からも羨ましがられる自慢の夫・悠生(古川雄輝)がいる。しかしそんな美咲にも悩みはあった。悠生は美咲に触れようとしないセックスレスだった。求めても突き放される日々に不安を抱いた美咲は結婚記念日にセックスをする約束をする。年に1度でもセックスをしてくれるのなら、悠生は自分のことを女として見ていないわけではないと言い聞かせる美咲。結婚記念日当日、帰りが遅い悠生を心配した美咲は玄関の前で大きな音がしたのに気が付く。ドアスコープから外を覗くと、悠生が男性(本田響矢)とキスをしている姿が映っていた。動揺する美咲に、玄関を開けた悠生が“実は付き合っている男性がいる”と告白するのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-86_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260721190000 +0000" stop="20260721211700 +0000">
 		<title>私と夫と夫の彼氏 第6~10話【ABEMA初】</title>
@@ -16377,8 +16380,12 @@ ABEMAパチンコNEWS
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20260722113000 +0000" stop="20260722130000 +0000">
-		<title>すーぱーのびしろたいむ by 今日、好きになりました。</title>
-		<desc>放課後がやってきた！さあ、出かけよう！
+		<title>ゆかりおがドッキリで愛を確かめる！＆ゆうなは苦手克服で大絶叫！すぱのび#65</title>
+		<desc>▼見どころ
+・神対応カレシ！しゅんゆま・はるねね・ゆかりおが沖縄でカップルドッキリ！彼氏の神対応続出に胸キュン…
+・ビビり克服！ヤンキーになる。はるめ、ゆうなが苦手な乗り物で大絶叫！ブチギレ寸前！？
+
+放課後がやってきた！さあ、出かけよう！
 高校生たちが新しい人たちと、普段とは違った環境で、やったことないことに挑戦するバラエティ番組。
 高校生たちは、自らの”のびしろ”を求めチャレンジする中で、大人になる第一歩を踏み出します。
 今しかないこの瞬間”すーぱーのびしろたいむ”をお見逃しなく！</desc>
@@ -16398,10 +16405,25 @@ ABEMAパチンコNEWS
 語られるエピソードトークはすべてこの番組のためだけに用意した初出しトーク！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p109/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260722150000 +0000" stop="20260723021500 +0000">
+	<programme channel="abema-special" start="20260722150000 +0000" stop="20260722190000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20260722190000 +0000" stop="20260722205500 +0000">
+		<title>推しが上司になりまして フルスロットル 第1~4話【ABEMA初】</title>
+		<desc>アパレル商社TAKASHIRO、社長秘書の南愛衣(鈴木愛理)。ある日、社長の高代慶太郎(加藤茶)が突然病に倒れ、推している俳優の氷室旬(八木勇征)が舞台降板し...!絶望する愛衣の前に現れた不審者とは!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/134-83_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260722205500 +0000" stop="20260722220000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20260722220000 +0000" stop="20260723021500 +0000">
+		<title>キム秘書はいったい、なぜ？ 第20〜25話【韓流アワー】</title>
+		<desc>ミソの姉2人に交際を認めてもらうため、ヨンジュンは潮干狩りに挑戦。姉たちに勝負を挑むミソは、自分たちが勝ったらヨンジュンを嫌わないでほしいと頼む。そして2人の姿を見た姉たちは、ついに交際を許可する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-49_s1_p20/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260723021500 +0000" stop="20260723030000 +0000">
 		<title>CELEB SECRET #5：本当の友達を見つける</title>
@@ -18160,7 +18182,25 @@ M-1ファイナリストの元ダイヤモンド・野澤輸出が新たな相�
 そもそもこのメンバーで鍋パーティーは成立するのか!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2048_s1_p1001/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20260719110000 +0000" stop="20260719120000 +0000">
+	<programme channel="special-plus" start="20260719110000 +0000" stop="20260719115700 +0000">
+		<title>ABEMA POKER INVITAITONAL S2 事前コンテンツ</title>
+		<desc>全員最強。選ばれしトップオブトップが集結。頂上決戦、再び。
+世界の第一線で活躍する岡本詩菜やみさわら、総獲得賞金10億円超えを誇る8名によるABEMAオリジナル招待制トーナメント。
+極限の心理戦を制し、優勝賞金1,000万円を手にするのは一体誰だ？
+第2回大会に先駆け、前回熱戦を繰り広げた5名が語る裏話とは!?
+あのプレーの裏にはこんな想いが、こんな思考が詰まっていたー。
+プロならではの視点が解き明かされる。
+
+ABEMAでしか見られない、最強8名が一同に会する究極のマインドスポーツが7月25日幕を開ける。
+前回王者が連覇を果たすのか、屈辱を晴らすリベンジ劇が生まれるのか。
+あるいは新時代を築くニューヒーローが誕生するのか。一瞬のバリュー、そしてブラフ。一手の決断が運命を分ける。
+
+今シーズンもプレイヤー本人によるリアルタイムの戦術解説を実施。
+なぜあの局面でベットしたのか？ どのような思考で相手をリーディングしたのか？
+世界レベルのスキルと思考ー。張り詰めた精神状態の裏側にあった驚愕のロジックが明かされる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2036_s2_p810/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260719115700 +0000" stop="20260719120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -18203,7 +18243,86 @@ M-1ファイナリストの元ダイヤモンド・野澤輸出が新たな相�
 ４人のセレブ女子の華やかな日常と、そこに隠された素顔や葛藤に迫るドキュメンタリーシリーズ。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2059_s1_p3/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20260719190000 +0000" stop="20260720070000 +0000">
+	<programme channel="special-plus" start="20260719190000 +0000" stop="20260719195500 +0000">
+		<title>MAD5 #9：ギャル3人組が大暴走!? ケムリ三銃士センター争奪戦</title>
+		<desc>「ケムリ三銃士だにょーん」
+ギャル3人組がまさかのアイドルデビュー…!?
+センターの座を懸けた熾烈なバトルが開幕。
+
+声を出さずに演技・空中ジャンプ・強制カンペ指示などMAD5流の審査で素質を見極める
+特別審査員として駆けつけた峯岸みなみも...!?
+
+熾烈な争奪戦を勝ち抜き、センターの座を射止めるのは誰なのか…!?
+そして番組の最後には重大発表が…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2048_s10_p9/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260719195500 +0000" stop="20260719210000 +0000">
+		<title>＃１：ホスト山本裕典 大阪統一抗争開幕＆ピュア恋プーケット編</title>
+		<desc>「山本裕典、ホストになる。」新章開幕。
+ホスト大量引き抜きで壊滅危機!?
+かつての大阪最強店舗 CLUB LOX を救うため、軍神が 3 店舗を強制合併
+右腕・山本裕典にシリーズ史上最大の波乱が襲う
+さらに
+セクシー女優のピュア恋第７弾！舞台はタイ・プーケット
+矢埜愛茉、川越にこなど人気セクシー女優が真剣に恋人探し</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s6_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260719210000 +0000" stop="20260719220000 +0000">
+		<title>パーラーカチ盛り ABEMA店 #87~88</title>
+		<desc>世界一短い授業
+今回はパチスロライターの最高峰にして、誰よりも東ブクロを愛する男、沖ヒカル！
+秘蔵写真を元に人物像を徹底解剖
+次に結婚したら改名！？
+沖ヒカルのパーソナルが丸裸に！
+
+さらに人気企画「断食パチンコ」では、話題の「eバイオハザード6」を実戦！
+カナメストーンが断食パチンコ史上初となる奇跡を巻き起こす！？
+
+
+※健康状態を確認しながら撮影を行なっております
+提供：マルハン北日本カンパニー
+提供：フィールズ株式会</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p87/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260719220000 +0000" stop="20260719235000 +0000">
+		<title>世界の果てに、くるま置いてきた #5~6</title>
+		<desc>大富豪一家に別れを告げ、インド国境を目指し、
+バングラデシュの北部の街「タンガイル」へと向かう、令和ロマン・くるま。
+
+その夜、ここまでを振り返り、スタッフに心情を吐露したくるま。
+「自分には才能がない」…一体、なぜ!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p105/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260719235000 +0000" stop="20260720023000 +0000">
+		<title>シャッフルアイランド Season7 #1~2</title>
+		<desc>▼見どころ
+水着を着た14人の男女が、それぞれ別の島に集まり、初めてのシャッフルタイム。
+シルエット写真とプロフィールを元に選ばれた1人が島を移動！
+ハーレム＆逆ハーレムで真夏の恋が加速。
+２ショットデートに割り込み連発、恋の火花がバチバチ！
+そして迎えた1日目の夜、予想だにしない衝撃の結末が待っていた
+
+▼概要
+「あのコが欲しい♡」
+一番HOTな美男美女たちが南国リゾート・サムイ島に集結！
+ピンクとブルー、２つの島で毎日メンバーを"シャッフル"しながら
+運命の恋を探す７泊８日のラブバカンス。
+予測不能な出会いと別れ、すれ違い、再会。
+夏の光に導かれ、大胆に燃え上がる熱く儚い「本能の恋愛バトル」
+
+◆オープニングテーマ：WANIMA「曖昧」
+◆エンディングテーマ：礼賛「高ぶるブルー」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1887_s70_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260720023000 +0000" stop="20260720061500 +0000">
+		<title>「山本裕典、ホストになる。 」最強カリスマ集団衝突編 全話一挙</title>
+		<desc>「山本裕典、ホストになる。」新章開幕
+エリートホスト集う“最強”店舗 club Leo
+軍神も敵わなかったカリスマホストと対峙し
+店舗の一致団結を目指すも、またもや波乱の展開が―</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s5_p2001/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260720061500 +0000" stop="20260720070000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -18220,7 +18339,120 @@ VTRでは、若手人気男性ボーイズグループから本田康祐（OWV�
 【提供】BOATRACE振興会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-361_s10000_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20260720090000 +0000" stop="20260721004500 +0000">
+	<programme channel="special-plus" start="20260720090000 +0000" stop="20260720095000 +0000">
+		<title>#4：売上数億円の意外な店&amp;社長たちが夜な夜な集う場所&amp;覆面レスラーの素顔 他</title>
+		<desc>MC粗品が、「おもしろすぎる話」と思ったら100万円！
+芸人が「どうしても行きたい場所」「どうしても会いたい人」のもとへ行き、
+その体験を話芸で披露するトークバラエティ
+語られるエピソードトークはすべてこの番組のためだけに用意した初出しトーク！
+
+ちゃんぴおんず 大崎「社長たちが夜な夜な集う場所」
+かもめんたる う大「謎のワニガメ生態研究所」
+鬼越トマホーク 良ちゃん「覆面レスラーの素顔」
+平成ノブシコブシ 徳井「売上数億円の意外な店」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s2_p4/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260720095000 +0000" stop="20260720113500 +0000">
+		<title>世界の果てに、くるま置いてきた #5~6</title>
+		<desc>大富豪一家に別れを告げ、インド国境を目指し、
+バングラデシュの北部の街「タンガイル」へと向かう、令和ロマン・くるま。
+
+その夜、ここまでを振り返り、スタッフに心情を吐露したくるま。
+「自分には才能がない」…一体、なぜ!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p105/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260720113500 +0000" stop="20260720130000 +0000">
+		<title>#1「背が高い人は好き？」本能の恋愛バトル開幕！シャッフルアイランド7</title>
+		<desc>▼見どころ
+水着を着た14人の男女が、それぞれ別の島に集まり、初めてのシャッフルタイム。
+シルエット写真とプロフィールを元に選ばれた1人が島を移動！
+ハーレム＆逆ハーレムで真夏の恋が加速。
+２ショットデートに割り込み連発、恋の火花がバチバチ！
+そして迎えた1日目の夜、予想だにしない衝撃の結末が待っていた
+
+▼概要
+「あのコが欲しい♡」
+一番HOTな美男美女たちが南国リゾート・サムイ島に集結！
+ピンクとブルー、２つの島で毎日メンバーを"シャッフル"しながら
+運命の恋を探す７泊８日のラブバカンス。
+予測不能な出会いと別れ、すれ違い、再会。
+夏の光に導かれ、大胆に燃え上がる熱く儚い「本能の恋愛バトル」
+
+◆オープニングテーマ：WANIMA「曖昧」
+◆エンディングテーマ：礼賛「高ぶるブルー」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1887_s70_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260720130000 +0000" stop="20260720135700 +0000">
+		<title>ななにー 地下ABEMA #127 こんな所にギャル？ 異業種ギャル大集合</title>
+		<desc>僧侶のギャル？
+漁師のギャル？
+屋根職人のギャル？
+デザイナーギャル？
+梅干し職人ギャル？ 
+東京大学大学院のギャル？ 
+一体誰がどのギャルなのか…
+あなたはわかりますか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-980_s102_p228/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260720135700 +0000" stop="20260720140000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20260720140000 +0000" stop="20260720150000 +0000">
+		<title>MAD5 #4：芸能界の”JUN”集結で事件発生!? JUNゾンビ世界一決定戦</title>
+		<desc>特番時代に配信され、一部のマニアを熱狂させたカルト企画
+「ゾンビになったしずる純を人間に戻そう」がパワーアップしてカムバック!!
+
+MAD5メンバーが名前に”ジュン”のつく芸能人を集め、真のJUNゾンビを決定する…!!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2048_s10_p4/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260720150000 +0000" stop="20260720170000 +0000">
+		<title>チャンスの時間 #344~345</title>
+		<desc>本当の幸せを知る女りなぴっぴ先生が2026年の芸能界を完全鑑定！
+売れっ子たちの未来を一切の忖度なしで言い切る大予言SP！
+
+芸人界イチのモテ男・レインボー池田に下された衝撃の予言「結婚できなそう」
+「このままだと終わります」さや香の未来がまさかの急転直下！？
+とろサーモン久保田は、これまで語られなかった私生活トラブルを赤裸々告白！大悟「テレビで一番恥ずかしいこと言われた」
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p344/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260720170000 +0000" stop="20260720210000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20260720210000 +0000" stop="20260720220000 +0000">
+		<title>パーラーカチ盛り ABEMA店 #89~90</title>
+		<desc>新企画！九条のパチ罪
+パチ業界には風紀を乱す者が数多く存在する――。
+そんな“ヤカラ”たちを法廷に呼び出し、その罪を裁き、更生へと導く人気企画「九条のパチ罪」。
+
+今回の被告人はエハラ夫妻。
+夫・エハラに対し、妻・千鶴さんがまさかの告発！
+法廷で明かされる数々の証言に、スタジオ一同騒然…。
+
+果たしてエハラは有罪か、それとも無罪か？
+
+
+
+
+提供：マルハン北日本カンパニー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2003_s1_p89/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260720220000 +0000" stop="20260721000500 +0000">
+		<title>世界の果てに、くるま置いてきた #7~8</title>
+		<desc>高級ホテル「モモイン」を後にし、インド国境を目指し大移動を開始するくるま。
+途中北西部の街・ランプルに立ち寄り、名産の噛みタバコに挑戦！
+初体験のくるまの身体に異変が…!?
+
+さらに！前日、主張をぶつけ合った番組Dと同室のホテルに泊まることに…
+果たして、二人のわだかまりは解消されるのか…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p207/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260721000500 +0000" stop="20260721004500 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -18230,7 +18462,12 @@ VTRでは、若手人気男性ボーイズグループから本田康祐（OWV�
 		<desc>不良漫画をこよなく愛し、不良に憧れていたヒロシ。退屈な中学生活に飽き足らず、不良が集まる公立狛江北中学校に転校する。とにかく口だけは達者なヒロシは、早々に狛江北中最強の達也に気に入られ、森木・ワン公・ルパン・テルら仲間と、調布南中を相手にケンカや悪さを繰り返しながら友情を温めていく。 そんなヒロシたちだったが、ある日、シャレにならない事件が起こる――!!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/162-80_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20260721030000 +0000" stop="20260721043600 +0000">
+	<programme channel="special-plus" start="20260721030000 +0000" stop="20260721041500 +0000">
+		<title>しくじり先生 エバース #310~311</title>
+		<desc>過去に大きな失敗を体験した“しくじり先生”が生徒たちにしくじった経験を教える反面教師バラエティ番組「しくじり先生」！今回も“しくじり先生”による熱血授業を開講します！次々飛び出す驚愕エピソードに教室が震撼！そして授業の最後には先生による熱いメッセージで教室は感動の嵐に！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-77_s1_p348/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260721041500 +0000" stop="20260721043600 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -18252,7 +18489,48 @@ VTRでは、若手人気男性ボーイズグループから本田康祐（OWV�
 		<desc>不良漫画をこよなく愛し、不良に憧れていたヒロシ。退屈な中学生活に飽き足らず、不良が集まる公立狛江北中学校に転校する。とにかく口だけは達者なヒロシは、早々に狛江北中最強の達也に気に入られ、森木・ワン公・ルパン・テルら仲間と、調布南中を相手にケンカや悪さを繰り返しながら友情を温めていく。 そんなヒロシたちだったが、ある日、シャレにならない事件が起こる――!!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/162-80_s0_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20260721080500 +0000" stop="20260721120000 +0000">
+	<programme channel="special-plus" start="20260721080500 +0000" stop="20260721090500 +0000">
+		<title>ABEMA POKER INVITAITONAL S2 事前コンテンツ</title>
+		<desc>全員最強。選ばれしトップオブトップが集結。頂上決戦、再び。
+世界の第一線で活躍する岡本詩菜やみさわら、総獲得賞金10億円超えを誇る8名によるABEMAオリジナル招待制トーナメント。
+極限の心理戦を制し、優勝賞金1,000万円を手にするのは一体誰だ？
+第2回大会に先駆け、前回熱戦を繰り広げた5名が語る裏話とは!?
+あのプレーの裏にはこんな想いが、こんな思考が詰まっていたー。
+プロならではの視点が解き明かされる。
+
+ABEMAでしか見られない、最強8名が一同に会する究極のマインドスポーツが7月25日幕を開ける。
+前回王者が連覇を果たすのか、屈辱を晴らすリベンジ劇が生まれるのか。
+あるいは新時代を築くニューヒーローが誕生するのか。一瞬のバリュー、そしてブラフ。一手の決断が運命を分ける。
+
+今シーズンもプレイヤー本人によるリアルタイムの戦術解説を実施。
+なぜあの局面でベットしたのか？ どのような思考で相手をリーディングしたのか？
+世界レベルのスキルと思考ー。張り詰めた精神状態の裏側にあった驚愕のロジックが明かされる！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2036_s2_p810/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260721090500 +0000" stop="20260721095500 +0000">
+		<title>#4：売上数億円の意外な店&amp;社長たちが夜な夜な集う場所&amp;覆面レスラーの素顔 他</title>
+		<desc>MC粗品が、「おもしろすぎる話」と思ったら100万円！
+芸人が「どうしても行きたい場所」「どうしても会いたい人」のもとへ行き、
+その体験を話芸で披露するトークバラエティ
+語られるエピソードトークはすべてこの番組のためだけに用意した初出しトーク！
+
+ちゃんぴおんず 大崎「社長たちが夜な夜な集う場所」
+かもめんたる う大「謎のワニガメ生態研究所」
+鬼越トマホーク 良ちゃん「覆面レスラーの素顔」
+平成ノブシコブシ 徳井「売上数億円の意外な店」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s2_p4/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260721095500 +0000" stop="20260721115700 +0000">
+		<title>世界の果てに、くるま置いてきた #7~8</title>
+		<desc>高級ホテル「モモイン」を後にし、インド国境を目指し大移動を開始するくるま。
+途中北西部の街・ランプルに立ち寄り、名産の噛みタバコに挑戦！
+初体験のくるまの身体に異変が…!?
+
+さらに！前日、主張をぶつけ合った番組Dと同室のホテルに泊まることに…
+果たして、二人のわだかまりは解消されるのか…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1845_s3_p207/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260721115700 +0000" stop="20260721120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -18262,7 +18540,36 @@ VTRでは、若手人気男性ボーイズグループから本田康祐（OWV�
 		<desc>世界最大のプロレス団体・WWEを日本語実況付きで週2回無料中継!赤いブランド・RAWは火曜よる9時!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s10008_p147/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20260721150000 +0000" stop="20260722003000 +0000">
+	<programme channel="special-plus" start="20260721150000 +0000" stop="20260721170000 +0000">
+		<title>チャンスの時間 #346~347</title>
+		<desc>【西澤由夏の逆襲 Part2】 
+ ABEMAアナウンサー西澤由夏が千鳥に認めてもらうべく、自分の殻を破り体を張った挑戦へ！
+さらに禁断のプライベート姿を次々公開！ノブ「映像として怖い」 
+
+ 果たして西澤アナは“見ていられるアナウンサー”になれたのか!?
+ さらに衝撃の重大発表に大悟「金困ってんの？」
+
+【大悟の人間性検証ドッキリ】
+峯岸みなみが抱えるハイレベルな真剣相談に大悟が本気で向き合う！
+核心を突く大悟の言葉に、感情を抑えていた峯岸の心が揺れ動く「泣かないって決めてたのに…」
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p346/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260721170000 +0000" stop="20260721210000 +0000">
+		<title>ドーピングトーキング season2 #1~5</title>
+		<desc>MC粗品が、「おもしろすぎる話」と思ったら100万円！
+芸人が体験を話芸に。
+語られるエピソードトークはすべてこの番組のためだけに用意した初出しトーク！
+
+囲碁将棋 文田「アンダーグラウンド大喜利カフェ」
+マユリカ 中谷「願いが叶う能力“RAS“を持つコンカフェ嬢」
+ダウ90000 蓮見「コメダ珈琲に1ヶ月通ってランキング1位を目指す」
+マユリカ 阪本「伝説の爆弾処理班」
+濱田祐太郎「声が好きな女優に禁断の恋」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus" start="20260721210000 +0000" stop="20260722003000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
@@ -18282,10 +18589,22 @@ VTRでは、若手人気男性ボーイズグループから本田康祐（OWV�
 		<desc>黒沢飛夫(佐藤隆太)は、結成10年にして、一向に売れない漫才コンビ“ブラックストーン”のボケ&amp;ネタ作りを担当。ある日、相方の石井保(綾部祐二)から借金を理由に解散を告げられ、ヤケになった飛夫はトラブルに巻き込まれ、留置場に放りこまれてしまう。一方、夢や目標もなく、日々ケンカに明け暮れる鬼塚龍平(上地雄輔)は、敵対するストリートギャング“スカルキッズ”との乱闘の末、飛夫と同じ留置場に入っていた。初めはドレッドヘアーにタトゥーだらけの龍平にビビっていた飛夫だが、話をする中で彼のツッコミの才能に気付き、龍平とコンビを組むことを思いつく。こうして斬新かつ異色コンビ“ドラゴンフライ”が誕生、まもなく二人は公園でネタの猛特訓を開始する。そんなある日、飛夫は自分のふがいなさから一方的に別れを切り出した元恋人の宮崎由美子(石原さとみ)に再び連絡。彼女から妊娠を告げられ、、、</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/162-133_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20260722080000 +0000" stop="20260722140000 +0000">
+	<programme channel="special-plus" start="20260722080000 +0000" stop="20260722131500 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20260722131500 +0000" stop="20260722140000 +0000">
+		<title>#5：夜のサービス店の待機部屋に潜入＆100万円かかる韓国の降霊術 他</title>
+		<desc>MC粗品が、「おもしろすぎる話」と思ったら100万円！
+芸人が「どうしても行きたい場所」「どうしても会いたい人」のもとへ行き、
+その体験を話芸で披露するトークバラエティ
+語られるエピソードトークはすべてこの番組のためだけに用意した初出しトーク！
+
+紺野ぶるま「夜のサービス店の待機部屋に潜入」
+九条ジョー「100万円する韓国の降霊術イタコで死んだ父と会話」
+たくろう きむらバンド「催眠術師のリアルな生活」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2041_s2_p5/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260722140000 +0000" stop="20260722150000 +0000">
 		<title>CHANCE &amp; CHANGE #60</title>
@@ -29357,15 +29676,56 @@ i-dle所属のCUBE ENTERTAINMENTから2023年にデビューした５人組ボ�
 		<desc>棋王戦は、全棋士と女流名人、アマ名人で行います。予選をトーナメントで行い、その通過者とシード者で本戦トーナメントを行います。なお、本戦はベスト4以上は2敗失格制となり、敗者復活戦があります。挑戦者決定戦は変則2番勝負で、勝者組優勝者は2局のうち1回勝てば挑戦権を得ますが、敗者復活戦優勝者は2連勝が挑戦の条件となります。棋王とその優勝者が、例年2月から3月にかけて五番勝負を行います。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-31_s51_p33/thumb001.png" />
 	</programme>
-	<programme channel="shogi" start="20260720034500 +0000" stop="20260724003000 +0000">
+	<programme channel="shogi" start="20260720034500 +0000" stop="20260720180300 +0000">
+		<title>【再】伊藤園お〜いお茶杯第66期王位戦七番勝負第6局藤井聡太王位対永瀬拓矢九段</title>
+		<desc>王位戦は、全棋士と女流棋士2名で行います。予選をトーナメントで行い、その勝ち上がり者とシード棋士4人により紅白2ブロックに分けてリーグ戦を行います。
+リーグ戦の優勝者はリーグ戦勝敗を優先とし、同星で並んだ場合、
+(1)4勝1敗で並んだ場合、該当者が2名・3名に関わらずプレーオフを行います《3名の場合は、前期成績(前期リーグ勝星&gt;前期予選勝星)でシード者を決め、1回戦は残留決定戦を兼ねる》。
+(2)3勝2敗で並んだ場合、3名では該当する直接対決&gt;前期成績(前期リーグ勝星&gt;前期予選勝星)、4名では該当する直接対決、5名では前期成績(前期リーグ勝星&gt;前期予選勝星)で優勝者・残留者を決めます。紅白の優勝者で挑戦者決定戦を行います。王位とその挑戦者決定戦の勝者が、例年7月から9月にかけて七番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-11_s67_p15/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20260720180300 +0000" stop="20260721033700 +0000">
+		<title>【再】第73期 王座戦 五番勝負 第3局 藤井聡太王座 対 伊藤匠叡王</title>
+		<desc>王座戦は全棋士と女流棋士4名で行われます。一次予選、二次予選のトーナメント戦を行い、二次予選を勝ち抜いた棋士とシード棋士の16名によって、挑戦者決定トーナメントを行い、挑戦者を決めます。例年9月から10月にかけて王座と挑戦者が五番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-17_s73_p21/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20260721033700 +0000" stop="20260721131100 +0000">
+		<title>【再】第51期棋王戦コナミグループ杯五番勝負第4局 藤井聡太棋王対増田康宏八段</title>
+		<desc>棋王戦は、全棋士と女流名人、アマ名人で行います。予選をトーナメントで行い、その通過者とシード者で本戦トーナメントを行います。なお、本戦はベスト4以上は2敗失格制となり、敗者復活戦があります。挑戦者決定戦は変則2番勝負で、勝者組優勝者は2局のうち1回勝てば挑戦権を得ますが、敗者復活戦優勝者は2連勝が挑戦の条件となります。棋王とその優勝者が、例年2月から3月にかけて五番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-31_s51_p35/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20260721131100 +0000" stop="20260722032900 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
+	</programme>
+	<programme channel="shogi" start="20260722032900 +0000" stop="20260722174800 +0000">
+		<title>【再】第38期 竜王戦 七番勝負 第4局 藤井聡太竜王 対 佐々木勇気八段</title>
+		<desc>竜王戦は全棋士と女流棋士4名・奨励会員1名・アマチュア5名で行われます。1組から6組に分けてトーナメント戦を行い、各組の上位者の計11名で挑戦者決定トーナメントを行い、挑戦者を決めます。例年10月から12月にかけて竜王と挑戦者が七番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-12_s39_p33/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20260722174800 +0000" stop="20260723200100 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
+	</programme>
+	<programme channel="shogi" start="20260723200100 +0000" stop="20260724003000 +0000">
+		<title>【再】第6期 叡王戦 段位別予選 藤井聡太王位・棋聖 対 広瀬章人八段</title>
+		<desc>叡王戦は全棋士の段位別予選と本戦を勝ち抜いた2名が決勝五番勝負を行い、先に3勝した棋士が「叡王」の称号を獲得します(第4期以降は本戦優勝者が叡王への挑戦権を獲得)。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-89_s6_p83/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20260724003000 +0000" stop="20260724140000 +0000">
 		<title>第74期 王座戦 挑戦者決定トーナメント 藤井聡太竜王・名人 対 丸山忠久九段</title>
 		<desc>王座戦は全棋士と女流棋士4名で行われます。一次予選、二次予選のトーナメント戦を行い、二次予選を勝ち抜いた棋士とシード棋士の16名によって、挑戦者決定トーナメントを行い、挑戦者を決めます。例年9月から10月にかけて王座と挑戦者が五番勝負を行います。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-17_s10000_p25/thumb001.png" />
+	</programme>
+	<programme channel="shogi" start="20260724140000 +0000" stop="20260725035900 +0000">
+		<title>【再】伊藤園お〜いお茶杯第66期王位戦七番勝負第3局 藤井聡太王位対永瀬拓矢九段</title>
+		<desc>王位戦は、全棋士と女流棋士2名で行います。予選をトーナメントで行い、その勝ち上がり者とシード棋士4人により紅白2ブロックに分けてリーグ戦を行います。
+リーグ戦の優勝者はリーグ戦勝敗を優先とし、同星で並んだ場合、
+(1)4勝1敗で並んだ場合、該当者が2名・3名に関わらずプレーオフを行います《3名の場合は、前期成績(前期リーグ勝星&gt;前期予選勝星)でシード者を決め、1回戦は残留決定戦を兼ねる》。
+(2)3勝2敗で並んだ場合、3名では該当する直接対決&gt;前期成績(前期リーグ勝星&gt;前期予選勝星)、4名では該当する直接対決、5名では前期成績(前期リーグ勝星&gt;前期予選勝星)で優勝者・残留者を決めます。紅白の優勝者で挑戦者決定戦を行います。王位とその挑戦者決定戦の勝者が、例年7月から9月にかけて七番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-11_s67_p9/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260709143000 +0000" stop="20260709165500 +0000">
 		<title>競泳ジャパンオープン2025 2日目</title>
@@ -30431,7 +30791,7 @@ ABEMAランナーとしてフルマラソン初挑戦で、完走を果たした
 3日目:11/29 15:40~ (解説:松田丈志)</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-457_s10_p1/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20260717213000 +0000" stop="20260718001000 +0000">
+	<programme channel="world-sports" start="20260717213000 +0000" stop="20260718000500 +0000">
 		<title>【第4試合】ロコ・ソラーレvsTeam Carey|2024.10.4</title>
 		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
 世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
@@ -30439,7 +30799,7 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p4/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20260718001000 +0000" stop="20260718024500 +0000">
+	<programme channel="world-sports" start="20260718000500 +0000" stop="20260718024000 +0000">
 		<title>【第5試合】ロコ・ソラーレvsT.Peterson|2024.10.5</title>
 		<desc>ABEMAでカーリング世界最高峰ツアーを生中継!
 世界の強豪チームがカナダの地で「氷上の頭脳戦」を繰り広げる!
@@ -30447,10 +30807,22 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 高度な戦略とテクニックのぶつかり合いを見逃すな</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/696-1_s10_p5/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20260718024500 +0000" stop="20260718051000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	<programme channel="world-sports" start="20260718024000 +0000" stop="20260718044000 +0000">
+		<title>【再】FIBAアジアカップ2025 準々決勝進出決定戦 日本vsレバノン</title>
+		<desc>バスケ男子日本代表がアジアNo.1を懸けて争う「FIBAアジアカップ2025」
+目指すは、54年ぶりのアジア制覇。
+大注目の熱戦をアベマ・テレビ朝日系列で無料生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-438_s30_p104/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20260718044000 +0000" stop="20260718051000 +0000">
+		<title>【再】ABEMAスポーツタイム#128</title>
+		<desc>毎週日曜よる10時から生放送
+川﨑宗則、稲本潤一がレギュラー出演!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p128/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260718051000 +0000" stop="20260718054000 +0000">
 		<title>【再】ABEMAスポーツタイム#129</title>
@@ -30535,10 +30907,23 @@ X連携コメント機能で、応援コメントを送ることで、レイク�
 お楽しみください!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/614-3_s10_p1/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20260718211500 +0000" stop="20260718233000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	<programme channel="world-sports" start="20260718211500 +0000" stop="20260718230000 +0000">
+		<title>【再】FIBAアジアカップ2025 グループステージ 日本vsグアム</title>
+		<desc>バスケ男子日本代表がアジアNo.1を懸けて争う「FIBAアジアカップ2025」
+目指すは、54年ぶりのアジア制覇。
+大注目の熱戦をアベマ・テレビ朝日系列で無料生中継!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-438_s30_p102/thumb001.png" />
+	</programme>
+	<programme channel="world-sports" start="20260718230000 +0000" stop="20260718233000 +0000">
+		<title>【再】ABEMAスポーツタイム #133</title>
+		<desc>毎週日曜よる10時から生放送
+川﨑宗則、稲本潤一がレギュラー出演!
+スポーツ界を賑わせている話題や最新情報をお届け!
+さらに、メジャーリーグやサッカー日本代表選手がプレーする世界最高峰のヨーロッパサッカーなどの
+「絶対見逃せない戦い」や「いま覚えてほしい注目の選手」などを紹介!
+より一層スポーツが楽しくなる番組!
+提供:株式会社ジェーシービー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p133/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260718233000 +0000" stop="20260719014500 +0000">
 		<title>4v4 JAPAN CUP 2024 RESPECT YOU, au 1</title>
@@ -30849,10 +31234,18 @@ ABEMAでは10月から春まで続くツアーにおける、ロコ・ソラー�
 より一層スポーツが楽しくなる番組!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-152_s10_p46/thumb001.png" />
 	</programme>
-	<programme channel="world-sports" start="20260721040000 +0000" stop="20260721082000 +0000">
+	<programme channel="world-sports" start="20260721040000 +0000" stop="20260721060000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
+	</programme>
+	<programme channel="world-sports" start="20260721060000 +0000" stop="20260721082000 +0000">
+		<title>4v4 JAPAN CUP U10 2023 presented by au</title>
+		<desc>本田圭佑が発起人となった4対4の新しい「U10のためのサッカー」。
+全国大会決勝戦&amp;スペシャルマッチをABEMAで生中継!
+本田自らがルールを考案し、8月から全国各地で予選が行われた本大会。
+指導者は不在。子どもたちが自ら考えてプレーし勝利へと突き進む、そのクライマックスを見逃すな!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/665-1_s10_p5/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260721082000 +0000" stop="20260721105500 +0000">
 		<title>【再】240707 バスケットボール男子日本代表国際強化試合 日本対韓国</title>
@@ -30903,6 +31296,860 @@ ABEAM厳選のスポーツや注目選手を月イチで深掘り!</desc>
 
 プロの技術、ストリートの創造性、そしてエンターテインメントの熱量が融合するコートで、⼀体どのチームが頂点に⽴ち、賞⾦を掴み取るのか。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/807-1_s10_p6/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260710150000 +0000" stop="20260710220000 +0000">
+		<title>7月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p138/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260710220000 +0000" stop="20260710230500 +0000">
+		<title>【再】Rd.7 ラリー・ジャパン シェイクダウン|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s70_p100/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260710230500 +0000" stop="20260711002000 +0000">
+		<title>【再】Rd.7 ラリー・ジャパン オープニングセレモニー|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s70_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260711002000 +0000" stop="20260711014500 +0000">
+		<title>【再】Rd.7 ラリー・ジャパン リエゾン|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s70_p102/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260711014500 +0000" stop="20260711054000 +0000">
+		<title>【再】Rd.7 ラリー・ジャパン SS9 &amp; SS10|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s70_p103/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260711054000 +0000" stop="20260711071000 +0000">
+		<title>7月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p139/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260711071000 +0000" stop="20260711083000 +0000">
+		<title>【再】#1 笑って学べる!超GTぱーてぃ2026</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260711083000 +0000" stop="20260711095000 +0000">
+		<title>【再】#2 笑って学べる!超GTぱーてぃ2026</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s20_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260711095000 +0000" stop="20260711123000 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.4 鈴鹿サーキット</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s40_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260711123000 +0000" stop="20260711150000 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.5 鈴鹿サーキット</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s50_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260711150000 +0000" stop="20260711220000 +0000">
+		<title>7月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p140/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260711220000 +0000" stop="20260711232000 +0000">
+		<title>【再】#1 笑って学べる!超GTぱーてぃ2026</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260711232000 +0000" stop="20260712004000 +0000">
+		<title>【再】#2 笑って学べる!超GTぱーてぃ2026</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s20_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260712004000 +0000" stop="20260712032000 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.4 鈴鹿サーキット</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s40_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260712032000 +0000" stop="20260712055000 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.5 鈴鹿サーキット</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s50_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260712055000 +0000" stop="20260712072000 +0000">
+		<title>これを見れば誰でも楽しめる!ABEMAモータースポーツ完全ガイド2026</title>
+		<desc>チョコプラ長田&amp;ぱーてぃーちゃん&amp;マギーがモータースポーツの魅力をプレゼン!
+
+2026年、ABEMAでは5つのモータースポーツカテゴリーを無料放送!
+
+ラインナップは
+アジア最高峰のフォーミュラレースSUPER FORMULA(スーパーフォーミュラ)、
+国内人気No.1 SUPER GT、
+公道の世界最速を決めるWRC(世界ラリー選手権)、
+アメリカ人気でNo.1モータースポーツNASCAR(ナスカー)、
+そして、究極の持久戦、WEC(ウェック)
+
+「モータースポーツって見始めるハードルがちょっぴり高い...」
+そんなあなたのため、カテゴリー別の見どころや注目ポイントを徹底解剖!
+ビギナーも楽しめる90分の特別番組です!
+これを見れば、絶対にあなたもモータースポーツの虜になること間違いなし!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-181_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260712072000 +0000" stop="20260712084000 +0000">
+		<title>7月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p141/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260712084000 +0000" stop="20260712103500 +0000">
+		<title>【再】Rd.7 ラリー・ジャパン SS16|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s70_p104/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260712103500 +0000" stop="20260712125500 +0000">
+		<title>【再】Rd.7 ラリー・ジャパン パワーステージ|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s70_p105/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260712125500 +0000" stop="20260712140000 +0000">
+		<title>【再】Rd.7 ラリー・ジャパン シェイクダウン|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s70_p100/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260712140000 +0000" stop="20260712151500 +0000">
+		<title>【再】Rd.7 ラリー・ジャパン オープニングセレモニー|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s70_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260712151500 +0000" stop="20260713150000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260713150000 +0000" stop="20260713221000 +0000">
+		<title>7月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p142/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260713221000 +0000" stop="20260713234000 +0000">
+		<title>これを見れば誰でも楽しめる!ABEMAモータースポーツ完全ガイド2026</title>
+		<desc>チョコプラ長田&amp;ぱーてぃーちゃん&amp;マギーがモータースポーツの魅力をプレゼン!
+
+2026年、ABEMAでは5つのモータースポーツカテゴリーを無料放送!
+
+ラインナップは
+アジア最高峰のフォーミュラレースSUPER FORMULA(スーパーフォーミュラ)、
+国内人気No.1 SUPER GT、
+公道の世界最速を決めるWRC(世界ラリー選手権)、
+アメリカ人気でNo.1モータースポーツNASCAR(ナスカー)、
+そして、究極の持久戦、WEC(ウェック)
+
+「モータースポーツって見始めるハードルがちょっぴり高い...」
+そんなあなたのため、カテゴリー別の見どころや注目ポイントを徹底解剖!
+ビギナーも楽しめる90分の特別番組です!
+これを見れば、絶対にあなたもモータースポーツの虜になること間違いなし!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-181_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260713234000 +0000" stop="20260714010000 +0000">
+		<title>【再】#1 笑って学べる!超GTぱーてぃ2026</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260714010000 +0000" stop="20260714034000 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.4 鈴鹿サーキット</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s40_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260714034000 +0000" stop="20260714080000 +0000">
+		<title>【再】NASCAR All-Star Race|NASCAR</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+ーーーーー
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします! 
+
+▼NASCARとは▼
+ 全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km! 約40台の激しいバトルや接触が非常に迫力のあるレースです!ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s50_p3/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260714080000 +0000" stop="20260714090000 +0000">
+		<title>【告知枠】18時放送 Quaker State 400</title>
+		<desc>NASCAR 2026 Quaker State 400を7月14日18時よりABEMAで無料配信！
+舞台となるのは、アトランタ・モーター・スピードウェイ。
+
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします！
+
+▼NASCARとは？ 全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km！
+約40台の激しいバトルや接触が非常に迫力のあるレースです！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s10000_p21/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260714090000 +0000" stop="20260714140000 +0000">
+		<title>Quaker State 400｜NASCAR</title>
+		<desc>NASCAR 2026 Quaker State 400を7月14日18時よりABEMAで無料配信！
+舞台となるのは、アトランタ・モーター・スピードウェイ。
+
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします！
+
+▼NASCARとは？ 全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km！
+約40台の激しいバトルや接触が非常に迫力のあるレースです！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s10000_p22/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260714140000 +0000" stop="20260714152000 +0000">
+		<title>【再】#2 笑って学べる!超GTぱーてぃ2026</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s20_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260714152000 +0000" stop="20260717150000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260717150000 +0000" stop="20260717220000 +0000">
+		<title>7月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p143/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260717220000 +0000" stop="20260718001000 +0000">
+		<title>【再】Rd.8 ラリー・ギリシャ SS10|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s80_p100/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260718001000 +0000" stop="20260718021500 +0000">
+		<title>【再】Rd.8 ラリー・ギリシャ パワーステージ|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s80_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260718021500 +0000" stop="20260718031000 +0000">
+		<title>7月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p144/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260718031000 +0000" stop="20260718054000 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.5 鈴鹿サーキット</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s50_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260718054000 +0000" stop="20260718064000 +0000">
+		<title>【告知枠】スーパーフォーミュラ2026 Rd.6 富士スピードウェイ</title>
+		<desc>「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継！
+国内最高峰のフォーミュラカーレースシリーズ。
+最高時速は300Km！F1に次ぐ速さのコーナリングは必見！
+若きエース・岩佐歩夢と野尻智紀ら日本屈指の猛者たちが激突！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s10000_p16/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260718064000 +0000" stop="20260718103500 +0000">
+		<title>スーパーフォーミュラ2026 Rd.6 富士スピードウェイ</title>
+		<desc>「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継！
+国内最高峰のフォーミュラカーレースシリーズ。
+最高時速は300Km！F1に次ぐ速さのコーナリングは必見！
+若きエース・岩佐歩夢と野尻智紀ら日本屈指の猛者たちが激突！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s10000_p17/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260718103500 +0000" stop="20260718110000 +0000">
+		<title>7月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p145/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260718110000 +0000" stop="20260718123000 +0000">
+		<title>これを見れば誰でも楽しめる!ABEMAモータースポーツ完全ガイド2026</title>
+		<desc>チョコプラ長田&amp;ぱーてぃーちゃん&amp;マギーがモータースポーツの魅力をプレゼン!
+
+2026年、ABEMAでは5つのモータースポーツカテゴリーを無料放送!
+
+ラインナップは
+アジア最高峰のフォーミュラレースSUPER FORMULA(スーパーフォーミュラ)、
+国内人気No.1 SUPER GT、
+公道の世界最速を決めるWRC(世界ラリー選手権)、
+アメリカ人気でNo.1モータースポーツNASCAR(ナスカー)、
+そして、究極の持久戦、WEC(ウェック)
+
+「モータースポーツって見始めるハードルがちょっぴり高い...」
+そんなあなたのため、カテゴリー別の見どころや注目ポイントを徹底解剖!
+ビギナーも楽しめる90分の特別番組です!
+これを見れば、絶対にあなたもモータースポーツの虜になること間違いなし!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-181_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260718123000 +0000" stop="20260718133000 +0000">
+		<title>【告知枠】22:30放送 Rd.9 ラリー・エストニア</title>
+		<desc>WRC世界ラリー選手権 2026 ABEMAモータースポーツで全14戦"無料"生中継決定！
+Rd.9 ラリー・エストニア厳選SSを7月18日(土)〜19日(日)で放送！
+
+&lt;生中継予定ステージ&gt;
+7/18(土) 23:05頃〜(日本時間) SS13 開始予定
+7/19(日) 19:15頃〜(日本時間) パワーステージ 開始予定
+
+番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え!
+注目チームは日本メーカーのTOYOTA GAZOO Racing ！
+さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる！
+最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目!
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10000_p54/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260718133000 +0000" stop="20260718170000 +0000">
+		<title>Rd.9 ラリー・エストニア　SS13｜WRC世界ラリー選手権</title>
+		<desc>WRC世界ラリー選手権 2026 ABEMAモータースポーツで全14戦"無料"生中継決定！
+Rd.9 ラリー・エストニア厳選SSを7月18日(土)〜19日(日)で放送！
+
+&lt;生中継予定ステージ&gt;
+7/18(土) 23:05頃〜(日本時間) SS13 開始予定
+7/19(日) 19:15頃〜(日本時間) パワーステージ 開始予定
+
+番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え!
+注目チームは日本メーカーのTOYOTA GAZOO Racing ！
+さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる！
+最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目!
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10000_p55/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260718170000 +0000" stop="20260718221000 +0000">
+		<title>7月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p146/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260718221000 +0000" stop="20260718233000 +0000">
+		<title>【再】#1 笑って学べる!超GTぱーてぃ2026</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s10_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260718233000 +0000" stop="20260719003000 +0000">
+		<title>【告知枠】スーパーフォーミュラ2026 Rd.3&amp;7 富士スピードウェイ</title>
+		<desc>「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継！
+国内最高峰のフォーミュラカーレースシリーズ。
+最高時速は300Km！F1に次ぐ速さのコーナリングは必見！
+若きエース・岩佐歩夢と野尻智紀ら日本屈指の猛者たちが激突！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s10000_p18/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260719003000 +0000" stop="20260719100000 +0000">
+		<title>スーパーフォーミュラ2026 Rd.3&amp;7 富士スピードウェイ</title>
+		<desc>「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継！
+国内最高峰のフォーミュラカーレースシリーズ。
+最高時速は300Km！F1に次ぐ速さのコーナリングは必見！
+若きエース・岩佐歩夢と野尻智紀ら日本屈指の猛者たちが激突！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s10000_p19/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260719100000 +0000" stop="20260719131500 +0000">
+		<title>Rd.9 ラリー・エストニア　パワーステージ｜WRC世界ラリー選手権</title>
+		<desc>WRC世界ラリー選手権 2026 ABEMAモータースポーツで全14戦"無料"生中継決定！
+Rd.9 ラリー・エストニア厳選SSを7月18日(土)〜19日(日)で放送！
+
+&lt;生中継予定ステージ&gt;
+7/18(土) 23:05頃〜(日本時間) SS13 開始予定
+7/19(日) 19:15頃〜(日本時間) パワーステージ 開始予定
+
+番組ではラリー初心者の方にも楽しんでいただくべく、WRCとは何か、注目ポイントを分かりやすくお伝え!
+注目チームは日本メーカーのTOYOTA GAZOO Racing ！
+さらには、初優勝を狙う日本人唯一出場の勝田貴元(かつたたかもと)にも期待が高まる！
+最高時速200キロ オーバー! 神技テクニックや衝撃のクラッシュにも注目!
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s10000_p57/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260719131500 +0000" stop="20260719154500 +0000">
+		<title>【再】スーパーフォーミュラ2026 Rd.5 鈴鹿サーキット</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+「SUPER FORMULA」2026年シーズンの決勝を全戦アベマで無料生中継! 最高時速300Km! 全マシン同一車両で争われるワンメイクレース! ドライバーのテクニックやチーム戦略が勝敗のカギ!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/634-4_s50_p1/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260719154500 +0000" stop="20260720150000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260720150000 +0000" stop="20260720220000 +0000">
+		<title>7月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p147/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260720220000 +0000" stop="20260721001000 +0000">
+		<title>【再】Rd.8 ラリー・ギリシャ SS10|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s80_p100/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260721001000 +0000" stop="20260721021500 +0000">
+		<title>【再】Rd.8 ラリー・ギリシャ パワーステージ|WRC世界ラリー選手権</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+▼WRC 世界ラリー選手権とは▼
+1973年に創設され40年以上の歴史を誇るスプリントラリーの世界最高峰。 交通が遮断された一般道を市販車ベースのマシンで走り、 スペシャルステージの区間タイムを競うタイムアタック競技です。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s80_p101/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260721021500 +0000" stop="20260721025500 +0000">
+		<title>7月ABEMAモータースポーツ放送予定</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-98_s20000_p148/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260721025500 +0000" stop="20260721080000 +0000">
+		<title>【再】NASCAR Coca-Cola 600|NASCAR</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+ーーーーー
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします! 
+
+▼NASCARとは▼
+ 全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km! 約40台の激しいバトルや接触が非常に迫力のあるレースです!ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s50_p4/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260721080000 +0000" stop="20260721090000 +0000">
+		<title>【告知枠】18時放送 Window World 400</title>
+		<desc>NASCAR 2026 Window World 400を7月21日18時よりABEMAで無料配信！
+舞台となるのは、ノース・ウィルクスボロ・スピードウェイ。
+
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします！
+
+▼NASCARとは？ 全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km！
+約40台の激しいバトルや接触が非常に迫力のあるレースです！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s10000_p23/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260721090000 +0000" stop="20260721140000 +0000">
+		<title>Window World 400｜NASCAR</title>
+		<desc>NASCAR 2026 Window World 400を7月21日18時よりABEMAで無料配信！
+舞台となるのは、ノース・ウィルクスボロ・スピードウェイ。
+
+番組ではNASCAR初心者の方にも楽しんでいただくべく、わかりやすい実況・解説をお届けします！
+
+▼NASCARとは？ 全米で圧倒的な人気を誇るレースで、最高時速は脅威の時速300km！
+約40台の激しいバトルや接触が非常に迫力のあるレースです！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-100_s10000_p24/thumb001.png" />
+	</programme>
+	<programme channel="motor-sport" start="20260721140000 +0000" stop="20260721152000 +0000">
+		<title>【再】#2 笑って学べる!超GTぱーてぃ2026</title>
+		<desc>ABEMAでモータースポーツジャンル拡大中！生中継や見逃し配信、ハイライトや注目映像など楽しめるコンテンツが全て"無料"！
+
+▼WRC世界ラリー選手権2026 はこちら
+https://abema.tv/video/title/16-98
+
+▼NASCAR2026はこちら
+https://abema.tv/video/title/16-100
+
+▼スーパーフォーミュラ2026はこちら
+https://abema.tv/video/title/634-4
+
+ーーー
+
+初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s20_p1/thumb001.png" />
 	</programme>
 	<programme channel="sumo" start="20260711220000 +0000" stop="20260711230000 +0000">
 		<title>大相撲LIVE 七月場所</title>
@@ -32545,10 +33792,29 @@ ABEMAにて前日計量を生中継！
 芦澤に文句が言える唯一の天敵・マッコイ斎藤が伊勢へ！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-124_s10_p53/thumb001.png" />
 	</programme>
-	<programme channel="fighting-sports" start="20260719113000 +0000" stop="20260720021500 +0000">
+	<programme channel="fighting-sports" start="20260719113000 +0000" stop="20260719222500 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20260719222500 +0000" stop="20260720000000 +0000">
+		<title>【再】WWE SMACKDOWN×ABEMA#92</title>
+		<desc>毎週金曜夜(現地)に行われる「SMACKDOWN」をお届け!世界最高エンタメ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s18_p27/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20260720000000 +0000" stop="20260720003000 +0000">
+		<title>芦澤竜誠と行く ぶらり喧嘩旅 横浜中華街編</title>
+		<desc>とにかくなんでも噛み付く男・芦澤竜誠が日本全国を巡る旅に出た!
+旅のお供は、芦澤に文句が言える唯一の天敵・マッコイ斎藤!
+
+ゆく先々で起こるハプニングや喧嘩、そして、ちょっと泣ける感動話まで。
+今、最高にスリリングな旅がはじまる!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-124_s10_p28/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20260720003000 +0000" stop="20260720021500 +0000">
+		<title>【再】WWE SMACKDOWN×ABEMA#93</title>
+		<desc>毎週金曜夜(現地)に行われる「SMACKDOWN」をお届け!世界最高エンタメ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s18_p28/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20260720021500 +0000" stop="20260720130000 +0000">
 		<title>K-1 DONTAKU 2026</title>
@@ -32576,7 +33842,19 @@ ABEMAにて前日計量を生中継！
 ぜひ「ABEMA」にて無料でお楽しみください！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-152_s10008_p1/thumb001.png" />
 	</programme>
-	<programme channel="fighting-sports" start="20260720130000 +0000" stop="20260721120000 +0000">
+	<programme channel="fighting-sports" start="20260720130000 +0000" stop="20260720152500 +0000">
+		<title>【再】WWE RAW×ABEMA#1</title>
+		<desc>毎週月曜夜(現地)に行われる「RAW」をお届け!世界最高エンタメ
+ WWE!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-2_s10_p10/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20260720152500 +0000" stop="20260720192500 +0000">
+		<title>K-1 WORLD GP 2019.8.24 4時間濃縮編集版</title>
+		<desc>2019年8月24日(土)にエディオンアリーナ大阪で開催されたK-1 WORLD GP 2019 JAPAN 8.24 大阪大会を4時間に厳選してAbemaTVにて配信!
+第1試合/KANAvs真優,第2試合/椿原龍矢vs蒼士,第3試合/松岡力vs近藤魁成,第4試合/篠原悠人vs川﨑真一朗,第5試合/大和哲也vs近藤拳成,第6試合/山崎秀晃vs平山迅,第7試合/愛鷹亮vsシナ・カリミアン,第8試合/城戸康裕vsアントニオ・ゴメス,第9試合/大泉翔vs木村"フィリップ"ミノル,第10試合/野杁正明vsサミ・ラミリ,第11試合/林健太vsデニス・デミルカプ,第12試合/皇治vs大岩龍矢</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-108_s10_p50/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports" start="20260720192500 +0000" stop="20260721120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
