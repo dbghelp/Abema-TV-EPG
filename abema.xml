@@ -20,9 +20,9 @@
 		<display-name>アニメSPECIAL2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png" />
 	</channel>
-	<channel id="naruto">
-		<display-name>NARUTOチャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/naruto/logo.png" />
+	<channel id="bleach">
+		<display-name>BLEACHチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/bleach/logo.png" />
 	</channel>
 	<channel id="isekai-anime">
 		<display-name>異世界・ファンタジーアニメチャンネル</display-name>
@@ -116,6 +116,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -187,6 +191,10 @@
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
+	</channel>
+	<channel id="fighting-sports2">
+		<display-name>格闘 2チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports2/logo.png" />
 	</channel>
 	<channel id="hiphop">
 		<display-name>HIPHOPチャンネル</display-name>
@@ -4761,124 +4769,140 @@ https://fes.fate-go.jp/
 		<desc>突如として乱入してきたスクリューキッドとケンダマンは、自分たちは完璧超人であると高らかに告げる。新たな勢力の出現に困惑しながらも、2000万パワーズは乱入コンビに挑戦。しかし完璧超人を名乗るだけあって、乱入コンビには全く隙がない。追い詰められたバッファローマンは、何故かロングホーンを叩き折り…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-9_s1_p91/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260717110000 +0000" stop="20260717230000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 忍界大戦編(3) #516〜540</title>
-		<desc>ナルトは雷影の説得に成功し、いよいよ戦場へと向かって動き出した! 誰に変化しているのか分からない白ゼツに対処するにはナルトの感知能力に頼るしかない。さらに白ゼツのデータからマダラが不死だという事が判明する。シカクはこれから戦いに参加するナルトにそれらの情報を伝えると共に、マダラは平和など望まない憎しみを利用する危険な敵だと忠告する。しかし、それを聞いたナルトは「この戦争はオレが止める!」と一層決意を固めるのだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s15_p516/thumb001.png" />
+	<programme channel="bleach" start="20260725090000 +0000" stop="20260725140000 +0000">
+		<title>BLEACH 死神代行編 #1〜10</title>
+		<desc>黒崎一護（くろさき　いちご）・15歳。ユーレイの見える高校生。特異な能力ゆえに心霊現象のトラブルに巻きこまれる毎日を送る一護は、最近自分の霊力がさらに強くなっていることを感じていた。ある日、街中で幽霊の女の子を襲って化け物が暴れているところに遭遇する一護。化け物の姿は一護以外見えていない。女の子をかばって逃がそうとする一護。襲いかかってくる化け物。その時、黒装束の少女が現れ、刀をかまえて化け物に立ち向かっていった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260717230000 +0000" stop="20260718060000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 忍界大戦編(4) #541〜554</title>
-		<desc>白ゼツにより各戦場は混乱していた。シカマルの部隊は仲間同士での戦闘を避けるため身動きがとれず、医療部隊では白ゼツの侵入を防ぐため負傷者の治療ができない。ネジのいる戦場では味方に化けた白ゼツの攻撃でヒナタが絶体絶命の危機に陥るのだが、そこにナルトが到着した! 各戦場に到着したナルトの感知能力により白ゼツを倒していく忍連合軍。形勢逆転で忍連合の士気が上がる中、誰にも気づかれる事なく穢土転生の術でとある人物が蘇っていた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s16_p541/thumb001.png" />
+	<programme channel="bleach" start="20260725140000 +0000" stop="20260725143000 +0000">
+		<title>BLEACH 千年血戦篇 禍進譚 テレ東系列にて現在放送中！</title>
+		<desc>-</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/111-1yyirbkzgnz_s10000_p33/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260718060000 +0000" stop="20260718130000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 忍界大戦編(4) #541〜554</title>
-		<desc>白ゼツにより各戦場は混乱していた。シカマルの部隊は仲間同士での戦闘を避けるため身動きがとれず、医療部隊では白ゼツの侵入を防ぐため負傷者の治療ができない。ネジのいる戦場では味方に化けた白ゼツの攻撃でヒナタが絶体絶命の危機に陥るのだが、そこにナルトが到着した! 各戦場に到着したナルトの感知能力により白ゼツを倒していく忍連合軍。形勢逆転で忍連合の士気が上がる中、誰にも気づかれる事なく穢土転生の術でとある人物が蘇っていた。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s16_p541/thumb001.png" />
+	<programme channel="bleach" start="20260725143000 +0000" stop="20260725193000 +0000">
+		<title>BLEACH 死神代行編 #11〜20</title>
+		<desc>一護の仲間たちともすっかりとけこんでいるルキア。なんのかんのありながらも毎日死神の仕事を遂行する一護。今日も指令にしたがってホロウ退治に出かける２人だったが、指示のあった場所にはホロウの姿はなかった。その場にいた霊の話から確かにホロウが現れたということは確認できたのだが…。仕方なく残っていた霊の魂葬をする一護たち。その２人を物陰からじっと見つめる影があった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p11/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260718130000 +0000" stop="20260718200000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 忍界大戦編(4) #555〜568</title>
-		<desc>仲間を殺してでも木ノ葉隠れの里を守ろうとしたイタチの意に反して、木ノ葉隠れを潰そうとするサスケの行動はイタチに敵対している上、かつて大蛇丸が成そうとした“木ノ葉崩し”の意志を継ぐ自分と目的が同じだとカブトは語り、サスケを仲間に引き込もうとする。だがサスケは木ノ葉を潰すのは自分の意志だとカブトを否定し、再び戦闘が始まる。同じスパイとして生きてきたカブトにかつての自分を重ねたイタチは、自分を見つめ直せと説得するが…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s16_p555/thumb001.png" />
+	<programme channel="bleach" start="20260725193000 +0000" stop="20260726053000 +0000">
+		<title>BLEACH 死神代行編 #1〜20</title>
+		<desc>黒崎一護（くろさき　いちご）・15歳。ユーレイの見える高校生。特異な能力ゆえに心霊現象のトラブルに巻きこまれる毎日を送る一護は、最近自分の霊力がさらに強くなっていることを感じていた。ある日、街中で幽霊の女の子を襲って化け物が暴れているところに遭遇する一護。化け物の姿は一護以外見えていない。女の子をかばって逃がそうとする一護。襲いかかってくる化け物。その時、黒装束の少女が現れ、刀をかまえて化け物に立ち向かっていった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260718200000 +0000" stop="20260719030000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 忍界大戦編(4) #555〜568</title>
-		<desc>仲間を殺してでも木ノ葉隠れの里を守ろうとしたイタチの意に反して、木ノ葉隠れを潰そうとするサスケの行動はイタチに敵対している上、かつて大蛇丸が成そうとした“木ノ葉崩し”の意志を継ぐ自分と目的が同じだとカブトは語り、サスケを仲間に引き込もうとする。だがサスケは木ノ葉を潰すのは自分の意志だとカブトを否定し、再び戦闘が始まる。同じスパイとして生きてきたカブトにかつての自分を重ねたイタチは、自分を見つめ直せと説得するが…。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s16_p555/thumb001.png" />
+	<programme channel="bleach" start="20260726053000 +0000" stop="20260726103000 +0000">
+		<title>BLEACH 死神代行編 #1〜10</title>
+		<desc>黒崎一護（くろさき　いちご）・15歳。ユーレイの見える高校生。特異な能力ゆえに心霊現象のトラブルに巻きこまれる毎日を送る一護は、最近自分の霊力がさらに強くなっていることを感じていた。ある日、街中で幽霊の女の子を襲って化け物が暴れているところに遭遇する一護。化け物の姿は一護以外見えていない。女の子をかばって逃がそうとする一護。襲いかかってくる化け物。その時、黒装束の少女が現れ、刀をかまえて化け物に立ち向かっていった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260719030000 +0000" stop="20260719090000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 カカシ暗部編 #569〜581</title>
-		<desc>戦争が終結した木ノ葉隠れの里では三代目火影から引退したヒルゼンとダンゾウとの間で、次の火影候補を巡って意見が割れていた。ダンゾウは大蛇丸を推薦し権力掌握を狙うが、ヒルゼンの強い要望により四代目火影にはカカシの先生でもある波風ミナトが就任する。その頃カカシは神無毘橋の戦いでオビトを失い、リンを自らの手で殺めてしまったことにより失意のどん底にいた。悪夢にうなされ任務に集中できない日々が続き、カカシの心は次第に弱っていく。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s17_p569/thumb001.png" />
+	<programme channel="bleach" start="20260726103000 +0000" stop="20260726153000 +0000">
+		<title>BLEACH 死神代行編 #11〜20</title>
+		<desc>一護の仲間たちともすっかりとけこんでいるルキア。なんのかんのありながらも毎日死神の仕事を遂行する一護。今日も指令にしたがってホロウ退治に出かける２人だったが、指示のあった場所にはホロウの姿はなかった。その場にいた霊の話から確かにホロウが現れたということは確認できたのだが…。仕方なく残っていた霊の魂葬をする一護たち。その２人を物陰からじっと見つめる影があった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p11/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260719090000 +0000" stop="20260719150000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 カカシ暗部編 #569〜581</title>
-		<desc>戦争が終結した木ノ葉隠れの里では三代目火影から引退したヒルゼンとダンゾウとの間で、次の火影候補を巡って意見が割れていた。ダンゾウは大蛇丸を推薦し権力掌握を狙うが、ヒルゼンの強い要望により四代目火影にはカカシの先生でもある波風ミナトが就任する。その頃カカシは神無毘橋の戦いでオビトを失い、リンを自らの手で殺めてしまったことにより失意のどん底にいた。悪夢にうなされ任務に集中できない日々が続き、カカシの心は次第に弱っていく。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s17_p569/thumb001.png" />
+	<programme channel="bleach" start="20260726153000 +0000" stop="20260726233000 +0000">
+		<title>BLEACH 尸魂界篇 #21〜37</title>
+		<desc>『穿界門（せんかいもん）』に突入した一護、石田、織姫、チャド、夜一。現世と尸魂界をつなぐ通路に生息する『拘突（こうとつ）』に飲みこまれそうになりながらもなんとか尸魂界に到着する。一行が最初に足を踏み入れたのは、『流魂街（るこんがい）』と呼ばれるこの世界に導かれた魂が最初に住まう場所。人影のない流魂街の向こう、死神が住む『瀞霊廷（せいれいてい）』目指して走る一護。その時、空から巨大な壁が降ってきて一護の行く手をふさぐ。さらに、門を守る死神が姿を現す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p21/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260719150000 +0000" stop="20260719230000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 忍界大戦編(5) #582〜597</title>
-		<desc>「こんな世界はどうでもいい」と言うオビトと、それに対して怒りをあらわにするナルト。それぞれの想いを胸に、戦場で激しく両者がぶつかり合う！オビトを止めるためカカシは自分の想いを伝えようとするのだが、その言葉は届くこと無くオビトはカカシにトドメを刺そうとする。“もうだめだ”とカカシが思ったその瞬間――ナルトがその攻撃を受け止める！そして「オレの仲間は絶対殺させやしねェ!!!」と、かつてカカシから伝えられた言葉をナルトが叫ぶ!!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s18_p582/thumb001.png" />
+	<programme channel="bleach" start="20260726233000 +0000" stop="20260727073000 +0000">
+		<title>BLEACH 尸魂界篇 #21〜37</title>
+		<desc>『穿界門（せんかいもん）』に突入した一護、石田、織姫、チャド、夜一。現世と尸魂界をつなぐ通路に生息する『拘突（こうとつ）』に飲みこまれそうになりながらもなんとか尸魂界に到着する。一行が最初に足を踏み入れたのは、『流魂街（るこんがい）』と呼ばれるこの世界に導かれた魂が最初に住まう場所。人影のない流魂街の向こう、死神が住む『瀞霊廷（せいれいてい）』目指して走る一護。その時、空から巨大な壁が降ってきて一護の行く手をふさぐ。さらに、門を守る死神が姿を現す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p21/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260719230000 +0000" stop="20260720070000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 忍界大戦編(5) #582〜597</title>
-		<desc>「こんな世界はどうでもいい」と言うオビトと、それに対して怒りをあらわにするナルト。それぞれの想いを胸に、戦場で激しく両者がぶつかり合う！オビトを止めるためカカシは自分の想いを伝えようとするのだが、その言葉は届くこと無くオビトはカカシにトドメを刺そうとする。“もうだめだ”とカカシが思ったその瞬間――ナルトがその攻撃を受け止める！そして「オレの仲間は絶対殺させやしねェ!!!」と、かつてカカシから伝えられた言葉をナルトが叫ぶ!!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s18_p582/thumb001.png" />
+	<programme channel="bleach" start="20260727073000 +0000" stop="20260727153000 +0000">
+		<title>BLEACH 尸魂界篇 #21〜37</title>
+		<desc>『穿界門（せんかいもん）』に突入した一護、石田、織姫、チャド、夜一。現世と尸魂界をつなぐ通路に生息する『拘突（こうとつ）』に飲みこまれそうになりながらもなんとか尸魂界に到着する。一行が最初に足を踏み入れたのは、『流魂街（るこんがい）』と呼ばれるこの世界に導かれた魂が最初に住まう場所。人影のない流魂街の向こう、死神が住む『瀞霊廷（せいれいてい）』目指して走る一護。その時、空から巨大な壁が降ってきて一護の行く手をふさぐ。さらに、門を守る死神が姿を現す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p21/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260720070000 +0000" stop="20260720150000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 忍界大戦編(6) #598〜613</title>
-		<desc>ミナトにとどめを刺されたかのように思えたオビトであったが、十尾の巨体が全てオビトに吸収されていく。瀕死の重傷を負っていたはずのオビトは異様な姿へと変貌し、十尾の人柱力となって復活を遂げるのだった。尾獣を全て取り込んだその力は絶大で強力な結界も破り、歴代火影たちの攻撃ですらもことごとく無に帰す。死なない体を利用して人柱力となったオビトの能力の分析を試みる火影たちだが果たして、ナルトとサスケは戦う術を見出す事が出来るのか!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s19_p598/thumb001.png" />
+	<programme channel="bleach" start="20260727153000 +0000" stop="20260727233000 +0000">
+		<title>BLEACH 尸魂界篇 #38〜54</title>
+		<desc>十一番隊隊長・更木剣八（ざらき　けんぱち）の前に為す術の無い一護。斬魄刀の攻撃は確かに当たっているはずなのに、剣八の体はまったく斬れていない。あせる一護。その時、一護はチャドの霊圧が消えたことに気付く。愕然とする一護。一方倒れたチャドの前に立つ八番隊隊長の京楽春水と副隊長の伊勢七緒（いせ　ななお）の下には『藍染死す』の報がもたらされていた。『面倒なことになってきたねえ』と空を見上げる春水。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p38/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260720150000 +0000" stop="20260720230000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 忍界大戦編(6) #598〜613</title>
-		<desc>ミナトにとどめを刺されたかのように思えたオビトであったが、十尾の巨体が全てオビトに吸収されていく。瀕死の重傷を負っていたはずのオビトは異様な姿へと変貌し、十尾の人柱力となって復活を遂げるのだった。尾獣を全て取り込んだその力は絶大で強力な結界も破り、歴代火影たちの攻撃ですらもことごとく無に帰す。死なない体を利用して人柱力となったオビトの能力の分析を試みる火影たちだが果たして、ナルトとサスケは戦う術を見出す事が出来るのか!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s19_p598/thumb001.png" />
+	<programme channel="bleach" start="20260727233000 +0000" stop="20260728073000 +0000">
+		<title>BLEACH 尸魂界篇 #38〜54</title>
+		<desc>十一番隊隊長・更木剣八（ざらき　けんぱち）の前に為す術の無い一護。斬魄刀の攻撃は確かに当たっているはずなのに、剣八の体はまったく斬れていない。あせる一護。その時、一護はチャドの霊圧が消えたことに気付く。愕然とする一護。一方倒れたチャドの前に立つ八番隊隊長の京楽春水と副隊長の伊勢七緒（いせ　ななお）の下には『藍染死す』の報がもたらされていた。『面倒なことになってきたねえ』と空を見上げる春水。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p38/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260720230000 +0000" stop="20260721090000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 ナルトの背中～仲間の軌跡～ #614〜633</title>
-		<desc>ナルトに死の危機が迫り、木ノ葉の仲間たちや綱手が不安に駆られその身を案じる中、ナルトはいつでも里の希望だった事を思い出し、時は遡っていく――。それはナルトと自来也が修業の旅に出て長い月日が経った頃。木ノ葉の里では久々に砂隠れとの合同で中忍試験が行われようとしていた。しかし、人柱力を狙って“暁（あかつき）”が暗躍し、さらには我愛羅の命を狙う怪しい影が背後でうごめいているにも関わらず試験を「風影就任の初仕事として砂隠れで開きたい」と我愛羅は申し出る。各里の思惑や野望が渦巻く中、新たな中忍試験が幕を開く！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s20_p614/thumb001.png" />
+	<programme channel="bleach" start="20260728073000 +0000" stop="20260728153000 +0000">
+		<title>BLEACH 尸魂界篇 #38〜54</title>
+		<desc>十一番隊隊長・更木剣八（ざらき　けんぱち）の前に為す術の無い一護。斬魄刀の攻撃は確かに当たっているはずなのに、剣八の体はまったく斬れていない。あせる一護。その時、一護はチャドの霊圧が消えたことに気付く。愕然とする一護。一方倒れたチャドの前に立つ八番隊隊長の京楽春水と副隊長の伊勢七緒（いせ　ななお）の下には『藍染死す』の報がもたらされていた。『面倒なことになってきたねえ』と空を見上げる春水。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p38/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260721090000 +0000" stop="20260721190000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 ナルトの背中～仲間の軌跡～ #614〜633</title>
-		<desc>ナルトに死の危機が迫り、木ノ葉の仲間たちや綱手が不安に駆られその身を案じる中、ナルトはいつでも里の希望だった事を思い出し、時は遡っていく――。それはナルトと自来也が修業の旅に出て長い月日が経った頃。木ノ葉の里では久々に砂隠れとの合同で中忍試験が行われようとしていた。しかし、人柱力を狙って“暁（あかつき）”が暗躍し、さらには我愛羅の命を狙う怪しい影が背後でうごめいているにも関わらず試験を「風影就任の初仕事として砂隠れで開きたい」と我愛羅は申し出る。各里の思惑や野望が渦巻く中、新たな中忍試験が幕を開く！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s20_p614/thumb001.png" />
+	<programme channel="bleach" start="20260728153000 +0000" stop="20260728233000 +0000">
+		<title>BLEACH 尸魂界篇 #55〜71</title>
+		<desc>再び刃を交える一護と白哉。一護は、なぜ自分の妹を処刑しようとするのかを白哉に問う。しかし心の内を答えようとしない白哉。一方、護廷十三隊を裏切った形になった浮竹と春水は、一番隊隊長・山本元柳斎重國と対峙していた。炎熱系最強の斬魂刀である「流刀若火（りゅうじんじゃっか）」を抜いて二人に迫る元柳斎。さらに、一護に加勢するために双殛の丘に駆けつけた夜一が、二番隊隊長の砕蜂（ソイフォン）に攻撃をしかける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p55/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260721190000 +0000" stop="20260722040000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 忍界大戦編(7) #634-651</title>
-		<desc>舞台は戻って第四次忍界大戦。尾獣を抜かれ、今にも死んでしまいそうなナルトを必死に医療忍術で助けようとするサクラだが、ついにナルトの心臓が止まってしまう。一方、マダラに刀で胸を貫かれたサスケのチャクラも消えてしまった。それを感知した香燐（カリン）たちはサスケの元へ向かおうとするのだが、木遁を使うトビに阻まれる。そして全ての尾獣を手に入れたマダラは強大な力を持つ十尾の人柱力となり、もう片方の輪廻眼を取り返すため、オビトの元へ向かうのだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s21_p634/thumb001.png" />
+	<programme channel="bleach" start="20260728233000 +0000" stop="20260729073000 +0000">
+		<title>BLEACH 尸魂界篇 #55〜71</title>
+		<desc>再び刃を交える一護と白哉。一護は、なぜ自分の妹を処刑しようとするのかを白哉に問う。しかし心の内を答えようとしない白哉。一方、護廷十三隊を裏切った形になった浮竹と春水は、一番隊隊長・山本元柳斎重國と対峙していた。炎熱系最強の斬魂刀である「流刀若火（りゅうじんじゃっか）」を抜いて二人に迫る元柳斎。さらに、一護に加勢するために双殛の丘に駆けつけた夜一が、二番隊隊長の砕蜂（ソイフォン）に攻撃をしかける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p55/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260722040000 +0000" stop="20260722130000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 忍界大戦編(7) #634-651</title>
-		<desc>舞台は戻って第四次忍界大戦。尾獣を抜かれ、今にも死んでしまいそうなナルトを必死に医療忍術で助けようとするサクラだが、ついにナルトの心臓が止まってしまう。一方、マダラに刀で胸を貫かれたサスケのチャクラも消えてしまった。それを感知した香燐（カリン）たちはサスケの元へ向かおうとするのだが、木遁を使うトビに阻まれる。そして全ての尾獣を手に入れたマダラは強大な力を持つ十尾の人柱力となり、もう片方の輪廻眼を取り返すため、オビトの元へ向かうのだった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s21_p634/thumb001.png" />
+	<programme channel="bleach" start="20260729073000 +0000" stop="20260729153000 +0000">
+		<title>BLEACH 尸魂界篇 #55〜71</title>
+		<desc>再び刃を交える一護と白哉。一護は、なぜ自分の妹を処刑しようとするのかを白哉に問う。しかし心の内を答えようとしない白哉。一方、護廷十三隊を裏切った形になった浮竹と春水は、一番隊隊長・山本元柳斎重國と対峙していた。炎熱系最強の斬魂刀である「流刀若火（りゅうじんじゃっか）」を抜いて二人に迫る元柳斎。さらに、一護に加勢するために双殛の丘に駆けつけた夜一が、二番隊隊長の砕蜂（ソイフォン）に攻撃をしかける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p55/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260722130000 +0000" stop="20260722223000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 自来也忍法帳～ナルト豪傑物語～ #652〜670</title>
-		<desc>無限月読はスサノオで守られているナルトたち第七班以外の忍たち全員を夢の世界へと誘う。　火影である綱手もその術には抗えず夢の世界へと落ちて行く――。　気が付くとそこは木ノ葉隠れの里で目の前のテーブルの上には誰かが書いた原稿が置いてある。表紙には『自来也忍法帳』と書いてあり、それは自来也が書き残していた最後の原稿で綱手はページをめくりその小説を読み始める。するとそれはナルトが主人公の、忍の未来を描いた小説だった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s22_p652/thumb001.png" />
+	<programme channel="bleach" start="20260729153000 +0000" stop="20260729233000 +0000">
+		<title>BLEACH 尸魂界篇 #72〜88</title>
+		<desc>バウントの攻撃で負傷した石田は、空座総合病院に入院することになった。敵の狙いがクインシーであることを知った一護達は、石田を守るために病院に留まる。何事もなく時間が過ぎていくかと思われたその時、石田の病室の水道から勢い良く水が流れ出す。水のドール・ギュンターとグールを操る双子のバウント・鵬（ほう）と磐（ばん）が襲ってきたのだ。ギュンターとグールの攻撃から必死に逃げる一護達。しかし、2人の猛攻に次第に追い詰められていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p72/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260722223000 +0000" stop="20260723080000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 自来也忍法帳～ナルト豪傑物語～ #652〜670</title>
-		<desc>無限月読はスサノオで守られているナルトたち第七班以外の忍たち全員を夢の世界へと誘う。　火影である綱手もその術には抗えず夢の世界へと落ちて行く――。　気が付くとそこは木ノ葉隠れの里で目の前のテーブルの上には誰かが書いた原稿が置いてある。表紙には『自来也忍法帳』と書いてあり、それは自来也が書き残していた最後の原稿で綱手はページをめくりその小説を読み始める。するとそれはナルトが主人公の、忍の未来を描いた小説だった。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s22_p652/thumb001.png" />
+	<programme channel="bleach" start="20260729233000 +0000" stop="20260730073000 +0000">
+		<title>BLEACH 尸魂界篇 #72〜88</title>
+		<desc>バウントの攻撃で負傷した石田は、空座総合病院に入院することになった。敵の狙いがクインシーであることを知った一護達は、石田を守るために病院に留まる。何事もなく時間が過ぎていくかと思われたその時、石田の病室の水道から勢い良く水が流れ出す。水のドール・ギュンターとグールを操る双子のバウント・鵬（ほう）と磐（ばん）が襲ってきたのだ。ギュンターとグールの攻撃から必死に逃げる一護達。しかし、2人の猛攻に次第に追い詰められていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p72/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260723080000 +0000" stop="20260723120000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 イタチ真伝篇～光と闇～ #671〜678</title>
-		<desc>マダラの無限月読で忍たちは幸せな夢を見続ける。ヒナタやシカマル、サイや我愛羅たちは目覚める事なく時が過ぎて行く――。
-一方、ナルト達はサスケの輪廻眼で作られた須佐能乎の中で無限月読から逃れていた。しかし、月の光が差す間は須佐能乎の外に出る事ができない。そんな中、サスケは穢土転生体のイタチが昇天した時の事を思い出す。するとサスケの写輪眼が共鳴し始め、イタチの語られる事なかった真実の物語が動き始める。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s23_p671/thumb001.png" />
+	<programme channel="bleach" start="20260730073000 +0000" stop="20260730153000 +0000">
+		<title>BLEACH 尸魂界篇 #72〜88</title>
+		<desc>バウントの攻撃で負傷した石田は、空座総合病院に入院することになった。敵の狙いがクインシーであることを知った一護達は、石田を守るために病院に留まる。何事もなく時間が過ぎていくかと思われたその時、石田の病室の水道から勢い良く水が流れ出す。水のドール・ギュンターとグールを操る双子のバウント・鵬（ほう）と磐（ばん）が襲ってきたのだ。ギュンターとグールの攻撃から必死に逃げる一護達。しかし、2人の猛攻に次第に追い詰められていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p72/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260723120000 +0000" stop="20260723160000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 イタチ真伝篇～光と闇～ #671〜678</title>
-		<desc>マダラの無限月読で忍たちは幸せな夢を見続ける。ヒナタやシカマル、サイや我愛羅たちは目覚める事なく時が過ぎて行く――。
-一方、ナルト達はサスケの輪廻眼で作られた須佐能乎の中で無限月読から逃れていた。しかし、月の光が差す間は須佐能乎の外に出る事ができない。そんな中、サスケは穢土転生体のイタチが昇天した時の事を思い出す。するとサスケの写輪眼が共鳴し始め、イタチの語られる事なかった真実の物語が動き始める。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s23_p671/thumb001.png" />
+	<programme channel="bleach" start="20260730153000 +0000" stop="20260731013000 +0000">
+		<title>BLEACH 尸魂界篇 #89〜109</title>
+		<desc>バウント達の隠れている洞窟に乗り込む一護、恋次、ルキア、チャド、織姫と改造魂魄のぬいぐるみ達。警戒しながら進んでいると、突然目の前にドール・ゲゼルの目が現れる。ゲゼルの目を追って奥に入る一同。そのまま広い部屋に入ると、そこには信じられないぐらい大量のゲゼルの目が待ち受けていた。いきなり乱戦になる一護達。その頃、山奥でクインシーの力を取り戻すために修行していた石田の元に、十二番隊副隊長の涅ネムが姿を表す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p89/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260723160000 +0000" stop="20260724020000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 忍界大戦編 最終章 #679〜699</title>
-		<desc>突如マダラの体を貫く黒ゼツ。マダラから現れた大筒木カグヤ。ナルトとサスケに自分の力を分け与えた六道仙人・ハゴロモの母であるカグヤのその力は絶大で、瞬時にしてナルトたちを溶岩地帯へと瞬間移動させる。六道の力を持つナルトとサスケしかカグヤを封印することはできないのだが、カグヤの強力な力の前に成す術なく、二人は黒ゼツに捕まってしまう。そして黒ゼツはカグヤの真実とこの世界の成り立ちを語り始める。果たして黒ゼツの正体とは!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s24_p679/thumb001.png" />
+	<programme channel="bleach" start="20260731013000 +0000" stop="20260731113000 +0000">
+		<title>BLEACH 尸魂界篇 #89〜109</title>
+		<desc>バウント達の隠れている洞窟に乗り込む一護、恋次、ルキア、チャド、織姫と改造魂魄のぬいぐるみ達。警戒しながら進んでいると、突然目の前にドール・ゲゼルの目が現れる。ゲゼルの目を追って奥に入る一同。そのまま広い部屋に入ると、そこには信じられないぐらい大量のゲゼルの目が待ち受けていた。いきなり乱戦になる一護達。その頃、山奥でクインシーの力を取り戻すために修行していた石田の元に、十二番隊副隊長の涅ネムが姿を表す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p89/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260724020000 +0000" stop="20260724120000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 忍界大戦編 最終章 #679〜699</title>
-		<desc>突如マダラの体を貫く黒ゼツ。マダラから現れた大筒木カグヤ。ナルトとサスケに自分の力を分け与えた六道仙人・ハゴロモの母であるカグヤのその力は絶大で、瞬時にしてナルトたちを溶岩地帯へと瞬間移動させる。六道の力を持つナルトとサスケしかカグヤを封印することはできないのだが、カグヤの強力な力の前に成す術なく、二人は黒ゼツに捕まってしまう。そして黒ゼツはカグヤの真実とこの世界の成り立ちを語り始める。果たして黒ゼツの正体とは!?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s24_p679/thumb001.png" />
+	<programme channel="bleach" start="20260731113000 +0000" stop="20260731173000 +0000">
+		<title>BLEACH 尸魂界篇 #89〜100</title>
+		<desc>バウント達の隠れている洞窟に乗り込む一護、恋次、ルキア、チャド、織姫と改造魂魄のぬいぐるみ達。警戒しながら進んでいると、突然目の前にドール・ゲゼルの目が現れる。ゲゼルの目を追って奥に入る一同。そのまま広い部屋に入ると、そこには信じられないぐらい大量のゲゼルの目が待ち受けていた。いきなり乱戦になる一護達。その頃、山奥でクインシーの力を取り戻すために修行していた石田の元に、十二番隊副隊長の涅ネムが姿を表す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p89/thumb001.png" />
 	</programme>
-	<programme channel="naruto" start="20260724120000 +0000" stop="20260724220000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 外伝編 #700〜720</title>
-		<desc>かつて木ノ葉隠れの里を襲った九尾が体に封印されているナルトは、里の者たちから忌み嫌われていた。そのため一人ぼっちのナルトはよく森の中で修業に励んでいたが、とある人物が現れ…？
-／ヒナタは日向一族宗家の娘として、三歳の誕生日の祝いの日を迎える。その祝いの場でヒナタは初めて従兄のネジと出会う。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s25_p700/thumb001.png" />
+	<programme channel="bleach" start="20260731173000 +0000" stop="20260731180000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/bleach/logo.png" />
 	</programme>
-	<programme channel="naruto" start="20260724220000 +0000" stop="20260725080000 +0000">
-		<title>NARUTO-ナルト- 疾風伝 外伝編 #700〜720</title>
-		<desc>かつて木ノ葉隠れの里を襲った九尾が体に封印されているナルトは、里の者たちから忌み嫌われていた。そのため一人ぼっちのナルトはよく森の中で修業に励んでいたが、とある人物が現れ…？
-／ヒナタは日向一族宗家の娘として、三歳の誕生日の祝いの日を迎える。その祝いの場でヒナタは初めて従兄のネジと出会う。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-13_s25_p700/thumb001.png" />
+	<programme channel="bleach" start="20260731180000 +0000" stop="20260731223000 +0000">
+		<title>BLEACH 尸魂界篇 #101〜109</title>
+		<desc>瀞霊廷に侵入した沢渡の前に姿を現したのは、十二番隊隊長の涅マユリだった。沢渡に実験材料にならないかと提案するマユリ。マユリの申し出を拒否した沢渡は、バウラを召還してマユリに対する攻撃を開始する。マユリも斬魂刀を解放して迎え撃つが、尸魂界にきて力が増しているバウラの攻撃をまともにくらってしまい、大きなダメージを受けてしまう。激突の最中、マユリはバウラの攻撃にある法則があることに気付く。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p101/thumb001.png" />
+	</programme>
+	<programme channel="bleach" start="20260731223000 +0000" stop="20260801063000 +0000">
+		<title>BLEACH 破面・出現篇 #110〜126</title>
+		<desc>バウントたちを倒して現世に戻ってきて数週間、一護は死神代行としてホロウ退治をしながら通常の学生生活をおくっていた。そんな一護のクラスに、転校生「平子真子（ひらこ　しんじ）」が現れる。平子は、一護に対して妙に馴れ馴れしい態度で接してくる。その晩、いつものようにホロウを退治していた一護の前に、斬魂刀を構えた平子が現れていきなり斬りかかってくる。「あまり騒ぎなや、黒崎一護」と不適に笑う平子。その時、空座町に複数の巨大な悪意が近付いていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p110/thumb001.png" />
+	</programme>
+	<programme channel="bleach" start="20260801063000 +0000" stop="20260801140000 +0000">
+		<title>BLEACH 破面・出現篇 #110〜124</title>
+		<desc>バウントたちを倒して現世に戻ってきて数週間、一護は死神代行としてホロウ退治をしながら通常の学生生活をおくっていた。そんな一護のクラスに、転校生「平子真子（ひらこ　しんじ）」が現れる。平子は、一護に対して妙に馴れ馴れしい態度で接してくる。その晩、いつものようにホロウを退治していた一護の前に、斬魂刀を構えた平子が現れていきなり斬りかかってくる。「あまり騒ぎなや、黒崎一護」と不適に笑う平子。その時、空座町に複数の巨大な悪意が近付いていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p110/thumb001.png" />
+	</programme>
+	<programme channel="bleach" start="20260801140000 +0000" stop="20260801143000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/bleach/logo.png" />
+	</programme>
+	<programme channel="bleach" start="20260801143000 +0000" stop="20260801153000 +0000">
+		<title>BLEACH 破面・出現篇 #125〜126</title>
+		<desc>自らの内なる世界で白い斬月を持つもう一人の一護の猛攻を受けつづける一護。追い込まれた一護の前に、白哉、そして狩矢に続いて、今度は剣八が姿を現す。戦う為の本能について語る剣八。己の戦いを求める本能を開放して戦う為の決意を迫る剣八。そしてついに一護は覚醒の時を迎える。その頃、織姫の部屋に住み着いていた日番谷と乱菊が、大型のモニターを織姫の部屋に運び込んでいた。それは、ソウル・ソサエティとの通信を行うための機械だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/15-22_s1_p125/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime" start="20260717130000 +0000" stop="20260717190000 +0000">
 		<title>陰の実力者になりたくて！2nd season #1〜12【無料ビデオ2週間】</title>
@@ -10796,12 +10820,9 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-55_s0_p15/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260725121700 +0000" stop="20260725122000 +0000">
-		<title>ダイキン空気予報 7/25</title>
-		<desc>人々の生活をよりよくする空気をお届けしたい。
-そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
-
-【提供】ダイキン工業</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s100_p1/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260725122000 +0000" stop="20260725135500 +0000">
 		<title>クレヨンしんちゃん #1179〜1187【無料ビデオ1週間】</title>
@@ -15667,11 +15688,16 @@ ME:Iのこれから。の為の学校へのチャレンジが提案される。
 メンバーからの赤裸々な悩みに答える吉田さんの白熱授業が開校します。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/818-1_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260725113400 +0000" stop="20260725120000 +0000">
+	<programme channel="abema-special" start="20260725113400 +0000" stop="20260725115700 +0000">
 		<title>加護亜依「１４才の母」激動人生</title>
 		<desc>14 才で出産を経験し、母となった「14 才の母」の今を調査
 中学生で妊娠、出産に至った当時の様子を加護亜依がリポート</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s6_p3001/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260725115700 +0000" stop="20260725120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20260725120000 +0000" stop="20260725130000 +0000">
 		<title>CELEB SECRET #6：セレブの休日</title>
@@ -15902,9 +15928,25 @@ chilldspot「Ladyy」
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1833_s6_p2001/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260726140000 +0000" stop="20260726150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>チャンスの時間 #371~きしたかの・高野父になる!父親の経験人数を徹底調査!</title>
+		<desc>【酒と涙とオヤジとオンナ】
+
+『チャンスの時間』初登場から約7年。
+きしたかの・高野に待望の第一子が誕生――。
+人生の大きな門出を迎える高野のため、『チャンスの時間』が3ヶ月にわたる禁断の特別調査を敢行！
+
+番組のためにすべてをさらけ出してきた高野が今回調査するのは、「父親の経験人数」。
+果たして、父の経験人数は自分より多いのか、それとも少ないのか!?
+
+愛する家族のために懸命に生きてきた父。
+その知られざる恋愛遍歴を徹底取材し、一人の男の人生を浮き彫りにしていく。
+ノブ「ファミリーヒストリーやん！」
+
+果たして、高野は何を知り、何を思うのか。
+そして、高野が流した涙の意味とは――。
+
+千鳥MC「チャンスの時間」！ 身近にある、言われてみれば気になるクセ強めの疑問を取り上げたり、気になる若手芸人が対決したり、今後活躍するであろうニュースターを発掘していく番組！千鳥もこの番組に出る人も、またこの番組を観る人もチャンスをつかむための時間！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-979_s1_p371/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260726150000 +0000" stop="20260726160500 +0000">
 		<title>＃２：加護亜依「１４才の母」激動人生＆セクシー女優の恋人探し</title>
@@ -18758,6 +18800,848 @@ https://www.youtube.com/@Wrestling_ABEMA/videos
 大迫力の試合をテレビの大画面で楽しもう！
 https://contents-abema.com/tv-howto-basic/</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10009_p148/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260725091500 +0000" stop="20260725140000 +0000">
+		<title>KM CHART AWARDS 2026</title>
+		<desc>TOMORROW X TOGETHER・ALPHA DRIVE ONE・ZEROBASEONE・Hearts2Hearts・ALLDAY PROJECT・CORTISなどの、豪華K-POPアーティストが出演する『KM CHART AWARDS』が韓国・ソウルにて開催！
+『KM CHART AWARDS』とは、歌謡界を輝かせたアーティストたちと、彼らを応援したファンに捧げる音楽祭典であり授賞式です。
+各部門にノミネートされているアーティストは、現在のK-POPシーンを牽引するトップアーティストから注目の新人まで、錚々たる顔ぶれがノミネートされている。
+果たして各部門で授賞をするアーティストは、どのアーティストなのか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/176-44_s30000_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260725140000 +0000" stop="20260726190000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260726190000 +0000" stop="20260726230000 +0000">
+		<title>時計じかけのマリッジ #1~4 前半一挙</title>
+		<desc>▼みどころ
+30日間で結婚相手を見つけなければならない
+結婚式までのカウントダウンが始まる！
+
+婚活ビギナー3人が
+最高年収1億の"ハイスペ男性"総勢30人との
+期限付き婚活プログラムに挑む
+
+出会ったその日に同棲開始！？
+「一度別れたら二度と会えない」という残酷ルールの中
+毎日「婚約破棄」か「継続」の決断を迫られる…
+
+
+プログラムに参加するのは、恋愛には自信があるものの婚活は素人な、経営者のあやか（中野綾香）・現役アナウンサーのゆか（西澤由夏）・モデルのなつえ（徳本夏恵）の3人。
+そして結婚相手候補として集結した30人の中には、年収1億円の経営者や東大卒エリート、グローバル起業家など、個性豊かなメンバーが！
+
+婚活の舞台となるのは、都会の絶景を望むペントハウス。
+成婚率80％の敏腕婚活アドバイザーの植草美幸氏のサポートのもと、
+婚活にフルコミットな30日間で、3人の運命はどうなってしまうのか！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2058_s1_p1010/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260726230000 +0000" stop="20260727000000 +0000">
+		<title>#7 「よかった？」上書きのキス シャッフルアイランド Season6【神回】</title>
+		<desc>▼見どころ
+道連れシャッフルで迎えた7日目。
+昨晩のだいすけとみれいのキスの話を
+聞いたももは、思い出を上書きする大胆なキス！
+しんたろうのある行動で、らるむの怒りが爆発・・・
+サプライズ尽くし、しんの想いはまいかに届くのか？
+明日の告白を前に、結末が予想できない恋模様
+そして運命を決めるラストシャッフルは・・・
+
+▼概要
+「あのコが欲しい♡」
+一番HOTな美男美女たちが幸せの楽園、南太平洋フィジーに集結！
+ピンクとブルー、２つの島で毎日メンバーを"シャッフル"しながら
+運命の恋を探す７泊８日のラブバカンス。
+予測不能な出会いと別れ、すれ違い、再会。そして密会。
+"本能"のまま大胆で激しい真夏の恋が、夜を燃え尽くすー
+◆オープニングテーマ：WANIMA「曖昧」
+◆エンディングテーマ：礼賛「曖昧なBEACH』</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1887_s60_p7/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260727000000 +0000" stop="20260727030000 +0000">
+		<title>今日好き2025 ニュージーランド編 #1~3【2025年シーズン全話放送】</title>
+		<desc>新学期、恋の修学旅行がスタート！
+前回の旅で同じだったひなたとせり。
+「泣きそう」
+せりがその言葉を伝えた理由はいったい？
+そしてみづきもせりのことを気になっていて.....
+
+この春から高1になった、もかととうい。
+高校最初の恋は、どんな恋になる？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s700_p1001/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260727030000 +0000" stop="20260727040000 +0000">
+		<title>ガールオアレディ 3 #6</title>
+		<desc>▼見どころ
+20代ガール４人、30代レディ４人、そして8人の男性。全員で暮らす共同生活。
+「また選んでくれなかった」レイを想う気持ちに迷うオダミユ。
+「自分から一度も誘わなかった」キョウヘイからの気持ちが冷めていくことに気づくマホ。
+そして突然、カナコの目に涙が溢れる。
+
+▼概要
+“35歳は婚活市場の売れ残り…？”
+女の年齢と結婚のリアル
+20代“Girl”と30代“Lady”が真剣勝負の婚活
+「付き合うと結婚の違いって？」
+「顔・年収・性格…結婚で一番大事な条件は？」
+建前ナシ、本音でぶつかる12日間。
+選び、選ばれ運命の相手と結ばれるのは？
+
+
+◆主題歌
+OKAMOTO'S「That's All I Wish」
+
+◆テーマソング
+Gyubin「You Light Up My Life」
+chilldspot「Ladyy」
+
+提供：株式会社ホットスタッフ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s3_p6/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260727040000 +0000" stop="20260727071000 +0000">
+		<title>ガールオアレディ 2 #1~3【2025-26人気恋リア毎日一挙】</title>
+		<desc>▼見どころ
+運命の相手を求めて集まった8名の20代"ガール"と30代"レディ"。
+初日は"顔"と"中身"で結婚相手候補の男性を選ぶセレクションを実施！？
+
+▼概要
+結婚は"憧れ"？ それとも"現実"？
+20代"ガール"と30代"レディ"が
+運命の相手を求め、選択を繰り返す14日間！
+顔・年収・性格…結婚に求める条件は？
+選ぶべきは、ときめく相手か？信じられる相手か？
+
+建前一切なし、自分自身と向き合い結婚と向き合う、
+本音ダダ漏れ婚活リアリティーショー！
+
+◆主題歌
+iri「CUBE」
+◆挿入歌
+Awesome City Club『スロウ・サマー』
+I Don't Like Mondays.『With you』
+
+提供：seven x seven 糸島</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260727071000 +0000" stop="20260727080000 +0000">
+		<title>#5 恋のきっかけは突然に シャッフルアイランド Season3【神回】</title>
+		<desc>▼見どころ
+連れていきたい人と一緒に移動できる「道連れシャッフル」によってそれぞれ２名ずつが移動。
+再会、すれ違い、会えないからこそ芽生える恋心。そんな中、衝撃のシャッフルタイムが訪れる‥
+
+▼概要　
+夏が恋しい水着の男女がホットな冬を求めて南国”パラオ”へ！
+２つの島で繰り広げられる7泊8日のラブバカンス！
+１日１回、指名されたメンバーが入れ替わる。
+出会い、別れ、すれ違い、そして運命の再会。
+この冬、寒さを吹き飛ばすアツくて大胆なオトナの恋。
+
+◆テーマソング：WANIMA「曖昧」「Focus on me」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1748_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260727080000 +0000" stop="20260727110000 +0000">
+		<title>今日好き2025 ハロン編 #1~3【恋（５）する放課後タイム】</title>
+		<desc>新シーズンの舞台は、ベトナム・ハロン！
+メンバー10人の恋が始まる。
+
+「神をバックに恋をしにきました！」
+マクタン編で、2日目の朝にはるとから振られてしまったひな。
+旅に継続すると、ひなに会いたかった男子がいて.....</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s720_p1001/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260727110000 +0000" stop="20260727120000 +0000">
+		<title>#3「妬いてんの？」大人な恋の駆け引きシャッフルアイランド7</title>
+		<desc>▼見どころ
+3日目。男女それぞれ2人ずつが道連れシャッフル
+引き裂かれる2人。そして再会。
+新たに生まれた、えまを巡る三角関係！
+さらに、はるなは前日の不審行動を、ゆうまに問いただす。
+番組ラスト、夏の光に誘われる新たなシャッフルで衝撃の展開へ！
+
+▼概要
+「あのコが欲しい♡」
+一番HOTな美男美女たちが南国リゾート・サムイ島に集結！
+ピンクとブルー、２つの島で毎日メンバーを"シャッフル"しながら
+運命の恋を探す７泊８日のラブバカンス。
+予測不能な出会いと別れ、すれ違い、再会。
+夏の光に導かれ、大胆に燃え上がる熱く儚い「本能の恋愛バトル」
+
+◆オープニングテーマ：WANIMA「曖昧」
+◆エンディングテーマ：礼賛「高ぶるブルー」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1887_s70_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260727120000 +0000" stop="20260727152800 +0000">
+		<title>恋とオオカミには騙されない #1~4【キュン（９）するゴールデンタイム】</title>
+		<desc>真実の恋を叶えようと奮闘する男女10人。しかし、メンバーの中には恋をしない“嘘つき“オオカミが1人以上潜んでいる。好きな人に騙されているかもしれない…それでも、恋をする。提供：Indeed</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1478_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260727152800 +0000" stop="20260727190400 +0000">
+		<title>シャッフルアイランド Season7 #1~3</title>
+		<desc>▼見どころ
+水着を着た14人の男女が、それぞれ別の島に集まり、初めてのシャッフルタイム。
+シルエット写真とプロフィールを元に選ばれた1人が島を移動！
+ハーレム＆逆ハーレムで真夏の恋が加速。
+２ショットデートに割り込み連発、恋の火花がバチバチ！
+そして迎えた1日目の夜、予想だにしない衝撃の結末が待っていた
+
+▼概要
+「あのコが欲しい♡」
+一番HOTな美男美女たちが南国リゾート・サムイ島に集結！
+ピンクとブルー、２つの島で毎日メンバーを""シャッフル""しながら
+運命の恋を探す７泊８日のラブバカンス。
+予測不能な出会いと別れ、すれ違い、再会。
+夏の光に導かれ、大胆に燃え上がる熱く儚い「本能の恋愛バトル」
+
+◆オープニングテーマ：WANIMA「曖昧」
+◆エンディングテーマ：礼賛「高ぶるブルー」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1887_s70_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260727190400 +0000" stop="20260727225900 +0000">
+		<title>時計じかけのマリッジ #5~8 後半一挙</title>
+		<desc>▼みどころ
+
+結婚への覚悟、たったの2％！？ 
+「夢追い男性との結婚」に立ちはだかる残酷な現実
+
+結婚式まで残り17日。
+ 新たな婚約者探しを始めた経営者のあやか（34）とアナウンサーのゆか（32）。
+
+ゆかは、仮面舞踏会で出会った夢を追う癒し系テレビ局員を指名し、デートへ向かう。
+順調に見えた2人だったが、デート後に彼から飛び出した発言で状況が一変！
+夢追い男性との結婚という壁を前に、果たしてどんな決断を下すのか？
+
+一方、「ついに見つけちゃったかも、運命の人♡」と浮かれるあやか。
+プラチナリストから選んだ年上の高身長経営者に、絶対に譲れない“2つの条件”を突きつけるが、彼からは意外な反応が…。 
+波乱万丈な彼女の前に現れた彼は、本当に運命の相手なのか？
+
+年収1億円のエリート婚約者との関係を継続するモデルのなつえ（27）は、
+東大卒の彼と自分自身の「育ってきた環境の違い」に思い悩みながらも、ついに彼の実家を初訪問！
+ 順風満帆な2人の結婚の行方は？
+
+新たな男性たちも加わり、激しく動き出した時計の針。 
+刻一刻と近づく14日後のタイムリミットを前に、彼女たちが下す決断とは——。
+
+【提供】アサヒ飲料株式会社</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2058_s1_p1050/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260727225900 +0000" stop="20260728000000 +0000">
+		<title>ラブキャッチャージャパン DAY7【神回】</title>
+		<desc>▼概要
+真実の愛を求める「ラブキャッチャー」
+多額の賞金を狙う「マネーキャッチャー」
+それぞれの正体を隠した男女10名が恋の駆け引き。
+
+「あなたの正体は…？」
+
+信じる勇気と疑心がぶつかり、
+人間の本性があらわになる恋愛リアリティーショー
+
+相手の本心を見極め、
+最後に手にするのは…愛？それともお金？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s1_p70/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260728000000 +0000" stop="20260728020000 +0000">
+		<title>今日好き2025 ニュージーランド編 #4~5【2025年シーズン全話放送】</title>
+		<desc>2日目のグループ分け。
+とういと離れてしまったさわ。
+「寂しいなと思ってた、好きだから。」
+とういの今の気持ちは誰にある...？
+
+「一番最初に思い浮かぶのは...」
+1日目の夜、せりに振られてしまい涙したひなた。
+気持ちを切り替え迎えた2日目。
+ひなたが今一番気になるのは一体誰？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s700_p1004/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260728020000 +0000" stop="20260728031000 +0000">
+		<title>今日、好きになりました。 夏休み編2026 #1</title>
+		<desc>「人狼ゲームを行なってもらう」
+ある日突然、集められた14名の女子メンバーたち。
+
+今日好き男なる人物から告げられた、夏休み編の継続メンバーを探す人狼ゲーム。
+前代未聞の心理戦が始まる…！
+
+一方、男子は井上塾へ！
+悩み多き塾生たちは、次の旅へ向けて成長できるのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2056_s810_p1501/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260728031000 +0000" stop="20260728040000 +0000">
+		<title>恋とオオカミには騙されない #4 その時、恋を、そっと隠した。【神回】</title>
+		<desc>真実の恋を叶えようと奮闘する男女10人。しかし、メンバーの中には恋をしない“嘘つき“オオカミが1人以上潜んでいる。好きな人に騙されているかもしれない…それでも、恋をする。提供：Indeed</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1478_s1_p1004/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260728040000 +0000" stop="20260728064600 +0000">
+		<title>ガールオアレディ 2 #4~6【2025-26人気恋リア毎日一挙】</title>
+		<desc>▼見どころ
+運命の相手を求めて集まった8名の20代"ガール"と30代"レディ"。
+初日は"顔"と"中身"で結婚相手候補の男性を選ぶセレクションを実施！？
+
+▼概要
+結婚は"憧れ"？ それとも"現実"？
+20代"ガール"と30代"レディ"が
+運命の相手を求め、選択を繰り返す14日間！
+顔・年収・性格…結婚に求める条件は？
+選ぶべきは、ときめく相手か？信じられる相手か？
+
+建前一切なし、自分自身と向き合い結婚と向き合う、
+本音ダダ漏れ婚活リアリティーショー！
+
+◆主題歌
+iri「CUBE」
+◆挿入歌
+Awesome City Club『スロウ・サマー』
+I Don't Like Mondays.『With you』
+
+提供：seven x seven 糸島</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s2_p4/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260728064600 +0000" stop="20260728080000 +0000">
+		<title>#3「妬いてんの？」大人な恋の駆け引きシャッフルアイランド7</title>
+		<desc>▼見どころ
+3日目。男女それぞれ2人ずつが道連れシャッフル
+引き裂かれる2人。そして再会。
+新たに生まれた、えまを巡る三角関係！
+さらに、はるなは前日の不審行動を、ゆうまに問いただす。
+番組ラスト、夏の光に誘われる新たなシャッフルで衝撃の展開へ！
+
+▼概要
+「あのコが欲しい♡」
+一番HOTな美男美女たちが南国リゾート・サムイ島に集結！
+ピンクとブルー、２つの島で毎日メンバーを"シャッフル"しながら
+運命の恋を探す７泊８日のラブバカンス。
+予測不能な出会いと別れ、すれ違い、再会。
+夏の光に導かれ、大胆に燃え上がる熱く儚い「本能の恋愛バトル」
+
+◆オープニングテーマ：WANIMA「曖昧」
+◆エンディングテーマ：礼賛「高ぶるブルー」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1887_s70_p3/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260728080000 +0000" stop="20260728100000 +0000">
+		<title>今日好き2025 ハロン編 #4~5【恋（５）する放課後タイム】</title>
+		<desc>「一気に、気持ちが変わった」
+BBQで波乱が巻き起こる…！
+カオス！？パニック！？10人の恋はクライマックスへ。
+
+「結構好きです」
+告白前夜、ひなの想いは？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s720_p4/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260728100000 +0000" stop="20260728111000 +0000">
+		<title>今日、好きになりました。 夏休み編2026 #1</title>
+		<desc>「人狼ゲームを行なってもらう」
+ある日突然、集められた14名の女子メンバーたち。
+
+今日好き男なる人物から告げられた、夏休み編の継続メンバーを探す人狼ゲーム。
+前代未聞の心理戦が始まる…！
+
+一方、男子は井上塾へ！
+悩み多き塾生たちは、次の旅へ向けて成長できるのか？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2056_s810_p1501/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260728111000 +0000" stop="20260728120000 +0000">
+		<title>#5 恋のきっかけは突然に シャッフルアイランド Season3【神回】</title>
+		<desc>▼見どころ
+連れていきたい人と一緒に移動できる「道連れシャッフル」によってそれぞれ２名ずつが移動。
+再会、すれ違い、会えないからこそ芽生える恋心。そんな中、衝撃のシャッフルタイムが訪れる‥
+
+▼概要　
+夏が恋しい水着の男女がホットな冬を求めて南国”パラオ”へ！
+２つの島で繰り広げられる7泊8日のラブバカンス！
+１日１回、指名されたメンバーが入れ替わる。
+出会い、別れ、すれ違い、そして運命の再会。
+この冬、寒さを吹き飛ばすアツくて大胆なオトナの恋。
+
+◆テーマソング：WANIMA「曖昧」「Focus on me」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1748_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260728120000 +0000" stop="20260728153000 +0000">
+		<title>恋とオオカミには騙されない #5~8【キュン（９）するゴールデンタイム】</title>
+		<desc>真実の恋を叶えようと奮闘する男女10人。しかし、メンバーの中には恋をしない“嘘つき“オオカミが1人以上潜んでいる。好きな人に騙されているかもしれない…それでも、恋をする。提供：Indeed</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1478_s1_p1005/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260728153000 +0000" stop="20260728182000 +0000">
+		<title>シャッフルアイランド Season1 #1~4 前半一挙</title>
+		<desc>南国リゾートの２つの島を舞台に盛り上がる８日間のラブバカンス！
+運命の恋を求めて２つの島に集まった14人の若い男女が
+「あのコが欲しい♥」メンバーを互いに指名し入れ替わっていく
+２つの島の間で巻き起こる恋の駆け引き＆すれ違い
+出会い、別れ、シャッフルアイランド！
+ABEMA史上、最もキケンな「恋のはないちもんめ」が幕を開ける
+
+◆主題歌：WANIMA「曖昧」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1597_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260728182000 +0000" stop="20260728213500 +0000">
+		<title>隣の恋は青く見える -Chapter TOKYO- #1~4 前半一挙</title>
+		<desc>2025年夏、東京。集まったのは6組の悩めるカップルたち。
+彼らは一時的に交際関係を解消し、20日間の”恋人公認”浮気生活へ。
+浮気を通じて気づく本当の気持ち。その答えは、復縁か・別れか・新しい恋か。
+愛憎渦巻く共同生活がいま幕を開ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1512_s50_p1001/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260728213500 +0000" stop="20260729000000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260729000000 +0000" stop="20260729030000 +0000">
+		<title>オオカミちゃんには騙されない #1~4</title>
+		<desc>シリーズ史上初の男女逆転版。
+真実の恋をしたい男女10人が本気の恋に落ちていくまでを追いかける恋愛リアリティーショー。
+しかし、女性の中には好きなフリをする嘘つき"オオカミちゃん"が最低1人混ざっている！
+"オオカミちゃん"による女性ならではの甘い誘惑や切ない嘘に惑わされることなく、10人は真実の恋を見つけることができるのか？
+シリーズ史上最も予測がつかない男女の駆け引きが繰り広げられる。"オオカミくん"シリーズにはなかった刺激度と、ちょっぴり大人にスケールアップする特別な夏の恋はどんな展開を見せるのか？
+
+提供：Indeed</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1286_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260729030000 +0000" stop="20260729040500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260729040500 +0000" stop="20260729070000 +0000">
+		<title>ガールオアレディ 2 #7~9【2025-26人気恋リア毎日一挙】</title>
+		<desc>▼見どころ
+運命の相手を求めて集まった8名の20代"ガール"と30代"レディ"。
+初日は"顔"と"中身"で結婚相手候補の男性を選ぶセレクションを実施！？
+
+▼概要
+結婚は"憧れ"？ それとも"現実"？
+20代"ガール"と30代"レディ"が
+運命の相手を求め、選択を繰り返す14日間！
+顔・年収・性格…結婚に求める条件は？
+選ぶべきは、ときめく相手か？信じられる相手か？
+
+建前一切なし、自分自身と向き合い結婚と向き合う、
+本音ダダ漏れ婚活リアリティーショー！
+
+◆主題歌
+iri「CUBE」
+◆挿入歌
+Awesome City Club『スロウ・サマー』
+I Don't Like Mondays.『With you』
+
+提供：seven x seven 糸島</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s2_p7/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260729070000 +0000" stop="20260729080000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260729080000 +0000" stop="20260729110000 +0000">
+		<title>今日好き2025 チェンマイ編 #1~3【恋（５）する放課後タイム</title>
+		<desc>▼見どころ
+
+新シーズン！
+
+夏休み編2025の旅、
+最終日に急にゆまを誘ったしゅん。
+「ゆまちゃんと喋ってる時が一番素だった」
+そう話してた2人が旅で再会。
+2人の今の想いは.....？
+
+▼今日好きとは？
+現役高校生たちの"運命の恋と青春の修学旅行"。2泊3日を繰り返す中で巻き起こる、現役高校生たちのリアルで等身大な、本気の"恋"と"青春"を追いかけます。果たしてメンバーは運命の恋を見つけることができるのか？
+
+提供：GRL</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s750_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260729110000 +0000" stop="20260729120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260729120000 +0000" stop="20260729152000 +0000">
+		<title>恋とオオカミには騙されない #9~12【キュン（９）するゴールデンタイム】</title>
+		<desc>真実の恋を叶えようと奮闘する男女10人。しかし、メンバーの中には恋をしない“嘘つき“オオカミが1人以上潜んでいる。好きな人に騙されているかもしれない…それでも、恋をする。提供：Indeed</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1478_s1_p1009/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260729152000 +0000" stop="20260729183000 +0000">
+		<title>シャッフルアイランド Season1 #5~8 前半一挙</title>
+		<desc>南国リゾートの２つの島を舞台に盛り上がる８日間のラブバカンス！
+運命の恋を求めて２つの島に集まった14人の若い男女が
+「あのコが欲しい♥」メンバーを互いに指名し入れ替わっていく
+２つの島の間で巻き起こる恋の駆け引き＆すれ違い
+出会い、別れ、シャッフルアイランド！
+ABEMA史上、最もキケンな「恋のはないちもんめ」が幕を開ける
+
+◆主題歌：WANIMA「曖昧」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1597_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260729183000 +0000" stop="20260729220000 +0000">
+		<title>隣の恋は青く見える -Chapter TOKYO- #5~8 後半一挙</title>
+		<desc>2025年夏、東京。集まったのは6組の悩めるカップルたち。
+彼らは一時的に交際関係を解消し、20日間の”恋人公認”浮気生活へ。
+浮気を通じて気づく本当の気持ち。その答えは、復縁か・別れか・新しい恋か。
+愛憎渦巻く共同生活がいま幕を開ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1512_s50_p1005/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260729220000 +0000" stop="20260730000000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260730000000 +0000" stop="20260730030000 +0000">
+		<title>オオカミちゃんには騙されない #5~8</title>
+		<desc>【前回のおさらい】
+ゆいとは「太陽LINE」を使い、あいりをデートに誘った。 待ち合わせ場所にあいりがやって来た瞬間、ゆいとは嬉しくて仕方ないといった様子で早くも笑顔に。 七夕の短冊に「あいりとこのままでいたい」と書いていたところに、ゆいとに想いを寄せるほのばびと、いとがやって来た。いとはゆいとを呼び出し2人になると、ゆいとの本心を確認し、ほのばびに正直な気持ちを伝えるよう提言した。意を決してほのばびを呼び出したゆいとは、「まずばびちゃんの素直な想いを聞かせてほしい」と切り出す…。
+
+
+【＂オオカミちゃんには騙されない＂とは？】
+シリーズ史上初の男女逆転版。
+真実の恋をしたい男女10人が本気の恋に落ちていくまでを追いかける恋愛リアリティーショー。
+しかし、女性の中には好きなフリをする嘘つき"オオカミちゃん"が最低1人混ざっている！
+"オオカミちゃん"による女性ならではの甘い誘惑や切ない嘘に惑わされることなく、10人は真実の恋を見つけることができるのか？
+シリーズ史上最も予測がつかない男女の駆け引きが繰り広げられる。"オオカミくん"シリーズにはなかった刺激度と、ちょっぴり大人にスケールアップする特別な夏の恋はどんな展開を見せるのか？
+
+提供：Indeed</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1286_s1_p50/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260730030000 +0000" stop="20260730040000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260730040000 +0000" stop="20260730080000 +0000">
+		<title>ラブキャッチャージャパン2 #1~4 前半一挙【2025年人気恋リア】</title>
+		<desc>▼みどころ
+真実の愛を見つけるための旅に参加した男女10名。
+その中には、金目当てがいる！？
+
+信じる勇気と疑心がぶつかり、
+人間の本性があらわになる恋愛リアリティーショー、開幕！
+
+
+「ほっぺにリップついたかも…」
+シーズン2最初のカップルチャレンジはカップルフォト。
+出会ってすぐの異性とベッドや車でイチャイチャカップル写真を撮影！？
+爆美女からの刺激的すぎる指挟みキスとは・・・！？
+そして、優勝者には特別な権利が与えられ・・・？
+
+相手の本心を見極め、
+最後に手にするのは…愛？それともお金？
+
+
+▼概要
+真実の愛を求める「ラブキャッチャー」
+多額の賞金を狙う「マネーキャッチャー」
+それぞれの正体を隠した男女10名が恋の駆け引き。
+
+「あなたの正体は…？」
+
+信じる勇気と疑心がぶつかり、
+人間の本性があらわになる恋愛リアリティーショー
+
+相手の本心を見極め、
+最後に手にするのは…愛？それともお金？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s2_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260730080000 +0000" stop="20260730100000 +0000">
+		<title>今日好き2025 チェンマイ編 #4~5【恋（５）する放課後タイム】</title>
+		<desc>▼見どころ
+夜のBBQ。
+話せてないすみれととういがツーショットへ。
+「すみれちゃんが今一番気持ちが大きいのは？」
+お互いに悩む2人。3日目にだした答えとは...？
+
+しゅんとゆまが2人きりのデートへ。
+ランタンが飛ぶ、特別な空間でお願い事をする2人。
+「なにおねがいした？」
+「俺は....」
+しゅんがお願いしたこととは？
+
+
+▼今日好きとは？
+現役高校生たちの"運命の恋と青春の修学旅行"。2泊3日を繰り返す中で巻き起こる、現役高校生たちのリアルで等身大な、本気の"恋"と"青春"を追いかけます。果たしてメンバーは運命の恋を見つけることができるのか？
+
+提供：GRL</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s750_p4/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260730100000 +0000" stop="20260730120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260730120000 +0000" stop="20260730152800 +0000">
+		<title>シャッフルアイランド Season3#1~4【キュン（９）するゴールデンタイム】</title>
+		<desc>▼見どころ
+南国リゾート”パラオ”に集まった14人の美男美女。男女それぞれ別の島に集まり、初めてのシャッフルタイムでそれぞれ１名移動するメンバーが決定！ハーレム＆逆ハーレム状態でいきなり恋が燃え上がる！
+
+▼概要　
+夏が恋しい水着の男女がホットな冬を求めて南国”パラオ”へ！
+２つの島で繰り広げられる7泊8日のラブバカンス！
+１日１回、指名されたメンバーが入れ替わる。
+出会い、別れ、すれ違い、そして運命の再会。
+この冬、寒さを吹き飛ばすアツくて大胆なオトナの恋。
+
+◆テーマソング：WANIMA「曖昧」「Focus on me」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1748_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260730152800 +0000" stop="20260730190500 +0000">
+		<title>シャッフルアイランド Season2 #1~4 前半一挙</title>
+		<desc>▼見どころ
+初めてのシャッフルタイムはシルエットだけで移動するメンバーを選択。
+ハーレム＆逆ハーレム状態でいきなり恋は盛り上がる。
+
+▼概要　
+南国リゾート"グアム"を舞台に盛り上がる７泊８日のラブバカンス！
+２つの島に集まった美男美女。
+「あのコが、欲しい！」１日１回、指名されたメンバーが入れ替わる。
+２つの島の間で生まれる出会い、別れ、すれ違い、そして運命の再会。
+南国リゾートで繰り広げられる、この夏最もアツくて大胆なオトナの恋。
+
+◆オープニングテーマ：WANIMA「曖昧」
+◆エンディングテーマ：WANIMA「Focus on me」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1682_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260730190500 +0000" stop="20260730213500 +0000">
+		<title>ガールオアレディ #1~3</title>
+		<desc>▼見どころ
+“女の35歳は売れ残り？”
+20代“Girl”と30代“Lady”が真剣勝負の婚活バトル開幕！
+「年収」「職業」「結婚願望」、男性に求めるスペックは年齢で変わる？
+見た目とスペックで男性を“選べる”ファーストコンタクトから
+男性に“選ばれる”夕食会まで初回から波乱必至の婚活バトル！
+
+▼概要
+“35歳は婚活市場の売れ残り…？”
+女の年齢と結婚のリアル
+20代“Girl”と30代“Lady”が真剣勝負の婚活
+「付き合うと結婚の違いって？」
+「顔・年収・性格…結婚で一番大事な条件は？」
+建前ナシ、本音でぶつかる12日間。
+選び、選ばれ運命の相手と結ばれるのは？
+
+6月14日(日)よる9時放送スタート！
+
+◆主題歌
+OKAMOTO'S「That's All I Wish」
+
+◆テーマソング
+Gyubin「You Light Up My Life」
+chilldspot「Ladyy」
+
+提供：株式会社ホットスタッフ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260730213500 +0000" stop="20260730235000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260730235000 +0000" stop="20260731030000 +0000">
+		<title>オオカミちゃんには騙されない #9~12</title>
+		<desc>【前回のおさらい】
+ゆいとは「太陽LINE」を使い、あいりをデートに誘った。 待ち合わせ場所にあいりがやって来た瞬間、ゆいとは嬉しくて仕方ないといった様子で早くも笑顔に。 七夕の短冊に「あいりとこのままでいたい」と書いていたところに、ゆいとに想いを寄せるほのばびと、いとがやって来た。いとはゆいとを呼び出し2人になると、ゆいとの本心を確認し、ほのばびに正直な気持ちを伝えるよう提言した。意を決してほのばびを呼び出したゆいとは、「まずばびちゃんの素直な想いを聞かせてほしい」と切り出す…。
+
+
+【＂オオカミちゃんには騙されない＂とは？】
+シリーズ史上初の男女逆転版。
+真実の恋をしたい男女10人が本気の恋に落ちていくまでを追いかける恋愛リアリティーショー。
+しかし、女性の中には好きなフリをする嘘つき"オオカミちゃん"が最低1人混ざっている！
+"オオカミちゃん"による女性ならではの甘い誘惑や切ない嘘に惑わされることなく、10人は真実の恋を見つけることができるのか？
+シリーズ史上最も予測がつかない男女の駆け引きが繰り広げられる。"オオカミくん"シリーズにはなかった刺激度と、ちょっぴり大人にスケールアップする特別な夏の恋はどんな展開を見せるのか？
+
+提供：Indeed</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1286_s1_p90/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260731030000 +0000" stop="20260731040000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260731040000 +0000" stop="20260731080000 +0000">
+		<title>ラブキャッチャージャパン2 #5~8 後半一挙【2025年人気恋リア】</title>
+		<desc>▼みどころ
+真実の愛を見つけるための旅に参加した男女10名。
+その中には、金目当てがいる！？
+
+信じる勇気と疑心がぶつかり、
+人間の本性があらわになる恋愛リアリティーショー、開幕！
+
+
+「ほっぺにリップついたかも…」
+シーズン2最初のカップルチャレンジはカップルフォト。
+出会ってすぐの異性とベッドや車でイチャイチャカップル写真を撮影！？
+爆美女からの刺激的すぎる指挟みキスとは・・・！？
+そして、優勝者には特別な権利が与えられ・・・？
+
+相手の本心を見極め、
+最後に手にするのは…愛？それともお金？
+
+
+▼概要
+真実の愛を求める「ラブキャッチャー」
+多額の賞金を狙う「マネーキャッチャー」
+それぞれの正体を隠した男女10名が恋の駆け引き。
+
+「あなたの正体は…？」
+
+信じる勇気と疑心がぶつかり、
+人間の本性があらわになる恋愛リアリティーショー
+
+相手の本心を見極め、
+最後に手にするのは…愛？それともお金？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s2_p50/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260731080000 +0000" stop="20260731110000 +0000">
+		<title>今日好き2019 ハワイ編 #1~3【恋（５）する放課後タイム】</title>
+		<desc>運命の恋を見つけるまで終わらない、“恋の修学旅行“が始まる！
+
+参加するのは現役高校生９人。
+運命の恋を見つけることができなかったら、そのまま旅は続行！？
+
+異国の地で２泊３日を繰り返す中で、運命の恋をみつけることはできるのか？
+
+はじまりの地は常夏の国、ハワイ！
+
+★アベマビデオ限定！１６弾カップルデート★
+１６弾で見事成立した、あのカップルが初の１日デート。
+初々しい２人の姿にときめきが止まらない♡
+
+※番組では街中で声をかけることは一切行っておりません
+※番組を語った悪質な怪しい声かけには一切応じないでください</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1241_s17_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260731110000 +0000" stop="20260731120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260731120000 +0000" stop="20260731153500 +0000">
+		<title>シャッフルアイランド Season3#5~8【キュン（９）するゴールデンタイム】</title>
+		<desc>▼見どころ
+連れていきたい人と一緒に移動できる「道連れシャッフル」によってそれぞれ２名ずつが移動。
+再会、すれ違い、会えないからこそ芽生える恋心。そんな中、衝撃のシャッフルタイムが訪れる‥
+
+▼概要　
+夏が恋しい水着の男女がホットな冬を求めて南国”パラオ”へ！
+２つの島で繰り広げられる7泊8日のラブバカンス！
+１日１回、指名されたメンバーが入れ替わる。
+出会い、別れ、すれ違い、そして運命の再会。
+この冬、寒さを吹き飛ばすアツくて大胆なオトナの恋。
+
+◆テーマソング：WANIMA「曖昧」「Focus on me」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1748_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260731153500 +0000" stop="20260731191500 +0000">
+		<title>シャッフルアイランド Season2 #5~8 後半一挙</title>
+		<desc>▼見どころ
+男子限定強制シャッフルで島を入れ替わることになった2人。
+それぞれ気になる相手との再会を約束するも…？
+そして、番組史上初、衝撃のシャッフル指令発動！
+
+▼概要　
+南国リゾート""グアム""を舞台に盛り上がる７泊８日のラブバカンス！
+２つの島に集まった美男美女。
+「あのコが、欲しい！」１日１回、指名されたメンバーが入れ替わる。
+２つの島の間で生まれる出会い、別れ、すれ違い、そして運命の再会。
+南国リゾートで繰り広げられる、この夏最もアツくて大胆なオトナの恋。
+
+◆オープニングテーマ：WANIMA「曖昧」
+◆エンディングテーマ：WANIMA「Focus on me」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1682_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260731191500 +0000" stop="20260731220000 +0000">
+		<title>ガールオアレディ #4~6</title>
+		<desc>▼見どころ
+“女の35歳は売れ残り？”
+20代“Girl”と30代“Lady”が真剣勝負の婚活バトル開幕！
+「年収」「職業」「結婚願望」、男性に求めるスペックは年齢で変わる？
+見た目とスペックで男性を“選べる”ファーストコンタクトから
+男性に“選ばれる”夕食会まで初回から波乱必至の婚活バトル！
+
+▼概要
+“35歳は婚活市場の売れ残り…？”
+女の年齢と結婚のリアル
+20代“Girl”と30代“Lady”が真剣勝負の婚活
+「付き合うと結婚の違いって？」
+「顔・年収・性格…結婚で一番大事な条件は？」
+建前ナシ、本音でぶつかる12日間。
+選び、選ばれ運命の相手と結ばれるのは？
+
+6月14日(日)よる9時放送スタート！
+
+◆主題歌
+OKAMOTO'S「That's All I Wish」
+
+◆テーマソング
+Gyubin「You Light Up My Life」
+chilldspot「Ladyy」
+
+提供：株式会社ホットスタッフ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260731220000 +0000" stop="20260801000000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260801000000 +0000" stop="20260801030000 +0000">
+		<title>今日好き2025 マクタン編 #1~3【2025年シーズン全話放送】</title>
+		<desc>新シーズンの舞台は、フィリピンのマクタン！
+メンバー10人の恋が始まる。
+
+ニュージーランド編から継続で旅に参加したもか。
+気になるのは、ずっとかっこいいと思っていたはると。
+「もかちゃんともうちょっと話したいなと思って。」
+今回こそ成立することはできる？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2026_s710_p1001/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260801030000 +0000" stop="20260801040000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260801040000 +0000" stop="20260801071100 +0000">
+		<title>隣の恋は青く見える -Chapter TOKYO-#1~4【人気恋リア毎日一挙】</title>
+		<desc>2025年夏、東京。集まったのは6組の悩めるカップルたち。
+彼らは一時的に交際関係を解消し、20日間の”恋人公認”浮気生活へ。
+浮気を通じて気づく本当の気持ち。その答えは、復縁か・別れか・新しい恋か。
+愛憎渦巻く共同生活がいま幕を開ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1512_s50_p1001/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260801071100 +0000" stop="20260801080000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260801080000 +0000" stop="20260801100000 +0000">
+		<title>今日好き2019 ハワイ編 #4~5【恋（５）する放課後タイム】</title>
+		<desc>★ハワイの旅、終了まであと数時間★
+『もっと時間がほしい。』
+
+最初の舞台、ハワイでの旅が終了するまであと数時間。
+既に本気の恋を見つけたメンバーたちは焦り始め…
+
+時間が経つにつれ男子メンバー”のあ”に惹かれ出した女子２人。
+「無理だってわかってるけど」
+最後の数時間に賭けて、想いを伝える。
+
+そして、そんなのあが思いを寄せるまやは
+「のあくんとしゅんくん、どっちも良いところがあるから…」
+まやの出す答えとは？
+
+※番組では街中で声をかけることは一切行っておりません
+※番組を語った悪質な怪しい声かけには一切応じないでください</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1241_s17_p4/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260801100000 +0000" stop="20260801120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20260801120000 +0000" stop="20260801161400 +0000">
+		<title>ガールオアレディ #1~5【キュン（９）するゴールデンタイム】</title>
+		<desc>年齢と共に変化する魅力や恋愛観のリアルを描く婚活番組！
+運命の恋を求め集まった、結婚願望アリの12人の女性たち。
+年下組の「ガールチーム」と年上組の「レディーチーム」に分かれ、ハイスペ男性４人を奪い合う！
+嫉妬と愛憎、本音と建前…ついに暴かれる“恋と年齢のリアル“。
+剥き出しの婚活サバイバルが開幕！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1849_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260717150000 +0000" stop="20260717170000 +0000">
 		<title>報道ステーション　きょう知りたいニュースを今夜のうちに</title>
@@ -24126,6 +25010,286 @@ https://contents-abema.com/tv-howto-basic/</desc>
 		<desc>産後ケア施設に就職したモーミンは、出勤初日に医師ではなく警備員として採用されたことを知り驚愕する。そんな中ジアオルイはトゥントゥンの6ヵ月の誕生会を開き、シアオやジ会長も出席する。ジ会長は病気の娘より仕事を優先させるジアオルイに不信感を抱き、彼女をプロジェクトから外すことをシアオに要求する。しかし、シアオは会社からケア施設への異動を命じられてしまう。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-110_s1_p16/thumb001.png" />
 	</programme>
+	<programme channel="chinese-drama" start="20260726191500 +0000" stop="20260726203000 +0000">
+		<title>身代わり花嫁の恋愛事情 第23〜最終話</title>
+		<desc>聞夜率いる遠征軍は緒戦に大勝利を挙げる。その知らせを聞いて、雲卿は約束どおり万護衛と結婚する。だが、病に冒された雲卿は、婚礼の舞を舞いながら命を落とす。皇帝は丞相のざん言を聞き入れ、北方遊牧民を平定した聞夜にあと３年、辺境にとどまるよう聖旨を下す。周魚は戦場における聞夜の力に畏敬の念を覚えるのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-177_s1_p23/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260726203000 +0000" stop="20260726211500 +0000">
+		<title>美男子江湖伝~SECRET OF LOVE~ 第1話</title>
+		<desc>聖教の教主である季川と浩然盟に属する趙青峰は、幼い頃に生き別れた実の兄弟。２人は両親の10回忌にそれぞれ生家を訪れるが、入れ違いになり再会はかなわなかった。季川が自分に関心を持っていると聞いた趙青峰は、聖教への潜伏を決意する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/158-118_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260726211500 +0000" stop="20260726230000 +0000">
+		<title>解憂(かいゆう) ~西域に嫁いだ姫君~ 第10〜11話</title>
+		<desc>烏孫の都に到着した解憂は住民たちから歓迎されたが、烏孫の昆弥(こんび)(王)は、到着が1日遅れたことを理由に解憂に自害を命じる。しかし、解憂が動ずることなく応対したことで、昆弥は笑って解憂を王宮へと招き入れた。王宮では、1日早く到着していた匈奴の公主・胡姑と昆弥の婚礼が執り行われようとしていた。解憂は婚礼前であることを理由に夫人の席を固辞し、漢の使節として婚礼に列席するが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/274-87_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260726230000 +0000" stop="20260727014500 +0000">
+		<title>あなたに片思い~キミとの距離0.6センチ~ 第15〜17話</title>
+		<desc>ビジコンの参加を父に反対され、やる気を失いかけていたホァイナンだが、ルオ・ジーに励まされ、やる気を取り戻す。そして、アイデアを無償で社会に還元したいという考えを固める。ビジコン当日、渋滞に巻き込まれたホァイナンとルオ・ジーは走って向かうが途中でけがをしたルオ・ジーはホァイナンだけ先に行かせ、皆にメールを送る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/353-24_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260727014500 +0000" stop="20260727043000 +0000">
+		<title>天龍八部　レジェンド・オブ・デスティニー 第15〜17話</title>
+		<desc>謀反の首謀者は全冠清（ぜん・かんせい）であった。しかし、何を問われても、彼ははっきりした理由を言おうとはせず、喬峯（きょう・ほう）の出自に原因があるというようなことをほのめかすばかり。そうこうするうち、杏子林（きょうしりん）には武林で名の知れた侠客たちが次々と集っていた。最後に姿を現したのは康敏（こう・びん）――殺された馬大元（ば・たいげん）の妻である。徐（じょ）長老に促された彼女は、夫が書き遺したという書状について話し始め…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/216-46_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260727043000 +0000" stop="20260727061500 +0000">
+		<title>風起洛陽〜神都に翔ける蒼き炎〜 第6〜7話</title>
+		<desc>武思月と高秉燭が銅の運搬を見張っていると、作業をしていた人々が殺されそうになる。助けようとする武思月と、自分の目的のために見殺しにしようとする高秉燭。一方、朝廷では、百里弘毅の父・百里延(ひゃくりえん)が銅を巡る不正に関わっていると疑われる。百里(ひゃくり)家には家長の座や富を目当てに一族が押しかけるが、百里弘毅はそれに目もくれず、父の死の真相解明に奔走する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-80_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260727061500 +0000" stop="20260727090000 +0000">
+		<title>独孤伽羅~皇后の願い~ 第23〜25話</title>
+		<desc>般若(はんじゃく)は生まれた娘が宇文護(うぶんご)と同じ青い目だったことがわかると取り乱す。伽羅(から)が子供の養育を申し出て麗華(れいか)と名付けて可愛がる。宇文邕(うぶんよう)はいつか必ず彼女と一緒になることを誓うのだった。済慈院にいる伽羅を訪ねて郡主に封じた宇文毓(うぶんいく)は...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-75_s1_p23/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260727090000 +0000" stop="20260727105000 +0000">
+		<title>始まりは君の嘘 第1〜2話</title>
+		<desc>金融界の時の人、銘豫雲創(ミンユーユンチュアン)の社長シー・イエンに独占取材するため準備を重ねてきた経済誌「財経界」の記者ジョン・シューイー。上司の意向で一度はその役目を同僚に譲るものの、思いがけず銘豫雲創から逆指名を受けたシューイーは、恋人の誕生日祝いを後回しにして取材に挑もうとする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-73_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260727105000 +0000" stop="20260727133500 +0000">
+		<title>マイ・サンシャイン～何以笙簫默～ 第15〜17話</title>
+		<desc>出張を切り上げて夜遅くに帰ってきたイーチェンは、翌朝モーションを仕事先に送り、オフィスへ向かう。その後、家の鍵をなくしたモーションと待ち合わせたイーチェンは、夕食を共にする。二人は穏やかな時間を過ごすが、その頃、大学の式典に参加するために上海に来ていたイン・フイが、モーションの居所を探していた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-59_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260727133500 +0000" stop="20260727163000 +0000">
+		<title>蒼蘭訣～エターナル･ラブ～ 第25〜27話</title>
+		<desc>いよいよ迎えた婚礼の日。小蘭花(しょうらんか)の冠につける真珠がなくなり騒ぎになる。婚礼の準備を抜け出した小蘭花は、東方青蒼(とうほうせいそう)に謝惋卿(しゃわんけい)をだましている胸の内の苦しさを語る。そんな小蘭花の前に、水雲天(すいうんてん)から戻ってきた丹音(たんいん)が現れ、雲中君から命じられた任務のことを小蘭花に話し、共に長珩(ちょうこう)を守ることを持ちかける。さらに、そこに容昊(ようこう)が現れ、東方青蒼を引き離すために協力するようにと頼み...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-210_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260727163000 +0000" stop="20260727190000 +0000">
+		<title>請君(せいくん)~遥かなる恋人たち~ 第1〜3話</title>
+		<desc>義賊の女頭目・于登登(ユー・ドンドン)は、年頃の娘らしからぬ豪快な性格。貧乏暮らしの仲間たちを養うため、後ろ暗い商売をしている豪商を脅し、その箱入り息子を無理やり婿に迎えることに。一方、3千年の時を経て復活した古蜀の王子・陸炎(ルー・イエン)は、かつて愛し合った霊族の聖女・雲羲(ユンシー)が既に転生したことを察し、その行方を追っていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-108_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260727190000 +0000" stop="20260727211000 +0000">
+		<title>美男子江湖伝~SECRET OF LOVE~ 第2〜4話</title>
+		<desc>浩然盟主の指示どおりに受け答えする趙青峰に季川は頭を痛めるが、“天下一の剣客”と一戦を交えたいため、聖教に連れ帰ることを約束する。趙青峰が正道を踏み外したうわさは江湖に広まり、武林の士が次々に襲い掛かってくる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/158-118_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260727211000 +0000" stop="20260727230000 +0000">
+		<title>解憂(かいゆう) ~西域に嫁いだ姫君~ 第12〜13話</title>
+		<desc>解憂と昆弥(王)の新婚初夜の晩、王宮に刺客が侵入し解憂を襲う。刺客を生け捕ろうとした淮天沙の目の前で胡姑が矢を放ち、刺客は息絶えてしまった。髪を烏孫風に整えた解憂は太后(たいこう)のご機嫌伺いに出向く。だが解憂が漢の菓子を持参すれば、太后に取り入ろうとする胡姑もまた貴重な人参を献上していた。一方、朝議の場では、2人の夫人のどちらを左夫人とするかの議論が始まるが、昆弥はなかなか結論を出そうとしない。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/274-87_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260727230000 +0000" stop="20260728014500 +0000">
+		<title>あなたに片思い~キミとの距離0.6センチ~ 第18〜20話</title>
+		<desc>相変わらずホァイナンに避けられているルオ・ジーだが、バイリーが寄り添い、慰めている。ホァイナンは自責の念に駆られながら寮に籠もっていた。一方、リーチンの買い物に付き合うミンルイは、彼女の荷物を持ち、プレゼントをあげる約束をする。そしてルオ・ジーは1人、英語の単語集を広げながら、くじけないことを誓うのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/353-24_s1_p18/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260728014500 +0000" stop="20260728043000 +0000">
+		<title>天龍八部　レジェンド・オブ・デスティニー 第18〜20話</title>
+		<desc>喬峯（きょう・ほう）の腕前が見たい――丐幇（かいほう）の者たちを放免をするよう求められた西夏一品堂の頭領・赫連鉄樹（かくれん･てつじゅ）は、そう条件をつけた。顔色を失う喬峯。それもそのはず、この喬峯は阿朱（あしゅ）の、隣に控える慕容復（ぼよう･ふく）も段誉（だん・よ）の変装なのだ。その時、とまどう２人をさらに混乱させる事態が。西夏の兵たちが、彼ら自身の主である赫連鉄樹の使う毒で体の自由を失い、バタバタと倒れ始めたではないか…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/216-46_s1_p18/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260728043000 +0000" stop="20260728061000 +0000">
+		<title>風起洛陽〜神都に翔ける蒼き炎〜 第8〜9話</title>
+		<desc>銅のすり替えの黒幕が柳然の叔父・柳襄(りゅうじょう)だと知った百里弘毅は、柳然の里帰りを名目に屋敷を訪れる。柳然は喜ぶが、叔父と夫の間に流れる張り詰めた空気に違和感を抱くのだった。その頃、高秉燭も柳襄の不正の証拠を得るべく武思月から屋敷の見取り図を得ていた。百里弘毅が柳襄の屋敷に乗り込んだことを知った高秉燭は、百里弘毅の命が危ないと武思月に告げ...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-80_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260728061000 +0000" stop="20260728085500 +0000">
+		<title>独孤伽羅~皇后の願い~ 第26〜28話</title>
+		<desc>吐血が続き余命を悟った独孤信(どっこしん)。彼は宇文邕(うぶんよう)が宇文護(うぶんご)との取引材料に独孤信の長男・独孤羅(どっこら)の命を提案したことに不信感を抱き、伽羅(から)と楊堅(ようけん)の縁談を決める。そして、伽羅は葛藤しつつも父親の最期の願いを叶えることを決意する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-75_s1_p26/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260728085500 +0000" stop="20260728105000 +0000">
+		<title>始まりは君の嘘 第3〜4話</title>
+		<desc>シューイーが時間どおりにシー・イエンの元を訪ねると、同僚のシュー・ユーリンがすでに取材を終えた後だった。行き違いを察し、移動中の車内取材をシューイーに許したシー・イエンは、彼女の洞察力や知見に関心し舌が滑らかになる。やがて到着したのは、経済界の大物グアン・シアンチョンが待つ馬場だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-73_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260728105000 +0000" stop="20260728133500 +0000">
+		<title>マイ・サンシャイン～何以笙簫默～ 第18〜20話</title>
+		<desc>イーチェンを説得し、大学の記念式典に連れて行ってもらったモーション。イーチェンが仲間と会っている間、写真を撮ったり散策したりと、学生時代を思い出しひとり楽しい時間を過ごす。しかし式典には、卒業生代表として講演を行うために元夫であるイン・フイも出席していた。二度と会うこともないと思っていたが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-59_s1_p18/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260728133500 +0000" stop="20260728163500 +0000">
+		<title>蒼蘭訣～エターナル･ラブ～ 第28〜30話</title>
+		<desc>小蘭花(しょうらんか)と山月(さんげつ)節の愛の誓いを交わすために出かけようとした東方青蒼(とうほうせいそう)。しかし、一歩外に踏み出すと、巽風(そんぽう)に率いられた大勢の民が跪いていた。小蘭花のことを考え直すよう懇願する民に、東方青蒼は小蘭花と婚礼を挙げると告げ、皆にも小蘭花を慕ってほしいと語る。そして、10万の兵を帰せないことの詫びとして、噬骨霜鹽釘(せいこつそうえんてい)の刑という苛酷な刑罰を受けることを宣言する。体内に噬骨霜鹽釘を打ち込んだ東方青蒼は...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-210_s1_p28/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260728163500 +0000" stop="20260728190000 +0000">
+		<title>請君(せいくん)~遥かなる恋人たち~ 第4〜6話</title>
+		<desc>青泉砦内で一部の反対があるも、登登と陸炎の婚儀は18の砦の親分たちも招き、盛大に行われようとしていた。幼い頃から登登に惚れている南風砦の頭目・顧北西(グー・ベイシー)は、花婿を襲って婚儀をぶち壊そうと考えて出席する。そんな中、登登の手下である彭大海(ポン・ダーハイ)は花嫁の付き添い人となるため、酒を飲むと女性に変身するという秘密を登登に打ち明ける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-108_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260728190000 +0000" stop="20260728211000 +0000">
+		<title>美男子江湖伝~SECRET OF LOVE~ 第5〜7話</title>
+		<desc>趙青峰に弟の面影を見た季川は、幼い頃の話を聞こうとするが、有益な情報は何も得られない。酒を飲んで師兄を殺したと話す趙青峰に、季川は酒の力を借りて正体を問いただそうとするが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/158-118_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260728211000 +0000" stop="20260728230000 +0000">
+		<title>解憂(かいゆう) ~西域に嫁いだ姫君~ 第14〜15話</title>
+		<desc>太后が病で伏せっていると聞いた解憂は見舞いに出向く。解憂は漢の鍼治療で太后の病を治したいと申し出るが、太后は漢の医術を信用しておらず、その申し出を断った。何とか太后の病を治したいと考える解憂は、漢から伴った女医・義妁(ぎ・しゃく)から鍼を習い始めるが、なぜか太后暗殺を企てたという疑いをかけられ、昆弥の命令で冷宮に監禁されてしまう。しかし解憂はそんな状況でも気落ちすることなく鍼の習得に励むのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/274-87_s1_p14/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260728230000 +0000" stop="20260729014500 +0000">
+		<title>あなたに片思い~キミとの距離0.6センチ~ 第21〜23話</title>
+		<desc>ミンルイの紹介で、通訳と観光案内のバイトをするルオ・ジー。帰ってくると偶然ホァイナンに会う。バイトを掛け持ちしていることを指摘されカッとなったルオ・ジーは、ホァイナンへの不満をぶつける。するとホァイナンも、長い間ウソをついていたことでルオ・ジーを責める。そしてホァイナンはルオ・ジーに本当の気持ちを問い詰める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/353-24_s1_p21/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260729014500 +0000" stop="20260729043000 +0000">
+		<title>天龍八部　レジェンド・オブ・デスティニー 第21〜23話</title>
+		<desc>「この娘を守ってほしい」。喬峯（きょう・ほう）から丐幇（かいほう）の兄弟たちへの最後の頼みは、阿朱（あしゅ）のことだった。聚賢荘に集った者たちとの縁を切るための酒を飲み、彼らに挑みかかった喬峯は、聚賢荘の荘主である游驥（ゆう・き）と游駒（ゆう・く）らを相手に鬼神の如き強さを見せる。そこへ慕容復（ぼよう･ふく）が。喬峯を助けてくれるよう、主（あるじ）に懇願する阿朱。だが彼は、「私が駆けつけたのは、英雄方と共に喬峯を討ち取るため」と言い放ち…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/216-46_s1_p21/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260729043000 +0000" stop="20260729061000 +0000">
+		<title>風起洛陽〜神都に翔ける蒼き炎〜 第10〜11話</title>
+		<desc>柳襄と内衛の不和は名門貴族の知るところとなり、皇帝をも巻き込む騒ぎに発展する。一方、聯昉の情報で木炭の流通異常を調べる高秉燭は、皇帝の孫娘である永川郡主(えいせんぐんしゅ)の屋敷が大量に購入したという情報を探り当てる。それを聞いた百里弘毅は柳然と共に郡主を訪ねるが、郡主は臨川(りんせん)の荘園を柳襄に売ったこと、木炭を買ったのも恐らく柳襄であることを告げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-80_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260729061000 +0000" stop="20260729085500 +0000">
+		<title>独孤伽羅~皇后の願い~ 第29〜31話</title>
+		<desc>初めて楊(よう)家の屋敷で一緒に過ごすことになった伽羅(から)と楊堅(ようけん)。互いに自分勝手な言動を謝るが、強気な二人はまたすぐに口論となってしまうが、夜中にうなされる伽羅を見た楊堅は、朝まで彼女の側に付き添ったのだった。その後、曼陀(ばんた)への誓いを忘れてはならないと自らを戒めた楊堅は...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-75_s1_p29/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260729085500 +0000" stop="20260729104500 +0000">
+		<title>始まりは君の嘘 第5〜6話</title>
+		<desc>シー・イエンは、一向に自立しようとしない留学帰りの姪チン・シーユエを財経界の編集部へ研修に行かせる。働く気ゼロのシーユエは、指導役のシューイーにブランド品を渡して手心を加えてもらおうとするが、固辞されるどころか無視されたと思い込みシー・イエンに泣きつく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-73_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260729104500 +0000" stop="20260729133000 +0000">
+		<title>マイ・サンシャイン～何以笙簫默～ 第21〜23話</title>
+		<desc>香港に駆けつけたイーチェンは、イン・フイとビリヤード勝負をすることに。モーションをめぐって敵対関係にある二人は、ゲーム中に舌戦を繰り広げる。雑誌の取材中、イン・フイを心酔するミッフェルからイーチェンを侮辱されたモーションは怒りのあまり反論、言い合いになってしまう。その場にいたイーチェンは...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-59_s1_p21/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260729133000 +0000" stop="20260729161000 +0000">
+		<title>蒼蘭訣～エターナル･ラブ～ 第31〜33話</title>
+		<desc>ついに仙族の大軍が玄虚(げんきょ)の境まで押し寄せてきた。小蘭花(しょうらんか)も承影(しょうえい)剣を携え、玄虚の境に向かう。両軍が対峙し戦いの火ぶたが切られる中、凶神、太歳(たいさい)に魅入られた東方青蒼(とうほうせいそう)は祟気(すいき)を使って10万の兵の封印を解こうとする。一方、小蘭花は海市(かいし)主の容昊(ようこう)に寸前で自害を阻まれ、承影剣は2つに折れてしまう。同心呪(どうしんじゅ)で小蘭花の危機に気付いた東方青蒼は、慌ててかけつけようとするが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-210_s1_p31/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260729161000 +0000" stop="20260729184500 +0000">
+		<title>請君(せいくん)~遥かなる恋人たち~ 第7〜9話</title>
+		<desc>3千年前に死んだはずの霊族の首領・誅戎(ジューロン)は、陸炎から元丹を奪還するため、霊力を吸収して生きていた。毒による老化が進み弱っていく登登は、陸炎に青泉砦の後事を託そうとするが、生き延びろと励まされる。しかし陸炎が不在の時、登登は顧北西の体を乗っ取った霊族に襲われる。自らの血を使い応戦する登登だったが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-108_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260729184500 +0000" stop="20260729211000 +0000">
+		<title>美男子江湖伝~SECRET OF LOVE~ 第8〜10話</title>
+		<desc>最近、聖教でうわさになっていた閻先生の正体は、季川の義兄だった。季川は義兄に偽名を使った理由を尋ねるが、答えてもらえない。温長老は顧亦封からの知らせで、聖教内に間者がいることを知り、捜索に乗り出す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/158-118_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260729211000 +0000" stop="20260729230000 +0000">
+		<title>解憂(かいゆう) ~西域に嫁いだ姫君~ 第16〜17話</title>
+		<desc>昆弥は、太后に盛られた毒と毒消しが共に匈奴の品であると知り、胡姑の仕業を疑って冷宮に監禁する。しかし解憂の推理によって真犯人は昆弥の夫人の1人、雲古特だと判明、胡姑と解憂は王宮に戻される。雲古特を処刑するつもりでいた昆弥だが、太后が命乞いをし、雲古特(うんことく)の懐妊を伝えると、昆弥は死罪を免じるのだった。解憂が義妁を連れて翁帰を見舞うと、長山翕侯に買収された仙谷が翁帰の治療をしようとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/274-87_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260729230000 +0000" stop="20260730014500 +0000">
+		<title>あなたに片思い~キミとの距離0.6センチ~ 第24〜26話</title>
+		<desc>座談会でルオ・ジーに自分の役目を譲ったジャンイェン。彼女がその悔しさを、自分に思いを寄せるジュオ・チェンに語ると、彼は潔く身を引いたジャンイェンを褒めたたえるのだった。一方、素直になれない気持ちをミンルイに白状したホァイナンは、今までの自分を反省する。そしてルオ・ジーは英語の試験を終え実家に戻ってくる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/353-24_s1_p24/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260730014500 +0000" stop="20260730043000 +0000">
+		<title>天龍八部　レジェンド・オブ・デスティニー 第24〜26話</title>
+		<desc>守り札と肩に残された“段”の文字――驚いたことに阿紫（あし）は、段正淳（だん・せいじゅん）と阮星竹（げん・せいちく）の娘であった。涙を流して対面を喜ぶ阮星竹の姿を目にし、密かに万感の思いを抱く阿朱（あしゅ）。なぜなら、彼女も２人の娘、阿紫とは姉妹だったのだ。そんな最中、段延慶（だん･えんけい）たちが姿を現す。段正淳を守るため、敵に立ち向かう巴天石（は･てんせき）と大理四大護衛だったが、その戦いの中で褚万里（ちょ･ばんり）が命を落とし…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/216-46_s1_p24/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260730043000 +0000" stop="20260730061000 +0000">
+		<title>風起洛陽〜神都に翔ける蒼き炎〜 第12〜13話</title>
+		<desc>不良井で武器の密造所を発見した百里弘毅と高秉燭は、官府に通報すべきかどうかを巡って口論となり、不良使の王登成(おうとうせい)を訪ねる。話を聞いた王登成は通報に猛反対し、高秉燭に自力での解決を提案するのだった。その頃、内衛では柳襄の護衛・鳶飛(えんひ)の行方を捜していた。武思月は訪ねてきた柳然から鳶飛の家の話を聞き、部下を連れて踏み込むが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-80_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260730061000 +0000" stop="20260730085500 +0000">
+		<title>独孤伽羅~皇后の願い~ 第32〜34話</title>
+		<desc>宴で誤解が生じた伽羅(から)と楊堅(ようけん)は冷戦状態に。さらに、楊堅が宇文邕(うぶんよう)を殴ったと聞いて伽羅は腹を立てる。しかし、喧嘩の理由がわかると彼女は冷静さを取り戻し、これからは楊堅といい夫婦になろうと決意したのだった。また、この騒動を知った般若(はんじゃく)は...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-75_s1_p32/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260730085500 +0000" stop="20260730104500 +0000">
+		<title>始まりは君の嘘 第7〜8話</title>
+		<desc>締め切り間際に届いたシー・イエンからの承認メールで、シューイーの記事が一面に決まる。仕事が絶好調のシューイーは、つれないシー・イエンの対応にもめげずアプローチを開始。依然としてそっけなく振る舞うシー・イエンだが、実は他の男性の話をするシューイーに心中穏やかではなかった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-73_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260730104500 +0000" stop="20260730133000 +0000">
+		<title>マイ・サンシャイン～何以笙簫默～ 第24〜26話</title>
+		<desc>あの夜の出来事をきっかけに、ユエンフォンは犬猿の仲だったシャオシャオを意識するようになる。イージンがイーチェンの同僚シアンの取材をすることになり、知り合いであるモーションが同行することに。そこにイン・フイから電話がかかる。大事な話があると言われ向かったモーションは、離婚は成立していないと告げられる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-59_s1_p24/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260730133000 +0000" stop="20260730161000 +0000">
+		<title>蒼蘭訣～エターナル･ラブ～ 第34〜36話</title>
+		<desc>赤地女子(せきちじょし)は、自らの身に異変が起きているのに気づくが、元神(げんしん)を祟気(すいき)に侵された赤地女子は警備の兵を無意識に殺してまう。そして、雲中君(うんちゅうくん)の命で死罪に処されることになる。澧沅仙尊(れいげんせんそん)は、容昊(ようこう)を牢から出すために渡業淵(とぎょうえん)に向かうが、まさに容昊を解き放とうとしたその時、丹音(たんいん)が現れ、それを止めようとする。しかし、容昊の霊力の前に澧沅仙尊は倒れ、容昊が去った後、蝶衣(ちょうい)が父娘に襲いかかるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-210_s1_p34/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260730161000 +0000" stop="20260730185000 +0000">
+		<title>請君(せいくん)~遥かなる恋人たち~ 第10〜12話</title>
+		<desc>陸炎の優しさにどうしても心が揺れる登登。そんな中、父・于癱子(ユー・タンズー)が失踪したため、手がかりのある鶯都へ大海と共に向かうことに。顧北西も偶然を装い無理やり合流する。途中、登登に恨みのある炎火砦は一行を襲おうとするが、事前に陰から守っている陸炎らに成敗され、逆に登登一行を世話するよう陸炎に強いられる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-108_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260730185000 +0000" stop="20260730211000 +0000">
+		<title>美男子江湖伝~SECRET OF LOVE~ 第11〜13話</title>
+		<desc>苦い物が大嫌いな季川は、いつも薬の服用を拒み、扶を困らせていた。季川が趙青峰の勧めには素直に従うことを知った扶は、薬を飲ませる役目を趙青峰に押し付ける。一方、魏旗は、温長老が寒鴉を雇っていた証拠を見つける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/158-118_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260730211000 +0000" stop="20260730230000 +0000">
+		<title>解憂(かいゆう) ~西域に嫁いだ姫君~ 第18〜19話</title>
+		<desc>翁帰の看病に通う解憂は昆弥が嫉妬していることに気づくが、看病は昆弥の代理だと説明し、昆弥にも翁帰の見舞いに行かせる。昆弥を前にした翁帰は、自ら辺境行きを志願して一生都に戻らないと誓った。しかしその翌日、容体が急変、危篤状態に陥ってしまう。仙谷から、翁帰が飲んだ薬湯に毒が入っていたと聞かされた昆弥は、激怒して義妁を投獄した。解憂は翁帰を助けるため、鍼を打たせてくれと昆弥に懇願するが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/274-87_s1_p18/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260730230000 +0000" stop="20260731014500 +0000">
+		<title>あなたに片思い~キミとの距離0.6センチ~ 第27〜29話</title>
+		<desc>ホァイナンはルオ・ジーに会いに行くが、ルオ・ジーは出てこようとしない。そこにバイリーが現れ、ホァイナンは慌てて逃げていく。一方、ミンルイはリーチンに高価なプレゼントを買ったものの、渡せずに帰って来る。そしてその頃、1人でいたジャンイェンの所に、彼女の取り巻きが現われる。そしてジャンイェンに無理やり迫るが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/353-24_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260731014500 +0000" stop="20260731043000 +0000">
+		<title>天龍八部　レジェンド・オブ・デスティニー 第27〜29話</title>
+		<desc>阿紫（あし）がイタズラ心で持ち出した毒針を、掌風で防いだ蕭峯（しょう･ほう）。しかし、すぐそばにいた阿紫は掌風の直撃を受け瀕死の状態に。急いで医者に担ぎ込んだものの、もう助からないと宣告されてしまう。阿朱（あしゅ）の妹を死なせるわけにはいかない。わずかでも阿紫の命を長らえるため、蕭峯は酷寒の長白山に分け入って、人参を探すのだった。その最中、彼は虎に襲われていた男・完顔阿骨打（ワンヤン･アグダ）を助ける。その縁で、蕭峯は女真族の村に招かれ…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/216-46_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260731043000 +0000" stop="20260731061000 +0000">
+		<title>風起洛陽〜神都に翔ける蒼き炎〜 第14〜15話</title>
+		<desc>百里弘毅は身代わりの囚人を用意して高秉燭を牢から逃がし、武思月の救助に向かわせる。高秉燭が向かったのは、かつて王登成に出会った古びた廟。そこでは高秉燭の母親と武思月が王登成の人質となっていた。王登成は高秉燭に、武思月を殺して一緒に春秋道へ入ろうと誘う。一方、離縁の話も出ていた柳然は、何とか夫の百里弘毅と話し合おうとするが相手にされない。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-80_s1_p14/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260731061000 +0000" stop="20260731085500 +0000">
+		<title>独孤伽羅~皇后の願い~ 第35〜37話</title>
+		<desc>般若(はんじゃく)の秘密を知って荒れ狂う宇文毓(うぶんいく)をなだめるため、楊堅(ようけん)は自ら宇文邕(うぶんよう)に頭を下げて頼む。その結果、宇文邕に諭された宇文毓は般若と話し合い、彼女を許すと決める。この出来事に感謝した伽羅(から)は楊堅(ようけん)と初めて口づけを交わし、心を寄せていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-75_s1_p35/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260731085500 +0000" stop="20260731104500 +0000">
+		<title>始まりは君の嘘 第9〜10話</title>
+		<desc>シー・イエンの計らいで、特等席に座れたシューイーたち。しかし、シューイーが男性と連絡先を交換しているのが面白くないシー・イエン。逆にシューイーは、シー・イエンが途中退席したシーユエを気にかけることが気に入らない。一方シーユエは、壇上で話すユー・ヨウが気になっていた声の持ち主だと知る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-73_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260731104500 +0000" stop="20260731133000 +0000">
+		<title>マイ・サンシャイン～何以笙簫默～ 第27〜29話</title>
+		<desc>会社の株価が暴落し、窮地に陥ったイン・フイ。イーチェンはこれに乗じて、モーションの離婚問題を一気に片付けようと動き出す。イン・フイが離婚判決文を偽造した証拠をつかもうとアメリカへ渡ったイーチェンとモーションは、信頼する現地の弁護士ジェイソンの元へ。当時、離婚手続きを頼んだ公証人と接触を試みるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-59_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260731133000 +0000" stop="20260731155500 +0000">
+		<title>宮廷恋仕官〜ただいま殿下と捜査中〜 第1〜3話</title>
+		<desc>唐代後期、皇帝・宣宗(せんそう)は、直属軍である神策軍を宦官に統括させる一方、安郡王・蕭瑾瑜(しょうきんゆ)に司法を一任していた。身分を問わず検視官の登用試験が実施され、地方から出てきた少女・楚楚(そそ)もまた受験者の1人だった。楚楚は街なかである男の傷を見て詐欺を見抜く。楚楚の才能を見た大理寺少卿・景翊(けいよく)は、試験に役立つと言い大理寺の牌を渡す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-37_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260731155500 +0000" stop="20260731183000 +0000">
+		<title>請君(せいくん)~遥かなる恋人たち~ 第13〜15話</title>
+		<desc>3千年前の蜀の国で、陸炎は雲羲に人間界を案内する。雲羲は人間の愛情や腹を満たすだけでなく味覚を楽しむための食事、そして農耕の知恵を知り、人族に学ぼうと考える。そんな雲羲に陸炎は花や木に囲まれた住居を提供する。2人は互いに引かれ合い、人族と霊族の停戦を願い、両族が平和に暮らせる日を夢見て協力し合うようになる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-108_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260731183000 +0000" stop="20260731230000 +0000">
+		<title>成化十四年〜都に咲く秘密〜 第1〜5話【今日のイチオシ！】</title>
+		<desc>順天府の長官・潘賓(はんひん)は山積する事件の審理に頭を抱え、推官・唐泛(とうはん)を呼び出す。すると唐泛は、いくつもの事件をいとも簡単に解決してしまう。帰途に就いた唐泛は、武安侯(ぶあんこう)の嫡男・鄭誠(ていせい)と口論になり騒ぎを起こす。その夜、潘賓に再度呼び出された唐泛は、妓楼で起きた殺人事件に鄭誠が巻き込まれたことを知らされる。一方、錦衣衛(きんいえい)・隋州(ずいしゅう)に皇太子の学友・韓早(かんそう)が失踪したとの連絡が入り、隋州もまた捜査を命じられていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-77_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260731230000 +0000" stop="20260801024000 +0000">
+		<title>恋愛画師 オー！マイ・スイート・ライアー 第15〜18話</title>
+		<desc>如児と世話係の方(ホウ)が熙若に中絶薬を飲ませ続けていたことが発覚する。罪をかぶった方は雲瑤から追放の罰を受け、去り際に熙若の秘密をつかんだことを如児に告げるのだった。薬を絶ったことで体調が戻った熙若は、弘彬にこっそり酒を飲ませ寧心の居場所を聞き出そうとするが、酔った弘彬から「そばにいてほしい」と言われて...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-355_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260801024000 +0000" stop="20260801065500 +0000">
+		<title>ナイショの契約婚～パパはロマンス中!？～ 第11〜15話</title>
+		<desc>シャオバオをサンライト小学校に入れるため、イーユエとニン・ファンはチアオイエンの説得に乗り出す。やっと迎えた登校初日、チアオイエンは会議の場所を急きょ学校の向かいのビルに変更し、イーユエの様子を見張る。ニン・ファンと引き離そうとウソをついて家に呼び戻したチアオイエンだが、だまされたことに気づいたイーユエはカンカン。そんな時、チアオイエンの伯母が突然自宅を訪れ、早々に二人の関係を見抜く。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-48_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260801065500 +0000" stop="20260801112500 +0000">
+		<title>雲之羽 ~揺らめく愛、刹那の二人~ 第11〜14話</title>
+		<desc>第一の試練を突破した宮子羽は決意を新たに前山へと戻るが、雲為衫と霧姫夫人に裏切られたかもしれないと知り動揺する。しかし宮子羽は2人を責めず、雲為衫を宮門から解放することに。そんな中、宮尚角は霧姫夫人を証人として呼び出し、長老の前で宮子羽が先代執刃の実子ではないことを示そうとする。証言を迫られた霧姫夫人は...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-160_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="chinese-drama" start="20260801112500 +0000" stop="20260801155500 +0000">
+		<title>美人骨 第21〜25話</title>
+		<desc>禁衛軍が幼帝をさらって金栄に投降したことで朝廷内では広凌王を次期皇帝に推す声が高まる中、戚氏一族は粛清されることになり幸華公主だけが処刑を免れる。一方、周生辰率いる南辰王軍は金栄の軍に連戦連勝を続け、各地の藩王に出征を呼びかける。この呼びかけに応じて都にやってきた平秦王は、出征前の周生辰を無理やり宮中に連れて行き、時宜と再会させる。その頃、追い詰められた金栄は人質に取った漼風を利用しようと試みるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/519-12_s1_p21/thumb001.png" />
+	</programme>
 	<programme channel="asia-love-comedy" start="20260717143500 +0000" stop="20260717155000 +0000">
 		<title>最高の一発〜時空を超えて〜 第11話【ユン・シユン主演】</title>
 		<desc>同じ事務所で働くようになったウスンとヒョンジェ。「バイト、バイト」と言いながら、ヒョンジェはだんだんウスンに惹かれていく。ある晩ジフンはグァンジェと2人で夜釣りに出て、グァンジェにデビューをさせてほしいと頼む。その晩はドリルも予備軍のために家を空けていた。つまり屋根部屋にはウスンとヒョンジェが2人きり。雨にぬれたヒョンジェが風邪をひいたのか、せきをしている。気になったウスンが様子を見に行くと...。</desc>
@@ -24989,6 +26153,226 @@ https://contents-abema.com/tv-howto-basic/</desc>
 		<desc>父親に殺されかけて記憶をなくしたキム・スヒョンは、殺し屋パーベルに育てられて腕利きのキラーに成長する。やがて認知症を煩ったパーベルのミスによりスヒョンはロシアマフィアに追われる。そんな中、相棒のフィリップを通じて、一人始末するごとにスヒョンの過去の手がかりを提供するという、殺人依頼が舞い込む。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-90_s1_p1/thumb001.png" />
 	</programme>
+	<programme channel="asia-loveromance" start="20260726225500 +0000" stop="20260727000000 +0000">
+		<title>よくおごってくれる綺麗なお姉さん 第11話【チョン・ヘイン主演】</title>
+		<desc>スンホに会いに行ったジュニは、責めるスンホに自分の気持ちを素直に打ち明ける。一方、ジナは携帯の名義変更のためギュミンに会いに行く。ギュミンはジナを車に乗せ一緒に死のうと暴走し、ジナはそんなギュミンに恐怖を覚える。ジナと連絡がつかず心配になったジュニは...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-2_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260727000000 +0000" stop="20260727101500 +0000">
+		<title>女の香り 第9〜最終話【後編一挙】</title>
+		<desc>父、カン会長にセギョンとの婚約を破棄すると伝えたジウク。そんな中、セギョンの父、イム会長が倒れたと連絡を受けたジウクは病院に駆けつける。意識を取り戻したイム会長に婚約破棄の意志を伝えるジウクの姿にセギョンは怒りをぶつける。イム会長により圧力をかけられたラインツアーはキャンセルが相次ぎ...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-167_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260727101500 +0000" stop="20260727110000 +0000">
+		<title>偽りの雫 第1話【今日のイチオシ！】</title>
+		<desc>保険会社に勤めるジョンウォンは、何かと問題を起こす姑ミソンに手を焼きながらも、優しい夫ヨンフンに愛されながら、幸せな毎日を過ごしていた。ある日、年下の親友チャ・ギョンジュから、好きな人がいると打ち明けられたジョンウォン。その相手とは...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/743-40_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260727110000 +0000" stop="20260727143500 +0000">
+		<title>輝く星のターミナル 第3〜8話</title>
+		<desc>空港に爆弾を仕掛けたという脅迫電話があり職員たちに緊張が走る。ごみ箱で不審な袋を発見したヨルムは恐る恐る袋の中身を見るが、そこには大量の金塊が。その金塊が密輸に関係があると考えたヨルムは事件を解決し手柄を立てようとするが、スヨンに管轄外のことに関わらず自分の仕事をするべきだととがめられる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-24_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260727143500 +0000" stop="20260727154500 +0000">
+		<title>ラブレイン 第3話【チャン・グンソク主演】</title>
+		<desc>作りかけの曲「愛の雨」を披露するイナ。仲間たちがイナの意中の相手を詮索する中、気持ちを整理するため衝撃の入隊宣言。動揺するユニに初めて本当の気持ちを伝える。ユニはドンウクとの初デートをすっぽかし、スケッチ旅行に出かけたイナを追って春川へ。雨が降る春川の映画館の前で2人は再会する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-1_s0_p3/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260727154500 +0000" stop="20260727163000 +0000">
+		<title>先輩、その口紅塗らないで 最終話</title>
+		<desc>ヨリを戻したヒョンスンとソンアは、社内恋愛を楽しみ幸せな日々を過ごしていたが、ヨリを戻したことがウォルスンにバレてしまう。一方、ヒョジュからジェウンが結婚することを聞いたジェシンは、久々に連絡を取り、会うことになる。そして、ジェシンとジェウンはお互いの思いを打ち明け...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-37_s1_p32/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260727163000 +0000" stop="20260727174500 +0000">
+		<title>ブラームスは好きですか？ 第25〜26話</title>
+		<desc>ソン・ジョンヒ教授の教え子にレッスンしていたことを知られたジョンギョン。取り返しのつかない事態に焦るジョンギョンは、ジュニョンに対して感情的になる。ジュニョンは父がジョンギョンから援助を受けていたことを知り...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-200_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260727174500 +0000" stop="20260727230000 +0000">
+		<title>スタイル 第1〜4話【日替わり一挙】</title>
+		<desc>人気ファッション雑誌「スタイル」のアシスタントとして働くイ・ソジョンは、次長のパク・キジャにこき使われる日々を送っていた。ソジョンは取材交渉のためソ・ウジンがシェフを務めるパーティーに潜入するが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-190_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260727230000 +0000" stop="20260728000000 +0000">
+		<title>よくおごってくれる綺麗なお姉さん 第12話【チョン・ヘイン主演】</title>
+		<desc>セクハラ問題が明るみに出た会社ではコン次長をはじめ男性社員が女性社員の行動を監視していた。そんな中、ジナとジュニは覚悟を決め、自分たちの関係を打ち明けることにする。ジナはスンホに相談するが、この先2人が別れることになれば、ギョンソンにも会えなくなると言われ...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-2_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260728000000 +0000" stop="20260728102000 +0000">
+		<title>ハベクの新婦 第1〜8話【ナム・ジュヒョク主演】【前編一挙】</title>
+		<desc>水国の次期王ハベクは即位の時が近づき、3人の管理神から神石を受け取るため人間界へと向かうことに。しかし公式ルートを外れ、予定外の場所に放り出されてしまう。そこで神経精神科医のソアと出会うのだが、自分は神だと名乗るハベクを患者だと誤解するソア。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-64_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260728102000 +0000" stop="20260728110000 +0000">
+		<title>もう一度始めよう 第1話【今日のイチオシ！】</title>
+		<desc>ヨンジャは医師を夢見る医大生。所有するビルで産婦人科を営む父ボンイルを尊敬し、父のような産婦人科医を目指して国家試験の勉強に励んでいる。一方、ウナファーマーズの社長テソンは、ボンイルのビルで新規事業を開拓しようとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/743-41_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260728110000 +0000" stop="20260728145500 +0000">
+		<title>私の期限は49日 第1〜3話</title>
+		<desc>恋人を亡くし、すさんだ毎日を送るソン・イギョンは彼の命日に自殺を図り、彼女を避けようと起きた玉突き事故に、婚約式を終え幸せいっぱいだったジヒョンが巻き込まれてしまう。幽体離脱したジヒョンに、黄泉の国へと導くスケジューラーから、49日以内に肉親以外で真に自分を愛する人間の涙を3粒集めればよみがえることができると言われ、イギョンの身体を借りて涙を集めることに。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-179_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260728145500 +0000" stop="20260728160500 +0000">
+		<title>ラブレイン 第4話【チャン・グンソク主演】</title>
+		<desc>互いを求めて走り始めるイナとユニだったが、イナはドンウクに勝負を挑まれ、ユニもイナとの噂がキャンパス内で広まり苦しんでいた。また、イナが日記帳を隠し持っていたと知り怒りが収まらないユニ。そんな中、重度の結核が発覚し、ユニは誰にも告げずに休学届けを出す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-1_s0_p4/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260728160500 +0000" stop="20260728170000 +0000">
+		<title>夫婦の世界 第1話</title>
+		<desc>夫の故郷で富と名誉を手に入れ、愛する夫イ・テオ(パク・ヘジュン)とかわいい息子イ・ジュニョンに囲まれ幸福な日々を送る美貌の女医チ・ソヌ(キム・ヒエ)。そんなある日、出張から帰ったテオとの再会を喜ぶソヌだったが、テオのポケットから女性物のリップが見つかる。そして、その翌日にはテオのマフラーにソヌのものではない1本の茶色い長い髪が。夫の浮気を疑いつつも、いつもと変わらないテオの態度にソヌは動揺を隠せないでいた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260728170000 +0000" stop="20260728182000 +0000">
+		<title>ブラームスは好きですか？ 第27〜28話</title>
+		<desc>自分が弾いたピアノの音源が、師事するユ・テジン教授の名前で動画サイトにアップされていることを知ったジュニョン。ユ教授に抗議するもシラを切られてしまう。ジョンギョンはジュニョンの力になろうとヒョノを呼び出すが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-200_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260728182000 +0000" stop="20260728225500 +0000">
+		<title>ハッピートゥギャザー 第1〜4話【日替わり一挙】</title>
+		<desc>野球の二軍選手のテプンは、いつか有名な選手になって、13年前に離れ離れになった4人の兄弟達と再会できる日を夢見ている。評価試合で活躍し、今度こそ一軍への切符を手に入れようと必死のテプンは、奇跡的にもヒットを放つ。ところが、勢いあまって審判に激突し骨折。そのまま怪我をした審判と一緒に入院する羽目になる。しかしそこで、思いもよらぬ再会と出会いが彼を待っていた...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-137_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260728225500 +0000" stop="20260729000000 +0000">
+		<title>よくおごってくれる綺麗なお姉さん 第13話【チョン・ヘイン主演】</title>
+		<desc>ジナはサンギにジュニとの仲を打ち明けるが、すでに知っていたという事実に安堵するも、ミヨンという壁が立ちはだかり気が気ではない。そして、ギョンソンに知られたというジュニの言葉にジナはギョンソンの元へ急ぐ。冷たい態度を取るギョンソンだが、ジナは自分の気持ちを伝える。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-2_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260729000000 +0000" stop="20260729100000 +0000">
+		<title>グッド・ドクター 第9〜最終話【後編一挙】</title>
+		<desc>キュヒョンは屋上から飛び降りようとするが、「君が死んだらみんなが悲しむ」と話すシオンの言葉に自殺を思い止まる。だが手術を拒み続ける彼の母に、シオンはキュヒョンを案じる。そんな中、ドハンから転科を勧められ、シオンは落ち込む。キュヒョンの病室を訪ね、歌えなくなったら何もなくなると言うキュヒョンに、シオンは、自分も外科医になれないかもしれないと話す。だが、キュヒョンに「それでも先生は夢に挑戦できる」と言われ・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/308-22_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260729100000 +0000" stop="20260729110000 +0000">
+		<title>私が死ぬ一週間前 第1話【今日のイチオシ！】</title>
+		<desc>ある出来事をきっかけに生きる意欲をなくし、荒んだ生活を送るチョン・ヒワンの前に、高校時代の友人であるキム・ラムが死神となって現れる。突然のことに戸惑うヒワンだが、ラムから一週間後に死ぬと宣告され...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-250_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260729110000 +0000" stop="20260729142500 +0000">
+		<title>ドクターズ〜恋する気持ち 第9〜11話</title>
+		<desc>ソウは怒りにまかせ、ユンドの頬を打つ。ヘジョンへの劣等感が強いソウはユンドを責めるが、逆にユンドはその劣等感を刺激する。理事会を開いたドゥシクは、辞職をせず問題を解決すると宣言。しかし、ドゥシクの様子に異変を感じたジホンは、検査をするよう説得するが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-9_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260729142500 +0000" stop="20260729153000 +0000">
+		<title>ラブレイン 第5話【チャン・グンソク主演】</title>
+		<desc>自分を探しに田舎まで訪ねてきてくれたイナに冷たく接してしまうユニ。イナはラジオの公開放送のことを告げ、その場を去ってしまう。そして公開放送当日、最後の出演者としてイナ、ドンウク、チャンモの3人がステージに上がる。イナが客席を見ると、そこにはユニの姿が。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-1_s0_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260729153000 +0000" stop="20260729162500 +0000">
+		<title>夫婦の世界 第2話</title>
+		<desc>テオ(パク・ヘジュン)の母の見舞いに訪れたソヌ(キム・ヒエ)は、病室にテオがいたことで安心するが、テオの嘘が発覚しさらなる疑惑を抱く。そして、浮気の確証を得るために自分の患者ミン・ヒョンソに睡眠薬とひきかえにテオの尾行を依頼する。テオの愛人を確認したヒョンソは、テオが車のトランクに何かを隠しているとソヌに告げる。大勢の友人たちが集まったテオの誕生日に、ソヌがトランクを開けると...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-1_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260729162500 +0000" stop="20260729174000 +0000">
+		<title>ブラームスは好きですか？ 第29〜30話</title>
+		<desc>ジュニョンと別れたソンアだったが、ムンスクにジュニョンが幸せそうで嬉しいと言われ気まずくなる。そんな中、ヨンインから財団の創立15周年公演の手伝いを頼まれたソンアは、ジュニョンと別れたことを話して辞退する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-200_s1_p29/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260729174000 +0000" stop="20260729230000 +0000">
+		<title>僕のヤバイ妻 第1〜8話【日替わり一挙】</title>
+		<desc>レストランのオーナー キム・ユンチョル(チェ・ウォニョン)と、その妻シム・ジェギョン(キム・ジョンウン)。一見すると、幸せそうな夫婦だが、実は夫のユンチョルは妻の手が触れるだけでも蕁麻疹が出るほど結婚生活に嫌気がさしていた。ユンチョルは浮気相手で、レストランの総括チーム長チン・ソンミからジェギョンを殺害しようと持ちかけられるが、計画を実行しようとした日の夜、ジェギョンが誘拐され巨額の身代金を要求される。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-38_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260729230000 +0000" stop="20260730000000 +0000">
+		<title>よくおごってくれる綺麗なお姉さん 第14話【チョン・ヘイン主演】</title>
+		<desc>ジナの本当の気持ちを聞いたギョンソンはジナとジュニの仲を認めることにする。そんな中、ついに自分たちの関係をミヨンに打ち明けるジナとジュニ。激怒したミヨンは早速ギョンソンを訪ね、このままだと取り返しがつかなくなると話し、ジナとジュニを引き裂くよう説得する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-2_s1_p14/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260730000000 +0000" stop="20260730104500 +0000">
+		<title>誘惑 第10〜最終話【後編一挙】</title>
+		<desc>アジングループの勢いに押され気味のセヨンは、ブラジルから帰ってきたソックンとの再会に心躍らせるものの、わざと横柄な態度を見せる。一方、ホンジュはミヌの母からの贈り物を返しにミヌの家を訪れ、ロイと再会する。セヨンは、資金援助を取り付けるために、パートナー同伴のパーティーにソックンと参加するが、そこでミヌとホンジュに出会う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-155_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260730104500 +0000" stop="20260730110000 +0000">
+		<title>君のそばに ~Touching You~ 第1話【今日のイチオシ！】</title>
+		<desc>素肌に触れた相手の近い未来が見えるという不思議な能力を持つト・ジヌは、友人のオ・ヨンダルがオーナーの占いカフェで占い師をしていた。ある日、近くの化粧品店で働く”天使”が、彼氏とのことを占ってほしいとカフェを訪れる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/734-6_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260730110000 +0000" stop="20260730121000 +0000">
+		<title>相続者たち 最終話【イ・ミンホ主演】</title>
+		<desc>タンは、海外株主者たちに一人一人会って委任状を受けヨンドに助けを求める。一方、ヒョンジュはウォンに別れを切り出す...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-13_s1_p20/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260730121000 +0000" stop="20260730143000 +0000">
+		<title>アイドルアイ 第1〜2話</title>
+		<desc>確かな腕と名声を持つ有名弁護士のメン・セナ。一見クールな彼女だが、実は人気バンド、ゴールドボーイズのメインボーカルであるト・ライクの大ファン。待ちに待ったソロ活動が始まりセナは仕事も推し活も精を出していく。一方のライクはストーカー被害や精神的苦痛を抱えつつも、ソロ歌手として初コンサートの日を迎えるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-52_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260730143000 +0000" stop="20260730155000 +0000">
+		<title>ラブレイン 第6話【チャン・グンソク主演】</title>
+		<desc>32年の時が流れ、2012年。イナの息子でフォトグラファーのジュンは、撮影のため雪の降り積もる北海道へ。一方、ユニの娘ハナは北海道の大学でガーデニングを学んでいた。2人は駅でぶつかり、ハナの携帯電話がジュンのポケットに。ハナは携帯を取り戻そうとジュンに連絡をとるが、2度もすっぽかされてしまう。興味本位からハナの携帯を見たジュンは、ダイヤモンドスノーの映像に目を奪われる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-1_s0_p6/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260730155000 +0000" stop="20260730164500 +0000">
+		<title>夫婦の世界 第3話</title>
+		<desc>トランクから出てきた決定的な証拠から、浮気相手が地元の有力者ヨ会長の娘ヨ・ダギョンだと知り激しく動揺するソヌ(キム・ヒエ)。そのうえ、友達と信じていた人たちがテオ(パク・ヘジュン)とグルで自分を騙していた事実を知り、ソヌは深く傷つく。浮気に気付かぬふりを装い誕生会から一人先に帰ったソヌだったが、ジュニョンを送ってきた同僚のソル・ミョンスクにテオの浮気に気づいていると告げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-1_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260730164500 +0000" stop="20260730180500 +0000">
+		<title>ブラームスは好きですか？ 第31〜32話</title>
+		<desc>ソンアの卒業演奏会の伴奏を終えたジュニョンは、これまで抱いていた思いの丈をソンアに打ち明ける。しかし時間が欲しいと答えるソンア。しばらくして、ソンアはジュニョンから自身の卒業演奏会のチケットを渡されるのだが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-200_s1_p31/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260730180500 +0000" stop="20260730225500 +0000">
+		<title>輝くロマンス 第1〜3話【日替わり一挙】</title>
+		<desc>ハジュンは本部長としてJリゾートに赴任する。ハジュンはリゾートを視察中に、ビンナが痴漢に遭っていると勘違いし、助けようとする。警察へ突き出されそうになったテシクを助けるため、ビンナはテシクが恋人だと言ってかばう。一方、長男の初出勤を心配するテリはハジュンの元へ行きたがるが、夫のデプンに反対される。テリは夫に内緒で1人で向かうことにする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-224_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260730225500 +0000" stop="20260731000000 +0000">
+		<title>よくおごってくれる綺麗なお姉さん 第15話【チョン・ヘイン主演】</title>
+		<desc>骨折したミヨンをかいがいしく世話するジナ。それもすべてジュニから学んだのだとサンギに話し、その夜ジュニに会いに行くが、何とかジナとジュニを別れさせたいミヨンはジナを追いジュニの家へと向かう。ジュニはジナに会わせないよう必死にミヨンをなだめ、ジナを家に帰すが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-2_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260731000000 +0000" stop="20260731110000 +0000">
+		<title>キルミー・ヒールミー 第10〜最終話【後編一挙】</title>
+		<desc>ドヒョンの寝室で目覚めたセギは、リジンがドヒョンと一緒にいたことに腹を立てる。別人格たちが平和に共存するための仲介役をしているのだと説明するリジンだったが、セギは聞く耳を持たない。一方、リジンをドヒョンの秘書だと思っているファランは、リジンを呼び出してドヒョンの様子を聞きだそうとするが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-18_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260731110000 +0000" stop="20260731144000 +0000">
+		<title>屋根部屋のプリンス 第15〜17話</title>
+		<desc>パク・ハがプヨンの生まれ変わりであることを知ったイ・ガクは、プヨンとの再会に心から喜ぶ。インジュを名乗るセナは、チャン会長がセナとテムの嘘に気付いていることを知らない。代表取締役にテムを投票するように頼むセナであったが、投票日当日、チャン会長はテヨンに票を投じる。困ったテムは本物のテヨンを韓国に移送し、イ・ガクが偽者であることを役員たちの前で暴こうとするが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-166_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260731144000 +0000" stop="20260731155500 +0000">
+		<title>ラブレイン 第7話【チャン・グンソク主演】</title>
+		<desc>初恋を忘れられない父のせいで愛が信じられず、遊びの恋ばかり繰り返すジュン。ハナを誘惑するはずが、彼女の瞳を見ていると心がざわつく。ジュンのミスで携帯が壊れ、母親の初恋相手に会うチャンスを逃したハナは落胆し、彼の横柄な態度に憤慨する。ジュンはゴメンという言葉の代わりに服をプレゼントしようと、深夜に車を飛ばしてハナの元へ。そんな彼のツンデレな言動にハナは困惑するが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/188-1_s0_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260731155500 +0000" stop="20260731164500 +0000">
+		<title>夫婦の世界 第4話</title>
+		<desc>ある日、浮気相手のダギョンがソヌ(キム・ヒエ)の病院を訪れる。体の不調を訴えるダギョンを診察したソヌは衝撃の事実を知ることになる。そしてソヌは、ジュニョンと野球合宿から帰ってきたテオ(パク・ヘジュン)に女の存在を問いただすが、テオは自分を信じないソヌに怒り浮気を否定するのだった。一方、ヒモの彼氏パク・インギュに常習的にDVを受けているヒョンソは、ソヌによって救い出されるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-1_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260731164500 +0000" stop="20260731175500 +0000">
+		<title>君を守りたい〜SAVE ME~ 第1話</title>
+		<desc>父の会社が倒産したことで、サンミはソウルから田舎のムジ郡に引っ越すことになった。その道中、車のタイヤがパンクし、サンミ一家は偶然通りかかったサンファンとドンチョル、マニ、ジョンフンの4人に助けられる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-67_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260731175500 +0000" stop="20260731224000 +0000">
+		<title>明日、キミと 第1〜4話【日替わり一挙】</title>
+		<desc>時間移動ができる男ソジュンは、地下鉄で偶然出会ったマリンに強く惹かれる。不思議な縁を感じつつ、彼女との関係が静かに始まる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-88_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260731224000 +0000" stop="20260801030000 +0000">
+		<title>優雅な一族 第9〜11話</title>
+		<desc>ソッキはナリと手を組み、屋敷に住まわせることにした。最有力容疑者であるヨンソを精神的に追い詰めようという作戦だった。実はナリには、女優になる前にワンスと付き合っていたが、ワンスが後継者候補ではないと知り、より権力のあるチョルヒに乗り換えたという過去があった。ワンスとナリの関係を怪しんだジェグクは、ユンドに調査を命じる。一方、TOPはワンジュン夫婦を離婚させるため、スジンの不倫を仕組もうとしていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-207_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260801030000 +0000" stop="20260801105000 +0000">
+		<title>青い海の伝説 第1〜7話【イ・ミンホ×チョン・ジヒョン】【前編一挙】</title>
+		<desc>1598年8月、江原道。新任県令のタムリョンはヤン氏の旅館を訪れた際、生け捕りにされた美しい人魚と出会う。人魚を哀れんだタムリョンは、ヤン氏の罪を口実に人魚を海に逃がす。それから時は流れて現代のソウル。そこには詐欺師として生きるジュンジェの姿があった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/504-46_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260801105000 +0000" stop="20260801130000 +0000">
+		<title>19歳の純情 第1〜3話【今日のイチオシ！】</title>
+		<desc>結婚を控えたヤン・グッカは船で嫁ぎ先へと向かっていた。そんな中、婚約者のホン・スングが交通事故で帰らぬ人となる。スングの家族はグッカと連絡を取ろうとするも...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-150_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-loveromance" start="20260801130000 +0000" stop="20260801170500 +0000">
+		<title>白夜姫 第104〜110話</title>
+		<desc>ヒョギョンを兄から引き離すためアトリエに乗り込んだソンジは、ヒョギョンを説得しつつ食事の支度までさせる。一方 主演女優に関心を示すファオムに嫉妬したヤは、ヒット祈願パーティーを欠席すると言い…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-217_s1_p104/thumb001.png" />
+	</programme>
 	<programme channel="asia-historical" start="20260717134500 +0000" stop="20260717151000 +0000">
 		<title>宮〜Love in Palace ディレクターズ・カット 第13話</title>
 		<desc>済州島を訪れていたチェギョンは、太皇太后(※)の提案で付き人に内緒でこっそり外出し、シンと太皇太后と3人で楽しい時間を過ごす。しかし、宮廷に戻ると入宮したファヨンから皇太子妃としての自覚が足りないと叱責され、勉強の内容まで細かく注意されてしまう。それを知った皇后は、チェギョンにまで干渉するファヨンと対立。一方、ネットで皇太子夫婦の不仲説が流れてしまい、それを鎮めるために王室はふたりの床入り(初夜の儀式)を早めることに。何も知らないチェギョンとシンは、離れの楼閣・義愛合に連れて来られ、一晩閉じ込められてしまう。しかも、シンは事前にコン内官から謎の漢方薬を飲まされていて......。※追尊により、皇太后は太皇太后へ</desc>
@@ -25377,6 +26761,286 @@ https://contents-abema.com/tv-howto-basic/</desc>
 		<title>王の女 第2〜4話</title>
 		<desc>王妃・中殿パク氏が誤って宣祖へ器を投げつけてしまい宮殿内は騒然とする。 自分の息子・信城君を国王にして実権を握りたい後宮ヤンファダンは、この一件を利用しようと画策する。兄の臨海君と狩りへ行った光海君は、この先の人生を左右する策士メン・ジチョンと出会う。 臨海君の部下となったイ・ハンミンは、対抗勢力一派の暗殺を繰り返していたが、ある夜、罠にかかり傷を負ってしまう。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-144_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260726214500 +0000" stop="20260726230000 +0000">
+		<title>シンイ-信義- 第10話【イ・ミンホ主演】</title>
+		<desc>千年前の神医の手帳に自分が書いたと思われる文字と自分の名前が残されているのを見て、動揺するウンス。手帳に現代へ戻る手掛かりがあると推測するが、キ・チョルに取り上げられる。一方、ヨンは王の忠臣になり得る人材の名簿を作り上げていた。そんな中、ウンスはヨンにこれまでの礼を告げ、自力で現代に帰ると言い出す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-16_s0_p10/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260726230000 +0000" stop="20260727014000 +0000">
+		<title>イ・サン 第54〜55話</title>
+		<desc>重臣たちを殺害した犯人がホン・グギョンではないと確信したサンは、ホン・グギョンの取り調べを中止させる。そして、それを問い詰める重臣たちに、今夜にもまた新たな重臣を狙って真犯人が現れるはずだから、その者を捕らえホン・グギョンの無実を証明すると断言する。
+元嬪(ウォンビン)の部屋に飾る懐妊祈願の屏風絵を描くことになったソンヨン。元嬪に自分のもとで描くよう言われた彼女は、チョビと共に宮殿を訪れる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-391_s1_p54/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260727014000 +0000" stop="20260727035000 +0000">
+		<title>輝くか、狂うか 第21〜22話【チャン・ヒョク主演】</title>
+		<desc>ワン・ウクとシンユルの国婚が決まり、裏をかかれたワン執政はみずから皇帝になろうと企んでいた。シンユルは自分がいなくても商売ができるように、仕事の記録を整理する。一方、ヨウォンは豪族たちをワン・ソ側にまとめようとしていた。プンの下で働くワン・ソは徴集された役夫たちと西京に向けて出発するのだが。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-39_s1_p21/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260727035000 +0000" stop="20260727062000 +0000">
+		<title>チャン・オクチョン 第15〜16話【キム・テヒ×ユ・アイン】</title>
+		<desc>大妃の策略により、流産してしまったオクチョン。粛宗はオクチョンが息子を産んだも同然と、彼女に禧嬪の位を与える。だが、世継ぎを生んでも、王妃の子として育てられると知ったオクチョンは一つしかない王妃の座への欲望を燃やし始める。そんなある日、王妃が粛宗のために用意した夜食を食べたオクチョンが倒れてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-12_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260727062000 +0000" stop="20260727084500 +0000">
+		<title>王の顔 第12〜13話【ソ・イングク主演】</title>
+		<desc>数百隻の敵船が攻めてきたとの知らせを受けた宣祖(ソンジョ)は、名将シン・リプを戦地へ派遣し、ひそかに信城君(シンソングン)を訪ねて世子(セジャ)冊立の意向を明らかにする。ドチは宣祖が1人になる時間を狙って暗殺しようと企むが、同じ日にコ・サンも宣祖とカヒが共に一夜を過ごす計画を進めていた。一方、光海君(クァンヘグン)は、都を離れて避難することを決めた宣祖を訪ね、ある提案をする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-33_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260727084500 +0000" stop="20260727115500 +0000">
+		<title>哲仁王后〜俺がクイーン！？〜 第4〜5話</title>
+		<desc>哲宗に薦められた茉莉花茶の香りを嗅ぎ、置屋からの帰り道で自分を殺そうとしたのが哲宗だと気付いたソヨン。何とか平然を装うとするが、哲宗に自白茶を飲まされてしまう。そのことに激怒したソヨンは、自分より弱い者を殺そうとする殺人鬼だと哲宗を罵る。そんな中、ファジンの腰元であるオウォルが突然姿を消す。ファジンはオウォルを助けるために、ソヨンを池に突き落としたのは自分だと自白するが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-366_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260727115500 +0000" stop="20260727141000 +0000">
+		<title>宮廷女官チャングムの誓い 第35〜36話</title>
+		<desc>宮中に配属されたチャングム。最高尚宮となったクムヨンと提調尚宮(チェジョサングン)になったチェ尚宮と再会する。一方、右議政(ウウィジョン)となったオ・ギョムホと、ジョンホと共に改革を進める左賛成(チュアチャンソン)の意見が対立。宮中での権力争いは激しさを増していく...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-17_s1_p35/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260727141000 +0000" stop="20260727153000 +0000">
+		<title>宮〜Love in Palace ディレクターズ・カット 第19話</title>
+		<desc>ケンカしたまま宮廷に戻ったシンとチェギョン。シンは自分の非を認めて謝るが、チェギョンの怒りは納まらない。さらに、シンもふた言目にはヒョリンのことを持ち出すチェギョンに閉口し、ふたりの距離はますます離れてしまう。王室では、毎年行われている生放送の公式インタビューを、病気が完治していない皇帝の代わりに、皇太子夫婦が受けることに決める。そんななか、チェギョンは学校で、両親が娘の立場を利用して利益を得ているという噂を耳にし、宮廷での生活に息苦しさを感じてしまう。それに気づいたシンは、独断でチェギョンに里帰りを許可するが、それを知った皇后からチェギョンは叱られ......。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-23_s1_p19/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260727153000 +0000" stop="20260727192500 +0000">
+		<title>済衆院 / チェジュンウォン 第4〜6話</title>
+		<desc>ミン・ヨンイクを背負ったファン・ジョンは、銃をかまえたアメリカの公使とムク・インドクに護衛されながらユ・ヒソと逃げるのだが、彼らを発見した軍人が刀を持って襲ってくる。アメリカの公使とムク・インドクが銃を撃つと軍人たちは倒れ、緊張でおろおろとする人々の中を抜けて、ファン・ジョンは走っていく。朝鮮語の勉強をしていたアレンとソンナンは、郵便局の開局祝賀会で朝鮮の官僚が刀で斬られたいうことで、アレンを連れてくるように言われたことを聞き、往診のかばんを持って走っていく。アレンを待っていたファン・ジョンとムク・インドクは、随行員が連れてきた別の東洋医たちが大監(テガム)を診察すると言いながら強引に入ってきたので驚くのだが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-97_s1_p4/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260727192500 +0000" stop="20260727214500 +0000">
+		<title>王の女 第5〜6話</title>
+		<desc>窮地に陥った臨海君を助けるべく、光海君は正妃・中殿パク氏とともに宣祖のもとを訪ね許しを請う。 王の側近たちは王位継承者を決めるよう宣祖へ上奏することを決める。 その矢先、臨海君が信城君に暴力を振るう事件が起こる。 光海君が入宮していると聞いて宮廷内を捜し歩いていたケトンが、その場に偶然出くわして信城君をかばったことにより、ヤンファダンとケトンは初めて対面する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-144_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260727214500 +0000" stop="20260727230000 +0000">
+		<title>シンイ-信義- 第11話【イ・ミンホ主演】</title>
+		<desc>ヨンと王が作った名簿を奪い、そこに記された人材を殺めていくキ・チョル。取引としてウンスの名を出され、危険を感じたヨンは彼女を助けに向かう。キ・チョルの舎弟に、お前の一番大事な人を殺すと脅されたウンスは、現れたヨンを冷たく振り払う。笑わなくなったウンスを案じるヨン。ウンスは自力で現代へ帰ろうとし...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-16_s0_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260727230000 +0000" stop="20260728014500 +0000">
+		<title>イ・サン 第56〜57話</title>
+		<desc>懐妊が実は想像妊娠だったと主治医に告げられた元嬪(ウォンビン)。兄のホン・グギョンは主治医に口止めをするのだが、そこへ偶然サンが。何の話だと問われたホン・グギョンは、ヒョイ王妃が元嬪に贈った薬の話をしていたと嘘をつく。恵慶宮(ヘギョングン)は、王室の慣例である懐妊を確かめる薬を元嬪に飲ませるよう医女に指示するのだが...。
+一方、連行されていたミン・ジュシクが逃走したとの知らせが。ホン・グギョンはすぐにチャン・テウの仕業と決めつける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-391_s1_p56/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260728014500 +0000" stop="20260728035500 +0000">
+		<title>輝くか、狂うか 第23〜最終話【チャン・ヒョク主演】</title>
+		<desc>西京に着くなりプンに襲われたワン・ソは執政の家に秘密があると睨む。一方、執政から実の妹シンユル暗殺を命じられたセウォンはみずからワン・ウクの剣に倒れる。シンユルの命を危険から救うため、ワン・ウクはシンユルを死んだことにする。その頃、開京で暴動が起こるという情報を得たワン・ソは急ぎ西京を後にする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-39_s1_p23/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260728035500 +0000" stop="20260728063000 +0000">
+		<title>チャン・オクチョン 第17〜18話【キム・テヒ×ユ・アイン】</title>
+		<desc>大臣らの前で懐妊の事実を明かしたオクチョン。オクチョンと粛宗は以前の仲睦まじい姿を取り戻す。そんな二人をチンが物陰から見つめていた。そこにはもう一人、チェ・ムスリの姿があった。こうしてオクチョンは男児を生む。粛宗は我が子ユンを世子にするため、オクチョンを側室ではなく王妃の地位に就けようと考えていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-12_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260728063000 +0000" stop="20260728085500 +0000">
+		<title>王の顔 第14〜15話【ソ・イングク主演】</title>
+		<desc>敵将の木下は朝鮮の王宮と民を蹂躙し、手柄を立てようと朝鮮の宝物を集めていた。そんな中、光海君(クァンヘグン)は全国各地を回って義兵を募り、共に敵と戦いながら義兵軍の指揮をしていた。行く先々で勝利を収める光海君。一方、避難先で明に援軍を要請したことにより屈辱を受けた宣祖(ソンジョ)は、光海君に対する称賛の声を耳にして腹を立て、光海君に王位を譲ると言い出す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-33_s1_p14/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260728085500 +0000" stop="20260728114500 +0000">
+		<title>哲仁王后〜俺がクイーン！？〜 第6〜7話</title>
+		<desc>皆が寝ている早朝に大造殿を抜け出し池へと向かったソヨン。大雨のおかげで水がたまった池に再び身を投げる。そのころ、哲宗は昼間に交わしたソヨンとの会話をふと思い出す。ソヨンが再び自殺しようとしていると気付いた哲宗は慌てて池へと向かう。哲宗のおかげで一命を取り留めたソヨンだが、何度も自殺を図ったことを理由に豊安チョ家から廃位を上疏されてしまい...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-366_s1_p6/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260728114500 +0000" stop="20260728140500 +0000">
+		<title>宮廷女官チャングムの誓い 第37〜38話</title>
+		<desc>チェ提調尚宮の巧妙な差し金で王に腹を立てた大妃は一切の病気の治療を拒否する。大妃の病気は加齢のために症状があらわれにくく、危険な状態にあった。王は大妃に治療を受けてもらいたい一心で、公務さえも放棄し懸命に懇願する。そして、チャングムは身を投げ打って大妃にある賭けを申し出るのだが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-17_s1_p37/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260728140500 +0000" stop="20260728152500 +0000">
+		<title>宮〜Love in Palace ディレクターズ・カット 第20話</title>
+		<desc>夜遅くチェギョンが男と密会していたと新聞にスクープされ、太皇太后らに呼び出されたチェギョンは、ユルをかばって一緒にいたのは父親だったとウソをつく。チェギョンはユルから、みんなに本当のことを話せと言われるが、これまでずっと助けられてきたから、友達として一度くらいは助けたいと、ひとりで解決しようとする。しかし、チェギョンの不倫スキャンダルは過熱する一方で、とうとう皇后に一緒にいたのがユルだったとバレてしまう。そんななか、チェギョンはヒョリンが夢を実現するため留学することを知る。一方、ユルはチェギョンに、離婚できる方法を見つけたと、その方法を彼女に話す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-23_s1_p20/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260728152500 +0000" stop="20260728192500 +0000">
+		<title>済衆院 / チェジュンウォン 第7〜9話</title>
+		<desc>民衆は、済衆院(チェジュンウォン)が開院すると石を投げつけ、西洋人は出て行けと叫ぶ。暴徒たちを止めようとしたソンナンは、怒りにあふれた暴徒に包囲されたがドヤンによって何とか抜け出す。ワタナベを呼んだ日本公使は朝鮮の開化を象徴する済衆院が繁栄しないように取り締まるよう指示する。高宗を訪ねた日本公使は西洋人のせいで患者が来ないとワタナベを済衆院の院長に推薦する。ソンナンは、ファン・ジョンに対する疑いを晴らそうとするが、ドヤンはファン・ジョンとソンナンが一緒にいることが、気に入らないと正直に話す。ソンナンの優しい気持ちが負担なファン・ジョンはお嬢様の助けが周りから誤解されるかも知れないから、これからは自分の事を気にするなとお願いするのだが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-97_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260728192500 +0000" stop="20260728214500 +0000">
+		<title>王の女 第7〜8話</title>
+		<desc>互いにひかれあう光海君とケトン。ケトンは、王の女官である自分は王子と結ばれることはできないので、光海君が王になるまで待ち続けると告げる。 策士メン・ジチョンは一目でケトンを傑物と見抜き、光海君のためにヤンファダンの動きを探るよう懇願する。 一方、支持者であるチョン・チョル一派が流刑を宣告されたことで孤立した臨海君に、妻のホ氏は生きるために今は刀を置くよう説得する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-144_s1_p7/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260728214500 +0000" stop="20260728230000 +0000">
+		<title>シンイ-信義- 第12話【イ・ミンホ主演】</title>
+		<desc>ウンスの手帳を手に入れるためキ・チョルを待つヨン。決死の覚悟でキ・チョルに立ち向かうが、ウンスが現れる。命がけでヨンを守ろうとするウンスに、退くしかないキ・チョル。そして、ヨンは死のうとしないでと泣くウンスに、二度と無駄に命は賭けないと誓う。そんなヨンにウンスは、共に戦うパートナーになろうと話す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-16_s0_p12/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260728230000 +0000" stop="20260729013500 +0000">
+		<title>イ・サン 第58〜59話</title>
+		<desc>元嬪(ウォンビン)の偽装流産がヒョイ王妃に知れたと聞いたホン・グギョンは、すぐにサンのもとへ向かう。するとそこにヒョイが。ヒョイはサンにホン・グギョンのことを尋ねていた...。
+一方、ソンヨンから元嬪の偽装流産の話を聞いたテス。ホン・グギョンを信頼する彼は、元嬪と一緒にホン・グギョンもサンを裏切ったなどとはとても信じられずに当惑する。
+ヒョイのもとを訪れたホン・グギョンは、元嬪だけは許してほしいと懇願するのだが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-391_s1_p58/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260729013500 +0000" stop="20260729041500 +0000">
+		<title>100日の郎君様 第1〜2話【ド・ギョンス(EXO-D.O.)主演】</title>
+		<desc>王族イ・ユルは、近所に住む元 内禁衛将の娘ユン・イソに出会う。活発でかわいいイソに心を奪われたユルは、幼いながらも大きくなったらイソと結婚すると宣言する。ある日、イソの家に行ったユルはイソの父親が殺されるのを目のあたりにするが、全ては父親が王になるための謀反だったと知る。逃げたイソとその兄はそれきり連絡が取れなくなり、大好きだった母親も死んだと聞かされたユルは、世子となるが固く心を閉ざしてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-130_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260729041500 +0000" stop="20260729064000 +0000">
+		<title>チャン・オクチョン 第19〜20話【キム・テヒ×ユ・アイン】</title>
+		<desc>ユンを世子にするため、粛宗は王妃を廃してオクチョンを王妃の座に就けることを決める。粛宗が幼い日に約束した「最高の服」をオクチョンはついに自分のものにした。だがその一方で、誰かが王の心を奪うような気がして、オクチョンは不安に苛まれていく。その頃、王宮を追われた廃妃は必ず王妃として返り咲くと誓っていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-12_s1_p19/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260729064000 +0000" stop="20260729091000 +0000">
+		<title>王の顔 第16〜17話【ソ・イングク主演】</title>
+		<desc>戦乱が終結して1年。宣祖(ソンジョ)は心の病を悪化させ、光海君(クァンヘグン)は明から世子(セジャ)冊立の承認が受けられずにいた。そんな中、宣祖は民のために宴を催すが、集まったのは光海君をたたえる民だけだった。戦で勝利したのは自分が明に援軍を要請したからだと主張する宣祖は、功臣の名簿から光海君の名前を外すが、そのことに不満を抱いて抗議した義兵長らは投獄されてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-33_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260729091000 +0000" stop="20260729114500 +0000">
+		<title>哲仁王后〜俺がクイーン！？〜 第8〜9話</title>
+		<desc>本家で療養していたソヨンが無事に目を覚ました。しかし心の声までソヨンの声に変わり、においを嗅ぐことでソヨンの記憶や感情がよみがえるようになる。一方ソヨンが目覚めたと聞き、見舞いを装って帳簿を探しに行くことにした哲宗。しかしムングンから家の案内を受けている途中、井戸を見て地面に崩れる。井戸の湿った臭いを嗅いだソヨンはまた1つ記憶が思い浮かぶが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-366_s1_p8/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260729114500 +0000" stop="20260729140000 +0000">
+		<title>宮廷女官チャングムの誓い 第39〜40話</title>
+		<desc>チャングムを信頼する王妃を目にしたクムヨンは、ヨルイの持ちかけた話に乗ることに。ちょうど都近くの村では疫病が発生し、チャングムはその村へ派遣されることに。内医正(ネウィジョン)はチャングムに薬材管理を頼むが、それにはある思惑があった。そして他の医女たちも村に駆けつけるなか病人は増える一方で...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-17_s1_p39/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260729140000 +0000" stop="20260729152000 +0000">
+		<title>宮〜Love in Palace ディレクターズ・カット 第21話</title>
+		<desc>テレビの生放送中にチェギョンが発した離婚発言が波紋を呼び、宮内では王室の権威を失墜させたと皇帝が大激怒。口を滑らせたとチェギョンは謝るが、テレビや皇帝の前ではかばってくれたシンさえも、裏切られたと彼女に背を向ける。この件で、チェギョンの密会の相手が再び問題になり、ユルの名前を出して欲しくないファヨンは、皇帝の怒りがおさまれば問題も収束に向かうと、チェギョンを利用することに。そして、ファヨンに吹き込まれ、許されるまでむしろの上で正座して待つ “席藁待罪”を始めるチェギョン。その姿を見たシンは、やめるように話すが、チェギョンは自分で何とかするとはねつけ......。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-23_s1_p21/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260729152000 +0000" stop="20260729192000 +0000">
+		<title>済衆院 / チェジュンウォン 第10〜12話</title>
+		<desc>オ主事に会いに行ったファン・ジョンは、済衆院(チェジュンウォン)で、雑用でも何でもするから追い出さないでほしいとすがる。アレンはソンナンがシャペロンになると決心したので、力がわいてきたと喜ぶ。入学式に男装した姿で参席したソンナンは老婆の病気のせいで済衆院に入学できないと話す。ソンナンの姿がおかしいと感じたペク主事はソンナンの帽子をとる。ミン・ヨンイクはソンナンのまげが落ち女だと分かりびっくりする。ミン・ヨンイクはすぐにソンナンを処罰しなければならないと言い張るペク主事の言葉を無視して、補欠の対象であるファン・ジョンを済衆院に入学させろと命令する。救急患者が済衆院に到着するとアレンはファン・ジョンに縫合を手伝うようにお願いする。ドヤンはファン・ジョンとソンナンが仲良く患者の世話をする姿を見ながら嫉妬するのだが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-97_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260729192000 +0000" stop="20260729214500 +0000">
+		<title>王の女 第9〜10話</title>
+		<desc>王妃の思惑により、宣祖の後宮になるよう告げられるケトン。 光海君を想うあまり悲しみに暮れるケトンは、拒否することのできない運命に苦しむ。 一方、謀反の炎を燃やしていた臨海君は、光海君が西人派閥と義兄を後ろ盾に王座を狙っているとの噂を聞き、最愛の弟の顔を打ち、絶縁を宣告する。 その頃、日本軍は釜山港に上陸。1592年4月13日、壬辰倭乱の戦いの火ぶたは切って落とされる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-144_s1_p9/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260729214500 +0000" stop="20260729230000 +0000">
+		<title>シンイ-信義- 第13話【イ・ミンホ主演】</title>
+		<desc>ウンスの手帳を持って現れた王の叔父、徳興君がキ・チョルの遣いと知り、突き放すウンス。ヨンは市場に出かけたウンスと合流するが、そこで徳興君と遭遇し、ウンスが自分のために手帳の話を伏せていたことを知る。さらに、彼女が悪夢にうなされていることを知ったヨンは、手帳を取り戻すため、徳興君に取引を持ちかける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-16_s0_p13/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260729230000 +0000" stop="20260730013500 +0000">
+		<title>イ・サン 第60〜61話</title>
+		<desc>ホン・グギョンはサンの暗殺を謀った逆賊を捕らえる。だが一部は逃げおおせ、その中にはソンヨンの生き別れた弟ソンウクもいた。ソンウクは逃げる途中、仲間をかばい矢傷を負ってしまう。何とか追っ手を振り切り、街中の路地でうずくまるソンウク。そこへたまたまソンヨンが通りかかり、彼を見つける。彼女はソンウクを抱きかかえて家へと向かうが...。
+元嬪(ウォンビン)の死で傷ついたホン・グギョンを休ませようと休暇命令を出したサン。だがホン・グギョンはろくに休まず、逆賊たちを捕らえた。それは大きな手柄だが、サンには一つ腑に落ちない点があった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-391_s1_p60/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260730013500 +0000" stop="20260730042000 +0000">
+		<title>100日の郎君様 第3〜4話【ド・ギョンス(EXO-D.O.)主演】</title>
+		<desc>月末になっても結婚せず、百たたきの刑に遭っていたホンシム。しかし、実際には県監とパク令監が組んでホンシムを妾にしようとする作戦だった。ここに記憶を失い、ヨン氏に自分はホンシムのいいなずけのウォンドゥクだと教えられたユルが現れ、県監はしかたなくホンシムを釈放する。2人が結婚式を挙げる一方で、宮殿ではユルが行方不明であることは隠され、秘密裏に見つかるはずもないユルの捜索が続けられていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-130_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260730042000 +0000" stop="20260730065000 +0000">
+		<title>チャン・オクチョン 第21〜22話【キム・テヒ×ユ・アイン】</title>
+		<desc>チェ・ムスリが寵愛を受けたと聞いたオクチョンは激怒する。粛宗は西人派が送り込んだと知りつつ、チェを寵愛する振りをしていた。一方、チャン・ヒョンは自分を国舅にするよう粛宗に直訴する。だが、彼の悪事を知る粛宗は逆にチャンを投獄してしまう。その頃、市中では廃妃とオクチョンをモデルにした小説が出回っていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-12_s1_p21/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260730065000 +0000" stop="20260730092000 +0000">
+		<title>王の顔 第18〜19話【ソ・イングク主演】</title>
+		<desc>ヌルハチの登場によって部族統一を進め、いつの間にか北方で強大化していた女真族。光海君(クァンヘグン)は、ホ・ギュンから受け取った女真の密旨の内容に驚き警備を固めるが、間者らはすでに王宮に深くまで侵入していた。そんな中、宣祖(ソンジョ)がカヒを寵愛することにキム貴人(クィイン)は激しい嫉妬を燃やし、ドチに相談する。ドチは新たな計略を立て始めるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-33_s1_p18/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260730092000 +0000" stop="20260730120000 +0000">
+		<title>哲仁王后〜俺がクイーン！？〜 第10〜11話</title>
+		<desc>ソヨンの本家の井戸へ帳簿を捜しに入った哲宗だが、そこにあったはずの帳簿はなぜか無くなっていた。哲宗とソヨンが出かけている間、ファジンが偶然井戸をのぞき込み、哲宗に渡そうと帳簿を持ち去ったためだった。哲宗が宮廷へ戻ったという知らせを聞き、ファジンはすぐに帳簿を渡そうとするが、ソヨンと仲むつまじく話す姿にひるんでしまう。そんな中、チョ大妃の計略により哲宗とファジンの間に誤解が生まれてしまい...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-366_s1_p10/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260730120000 +0000" stop="20260730141000 +0000">
+		<title>宮廷女官チャングムの誓い 第41〜42話</title>
+		<desc>チェ提調尚宮の治療にあたるチャングムの胸には様々な思いが交錯する。オ・ギョムホは報告もなしに離脱したミン・ジョンホの責任を問い、その解任を王に乞うのだった。チャングムは医女の輪を乱す存在だと恵民署(ヘミンソ)へ送られることに。その頃 ヨンセンの懐妊が発覚し、ヨルイが担当することになるのだが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-17_s1_p41/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260730141000 +0000" stop="20260730153000 +0000">
+		<title>宮〜Love in Palace ディレクターズ・カット 第22話</title>
+		<desc>チェギョンを助けるために、王族が集まる席で、彼女への気持ちを告白したユル。シンは、全てを捨ててでもチェギョンを手に入れようとするユルと対立するが、肝心のチェギョンは席藁待罪中に会いにこなかったシンを責め、気持ちはバラバラに。ユルの想いを知った皇帝は、距離を置けば心も遠くなると、ユルを宮廷の外に出す処分を考える。しかし、それを知ったファヨンは、全てをかけてでもそれを阻止しようと、ユルを支持する王族会に働きかけることに。そして、ユルとチェギョンのことを知った王族会は、ユルを追放するなら、チェギョンも廃妃にするよう要求。それを聞かされたチェギョンは......。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-23_s1_p22/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260730153000 +0000" stop="20260730192500 +0000">
+		<title>済衆院 / チェジュンウォン 第13〜15</title>
+		<desc>窮地に陥ったキム・ドンは逃げるのをやめ、ファン・ジョンに金づちを振り回しながら、激闘を繰り広げる。ドヤンは医学生たちと共に天然痘にかかった患者を移そうとするが、男巫が道をふさいだので患者を金稼ぎと考える者たちは、厳罰に処すると一喝する 日本公使から済衆院(チェジュンウォン)で天然痘の治療用に使っている膿疱粉を盗めという命令を受けたキム・ドンは膿疱粉を運んでいたユ・ヒソの一行を襲撃する。膿疱粉を盗まれたアレンは、ドヤンの牛痘ワクチンを作ろうという提案を聞いて喜ぶ。種痘針が白丁(ペクチョン)村にあると聞いたファン・ジョンはイ・グァクに父親が住んでいる村に行くと告げる。彼のその言葉に驚いたイ・グァクは、自分が密屠畜犯ということを忘れたのかとファン・ジョンを引き止める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-97_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260730192500 +0000" stop="20260730214500 +0000">
+		<title>王の女 第11〜12話</title>
+		<desc>世子になれなかった臨海君は、せめて第一王子としての役目を果たそうと、数名の部下を連れ戦地に赴く。 一方、非常事態におかれた王室は逃げるように都を離れるが、それを知った民の動揺は王室への怒りへと変わっていく。 王族が避難した仮宮に押しかけた民の投石にひるむことなく現れた光海君の姿に、民は帝王の風格を感じる。 また、光海君ら王室とともに避難したケトンは、世子宮の女官となる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-144_s1_p11/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260730214500 +0000" stop="20260730230000 +0000">
+		<title>シンイ-信義- 第14話【イ・ミンホ主演】</title>
+		<desc>ヨンは収賄の疑いが掛けられ、真相が明らかになるまで職務を剥奪される。王の寵愛を受けるヨンを煙たがる重臣たちの計略だった。一方、ウンスは手帳に残された数字から天門が開く時を解こうとしていた。そんなウンスに宮を発つ準備をするよう話すヨン。そして、王による尋問が始まり、かばおうとする王の前でヨンは・・・。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-16_s0_p14/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260730230000 +0000" stop="20260731013500 +0000">
+		<title>イ・サン 第62〜63話</title>
+		<desc>ソンヨンが側室にならなかった本当の理由を聞いたサンは、弟とともに都を離れて暮らし始めたソンヨンを迎えにゆく。そこで、幼い頃怪我をしたソンヨンの腕に自分が結んでやった帯をソンヨンがいまだ持っていたことを知ったサン。ソンヨンの気持ちを確認した彼は、突然のことに驚くソンヨンに、愛の告白をする...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-391_s1_p62/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260731013500 +0000" stop="20260731043000 +0000">
+		<title>100日の郎君様 第5〜6話【ド・ギョンス(EXO-D.O.)主演】</title>
+		<desc>倒れたウォンドゥクを夜通し看病するホンシム。翌日には回復し、水がめもまともに持てないのかと怒るホンシムに、ウォンドゥクは自分がどういう人間だったのか教えてくれと頼むがホンシムには答えられない。ウォンドゥクが字を読めると知ったホンシムは、本の筆写で稼ごうと考える。一方、死んだのが世子ではないと気付いた左相だが、王にはユルの死体だと告げる一方で、ムヨンに必ずユルの死体を見つけ、仮に生きていた場合は殺せと命じる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-130_s1_p5/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260731043000 +0000" stop="20260731070000 +0000">
+		<title>チャン・オクチョン 第23〜24話【キム・テヒ×ユ・アイン】</title>
+		<desc>仁顕王妃が復位するが、オクチョンは禧嬪として王宮に留まることを許される。ところが程なく、仁顕王妃は病の床に就いてしまう。さらに世子ユンまで痘瘡にかかって死線をさまようことに。ユンの身を案じたオクチョンは王室では禁止されている祈祷をする。世子は回復するも、仁顕王妃は粛宗に看取られ、この世を去っていく。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-12_s1_p23/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260731070000 +0000" stop="20260731092500 +0000">
+		<title>王の顔 第20〜21話【ソ・イングク主演】</title>
+		<desc>カヒが光海君(クァンヘグン)と一緒にいる姿を目撃して、動揺を隠しきれない宣祖(ソンジョ)。一方、宣祖は女真と和睦を結ぶと言い出し、光海君に彼らを呼び集めるように指示する。そんな折、光海君はドチが大同契(テドンゲ)の頭領だったことを知る。ドチは新しい王妃を迎えれば必ず嫡男を得られると宣祖に吹き込み、観相による王妃選びが行われることになるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-33_s1_p20/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260731092500 +0000" stop="20260731120500 +0000">
+		<title>哲仁王后〜俺がクイーン！？〜 第12〜13話</title>
+		<desc>窮地に陥った水剌間では、飲み水にまで毒を入れられて熟手たちが全員倒れてしまう。見て見ぬふりをしようとしていたソヨンだが、結局は男装してうたげの準備を手伝うことにする。ソヨンのおかげでうたげは成功を収めたが、禁衛営に潜り込ませていた秘密の護衛武士の正体をジャグンに明かされてしまう。何もかも諦め、涙を流しながら端午祭の祈りをささげる哲宗。しかし突然爆発が起き、哲宗は血を流して倒れてしまう。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-366_s1_p12/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260731120500 +0000" stop="20260731141500 +0000">
+		<title>宮廷女官チャングムの誓い 第43〜44話</title>
+		<desc>チャングムの罪を嗅ぎつけたチェ提調尚宮は、チャングムを追い落とすべくまたも執拗に策を講じるのだった。一方、王の傷寒症はいっこうに治る気配がなく、内医正(ネウィジョン)は治療法を模索し、チャングムもまた病気の解明に急ぐのだった。そんな中、王が突然倒れたためクムヨンが取り調べを受けることになり...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/434-17_s1_p43/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260731141500 +0000" stop="20260731152500 +0000">
+		<title>宮〜Love in Palace ディレクターズ・カット 第23話</title>
+		<desc>チェギョンからの携帯メールでユルの部屋に呼び出されたシンは、火事に巻き込まれてしまう。さらに目撃者の証言から、その放火事件の有力な容疑者としてシンの名前が。シンは身の潔白を主張するが、不利な状況と証拠ばかりで窮地に立たされることに。唯一チェギョンだけがシンの潔白を確信し、彼のそばで支えになろうとする。そんな彼女の存在に救われるシン。一方、ユルはファヨンの陰謀に気づきやめさせようとするが、ファヨンは手を緩めない。今回の件で、廃妃とシンの廃位の声が高まり、王室廃止論まで飛び出したため、皇帝は緊急の対策として、しばらくチェギョンを海外へ行かせることにする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/213-23_s1_p23/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260731152500 +0000" stop="20260731180500 +0000">
+		<title>済衆院 / チェジュンウォン 第16〜17話</title>
+		<desc>ソンナンに人工呼吸を行っているファン・ジョンの姿を見たドヤンは、彼を押しのけてソンナンの状態を確認する。ソンナンを診療室に運んだ後、ホートンと医女たちに治療を任せて男たちは診療室の外に出る。外に出たとたんドヤンはファン・ジョンをいきなり殴りつけた。ソンナンが息をしていなかったから人工呼吸を行ったという説明を聞いたドヤンは掴んでいた彼の胸ぐらを離す。ユ・ヒソとアレンはファン・ジョンがソンナンの命を救ったと倒れている彼をかかえておこす。ホートンは手術は無事終わったが、ソンナンがかなり血を流したようだと心配する。アレンは診療室に入ってソンナンの脈を確認するが、なかなか脈が取れない...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-97_s1_p16/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260731180500 +0000" stop="20260731230000 +0000">
+		<title>アラン使道伝 第1〜4話【今日のイチオシ！】</title>
+		<desc>アランは自分がどうして死んでしまったのかわからない記憶喪失の幽霊。そんな幽霊アランの生活は、幽霊たちの現世での復讐を禁止する玉皇上帝の命令により、現世を彷徨う幽霊を追う死神ムヨンから逃れながら、自分の正体を突き止めるため奔走する毎日。一方、幽霊を見ることが出来るウノは、目の前に現れたアランに対して見えないフリをし、関わりを持つまいとする。だが、何気なしにつぶいてしまった「使道(サト)になったらアランの正体捜しを手伝う」という一言から、アランはウノが使道の役職に就けるよう画策を始める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/743-34_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260731230000 +0000" stop="20260801052500 +0000">
+		<title>オクニョ 運命の女(ひと) 第39〜43話</title>
+		<desc>明宗(ミョンジョン)は、密使を装ってオクニョを呼び出す。王宮殿の女官になる気はないかと尋ね、王の側室になれるかもしれないと告げる。だがオクニョは、そのつもりはないと断りあることを打ち明ける。一方、オクニョの邪魔に我慢できなくなったチョン・ナンジョンは、夫ユン・ウォニョンに内密でひそかに元体探人(チェタミン)を雇いオクニョの殺害を依頼する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-397_s1_p39/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260801052500 +0000" stop="20260801093500 +0000">
+		<title>カンテク〜運命の愛〜 第27〜最終 話</title>
+		<desc>ウンボが王妃になることを阻止したいキム家は、ウンボについて探りを入れていた。そのことを知った王は、大臣たちを集めしばらく王妃を据えないと宣言する。一方、チョ家と手を組んだ大君イ・ジェファは、ウンボが死んだ王妃の双子だという噂を広めるようキーセンに指示をし...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/513-40_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260801093500 +0000" stop="20260801105500 +0000">
+		<title>太王四神記 第1話</title>
+		<desc>コムル村では2000年もの間、玄武の神物を守りチュシン王の復活を待ち続けていた。村長のヒョンゴは弟子のスジニと共にチュシン王の可能性のある高句麗のホゲを見守るため、国内城へ旅立つ。その道中、ヒョンゴは自分だけ神について教えてもらえないと嘆くスジニに昔話を始める。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-394_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260801105500 +0000" stop="20260801142500 +0000">
+		<title>コッソンビ熱愛史 第13〜15話</title>
+		<desc>部下と共にヒョンの墓を訪れたチャン判官。そこに置かれていた血の付いたノリゲを見て、二花院について調べることにする。そうとも知らず、シヨルと共に出かけたホンジュ。見張っていた部下がチャン判官に報告し、ホンジュが生きていると知られてしまう。一方、イ・ソルが誰かを知ったユハ。木人会の長の座から退くことを決め、そのことを伝えようと会合場へイ・ソルを呼び出す。しかしイ・ソルが会合場に着くと刺客たちに囲まれ...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-384_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="asia-historical" start="20260801142500 +0000" stop="20260801190000 +0000">
+		<title>客主 第1〜4話【チャン・ヒョク主演】【今日のイチオシ！】</title>
+		<desc>千家客主(問屋機能を持つ商団)の主となったチョン・オスは、黒蠢(干しナマコ)の商いで開城を代表する客主となる。義兄弟のキル・サンムンが番頭を務めるが、息子のボンサムは歩くのも商いも嫌いだという始末。この日、清との国境にある柵門市場が3年ぶりに再開されることになり、千家客主一行は柵門へと向かうが、途中でオスが崖から落下してしまう。意識を失ったオスを牛皮密売人のチョ・ソンジュンが見つけるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/462-124_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20260717140200 +0000" stop="20260717153000 +0000">
 		<title>布団の外はあぶない パイロット版 #3</title>
@@ -35946,6 +37610,88 @@ https://www.youtube.com/@Wrestling_ABEMA/videos
 大迫力の試合をテレビの大画面で楽しもう！
 https://contents-abema.com/tv-howto-basic/</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/652-3_s10008_p148/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports2" start="20260718033000 +0000" stop="20260718072000 +0000">
+		<title>RIZIN LANDMARK 15 in HIROSHIMA 冒頭無料</title>
+		<desc>7月18日(土)に広島グリーンアリーナにて開催される、
+『abc presents RIZIN LANDMARK 15 in HIROSHIMA』のオープニングファイト＆冒頭２試合をABEMAで無料生中継！
+
+ーーーーーーーーーー
+
+※「篠塚辰樹 vs. イ・ジェフン」の試合は中止となりました。
+
+7月18日(土)に広島グリーンアリーナにて開催される、
+『abc presents RIZIN LANDMARK 15 in HIROSHIMA』の配信チケットを販売。
+
+
+バンタム級タイトルマッチ ダニー・サバテロ vs. 鹿志村仁之介
+カルシャガ・ダウトベック vs. 萩原京平
+太田忍 vs. イリスベク・ティレノフ
+ヒロヤ vs. 山本アーセン
+ジョニー・ケース vs. 天弥
+大島沙緒里 vs. イ・イェジ
+パク・シウ vs. 須田萌里
+昇侍 vs. 梅野源治
+鈴木博昭 vs. 宮川日向
+佐々木信治 vs. 林RICE陽太
+火の鳥 vs.イ・ジェフン
+芝宏二郎 vs. 遥心
+OPENING FIGHT／HIME vs. 平田彩音
+OPENING FIGHT／神田T800周一 vs. 長野将大
+OPENING FIGHT／シヴァエフ vs. ベンジャミン
+OPENING FIGHT／田中仁 vs. 健太朗
+
+
+是非、配信でお楽しみください！
+
+ーーーーーーーーーー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s30070_p1/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports2" start="20260718072000 +0000" stop="20260725080000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports2/logo.png" />
+	</programme>
+	<programme channel="fighting-sports2" start="20260725080000 +0000" stop="20260725130000 +0000">
+		<title>Krush.190</title>
+		<desc>超攻撃型打撃格闘技「Krush」2026年7月25日後楽園ホールで行われる「Krush.190」の模様を生中継！
+
+プレリミナリーファイト第1試合/Krush女子アトム級/2分3R
+萌衣 vs 藤井 杏朱
+
+プレリミナリーファイト第2試合/Krushスーパー・バンタム級/3分3R
+許 裕雅 vs 稲村 健心
+
+プレリミナリーファイト第3試合/Krushフライ級/3分3R
+榊原 統羽 vs 草野 浩二郎
+
+第1試合/Krushスーパー・バンタム級/3分3R・延長1R
+愛瑠斗 vs 雨宮 空
+
+第2試合/Krushスーパー・バンタム級/3分3R・延長1R
+豊田 優輝 vs 内田 竜斗
+
+第3試合/Krushライト級/3分3R・延長1R
+“TANK” 和将 vs 瑠唯
+
+第4試合/-63.5kg契約/3分3R・延長1R
+東本 央貴 vs 来希
+
+第5試合/Krushフェザー級/3分3R・延長1R
+鬼山 桃太朗 vs 健介
+
+第6試合/【エアコンランド PRESENTS】Krushスーパー・ライト級/3分3R・延長1R
+川越 亮彦 vs 浜名 颯斗
+
+第7試合/Krushスーパー・ライト級/3分3R・延長1R
+昇也 vs 坂本 優輝
+
+セミファイナル(第8試合)/Krushスーパー・バンタム級/3分3R・延長1R
+岩尾 力 vs 菊地 海斗
+
+メインイベント(第9試合)/Krushスーパー・バンタム級/3分3R・延長1R
+黒川 瑛斗 vs 橋本 楓汰</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/154-151_s10007_p1/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20260717120000 +0000" stop="20260717160000 +0000">
 		<title>【再放送】フリースタイル日本統一：#93~#100</title>
