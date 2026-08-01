@@ -68,6 +68,10 @@
 		<display-name>あたしンちチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png" />
 	</channel>
+	<channel id="chiikawa">
+		<display-name>ちいかわチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/chiikawa/logo.png" />
+	</channel>
 	<channel id="shinchan-special">
 		<display-name>映画クレヨンしんちゃんチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shinchan-special/logo.png" />
@@ -1691,9 +1695,9 @@
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-321_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260803013500 +0000" stop="20260803030000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+		<title>文豪ストレイドッグス わん！２ #1〜5【無料ビデオ1週間】</title>
+		<desc>暁にも、路地裏をひた疾走る〝迷い犬〟の群れ。だが、そんな彼らに厳しく目を光らせる者たちがいた。軍警より放たれし「猟犬」の非情なる殲滅作戦――。彷徨うことすら許されないストレイドッグに、心休まるときは訪れるのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-161_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260803030000 +0000" stop="20260803053000 +0000">
 		<title>鉄鍋のジャン！ #1〜5【無料ビデオ1週間】</title>
@@ -3732,9 +3736,9 @@ SNSでバズり散らかしたマンガが、
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-293_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-3" start="20260803043000 +0000" stop="20260803054500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png" />
+		<title>文豪ストレイドッグス わん！２ #1〜5【無料ビデオ1週間】</title>
+		<desc>暁にも、路地裏をひた疾走る〝迷い犬〟の群れ。だが、そんな彼らに厳しく目を光らせる者たちがいた。軍警より放たれし「猟犬」の非情なる殲滅作戦――。彷徨うことすら許されないストレイドッグに、心休まるときは訪れるのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-161_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-3" start="20260803054500 +0000" stop="20260803061500 +0000">
 		<title>ここ俺アニメ【試し見#1 続きはABEMAビデオへ】</title>
@@ -3773,7 +3777,12 @@ SNSでバズり散らかしたマンガが、
 		<desc>魔神王を撃退したものの、迫りくる魔神の大群から仲間を逃がすため、次元の狭間に一人残った魔導士ラック。激闘の末に世界を守り抜き、ようやく帰還した彼を待っていたのは、なんと10年後の世界だった！しかも、自身は救世の英雄として伝説になっており！？旧友エリックやゴランとの感動の再会を果たしたラックは、正体を隠してロックと名乗り、Fランク冒険者として新たな人生を歩み始める！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-38_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime-3" start="20260803160000 +0000" stop="20260803230000 +0000">
+	<programme channel="abema-anime-3" start="20260803160000 +0000" stop="20260803171500 +0000">
+		<title>文豪ストレイドッグス わん！２ #1〜5【無料ビデオ1週間】</title>
+		<desc>暁にも、路地裏をひた疾走る〝迷い犬〟の群れ。だが、そんな彼らに厳しく目を光らせる者たちがいた。軍警より放たれし「猟犬」の非情なる殲滅作戦――。彷徨うことすら許されないストレイドッグに、心休まるときは訪れるのか!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-161_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-3" start="20260803171500 +0000" stop="20260803230000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png" />
@@ -9168,6 +9177,46 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 「みかんは、ノリがつかめていない」と言われ、大ショック！
 ノリがつかめていないってどういうこと？考え込むみかんだが…？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p157/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260801030000 +0000" stop="20260801160000 +0000">
+		<title>ちいかわ #1〜362【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260801160000 +0000" stop="20260802030000 +0000">
+		<title>ちいかわ #1〜362【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260802030000 +0000" stop="20260802160000 +0000">
+		<title>ちいかわ #1〜362【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260802160000 +0000" stop="20260803030000 +0000">
+		<title>ちいかわ #1〜362【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260803030000 +0000" stop="20260803160000 +0000">
+		<title>ちいかわ #1〜362【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260803160000 +0000" stop="20260804030000 +0000">
+		<title>ちいかわ #1〜362【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260804030000 +0000" stop="20260804160000 +0000">
+		<title>ちいかわ #1〜362【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="chiikawa" start="20260804160000 +0000" stop="20260805030000 +0000">
+		<title>ちいかわ #1〜362【無料ビデオ1週間】</title>
+		<desc>ちいかわ、プリンの上に乗るうさぎを見つける！/ちいかわとうさぎの前に、巨大なホットケーキが…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-181_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="shinchan-special" start="20260726030000 +0000" stop="20260726045000 +0000">
 		<title>映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ【無料ビデオ1週間】</title>
