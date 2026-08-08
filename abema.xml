@@ -104,6 +104,10 @@
 		<display-name>ファミリーアニメ3チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-3/logo.png" />
 	</channel>
+	<channel id="blackjack">
+		<display-name>BLACKJACKチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/blackjack/logo.png" />
+	</channel>
 	<channel id="80s-anime-1">
 		<display-name>なつかしアニメ80's</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png" />
@@ -191,6 +195,10 @@
 	<channel id="mahjong">
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+	</channel>
+	<channel id="mahjong-2">
+		<display-name>麻雀チャンネル2</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
 	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
@@ -2469,10 +2477,20 @@ SNSでバズり散らかしたマンガが、
 仕事に疲れたある夜、癒しを求めてスーパーに向かうが、目当ての山田さんはおらず、今どき煙草を吸える場所もなし…。意気消沈した佐々木に「ここなら吸える」と声をかけてきたのは、田山という女性だった――。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p55/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime" start="20260815043000 +0000" stop="20260815120000 +0000">
+	<programme channel="abema-anime" start="20260815043000 +0000" stop="20260815080000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+	</programme>
+	<programme channel="abema-anime" start="20260815080000 +0000" stop="20260815110000 +0000">
+		<title>異世界ごはん旅 #1〜6【無料ビデオ1週間】</title>
+		<desc>異世界に召喚された挙句アッサリ追放された私。まあ、それはそれとして異世界でもキャンプだーっ！　と、そんな調子で湖で釣り糸を垂らしていたら、近くの川からドンブラコドンブラコと鬼が流され……って、そこは桃じゃないんですか!?　なんにせよ、記念すべき異世界人との接近遭遇を果たした以上、やることは一つ！　そう、ごはんの時間だぁーっ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/169-156_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime" start="20260815110000 +0000" stop="20260815120000 +0000">
+		<title>異世界ごはん旅 折り返しだよ！振り返り特番！</title>
+		<desc>-</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-35_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260815120000 +0000" stop="20260815123000 +0000">
 		<title>ヘルモード 2nd Season #19・見逃し放送</title>
@@ -13068,9 +13086,12 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p1/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260808121200 +0000" stop="20260808121500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
+		<title>ダイキン空気予報 8/8</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p130/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260808121500 +0000" stop="20260808134500 +0000">
 		<title>ドラえもん #1082〜1088【無料ビデオ1週間】</title>
@@ -14266,6 +14287,146 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 		<title>はじめの一歩 Rising #1〜8【無料ビデオ1週間】</title>
 		<desc>幕之内一歩は千堂武士との日本フェザー級タイトルマッチに臨む。死闘の末――、一歩必殺のデンプシーロールが炸裂！　千堂を打ち破り、日本フェザー級チャンピオンへ昇りつめる。家業の釣り船屋を手伝う最中、一歩は亡き父一男のことを思い出す。自分の求める強さに父の強さを重ねる一歩。そんな一歩の前にデンプシーロール破りを宣言する琉球戦士・島袋岩男がタイトル奪取を掲げ立ちはだかる。インファイターＶＳインファイター、死闘が今始まりを告げた！！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/143-81_s3_p1/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260808110000 +0000" stop="20260808130000 +0000">
+		<title>ブラック・ジャック スペシャル~命をめぐる4つの奇跡~ #1〜4【無料1週間】</title>
+		<desc>世界一の実業家ニクラ、彼のひとり息子で不良のアクドが交通事故で瀕死の重傷を負った。B・Jは彼の臓器を入れ替えるために、別の体が必要だと告げた。ニクラは無関係の青年を死刑にさせ、その体を使えと指示。「金があれば何でも出来る」そう豪語するニクラに対してB・Jは......。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-3_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260808130000 +0000" stop="20260808190000 +0000">
+		<title>ブラック・ジャック #0〜11【無料ビデオ1週間】</title>
+		<desc>密猟者に捕らえられたイリオモテヤマネコが西表島を出航した乗船の上で逃げ出した。ヤマネコが船長の顔に飛びついた拍子に船は大きく揺れ、乗客の田中代議士、赤ん坊、そしてヤマネコがケガをしてしまう。乗船に乗り合わせたブラック・ジャックはケガ人の応急処置を頼まれると、高額な治療費と自分のやり方に文句をつけないという条件を出す...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p100/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260808190000 +0000" stop="20260808210000 +0000">
+		<title>ブラック・ジャック スペシャル~命をめぐる4つの奇跡~ #1〜4【無料1週間】</title>
+		<desc>世界一の実業家ニクラ、彼のひとり息子で不良のアクドが交通事故で瀕死の重傷を負った。B・Jは彼の臓器を入れ替えるために、別の体が必要だと告げた。ニクラは無関係の青年を死刑にさせ、その体を使えと指示。「金があれば何でも出来る」そう豪語するニクラに対してB・Jは......。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-3_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260808210000 +0000" stop="20260809030000 +0000">
+		<title>ブラック・ジャック #0〜11【無料ビデオ1週間】</title>
+		<desc>密猟者に捕らえられたイリオモテヤマネコが西表島を出航した乗船の上で逃げ出した。ヤマネコが船長の顔に飛びついた拍子に船は大きく揺れ、乗客の田中代議士、赤ん坊、そしてヤマネコがケガをしてしまう。乗船に乗り合わせたブラック・ジャックはケガ人の応急処置を頼まれると、高額な治療費と自分のやり方に文句をつけないという条件を出す...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p100/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260809030000 +0000" stop="20260809050000 +0000">
+		<title>ブラック・ジャック スペシャル~命をめぐる4つの奇跡~ #1〜4【無料1週間】</title>
+		<desc>世界一の実業家ニクラ、彼のひとり息子で不良のアクドが交通事故で瀕死の重傷を負った。B・Jは彼の臓器を入れ替えるために、別の体が必要だと告げた。ニクラは無関係の青年を死刑にさせ、その体を使えと指示。「金があれば何でも出来る」そう豪語するニクラに対してB・Jは......。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-3_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260809050000 +0000" stop="20260809110000 +0000">
+		<title>ブラック・ジャック #0〜11【無料ビデオ1週間】</title>
+		<desc>密猟者に捕らえられたイリオモテヤマネコが西表島を出航した乗船の上で逃げ出した。ヤマネコが船長の顔に飛びついた拍子に船は大きく揺れ、乗客の田中代議士、赤ん坊、そしてヤマネコがケガをしてしまう。乗船に乗り合わせたブラック・ジャックはケガ人の応急処置を頼まれると、高額な治療費と自分のやり方に文句をつけないという条件を出す...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p100/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260809110000 +0000" stop="20260809170000 +0000">
+		<title>ブラック・ジャック #12〜23【無料ビデオ1週間】</title>
+		<desc>ピノコはテレビ番組「ビックマスク」を見て悪役のゴーラスに夢中。ロケ現場でゴーラス役のタカオにやさしくされ、ピノコは彼のファンになる。撮影後、タカオの足の腫れに気付いたスタッフは知り合いの写楽に頼んでブラック・ジャックを紹介すると約束。タカオはブラック・ジャック邸に入院することになり、ピノコは大喜び。その後、ブラック・ジャックはタカオの家を訪問。母親とブラック・ジャックの会話を聞いたタカオの弟、ユキオは兄がブラック・ジャックに捕らえられていると勘違いする...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p112/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260809170000 +0000" stop="20260809230000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/blackjack/logo.png" />
+	</programme>
+	<programme channel="blackjack" start="20260809230000 +0000" stop="20260810050000 +0000">
+		<title>ブラック・ジャック #12〜23【無料ビデオ1週間】</title>
+		<desc>ピノコはテレビ番組「ビックマスク」を見て悪役のゴーラスに夢中。ロケ現場でゴーラス役のタカオにやさしくされ、ピノコは彼のファンになる。撮影後、タカオの足の腫れに気付いたスタッフは知り合いの写楽に頼んでブラック・ジャックを紹介すると約束。タカオはブラック・ジャック邸に入院することになり、ピノコは大喜び。その後、ブラック・ジャックはタカオの家を訪問。母親とブラック・ジャックの会話を聞いたタカオの弟、ユキオは兄がブラック・ジャックに捕らえられていると勘違いする...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p112/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260810050000 +0000" stop="20260810110000 +0000">
+		<title>ブラック・ジャック #12〜23【無料ビデオ1週間】</title>
+		<desc>ピノコはテレビ番組「ビックマスク」を見て悪役のゴーラスに夢中。ロケ現場でゴーラス役のタカオにやさしくされ、ピノコは彼のファンになる。撮影後、タカオの足の腫れに気付いたスタッフは知り合いの写楽に頼んでブラック・ジャックを紹介すると約束。タカオはブラック・ジャック邸に入院することになり、ピノコは大喜び。その後、ブラック・ジャックはタカオの家を訪問。母親とブラック・ジャックの会話を聞いたタカオの弟、ユキオは兄がブラック・ジャックに捕らえられていると勘違いする...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p112/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260810110000 +0000" stop="20260810170000 +0000">
+		<title>ブラック・ジャック #24〜36【無料ビデオ1週間】</title>
+		<desc>山奥のレジャーランド予定地で、作業員たちに大きな影が襲い掛かる。瀕死の作業員はうわごとのように「ナダレ...」と呟く。一方、海外の生物医学学会では、大江戸ダイゴが脳を大きな入れ物に入れて栄養を与えれば、発育して頭が良くなる可能性があると自身の研究を発表。数日後、ダイゴは山奥の研究施設に1年ぶりに戻るが、中は滅茶苦茶に荒らされ、鹿のナダレや助手の西郷の姿も見えない。動揺するダイゴの前にブラック・ジャックが現れる...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p124/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260810170000 +0000" stop="20260810230000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/blackjack/logo.png" />
+	</programme>
+	<programme channel="blackjack" start="20260810230000 +0000" stop="20260811050000 +0000">
+		<title>ブラック・ジャック #24〜36【無料ビデオ1週間】</title>
+		<desc>山奥のレジャーランド予定地で、作業員たちに大きな影が襲い掛かる。瀕死の作業員はうわごとのように「ナダレ...」と呟く。一方、海外の生物医学学会では、大江戸ダイゴが脳を大きな入れ物に入れて栄養を与えれば、発育して頭が良くなる可能性があると自身の研究を発表。数日後、ダイゴは山奥の研究施設に1年ぶりに戻るが、中は滅茶苦茶に荒らされ、鹿のナダレや助手の西郷の姿も見えない。動揺するダイゴの前にブラック・ジャックが現れる...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p124/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260811050000 +0000" stop="20260811110000 +0000">
+		<title>ブラック・ジャック #24〜36【無料ビデオ1週間】</title>
+		<desc>山奥のレジャーランド予定地で、作業員たちに大きな影が襲い掛かる。瀕死の作業員はうわごとのように「ナダレ...」と呟く。一方、海外の生物医学学会では、大江戸ダイゴが脳を大きな入れ物に入れて栄養を与えれば、発育して頭が良くなる可能性があると自身の研究を発表。数日後、ダイゴは山奥の研究施設に1年ぶりに戻るが、中は滅茶苦茶に荒らされ、鹿のナダレや助手の西郷の姿も見えない。動揺するダイゴの前にブラック・ジャックが現れる...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p124/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260811110000 +0000" stop="20260811170000 +0000">
+		<title>ブラック・ジャック #37〜48【無料ビデオ1週間】</title>
+		<desc>自宅前で殴られて気絶したブラック・ジャックは海に浮かぶ船で目覚める。目の前にはテツと銃を持つジローの姿。テツは胸の辺りを大ケガする弟、トモの診察を依頼。現金輸送車を襲った時にやられたという。テツは断れば海に沈めると脅し、ブラック・ジャックは応急手当を行う。翌日、ブラック・ジャックはトモの手術を終えた後、輸血が必要とテツに訴える。そして、嵐で羅針盤が壊れ、食料も流される最悪の状況に苛立ったジローは水中銃でイルカを撃ち、甲板に引き上げるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p137/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260811170000 +0000" stop="20260811230000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/blackjack/logo.png" />
+	</programme>
+	<programme channel="blackjack" start="20260811230000 +0000" stop="20260812050000 +0000">
+		<title>ブラック・ジャック #37〜48【無料ビデオ1週間】</title>
+		<desc>自宅前で殴られて気絶したブラック・ジャックは海に浮かぶ船で目覚める。目の前にはテツと銃を持つジローの姿。テツは胸の辺りを大ケガする弟、トモの診察を依頼。現金輸送車を襲った時にやられたという。テツは断れば海に沈めると脅し、ブラック・ジャックは応急手当を行う。翌日、ブラック・ジャックはトモの手術を終えた後、輸血が必要とテツに訴える。そして、嵐で羅針盤が壊れ、食料も流される最悪の状況に苛立ったジローは水中銃でイルカを撃ち、甲板に引き上げるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p137/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260812050000 +0000" stop="20260812110000 +0000">
+		<title>ブラック・ジャック #37〜48【無料ビデオ1週間】</title>
+		<desc>自宅前で殴られて気絶したブラック・ジャックは海に浮かぶ船で目覚める。目の前にはテツと銃を持つジローの姿。テツは胸の辺りを大ケガする弟、トモの診察を依頼。現金輸送車を襲った時にやられたという。テツは断れば海に沈めると脅し、ブラック・ジャックは応急手当を行う。翌日、ブラック・ジャックはトモの手術を終えた後、輸血が必要とテツに訴える。そして、嵐で羅針盤が壊れ、食料も流される最悪の状況に苛立ったジローは水中銃でイルカを撃ち、甲板に引き上げるが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p137/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260812110000 +0000" stop="20260812180000 +0000">
+		<title>ブラック・ジャック #49〜61+ Special Kart【無料ビデオ1週間】</title>
+		<desc>顔に包帯を巻いた男がブラック・ジャック邸にやってくる。男はかぶれた顔をブラック・ジャックに見せると、人面瘡だと明かす。人面瘡は男の意思に関係なく、勝手に喋るという。男は人面瘡を取って欲しいと依頼。すると突然、男の表情と声が一変し、手を出すなとブラック・ジャックに命令する。人面瘡が喋っているのだ。すぐに表情も声も元に戻るが、男は人面瘡が現れた時の事は覚えていないという。ブラック・ジャックは手塚医師に手伝ってもらい、患者の顔を元に戻す手術を行うが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p149/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260812180000 +0000" stop="20260812210000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/blackjack/logo.png" />
+	</programme>
+	<programme channel="blackjack" start="20260812210000 +0000" stop="20260813040000 +0000">
+		<title>ブラック・ジャック #49〜61+ Special Kart【無料ビデオ1週間】</title>
+		<desc>顔に包帯を巻いた男がブラック・ジャック邸にやってくる。男はかぶれた顔をブラック・ジャックに見せると、人面瘡だと明かす。人面瘡は男の意思に関係なく、勝手に喋るという。男は人面瘡を取って欲しいと依頼。すると突然、男の表情と声が一変し、手を出すなとブラック・ジャックに命令する。人面瘡が喋っているのだ。すぐに表情も声も元に戻るが、男は人面瘡が現れた時の事は覚えていないという。ブラック・ジャックは手塚医師に手伝ってもらい、患者の顔を元に戻す手術を行うが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p149/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260813040000 +0000" stop="20260813110000 +0000">
+		<title>ブラック・ジャック #49〜61+ Special Kart【無料ビデオ1週間】</title>
+		<desc>顔に包帯を巻いた男がブラック・ジャック邸にやってくる。男はかぶれた顔をブラック・ジャックに見せると、人面瘡だと明かす。人面瘡は男の意思に関係なく、勝手に喋るという。男は人面瘡を取って欲しいと依頼。すると突然、男の表情と声が一変し、手を出すなとブラック・ジャックに命令する。人面瘡が喋っているのだ。すぐに表情も声も元に戻るが、男は人面瘡が現れた時の事は覚えていないという。ブラック・ジャックは手塚医師に手伝ってもらい、患者の顔を元に戻す手術を行うが...。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-2_s1_p149/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260813110000 +0000" stop="20260813190000 +0000">
+		<title>ブラック・ジャック21 #1〜17【無料ビデオ1週間】</title>
+		<desc>友引警部は無免許医のブラック・ジャックを逮捕すると言って病院に連行し、1人の患者を手術するように指示。患者を治せたら医師免許を申請するという。その患者とは顔が腫れ上がった獅子面病の青年。ブラック・ジャックは他の医師が聞いた事がない脳手術を行い、3か月が経過する。2人は病院できれいな顔に治った患者と対面。この後、ブラック・ジャックは医師会へ。だが、友引の話とは違い、医師会の会長は国家試験を受けるよう忠告する...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-4_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260813190000 +0000" stop="20260814030000 +0000">
+		<title>ブラック・ジャック21 #1〜17【無料ビデオ1週間】</title>
+		<desc>友引警部は無免許医のブラック・ジャックを逮捕すると言って病院に連行し、1人の患者を手術するように指示。患者を治せたら医師免許を申請するという。その患者とは顔が腫れ上がった獅子面病の青年。ブラック・ジャックは他の医師が聞いた事がない脳手術を行い、3か月が経過する。2人は病院できれいな顔に治った患者と対面。この後、ブラック・ジャックは医師会へ。だが、友引の話とは違い、医師会の会長は国家試験を受けるよう忠告する...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-4_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260814030000 +0000" stop="20260814110000 +0000">
+		<title>ブラック・ジャック21 #1〜17【無料ビデオ1週間】</title>
+		<desc>友引警部は無免許医のブラック・ジャックを逮捕すると言って病院に連行し、1人の患者を手術するように指示。患者を治せたら医師免許を申請するという。その患者とは顔が腫れ上がった獅子面病の青年。ブラック・ジャックは他の医師が聞いた事がない脳手術を行い、3か月が経過する。2人は病院できれいな顔に治った患者と対面。この後、ブラック・ジャックは医師会へ。だが、友引の話とは違い、医師会の会長は国家試験を受けるよう忠告する...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-4_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260814110000 +0000" stop="20260814210000 +0000">
+		<title>ブラック・ジャック &lt;OVA&gt; #1〜10【無料ビデオ1週間】</title>
+		<desc>原作は『ハリケーン』というタイトルで、孤島に暮らす瀕死の老富豪を看病する若い妻とその秘書が、遺書を書きかえるまで老富豪を延命させてほしいとブラック・ジャックに依頼してくる内容だが、このアニメ版ではその老富豪がキマイラ病という謎の風土病に冒されていて、治療法不明のその奇病にブラック・ジャックが立ち向かうというストーリーになっている。謎の風土病に冒されるはというエピソードは原作の『99.9パーセントの水』からの引用。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260814210000 +0000" stop="20260815070000 +0000">
+		<title>ブラック・ジャック &lt;OVA&gt; #1〜10【無料ビデオ1週間】</title>
+		<desc>原作は『ハリケーン』というタイトルで、孤島に暮らす瀕死の老富豪を看病する若い妻とその秘書が、遺書を書きかえるまで老富豪を延命させてほしいとブラック・ジャックに依頼してくる内容だが、このアニメ版ではその老富豪がキマイラ病という謎の風土病に冒されていて、治療法不明のその奇病にブラック・ジャックが立ち向かうというストーリーになっている。謎の風土病に冒されるはというエピソードは原作の『99.9パーセントの水』からの引用。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="blackjack" start="20260815070000 +0000" stop="20260815170000 +0000">
+		<title>ブラック・ジャック &lt;OVA&gt; #1〜10【無料ビデオ1週間】</title>
+		<desc>原作は『ハリケーン』というタイトルで、孤島に暮らす瀕死の老富豪を看病する若い妻とその秘書が、遺書を書きかえるまで老富豪を延命させてほしいとブラック・ジャックに依頼してくる内容だが、このアニメ版ではその老富豪がキマイラ病という謎の風土病に冒されていて、治療法不明のその奇病にブラック・ジャックが立ち向かうというストーリーになっている。謎の風土病に冒されるはというエピソードは原作の『99.9パーセントの水』からの引用。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/815-1_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="80s-anime-1" start="20260731133000 +0000" stop="20260731164500 +0000">
 		<title>美味しんぼ TVスペシャル #1〜2【無料ビデオ1週間】</title>
@@ -17823,9 +17984,12 @@ chilldspot「Ladyy」
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2062_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260808115700 +0000" stop="20260808120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 8/8</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p130/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260808120000 +0000" stop="20260808124500 +0000">
 		<title>CELEB SECRET #8：それぞれの未来へ</title>
@@ -32061,9 +32225,12 @@ WOOJEONG HIGH SCHOOLの名誉をかけ、15人の生徒たちが力を合わせ�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-231_s1_p23/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20260808115700 +0000" stop="20260808120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 8/8</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p130/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20260808120000 +0000" stop="20260808153000 +0000">
 		<title>【独占配信】KM CHART AWARDS 2026</title>
@@ -36885,9 +37052,12 @@ A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260808145700 +0000" stop="20260808150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 8/8</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p130/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260808150000 +0000" stop="20260808180100 +0000">
 		<title>第18回MONDO杯 #1,2</title>
@@ -37302,6 +37472,37 @@ A~Eの各リーグに分かれて、A1、A2は1年、B以下は半年ごとの�
 「スカッとする一発ツモ」「想像もしない和了ルート」「ビタ止め」など、
 チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260805030000 +0000" stop="20260805145000 +0000">
+		<title>第51期最高位戦A1リーグ 第8節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」のリーグ戦。A1〜D3の10リーグに分かれ、A1〜B2は1年、C1以下は半年ごとの成績により昇降級が決まる。
+第51期A1リーグは16名で行われ、プレーオフを行い、上位3名が現最高位・牧野伸彦の待つ最高位決定戦へと進出。下位3名は来期（第52期）A2リーグへ降級。
+A2リーグは23名で行われ、上位3名は来期（第52期）A1リーグへ昇級。下位5名は来期（第52期）B1リーグへ降級。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p23/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260805145000 +0000" stop="20260808115000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260808115000 +0000" stop="20260808140000 +0000">
+		<title>第25期雀王戦A1リーグ第7節A卓【延長枠】</title>
+		<desc>日本プロ麻雀協会の最高峰タイトル。
+A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
+現雀王・西村 雄一郎とタイトルの座を争う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/69-75_s10001_p19/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260808140000 +0000" stop="20260812030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260812030000 +0000" stop="20260812145000 +0000">
+		<title>第51期最高位戦A1リーグ 第9節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」のリーグ戦。A1〜D3の10リーグに分かれ、A1〜B2は1年、C1以下は半年ごとの成績により昇降級が決まる。
+第51期A1リーグは16名で行われ、プレーオフを行い、上位3名が現最高位・牧野伸彦の待つ最高位決定戦へと進出。下位3名は来期（第52期）A2リーグへ降級。
+A2リーグは23名で行われ、上位3名は来期（第52期）A1リーグへ昇級。下位5名は来期（第52期）B1リーグへ降級。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p24/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20260731131700 +0000" stop="20260801000300 +0000">
 		<title>【再】第11期 叡王戦 五番勝負 第2局 伊藤匠叡王 対 斎藤慎太郎八段</title>
