@@ -204,10 +204,6 @@
 		<display-name>MOTOR SPORTチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
 	</channel>
-	<channel id="world-sports-2">
-		<display-name>SPORTS 2チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-2/logo.png" />
-	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -3548,7 +3544,17 @@ SNSでバズり散らかしたマンガが、
 仕事に疲れたある夜、癒しを求めてスーパーに向かうが、目当ての山田さんはおらず、今どき煙草を吸える場所もなし…。意気消沈した佐々木に「ここなら吸える」と声をかけてきたのは、田山という女性だった――。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p55/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime-3" start="20260814123000 +0000" stop="20260815100000 +0000">
+	<programme channel="abema-anime-3" start="20260814123000 +0000" stop="20260815013000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png" />
+	</programme>
+	<programme channel="abema-anime-3" start="20260815013000 +0000" stop="20260815040000 +0000">
+		<title>花織さんは転生しても喧嘩がしたい #1〜5【無料ビデオ1週間】</title>
+		<desc>元魔王のニート・鳴神流星は、前世で自身を倒した元勇者・花織ミーティアと再会し、彼女が通う「御剣女子高等学校」の教師として働くことになる。だが、不用意な言動や行動から恋仲だと誤解され、波乱の学園生活が幕を開ける。流星は自分たちの力が周囲に及ぼす影響を懸念しミーティアに忠告するが、その矢先、二人の前に「敵」を自称する転校生が現れて！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/198-20_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-3" start="20260815040000 +0000" stop="20260815100000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png" />
@@ -5217,10 +5223,15 @@ https://fes.fate-go.jp/
 		<desc>幼い頃から酷い虐めを受けてきた少年・天上優夜。絶望の中で彼が見つけたのは『異世界への扉』だった。チート級の武器。凶悪な魔物。まるでファンタジーゲームのような状況に戸惑う優夜だったが、現実世界に戻ると異世界でのレベルアップが影響を及ぼし始めて……。人生逆転ファンタジーが今、始まる！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-54_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="isekai-anime" start="20260814173000 +0000" stop="20260815060000 +0000">
+	<programme channel="isekai-anime" start="20260814173000 +0000" stop="20260815000000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime/logo.png" />
+	</programme>
+	<programme channel="isekai-anime" start="20260815000000 +0000" stop="20260815060000 +0000">
+		<title>勇者パーティを追い出された器用貧乏 #1〜12【無料ビデオ5日間】</title>
+		<desc>誰もが憧れる「勇者パーティ」で【付与術士】をしていたオルンは、突然リーダーのオリヴァーから追放を言い渡される。失意のオルンだったが、『万能者』と呼ばれるような最強の探索者を目指し、【剣士】としてソロ活動を開始する。そんなある日のこと、腕試しに入った迷宮で仲間に置き去りにされてしまった少女・ソフィアに遭遇する。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/420-75_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime" start="20260815060000 +0000" stop="20260815120000 +0000">
 		<title>異世界でチート能力を手にした俺は、現実世界をも無双する #1〜13【無料1週間】</title>
@@ -13057,12 +13068,9 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-46_s0_p1/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260808121200 +0000" stop="20260808121500 +0000">
-		<title>ダイキン空気予報 8/8</title>
-		<desc>人々の生活をよりよくする空気をお届けしたい。
-そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
-
-【提供】ダイキン工業</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s100_p1/thumb001.png" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260808121500 +0000" stop="20260808134500 +0000">
 		<title>ドラえもん #1082〜1088【無料ビデオ1週間】</title>
@@ -40112,12 +40120,6 @@ https://abema.tv/video/title/634-4
 
 初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s20_p1/thumb001.png" />
-	</programme>
-	<programme channel="world-sports-2" start="20260807224500 +0000" stop="20260808090000 +0000">
-		<title>サトウ食品インビテーショナル チャリティ ゴルフ ペアマッチ 2026</title>
-		<desc>第7 回目となる「サトウ食品インビテ ーショナル チャリティ ゴルフ ペアマッチ 2026 in 紫雲ゴルフ倶楽部」を生中継！
-男子プロと女子プロがペアを組んで戦うワンデイトーナメント。本大会は、スポーツを通じて集まった収益金を 災害支援、社会福祉支援、ならびに地域活性化のために寄付してまいりました。本年も こうした取り組みを継続し、男子・女子プロゴルファーによるハイレベルなプレーを通じて、 より多くの方々にゴルフの魅力と感動をお届けするとともに、スポーツの力による社会貢 献に取り組んでまいります。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/139-187_s10000_p1/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20260731134500 +0000" stop="20260731173500 +0000">
 		<title>Krush.133 2022.1.28</title>
