@@ -196,6 +196,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-2">
+		<display-name>麻雀チャンネル2</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -2790,7 +2794,7 @@ SNSでバズり散らかしたマンガが、
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p103/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260819110000 +0000" stop="20260819120000 +0000">
-		<title>～#ここ俺アニメ 前半の振り返りは俺たちに任せて先に行け～」 特番</title>
+		<title>～#ここ俺アニメ 前半の振り返りは俺たちに任せて先に行け～ 特番</title>
 		<desc>-</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-35_s1_p1/thumb001.png" />
 	</programme>
@@ -17658,14 +17662,9 @@ YouTube登録者数160万人を持ち、モデルとしても活躍するとう�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20260813133000 +0000" stop="20260813142600 +0000">
-		<title>男磨きハウス２ #1</title>
-		<desc>あの「男磨きハウス」が再び始動！
-"弱さ"を抱えた人生どん底のダメ男たちが、ハウス2期生として集結。
-メンズコーチ・ジョージ主導の厳しい合宿生活と
-極限ミッションを通して"弱さ"と本気で向き合い、
-真の男へと生まれ変わることができるのかー？
-さまざまなジャンルの豪華ゲストコーチも参戦！
-笑いあり、涙ありのコーチングリアリティショー！
+		<title>#1：「普通になりたい」人生どん底男たちの過酷合宿開幕</title>
+		<desc>13年引きこもり幼卒、生死の境をさまよった子ども部屋おじさんなど、人生のどん底であがく男たちを叩き直すべく、メンズコーチ・ジョージによる【超過酷・人生改造合宿】が開幕！
+しかし、己を変えたいと集まったはずの参加者たちの“弱さ”が初日から大爆発。ジョージすら“お手上げ”となる前代未聞の事態も...
 
 supported by 株式会社スヴェンソン</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2046_s2_p1/thumb001.png" />
@@ -17732,17 +17731,19 @@ supported by 株式会社スヴェンソン</desc>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
-	<programme channel="abema-special" start="20260814130000 +0000" stop="20260814140000 +0000">
-		<title>#6：ダマってられない女たち3</title>
-		<desc>MEGUMI、剛力彩芽、ヒコロヒーの３人が
-思わず「ダマってられなくなる」女性たちの生きざまをテーマに
-飾らない言葉で『人生』を語り合う
-「幸せ」には答えもないし、「生き方」にゴールもない―
-今を生きる女性のリアルなドキュメントに触れて
-きっとあなたも「ダマってられない」</desc>
+	<programme channel="abema-special" start="20260814130000 +0000" stop="20260814134600 +0000">
+		<title>＃６：夫は３４歳下！還暦妻の歳の差婚＆やしろ優“尿もれ”悩み</title>
+		<desc>MEGUMI、剛力彩芽、ヒコロヒーが
+「ダマってられなくなる」女性の生き様に触れ、本音で人生を語り合う
+
+夫は３４歳年下、妻は還暦と番組史上最大“歳の差”夫婦に密着
+２人はいかにして結ばれたのか、そしてラブラブすぎる日常も
+さらに
+やしろ優が“尿もれ”の悩みを告白
+最先端フェムケア医療 その現場に迫る―</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p101/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260814140000 +0000" stop="20260815110000 +0000">
+	<programme channel="abema-special" start="20260814134600 +0000" stop="20260815110000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -17800,7 +17801,7 @@ ABEMAでしか見られない、最強8名が一同に会する究極のマイ�
 ファッションショーやライブパフォーマンスはもちろん、ここでしか見ることのできないスペシャルステージも盛りだくさん。
 
 #TGC松山 #ABEMAでリアタイTGC をつけてご視聴ください！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p189/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/140-41_s10000_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260816083000 +0000" stop="20260816110000 +0000">
 		<title>No programme</title>
@@ -23761,9 +23762,11 @@ ABEMA NEWSではこの式典の模様を生中継します。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-162_s0_p914/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260815103000 +0000" stop="20260815110000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー　回天JK 私が伝える</title>
+		<desc>太平洋戦争末期、人間魚雷「回天」の訓練基地が置かれていた山口県周南市大津島では、毎年11月に戦没者の追悼式が行われます。
+高校3年生（当時）の椎木双葉さんは2024年の追悼式で「史実を語り、平和の大切さを広く伝え、地域に貢献したい」とスピーチを行いました。
+その姿を嬉しそうに見つめていた清積勲四郎さんは、回天を出撃させた潜水艦の乗組員でした。
+清積さんの期待を背負い、双葉さんは回天を世界に発信しようと奮闘を続けます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p791/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260815110000 +0000" stop="20260815113000 +0000">
@@ -23820,9 +23823,11 @@ ABEMA NEWSではこの式典の模様を生中継します。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-162_s0_p923/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260816020000 +0000" stop="20260816023000 +0000">
-		<title>テレメンタリー　ANN各局制作の厳選ドキュメンタリー</title>
-		<desc>ANN各局が週替わりで制作するドキュメンタリー番組。
-各局がそれぞれ独自の視点で取材・制作した作品です。</desc>
+		<title>テレメンタリー　回天JK 私が伝える</title>
+		<desc>太平洋戦争末期、人間魚雷「回天」の訓練基地が置かれていた山口県周南市大津島では、毎年11月に戦没者の追悼式が行われます。
+高校3年生（当時）の椎木双葉さんは2024年の追悼式で「史実を語り、平和の大切さを広く伝え、地域に貢献したい」とスピーチを行いました。
+その姿を嬉しそうに見つめていた清積勲四郎さんは、回天を出撃させた潜水艦の乗組員でした。
+清積さんの期待を背負い、双葉さんは回天を世界に発信しようと奮闘を続けます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-86_s0_p792/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260816023000 +0000" stop="20260816030000 +0000">
@@ -34359,6 +34364,72 @@ A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
 昨年までのリーグ形式から一変、トーナメント戦に生まれ変わったRTD!佳境を迎える準決勝Aは、予選を圧倒して勝ち上がった佐々木、安定した戦いで勝ち進んだ勝又・猿川、そして厳しいクォーターファイナルBを大逆転で制した朝倉の4名で争う。
 熾烈な戦いを勝ち登り、RTD TOURNAMENT 2019の頂点に輝くのは誰だ...!?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/137-55_s1_p28/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260805030000 +0000" stop="20260805145000 +0000">
+		<title>第51期最高位戦A1リーグ 第8節 d卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」のリーグ戦。A1〜D3の10リーグに分かれ、A1〜B2は1年、C1以下は半年ごとの成績により昇降級が決まる。
+第51期A1リーグは16名で行われ、プレーオフを行い、上位3名が現最高位・牧野伸彦の待つ最高位決定戦へと進出。下位3名は来期（第52期）A2リーグへ降級。
+A2リーグは23名で行われ、上位3名は来期（第52期）A1リーグへ昇級。下位5名は来期（第52期）B1リーグへ降級。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p23/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260805145000 +0000" stop="20260808115000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260808115000 +0000" stop="20260808140000 +0000">
+		<title>第25期雀王戦A1リーグ第7節A卓【延長枠】</title>
+		<desc>日本プロ麻雀協会の最高峰タイトル。
+A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
+現雀王・西村 雄一郎とタイトルの座を争う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/69-75_s10001_p19/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260808140000 +0000" stop="20260809115000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260809115000 +0000" stop="20260809140000 +0000">
+		<title>第25期雀王戦A1リーグ第7節B卓【延長枠】</title>
+		<desc>日本プロ麻雀協会の最高峰タイトル。
+A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
+現雀王・西村 雄一郎とタイトルの座を争う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/69-75_s10001_p20/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260809140000 +0000" stop="20260810115000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260810115000 +0000" stop="20260810140000 +0000">
+		<title>第25期雀王戦A1リーグ第7節C卓【延長枠】</title>
+		<desc>日本プロ麻雀協会の最高峰タイトル。
+A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
+現雀王・西村 雄一郎とタイトルの座を争う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/69-75_s10001_p21/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260810140000 +0000" stop="20260812030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260812030000 +0000" stop="20260812145000 +0000">
+		<title>第51期最高位戦A1リーグ 第9節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」のリーグ戦。A1〜D3の10リーグに分かれ、A1〜B2は1年、C1以下は半年ごとの成績により昇降級が決まる。
+第51期A1リーグは16名で行われ、プレーオフを行い、上位3名が現最高位・牧野伸彦の待つ最高位決定戦へと進出。下位3名は来期（第52期）A2リーグへ降級。
+A2リーグは23名で行われ、上位3名は来期（第52期）A1リーグへ昇級。下位5名は来期（第52期）B1リーグへ降級。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p24/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260812145000 +0000" stop="20260819030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260819030000 +0000" stop="20260819145000 +0000">
+		<title>第51期最高位戦A1リーグ 第10節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p25/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20260804005000 +0000" stop="20260804160000 +0000">
 		<title>第39期 竜王戦 挑戦者決定三番勝負 第1局  服部慎一郎七段 対 柵木幹太五段</title>
