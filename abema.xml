@@ -204,6 +204,10 @@
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
 	</channel>
+	<channel id="mahjong-2">
+		<display-name>麻雀チャンネル2</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
@@ -12302,7 +12306,7 @@ YouTubeで「【アニメ】あたしンち公式チャンネル」と検索！<
 そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
 
 【提供】ダイキン工業</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s100_p1/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p137/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260815122500 +0000" stop="20260815135500 +0000">
 		<title>ドラえもん #1129〜1136</title>
@@ -17009,9 +17013,12 @@ supported by 株式会社スヴェンソン</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2046_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260815125700 +0000" stop="20260815130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 8/15</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p137/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260815130000 +0000" stop="20260815140000 +0000">
 		<title>ABEMA POKER INVITATIONAL〜選ばれし者たちの頂上決戦 #4</title>
@@ -31048,9 +31055,12 @@ K-POPデビュー経験者や一般からの参加で、個性豊かな練習生
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/193-205_s1_p5/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20260815115700 +0000" stop="20260815120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 8/15</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p137/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20260815120000 +0000" stop="20260815140000 +0000">
 		<title>BTOB TIME: Be Together THE MOVIE</title>
@@ -37249,9 +37259,12 @@ A~Eの各リーグに分かれて、A1、A2は1年、B以下は半年ごとの�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260815145700 +0000" stop="20260815150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 8/15</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p137/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260815150000 +0000" stop="20260815180200 +0000">
 		<title>第11回 女流モンド杯 #7,8</title>
@@ -37658,6 +37671,91 @@ A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
 		<desc>若手女流雀士たちによる生き残りをかけた過酷な麻雀サバイバルマッチ、シンデレラファイトシーズン5。全ての試合で誰か一人以上が脱落していく過酷な戦いを勝ち抜いた4名の選手で行われる最後の戦い。
 2半荘のスコアで、150名の出場者の頂点となる4代目シンデレラファイト優勝者が決まる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/649-4_s10000_p1/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260808115000 +0000" stop="20260808140000 +0000">
+		<title>第25期雀王戦A1リーグ第7節A卓【延長枠】</title>
+		<desc>日本プロ麻雀協会の最高峰タイトル。
+A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
+現雀王・西村 雄一郎とタイトルの座を争う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/69-75_s10001_p19/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260808140000 +0000" stop="20260809115000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260809115000 +0000" stop="20260809140000 +0000">
+		<title>第25期雀王戦A1リーグ第7節B卓【延長枠】</title>
+		<desc>日本プロ麻雀協会の最高峰タイトル。
+A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
+現雀王・西村 雄一郎とタイトルの座を争う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/69-75_s10001_p20/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260809140000 +0000" stop="20260810115000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260810115000 +0000" stop="20260810140000 +0000">
+		<title>第25期雀王戦A1リーグ第7節C卓【延長枠】</title>
+		<desc>日本プロ麻雀協会の最高峰タイトル。
+A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
+現雀王・西村 雄一郎とタイトルの座を争う。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/69-75_s10001_p21/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260810140000 +0000" stop="20260812030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260812030000 +0000" stop="20260812145000 +0000">
+		<title>第51期最高位戦A1リーグ 第9節 c卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」のリーグ戦。A1〜D3の10リーグに分かれ、A1〜B2は1年、C1以下は半年ごとの成績により昇降級が決まる。
+第51期A1リーグは16名で行われ、プレーオフを行い、上位3名が現最高位・牧野伸彦の待つ最高位決定戦へと進出。下位3名は来期（第52期）A2リーグへ降級。
+A2リーグは23名で行われ、上位3名は来期（第52期）A1リーグへ昇級。下位5名は来期（第52期）B1リーグへ降級。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p24/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260812145000 +0000" stop="20260814085000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260814085000 +0000" stop="20260814110000 +0000">
+		<title>第2回全国高等学校麻雀選手権大会 準決勝DAY1【延長枠①】</title>
+		<desc>集中力、観察力、記憶力、判断力、論理的思考力、忍耐力、大局観、感性、度胸など、さまざまな力がバランスよく求められる高度な頭脳スポーツである麻雀を舞台に、「全国高等学校麻雀選手権大会」を創設。第1回大会は、全国180校から286チーム572選手が参加し、東京都立小石川中等教育学校のチームが初代王者に輝いた。
+
+本大会は、対局を通じて多くの同世代がつながり、コミュニケーション力やフェアプレーの精神を培う教育活動の一環として行われている。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/816-1_s10001_p1/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260814110000 +0000" stop="20260814130000 +0000">
+		<title>第2回全国高等学校麻雀選手権大会 準決勝DAY1【延長枠②】</title>
+		<desc>集中力、観察力、記憶力、判断力、論理的思考力、忍耐力、大局観、感性、度胸など、さまざまな力がバランスよく求められる高度な頭脳スポーツである麻雀を舞台に、「全国高等学校麻雀選手権大会」を創設。第1回大会は、全国180校から286チーム572選手が参加し、東京都立小石川中等教育学校のチームが初代王者に輝いた。
+
+本大会は、対局を通じて多くの同世代がつながり、コミュニケーション力やフェアプレーの精神を培う教育活動の一環として行われている。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/816-1_s10001_p3/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260814130000 +0000" stop="20260815085000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260815085000 +0000" stop="20260815130000 +0000">
+		<title>第2回全国高等学校麻雀選手権大会 準決勝DAY2/決勝【延長枠】</title>
+		<desc>集中力、観察力、記憶力、判断力、論理的思考力、忍耐力、大局観、感性、度胸など、さまざまな力がバランスよく求められる高度な頭脳スポーツである麻雀を舞台に、「全国高等学校麻雀選手権大会」を創設。第1回大会は、全国180校から286チーム572選手が参加し、東京都立小石川中等教育学校のチームが初代王者に輝いた。
+
+本大会は、対局を通じて多くの同世代がつながり、コミュニケーション力やフェアプレーの精神を培う教育活動の一環として行われている。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/816-1_s10001_p2/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260815130000 +0000" stop="20260819030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260819030000 +0000" stop="20260819145000 +0000">
+		<title>第51期最高位戦A1リーグ 第10節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p25/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20260807121700 +0000" stop="20260807215500 +0000">
 		<title>【再】第11期 叡王戦 五番勝負 第3局 伊藤匠叡王 対 斎藤慎太郎八段</title>
