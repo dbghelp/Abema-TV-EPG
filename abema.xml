@@ -192,6 +192,10 @@
 		<display-name>将棋チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png" />
 	</channel>
+	<channel id="shogi-2">
+		<display-name>将棋チャンネル2</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi-2/logo.png" />
+	</channel>
 	<channel id="world-sports">
 		<display-name>SPORTSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png" />
@@ -36132,6 +36136,21 @@ A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
 		<title>JEMTCスペシャル ABEMA地域トーナメント2026 決勝</title>
 		<desc>『JEMTCスペシャルABEMA地域トーナメント2026』は、2018年からスタートした超早指しの『ABEMAトーナメント』と、将棋連盟100周年企画として、“地域を背負う”をコンセプトに2024年より開催された『地域対抗戦』が融合した「ABEMA」オリジナル対局企画の新シリーズです。 全国を6つの地域ブロック(「関東」「関⻄」は1地域に2チーム)全8チームに分け、1チーム5名、計40名の棋士たちが、自身が背負う地域の威信をかけて熱い対局を繰り広げていきます。なお、各チームのメンバーは5月9日(土)夜7時より放送のドラフト会議で監督により指名されます。 各地域ブロックの監督は、昨年の『地域対抗戦』に引き続き、屋敷伸之九段(北海道・東北バルペックス)、羽生善治九段(北関東ブリッツァーズ)、杉本昌隆八段(中部トライキングス)、谷川浩司十七世名人(ノース・トラッズ神戸)、畠山鎮八段(サウスゴッツ大阪)、深浦康市九段(九州サザンフェニックス)が、そして今回新たに森内俊之九段(ルシーグ横浜)、糸谷哲郎九段(中国・四国ナヴィセトス)が加わった、計8名が務めます。 ※段位は収録当時のものになります。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/288-43_s10000_p3/thumb001.png" />
+	</programme>
+	<programme channel="shogi-2" start="20260819135000 +0000" stop="20260819170000 +0000">
+		<title>【延長】伊藤園お～いお茶杯第67期王位戦七番勝負第4局藤井聡太王位対伊藤匠二冠</title>
+		<desc>王位戦は、全棋士と女流棋士2名で行います。予選をトーナメントで行い、その勝ち上がり者とシード棋士4人により紅白2ブロックに分けてリーグ戦を行います。 リーグ戦の優勝者はリーグ戦勝敗を優先とし、同星で並んだ場合、 (1)4勝1敗で並んだ場合、該当者が2名・3名に関わらずプレーオフを行います《3名の場合は、前期成績(前期リーグ勝星&gt;前期予選勝星)でシード者を決め、1回戦は残留決定戦を兼ねる》。 (2)3勝2敗で並んだ場合、3名では該当する直接対決&gt;前期成績(前期リーグ勝星&gt;前期予選勝星)、4名では該当する直接対決、5名では前期成績(前期リーグ勝星&gt;前期予選勝星)で優勝者・残留者を決めます。紅白の優勝者で挑戦者決定戦を行います。王位とその挑戦者決定戦の勝者が、例年7月から9月にかけて七番勝負を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-11_s10001_p145/thumb001.png" />
+	</programme>
+	<programme channel="shogi-2" start="20260819170000 +0000" stop="20260822062500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi-2/logo.png" />
+	</programme>
+	<programme channel="shogi-2" start="20260822062500 +0000" stop="20260822100000 +0000">
+		<title>2026年度「将棋日本シリーズ」二回戦第二局 佐々木勇気八段 対 近藤誠也八段</title>
+		<desc>「ABEMA」にて全対局生中継する「JTプロ公式戦」は、日本将棋連盟と各地区新聞社主催のもと開催される、公式棋戦です。 大会への参加資格は前年覇者とタイトルホルダー、賞金ランキング上位者の12名という、トップ棋士のみが参加を許されたトーナメント棋戦です。 今年の覇者は一体誰になるのか?公開対局ならではの緊張感と迫力、持ち時間10分の早差し戦というスピード感で競う「JTプロ公式戦」の全対局を、ぜひ「ABEMA」でお楽しみください。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/268-22_s10000_p47/thumb001.png" />
 	</programme>
 	<programme channel="world-sports" start="20260814110500 +0000" stop="20260814150500 +0000">
 		<title>【再】DAYTONA 500｜NASCAR</title>
