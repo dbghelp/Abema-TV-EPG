@@ -132,10 +132,6 @@
 		<display-name>LDH PERFECT YEARチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/ldh/logo.png" />
 	</channel>
-	<channel id="viby">
-		<display-name>VIBYチャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/viby/logo.png" />
-	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -14621,7 +14617,23 @@ supported by 株式会社スヴェンソン</desc>
 【提供：SANYO】</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p88/thumb001.png" />
 	</programme>
-	<programme channel="abema-special" start="20260904151000 +0000" stop="20260906110000 +0000">
+	<programme channel="abema-special" start="20260904151000 +0000" stop="20260905140000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+	</programme>
+	<programme channel="abema-special" start="20260905140000 +0000" stop="20260905150000 +0000">
+		<title>チャンス学校チェンジ科 #55</title>
+		<desc>世の中は平等じゃない、それでもチャンスはたくさんあったほうがいい！
+一流の女性になりチャンスを掴み人生を変えるための学校。
+それが、このチャンス学校チェンジ科です！！
+この学校には、様々な業界で活躍をしてより高みを目指す女性たちが集います！
+本物の女性としての魅力”を学ぶをコンセプトにした新感覚スクールバラエティ!
+毎回、様々なゲスト講師が、一流の女性になるために必要なユニーク＆ためにな
+授業を行います。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p179/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260905150000 +0000" stop="20260906110000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
@@ -17683,7 +17695,7 @@ LDH PERFECT YEARのお祝いに駆けつけた超豪華ゲストを招き出演�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-164_s0_p84/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260901030000 +0000" stop="20260901040000 +0000">
-		<title>わたしとニュース～そのモヤモヤ、話せば世界が晴れるかも。～</title>
+		<title>わたしとニュース 伊勢火災被害/ アスリート盗撮 #モヤハレ</title>
 		<desc>ニュースをもっと、身近に。
 日常で感じる「これって何で？」「ちょっと変だな」-そんなモヤモヤが、実はニュースの入り口かもしれません。社会や政治、そして暮らしの中の違和感をわたしたちの視点で語り尽くす新感覚の共感型ニュース番組。～そのモヤモヤ、話せば世界が晴れるかも。～</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-157_s0_p174/thumb001.png" />
@@ -19246,17 +19258,17 @@ LDH PERFECT YEARのお祝いに駆けつけた超豪華ゲストを招き出演�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p45072/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260901000000 +0000" stop="20260901010000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>木原官房長官会見　熊本復興本部設置・中露首脳会談などについて</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p45073/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260901010000 +0000" stop="20260901020000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>茨城・常陸大宮市議会/鈴木農水大臣閣議後会見/片山財務大臣</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p45074/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20260901020000 +0000" stop="20260901030000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>米ベッセント財務長官と会談　片山財務大臣会見</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p45075/thumb001.png" />
 	</programme>
@@ -24874,12 +24886,12 @@ K-POPアイドルを夢見て走り続けてきた彼女たちは、簡単には
 その答えを探しながら、彼らは人生でもっとも大切な恋と出会っていきます。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/307-9_s20000_p6/thumb001.png" />
 	</programme>
-	<programme channel="k-world" start="20260907153000 +0000" stop="20260908125000 +0000">
+	<programme channel="k-world" start="20260907153000 +0000" stop="20260908125500 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
 	</programme>
-	<programme channel="k-world" start="20260908125000 +0000" stop="20260908160000 +0000">
+	<programme channel="k-world" start="20260908125500 +0000" stop="20260908160000 +0000">
 		<title>STREET WORLD FIGHTER : Directors' War #4</title>
 		<desc>「ストリート」シリーズを継承する、振付師たちのプロデュースサバイバル!
 K-POPを代表する10人の振付師の戦略的な頭脳戦が始まる!
