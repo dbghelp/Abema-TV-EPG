@@ -116,6 +116,10 @@
 		<display-name>ファミリーアニメ3チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-3/logo.png" />
 	</channel>
+	<channel id="eyeshield">
+		<display-name>アイシールド21チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/eyeshield/logo.png" />
+	</channel>
 	<channel id="kitaro">
 		<display-name>ゲゲゲの鬼太郎チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/kitaro/logo.png" />
@@ -203,6 +207,10 @@
 	<channel id="mahjong">
 		<display-name>麻雀チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+	</channel>
+	<channel id="mahjong-2">
+		<display-name>麻雀チャンネル2</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
 	</channel>
 	<channel id="shogi">
 		<display-name>将棋チャンネル</display-name>
@@ -6949,7 +6957,7 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
 
 【提供】ダイキン工業</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s100_p1/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p174/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20260921123300 +0000" stop="20260921125000 +0000">
 		<title>いくだもも！そびー #1〜3</title>
@@ -10306,7 +10314,7 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 	<programme channel="onepiece" start="20260926130000 +0000" stop="20260926133000 +0000">
 		<title>ワンピース エルバフ編 #1179【最新話】</title>
 		<desc>麦わらの一味は未来島エッグヘッドから脱出し、巨兵海賊団とともに念願の巨人の島・エルバフに辿り着く。新たな巨人との出会い、そして待望の再会――、規格外の新たな冒険が動き出す！〝ひとつなぎの大秘宝〟(ワンピース)を巡る海洋冒険ロマン!!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p56/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-38_s30_p1179/thumb001.png" />
 	</programme>
 	<programme channel="onepiece" start="20260926133000 +0000" stop="20260926150000 +0000">
 		<title>ワンピース ウォーターセブン編 #236〜238</title>
@@ -11119,7 +11127,7 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
 
 【提供】ダイキン工業</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s100_p1/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p174/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260921121800 +0000" stop="20260921141500 +0000">
 		<title>映画ドラえもん のび太の新魔界大冒険～7人の魔法使い～【無料ビデオ1週間】</title>
@@ -12382,6 +12390,33 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<title>人造昆虫カブトボーグVxV #27〜52【無料ビデオ1週間】</title>
 		<desc>ボーグバトル世界大会の為、N.Y.にやってきたリュウセイ達は、街角で行われていた子供達の草ボーグに何気なく参加。しかし何度対戦しても全く歯が立たない。その頃、日本のカブトボーグ協会でも、ある大きな問題が提起されていた。このままでは日本代表のリュウセイには勝ち目がない。壮大なプロジェクトが今、始まる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/190-31_s1_p27/thumb001.png" />
+	</programme>
+	<programme channel="eyeshield" start="20260921120000 +0000" stop="20260921190000 +0000">
+		<title>アイシールド２１#1〜15【無料ビデオ1週間】</title>
+		<desc>気弱で引っ込み思案な性格の小早川瀬那は、いじめられるのを避けるためパシリ人生を送ってきた。高校入学を機にそんな自分を変えようと、アメフト部に主務としての入部を決意するが、そんなセナのパシリで鍛えたスピードに蛭魔妖一が目をつけ…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-24_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="eyeshield" start="20260921190000 +0000" stop="20260921220000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/eyeshield/logo.png" />
+	</programme>
+	<programme channel="eyeshield" start="20260921220000 +0000" stop="20260922050000 +0000">
+		<title>アイシールド２１#1〜15【無料ビデオ1週間】</title>
+		<desc>気弱で引っ込み思案な性格の小早川瀬那は、いじめられるのを避けるためパシリ人生を送ってきた。高校入学を機にそんな自分を変えようと、アメフト部に主務としての入部を決意するが、そんなセナのパシリで鍛えたスピードに蛭魔妖一が目をつけ…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-24_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="eyeshield" start="20260922050000 +0000" stop="20260922120000 +0000">
+		<title>アイシールド２１#1〜15【無料ビデオ1週間】</title>
+		<desc>気弱で引っ込み思案な性格の小早川瀬那は、いじめられるのを避けるためパシリ人生を送ってきた。高校入学を機にそんな自分を変えようと、アメフト部に主務としての入部を決意するが、そんなセナのパシリで鍛えたスピードに蛭魔妖一が目をつけ…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-24_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="eyeshield" start="20260922120000 +0000" stop="20260922190000 +0000">
+		<title>アイシールド２１#16〜30【無料ビデオ1週間】</title>
+		<desc>とある部活帰りの夕暮れ、栗田は商店街のお祭り飾りを壊して逃げ去る不良たちを目撃する。しかし、あろうことか犯人だと疑われたのは、あっけにとられその場に立ちつくしていた栗田であった。
+「このままじゃデビルバッツは秋大会に出場停止になっちゃう！」
+思いつめた栗田はデビルバッツを退部することを決意するが…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/203-24_s1_p16/thumb001.png" />
 	</programme>
 	<programme channel="kitaro" start="20260913110000 +0000" stop="20260913170000 +0000">
 		<title>ゲゲゲの鬼太郎（第3期）#97〜108【無料ビデオ1週間】</title>
@@ -16206,9 +16241,12 @@ Aぇ! group・小島健が、小田切ヒロ・レインボー池田に影響を
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/336-22_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260921115700 +0000" stop="20260921120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 9/21</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p174/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260921120000 +0000" stop="20260921130000 +0000">
 		<title>今フラれたって、そんなの無理。だって好き。 今日好き#2</title>
@@ -17094,6 +17132,19 @@ supported by 株式会社スヴェンソン</desc>
 
 提供：GRL</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-31_s2_p2/thumb001.png" />
+	</programme>
+	<programme channel="abema-special" start="20260928130000 +0000" stop="20260928131000 +0000">
+		<title>シャドバで遊ぼう〜今日、好きになりました。編〜 #4</title>
+		<desc>今日好きメンバーが集結し、次世代スマホカードゲーム「Shadowverse: Worlds Beyond」に初挑戦！
+不安げな初心者メンバーたちに、元プロ選手で人気ストリーマーのリグゼが基本から丁寧にレクチャー。
+優勝賞金1億円を誇るスケール感や大迫力の演出にメンバーも大興奮！
+ルールを覚えたところで、チームに分かれていざ対抗戦！
+「これ出したほうがよくない？」「次どうする！？」と、仲間同士で作戦を練れば、初心者でも大盛り上がり。
+知識ゼロでも、友達と一緒ならこんなにアツくなれる！
+今日好きメンバーが本気で夢中になる“シャドバ”の魅力をたっぷりお届けします！
+
+【提供】Shadowverse: Worlds Beyond</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-363_s2_p104/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260913140000 +0000" stop="20260913160000 +0000">
 		<title>ラブキャッチャージャパン3 #1~2</title>
@@ -18560,9 +18611,12 @@ Number_i 神宮寺勇太似に？
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-980_s102_p217/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260921135700 +0000" stop="20260921140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 9/21</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p174/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260921140000 +0000" stop="20260921144900 +0000">
 		<title>MAD5 #19：新ドッキリスター!?ピュア過ぎる女の子ごりんごを観察</title>
@@ -28298,9 +28352,12 @@ Who’s The Next Style Icon?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-81_s1_p50/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20260921115700 +0000" stop="20260921120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 9/21</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p174/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20260921120000 +0000" stop="20260921130000 +0000">
 		<title>【独占配信】知っTELL？aespa</title>
@@ -34806,9 +34863,12 @@ Mリーグ2026-27では、レギュラーシーズン毎日2卓同時対局が�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p509/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260921170000 +0000" stop="20260921170300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 9/21</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p174/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260921170300 +0000" stop="20260921195400 +0000">
 		<title>モンド麻雀プロリーグ 第10回名人戦 #6,7</title>
@@ -35441,6 +35501,88 @@ A卓、B卓に分かれ上位2名が決勝進出、決勝卓の優勝者がこ�
 優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
 Mリーグ2026-27では、レギュラーシーズン毎日2卓同時対局が開催され(12月25日まで)、新たなMリーガー3名が加わり、10チーム総勢40名でのシーズンとなる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p517/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260916030000 +0000" stop="20260916145000 +0000">
+		<title>第51期最高位戦A1リーグ 第11節 a卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p29/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260916145000 +0000" stop="20260921100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260921100000 +0000" stop="20260921170000 +0000">
+		<title>大和証券 Mリーグ JETS×風林火山×フェニックス×雷電</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2026-27では、レギュラーシーズン毎日2卓同時対局が開催され(12月25日まで)、新たなMリーガー3名が加わり、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p510/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260921170000 +0000" stop="20260922100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260922100000 +0000" stop="20260922170000 +0000">
+		<title>大和証券 Mリーグ 麻雀格闘倶楽部×フェニックス×BEAST×Pirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2026-27では、レギュラーシーズン毎日2卓同時対局が開催され(12月25日まで)、新たなMリーガー3名が加わり、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p512/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260922170000 +0000" stop="20260923030000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260923030000 +0000" stop="20260923145000 +0000">
+		<title>第51期最高位戦A1リーグ 第11節 b卓【ABEMAセレクト】</title>
+		<desc>麻雀界で最も歴史あるプロ団体「最高位戦日本プロ麻雀協会」の最上位リーグ。
+伝統に裏打ちされた実力者たちが激闘を繰り広げる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/630-11_s10000_p30/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260923145000 +0000" stop="20260924100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260924100000 +0000" stop="20260924170000 +0000">
+		<title>大和証券 Mリーグ ドリブンズ×風林火山×麻雀格闘倶楽部×Pirates</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2026-27では、レギュラーシーズン毎日2卓同時対局が開催され(12月25日まで)、新たなMリーガー3名が加わり、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p514/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260924170000 +0000" stop="20260925100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260925100000 +0000" stop="20260925170000 +0000">
+		<title>大和証券 Mリーグ JETS×風林火山×サクラナイツ×BEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2026-27では、レギュラーシーズン毎日2卓同時対局が開催され(12月25日まで)、新たなMリーガー3名が加わり、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p516/thumb001.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260925170000 +0000" stop="20260928100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png" />
+	</programme>
+	<programme channel="mahjong-2" start="20260928100000 +0000" stop="20260928170000 +0000">
+		<title>大和証券 Mリーグ 風林火山×麻雀格闘倶楽部×ABEMAS×BEAST</title>
+		<desc>「この熱狂を外へ」
+数多の麻雀プレイヤー達の中から、ほんの一握りのトッププロだけが出場できるナショナルリーグ。
+優勝賞金7000万円とチームの威信をかけて知を競い合い、優勝シャーレの栄光を目指して戦う。
+Mリーグ2026-27では、レギュラーシーズン毎日2卓同時対局が開催され(12月25日まで)、新たなMリーガー3名が加わり、10チーム総勢40名でのシーズンとなる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s10000_p518/thumb001.png" />
 	</programme>
 	<programme channel="shogi" start="20260913095100 +0000" stop="20260914001100 +0000">
 		<title>【再】第84期 名人戦 七番勝負 第3局 藤井聡太名人 対 糸谷哲郎九段</title>
@@ -40659,19 +40801,31 @@ HIPHOP界隈で今注目のトピックスについて深堀り！</desc>
 		<desc>ラッパー・シンガー・DJ・カメラマン・ダンサー・グラフィティアーティストなど、いつの時代にも不可欠な時代の先駆者たち。『my name is』は、そんな様々なジャンルで輝きを放ち、”今を生きるアーティスト"に密着するリアルドキュメント。誰もが持つ”名前”に人生を掲げ、唯一無二として表現し続ける彼らの生き様とは・・・?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-97_s30_p14/thumb001.png" />
 	</programme>
-	<programme channel="hiphop" start="20260926030000 +0000" stop="20260926050000 +0000">
-		<title>HIPHOP MAGAZINE -THE HOPE- #22~#23</title>
+	<programme channel="hiphop" start="20260926030000 +0000" stop="20260926053000 +0000">
+		<title>【見逃し】Kamui’s HYPE THE HOPE #3~#5</title>
+		<desc>ラッパー・Kamui、VTuber/ラッパーのピーナッツくん、HIPHOPストリーマーのポーザー白石の3人が、HIPHOPシーンの最新ミュージックビデオを実況リアクション形式で解説・深掘りしていく、“超MV特化型”のHIPHOP番組。
+今注目を集める話題のMVをピックアップし、その演出やリリック、カルチャー背景など魅力を存分に語り尽くす新番組。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-215_s1_p3/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260926053000 +0000" stop="20260926090000 +0000">
+		<title>凱旋MC battle GOLDEN TAG2026【一部無料放送】</title>
+		<desc>※当放送枠では、 ABEMAプレミアムで放送の「凱旋MC battle GOLDEN TAG2026 at 渋谷WOMB」の一部を無料でお届けします！
+全編のご視聴は"確認する"ボタンページからお楽しみください。
+ABEMAプレミアム会員なら熱いバトルをフル尺で視聴いただけます！
+
+強者たちが2人1組で激突するドリームタッグマッチ! 渋谷WOMBで開催される「凱旋MC battle GOLDEN TAG2026」をABEMA独占生中継!
+
+※配信期間、またその内容は予告なく変更及び終了になる可能性がございます。ご了承ください。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/408-27_s79001_p2/thumb001.png" />
+	</programme>
+	<programme channel="hiphop" start="20260926090000 +0000" stop="20260926120000 +0000">
+		<title>HIPHOP MAGAZINE -THE HOPE- #21~#23</title>
 		<desc>総合情報バラエティー「HIPHOP MAGAZINE -THE HOPE-」
 “音楽・ファッション・トレンド”など、
 HIPHOPカルチャーにまつわる、あらゆる情報をお届けする。
 毎回ラッパーやDJなど人気アーティストをゲストに迎え、
 HIPHOP界隈で今注目のトピックスについて深堀り！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-201_s1_p22/thumb001.png" />
-	</programme>
-	<programme channel="hiphop" start="20260926050000 +0000" stop="20260926120000 +0000">
-		<title>【一挙放送】ラップスタア誕生 SEASON3</title>
-		<desc>「ラップスタア誕生！」とは まだ日の目を見ぬ、次世代を担うラッパーが日本のどこかに存在する…。 昨今のフリースタイルブームにメスを入れるべく、その、完全なる“カウンター”として、次世代ラッパーを発掘する新たなオーディションプロジェクトが発足! オーディション参加者は、番組公式サイト上にある「トラック(音源)」から1曲選び、 即興フリースタイルではなく、自らのLIFE(生い立ち)を投影し練り上げられた 『自己紹介リリック』を乗せ、そのパフォーマンス動画を投稿! 優勝を手にした栄えある1名のラッパーには、未来を切り開く活動資金『300万円』を贈呈!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1163_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20260926120000 +0000" stop="20260926123000 +0000">
 		<title>木梨レコード #41</title>
@@ -40720,16 +40874,16 @@ HIP HOP 界の“アニキ”たちと生バンドセッション。
 		<desc>ラッパー・シンガー・DJ・カメラマン・ダンサー・グラフィティアーティストなど、いつの時代にも不可欠な時代の先駆者たち。『my name is』は、そんな様々なジャンルで輝きを放ち、”今を生きるアーティスト"に密着するリアルドキュメント。誰もが持つ”名前”に人生を掲げ、唯一無二として表現し続ける彼らの生き様とは・・・?</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-97_s30_p24/thumb001.png" />
 	</programme>
-	<programme channel="hiphop" start="20260927030000 +0000" stop="20260927043000 +0000">
-		<title>RECTRUCK #43~#45</title>
+	<programme channel="hiphop" start="20260927030000 +0000" stop="20260927060000 +0000">
+		<title>RECTRUCK #38~#45</title>
 		<desc>人気ラッパーたちがキャンピングカーで旅をしながら
 コラボ楽曲制作＆ライブセットリストを決める新番組『RECTRUCK』</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/88-117_s1_p45/thumb001.png" />
 	</programme>
-	<programme channel="hiphop" start="20260927043000 +0000" stop="20260927130000 +0000">
-		<title>【一挙放送】RAPSTAR 2020</title>
-		<desc>次世代ラッパーを発掘するオーディションプロジェクト「RAPSTAR 2020」。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1426_s2_p1/thumb001.png" />
+	<programme channel="hiphop" start="20260927060000 +0000" stop="20260927130000 +0000">
+		<title>【一挙放送】ラップスタア誕生 SEASON3</title>
+		<desc>「ラップスタア誕生！」とは まだ日の目を見ぬ、次世代を担うラッパーが日本のどこかに存在する…。 昨今のフリースタイルブームにメスを入れるべく、その、完全なる“カウンター”として、次世代ラッパーを発掘する新たなオーディションプロジェクトが発足! オーディション参加者は、番組公式サイト上にある「トラック(音源)」から1曲選び、 即興フリースタイルではなく、自らのLIFE(生い立ち)を投影し練り上げられた 『自己紹介リリック』を乗せ、そのパフォーマンス動画を投稿! 優勝を手にした栄えある1名のラッパーには、未来を切り開く活動資金『300万円』を贈呈!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1163_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20260927130000 +0000" stop="20260927133000 +0000">
 		<title>my name is：#165</title>
