@@ -220,6 +220,10 @@
 		<display-name>大相撲チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png" />
 	</channel>
+	<channel id="boxing">
+		<display-name>ボクシングチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/boxing/logo.png" />
+	</channel>
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
@@ -1400,9 +1404,9 @@ SNSでバズり散らかしたマンガが、
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-9_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260925230000 +0000" stop="20260926050000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png" />
+		<title>ここ俺アニメ #1〜12</title>
+		<desc>魔神王を撃退したものの、迫りくる魔神の大群から仲間を逃がすため、次元の狭間に一人残った魔導士ラック。激闘の末に世界を守り抜き、ようやく帰還した彼を待っていたのは、なんと10年後の世界だった！しかも、自身は救世の英雄として伝説になっており！？旧友エリックやゴランとの感動の再会を果たしたラックは、正体を隠してロックと名乗り、Fランク冒険者として新たな人生を歩み始める！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-38_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20260926050000 +0000" stop="20260926110000 +0000">
 		<title>野生のラスボスが現れた！ #1〜12【無料ビデオ1週間】</title>
@@ -2188,7 +2192,12 @@ SNSでバズり散らかしたマンガが、
 		<desc>夏も残り僅か。Pabの3年生たちはもうすぐ引退の季節。そんな折、夏にやりのこしたことをみんなでやろう！と案を出し合うことになった。みんなの浴衣姿が見たい…たこ焼きを作りたい…記憶に残る飲み会をやりたい。そんな大学生活の青春を彩るイベントは、平和に終わるはずがなかった。メモの端っこに書かれた【※全てPab式で】の文字。普通じゃいられないPab式納涼祭は、まず脱ぐところから始まる!!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/11-72_s3_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime-3" start="20260926120000 +0000" stop="20260926213000 +0000">
+	<programme channel="abema-anime-3" start="20260926120000 +0000" stop="20260926180000 +0000">
+		<title>ここ俺アニメ #1〜12</title>
+		<desc>魔神王を撃退したものの、迫りくる魔神の大群から仲間を逃がすため、次元の狭間に一人残った魔導士ラック。激闘の末に世界を守り抜き、ようやく帰還した彼を待っていたのは、なんと10年後の世界だった！しかも、自身は救世の英雄として伝説になっており！？旧友エリックやゴランとの感動の再会を果たしたラックは、正体を隠してロックと名乗り、Fランク冒険者として新たな人生を歩み始める！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-38_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-3" start="20260926180000 +0000" stop="20260926213000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png" />
@@ -2223,6 +2232,11 @@ SNSでバズり散らかしたマンガが、
 		<title>クレバテスⅡ-魔獣の王と偽りの勇者伝承- #1〜11【無料ビデオ2週間】</title>
 		<desc>長い戦いの末、再会を果たしたハイデン王太后トアラとその息子ルナ。クレンたち一行はトアラからルナを保護していたことへの褒美を与えられ、クレンは希望通りルナ専属の魔術教師に任命された。しかし、ルナの教育が始まるのは３歳から。それまでの約２年間、クレンはアリシアと共に神学校ソルセインに通うことにする。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-293_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-3" start="20260927143000 +0000" stop="20260927203000 +0000">
+		<title>透明な夜に駆ける君と、目に見えない恋をした。#1〜12【無料ビデオ1週間】</title>
+		<desc>空野は渋々新歓コンパに参加していた。盛り上がる周囲を遠巻きに眺めていると、不自然に2人だけの席を見つける。みんな冬月の目が見えないことを知ると離れていったらしい。押しの強い早瀬に、講義で冬月の手助けを頼まれてしまう。気乗りしない空野だったが、白杖を拾った流れで冬月とお茶をすることになり……</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/174-39_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="special-plus-7" start="20260915123000 +0000" stop="20260916003000 +0000">
 		<title>ダーリン・イン・ザ・フランキス #1～24【無料ビデオ1週間】</title>
@@ -3372,13 +3386,13 @@ SNSでバズり散らかしたマンガが、
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/199-19_s0_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-special-4" start="20260923063000 +0000" stop="20260923083000 +0000">
-		<title>岸辺露伴は動かない 全話一挙【無料ビデオ1週間】</title>
+		<title>岸辺露伴は動かない 全話一挙</title>
 		<desc>「ジョジョの奇妙な冒険 ダイヤモンドは砕けない」に登場する漫画家・岸辺露伴が、漫画のネタ集めのために訪れた先で見聞きした奇妙な見聞録集。
 「懺悔室」「六壁坂」「富豪村」「ザ・ラン」の全4話を配信。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/199-56_s16_p1/thumb001.png" />
 	</programme>
 	<programme channel="anime-special-4" start="20260923083000 +0000" stop="20260923103000 +0000">
-		<title>岸辺露伴は動かない 全話一挙【無料ビデオ1週間】</title>
+		<title>岸辺露伴は動かない 全話一挙</title>
 		<desc>「ジョジョの奇妙な冒険 ダイヤモンドは砕けない」に登場する漫画家・岸辺露伴が、漫画のネタ集めのために訪れた先で見聞きした奇妙な見聞録集。
 「懺悔室」「六壁坂」「富豪村」「ザ・ラン」の全4話を配信。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/199-56_s16_p1/thumb001.png" />
@@ -6088,7 +6102,7 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
 
 【提供】ダイキン工業</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s100_p1/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p176/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20260923130000 +0000" stop="20260923143000 +0000">
 		<title>声優と夜あそび 水【小野賢章×畠中祐】#18</title>
@@ -9861,7 +9875,7 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
 
 【提供】ダイキン工業</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s100_p1/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p176/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20260923121800 +0000" stop="20260923141000 +0000">
 		<title>映画ドラえもん のび太の恐竜【無料ビデオ1週間】</title>
@@ -14506,9 +14520,12 @@ YouTube登録者数160万人を持ち、モデルとしても活躍するとう�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/743-48_s1_p3/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260923115700 +0000" stop="20260923120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 9/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p176/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260923120000 +0000" stop="20260923131000 +0000">
 		<title>すーはるがイカダで無人島脱出！＆ひなの、けいすけの勇姿に惚れ直す…すぱのび#74</title>
@@ -14552,9 +14569,12 @@ YouTube登録者数160万人を持ち、モデルとしても活躍するとう�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s3_p10/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260923140700 +0000" stop="20260923141000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 9/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p176/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20260923141000 +0000" stop="20260923151000 +0000">
 		<title>#3：シンママ「ヨンア」(40)若さの秘密＆幹細胞最新美容</title>
@@ -16519,9 +16539,12 @@ supported by 株式会社スヴェンソン</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2046_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260923145700 +0000" stop="20260923150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 9/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p176/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20260923150000 +0000" stop="20260923170000 +0000">
 		<title>チャンスの時間 #344~345</title>
@@ -17705,7 +17728,7 @@ https://contents-abema.com/tv-howto-basic/</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-164_s0_p313/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20260923120000 +0000" stop="20260923130000 +0000">
-		<title>#アベプラ ①ひろゆき,門ひろこ,岸谷蘭丸,宮本道人</title>
+		<title>#アベプラ ①高市総理訪米の成果は？／維新の不安は｢与党病｣？</title>
 		<desc>キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。レギュラーメンバーは70人。色んなバックグラウンドをもつ論客たちと多様で新しい議論をお届けします。テーマ楽曲はKREVAの｢Expert｣です。（MC）EXIT、岸谷蘭丸、午前0時のプリンセス、松陰寺太勇、田村淳、ひろゆき、益若つばさ（コメンテーター）あおちゃんぺ、アレン様、安部敏樹、安藤美姫、池澤あやか、岩澤直美、岩田温、宇佐美典也、ウスビ・サコ、大槻奈那、小澤健祐、小原ブラス、カマたく、河崎環、国山ハセン、後藤寛勝、佐々木俊尚、柴田阿弥、鈴木涼美、孫辰洋、たかまつなな、竹中平蔵、武井亜樹、田端信太郎、辻伸弘、てぃ先生、當間ローズ、Tehu、中川淳一郎、長谷川ミラ、夏野剛、成田修造、西岡壱誠、ネルソン・バビンコイ、はましゃか、パックン、速水健朗、堀潤、松尾潔、南和行、室井佑月、茂木健一郎、森脇透青、ヤマトパンクス、山田邦子、山田俊浩、山田真央、山内萌、山本昌子、山本康二、Yuna、ヨッピー、呂布カルマ、若新雄純（進行）平石直之、小松靖（ナレーター）新井里美、榎本温子、篠田みなみ、田所あずさ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-6umtaxzfzfx_s0_p7073/thumb001.png" />
 	</programme>
@@ -25389,9 +25412,12 @@ K-POPを代表する10人の振付師の戦略的な頭脳戦が始まる!
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-83_s1_p6/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20260923115700 +0000" stop="20260923120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 9/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p176/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20260923120000 +0000" stop="20260923132500 +0000">
 		<title>チェーンリアクション #6</title>
@@ -31485,9 +31511,12 @@ Dブロック 期間:7月29日~9月23日
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260923145700 +0000" stop="20260923150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 9/23</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p176/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20260923150000 +0000" stop="20260923161400 +0000">
 		<title>RTDリーグ 2017 BLACK DIVISION 38回戦</title>
@@ -34388,6 +34417,19 @@ ABEMAでは大相撲全6場所90日間、完全生中継！</desc>
 		<title>大相撲LIVE 九月場所（幕内）15日目[千秋楽]｜9.27</title>
 		<desc>大相撲九月場所【千秋楽】幕内 結びの一番まで完全無料生中継! この時間は「幕内」の取組を放送します。 誰もが自由に楽しめる大相撲を目指し、斬新かつダイナミックな映像で取組の様子をお届け! オリジナルの力士紹介VTRや独自解説者の起用など、「ABEMA」ならではの新しい大相撲LIVE!ご期待ください。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/394-72_s10008_p30/thumb001.png" />
+	</programme>
+	<programme channel="boxing" start="20260923073000 +0000" stop="20260923120000 +0000">
+		<title>3150FIGHT 11</title>
+		<desc>9月23日に大阪市立住吉区民センターで開催されるボクシングイベント「3150FIGHT 11」の様子をABEMAで生配信！
+
+▼予定カード
+※メインのフェザー級10回戦は18時ゴングを予定しています
+
+第１試合　ジェムエル・ガラベイ vs 永田雅樹（72.0kg契約 4回戦）
+第２試合　クリスチャン・レガネ vs 佐野遥渉（バンタム級 8回戦）　
+第３試合　チャーリー・アドトゥーン vs 丸元大五郎（WBCユース・スーパーフェザー級タイトルマッチ 8回戦）
+第４試合　亀田京之介 vs セバスチャン・エルナンデス（フェザー級 10回戦）</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1523_s10031_p1/thumb001.png" />
 	</programme>
 	<programme channel="fighting-sports" start="20260915150000 +0000" stop="20260915174500 +0000">
 		<title>K-1屈指のおもしろ男・城戸康裕 煽りも最強ベストバウト</title>
