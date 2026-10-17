@@ -132,6 +132,10 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</channel>
 	<channel id="disney">
 		<display-name>DISNEY名作コレクション</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/disney/logo.png" />
@@ -10335,7 +10339,7 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
 
 【提供】ダイキン工業</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s100_p1/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p200/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20261017121800 +0000" stop="20261017141000 +0000">
 		<title>映画ドラえもん のび太の創世日記【無料ビデオ1週間】</title>
@@ -15543,9 +15547,12 @@ SNSには書けない禁断の本音をテーマに、ゲストたちが赤裸�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2032_s3_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20261017115700 +0000" stop="20261017120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 10/17</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします!
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p200/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20261017120000 +0000" stop="20261017130000 +0000">
 		<title>POKER SONIC＃3史上最悪！こんな煽りポーカーここでしか見られない</title>
@@ -15565,6 +15572,7 @@ SNSには書けない禁断の本音をテーマに、ゲストたちが赤裸�
 	<programme channel="abema-special" start="20261017130000 +0000" stop="20261017140000 +0000">
 		<title>RAPSTAR 2026 #2</title>
 		<desc>次世代ラッパーを発掘するオーディションプロジェクト「RAPSTAR 2026」。 
+
 9回目のシーズンとなる今回の応募者数は過去最多「12,953人」。 オーディション参加者は、人気ビートメイカーたちが制作したビートから1曲を選び、自己紹介のリリックを乗せたパフォーマンス動画を投稿。 
 豪華審査員による厳正な審査のもと、ステージを勝ち上がり、見事“RAPSTAR“に輝いた優勝者には、未来を切り開く活動資金「1000万円」を贈呈。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-213_s2026_p11/thumb001.png" />
@@ -17673,9 +17681,12 @@ SNSには書けない禁断の本音をテーマに、ゲストたちが赤裸�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/243-213_s2026_p10/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20261017125700 +0000" stop="20261017130000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 10/17</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします!
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p200/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20261017130000 +0000" stop="20261017144500 +0000">
 		<title>YUMEKI × 川尻蓮のダンスアカデミー #1〜3</title>
@@ -17824,12 +17835,12 @@ SNSには書けない禁断の本音をテーマに、ゲストたちが赤裸�
 一体何が起こったのか？静寂の後の歓喜…やっぱりあの男は持っていた！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2032_s3_p2/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20261018100000 +0000" stop="20261018115000 +0000">
+	<programme channel="special-plus" start="20261018100000 +0000" stop="20261018120000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</programme>
-	<programme channel="special-plus" start="20261018115000 +0000" stop="20261018135000 +0000">
+	<programme channel="special-plus" start="20261018120000 +0000" stop="20261018140000 +0000">
 		<title>『スナックさざなみ』#65</title>
 		<desc>来店したゲストが、ミッドナイトボートレース予想や、オリジナルボードゲーム、カラオケ企画など、
 様々な企画で大盛りあがり！
@@ -17849,7 +17860,12 @@ SNSには書けない禁断の本音をテーマに、ゲストたちが赤裸�
 【提供】BOATRACE振興会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-228_s1_p1065/thumb001.png" />
 	</programme>
-	<programme channel="special-plus" start="20261018135000 +0000" stop="20261018150000 +0000">
+	<programme channel="special-plus" start="20261018140000 +0000" stop="20261018140300 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</programme>
+	<programme channel="special-plus" start="20261018140300 +0000" stop="20261018150000 +0000">
 		<title>#7：AKB時代から若返った・板野友美(35)＆奇跡の56歳美魔女</title>
 		<desc>AKB時代より若返った！？社長＆ママ・板野友美(35)の老けない美習慣
 現在5歳の娘を持つママであり、ブランド社長でもある板野友美に密着！若返ったと話題のストイックな美容と素顔を公開！
@@ -18107,6 +18123,119 @@ SNSには書けない禁断の本音をテーマに、ゲストたちが赤裸�
 週末のボートレースはABEMAで！
 【提供】BOATRACE振興会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-353_s10000_p1030/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261010022500 +0000" stop="20261010070000 +0000">
+		<title>男磨きハウス 全話一挙</title>
+		<desc>「クソつまんない人生を変えたい」切実な想いを胸に集まった男達を、メンズコーチ・ジョージが磨きあげる強化合宿が開幕！合言葉は「弱さを燃やせ」。しかし、初日からハウスルールを破り波乱の事態に…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2046_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261010070000 +0000" stop="20261010142000 +0000">
+		<title>男磨きハウス2 全話一挙</title>
+		<desc>13年引きこもり幼卒、生死の境をさまよった子ども部屋おじさんなど、人生のどん底であがく男たちを叩き直すべく、メンズコーチ・ジョージによる【超過酷・人生改造合宿】が開幕！
+しかし、己を変えたいと集まったはずの参加者たちの“弱さ”が初日から大爆発。ジョージすら“お手上げ”となる前代未聞の事態も...
+
+supported by 株式会社スヴェンソン</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2046_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261010142000 +0000" stop="20261011022500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261011022500 +0000" stop="20261011070000 +0000">
+		<title>男磨きハウス 全話一挙</title>
+		<desc>「クソつまんない人生を変えたい」切実な想いを胸に集まった男達を、メンズコーチ・ジョージが磨きあげる強化合宿が開幕！合言葉は「弱さを燃やせ」。しかし、初日からハウスルールを破り波乱の事態に…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2046_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261011070000 +0000" stop="20261011142000 +0000">
+		<title>男磨きハウス2 全話一挙</title>
+		<desc>13年引きこもり幼卒、生死の境をさまよった子ども部屋おじさんなど、人生のどん底であがく男たちを叩き直すべく、メンズコーチ・ジョージによる【超過酷・人生改造合宿】が開幕！
+しかし、己を変えたいと集まったはずの参加者たちの“弱さ”が初日から大爆発。ジョージすら“お手上げ”となる前代未聞の事態も...
+
+supported by 株式会社スヴェンソン</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2046_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261011142000 +0000" stop="20261017060000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261017060000 +0000" stop="20261017125500 +0000">
+		<title>ラブキャッチャージャパン3 #1~7</title>
+		<desc>▼みどころ
+真実の愛を見つけるための旅に参加した男女12名。
+その中には、「金」目当てが潜んでいる・・・！
+
+俳優、ダンサー、薬剤師、美容インフルエンサー、グラビアアイドル…
+様々な肩書を持つ12名が繰り広げる8日間の愛と裏切りの恋愛心理ゲームが幕を開ける！
+
+「みんなに見られてると緊張するね」
+8日間の旅、最初のカップルチャレンジは全員水着参加のカップルフォト。
+優勝カップルに与えられる『特別な権利』をめぐって出会って初日に嫉妬を誘う熱愛バトルが勃発！？？
+
+12人の恋と、金の行方はいかにーーー？
+
+▼概要
+「この恋、最後まで信じるな」
+
+恋をしに来た男女12名。 
+その中には"賞金1,000万円"を狙う"金目当て"が潜んでいる──。 
+
+その笑顔も、その涙も、すべては1,000万円のためかもしれない。 
+
+疑心暗鬼の世界で
+人間の本性があらわになる、究極の恋愛心理ゲーム。 
+
+最後に待つのは、真実の愛か、裏切りか。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s3_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261017125500 +0000" stop="20261017131000 +0000">
+		<title>映画『汝、星のごとく』公開記念特番 愛が紡いだ15年の軌跡SP ダイジェスト版</title>
+		<desc>累計170万部を突破した凪良ゆう原作のベストセラー小説を、藤井道人がメガホンを握り映画化した『汝、星のごとく』。運命に翻弄された男女の15年にわたる愛と選択の物語を、日本を代表する俳優、横浜流星と広瀬すずが演じる。
+はじまりは「櫂として生きたい」という、横浜流星の熱い想いだった。横浜の自筆メッセージを受け取った原作者・凪良ゆう、多くの作品を共にしてきた盟友である監督・藤井道人。物語の運命を握る、重要な役割を託された広瀬すず。そして、横浜流星本人のインタビューによって映画化への軌跡を紐解く。
+さらに、２人の人生に寄り添う役どころを担った、松村北斗、中村アン、濱田岳、尾野真千子、木村佳乃、石田ゆり子、長谷川博己ら日本映画界に欠かせない主演級の俳優たち。今だから語れる制作の舞台裏から、RADWINPSの主題歌まで。『汝、星のごとく』の魅力を、映画の舞台となった今治で語り尽くす公開特別番組。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/409-6_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261017131000 +0000" stop="20261018060000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261018060000 +0000" stop="20261018125500 +0000">
+		<title>ラブキャッチャージャパン3 #1~7</title>
+		<desc>▼みどころ
+真実の愛を見つけるための旅に参加した男女12名。
+その中には、「金」目当てが潜んでいる・・・！
+
+俳優、ダンサー、薬剤師、美容インフルエンサー、グラビアアイドル…
+様々な肩書を持つ12名が繰り広げる8日間の愛と裏切りの恋愛心理ゲームが幕を開ける！
+
+「みんなに見られてると緊張するね」
+8日間の旅、最初のカップルチャレンジは全員水着参加のカップルフォト。
+優勝カップルに与えられる『特別な権利』をめぐって出会って初日に嫉妬を誘う熱愛バトルが勃発！？？
+
+12人の恋と、金の行方はいかにーーー？
+
+▼概要
+「この恋、最後まで信じるな」
+
+恋をしに来た男女12名。 
+その中には"賞金1,000万円"を狙う"金目当て"が潜んでいる──。 
+
+その笑顔も、その涙も、すべては1,000万円のためかもしれない。 
+
+疑心暗鬼の世界で
+人間の本性があらわになる、究極の恋愛心理ゲーム。 
+
+最後に待つのは、真実の愛か、裏切りか。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s3_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261018125500 +0000" stop="20261018131000 +0000">
+		<title>映画『汝、星のごとく』公開記念特番 愛が紡いだ15年の軌跡SP ダイジェスト版</title>
+		<desc>累計170万部を突破した凪良ゆう原作のベストセラー小説を、藤井道人がメガホンを握り映画化した『汝、星のごとく』。運命に翻弄された男女の15年にわたる愛と選択の物語を、日本を代表する俳優、横浜流星と広瀬すずが演じる。
+はじまりは「櫂として生きたい」という、横浜流星の熱い想いだった。横浜の自筆メッセージを受け取った原作者・凪良ゆう、多くの作品を共にしてきた盟友である監督・藤井道人。物語の運命を握る、重要な役割を託された広瀬すず。そして、横浜流星本人のインタビューによって映画化への軌跡を紐解く。
+さらに、２人の人生に寄り添う役どころを担った、松村北斗、中村アン、濱田岳、尾野真千子、木村佳乃、石田ゆり子、長谷川博己ら日本映画界に欠かせない主演級の俳優たち。今だから語れる制作の舞台裏から、RADWINPSの主題歌まで。『汝、星のごとく』の魅力を、映画の舞台となった今治で語り尽くす公開特別番組。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/409-6_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20261009150000 +0000" stop="20261009170000 +0000">
 		<title>報道ステーション 「今」という世界を見つめる</title>
@@ -18887,7 +19016,7 @@ SNSには書けない禁断の本音をテーマに、ゲストたちが赤裸�
 	<programme channel="abema-news" start="20261018161000 +0000" stop="20261018164000 +0000">
 		<title>熱闘！Mリーグ：#395 Mリーガーイメージ調査！</title>
 		<desc>・格闘倶楽部は寿人が今季初の連闘！ファミリーにトップを持ち帰ることはできるのか？
-・これぞ戦闘民族！パイレーツ鈴木優が圧巻の攻めでラス目から大逆転！？
+・サクラナイツのスーパールーキー航が今季第一号の…！？
 ・Mリーガーイメージ調査！MリーガーがMリーガを褒めまくる！？</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-74_s0_p395/thumb001.png" />
 	</programme>
@@ -26952,9 +27081,12 @@ K-POPを代表する10人の振付師の戦略的な頭脳戦が始まる!
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/472-231_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20261017115700 +0000" stop="20261017120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 10/17</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p200/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20261017120000 +0000" stop="20261017124000 +0000">
 		<title>tripleSと3人の占い師たち #1</title>
@@ -33378,9 +33510,12 @@ A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20261017145700 +0000" stop="20261017150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 10/17</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします!
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p200/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20261017150000 +0000" stop="20261017163800 +0000">
 		<title>麻雀最強戦2020 全国アマチュア最強位決定戦 D卓</title>
@@ -43610,7 +43745,15 @@ MCの藤森慎吾がマスターのボートレース好きが集まるカフェ
 		<desc>波乗りSPLASH CAFEに出演してるメンバーたちがボートレース場で出張研修!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-308_s1_p600/thumb001.png" />
 	</programme>
-	<programme channel="boatrace" start="20261018115000 +0000" stop="20261018135000 +0000">
+	<programme channel="boatrace" start="20261018115000 +0000" stop="20261018120000 +0000">
+		<title>ヤングレーサーCHALLENGEMATCH#2 尾上雅也vs黒野元基</title>
+		<desc>ボートレーサーに必要な”様々なスキル”が試される!?
+ヤングレーサーCHALLENGEMATCH企画はパーティーゲーム対決や料理対決、
+スポーツ対決にクイズ対決と盛りだくさん!
+ボートレース初心者からファンの方まで楽しめる、ボートレーサーの意外な魅力を発見できるコンテンツです!</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-315_s1_p2/thumb001.png" />
+	</programme>
+	<programme channel="boatrace" start="20261018120000 +0000" stop="20261018140000 +0000">
 		<title>『スナックさざなみ』#65</title>
 		<desc>来店したゲストが、ミッドナイトボートレース予想や、オリジナルボードゲーム、カラオケ企画など、
 様々な企画で大盛りあがり！
@@ -43630,7 +43773,7 @@ MCの藤森慎吾がマスターのボートレース好きが集まるカフェ
 【提供】BOATRACE振興会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-228_s10000_p65/thumb001.png" />
 	</programme>
-	<programme channel="boatrace" start="20261018135000 +0000" stop="20261019060000 +0000">
+	<programme channel="boatrace" start="20261018140000 +0000" stop="20261019060000 +0000">
 		<title>番組休止</title>
 		<desc>注目番組1 ときめきファンファーレ SECOND(毎週金曜 よる7時〜)
 クロちゃん、田中れいな、岡部麟がアイドルを率いてチームを結成。ボートレース予想やクイズで、ポイントをかけたガチバトルを繰り広げます!
