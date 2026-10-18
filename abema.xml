@@ -28,10 +28,6 @@
 		<display-name>アニメSPECIAL4</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-4/logo.png" />
 	</channel>
-	<channel id="machiasobi">
-		<display-name>マチ★アソビチャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/machiasobi/logo.png" />
-	</channel>
 	<channel id="isekai-anime">
 		<display-name>異世界・ファンタジーアニメチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime/logo.png" />
@@ -131,6 +127,10 @@
 	<channel id="special-plus">
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+	</channel>
+	<channel id="special-plus-2">
+		<display-name>ABEMA SPECIAL 3チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
 	</channel>
 	<channel id="disney">
 		<display-name>DISNEY名作コレクション</display-name>
@@ -2617,9 +2617,9 @@ U-17 WORLD CUP(アンダーセブンティーンワールドカップ)――激�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/12-29_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20261019080000 +0000" stop="20261019140000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png" />
+		<title>文豪ストレイドッグス 第3シーズン #26〜37【無料ビデオ2週間】</title>
+		<desc>ヨコハマ租界近くの擂鉢街に〝とある人物〟が現れたという噂を耳にしたポートマフィアのボス・森鴎外は、十五歳の少年・太宰治に真相究明を命じる。だが、調べを進める太宰に、敵対する組織の一つである「羊」のリーダー・中原中也が襲い掛かった。「お前が調べている『アラハバキ』について、話してもらおうか」と、聞き慣れぬ名を口にする中也。しかし２人は、突然の爆発に巻き込まれ……。そのとき太宰が見たのは――黒い爆炎を背に立つ「先代ボス」の姿だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-55_s3_p26/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20261019140000 +0000" stop="20261019203000 +0000">
 		<title>【推しの子】第2期 #12〜24【無料ビデオ2週間】</title>
@@ -4037,86 +4037,6 @@ U-17 WORLD CUP(アンダーセブンティーンワールドカップ)――激�
 		<title>ジョジョの奇妙な冒険 ストーンオーシャン #36〜38</title>
 		<desc>承太郎、エルメェスと合流した徐倫は、ついにプッチ神父を追い詰めた。しかし、承太郎の放った銛が神父を射貫こうとするその瞬間、「天国の時」がついに訪れる。プッチ神父から漏れ出す幾つものまばゆい光線。徐倫が気が付くと、神父の姿は消え、ケープ・カナベラルを混乱に陥れた重力の逆転は元に戻っていた。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/199-50_s1_p36/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261017004000 +0000" stop="20261017023000 +0000">
-		<title>マチ★アソビ vol.31 開会式 &amp; アズレン9周年スペシャルステージ</title>
-		<desc>※マチ★アソビ 開会式後、ステージを開始いたします※2026年9月に9周年を迎えた『アズールレーン』。9月に開催された周年イベント「AZUR LANE MUSI9 FES」を、ゲストの皆さんと振り返ります！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p1/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261017023000 +0000" stop="20261017033000 +0000">
-		<title>TVアニメ『あかね噺』スタッフ＆キャストこぼればなし</title>
-		<desc>2027年1月より第２期放送を迎えるTVアニメ『あかね噺』。阿良川あかね役の永瀬アンナに加え、監督、プロデューサーとともに第１期の”こぼればなし”をたっぷりとお届けします！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p2/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261017033000 +0000" stop="20261017053000 +0000">
-		<title>マチアソビ×ニュータイプ ニュータイプアニメアワード発表イベント</title>
-		<desc>10月17日に藍場浜ステージにて「ニュータイプアニメアワード」の発表イベントを開催。ゲスト司会に中村繪里子さんが登壇！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p3/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261017053000 +0000" stop="20261017063000 +0000">
-		<title>第6回 ロシデレ・プロジェクト総会 inマチアソビステージ</title>
-		<desc>TVアニメ『時々ボソッとロシア語でデレる隣のアーリャさん Season2』2027年放送に向けてのスペシャルステージ！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p4/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261017063000 +0000" stop="20261017074500 +0000">
-		<title>TVアニメ『LONA』スペシャルステージ</title>
-		<desc>2027年 春に放送予定のオリジナルTVアニメ『LONA』。原案・脚本の野木亜紀子、監督の片桐 崇、企画の和田丈嗣、青役 寿美菜子さん、珊瑚役 永瀬アンナさんと特別なステージをお送りします！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p5/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261017074500 +0000" stop="20261017083000 +0000">
-		<title>マチ★アソビ SPECIAL LIVE - MYTH&amp;ROID</title>
-		<desc>マチ★アソビ SPECIAL LIVE – MYTH &amp; ROID　お見逃しなく。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p6/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261017083000 +0000" stop="20261017100000 +0000">
-		<title>マチ★アソビ SPECIAL LIVE - 中川翔子</title>
-		<desc>マチ★アソビ SPECIAL LIVE – 中川翔子　お見逃しなく。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p7/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261017100000 +0000" stop="20261017120000 +0000">
-		<title>マチ★アソビ SPECIAL LIVE - 内田真礼</title>
-		<desc>マチ★アソビ SPECIAL LIVE – 内田真礼　お見逃しなく。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p8/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261017120000 +0000" stop="20261018004000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/machiasobi/logo.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261018004000 +0000" stop="20261018020000 +0000">
-		<title>アニメ「鬼滅の刃」ステージ</title>
-		<desc>アニメ「鬼滅の刃」ステージのステージが開催決定！ステージ内では「親分･伊之助の○○探検隊」の実施が決定！親分である嘴平伊之助役の松岡さんを筆頭に、出演者全員で、皆さまからの質問や説を深堀りします。今回のテーマは「竈門炭治郎 立志編」について。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p9/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261018020000 +0000" stop="20261018030000 +0000">
-		<title>『Re:ゼロから始める異世界生活』4th season 振り返りステージ</title>
-		<desc>TVアニメ『Re:ゼロから始める異世界生活』4th season 最終回直後のスペシャルステージ！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p10/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261018030000 +0000" stop="20261018040000 +0000">
-		<title>『劇場シリーズ【第一部】メイドインアビス 目覚める神秘 』公開直前トークショー</title>
-		<desc>10月23日に新作劇場シリーズの公開を控えた「メイドインアビス」のスペシャルトークショー！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p11/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261018040000 +0000" stop="20261018044500 +0000">
-		<title>「プリズマ☆イリヤ FINALE」スペシャルステージ in マチ☆アソビ</title>
-		<desc>2027年に放送される『プリズマ☆イリヤ FINALE』初のキャスト出演イベントを『マチ☆アソビ』にて開催！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p12/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261018044500 +0000" stop="20261018053000 +0000">
-		<title>『Fate/EXTRA Record』マチ★アソビ凱旋ステージ</title>
-		<desc>『Fate/EXTRA Record』2027年1月28日発売！Fateシリーズ初のRPG作品が、フルリメイクで蘇り、何年かぶりに「マチ★アソビ」のステージに凱旋ーー出演キャストによるステージイベントを実施します。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p13/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261018053000 +0000" stop="20261018060000 +0000">
-		<title>FGOゲストトーク in マチ★アソビvol.31</title>
-		<desc>小市真琴さん、古川慎さんをゲストに迎え、「Fate/Grand Order」に関するキャストトークをお届けいたします。※ゲームの最新情報の発表はございません。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p14/thumb001.png" />
-	</programme>
-	<programme channel="machiasobi" start="20261018060000 +0000" stop="20261018090000 +0000">
-		<title>劇場アニメーション『魔法使いの夜』スペシャルステージ inマチアソビ &amp; 閉会式</title>
-		<desc>『魔法使いの夜』11月20日(金)劇場公開！TYPE-MOON×ufotableが贈る『魔法使いの夜』が、「マチ★アソビ vol.31」にも参加！出演キャストを迎え、劇場公開を目前に控えた、この日だけのステージをお届けします。※ステージ終了後、マチ★アソビ 閉会式をお届けします※</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-931_s10000_p15/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime" start="20261010093000 +0000" stop="20261010153000 +0000">
 		<title>29歳独身中堅冒険者の日常 #1〜12【無料ビデオ2週間】</title>
@@ -10517,7 +10437,7 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！
 
 【提供】ダイキン工業</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s100_p1/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p201/thumb001.png" />
 	</programme>
 	<programme channel="family-anime-1" start="20261018121800 +0000" stop="20261018141800 +0000">
 		<title>映画ドラえもん のび太の地球交響楽【無料ビデオ1週間】</title>
@@ -15760,9 +15680,12 @@ SNSには書けない禁断の本音をテーマに、ゲストたちが赤裸�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-980_s102_p239/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20261018115700 +0000" stop="20261018120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
+		<title>ダイキン空気予報 10/18</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします!
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p201/thumb001.png" />
 	</programme>
 	<programme channel="abema-special" start="20261018120000 +0000" stop="20261018134500 +0000">
 		<title>秘密のママ園:自称イクメンパパ達が子育て事情を暴露＆子供9人育てるギャルシンママ</title>
@@ -17596,9 +17519,12 @@ SNSには書けない禁断の本音をテーマに、ゲストたちが赤裸�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-228_s1_p1065/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20261018140000 +0000" stop="20261018140300 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
+		<title>ダイキン空気予報 10/18</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします!
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p201/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20261018140300 +0000" stop="20261018150000 +0000">
 		<title>#7：AKB時代から若返った・板野友美(35)＆奇跡の56歳美魔女</title>
@@ -17881,6 +17807,101 @@ SNSには書けない禁断の本音をテーマに、ゲストたちが赤裸�
 
 【提供】BOATRACE振興会</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-228_s1_p1066/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261011022500 +0000" stop="20261011070000 +0000">
+		<title>男磨きハウス 全話一挙</title>
+		<desc>「クソつまんない人生を変えたい」切実な想いを胸に集まった男達を、メンズコーチ・ジョージが磨きあげる強化合宿が開幕！合言葉は「弱さを燃やせ」。しかし、初日からハウスルールを破り波乱の事態に…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2046_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261011070000 +0000" stop="20261011142000 +0000">
+		<title>男磨きハウス2 全話一挙</title>
+		<desc>13年引きこもり幼卒、生死の境をさまよった子ども部屋おじさんなど、人生のどん底であがく男たちを叩き直すべく、メンズコーチ・ジョージによる【超過酷・人生改造合宿】が開幕！
+しかし、己を変えたいと集まったはずの参加者たちの“弱さ”が初日から大爆発。ジョージすら“お手上げ”となる前代未聞の事態も...
+
+supported by 株式会社スヴェンソン</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-2046_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261011142000 +0000" stop="20261017060000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261017060000 +0000" stop="20261017125500 +0000">
+		<title>ラブキャッチャージャパン3 #1~7</title>
+		<desc>▼みどころ
+真実の愛を見つけるための旅に参加した男女12名。
+その中には、「金」目当てが潜んでいる・・・！
+
+俳優、ダンサー、薬剤師、美容インフルエンサー、グラビアアイドル…
+様々な肩書を持つ12名が繰り広げる8日間の愛と裏切りの恋愛心理ゲームが幕を開ける！
+
+「みんなに見られてると緊張するね」
+8日間の旅、最初のカップルチャレンジは全員水着参加のカップルフォト。
+優勝カップルに与えられる『特別な権利』をめぐって出会って初日に嫉妬を誘う熱愛バトルが勃発！？？
+
+12人の恋と、金の行方はいかにーーー？
+
+▼概要
+「この恋、最後まで信じるな」
+
+恋をしに来た男女12名。 
+その中には"賞金1,000万円"を狙う"金目当て"が潜んでいる──。 
+
+その笑顔も、その涙も、すべては1,000万円のためかもしれない。 
+
+疑心暗鬼の世界で
+人間の本性があらわになる、究極の恋愛心理ゲーム。 
+
+最後に待つのは、真実の愛か、裏切りか。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s3_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261017125500 +0000" stop="20261017131000 +0000">
+		<title>映画『汝、星のごとく』公開記念特番 愛が紡いだ15年の軌跡SP ダイジェスト版</title>
+		<desc>累計170万部を突破した凪良ゆう原作のベストセラー小説を、藤井道人がメガホンを握り映画化した『汝、星のごとく』。運命に翻弄された男女の15年にわたる愛と選択の物語を、日本を代表する俳優、横浜流星と広瀬すずが演じる。
+はじまりは「櫂として生きたい」という、横浜流星の熱い想いだった。横浜の自筆メッセージを受け取った原作者・凪良ゆう、多くの作品を共にしてきた盟友である監督・藤井道人。物語の運命を握る、重要な役割を託された広瀬すず。そして、横浜流星本人のインタビューによって映画化への軌跡を紐解く。
+さらに、２人の人生に寄り添う役どころを担った、松村北斗、中村アン、濱田岳、尾野真千子、木村佳乃、石田ゆり子、長谷川博己ら日本映画界に欠かせない主演級の俳優たち。今だから語れる制作の舞台裏から、RADWINPSの主題歌まで。『汝、星のごとく』の魅力を、映画の舞台となった今治で語り尽くす公開特別番組。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/409-6_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261017131000 +0000" stop="20261018060000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261018060000 +0000" stop="20261018125500 +0000">
+		<title>ラブキャッチャージャパン3 #1~7</title>
+		<desc>▼みどころ
+真実の愛を見つけるための旅に参加した男女12名。
+その中には、「金」目当てが潜んでいる・・・！
+
+俳優、ダンサー、薬剤師、美容インフルエンサー、グラビアアイドル…
+様々な肩書を持つ12名が繰り広げる8日間の愛と裏切りの恋愛心理ゲームが幕を開ける！
+
+「みんなに見られてると緊張するね」
+8日間の旅、最初のカップルチャレンジは全員水着参加のカップルフォト。
+優勝カップルに与えられる『特別な権利』をめぐって出会って初日に嫉妬を誘う熱愛バトルが勃発！？？
+
+12人の恋と、金の行方はいかにーーー？
+
+▼概要
+「この恋、最後まで信じるな」
+
+恋をしに来た男女12名。 
+その中には"賞金1,000万円"を狙う"金目当て"が潜んでいる──。 
+
+その笑顔も、その涙も、すべては1,000万円のためかもしれない。 
+
+疑心暗鬼の世界で
+人間の本性があらわになる、究極の恋愛心理ゲーム。 
+
+最後に待つのは、真実の愛か、裏切りか。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/90-1904_s3_p10/thumb001.png" />
+	</programme>
+	<programme channel="special-plus-2" start="20261018125500 +0000" stop="20261018131000 +0000">
+		<title>映画『汝、星のごとく』公開記念特番 愛が紡いだ15年の軌跡SP ダイジェスト版</title>
+		<desc>累計170万部を突破した凪良ゆう原作のベストセラー小説を、藤井道人がメガホンを握り映画化した『汝、星のごとく』。運命に翻弄された男女の15年にわたる愛と選択の物語を、日本を代表する俳優、横浜流星と広瀬すずが演じる。
+はじまりは「櫂として生きたい」という、横浜流星の熱い想いだった。横浜の自筆メッセージを受け取った原作者・凪良ゆう、多くの作品を共にしてきた盟友である監督・藤井道人。物語の運命を握る、重要な役割を託された広瀬すず。そして、横浜流星本人のインタビューによって映画化への軌跡を紐解く。
+さらに、２人の人生に寄り添う役どころを担った、松村北斗、中村アン、濱田岳、尾野真千子、木村佳乃、石田ゆり子、長谷川博己ら日本映画界に欠かせない主演級の俳優たち。今だから語れる制作の舞台裏から、RADWINPSの主題歌まで。『汝、星のごとく』の魅力を、映画の舞台となった今治で語り尽くす公開特別番組。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/409-6_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20261010140000 +0000" stop="20261010160000 +0000">
 		<title>ABEMA NEWS　お休み前に最新ニュース＆エンタメ</title>
@@ -26714,9 +26735,12 @@ K-POPを代表する10人の振付師の戦略的な頭脳戦が始まる!
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/663-74_s1_p1020/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20261018115700 +0000" stop="20261018120000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png" />
+		<title>ダイキン空気予報 10/18</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします!
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p201/thumb001.png" />
 	</programme>
 	<programme channel="k-world" start="20261018120000 +0000" stop="20261018124500 +0000">
 		<title>アイドルたちの売店歌謡 #14</title>
@@ -33019,9 +33043,12 @@ A1リーグは年間40半荘行われ上位4名が雀王決定戦へと進出。
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/444-1_s5_p100000/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20261018145700 +0000" stop="20261018150000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png" />
+		<title>ダイキン空気予報 10/18</title>
+		<desc>人々の生活をよりよくする空気をお届けしたい。
+そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします!
+
+【提供】ダイキン工業</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/221-115_s7_p201/thumb001.png" />
 	</programme>
 	<programme channel="mahjong" start="20261018150000 +0000" stop="20261018174300 +0000">
 		<title>麻雀最強戦2020 ファイナル1st Stage A卓</title>
