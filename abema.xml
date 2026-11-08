@@ -208,10 +208,6 @@
 		<display-name>MOTOR SPORTチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png" />
 	</channel>
-	<channel id="world-sports-2">
-		<display-name>SPORTS 2チャンネル</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-2/logo.png" />
-	</channel>
 	<channel id="sumo">
 		<display-name>大相撲チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/sumo/logo.png" />
@@ -219,6 +215,10 @@
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
+	</channel>
+	<channel id="fighting-sports2">
+		<display-name>格闘 2チャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports2/logo.png" />
 	</channel>
 	<channel id="hiphop">
 		<display-name>HIPHOPチャンネル</display-name>
@@ -16531,9 +16531,17 @@ MC 永野&amp;井桁弘恵
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png" />
 	</programme>
 	<programme channel="abema-special" start="20261115110000 +0000" stop="20261115120000 +0000">
-		<title>ななにー 地下ABEMA #142</title>
-		<desc>世間が気になることから、そんなに気にならないことまで、
-“稲垣・草彅・香取”の3人がより深く掘り下げて界隈をざわつかせる！</desc>
+		<title>ななにー 地下ABEMA #142 【バズりキッズ】最強バズりキッズ大集合</title>
+		<desc>りりぴ率いる
+小学生ギャルアイドル集団
+
+パンサー尾形の娘が登場
+家での真の姿を大暴露！
+「キャラと全然違う！？」
+
+M!LKの佐野勇斗似の
+ハワイアンカフェ看板息子に
+世界を席巻するけん玉王者も</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-4_s0_p199/thumb001.png" />
 	</programme>
 	<programme channel="special-plus" start="20261031150000 +0000" stop="20261031160000 +0000">
@@ -36955,28 +36963,6 @@ https://abema.tv/video/title/634-4
 初心者でも笑って学べる! SUPER GTの番組を無料放送!見逃し放送も注目映像も全て無料! MCにお笑いトリオ・ぱーてぃーちゃんを迎え、笑って学べる番組をお送り! 各大会の注目シーンをまとめたダイジェストを現役ドライバーを迎え一緒に振り返る。 番組ではレースダイジェストに加え、独自の選手取材や、サーキットでしかできない体験などのオリジナル企画を織り交ぜ、90分のバラエティに富んだ内容を放送していきます。 レースダイジェストでは、レーシング用語の解説や暫定順位を表示するオリジナルテロップを添えて、初心者にもわかりやすく「SUPER GT」の魅力をお届けいたします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/16-101_s40_p1/thumb001.png" />
 	</programme>
-	<programme channel="world-sports-2" start="20261108055500 +0000" stop="20261108100000 +0000">
-		<title>ワールドクライミング グランドフィナーレ 福岡2026（チームリード決勝）</title>
-		<desc>スポーツクライミングのシーズンを締めくくる国際大会
-『ワールドクライミング グランドフィナーレ 福岡2026』より、
-男女混合の国別対抗戦「World Climbing Nations Grand Finale」を
-BS朝日で放送!
-ABEMAでは11月7日(土)チームボルダー決勝、
-8日(日)チームリード決勝を無料生中継!
-
-『World Climbing Nations Grand Finale』は、
-制限時間内に完登した課題数を競う「ボルダー」と、
-到達した高さを競う「リード」の2種目で
-チームとして競い合う、男女混合の国別対抗戦。
-日本をはじめ世界の強豪国・地域が集結し、
-世界一の座を懸けて激突する。
-
-舞台は福岡県飯塚市。
-パリ五輪銀メダリストの安楽宙斗をはじめとする日本代表が、
-世界のトップクライマーたちと国の威信を懸けた戦いに挑む!
-一手ごとに局面が変わる緊張感と、チーム一丸で頂点を目指す熱戦を見逃すな!</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/38-471_s10000_p2/thumb001.png" />
-	</programme>
 	<programme channel="sumo" start="20261103030000 +0000" stop="20261103060000 +0000">
 		<title>11月8日(日)より大相撲LIVE 十一月場所 無料生中継</title>
 		<desc>大相撲十一月場所 幕内 結びの一番まで完全無料生中継! 初日の中継は無料で見逃し視聴いただけます。 ABEMAでは大相撲全6場所90日間、完全生中継!</desc>
@@ -39526,6 +39512,42 @@ vs 不可思</desc>
 		<title>RISE WORLD SERIES 2026 TOKYO Final 大会会見</title>
 		<desc>12月20日(日)に東京・Kanadevia Hall(旧TOKYO DOME CITY HALL)にて開催される『「RISE WORLD SERIES 2026 TOKYO Final」』の第一弾対戦カード発表会見をABEMAで生中継!</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/464-22_s10000_p5/thumb001.png" />
+	</programme>
+	<programme channel="fighting-sports2" start="20261108110000 +0000" stop="20261108150000 +0000">
+		<title>RIZIN.55 最速振り返り ヘルメットーク</title>
+		<desc>RIZIN.55大会終了直後、RIZIN笹原圭一・横島加奈、そしてDEEP佐伯繁が、撤去作業真っ只中の会場でヘルメットをかぶりながら試合を振り返る、最速ファイトレビュー番組!
+
+試合を終えたばかりの選手や、会場に駆けつけた選手も登場するかも・・・!?
+
+何が飛び出すかわからない、興奮冷めやらぬ会場からお届けするぶっちゃけトークをお見逃しなく!
+
+
+ーーーーーーーーーー
+
+11月8日(日)にLaLa arena TOKYO-BAYにて開催される、
+『RIZIN.55』の配信チケットを販売。
+
+フライ級タイトルマッチ/神龍誠 vs. トニー・ララミー
+井上直樹 vs. イリスベク・ティレノフ
+福田龍彌 vs. キム・スーチョル
+鹿志村仁之介 vs. 太田忍
+アバイジャ・カレオ・メヘウラ vs. 相本宗輝
+牛久絢太郎 vs. リー・カイウェン
+キム・ギョンピョ vs. ヌルハン・ズマガジー
+マック・パパリイ vs 赤沢幸典
+鈴木博昭 vs. 千春
+中島太一 vs. 溝口司
+雑賀“ヤン坊”達也 vs. 倉本大悟
+濱田巧 vs. 関原翔
+力也 vs. 木村琉音
+OPENING FIGHT ジェイク・ウィルキンス vs 山﨑弥十朗
+OPENING FIGHT 井上舜矢 vs. マイティ・saw
+OPENING FIGHT 松本尚大 vs. 髙橋正親
+
+是非、配信でお楽しみください!
+
+ーーーーーーーーーー</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/610-3_s10001_p4/thumb001.png" />
 	</programme>
 	<programme channel="hiphop" start="20261031150000 +0000" stop="20261031154500 +0000">
 		<title>【見逃し】Kamui’s HYPE THE HOPE #6</title>
