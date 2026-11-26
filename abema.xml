@@ -136,10 +136,6 @@
 		<display-name>ABEMA SPECIAL 2チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png" />
 	</channel>
-	<channel id="disney">
-		<display-name>DISNEY名作コレクション</display-name>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/disney/logo.png" />
-	</channel>
 	<channel id="abema-news">
 		<display-name>ABEMA NEWSチャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" />
@@ -211,6 +207,10 @@
 	<channel id="fighting-sports">
 		<display-name>格闘チャンネル</display-name>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png" />
+	</channel>
+	<channel id="njpw">
+		<display-name>新日本プロレスチャンネル</display-name>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/njpw/logo.png" />
 	</channel>
 	<channel id="hiphop">
 		<display-name>HIPHOPチャンネル</display-name>
@@ -1167,7 +1167,7 @@
 	<programme channel="abema-anime" start="20261127130000 +0000" stop="20261127133000 +0000">
 		<title>BEYBLADE X #142【最新話】</title>
 		<desc>黒須一族によるベイブレードの破壊と再生を阻止し、文字通り未来を掴み取ったチームペルソナ。しかし、彼らの触れた「X」は、まだごく一部に過ぎなかった。彼らが招聘されたのは、ベイブレードで全てが決まる王国――「ベイキングダム」。ペルソナは国王の後継者の座をかけて99人の王子が争う「スピンクラウンウォー」に代打ちとして参戦する。しかし、この国には知られざるペルソナとの因縁があった。今を打ち砕き、扉を開け。Xが極限を超える――。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p138/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/190-32_s4_p142/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20261127133000 +0000" stop="20261127140000 +0000">
 		<title>夜桜さんちの大作戦　第2期 #46【最新話】</title>
@@ -1175,14 +1175,14 @@
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/11-60_s2_p46/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20261127140000 +0000" stop="20261127143000 +0000">
-		<title>ポケットモンスター 新シリーズ #158【最新話】</title>
-		<desc>弱ったポケモンの目撃情報を受けて、捜索に出たモリー。体が冷えて弱ったドンメルたちを見つける。なんとかして、あたためないと…！そんなモリーのもとへ現れたのは、いつも機関室にいるマグマッグとトロッゴン！？そして２匹を探しにきたオリオも合流。ドンメルたちを救えるのか…！？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-14_s10_p158/thumb001.png" />
+		<title>ポケットモンスター 新シリーズ #159【最新話】</title>
+		<desc>ポケットモンスター、縮めてポケモン。この星の不思議な不思議な生き物。空、海、森、街の中と至る所でその姿を見ることができる。不思議なペンダントを持つパルデア出身の少女、リコ。謎のモンスターボールを持つカントー出身の少年、ロイ。広大なポケットモンスターの世界を舞台にリコとロイの新たな冒険が始まる！ふたりを待ち受ける出会い、そして運命とは―！？これは、冒険を通じて大事な何かを「見つける」物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-14_s10_p159/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20261127143000 +0000" stop="20261127150000 +0000">
 		<title>ダイヤのA actⅡ -Second Season- #20【最新話】</title>
 		<desc>沢村栄純が青道高校野球部のエースナンバーを背負い、2年生の夏が再び始まる。悔しさをバネに一歩ずつ成長を続けてきた沢村。故障と好不調の波ゆえにエースナンバーを沢村に託した降谷。青道のキャプテンとして圧倒的な存在感とチームを支える大黒柱となった御幸。沢村、降谷、御幸らが揃う最後の夏。彼らの雄姿と激闘をその目に。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p48/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/316-1_s40_p20/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20261127150000 +0000" stop="20261127153000 +0000">
 		<title>薬屋のひとりごと 第3期 #57【最新話】</title>
@@ -1196,67 +1196,23 @@
 	</programme>
 	<programme channel="abema-anime" start="20261127160000 +0000" stop="20261127163000 +0000">
 		<title>うちの弟どもがすみません #21・見逃し放送</title>
-		<desc>はじまりは、ひとつ屋根の下──
-高校1年生も終わる春休み、母の再婚によって引っ越すことになった
-女子高生の糸は、新しい父と3人での生活に胸を膨らませていた。
-しかし新居で待っていたのは、父と──4人の弟だった！
-無愛想だけど家族想いの長男・源。
-冷静沈着で爽やかな次男・洛。
-引きこもりでなかなか姿を見せない三男・柊。
-いつも元気で甘え上手な末っ子・類。
-新米長女と個性豊かな弟4人とのにぎやかな毎日が織りなす、
-スイートホームラブコメ開幕！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p92/thumb001.png" />
+		<desc>はじまりは、ひとつ屋根の下──高校1年生も終わる春休み、母の再婚によって引っ越すことになった女子高生の糸は、新しい父と3人での生活に胸を膨らませていた。しかし新居で待っていたのは、父と──4人の弟だった！無愛想だけど家族想いの長男・源。冷静沈着で爽やかな次男・洛。引きこもりでなかなか姿を見せない三男・柊。いつも元気で甘え上手な末っ子・類。新米長女と個性豊かな弟4人とのにぎやかな毎日が織りなす、スイートホームラブコメ開幕！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-268_s1_p21/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20261127163000 +0000" stop="20261127170000 +0000">
 		<title>ホタルの嫁入り #8【最新話】</title>
-		<desc>愛が重すぎる殺し屋×余命わずかな令嬢の狂愛ストーリー 
-女は家の財産とされた時代―― 
-  
-名家に生まれ美貌に恵まれるも、余命わずかと言われている伯爵家の令嬢・桐ヶ谷紗都子。 
-そんな彼女の夢は名家に嫁ぎ、父の誇りになること。 
-しかしある夜、何者かの企てによって連れ去られてしまう。 
-  
-絶体絶命の場面に居合わせた殺し屋・後藤進平に 
-「私たち結婚しましょう。私と一緒になれば全てが手に入ります。」 
-と咄嗟の嘘をつく紗都子。 
-  
-「運命の相手だ」と紗都子を狂愛する進平と 
-自らの使命と進平への想いの間で揺れる紗都子の 
-一途で許されぬ愛のかたち。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p139/thumb001.png" />
+		<desc>愛が重すぎる殺し屋×余命わずかな令嬢の狂愛ストーリー 女は家の財産とされた時代――   名家に生まれ美貌に恵まれるも、余命わずかと言われている伯爵家の令嬢・桐ヶ谷紗都子。 そんな彼女の夢は名家に嫁ぎ、父の誇りになること。 しかしある夜、何者かの企てによって連れ去られてしまう。   絶体絶命の場面に居合わせた殺し屋・後藤進平に 「私たち結婚しましょう。私と一緒になれば全てが手に入ります。」 と咄嗟の嘘をつく紗都子。   「運命の相手だ」と紗都子を狂愛する進平と 自らの使命と進平への想いの間で揺れる紗都子の 一途で許されぬ愛のかたち。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-300_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20261127170000 +0000" stop="20261127173000 +0000">
 		<title>弱気MAX令嬢 #8【最新話】</title>
-		<desc>平凡な大学院生から乙女ゲームのモブ悪役令嬢に転生してしまったピア
-
-ゲームのクライマックスに待ち受けているのは
-卒業パーティーでの《　断罪イベント　》
-そこで婚約破棄と国外追放を言い渡されるのが、ピアの運命！
-
-「愛する人に嫌われるくらいなら……」
-すっかり弱気になったピアは、宰相令息のルーファスに婚約解消を申し出る
-ところが、逆にルーファスのプライドに火をつけてしまった！
-
-「私が本当に婚約破棄するか賭けようか？」
-
-ピアの行く手にある追放フラグを
-ルーファスがどんどんへし折っていく！！？
-
-最弱悪役令嬢×最強婚約者の
-“運命の賭け”がもたらす結末（エンディング）はーー？</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p140/thumb001.png" />
+		<desc>平凡な大学院生から乙女ゲームのモブ悪役令嬢に転生してしまったピアゲームのクライマックスに待ち受けているのは卒業パーティーでの《　断罪イベント　》そこで婚約破棄と国外追放を言い渡されるのが、ピアの運命！「愛する人に嫌われるくらいなら……」すっかり弱気になったピアは、宰相令息のルーファスに婚約解消を申し出るところが、逆にルーファスのプライドに火をつけてしまった！「私が本当に婚約破棄するか賭けようか？」ピアの行く手にある追放フラグをルーファスがどんどんへし折っていく！！？最弱悪役令嬢×最強婚約者の“運命の賭け”がもたらす結末（エンディング）はーー？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/54-126_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20261127173000 +0000" stop="20261127180000 +0000">
 		<title>彼方から #8【最新話】</title>
-		<desc>ごく普通の日々を送っていた女子高生・立木典子（たちき のりこ）は、ある朝見た不思議な夢に誘われるように、見知らぬ異世界へと迷い込んでしまう。
-言葉も常識も通用しないこの世界で、行く当てもなく彷徨う典子を救ったのは、たった一人で旅を続ける渡り戦士・イザークだった。
-時を同じくして、世界中では「破壊をもたらす“天上鬼”を目覚めさせる者が現れる」「どの国よりも早く手に入れろ」と囁かれていた。
-目覚めとは、そして天上鬼とは何なのか——その答えを知るかのように、イザークは典子を見て呟く。
-「この娘を殺さなければならない」
-言葉も文化も異なる二人の間には、それでも少しずつ小さな絆が芽生えていく。
-そんな二人は、やがて壮大な運命の渦へと飲み込まれていく——。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p141/thumb001.png" />
+		<desc>再会したノリコとイザークたち一同は、グゼナ国を目指し、関所を避け、白霧の森を抜けようとする。しかし、その森は、一度入れば二度と出られない魔の森だった。襲いかかる化け物の強大な力の前に、追い詰められバラバラに四散するイザークたち。そうして一人になったノリコの前に、姿を現す不思議な少年がいたー。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/11-90_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20261127180000 +0000" stop="20261127183000 +0000">
 		<title>薬屋のひとりごと 第3期 #57・見逃し放送</title>
@@ -1265,18 +1221,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20261127183000 +0000" stop="20261127190000 +0000">
 		<title>バーテックスフォース #8【最新話】</title>
-		<desc>オキナワの北部に住む中学生・東道明は、姉の晴香、カフェを営む母親の3人で平穏な日常を送っていた。
- 
-だが、この家族にはある秘密があった。
-晴香は父から"エンジン"と呼ばれる力を受け継いでおり、他人にその力を隠して生活していたのだ。
-一方、明は父の力を継いでおらず、自らの弱さにコンプレックスを抱いていた。
- 
-そんな中、“パワーダウン”と呼ばれる世界中のネットワークが麻痺する現象が起こる。
-不便さを感じながら日常を送っていた明たちだったが、突如晴香の額が赤く光る。
-それは、かつてEDVAが地球に迫ったとき、父の身に起きたのと同じ現象だった――。
-
-宇宙の命運を背負った少年少女の戦いが、いま始まる。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p69/thumb001.png" />
+		<desc>オキナワの北部に住む中学生・東道明は、姉の晴香、カフェを営む母親の3人で平穏な日常を送っていた。 だが、この家族にはある秘密があった。晴香は父から"エンジン"と呼ばれる力を受け継いでおり、他人にその力を隠して生活していたのだ。一方、明は父の力を継いでおらず、自らの弱さにコンプレックスを抱いていた。 そんな中、“パワーダウン”と呼ばれる世界中のネットワークが麻痺する現象が起こる。不便さを感じながら日常を送っていた明たちだったが、突如晴香の額が赤く光る。それは、かつてEDVAが地球に迫ったとき、父の身に起きたのと同じ現象だった――。宇宙の命運を背負った少年少女の戦いが、いま始まる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/506-9_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20261127190000 +0000" stop="20261127230000 +0000">
 		<title>蒼き伝承 - Welsh &amp; Shedar #1〜8【無料ビデオ1週間】</title>
@@ -1454,11 +1400,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20261129120000 +0000" stop="20261129123000 +0000">
 		<title>アオのハコ Season2 #33【最新話】</title>
-		<desc>毎朝一番に会いたい人がいる――
-中高一貫のスポーツ強豪校・栄明高校男子バドミントン部の猪股大喜は、毎日、朝練で顔を合わせる女子バスケットボール部のエースで一つ上の先輩、鹿野千夏に恋をする。
-ある日、千夏が親の海外転勤に伴い、猪股家に居候することになり、二人の距離は朝練仲間から一変。
-部活に恋に勉強に、大喜にとって忘れられない、新しい季節がはじまる――</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p26/thumb001.png" />
+		<desc>毎朝一番に会いたい人がいる――中高一貫のスポーツ強豪校・栄明高校男子バドミントン部の猪股大喜は、毎日、朝練で顔を合わせる女子バスケットボール部のエースで一つ上の先輩、鹿野千夏に恋をする。ある日、千夏が親の海外転勤に伴い、猪股家に居候することになり、二人の距離は朝練仲間から一変。部活に恋に勉強に、大喜にとって忘れられない、新しい季節がはじまる――</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-59_s2_p33/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20261129123000 +0000" stop="20261129130000 +0000">
 		<title>めざめざ #9【地上波同時・最速配信】</title>
@@ -1529,14 +1472,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20261129150000 +0000" stop="20261129153000 +0000">
 		<title>塩対応の佐藤さんが俺にだけ甘い #8【最新話】</title>
-		<desc>クラス中の⾼嶺の花、佐藤こはる。
-誰にも笑顔を⾒せない、通称“塩対応の佐藤さん”。
-でもある⽇、同じクラスの押尾颯太が、実家が営むカフェで⾒た佐藤さんの姿は……スイーツの写真を撮るため奮闘する、隙だらけの姿で!?
-本当は⼈⾒知りで不器⽤なだけの佐藤さんと、そんな佐藤さんのことが好きな押尾君。
-⼆⼈の距離は、スイーツとカメラをきっかけに、少しずつ縮まっていく。
-世界で⼀番⽢い両⽚想いに、きっとあなたもとろけてしまう――。
-不器⽤な⼆⼈が織りなす“⽢くてしょっぱい”⻘春ラブコメディ！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p72/thumb001.png" />
+		<desc>クラス中の⾼嶺の花、佐藤こはる。誰にも笑顔を⾒せない、通称“塩対応の佐藤さん”。でもある⽇、同じクラスの押尾颯太が、実家が営むカフェで⾒た佐藤さんの姿は……スイーツの写真を撮るため奮闘する、隙だらけの姿で!?本当は⼈⾒知りで不器⽤なだけの佐藤さんと、そんな佐藤さんのことが好きな押尾君。⼆⼈の距離は、スイーツとカメラをきっかけに、少しずつ縮まっていく。世界で⼀番⽢い両⽚想いに、きっとあなたもとろけてしまう――。不器⽤な⼆⼈が織りなす“⽢くてしょっぱい”⻘春ラブコメディ！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/210-22_s1_p8/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20261129153000 +0000" stop="20261129160000 +0000">
 		<title>ホテル・インヒューマンズ 第2期 #22【最新話】</title>
@@ -1566,8 +1503,8 @@
 あなたのそばにリラックマを。
 新たにうごきだす、わくわくの物語。
 
-ぜひ「リラックマ」に会いにきてくださいね。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p10/thumb001.png" />
+2026年春、ぜひ「リラックマ」に会いにきてくださいね。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-291_s1_p34/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20261129163500 +0000" stop="20261129164500 +0000">
 		<title>パンどろぼう #8【最新話】</title>
@@ -1582,11 +1519,8 @@
 	</programme>
 	<programme channel="abema-anime" start="20261129170000 +0000" stop="20261129173000 +0000">
 		<title>アオのハコ Season2 #33・見逃し放送</title>
-		<desc>毎朝一番に会いたい人がいる――
-中高一貫のスポーツ強豪校・栄明高校男子バドミントン部の猪股大喜は、毎日、朝練で顔を合わせる女子バスケットボール部のエースで一つ上の先輩、鹿野千夏に恋をする。
-ある日、千夏が親の海外転勤に伴い、猪股家に居候することになり、二人の距離は朝練仲間から一変。
-部活に恋に勉強に、大喜にとって忘れられない、新しい季節がはじまる――</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p26/thumb001.png" />
+		<desc>毎朝一番に会いたい人がいる――中高一貫のスポーツ強豪校・栄明高校男子バドミントン部の猪股大喜は、毎日、朝練で顔を合わせる女子バスケットボール部のエースで一つ上の先輩、鹿野千夏に恋をする。ある日、千夏が親の海外転勤に伴い、猪股家に居候することになり、二人の距離は朝練仲間から一変。部活に恋に勉強に、大喜にとって忘れられない、新しい季節がはじまる――</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-59_s2_p33/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime" start="20261129173000 +0000" stop="20261129180000 +0000">
 		<title>めざめざ #9・見逃し放送</title>
@@ -1898,10 +1832,15 @@
 		<desc>触れた者に不幸な事故をもたらす“不運”、アンラックの力をもつ少女・出雲風子。その特異な体質から一度は死を覚悟した風子の前に絶対に死ねない“不死”の体を持つアンデッドの男が現れる。彼は風子の力で“本当の死”を得るため、彼女を連れ去るが彼らのような能力を持つ“否定者”を追う対未確認現象統制組織“ユニオン”もまた2人を狙っていた。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-56_s1_p1/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime-2" start="20261127030000 +0000" stop="20261127190000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png" />
+	<programme channel="abema-anime-2" start="20261127030000 +0000" stop="20261127110000 +0000">
+		<title>鋼の錬金術師 FULLMETAL ALCHEMIST #1〜16【無料1週間】</title>
+		<desc>元国家錬金術師でありながら、イシュヴァール殲滅戦後、反体制派に寝返った男「氷結の錬金術師」アイザック・マクドゥーガル。そのアイザックがセントラルに姿を現した。彼を捕縛するため大総統キング・ブラッドレイの命により「焰 の錬金術師」ロイ・マスタング、そして機械鎧の手足を持つ少年「鋼の錬金術師」エドワード・エルリックとその弟アルフォンス・エルリックらが動き出した。多くの人を殺めながらも、何かを企みセントラルで暗躍するアイザック。その狙いとは…？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-24agzukmebpc_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261127110000 +0000" stop="20261127190000 +0000">
+		<title>鋼の錬金術師 FULLMETAL ALCHEMIST #1〜16【無料1週間】</title>
+		<desc>元国家錬金術師でありながら、イシュヴァール殲滅戦後、反体制派に寝返った男「氷結の錬金術師」アイザック・マクドゥーガル。そのアイザックがセントラルに姿を現した。彼を捕縛するため大総統キング・ブラッドレイの命により「焰 の錬金術師」ロイ・マスタング、そして機械鎧の手足を持つ少年「鋼の錬金術師」エドワード・エルリックとその弟アルフォンス・エルリックらが動き出した。多くの人を殺めながらも、何かを企みセントラルで暗躍するアイザック。その狙いとは…？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-24agzukmebpc_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20261127190000 +0000" stop="20261128010000 +0000">
 		<title>七つの大罪 #13〜24【無料ビデオ1週間】</title>
@@ -1935,10 +1874,20 @@
 一方、町に出た紅丸は町中で起きる喧嘩や言い争いの大混乱に出会う。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/194-16_s1_p13/thumb001.png" />
 	</programme>
-	<programme channel="abema-anime-2" start="20261129193000 +0000" stop="20261130135800 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png" />
+	<programme channel="abema-anime-2" start="20261129193000 +0000" stop="20261130013000 +0000">
+		<title>ぬらりひょんの孫 ～千年魔京～ #1〜13【無料ビデオ1週間】</title>
+		<desc>幼い時分、父を亡くしたリクオにとって父、そして祖父が務めていた妖怪の総大将は憧れであり、その３代目を引き継ぎたいと思っていた。しかし妖怪が実は悪いことばかりをする存在だと知ると、人に嫌われる妖怪にはなりたくないと言い出す。奴良組本家２代目死去後、総大将の座を狙うガゴゼはそんなリクオを不甲斐なく思い、いっそのことクラスメイトとともに葬ってしまおうと企む。そしてカナ、清継たちの乗ったバスがガゴゼ組に襲われた。そのことを知ったリクオはクラスメイトたちを助けようと、黒田坊、雪女たちを引き連れ屋敷を出ようとするが、そこに奴良組相談役の木魚達磨が「人間を助けるなど言語道断」と立ちはだかった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/397-31_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261130013000 +0000" stop="20261130080000 +0000">
+		<title>夜桜さんちの大作戦 #1〜13【無料ビデオ1週間】</title>
+		<desc>極度の人見知りの高校生・朝野太陽は、事故で家族を亡くして以来、他人と関わることを極端に避けていた。そんな太陽にとって、幼なじみの夜桜六美は唯一気を許せる特別な存在だった。ある日の放課後、昼川先生に呼び出された太陽は教頭室を訪れる。そこで見せられたものは六美の隠し撮りコレクションで、陰からずっと彼女を見守ってきたという。昼川の異常さに危機感を覚える太陽。突如ナイフを突きつけられ…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/11-60_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261130080000 +0000" stop="20261130135800 +0000">
+		<title>ぬらりひょんの孫 ～千年魔京～ #1〜13【無料ビデオ1週間】</title>
+		<desc>幼い時分、父を亡くしたリクオにとって父、そして祖父が務めていた妖怪の総大将は憧れであり、その３代目を引き継ぎたいと思っていた。しかし妖怪が実は悪いことばかりをする存在だと知ると、人に嫌われる妖怪にはなりたくないと言い出す。奴良組本家２代目死去後、総大将の座を狙うガゴゼはそんなリクオを不甲斐なく思い、いっそのことクラスメイトとともに葬ってしまおうと企む。そしてカナ、清継たちの乗ったバスがガゴゼ組に襲われた。そのことを知ったリクオはクラスメイトたちを助けようと、黒田坊、雪女たちを引き連れ屋敷を出ようとするが、そこに奴良組相談役の木魚達磨が「人間を助けるなど言語道断」と立ちはだかった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/397-31_s2_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-2" start="20261130135800 +0000" stop="20261130140000 +0000">
 		<title>アニメのトリこ #1</title>
@@ -1951,6 +1900,86 @@
 通にはたまらん、コンテンツゆる語りバラエティ。
 知れば知るほど、もっとトリこになる。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-35_s1_p18/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261130140000 +0000" stop="20261130203000 +0000">
+		<title>【推しの子】#1〜11【無料ビデオ2週間】</title>
+		<desc>産婦人科医・ゴローの前に現れた患者は、推しのアイドル・アイだった。ショックを受けながらも医者として彼女を支えるゴロー。だが出産直前、ゴローは何者かに襲われ…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-240_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261130203000 +0000" stop="20261201023000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261201023000 +0000" stop="20261201083000 +0000">
+		<title>ダンダダン 第2期 #13〜24【無料ビデオ1週間】</title>
+		<desc>オカルンとジジは、天井や壁、床、すべての面にびっしりお札が貼られた隠し部屋を発見した。そのとき、突然インターホンが鳴り、モモだと思い玄関のドアを開けると外に立つのはナキをはじめとした鬼頭家の者たちだった。一方、モモは、露天風呂で鬼頭家の男たちに襲われて、窮地に立たされていた…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/593-10_s2_p13/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261201083000 +0000" stop="20261201143000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261201143000 +0000" stop="20261201203000 +0000">
+		<title>ダンダダン 第2期 #13〜24【無料ビデオ1週間】</title>
+		<desc>オカルンとジジは、天井や壁、床、すべての面にびっしりお札が貼られた隠し部屋を発見した。そのとき、突然インターホンが鳴り、モモだと思い玄関のドアを開けると外に立つのはナキをはじめとした鬼頭家の者たちだった。一方、モモは、露天風呂で鬼頭家の男たちに襲われて、窮地に立たされていた…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/593-10_s2_p13/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261201203000 +0000" stop="20261202023000 +0000">
+		<title>アンデッドアンラック #13〜24【無料ビデオ1週間】</title>
+		<desc>アンディたちがリップと闘っている間、タチアナもまた他の否定者狩りのメンバーと闘っていた。そのとき、風子がアンリペアの傷を負ったとの報告が入る―。彼女にとって初めての友達となった風子が傷つけられた事に激昂するタチアナ。「私の大事な人を傷つけるヤツは、許さない！」風子のためにタチアナは自らの意思で力を解放する！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-56_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261202023000 +0000" stop="20261202103000 +0000">
+		<title>鋼の錬金術師 FULLMETAL ALCHEMIST #17〜32【無料1週間】</title>
+		<desc>ヒューズ殺害の犯人として軍に拘束されたロス。
+彼女に不利な状況が続く中、なんとバリーがその留置所を襲撃し、居合わせたリンとともにロスを連れて逃亡する。軍より射殺も含めた捕獲命令が出る中、エドとアルも事の真相を探るべく中央司令部へと向かう。だがそれらの動きよりも先にロイがロスの前に立ちはだかり、彼女へ炎の閃光を走らせた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-24agzukmebpc_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261202103000 +0000" stop="20261202163000 +0000">
+		<title>岩元先輩ノ推薦 #1〜12【無料ビデオ1週間】</title>
+		<desc>1910年代…大日本帝国陸軍により設立された学校——陸軍栖鳳中学。そこは軍事利用可能な力を手に入れるべく各地の超常現象を収集・研究する特殊機関だった。栖鳳中学三年生の岩元胡堂は軍の訓令により各地の調査を行う。今回岩元が向かった先は『黒イ雪』の降る村。そこで岩元は地下牢のような石垣で暮らす儚げな少年と出会う。痛みの記憶を消す不思議な超常現象との繋がりは如何に…！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/345-8_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261202163000 +0000" stop="20261202223000 +0000">
+		<title>アンデッドアンラック #13〜24【無料ビデオ1週間】</title>
+		<desc>アンディたちがリップと闘っている間、タチアナもまた他の否定者狩りのメンバーと闘っていた。そのとき、風子がアンリペアの傷を負ったとの報告が入る―。彼女にとって初めての友達となった風子が傷つけられた事に激昂するタチアナ。「私の大事な人を傷つけるヤツは、許さない！」風子のためにタチアナは自らの意思で力を解放する！！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-56_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261202223000 +0000" stop="20261202233000 +0000">
+		<title>アンデッドアンラック Winter編【無料ビデオ1週間】</title>
+		<desc>UMAウィンターによる吹雪の中にいたビリーは、ユニオンからアポカリプスを奪う画策をしていた。そこへジュイスが現れ、ループとアークの事実を明かし「もう一度組まないか」と説得を試みるのだった。だがビリーの決意は固く、両者はUMAを伴った熾烈なバトルに突入！　一方、空路でサマー討伐に向かっていたアンディと風子。ジュイスがアポカリプスをアンディに託していたことがビリーに読まれてしまった。
+二人に放たれた刺客が空中から襲い来る！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/172-56_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261202233000 +0000" stop="20261203070000 +0000">
+		<title>鋼の錬金術師 FULLMETAL ALCHEMIST #17〜32【無料1週間】</title>
+		<desc>ヒューズ殺害の犯人として軍に拘束されたロス。
+彼女に不利な状況が続く中、なんとバリーがその留置所を襲撃し、居合わせたリンとともにロスを連れて逃亡する。軍より射殺も含めた捕獲命令が出る中、エドとアルも事の真相を探るべく中央司令部へと向かう。だがそれらの動きよりも先にロイがロスの前に立ちはだかり、彼女へ炎の閃光を走らせた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-24agzukmebpc_s1_p17/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261203070000 +0000" stop="20261203125800 +0000">
+		<title>ウマ娘 シンデレラグレイ #1〜13【無料ビデオ1週間】</title>
+		<desc>寂れた地方のカサマツトレセン学園。そこでトレーナーを務める北原穣は、活気を失いつつある地方レースの現状に対してどうにもできない日々を送っていた。そんなある日、1人のウマ娘と出会う。芦毛の髪をなびかせて走るその姿を見た時、彼は長年待ちわびていた『スター』が現れたと直感する――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/512-12_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261203125800 +0000" stop="20261203130000 +0000">
+		<title>アニメのトリこ #1</title>
+		<desc>ほっと一息つける番組。…まあまあ、軽く１杯寄ってくだけよ？
+ここはアニメ好きが集まるガレージ居酒屋。
+毎回、素敵なお声を持つお客様がご来店！
+人気声優やアニメ好きゲストの素敵なお声を”お代”として頂き、
+アヒルの大将鳥山さん（麒麟・川島明）と、ゆるりとトークをしたり、
+声にまつわる企画で一緒に遊んだり…
+通にはたまらん、コンテンツゆる語りバラエティ。
+知れば知るほど、もっとトリこになる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-35_s1_p18/thumb001.png" />
+	</programme>
+	<programme channel="abema-anime-2" start="20261203130000 +0000" stop="20261203193000 +0000">
+		<title>ウマ娘 シンデレラグレイ #1〜13【無料ビデオ1週間】</title>
+		<desc>寂れた地方のカサマツトレセン学園。そこでトレーナーを務める北原穣は、活気を失いつつある地方レースの現状に対してどうにもできない日々を送っていた。そんなある日、1人のウマ娘と出会う。芦毛の髪をなびかせて走るその姿を見た時、彼は長年待ちわびていた『スター』が現れたと直感する――。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/512-12_s1_p1/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-3" start="20261118150000 +0000" stop="20261118180000 +0000">
 		<title>PSYREN -サイレン- #1〜6【無料ビデオ1週間】</title>
@@ -2374,19 +2403,8 @@
 	</programme>
 	<programme channel="abema-anime-3" start="20261129030000 +0000" stop="20261129033000 +0000">
 		<title>ポケットモンスター 新シリーズ #159・見逃し放送</title>
-		<desc>ポケットモンスター、縮めてポケモン。
-この星の不思議な不思議な生き物。
-空、海、森、街の中と至る所でその姿を見ることができる。
-
-不思議なペンダントを持つパルデア出身の少女、リコ。
-謎のモンスターボールを持つカントー出身の少年、ロイ。
-
-広大なポケットモンスターの世界を舞台に
-リコとロイの新たな冒険が始まる！
-ふたりを待ち受ける出会い、そして運命とは―！？
-
-これは、冒険を通じて大事な何かを「見つける」物語。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p36/thumb001.png" />
+		<desc>ポケットモンスター、縮めてポケモン。この星の不思議な不思議な生き物。空、海、森、街の中と至る所でその姿を見ることができる。不思議なペンダントを持つパルデア出身の少女、リコ。謎のモンスターボールを持つカントー出身の少年、ロイ。広大なポケットモンスターの世界を舞台にリコとロイの新たな冒険が始まる！ふたりを待ち受ける出会い、そして運命とは―！？これは、冒険を通じて大事な何かを「見つける」物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-14_s10_p159/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-3" start="20261129033000 +0000" stop="20261129080000 +0000">
 		<title>転生貴族、鑑定スキルで成り上がる 第3期 #25〜33【無料ビデオ1週間】</title>
@@ -2495,8 +2513,8 @@
 	</programme>
 	<programme channel="abema-anime-3" start="20261202013000 +0000" stop="20261202050000 +0000">
 		<title>ダイヤのA actⅡ -Second Season-#14〜20【無料1週間】</title>
-		<desc>沢村栄純が青道高校野球部のエースナンバーを背負い、2年生の夏が再び始まる。悔しさをバネに一歩ずつ成長を続けてきた沢村。故障と好不調の波ゆえにエースナンバーを沢村に託した降谷。青道のキャプテンとして圧倒的な存在感とチームを支える大黒柱となった御幸。沢村、降谷、御幸らが揃う最後の夏。彼らの雄姿と激闘をその目に。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p48/thumb001.png" />
+		<desc>ついに明日、夏の甲子園出場をかけた青道VS稲城実業の決勝戦が始まる。青道は昨年の雪辱を晴らすべく、溢れ出る闘志を内に秘め、これまで通りの練習を淡々と行っていた。決勝の先発は降谷。沢村は「初回から準備しとくからな。安心して飛ばしていけ」とエールを送る。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/316-1_s40_p14/thumb001.png" />
 	</programme>
 	<programme channel="abema-anime-3" start="20261202050000 +0000" stop="20261202090000 +0000">
 		<title>No programme</title>
@@ -3007,6 +3025,101 @@
  よみがえる幼い頃の記憶。問いかける朋也にことみは両親のことを語り始める…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-195_s1_p13/thumb001.png" />
 	</programme>
+	<programme channel="anime-special-2" start="20261129190000 +0000" stop="20261130010000 +0000">
+		<title>中華一番！ #1〜12【無料ビデオ1週間】</title>
+		<desc>名料理長パイの死後、娘のカリンと息子のマオは協力して菜館『菊下楼』を守ってきた。そこへ、パイに逆怨みを抱くかつての弟子、ショウアンが新料理長の任命書を持って現われる。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-94_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261130010000 +0000" stop="20261130070000 +0000">
+		<title>CLANNAD #13〜22+番外編【無料ビデオ1週間】</title>
+		<desc>ことみの家に見舞いに行った朋也は、ことみの家に見覚えがあった。
+ 家に忍び込み、ことみの姿を見つけた朋也は、小さい頃ことみと出会っていたことに気づく。
+ よみがえる幼い頃の記憶。問いかける朋也にことみは両親のことを語り始める…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-195_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261130070000 +0000" stop="20261130130000 +0000">
+		<title>中華一番！ #13〜24【無料ビデオ1週間】</title>
+		<desc>マオはナマズを使った麺のコシがないという欠点を、イカを使って克服しようと試みる。審査の方法は、互いが互いの料理を採点する相互採点制。一番手のチェリンのイカスミビーフンを皆で食べ始めたが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-94_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261130130000 +0000" stop="20261130190000 +0000">
+		<title>CLANNAD AFTER STORY #1〜12【無料ビデオ1週間】</title>
+		<desc>２学期が始まった。
+朋也たち３年生はそろそろ進路を決めなければいけない時期だが、 朋也は自分の将来が見えないまま、
+相変わらず渚の家に居候していた。 そんな中、秋生が隣街の商店街チームと野球の試合をすると言い出す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-195_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261130190000 +0000" stop="20261201010000 +0000">
+		<title>中華一番！ #13〜24【無料ビデオ1週間】</title>
+		<desc>マオはナマズを使った麺のコシがないという欠点を、イカを使って克服しようと試みる。審査の方法は、互いが互いの料理を採点する相互採点制。一番手のチェリンのイカスミビーフンを皆で食べ始めたが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-94_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261201010000 +0000" stop="20261201070000 +0000">
+		<title>CLANNAD AFTER STORY #1〜12【無料ビデオ1週間】</title>
+		<desc>２学期が始まった。
+朋也たち３年生はそろそろ進路を決めなければいけない時期だが、 朋也は自分の将来が見えないまま、
+相変わらず渚の家に居候していた。 そんな中、秋生が隣街の商店街チームと野球の試合をすると言い出す。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-195_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261201070000 +0000" stop="20261201130000 +0000">
+		<title>中華一番！ #25〜36【無料ビデオ1週間】</title>
+		<desc>謎の料理人主催の夕食会に出されたのは猛毒の赤蛙の肉だった。チョウユは解毒剤を賭けての伊勢エビを使った三番勝負を仮面料理人から挑まれ、サソリの毒に倒れる。勝負は、マオが引き継ぐ事になった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-94_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261201130000 +0000" stop="20261201190000 +0000">
+		<title>CLANNAD AFTER STORY #13〜22+総集編+番外編【1週間】</title>
+		<desc>古河家を訪れる朋也。出迎えた早苗に朋也は父親の件を謝るが、早苗は暖かく迎えてくれる。
+自分を心配し変わらずに接してくれる早苗の優しさに、朋也はあらためて感謝する。
+一方秋生は、話があるという朋也のいうことを聞こうとせず、かわりに野球の勝負を持ちかける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-195_s2_p13/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261201190000 +0000" stop="20261202010000 +0000">
+		<title>中華一番！ #25〜36【無料ビデオ1週間】</title>
+		<desc>謎の料理人主催の夕食会に出されたのは猛毒の赤蛙の肉だった。チョウユは解毒剤を賭けての伊勢エビを使った三番勝負を仮面料理人から挑まれ、サソリの毒に倒れる。勝負は、マオが引き継ぐ事になった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-94_s1_p25/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261202010000 +0000" stop="20261202070000 +0000">
+		<title>CLANNAD AFTER STORY #13〜22+総集編+番外編【1週間】</title>
+		<desc>古河家を訪れる朋也。出迎えた早苗に朋也は父親の件を謝るが、早苗は暖かく迎えてくれる。
+自分を心配し変わらずに接してくれる早苗の優しさに、朋也はあらためて感謝する。
+一方秋生は、話があるという朋也のいうことを聞こうとせず、かわりに野球の勝負を持ちかける。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-195_s2_p13/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261202070000 +0000" stop="20261202130000 +0000">
+		<title>中華一番！ #37〜48【無料ビデオ1週間】</title>
+		<desc>裏料理界との宴席料理決戦第二戦は、面点王ラコンと面点師シェルの饅頭対決だ。ラコンは、白羅家奥義、白羅蛇転練を使う。しかもラコンは究極の酵母すら持っていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-94_s1_p37/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261202130000 +0000" stop="20261202190000 +0000">
+		<title>侵略!イカ娘 #1〜12【無料ビデオ1週間】</title>
+		<desc>海水浴で賑わう海の家れもんを切り盛りする相沢姉妹。そんな忙しい最中。次女栄子の前に奇妙な格好の少女が現れる。／海の家れもんで働くはめになったイカ娘。こき使われ意気消沈していると、背後から忍び寄る影が。その陰から逃げること適わず、触手を捕まれてしまうイカ娘。／雨降りで閑散としているれもん。肌寒さにくしゃみをしたイカ娘の口から、真っ黒な液体が長女千鶴を襲う。その物体を千鶴が舐めると…。旨み成分満点のイカ墨だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/144-1smeznwkexx_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261202190000 +0000" stop="20261203010000 +0000">
+		<title>中華一番！ #37〜48【無料ビデオ1週間】</title>
+		<desc>裏料理界との宴席料理決戦第二戦は、面点王ラコンと面点師シェルの饅頭対決だ。ラコンは、白羅家奥義、白羅蛇転練を使う。しかもラコンは究極の酵母すら持っていた。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-94_s1_p37/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261203010000 +0000" stop="20261203070000 +0000">
+		<title>侵略!イカ娘 #1〜12【無料ビデオ1週間】</title>
+		<desc>海水浴で賑わう海の家れもんを切り盛りする相沢姉妹。そんな忙しい最中。次女栄子の前に奇妙な格好の少女が現れる。／海の家れもんで働くはめになったイカ娘。こき使われ意気消沈していると、背後から忍び寄る影が。その陰から逃げること適わず、触手を捕まれてしまうイカ娘。／雨降りで閑散としているれもん。肌寒さにくしゃみをしたイカ娘の口から、真っ黒な液体が長女千鶴を襲う。その物体を千鶴が舐めると…。旨み成分満点のイカ墨だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/144-1smeznwkexx_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261203070000 +0000" stop="20261203090000 +0000">
+		<title>中華一番！ #49〜52【無料ビデオ1週間】</title>
+		<desc>第三の伝説の厨具を手に入れたマオたちは、新たなる厨具を求めて北へ向かう。一丈星のシャンの罠にかかり、マオとメイリィは洞窟に迷い込んでしまった。シャンはシロウに、伝説の厨具を渡せば二人を助けると言う…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-94_s1_p49/thumb001.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261203090000 +0000" stop="20261203130000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png" />
+	</programme>
+	<programme channel="anime-special-2" start="20261203130000 +0000" stop="20261203190000 +0000">
+		<title>侵略!?イカ娘 #1〜12【無料ビデオ1週間】</title>
+		<desc>ある日イカ娘がいつものようにゲームをしていると栄子から「生ぬるい侵略者」と指摘を受ける。そこでふと地上侵略することを思い出したイカ娘は早速再侵略計画を実行しようとする。／慌ただしくれもんで働いているイカ娘。そこに清美がやってきた。れもんに来るのは久しぶりの清美にはしゃぐイカ娘。運悪くそんなときに早苗も登場、仲良く話すイカ娘と清美を見てしまう。／クラゲが海に大量発生したおかげでイカ娘と悟郎のどっちが多くクラゲを捕えるか勝負になった。だが、千鶴の機転でクラゲ拾い大会を催しみんなで拾うことに。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/144-2bhztumsijw_s0_p1/thumb001.png" />
+	</programme>
 	<programme channel="anime-special-3" start="20261118070000 +0000" stop="20261118190000 +0000">
 		<title>とある科学の超電磁砲S #1〜24</title>
 		<desc>『学園都市』。一八〇万人を超える学生が集い、超能力開発が行われている巨大区域。教師によるボランティア組織『警備員(アンチスキル)』や学生による『風紀委員(ジャッジメント)』によって守られたその日常の裏側には、今日も路地裏でいたいけな少女に絡む不良学生たちの姿があった。そんな不良学生たちを、一筋の電光が一蹴する。しびれて地に伏す不良たちの中に傲然と立つその人の名は、御坂美琴。学園都市に七人しかいない『超能力者(レベル5)』の第三位にして、『超電磁砲(レールガン)』の異名を持つ少女の姿だった。そして、白井黒子、初春飾利、佐天涙子。四人による学園都市の日常が、ふたたび幕を開ける。</desc>
@@ -3328,6 +3441,56 @@
 		<desc>ブラックトリガーを持つ遊真と迅が手を握る…城戸司令は、玉狛支部に力が集まる事を危惧。遠征より帰還したボーダー本部の精鋭部隊に、遊真のブラックトリガー奪取を命じる。
 襲撃を試みる彼らの前に、実力派エリート・迅悠一が立ちはだかる！</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-24_s1_p13/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20261129190000 +0000" stop="20261130070000 +0000">
+		<title>ワールドトリガー #37〜60【無料ビデオ1週間】</title>
+		<desc>病院のベッドで修が目を覚ますと、母・香澄と千佳がそこにいた。眠っていた一週間もの間に起きた出来事を母や栞に聞かされ、修はただ驚くばかり。病院にはボーダー上層部の唐沢も現れ、修を外に連れ出す。到着したのは、ボーダーによる記者会見の会場。今回の大規模侵攻についての発表が始まろうとしていた…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-24_s1_p37/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20261130070000 +0000" stop="20261130133000 +0000">
+		<title>ワールドトリガー #61〜73【無料ビデオ1週間】</title>
+		<desc>追いつめられたギーヴとカロンは、遊真たちに決死の攻撃を仕掛ける。玉狛第一のレイジ、小南、烏丸によるサポートを受け、迎え撃つ遊真たち。ゼノとリリスが玄界から別の星へと旅立つまで、残り一日。二人を守り切ることができるのか！　そして、迅悠一が予知した未来が訪れたその時…！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-24_s1_p61/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20261130133000 +0000" stop="20261130193000 +0000">
+		<title>ワールドトリガー 2ndシーズン #1〜12【無料ビデオ1週間】</title>
+		<desc>近界（ネイバーフッド）最大級の軍事国家・アフトクラトルによる大規模侵攻の傷が癒えぬまま惑星国家・ガロプラによる軍事作戦が始まろうとしていた。エネドラから情報を得たボーダーは秘密裏のうちに迎撃態勢を整えようとするが…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-26_s2_p101/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20261130193000 +0000" stop="20261201023000 +0000">
+		<title>ワールドトリガー 3rdシーズン #1～14【無料ビデオ1週間】</title>
+		<desc>三雲隊はヒュースを新たにメンバーに加え新生・玉狛第２として始動する。そんな中、ランク戦を前に玉狛支部の古参メンバーであるミカエル・クローニンと林藤ゆりが帰還。林藤ゆりの口から語られる玉狛支部の過去とは！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/5-27_s3_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20261201023000 +0000" stop="20261201090000 +0000">
+		<title>僕のヒーローアカデミア 第1期 #1〜13【無料ビデオ1週間】</title>
+		<desc>総人口の約8割が何らかの超常能力”個性”を持ち、その”個性”によって社会を守る”ヒーロー”」という存在が確立された世界。緑谷出久はヒーローになることを夢見て、多くのヒーローを輩出する名門・雄英高校ヒーロー科入学を目指していた。しかし、彼は何の”個性”を持たない”無個性”。現実の厳しさ、不平等さを痛感する日々を過ごしていた。そんなある日、出久は強盗をして逃亡中だった敵（ヴィラン）に襲われてしまう。そこに現れたのは、人気・実力共にNo.1のヒーローだった！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s0_p1/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20261201090000 +0000" stop="20261201210000 +0000">
+		<title>僕のヒーローアカデミア 第2期 #14〜38【無料ビデオ1週間】</title>
+		<desc>雄英高校の敵＜ヴィラン＞連合襲撃事件から2日後。相澤から「雄英高校体育祭」の開催が告げられ、ヒーロー科1-A生徒たちの意気は上がる。その中でもお茶子は目の色が変わり…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s2_p14/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20261201210000 +0000" stop="20261202090000 +0000">
+		<title>僕のヒーローアカデミア 第3期 #39〜63【無料ビデオ1週間】</title>
+		<desc>雄英高校は夏休みに突入！家で自主トレーニングに励んでいた出久は、峰田と上鳴に、学校のプールで林間合宿に向けた体力強化訓練をしようと誘われる。その訓練は、2人が女子たちの水着を見るために仕組まれたものだった―！しかし、そうとも知らない出久が他のＡ組メンバーに声をかけ、峰田と上鳴の悪巧みはあっさり崩れ去る。訓練に励む中、出久たちは、怒涛のように過ぎ去った１学期を思い返すのだった。その頃、敵＜ヴィラン＞連合のアジトでは、死柄木が次の「ゲーム」を始めようとしていた―。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s3_p39/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20261202090000 +0000" stop="20261202210000 +0000">
+		<title>僕のヒーローアカデミア 第4期 #64〜88【無料ビデオ1週間】</title>
+		<desc>プロヒーローの仮免を取得し、次なるステージに向けて今日も授業に励む雄英高校ヒーロー科1年A組。そんなデクたちが住む寮に、取材で特田種男という新聞記者がやってきた。1-A生徒の寮生活を取材する、というのは表向きな理由で、実は特田は、オールマイトがオール・フォー・ワンを倒した直後の「次は、君だ」という言葉に着目し、彼の後継者が雄英高校にいるのでは？という疑念から特ダネを狙って来たのだった。生徒たちに次々とカメラを向ける特田は、オールマイトと話すデクの姿から、デクが後継者なのでは…と考え―！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s4_p64/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20261202210000 +0000" stop="20261203090000 +0000">
+		<title>僕のヒーローアカデミア 第5期 #89〜113【無料1週間】</title>
+		<desc>No.1ヒーローのエンデヴァーとNo.2のホークスがタッグを組み、脳無・ハイエンドと繰り広げた激戦を熱く語る雄英高校ヒーロー科１年Ａ組の面々。そこに相澤がやってきてＨＲが始まろうとしたその瞬間、教室内に警報が鳴り響く！雄英高校敷地内に敵＜ヴィラン＞が侵入したとの知らせとともに出動要請が出され、グラウンドβに急行すると、そこには黒い煙が立ちのぼっていた。状況把握に努める偵察班からビルの爆発で火災が発生したとの報が入り、消火班＆救助班が出動する。それぞれが“個性”を駆使して事件を解決へと導いている中、姿を現した敵＜ヴィラン＞とは――!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s5_p89/thumb001.png" />
+	</programme>
+	<programme channel="jumpfesta" start="20261203090000 +0000" stop="20261203210000 +0000">
+		<title>僕のヒーローアカデミア第6期 #114〜138【無料1週間】</title>
+		<desc>ホークスの内偵により、死柄木率いる敵&lt;ヴィラン&gt;勢力“超常解放戦線線”の決起の情報を得たプロヒーローと警察は、敵&lt;ヴィラン&gt;一斉確保のために集結、最大規模の作戦に臨む。そこには、デクたち雄英高校ヒーロー科の生徒たちの姿もあった。そしていよいよヒーローたちが“超常解放戦線”のアジトである群訝山荘と、ドクターこと殻木球大のいる蛇腔病院に突入！エンデヴァーたちは早速ドクターを補足するが、そこに大量の脳無が出現！一気に戦いへとなだれ込んでいく。いよいよ、ヒーローと敵&lt;ヴィラン&gt;の全面戦争へ―！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-15_s6_p114/thumb001.png" />
 	</programme>
 	<programme channel="isekai-anime" start="20261118113000 +0000" stop="20261118173000 +0000">
 		<title>外れスキル《木の実マスター》 #1〜12【無料ビデオ1週間】</title>
@@ -5387,17 +5550,8 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 	</programme>
 	<programme channel="anime-live" start="20261127150000 +0000" stop="20261127153000 +0000">
 		<title>うちの弟どもがすみません #21【地上波同時・WEB最速配信】</title>
-		<desc>はじまりは、ひとつ屋根の下──
-高校1年生も終わる春休み、母の再婚によって引っ越すことになった
-女子高生の糸は、新しい父と3人での生活に胸を膨らませていた。
-しかし新居で待っていたのは、父と──4人の弟だった！
-無愛想だけど家族想いの長男・源。
-冷静沈着で爽やかな次男・洛。
-引きこもりでなかなか姿を見せない三男・柊。
-いつも元気で甘え上手な末っ子・類。
-新米長女と個性豊かな弟4人とのにぎやかな毎日が織りなす、
-スイートホームラブコメ開幕！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p92/thumb001.png" />
+		<desc>はじまりは、ひとつ屋根の下──高校1年生も終わる春休み、母の再婚によって引っ越すことになった女子高生の糸は、新しい父と3人での生活に胸を膨らませていた。しかし新居で待っていたのは、父と──4人の弟だった！無愛想だけど家族想いの長男・源。冷静沈着で爽やかな次男・洛。引きこもりでなかなか姿を見せない三男・柊。いつも元気で甘え上手な末っ子・類。新米長女と個性豊かな弟4人とのにぎやかな毎日が織りなす、スイートホームラブコメ開幕！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/26-268_s1_p21/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20261127153000 +0000" stop="20261127160000 +0000">
 		<title>斉藤壮馬 Strange dayS #309</title>
@@ -5408,12 +5562,18 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 皆さんが“気になる”であろう、斉藤さん自身についての質問にもお答えしていきます。
 週末の夜、気になる事をどんどん共有して、
 ちょっとだけ不思議な時間を過ごしませんか?</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p70/thumb001.png" />
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/390-7_s1_p309/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20261127160000 +0000" stop="20261127163000 +0000">
 		<title>鈴村健一のラジベース #244</title>
-		<desc>鈴村健一さんの1人しゃべり生放送番組「鈴村健一のラジベース」！その名の通り、鈴村健一がラジオの基本（ベース）に立ち返ってお送りするラジオラジオしたラジオ。つまりRADIO of RADIOを目指す1時間の生放送！ネタコーナーも、真面目コーナーも全部が本気！形だけの着飾りトークや、単なる逆張りトークに疲れたあなた！久々に真っ正面のラジオを体験しませんか？メッセージもつぶやきも、めちゃめちゃ待ってます！</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p5/thumb001.png" />
+		<desc>鈴村健一さんの1人しゃべり番組「鈴村健一のラジベース」！
+その名の通り、鈴村健一がラジオの基本（ベース）に立ち返ってお送りするラジオラジオしたラジオ。
+つまりRADIO of RADIOを目指す30分！
+ネタコーナーも、真面目コーナーも全部が本気！
+形だけの着飾りトークや、単なる逆張りトークに疲れたあなた！　
+久々に真っ正面のラジオを体験しませんか？
+メッセージもつぶやきも、めちゃめちゃ待ってます！</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/218-533_s1_p1244/thumb001.png" />
 	</programme>
 	<programme channel="anime-live" start="20261127163000 +0000" stop="20261127170000 +0000">
 		<title>小林千晃のPARTY×PARTY #86</title>
@@ -5842,6 +6002,85 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 ※自社調べ</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/11-54_s1_p1/thumb001.png" />
 	</programme>
+	<programme channel="anime-live2" start="20261129170000 +0000" stop="20261130050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20261130050000 +0000" stop="20261130110000 +0000">
+		<title>ちゃんと吸えない吸血鬼ちゃん #1〜12【無料ビデオ2週間】</title>
+		<desc>妖怪、幽霊、その他怪異やロボ——。様々な者たちが暮らしている樫ノ木台。
+樫ノ木台高等学校に転校してきた石川月菜は吸血鬼。ミステリアスな彼女はクラスの人気者！
+自分のことをモブ的存在だと思っている大鳥は、月菜と関わることはないと思っていたが、一緒に掃除当番をすることに……。
+クラスみんなの注目の的である月菜と二人きり。
+緊張している大鳥だったが、月菜の行動はなんだかほっとけなくて——！？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-304_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20261130110000 +0000" stop="20261130170000 +0000">
+		<title>刻刻 #1〜12【無料ビデオ1週間】</title>
+		<desc>佑河樹里は、家族との同居に疲れを感じていた。そんな日常は一本の電話によって切り裂かれる。誘拐された兄と甥。助けるための時間は、父と樹里との諍いにより、刻一刻と過ぎ去っていく。祖父はそんな二人を恫喝すると、ある術を披露した…</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/560-7_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20261130170000 +0000" stop="20261201070000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20261201070000 +0000" stop="20261201190000 +0000">
+		<title>勇者のクズ #1〜24【無料ビデオ2週間】</title>
+		<desc>フリーランスの勇者《死神》ヤシロは、街のチンピラから勇者見習いの女子高生・城ヶ峰を助ける。行きつけのバーで飲んでいたヤシロのもとへ、先ほど助けた城ヶ峰とその同級生の印堂がやってくる。
+城ヶ峰の話を聞くと、魔王《琥珀の茨》卿に連れ去られた友人を助けて欲しいと懇願される。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-310_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20261201190000 +0000" stop="20261202013000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20261202013000 +0000" stop="20261202073000 +0000">
+		<title>こめかみっ！Girls #1〜12【無料ビデオ1週間】</title>
+		<desc>四日市商店街のこめかみ祭りでおこげとお料理対決をする事になったひかり。テーマは「チャーハン」。しかし、おこげが中華料理用のコンロを持ち込む「ズル」をして対決は中止になり、ひかりは材料のごはんを忘れてきてしまう。四女のめいに、こめかみガールズ失格と怒られてしまうひかりだったが...</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/797-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20261202073000 +0000" stop="20261202133000 +0000">
+		<title>エリスの聖杯 #1〜12【無料ビデオ1週間】</title>
+		<desc>コニーは、ハームズワース子爵が開く夜会に出席するも、婚約者の浮気現場に遭遇。
+さらに浮気相手に髪飾りを盗んだと濡れ衣を着せられ、周囲から糾弾されることに。
+誰も助けてくれない状況で、コニーは無力感に打ちひしがれる。
+絶望の最中、コニーの耳元に「助けてあげる」という声がして…？</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/780-1_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20261202133000 +0000" stop="20261202190000 +0000">
+		<title>ドロヘドロ Season2 #13〜23【無料ビデオ1週間】</title>
+		<desc>「資源を大切に♡」「恐怖！血みどろ館 惨殺の輪舞」</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/19-286_s2_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20261202190000 +0000" stop="20261202233000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png" />
+	</programme>
+	<programme channel="anime-live2" start="20261202233000 +0000" stop="20261203050000 +0000">
+		<title>一畳間まんきつ暮らし！ #1〜11【無料ビデオ1週間】</title>
+		<desc>秋田の高校生の森田芽衣子は、好条件すぎる天宮女学院の編入生に選ばれ、東京で寮生活に。寮は漫画喫茶でもあり、奉仕活動として働くことに。店の経営者で寮長でお嬢様な天宮梨絵、動画配信者の鈴木万里花、ガチゲーマーの中埜音緒。そんな寮生たちとの、一畳間まんきつ暮らしが始まった！ でも芽衣子が編入できたのは、新人漫画家「もりためいこ」と誤解されたからで……。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/675-12_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20261203050000 +0000" stop="20261203110000 +0000">
+		<title>死亡遊戯で飯を食う。 #1〜11【無料ビデオ2週間】</title>
+		<desc>窓の無い洋館、クラシカルなメイド服。知らないベッドの上で幽鬼は目を覚ます。
+先に集っていたのは五人の少女たち。まだ自らが置かれた状況を飲み込めない彼女たちに、幽鬼は口を開く。
+「みんなは、初めてなのかな？」
+命を賭けた、殺人ゲームの舞台の幕が上がる——
+(28：GHOST HOUSE)</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-311_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="anime-live2" start="20261203110000 +0000" stop="20261203170000 +0000">
+		<title>淡島百景 #1〜12【無料ビデオ2週間】</title>
+		<desc>憧れだけで淡島に飛び込んだ若菜を待ち受けていたのは厳しい共同生活だった。
+「なんでこんなところ来ちゃったんだろう」
+挫けかけた彼女に同室の先輩、絹枝は語る。それはかつて夢を共にした友達のこと。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/25-322_s1_p1/thumb001.png" />
+	</programme>
 	<programme channel="chibimaruko" start="20261118080000 +0000" stop="20261118160000 +0000">
 		<title>ちびまる子ちゃん 2期 #104〜119【無料ビデオ1週間】</title>
 		<desc>とし子から、お年玉付き年賀ハガキで当てた切手シートを見せてもらったまる子は、自分もさっそく年賀状の番号をチェック。すると、永沢からの年賀状が４等。ところが、裏を見ると追伸に、当たっていたら返してくれと書いてあるではないか。</desc>
@@ -6067,6 +6306,61 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<desc>もらった植物図鑑でアロエが健康にいいことを知ったまる子。はまじの祖父がたくさん育てていると聞き、分けてもらうことに。さっそく庭に植えるが、お母さんのケガの治療やお父さんの胃腸のためにと、その薬を使いつくしてしまうのだった。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-109_s2_p25/thumb001.png" />
 	</programme>
+	<programme channel="chibimaruko" start="20261130000000 +0000" stop="20261130080000 +0000">
+		<title>ちびまる子ちゃん 2期 #25〜40【無料ビデオ1週間】</title>
+		<desc>もらった植物図鑑でアロエが健康にいいことを知ったまる子。はまじの祖父がたくさん育てていると聞き、分けてもらうことに。さっそく庭に植えるが、お母さんのケガの治療やお父さんの胃腸のためにと、その薬を使いつくしてしまうのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-109_s2_p25/thumb001.png" />
+	</programme>
+	<programme channel="chibimaruko" start="20261130080000 +0000" stop="20261130160000 +0000">
+		<title>ちびまる子ちゃん 2期 #25〜40【無料ビデオ1週間】</title>
+		<desc>もらった植物図鑑でアロエが健康にいいことを知ったまる子。はまじの祖父がたくさん育てていると聞き、分けてもらうことに。さっそく庭に植えるが、お母さんのケガの治療やお父さんの胃腸のためにと、その薬を使いつくしてしまうのだった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-109_s2_p25/thumb001.png" />
+	</programme>
+	<programme channel="chibimaruko" start="20261130160000 +0000" stop="20261201000000 +0000">
+		<title>ちびまる子ちゃん 2期 #41〜56【無料ビデオ1週間】</title>
+		<desc>シイタケの栽培を始めたまる子。収穫する日の夕飯はすき焼きにしようということになり、張り切って栽培するまる子だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-109_s2_p41/thumb001.png" />
+	</programme>
+	<programme channel="chibimaruko" start="20261201000000 +0000" stop="20261201080000 +0000">
+		<title>ちびまる子ちゃん 2期 #41〜56【無料ビデオ1週間】</title>
+		<desc>シイタケの栽培を始めたまる子。収穫する日の夕飯はすき焼きにしようということになり、張り切って栽培するまる子だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-109_s2_p41/thumb001.png" />
+	</programme>
+	<programme channel="chibimaruko" start="20261201080000 +0000" stop="20261201160000 +0000">
+		<title>ちびまる子ちゃん 2期 #41〜56【無料ビデオ1週間】</title>
+		<desc>シイタケの栽培を始めたまる子。収穫する日の夕飯はすき焼きにしようということになり、張り切って栽培するまる子だった。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-109_s2_p41/thumb001.png" />
+	</programme>
+	<programme channel="chibimaruko" start="20261201160000 +0000" stop="20261202000000 +0000">
+		<title>ちびまる子ちゃん 2期 #57〜72【無料ビデオ1週間】</title>
+		<desc>花輪クンから、サーカスのチケットを、まる子、野口さん、はまじがもらう。みんなで花輪クンの車で東京までサーカスを見に行く。野口さんは会場でお笑い芸人を見つけてサインをもらおうとする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-109_s2_p57/thumb001.png" />
+	</programme>
+	<programme channel="chibimaruko" start="20261202000000 +0000" stop="20261202080000 +0000">
+		<title>ちびまる子ちゃん 2期 #57〜72【無料ビデオ1週間】</title>
+		<desc>花輪クンから、サーカスのチケットを、まる子、野口さん、はまじがもらう。みんなで花輪クンの車で東京までサーカスを見に行く。野口さんは会場でお笑い芸人を見つけてサインをもらおうとする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-109_s2_p57/thumb001.png" />
+	</programme>
+	<programme channel="chibimaruko" start="20261202080000 +0000" stop="20261202160000 +0000">
+		<title>ちびまる子ちゃん 2期 #57〜72【無料ビデオ1週間】</title>
+		<desc>花輪クンから、サーカスのチケットを、まる子、野口さん、はまじがもらう。みんなで花輪クンの車で東京までサーカスを見に行く。野口さんは会場でお笑い芸人を見つけてサインをもらおうとする。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-109_s2_p57/thumb001.png" />
+	</programme>
+	<programme channel="chibimaruko" start="20261202160000 +0000" stop="20261203000000 +0000">
+		<title>ちびまる子ちゃん 2期 #73〜88【無料ビデオ1週間】</title>
+		<desc>潮干狩りの会場で声をかけてきたのは野口さんだった。野口さんの話によると、貝を手にするには貝脈を見つけなければならないという。それを聞いて途方に暮れるまる子とたまちゃんだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-109_s2_p73/thumb001.png" />
+	</programme>
+	<programme channel="chibimaruko" start="20261203000000 +0000" stop="20261203080000 +0000">
+		<title>ちびまる子ちゃん 2期 #73〜88【無料ビデオ1週間】</title>
+		<desc>潮干狩りの会場で声をかけてきたのは野口さんだった。野口さんの話によると、貝を手にするには貝脈を見つけなければならないという。それを聞いて途方に暮れるまる子とたまちゃんだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-109_s2_p73/thumb001.png" />
+	</programme>
+	<programme channel="chibimaruko" start="20261203080000 +0000" stop="20261203160000 +0000">
+		<title>ちびまる子ちゃん 2期 #73〜88【無料ビデオ1週間】</title>
+		<desc>潮干狩りの会場で声をかけてきたのは野口さんだった。野口さんの話によると、貝を手にするには貝脈を見つけなければならないという。それを聞いて途方に暮れるまる子とたまちゃんだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/482-109_s2_p73/thumb001.png" />
+	</programme>
 	<programme channel="atashinchi" start="20261118110000 +0000" stop="20261118190000 +0000">
 		<title>あたしンち #53〜104【無料ビデオ1週間】</title>
 		<desc>運転技術はあるのに標識を見るのが苦手な父と、ナビ担当なのに最悪の指示の仕方しか出来ない母。
@@ -6248,20 +6542,137 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 		<desc>男女のトイレの場所を間違えたみかん。しみちゃんからそれは「刷り込み効果」だと言われる。家族に話したら、意外とあるあるだったようで…。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p573/thumb001.png" />
 	</programme>
-	<programme channel="atashinchi" start="20261128190000 +0000" stop="20261129030000 +0000">
+	<programme channel="atashinchi" start="20261128190000 +0000" stop="20261129005000 +0000">
 		<title>あたしンち #625〜662【無料ビデオ1週間】</title>
 		<desc>みかんはしみちゃんと歩いている時、雨が急に降り、雨宿りをすることに。しばらく経ち、みかんは突然走って帰る選択をする。大胆に決断をするみかんに笑うしみちゃん。途中で会った母も似たようなところがあり...。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p625/thumb001.png" />
 	</programme>
-	<programme channel="atashinchi" start="20261129030000 +0000" stop="20261129110000 +0000">
+	<programme channel="atashinchi" start="20261129005000 +0000" stop="20261129030000 +0000">
+		<title>あたしンち #1〜14【無料ビデオ1週間】</title>
+		<desc>母の作るお弁当に改善を求めるみかん！
+カラフルなイメージを伝えたところ、母はおかずになんと…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261129030000 +0000" stop="20261129085000 +0000">
 		<title>あたしンち #625〜662【無料ビデオ1週間】</title>
 		<desc>みかんはしみちゃんと歩いている時、雨が急に降り、雨宿りをすることに。しばらく経ち、みかんは突然走って帰る選択をする。大胆に決断をするみかんに笑うしみちゃん。途中で会った母も似たようなところがあり...。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p625/thumb001.png" />
 	</programme>
-	<programme channel="atashinchi" start="20261129110000 +0000" stop="20261129190000 +0000">
+	<programme channel="atashinchi" start="20261129085000 +0000" stop="20261129110000 +0000">
+		<title>あたしンち #1〜14【無料ビデオ1週間】</title>
+		<desc>母の作るお弁当に改善を求めるみかん！
+カラフルなイメージを伝えたところ、母はおかずになんと…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261129110000 +0000" stop="20261129165000 +0000">
 		<title>あたしンち #625〜662【無料ビデオ1週間】</title>
 		<desc>みかんはしみちゃんと歩いている時、雨が急に降り、雨宿りをすることに。しばらく経ち、みかんは突然走って帰る選択をする。大胆に決断をするみかんに笑うしみちゃん。途中で会った母も似たようなところがあり...。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p625/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261129165000 +0000" stop="20261129190000 +0000">
+		<title>あたしンち #1〜14【無料ビデオ1週間】</title>
+		<desc>母の作るお弁当に改善を求めるみかん！
+カラフルなイメージを伝えたところ、母はおかずになんと…!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p1/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261129190000 +0000" stop="20261130030000 +0000">
+		<title>あたしンち #15〜66【無料ビデオ1週間】</title>
+		<desc>テレビで見た「アジアンリゾート風」の部屋を目指して居間の模様替えをひとりで決行した母。しかし夕方、家族が帰ってくると…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261130030000 +0000" stop="20261130110000 +0000">
+		<title>あたしンち #15〜66【無料ビデオ1週間】</title>
+		<desc>テレビで見た「アジアンリゾート風」の部屋を目指して居間の模様替えをひとりで決行した母。しかし夕方、家族が帰ってくると…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261130110000 +0000" stop="20261130190000 +0000">
+		<title>あたしンち #15〜66【無料ビデオ1週間】</title>
+		<desc>テレビで見た「アジアンリゾート風」の部屋を目指して居間の模様替えをひとりで決行した母。しかし夕方、家族が帰ってくると…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p15/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261130190000 +0000" stop="20261201030000 +0000">
+		<title>あたしンち #67〜118【無料ビデオ1週間】</title>
+		<desc>試食販売ですすめられると、いらないものでもつい買ってしまう母。
+そんな母は、水島さんとデパートに。
+一人じゃないから大丈夫♪と思う母だが、
+やはり店員さんにつかまってしまい通路を爆走して逃げるはめに。
+今度こそはと水島さんに店員さんへの対応の仕方を習って、
+もう一度売り場に戻るのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p67/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261201030000 +0000" stop="20261201110000 +0000">
+		<title>あたしンち #67〜118【無料ビデオ1週間】</title>
+		<desc>試食販売ですすめられると、いらないものでもつい買ってしまう母。
+そんな母は、水島さんとデパートに。
+一人じゃないから大丈夫♪と思う母だが、
+やはり店員さんにつかまってしまい通路を爆走して逃げるはめに。
+今度こそはと水島さんに店員さんへの対応の仕方を習って、
+もう一度売り場に戻るのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p67/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261201110000 +0000" stop="20261201190000 +0000">
+		<title>あたしンち #67〜118【無料ビデオ1週間】</title>
+		<desc>試食販売ですすめられると、いらないものでもつい買ってしまう母。
+そんな母は、水島さんとデパートに。
+一人じゃないから大丈夫♪と思う母だが、
+やはり店員さんにつかまってしまい通路を爆走して逃げるはめに。
+今度こそはと水島さんに店員さんへの対応の仕方を習って、
+もう一度売り場に戻るのだが…。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p67/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261201190000 +0000" stop="20261202030000 +0000">
+		<title>あたしンち #119〜170【無料ビデオ1週間】</title>
+		<desc>週末から、みかんはベア研の合宿で高原に行く。
+しかし昔からみかんは、旅行に行くと怪我をしたりお腹を壊したりと大騒動。
+合宿でも次々と起こる騒動に、研究会メンバーたちは…！
+果たして無事に合宿を楽しむことはできるのかっ!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p119/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261202030000 +0000" stop="20261202110000 +0000">
+		<title>あたしンち #119〜170【無料ビデオ1週間】</title>
+		<desc>週末から、みかんはベア研の合宿で高原に行く。
+しかし昔からみかんは、旅行に行くと怪我をしたりお腹を壊したりと大騒動。
+合宿でも次々と起こる騒動に、研究会メンバーたちは…！
+果たして無事に合宿を楽しむことはできるのかっ!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p119/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261202110000 +0000" stop="20261202190000 +0000">
+		<title>あたしンち #119〜170【無料ビデオ1週間】</title>
+		<desc>週末から、みかんはベア研の合宿で高原に行く。
+しかし昔からみかんは、旅行に行くと怪我をしたりお腹を壊したりと大騒動。
+合宿でも次々と起こる騒動に、研究会メンバーたちは…！
+果たして無事に合宿を楽しむことはできるのかっ!?</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p119/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261202190000 +0000" stop="20261203030000 +0000">
+		<title>あたしンち #171〜222【無料ビデオ1週間】</title>
+		<desc>夕飯の食卓で、父の箸だけがテーブルに並んでいなかった。
+しかし、父は母が気づくまで、自分から何も言おうとしない。
+また、みかんと母が大声で会話しているのを邪魔に思っても、何も言わずテレビの音量を上げるだけだ。
+そんな父の様子が気になったみかんは「お父さんはどうしてあんなに無口なの？」と母にたずねるが、
+「九州男児だから細かいことは言わず、背中で語るのよ。“男の美学”なの」と説明され、イマイチ、ピンとこない…。
+以来、“背中で語る男の美学”とは何なのか、悩むみかん。。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p171/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261203030000 +0000" stop="20261203110000 +0000">
+		<title>あたしンち #171〜222【無料ビデオ1週間】</title>
+		<desc>夕飯の食卓で、父の箸だけがテーブルに並んでいなかった。
+しかし、父は母が気づくまで、自分から何も言おうとしない。
+また、みかんと母が大声で会話しているのを邪魔に思っても、何も言わずテレビの音量を上げるだけだ。
+そんな父の様子が気になったみかんは「お父さんはどうしてあんなに無口なの？」と母にたずねるが、
+「九州男児だから細かいことは言わず、背中で語るのよ。“男の美学”なの」と説明され、イマイチ、ピンとこない…。
+以来、“背中で語る男の美学”とは何なのか、悩むみかん。。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p171/thumb001.png" />
+	</programme>
+	<programme channel="atashinchi" start="20261203110000 +0000" stop="20261203190000 +0000">
+		<title>あたしンち #171〜222【無料ビデオ1週間】</title>
+		<desc>夕飯の食卓で、父の箸だけがテーブルに並んでいなかった。
+しかし、父は母が気づくまで、自分から何も言おうとしない。
+また、みかんと母が大声で会話しているのを邪魔に思っても、何も言わずテレビの音量を上げるだけだ。
+そんな父の様子が気になったみかんは「お父さんはどうしてあんなに無口なの？」と母にたずねるが、
+「九州男児だから細かいことは言わず、背中で語るのよ。“男の美学”なの」と説明され、イマイチ、ピンとこない…。
+以来、“背中で語る男の美学”とは何なのか、悩むみかん。。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/35-34_s1_p171/thumb001.png" />
 	</programme>
 	<programme channel="chiikawa" start="20261121000000 +0000" stop="20261121012500 +0000">
 		<title>ちいかわ #1〜50【無料ビデオ1週間】</title>
@@ -7065,19 +7476,8 @@ party peopleのみなさんも、そうじゃないみなさんも一緒に盛�
 	</programme>
 	<programme channel="pokemon-2" start="20261128130000 +0000" stop="20261128133000 +0000">
 		<title>ポケットモンスター 新シリーズ #159・見逃し放送</title>
-		<desc>ポケットモンスター、縮めてポケモン。
-この星の不思議な不思議な生き物。
-空、海、森、街の中と至る所でその姿を見ることができる。
-
-不思議なペンダントを持つパルデア出身の少女、リコ。
-謎のモンスターボールを持つカントー出身の少年、ロイ。
-
-広大なポケットモンスターの世界を舞台に
-リコとロイの新たな冒険が始まる！
-ふたりを待ち受ける出会い、そして運命とは―！？
-
-これは、冒険を通じて大事な何かを「見つける」物語。</desc>
-		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p36/thumb001.png" />
+		<desc>ポケットモンスター、縮めてポケモン。この星の不思議な不思議な生き物。空、海、森、街の中と至る所でその姿を見ることができる。不思議なペンダントを持つパルデア出身の少女、リコ。謎のモンスターボールを持つカントー出身の少年、ロイ。広大なポケットモンスターの世界を舞台にリコとロイの新たな冒険が始まる！ふたりを待ち受ける出会い、そして運命とは―！？これは、冒険を通じて大事な何かを「見つける」物語。</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/2-14_s10_p159/thumb001.png" />
 	</programme>
 	<programme channel="pokemon-2" start="20261128133000 +0000" stop="20261128163000 +0000">
 		<title>ポケットモンスター（2019） #58〜63【無料ビデオ1週間】</title>
@@ -15040,7 +15440,7 @@ SNSには書けない禁断の本音をテーマに、ゲストたちが赤裸�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-164_s0_p952/thumb001.png" />
 	</programme>
 	<programme channel="abema-news" start="20261126030000 +0000" stop="20261126040000 +0000">
-		<title>わたしとニュース～そのモヤモヤ、話せば世界が晴れるかも。～</title>
+		<title>わたしとニュース 愛子さまご訪問の舞台裏 #モヤハレ</title>
 		<desc>ニュースをもっと、身近に。
 日常で感じる「これって何で？」「ちょっと変だな」-そんなモヤモヤが、実はニュースの入り口かもしれません。社会や政治、そして暮らしの中の違和感をわたしたちの視点で語り尽くす新感覚の共感型ニュース番組。～そのモヤモヤ、話せば世界が晴れるかも。～</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-157_s0_p223/thumb001.png" />
@@ -16610,17 +17010,17 @@ SNSには書けない禁断の本音をテーマに、ゲストたちが赤裸�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p47136/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20261126000000 +0000" stop="20261126010000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>衆議院　政治改革に関する特別委員会｢議員削減法案を質疑｣</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p47137/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20261126010000 +0000" stop="20261126020000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>衆議院　政治改革に関する特別委員会｢議員削減法案を質疑｣</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p47138/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20261126020000 +0000" stop="20261126030000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>衆議院　政治改革に関する特別委員会｢議員削減法案を質疑｣</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p47139/thumb001.png" />
 	</programme>
@@ -16635,7 +17035,7 @@ SNSには書けない禁断の本音をテーマに、ゲストたちが赤裸�
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p47141/thumb001.png" />
 	</programme>
 	<programme channel="news-plus" start="20261126050000 +0000" stop="20261126060000 +0000">
-		<title>注目会見を逃さず生配信。最新ニュースも常時更新。</title>
+		<title>日銀・田村審議委員　会見</title>
 		<desc>会見映像が入り次第お送りします。</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/89-102_s0_p47142/thumb001.png" />
 	</programme>
@@ -31870,6 +32270,151 @@ vs 不可思</desc>
 モハメド ヨネ&amp;大原はじめ&amp;YO-HEY&amp;吉岡世起 vs 稲村愛輝&amp;宮脇純太&amp;岡田欣也&amp;矢野安崇</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/517-1_s180_p5/thumb001.png" />
 	</programme>
+	<programme channel="njpw" start="20261126040000 +0000" stop="20261126074500 +0000">
+		<title>レスリングどんたく 2026 4.25</title>
+		<desc>第0試合 松本達哉 vs 中原大誠 | 2026/4/25 WRESTLING REDZONE in HIROSHIMA 広島・広島サンプラザホール</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1863427777024375416/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261126074500 +0000" stop="20261126091500 +0000">
+		<title>辻陽太【2026年出場試合】</title>
+		<desc>第6試合 IWGP世界ヘビー級＆IWGP GLOBALヘビー級ダブル選手権試合 KONOSUKE TAKESHITA vs 辻陽太 | 2026/1/4 WRESTLE KINGDOM 20 in 東京ドーム 棚橋弘至引退 東京・東京ドーム</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1853381150165724419/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261126091500 +0000" stop="20261126130000 +0000">
+		<title>NEW YEAR DASH!! 2026 1.5</title>
+		<desc>第1試合 海野翔太＆上村優也＆村島克哉 vs 石井智宏＆タイチ＆小島聡 | 2026/1/5 NEW YEAR DASH!! 東京・大田区総合体育館</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1853470624163821395/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261126130000 +0000" stop="20261126154500 +0000">
+		<title>レスリングどんたく 2026 4.19</title>
+		<desc>第1試合 上村優也＆タイチ＆安田優虎 vs 田口隆祐＆YOH＆中原大誠 | 2026/4/19 Road to レスリングどんたく 2026 東京・後楽園ホール</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1862892469441729895/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261126154500 +0000" stop="20261126190000 +0000">
+		<title>辻陽太【2026年出場試合】</title>
+		<desc>第8試合 G1 CLIMAX 36 Aブロック公式戦 辻陽太 vs SANADA | 2026/7/21 G1 CLIMAX 36 宮城・仙台サンプラザホール</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1871324585767838162/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261126190000 +0000" stop="20261126230000 +0000">
+		<title>G1 CLIMAX35 2025 7.19</title>
+		<desc>第1試合 『G1 CLIMAX 35』Bブロック公式戦 YOSHI-HASHI vs 鷹木信悟 | 2025/7/19 G1 CLIMAX 35 北海道・北海道立総合体育センター 北海きたえーる</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1838062921942233710/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261126230000 +0000" stop="20261127020000 +0000">
+		<title>レスリングどんたく 2026 4.20</title>
+		<desc>第0試合 中原大誠 vs ジェイコブ・オースティン・ヤング | 2026/4/20 Road to レスリングどんたく 2026 東京・後楽園ホール</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1862980637560416458/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261127020000 +0000" stop="20261127040000 +0000">
+		<title>ゲイブ・キッド【2026年出場試合】</title>
+		<desc>第4試合 スペシャルシングルマッチ ゲイブ・キッド vs アンドラデ・エル・イドロ | 2026/2/11 THE NEW BEGINNING in OSAKA 大阪・大阪府立体育会館（エディオンアリーナ大阪）</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1856813860527429310/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261127040000 +0000" stop="20261127064000 +0000">
+		<title>レスリングどんたく 2026 4.24</title>
+		<desc>第1試合 真壁刀義＆本間朋晃＆中原大誠 vs タイチ＆田口隆祐＆安田優虎 | 2026/4/24 Road to レスリングどんたく 2026 愛媛・テクスポート今治</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1863346870981994663/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261127064000 +0000" stop="20261127101400 +0000">
+		<title>ゲイブ・キッド【2026年出場試合】</title>
+		<desc>第6試合 G1 CLIMAX 36 Bブロック公式戦 ウルフアロン vs ゲイブ・キッド | 2026/7/22 G1 CLIMAX 36 新潟・アオーレ長岡</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1871412842631634164/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261127101400 +0000" stop="20261127130000 +0000">
+		<title>THE NEW BEGINNING 2026</title>
+		<desc>第1試合 高橋ヒロム vs 安田優虎 | 2026/2/8 Road to THE NEW BEGINNING 大阪・大阪府立体育会館（エディオンアリーナ大阪）</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1856550960898420148/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261127130000 +0000" stop="20261127162700 +0000">
+		<title>旗揚げ記念日 2026</title>
+		<desc>第1試合 上村優也＆安田優虎 vs ドリラ・モロニー＆永井大貴 | 2026/3/6 旗揚げ記念日 東京・大田区総合体育館</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1858905530051202143/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261127162700 +0000" stop="20261127190000 +0000">
+		<title>上村優也【2026年出場試合】</title>
+		<desc>第7試合 NEW JAPAN CUP 2026 準決勝戦 上村優也 vs ボルチン・オレッグ | 2026/3/20 NEW JAPAN CUP 2026 新潟・アオーレ長岡</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1860175921398906658/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261127190000 +0000" stop="20261127230000 +0000">
+		<title>G1 CLIMAX35 2025 7.20</title>
+		<desc>第1試合 『G1 CLIMAX 35』Aブロック公式戦 棚橋弘至 vs カラム・ニューマン | 2025/7/20 G1 CLIMAX 35 北海道・北海道立総合体育センター 北海きたえーる</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1838142754822901375/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261127230000 +0000" stop="20261128014000 +0000">
+		<title>レスリングどんたく 2026 4.26</title>
+		<desc>第1試合 永井大貴 vs 中原大誠 | 2026/4/26 Road to レスリングどんたく 2026 山口・KDDI維新ホール</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1863520341165840990/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261128014000 +0000" stop="20261128040000 +0000">
+		<title>ザック・セイバーJr.【2026年出場試合】</title>
+		<desc>第6試合 スペシャルシングルマッチ YOSHI-HASHI vs ザック・セイバーJr. | 2026/2/2 Road to THE NEW BEGINNING 東京・後楽園ホール</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1856012937083545673/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261128040000 +0000" stop="20261128071500 +0000">
+		<title>レスリングどんたく 2026 4.29</title>
+		<desc>第1試合 海野翔太＆YOH＆マスター・ワト＆中原大誠 vs チェーズ・オーエンズ＆高橋裕二郎＆SHO＆金丸義信 | 2026/4/29 Road to レスリングどんたく 2026 ～レスリング肥前の国～ 佐賀・SAGAアリーナ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1863792709513479149/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261128071500 +0000" stop="20261128101500 +0000">
+		<title>ザック・セイバーJr.【2026年出場試合】</title>
+		<desc>第9試合 G1 CLIMAX 36 Bブロック公式戦 ザック・セイバーJr. vs ゲイブ・キッド | 2026/7/26 G1 CLIMAX 36 東京・EBARA WAVE アリーナおおた（大田区総合体育館）</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1871767476175633361/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261128101500 +0000" stop="20261128130000 +0000">
+		<title>NJPW PRESENTS CMLL FANTASTICA MANIA 2026</title>
+		<desc>第1試合 FANTASTICA MANIA 2026 タッグトーナメント1回戦 フトゥーロ＆バリエンテ・ジュニア vs イホ・デ・ストゥーカ・ジュニア＆嘉藤匠馬 | 2026/2/18 CMLL FANTASTICA MANIA 2026 東京・国立代々木競技場</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1857456752109857890/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261128130000 +0000" stop="20261128163000 +0000">
+		<title>NEW JAPAN CUP 2026 3.20</title>
+		<desc>第1試合 田口隆祐＆中原大誠 vs 高橋裕二郎＆チェーズ・オーエンズ | 2026/3/20 NEW JAPAN CUP 2026 新潟・アオーレ長岡</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1860168790092050702/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261128163000 +0000" stop="20261128190000 +0000">
+		<title>YOH【2026年出場試合】</title>
+		<desc>第8試合 IWGPジュニアヘビー級選手権試合 YOH vs DOUKI | 2026/4/2 Road to SAKURA GENESIS 2026 東京・後楽園ホール</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1861360729862644431/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261128190000 +0000" stop="20261128220000 +0000">
+		<title>G1 CLIMAX35 2025 7.22</title>
+		<desc>第1試合 YOSHI-HASHI＆嘉藤匠馬 vs ドリラ・モロニー＆石森太二 | 2025/7/22 G1 CLIMAX 35 宮城・仙台サンプラザホール</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1838340231927864122/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261128220000 +0000" stop="20261128230000 +0000">
+		<title>エチセロ【2026年出場試合】</title>
+		<desc>第2試合 ゼイン・ジェイ vs エチセロ | 2026/2/18 CMLL FANTASTICA MANIA 2026 東京・国立代々木競技場</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1857457617401108877/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261128230000 +0000" stop="20261129040000 +0000">
+		<title>THE NEW BEGINNING in OSAKA 2025 2.11</title>
+		<desc>第0試合 エル・デスペラード＆村島克哉 vs フランシスコ・アキラ＆ジェフ・コブ | 2025/2/11 THE NEW BEGINNING in OSAKA 大阪・大阪府立体育会館（エディオンアリーナ大阪）</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1823739637120468768/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261129040000 +0000" stop="20261129081000 +0000">
+		<title>レスリングどんたく 2026 5.3</title>
+		<desc>第1試合 矢野通＆YOH＆マスター・ワト vs タイガーマスク＆田口隆祐＆中原大誠 | 2026/5/3 レスリングどんたく 2026 福岡・福岡国際センター</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1864158500065880644/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261129081000 +0000" stop="20261129100000 +0000">
+		<title>YOH【2026年出場試合】</title>
+		<desc>第7試合 BEST OF THE SUPER Jr.33 Bブロック公式戦 KUSHIDA vs YOH | 2026/5/27 BEST OF THE SUPER Jr.33 静岡・キラメッセぬまづ</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1866340697837556115/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261129100000 +0000" stop="20261129130000 +0000">
+		<title>BEST OF THE SUPER Jr.33 2026 6.5</title>
+		<desc>第1試合 タイガーマスク＆中原大誠 vs バリエンテ・ジュニア＆松本達哉 | 2026/6/5 BEST OF THE SUPER Jr.33 群馬・Gメッセ群馬</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1867150357615192461/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261129130000 +0000" stop="20261129162000 +0000">
+		<title>NEW JAPAN CUP 2026 3.21</title>
+		<desc>第1試合 NJPW WORLD認定TV選手権試合 オープンチャレンジ KONOSUKE TAKESHITA vs ？ | 2026/3/21 NEW JAPAN CUP 2026 新潟・アオーレ長岡</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1860251612063553573/thumb001.png" />
+	</programme>
+	<programme channel="njpw" start="20261129162000 +0000" stop="20261129190000 +0000">
+		<title>YOH【2026年出場試合】</title>
+		<desc>第8試合 IWGPジュニアヘビー級選手権試合 YOH vs DOUKI | 2026/6/14 DOMINION 6.14 in OSAKA-JO HALL 大阪・大阪城ホール</desc>
+		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/nj_1867968036680837503/thumb001.png" />
+	</programme>
 	<programme channel="hiphop" start="20261118120000 +0000" stop="20261118160000 +0000">
 		<title>【再放送】フリースタイル日本統一：#37~#45</title>
 		<desc>ラップバトル番組史上初!地元を背負ったラッパーたちが天下統一を目指す新番組『フリースタイル日本統一』
@@ -37157,7 +37702,7 @@ https://www.winticket.jp/keirin/hiratsuka/predictions/
 https://www.winticket.jp/keirin/hiratsuka/racecard/2026112735/races?index=3</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-2_s1_p2807/thumb001.png" />
 	</programme>
-	<programme channel="keirin-auto" start="20261129074000 +0000" stop="20261129113000 +0000">
+	<programme channel="keirin-auto" start="20261129074000 +0000" stop="20261129120000 +0000">
 		<title>オートレース 伊勢崎 最終日（ナイター）</title>
 		<desc>全レース「WINTICKET」で投票可能!
 全競輪場のレースやオートレースのライブ映像をどの端末からでも無料で楽しめます。
@@ -37173,11 +37718,22 @@ https://www.winticket.jp/autorace/isesaki/
 https://www.winticket.jp/autorace/isesaki/racecard/2026112603?index=4</desc>
 		<icon src="https://image.p-c2-x.abema-tv.com/image/programs/477-3_s1_p2802/thumb001.png" />
 	</programme>
-	<programme channel="keirin-auto" start="20261129113000 +0000" stop="20261129144500 +0000">
-		<title>オートレース 飯塚 最終日</title>
-		<desc>全レース「WINTICKET」で投票可能!
+	<programme channel="keirin-auto" start="20261129120000 +0000" stop="20261129160000 +0000">
+		<title>WINTICKET ミッドナイトオートレース ～飯塚・最終日～</title>
+		<desc>ミッドナイト競輪がない日は、オートレース！
+初心者に向けて「予想の仕方」や「その魅力」など、オートに関するあらゆる知識を伝授します！
+
+そして、今年8月に結婚を発表した佐々木悠葵選手＆天木じゅんさんが特別出演！
+WINTICKETだから実現した夫婦共演をお楽しみに！
+
+新婚の2人への質問を大募集中！
+https://forms.gle/ZQNaRTTbH6CYTdMW9
+〜〜〜〜
+
+普段は競輪しかしないという方もこの機会に是非、佐々木悠葵選手＆天木じゅんさんと一緒にオートレースを楽しもう！
+
+全レース「WINTICKET」で投票可能！
 全競輪場のレースやオートレースのライブ映像をどの端末からでも無料で楽しめます。
-さらに、ミッドナイト時間帯にはオリジナル番組「WINTICKETミッドナイト競輪」を放送!
 
 WINTICKETとは競輪・オートレースのネット投票・ライブ映像の視聴・精算が可能なインターネット投票サービスです。
 
